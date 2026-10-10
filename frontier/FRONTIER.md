@@ -1,41 +1,44 @@
-# Frontier $C_n^3$, n=1..30 — provisional S001 (2026-10-10)
+# S002 — Frontier audit of C_n^3, n=1..30 (2026-10-10)
 
-Lower bound $D^*=3n-2$ is proved in [FOUNDATIONS](../research/FOUNDATIONS.md). Status names have evidence tiers: **SETTLED** uses established p-group theorem (source stated); **SANDWICHED** is only a provisional, inherited off-by-one bound not yet independently proved here; **UNKNOWN** means this repo has not authenticated an exact value, **not** a declaration that the case is open in current literature. n=1 is a degenerate trivial group, not genuinely rank 3.
+The lower bound \(D^*=3n-2\) is independently proved in research/FOUNDATIONS.md. **SETTLED** below means exact by *primary SOURCE_STATED* Olson p-group theorem, not programme formalisation. **SANDWICHED** means an independently written deduction of a lower/upper *interval*, conditional on primary SOURCE_STATED multiwise input where used, not an exact value. No composite case is certified or claimed settled; no 'UNKNOWN' label implies an external mathematical open problem.
 
-| n | D* | Provisional status | Evidence |
-|---:|---:|---|---|
-| 1 | 1 | SETTLED | trivial |
-| 2 | 4 | SETTLED | p-group, SRC-0001 / SRC-0003 |
-| 3 | 7 | SETTLED | p-group, SRC-0001 / SRC-0003 |
-| 4 | 10 | SETTLED | p-group, SRC-0001 / SRC-0003 |
-| 5 | 13 | SETTLED | p-group, SRC-0001 / SRC-0003 |
-| 6 | 16 | SANDWICHED | inherited off-by-one CLM-0024..0026; not certified |
-| 7 | 19 | SETTLED | p-group, SRC-0001 / SRC-0003 |
-| 8 | 22 | SETTLED | p-group, SRC-0001 / SRC-0003 |
-| 9 | 25 | SETTLED | p-group, SRC-0001 / SRC-0003 |
-| 10 | 28 | SANDWICHED | inherited off-by-one CLM-0024..0026; not certified |
-| 11 | 31 | SETTLED | p-group, SRC-0001 / SRC-0003 |
-| 12 | 34 | SANDWICHED | inherited off-by-one CLM-0024..0026; not certified |
-| 13 | 37 | SETTLED | p-group, SRC-0001 / SRC-0003 |
-| 14 | 40 | SANDWICHED | inherited off-by-one CLM-0024..0026; not certified |
-| 15 | 43 | SANDWICHED | inherited off-by-one CLM-0024..0026; not certified |
-| 16 | 46 | SETTLED | p-group, SRC-0001 / SRC-0003 |
-| 17 | 49 | SETTLED | p-group, SRC-0001 / SRC-0003 |
-| 18 | 52 | SANDWICHED | inherited off-by-one CLM-0024..0026; not certified |
-| 19 | 55 | SETTLED | p-group, SRC-0001 / SRC-0003 |
-| 20 | 58 | UNKNOWN | no verified narrow bound |
-| 21 | 61 | SANDWICHED | inherited off-by-one CLM-0024..0026; not certified |
-| 22 | 64 | SANDWICHED | inherited off-by-one CLM-0024..0026; not certified |
-| 23 | 67 | SETTLED | p-group, SRC-0001 / SRC-0003 |
-| 24 | 70 | SANDWICHED | inherited off-by-one CLM-0024..0026; not certified |
-| 25 | 73 | SETTLED | p-group, SRC-0001 / SRC-0003 |
-| 26 | 76 | SANDWICHED | inherited off-by-one CLM-0024..0026; not certified |
-| 27 | 79 | SETTLED | p-group, SRC-0001 / SRC-0003 |
-| 28 | 82 | UNKNOWN | no verified narrow bound |
-| 29 | 85 | SETTLED | p-group, SRC-0001 / SRC-0003 |
-| 30 | 88 | UNKNOWN | no verified narrow bound |
+**S002 correction:** the 2007 Bhowmik–Schlage-Puchta Proposition 1 reads \(D_k(C_3^3)=3k+6\) for \(k\ge3\), giving \(D_3=15,D_4=18\), not the inherited 14/17. The old tripling \(+5\) upper estimate cannot be derived; valid sourced tripling estimate is \(+6\). The source-reported Grinsztajn universal \(4n-P(n)-2\) bound is a supplemental theorem claim with conditional Lean axioms, not used to sharpen the table.
 
-## First campaign target (not started)
-$n=6$: expected $D^*=16$; inherited $D\le17$, inherited $D_4(C_3^3)=17$, and inherited 5553 GL(3,3) extremal orbits. These are **not** reproduced or certified in S001. Skeleton–lift is registered as PROPOSED only. In n=10 the 2026 primary abstract reports $D_4(C_5^3)=30$, invalidating the hypothetical 28-based shortcut; the inherited $D\le29$ is still unproved in this repository.
+| n | D* | Classification | Audited D interval | Upper-bound reason |
+|---:|---:|---|---|---|
+| 1 | 1 | SETTLED | 1 | trivial |
+| 2 | 4 | SETTLED | 4 | Olson p-group, SRC-0003 |
+| 3 | 7 | SETTLED | 7 | Olson p-group, SRC-0003 |
+| 4 | 10 | SETTLED | 10 | Olson p-group, SRC-0003 |
+| 5 | 13 | SETTLED | 13 | Olson p-group, SRC-0003 |
+| 6 | 16 | SANDWICHED | 16..17 | 2D(C3^3)+3 = 17; source-stated Olson 7 and programme-proved C2 multiwise |
+| 7 | 19 | SETTLED | 19 | Olson p-group, SRC-0003 |
+| 8 | 22 | SETTLED | 22 | Olson p-group, SRC-0003 |
+| 9 | 25 | SETTLED | 25 | Olson p-group, SRC-0003 |
+| 10 | 28 | SANDWICHED | 28..29 | 2D(C5^3)+3 = 29 |
+| 11 | 31 | SETTLED | 31 | Olson p-group, SRC-0003 |
+| 12 | 34 | SANDWICHED | 34..36 | 3D(C4^3)+6 = 36; NOT 35 |
+| 13 | 37 | SETTLED | 37 | Olson p-group, SRC-0003 |
+| 14 | 40 | SANDWICHED | 40..41 | 2D(C7^3)+3 = 41 |
+| 15 | 43 | SANDWICHED | 43..45 | 3D(C5^3)+6 = 45; NOT 44 |
+| 16 | 46 | SETTLED | 46 | Olson p-group, SRC-0003 |
+| 17 | 49 | SETTLED | 49 | Olson p-group, SRC-0003 |
+| 18 | 52 | SANDWICHED | 52..53 | 2D(C9^3)+3 = 53 |
+| 19 | 55 | SETTLED | 55 | Olson p-group, SRC-0003 |
+| 20 | 58 | SANDWICHED | 58..61 | 2D(C10^3)+3 <= 61 |
+| 21 | 61 | SANDWICHED | 61..63 | 3D(C7^3)+6 = 63; NOT 62 |
+| 22 | 64 | SANDWICHED | 64..65 | 2D(C11^3)+3 = 65 |
+| 23 | 67 | SETTLED | 67 | Olson p-group, SRC-0003 |
+| 24 | 70 | SANDWICHED | 70..72 | 3D(C8^3)+6 = 72; NOT 71 |
+| 25 | 73 | SETTLED | 73 | Olson p-group, SRC-0003 |
+| 26 | 76 | SANDWICHED | 76..77 | 2D(C13^3)+3 = 77 |
+| 27 | 79 | SETTLED | 79 | Olson p-group, SRC-0003 |
+| 28 | 82 | SANDWICHED | 82..85 | 2D(C14^3)+3 <= 85 |
+| 29 | 85 | SETTLED | 85 | Olson p-group, SRC-0003 |
+| 30 | 88 | SANDWICHED | 88..93 | min(2D(C15^3)+3,3D(C10^3)+6) <= 93 |
 
-The source-reported 2026 Grinsztajn upper bound needs direct proof inspection before upgrading any entry. No exhaustive enumeration or search was run.
+## Phase-2 entry target: n=6 (PROPOSED only)
+
+At n=6, 16≤D(C6^3)≤17, independently deduced in [S002_INDUCTIVE_PROOFS](../research/S002_INDUCTIVE_PROOFS.md). The existence or absence of a 16-term zero-sumfree sequence is not established. An n=6 skeleton must admit at most three disjoint mod-3 zero sums, but the inherited 5553 orbit count is unverified and the previously assumed multiwise thresholds were wrong. Any enumeration/orbit reduction requires independent proof **after Phase-1 PASS and Phase-2 authorization**. No campaigns or searches executed here.
+
+For n=10, Yiu's 2026 abstract reports D4(C5^3)=30, ruling out the inherited antecedent D4=28. Our upper 29 comes instead from the proved binary multiwise deduction and Olson D(C5^3)=13. The new primary Grinsztajn statement is not a pointwise resolution.

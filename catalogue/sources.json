@@ -15,7 +15,7 @@
       "url": "https://doi.org/10.1016/0022-314X(69)90021-3",
       "access": "ABSTRACT_INSPECTED",
       "accessed": "2026-10-10",
-      "notes": "Primary JNT abstract explicitly says p-group question answered; exact equality independently reported in Gao-Geroldinger survey (survey not read directly)."
+      "notes": "Olson original JNT abstract inspected in S001; exact p-group equality now independently source-stated in the primary Gao-Geroldinger 2006 survey Theorem 3.1 (SRC-0003), not an Olson full-proof inspection."
     },
     {
       "id": "SRC-0002",
@@ -30,10 +30,10 @@
       "id": "SRC-0003",
       "title": "Gao–Geroldinger, Zero-sum problems in finite abelian groups: a survey",
       "year": "2006",
-      "url": "https://doi.org/10.1016/j.exmath.2006.07.002",
-      "access": "SECONDARY_ONLY",
+      "url": "https://cfc.nankai.edu.cn/_upload/article/files/c6/e1/a2c52bf04b1896f59003b5993582/5c9e49ea-af5b-44ac-b153-5dbb6d8ae9a3.pdf",
+      "access": "STATEMENT_INSPECTED",
       "accessed": "2026-10-10",
-      "notes": "Conjecture 3.5 quote and theorem 3.1 located by third-party secondary page; primary survey not read."
+      "notes": "Original Gao-Geroldinger survey PDF pp.5-6 directly inspected: Thm 3.1 d=d* for p-groups/rank<=2, Conj 3.5 rank 3, definitions d=D-1; screenshots viewed. Proof of Olson theorem not rechecked."
     },
     {
       "id": "SRC-0004",
@@ -48,10 +48,10 @@
       "id": "SRC-0005",
       "title": "Girard–Schmid, Direct zero-sum problems for certain groups of rank three",
       "year": "2018/2019",
-      "url": "https://arxiv.org/abs/1806.07636",
-      "access": "ABSTRACT_INSPECTED",
+      "url": "https://arxiv.org/html/1806.07636v2",
+      "access": "STATEMENT_INSPECTED",
       "accessed": "2026-10-10",
-      "notes": "Abstract concerns C2 ⊕ C_n2 ⊕ C_n3 and multiwise constants, not C_n^3."
+      "notes": "Girard-Schmid original v2 HTML abstract, introduction and Theorem 2.7 inspected: direct multiwise/eta results apply to C2 ⊕ C_n2 ⊕ C_n3 with 2|n2|n3; first invariant 2, not C6^3."
     },
     {
       "id": "SRC-0006",
@@ -75,10 +75,10 @@
       "id": "SRC-0008",
       "title": "Bhowmik–Schlage-Puchta, Davenport's constant for groups of the form Z3 ⊕ Z3 ⊕ Z3d",
       "year": "2007",
-      "url": "https://www.ams.org/books/crmp/043/",
-      "access": "METADATA_ONLY",
+      "url": "https://www.mathematik.uni-rostock.de/storages/uni-rostock/Alle_MNF/Mathematik/Struktur/Lehrstuehle/Algebra/papers/Davenport333d.pdf",
+      "access": "STATEMENT_INSPECTED",
       "accessed": "2026-10-10",
-      "notes": "CRM Proc Lecture Notes vol 43 pp 307–326; claimed formula requires direct theorem inspection."
+      "notes": "Bhowmik-Schlage-Puchta original PDF pp.1,3,9,19 directly inspected: Thm 1 D(C3 ⊕ C3 ⊕ C3d)=3d+4; Proposition 1 D2(C3^3)=11 and Dk(C3^3)=3k+6 for k>=3. NB typesetting D^3 means zero sums of length 3, distinct from multiwise D_3. Thesis SRC-0013 describes proof reconstruction."
     },
     {
       "id": "SRC-0009",
@@ -120,10 +120,10 @@
       "id": "SRC-0013",
       "title": "Royal Holloway thesis on C3⊕C3⊕C3d proof reconstruction",
       "year": "unknown",
-      "url": "https://pure.royalholloway.ac.uk/",
-      "access": "METADATA_ONLY",
+      "url": "https://pure.royalholloway.ac.uk/en/publications/the-davenport-constant-of-finite-abelian-groups/",
+      "access": "STATEMENT_INSPECTED",
       "accessed": "2026-10-10",
-      "notes": "Identity of thesis/author still unresolved; do not state proof criticisms as verified."
+      "notes": "Aleen Sheikh, Royal Holloway doctoral thesis (2017) identified via primary university record; linked thesis Chapter 4 direct excerpt discusses potential gaps and supplies a reconstruction. Treat as scholarly caution, not as proof formula is false."
     },
     {
       "id": "SRC-0014",
@@ -141,16 +141,16 @@
       "url": "https://arxiv.org/abs/2609.04950",
       "access": "ABSTRACT_INSPECTED",
       "accessed": "2026-10-10",
-      "notes": "Primary abstract: D4(C5^3)=30, Dk(C5^3)=5k+10 (k>=2); report not independently checked."
+      "notes": "Yiu original arXiv record/abstract dated 2026-09-04 inspected via indexed arXiv metadata: claims D4(C5^3)=30 and Dk=5k+10 (k>=2), with finite computer-assisted argument. Full proof and associated code not run/inspected."
     },
     {
       "id": "SRC-0016",
       "title": "Grinsztajn, An upper bound for the Davenport constant of C_n^3",
       "year": "2026",
       "url": "https://github.com/maaxgrin/davenport-cn3-bound",
-      "access": "SECONDARY_ONLY",
+      "access": "STATEMENT_INSPECTED",
       "accessed": "2026-10-10",
-      "notes": "Secondary teorth summary reports D(C_n^3)<=4n-P(n)-2; proof itself not read."
+      "notes": "Original author GitHub README and Lean source inspected on 2026-10-10 (tree 848b081e40ecd769017a6199ebcb4e31fe125483). Claims written PDF proof of D(Cn^3)<=4n-P(n)-2 and conditional Lean 4 derivation; external Olson, Freeze-Schmid and Bhowmik-Schlage-Puchta zero-sum results are explicit AXIOMS, not kernel-proved in repo. PDF proof not itself read, Lean build not run; do not claim fully formalized theorem."
     },
     {
       "id": "SRC-0017",
@@ -168,7 +168,25 @@
       "url": "https://teorth.github.io/optimizationproblems/constants/53a.html",
       "access": "SECONDARY_ONLY",
       "accessed": "2026-10-10",
-      "notes": "Secondary compilation: identifies Gao–Geroldinger Conjecture 3.5, and recent Grinsztajn bound."
+      "notes": "Tao/optimization problem secondary summary consulted to find Grinsztajn; primary author README/Lean source separately inspected as SRC-0016. Secondary description alone not a mathematical certificate."
+    },
+    {
+      "id": "SRC-0019",
+      "title": "Bhowmik–Schlage-Puchta, Davenport's constant for groups of the form Z3⊕Z3⊕Z3d (original PDF mirror)",
+      "year": "2007",
+      "url": "https://www.mathematik.uni-rostock.de/storages/uni-rostock/Alle_MNF/Mathematik/Struktur/Lehrstuehle/Algebra/papers/Davenport333d.pdf",
+      "access": "STATEMENT_INSPECTED",
+      "accessed": "2026-10-10",
+      "notes": "Direct author-paper PDF cross-reference for SRC-0008: page 3 Proposition 1 prints multiwise D_k(C3^3)=3k+6 for k>=3; 2007 formula 3d+4, applies to C3⊕C3⊕C3d, not C6^3."
+    },
+    {
+      "id": "SRC-0020",
+      "title": "Sheikh, The Davenport Constant of Finite Abelian Groups (doctoral thesis)",
+      "year": "2017",
+      "url": "https://pure.royalholloway.ac.uk/en/publications/the-davenport-constant-of-finite-abelian-groups/",
+      "access": "STATEMENT_INSPECTED",
+      "accessed": "2026-10-10",
+      "notes": "Primary university metadata identifies Aleen Sheikh and Chapter 4 excerpt of thesis discusses correcting possible gaps in 2007 proof; no independent adjudication of full proof."
     }
   ]
 }

@@ -6,403 +6,464 @@
     "SANDWICHED",
     "UNKNOWN"
   ],
-  "notation": "provisional_status tracks historical/theorem evidence; programme_certification independently records unproven inherited bounds",
+  "notation": "S002 VERIFIED DEDUCTION intervals: every upper bound obtained by a complete programme deduction from independent C2^3 theorem and/or SOURCE_STATED Bhowmik-Schlage-Puchta C3^3 multiwise theorem and Olson p-group theorem; no composite exact value certified. SOURCE_STATED does not mean proof formalized.",
   "rows": [
     {
       "n": 1,
       "group": "C_1^3",
       "d_star": 1,
       "provisional_status": "SETTLED",
-      "programme_certification": "LITERATURE_THEOREM",
+      "programme_certification": "PROGRAMME_PROVED_TRIVIAL",
       "reported_bound": "1",
       "evidence": [
         "TRIVIAL_GROUP"
       ],
-      "notes": "Degenerate rank-zero exception, separate from rank-three conjecture."
+      "notes": "Trivial group D=1, proved from definition; exceptional rank zero."
     },
     {
       "n": 2,
       "group": "C_2^3",
       "d_star": 4,
       "provisional_status": "SETTLED",
-      "programme_certification": "LITERATURE_THEOREM",
+      "programme_certification": "SOURCE_STATED_P_GROUP_THEOREM",
       "reported_bound": "4",
       "evidence": [
         "SRC-0001",
-        "SRC-0003"
+        "SRC-0003",
+        "CLM-0039"
       ],
-      "notes": ""
+      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here."
     },
     {
       "n": 3,
       "group": "C_3^3",
       "d_star": 7,
       "provisional_status": "SETTLED",
-      "programme_certification": "LITERATURE_THEOREM",
+      "programme_certification": "SOURCE_STATED_P_GROUP_THEOREM",
       "reported_bound": "7",
       "evidence": [
         "SRC-0001",
-        "SRC-0003"
+        "SRC-0003",
+        "CLM-0039"
       ],
-      "notes": ""
+      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here."
     },
     {
       "n": 4,
       "group": "C_4^3",
       "d_star": 10,
       "provisional_status": "SETTLED",
-      "programme_certification": "LITERATURE_THEOREM",
+      "programme_certification": "SOURCE_STATED_P_GROUP_THEOREM",
       "reported_bound": "10",
       "evidence": [
         "SRC-0001",
-        "SRC-0003"
+        "SRC-0003",
+        "CLM-0039"
       ],
-      "notes": ""
+      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here."
     },
     {
       "n": 5,
       "group": "C_5^3",
       "d_star": 13,
       "provisional_status": "SETTLED",
-      "programme_certification": "LITERATURE_THEOREM",
+      "programme_certification": "SOURCE_STATED_P_GROUP_THEOREM",
       "reported_bound": "13",
       "evidence": [
         "SRC-0001",
-        "SRC-0003"
+        "SRC-0003",
+        "CLM-0039"
       ],
-      "notes": ""
+      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here."
     },
     {
       "n": 6,
       "group": "C_6^3",
       "d_star": 16,
       "provisional_status": "SANDWICHED",
-      "programme_certification": "UNKNOWN_PENDING_INDEPENDENT_UPPER_BOUND",
+      "programme_certification": "PROGRAMME_DERIVED_INTERVAL_FROM_SOURCE_THEOREMS",
       "reported_bound": "16..17",
       "evidence": [
-        "CLM-0024",
-        "CLM-0025",
-        "CLM-0026"
+        "CLM-0038",
+        "CLM-0047",
+        "CLM-0048",
+        "CLM-0049",
+        "CLM-0050",
+        "CLM-0051"
       ],
-      "notes": "First proposed target; no skeleton/lift computation executed in S001."
+      "notes": "2D(C3^3)+3 = 17; source-stated Olson 7 and programme-proved C2 multiwise. Not an exact determination; no published individual-n proof inferred from literature search."
     },
     {
       "n": 7,
       "group": "C_7^3",
       "d_star": 19,
       "provisional_status": "SETTLED",
-      "programme_certification": "LITERATURE_THEOREM",
+      "programme_certification": "SOURCE_STATED_P_GROUP_THEOREM",
       "reported_bound": "19",
       "evidence": [
         "SRC-0001",
-        "SRC-0003"
+        "SRC-0003",
+        "CLM-0039"
       ],
-      "notes": ""
+      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here."
     },
     {
       "n": 8,
       "group": "C_8^3",
       "d_star": 22,
       "provisional_status": "SETTLED",
-      "programme_certification": "LITERATURE_THEOREM",
+      "programme_certification": "SOURCE_STATED_P_GROUP_THEOREM",
       "reported_bound": "22",
       "evidence": [
         "SRC-0001",
-        "SRC-0003"
+        "SRC-0003",
+        "CLM-0039"
       ],
-      "notes": ""
+      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here."
     },
     {
       "n": 9,
       "group": "C_9^3",
       "d_star": 25,
       "provisional_status": "SETTLED",
-      "programme_certification": "LITERATURE_THEOREM",
+      "programme_certification": "SOURCE_STATED_P_GROUP_THEOREM",
       "reported_bound": "25",
       "evidence": [
         "SRC-0001",
-        "SRC-0003"
+        "SRC-0003",
+        "CLM-0039"
       ],
-      "notes": ""
+      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here."
     },
     {
       "n": 10,
       "group": "C_10^3",
       "d_star": 28,
       "provisional_status": "SANDWICHED",
-      "programme_certification": "UNKNOWN_PENDING_INDEPENDENT_UPPER_BOUND",
+      "programme_certification": "PROGRAMME_DERIVED_INTERVAL_FROM_SOURCE_THEOREMS",
       "reported_bound": "28..29",
       "evidence": [
-        "CLM-0024",
-        "CLM-0025",
-        "CLM-0026"
+        "CLM-0038",
+        "CLM-0047",
+        "CLM-0048",
+        "CLM-0049",
+        "CLM-0050",
+        "CLM-0051"
       ],
-      "notes": "C5^3 D4=30 is source-reported in SRC-0015; proposed D4=28 conditional route does not apply."
+      "notes": "2D(C5^3)+3 = 29. Not an exact determination; no published individual-n proof inferred from literature search."
     },
     {
       "n": 11,
       "group": "C_11^3",
       "d_star": 31,
       "provisional_status": "SETTLED",
-      "programme_certification": "LITERATURE_THEOREM",
+      "programme_certification": "SOURCE_STATED_P_GROUP_THEOREM",
       "reported_bound": "31",
       "evidence": [
         "SRC-0001",
-        "SRC-0003"
+        "SRC-0003",
+        "CLM-0039"
       ],
-      "notes": ""
+      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here."
     },
     {
       "n": 12,
       "group": "C_12^3",
       "d_star": 34,
       "provisional_status": "SANDWICHED",
-      "programme_certification": "UNKNOWN_PENDING_INDEPENDENT_UPPER_BOUND",
-      "reported_bound": "34..35",
+      "programme_certification": "PROGRAMME_DERIVED_INTERVAL_FROM_SOURCE_THEOREMS",
+      "reported_bound": "34..36",
       "evidence": [
-        "CLM-0024",
-        "CLM-0025",
-        "CLM-0026"
+        "CLM-0038",
+        "CLM-0047",
+        "CLM-0048",
+        "CLM-0049",
+        "CLM-0050",
+        "CLM-0051"
       ],
-      "notes": ""
+      "notes": "3D(C4^3)+6 = 36; NOT 35. Not an exact determination; no published individual-n proof inferred from literature search."
     },
     {
       "n": 13,
       "group": "C_13^3",
       "d_star": 37,
       "provisional_status": "SETTLED",
-      "programme_certification": "LITERATURE_THEOREM",
+      "programme_certification": "SOURCE_STATED_P_GROUP_THEOREM",
       "reported_bound": "37",
       "evidence": [
         "SRC-0001",
-        "SRC-0003"
+        "SRC-0003",
+        "CLM-0039"
       ],
-      "notes": ""
+      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here."
     },
     {
       "n": 14,
       "group": "C_14^3",
       "d_star": 40,
       "provisional_status": "SANDWICHED",
-      "programme_certification": "UNKNOWN_PENDING_INDEPENDENT_UPPER_BOUND",
+      "programme_certification": "PROGRAMME_DERIVED_INTERVAL_FROM_SOURCE_THEOREMS",
       "reported_bound": "40..41",
       "evidence": [
-        "CLM-0024",
-        "CLM-0025",
-        "CLM-0026"
+        "CLM-0038",
+        "CLM-0047",
+        "CLM-0048",
+        "CLM-0049",
+        "CLM-0050",
+        "CLM-0051"
       ],
-      "notes": ""
+      "notes": "2D(C7^3)+3 = 41. Not an exact determination; no published individual-n proof inferred from literature search."
     },
     {
       "n": 15,
       "group": "C_15^3",
       "d_star": 43,
       "provisional_status": "SANDWICHED",
-      "programme_certification": "UNKNOWN_PENDING_INDEPENDENT_UPPER_BOUND",
-      "reported_bound": "43..44",
+      "programme_certification": "PROGRAMME_DERIVED_INTERVAL_FROM_SOURCE_THEOREMS",
+      "reported_bound": "43..45",
       "evidence": [
-        "CLM-0024",
-        "CLM-0025",
-        "CLM-0026"
+        "CLM-0038",
+        "CLM-0047",
+        "CLM-0048",
+        "CLM-0049",
+        "CLM-0050",
+        "CLM-0051"
       ],
-      "notes": ""
+      "notes": "3D(C5^3)+6 = 45; NOT 44. Not an exact determination; no published individual-n proof inferred from literature search."
     },
     {
       "n": 16,
       "group": "C_16^3",
       "d_star": 46,
       "provisional_status": "SETTLED",
-      "programme_certification": "LITERATURE_THEOREM",
+      "programme_certification": "SOURCE_STATED_P_GROUP_THEOREM",
       "reported_bound": "46",
       "evidence": [
         "SRC-0001",
-        "SRC-0003"
+        "SRC-0003",
+        "CLM-0039"
       ],
-      "notes": ""
+      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here."
     },
     {
       "n": 17,
       "group": "C_17^3",
       "d_star": 49,
       "provisional_status": "SETTLED",
-      "programme_certification": "LITERATURE_THEOREM",
+      "programme_certification": "SOURCE_STATED_P_GROUP_THEOREM",
       "reported_bound": "49",
       "evidence": [
         "SRC-0001",
-        "SRC-0003"
+        "SRC-0003",
+        "CLM-0039"
       ],
-      "notes": ""
+      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here."
     },
     {
       "n": 18,
       "group": "C_18^3",
       "d_star": 52,
       "provisional_status": "SANDWICHED",
-      "programme_certification": "UNKNOWN_PENDING_INDEPENDENT_UPPER_BOUND",
+      "programme_certification": "PROGRAMME_DERIVED_INTERVAL_FROM_SOURCE_THEOREMS",
       "reported_bound": "52..53",
       "evidence": [
-        "CLM-0024",
-        "CLM-0025",
-        "CLM-0026"
+        "CLM-0038",
+        "CLM-0047",
+        "CLM-0048",
+        "CLM-0049",
+        "CLM-0050",
+        "CLM-0051"
       ],
-      "notes": ""
+      "notes": "2D(C9^3)+3 = 53. Not an exact determination; no published individual-n proof inferred from literature search."
     },
     {
       "n": 19,
       "group": "C_19^3",
       "d_star": 55,
       "provisional_status": "SETTLED",
-      "programme_certification": "LITERATURE_THEOREM",
+      "programme_certification": "SOURCE_STATED_P_GROUP_THEOREM",
       "reported_bound": "55",
       "evidence": [
         "SRC-0001",
-        "SRC-0003"
+        "SRC-0003",
+        "CLM-0039"
       ],
-      "notes": ""
+      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here."
     },
     {
       "n": 20,
       "group": "C_20^3",
       "d_star": 58,
-      "provisional_status": "UNKNOWN",
-      "programme_certification": "NONE",
-      "reported_bound": ">=58; upper unverified",
+      "provisional_status": "SANDWICHED",
+      "programme_certification": "PROGRAMME_DERIVED_INTERVAL_FROM_SOURCE_THEOREMS",
+      "reported_bound": "58..61",
       "evidence": [
-        "CLM-0001"
+        "CLM-0038",
+        "CLM-0047",
+        "CLM-0048",
+        "CLM-0049",
+        "CLM-0050",
+        "CLM-0051"
       ],
-      "notes": ""
+      "notes": "2D(C10^3)+3 <= 61. Not an exact determination; no published individual-n proof inferred from literature search."
     },
     {
       "n": 21,
       "group": "C_21^3",
       "d_star": 61,
       "provisional_status": "SANDWICHED",
-      "programme_certification": "UNKNOWN_PENDING_INDEPENDENT_UPPER_BOUND",
-      "reported_bound": "61..62",
+      "programme_certification": "PROGRAMME_DERIVED_INTERVAL_FROM_SOURCE_THEOREMS",
+      "reported_bound": "61..63",
       "evidence": [
-        "CLM-0024",
-        "CLM-0025",
-        "CLM-0026"
+        "CLM-0038",
+        "CLM-0047",
+        "CLM-0048",
+        "CLM-0049",
+        "CLM-0050",
+        "CLM-0051"
       ],
-      "notes": ""
+      "notes": "3D(C7^3)+6 = 63; NOT 62. Not an exact determination; no published individual-n proof inferred from literature search."
     },
     {
       "n": 22,
       "group": "C_22^3",
       "d_star": 64,
       "provisional_status": "SANDWICHED",
-      "programme_certification": "UNKNOWN_PENDING_INDEPENDENT_UPPER_BOUND",
+      "programme_certification": "PROGRAMME_DERIVED_INTERVAL_FROM_SOURCE_THEOREMS",
       "reported_bound": "64..65",
       "evidence": [
-        "CLM-0024",
-        "CLM-0025",
-        "CLM-0026"
+        "CLM-0038",
+        "CLM-0047",
+        "CLM-0048",
+        "CLM-0049",
+        "CLM-0050",
+        "CLM-0051"
       ],
-      "notes": ""
+      "notes": "2D(C11^3)+3 = 65. Not an exact determination; no published individual-n proof inferred from literature search."
     },
     {
       "n": 23,
       "group": "C_23^3",
       "d_star": 67,
       "provisional_status": "SETTLED",
-      "programme_certification": "LITERATURE_THEOREM",
+      "programme_certification": "SOURCE_STATED_P_GROUP_THEOREM",
       "reported_bound": "67",
       "evidence": [
         "SRC-0001",
-        "SRC-0003"
+        "SRC-0003",
+        "CLM-0039"
       ],
-      "notes": ""
+      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here."
     },
     {
       "n": 24,
       "group": "C_24^3",
       "d_star": 70,
       "provisional_status": "SANDWICHED",
-      "programme_certification": "UNKNOWN_PENDING_INDEPENDENT_UPPER_BOUND",
-      "reported_bound": "70..71",
+      "programme_certification": "PROGRAMME_DERIVED_INTERVAL_FROM_SOURCE_THEOREMS",
+      "reported_bound": "70..72",
       "evidence": [
-        "CLM-0024",
-        "CLM-0025",
-        "CLM-0026"
+        "CLM-0038",
+        "CLM-0047",
+        "CLM-0048",
+        "CLM-0049",
+        "CLM-0050",
+        "CLM-0051"
       ],
-      "notes": ""
+      "notes": "3D(C8^3)+6 = 72; NOT 71. Not an exact determination; no published individual-n proof inferred from literature search."
     },
     {
       "n": 25,
       "group": "C_25^3",
       "d_star": 73,
       "provisional_status": "SETTLED",
-      "programme_certification": "LITERATURE_THEOREM",
+      "programme_certification": "SOURCE_STATED_P_GROUP_THEOREM",
       "reported_bound": "73",
       "evidence": [
         "SRC-0001",
-        "SRC-0003"
+        "SRC-0003",
+        "CLM-0039"
       ],
-      "notes": ""
+      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here."
     },
     {
       "n": 26,
       "group": "C_26^3",
       "d_star": 76,
       "provisional_status": "SANDWICHED",
-      "programme_certification": "UNKNOWN_PENDING_INDEPENDENT_UPPER_BOUND",
+      "programme_certification": "PROGRAMME_DERIVED_INTERVAL_FROM_SOURCE_THEOREMS",
       "reported_bound": "76..77",
       "evidence": [
-        "CLM-0024",
-        "CLM-0025",
-        "CLM-0026"
+        "CLM-0038",
+        "CLM-0047",
+        "CLM-0048",
+        "CLM-0049",
+        "CLM-0050",
+        "CLM-0051"
       ],
-      "notes": ""
+      "notes": "2D(C13^3)+3 = 77. Not an exact determination; no published individual-n proof inferred from literature search."
     },
     {
       "n": 27,
       "group": "C_27^3",
       "d_star": 79,
       "provisional_status": "SETTLED",
-      "programme_certification": "LITERATURE_THEOREM",
+      "programme_certification": "SOURCE_STATED_P_GROUP_THEOREM",
       "reported_bound": "79",
       "evidence": [
         "SRC-0001",
-        "SRC-0003"
+        "SRC-0003",
+        "CLM-0039"
       ],
-      "notes": ""
+      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here."
     },
     {
       "n": 28,
       "group": "C_28^3",
       "d_star": 82,
-      "provisional_status": "UNKNOWN",
-      "programme_certification": "NONE",
-      "reported_bound": ">=82; upper unverified",
+      "provisional_status": "SANDWICHED",
+      "programme_certification": "PROGRAMME_DERIVED_INTERVAL_FROM_SOURCE_THEOREMS",
+      "reported_bound": "82..85",
       "evidence": [
-        "CLM-0001"
+        "CLM-0038",
+        "CLM-0047",
+        "CLM-0048",
+        "CLM-0049",
+        "CLM-0050",
+        "CLM-0051"
       ],
-      "notes": ""
+      "notes": "2D(C14^3)+3 <= 85. Not an exact determination; no published individual-n proof inferred from literature search."
     },
     {
       "n": 29,
       "group": "C_29^3",
       "d_star": 85,
       "provisional_status": "SETTLED",
-      "programme_certification": "LITERATURE_THEOREM",
+      "programme_certification": "SOURCE_STATED_P_GROUP_THEOREM",
       "reported_bound": "85",
       "evidence": [
         "SRC-0001",
-        "SRC-0003"
+        "SRC-0003",
+        "CLM-0039"
       ],
-      "notes": ""
+      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here."
     },
     {
       "n": 30,
       "group": "C_30^3",
       "d_star": 88,
-      "provisional_status": "UNKNOWN",
-      "programme_certification": "NONE",
-      "reported_bound": ">=88; upper unverified",
+      "provisional_status": "SANDWICHED",
+      "programme_certification": "PROGRAMME_DERIVED_INTERVAL_FROM_SOURCE_THEOREMS",
+      "reported_bound": "88..93",
       "evidence": [
-        "CLM-0001"
+        "CLM-0038",
+        "CLM-0047",
+        "CLM-0048",
+        "CLM-0049",
+        "CLM-0050",
+        "CLM-0051"
       ],
-      "notes": ""
+      "notes": "min(2D(C15^3)+3,3D(C10^3)+6) <= 93. Not an exact determination; no published individual-n proof inferred from literature search."
     }
   ]
 }

@@ -1,0 +1,37 @@
+{
+  "session": "S002",
+  "date": "2026-10-10",
+  "entry_remote_main": "9ff1aa34770ce23e87286ccba26cda7475448ba0",
+  "s001_branch_head": "1a43fc022179c950138e29994b6ca6a7ab667ec9",
+  "s001_merge_main": "9ff1aa34770ce23e87286ccba26cda7475448ba0",
+  "s001_pr": 1,
+  "gitHub_actions_run_count_at_entry": 0,
+  "gitHub_check_runs_at_entry": 0,
+  "required_checks": [],
+  "phase1": "IN_PROGRESS",
+  "phase2": "NOT_STARTED",
+  "target_n": 6,
+  "target_status": "PROPOSED_ONLY",
+  "candidate_count": 0,
+  "searches_executed": 0,
+  "source_count": 20,
+  "claim_count": 59,
+  "frontier_n": [
+    1,
+    30
+  ],
+  "independent_programme_proofs": [
+    "subgroup induction",
+    "Dk(C2^3)=2k+3 for k>=2",
+    "doubling upper",
+    "tripling deduction conditional on primary source-stated multiwise result",
+    "n6 skeleton/CRT constraint"
+  ],
+  "proof_inspections_limited": [
+    "Grinsztajn 2026 PDF unread; conditional Lean source inspected",
+    "Sheikh 2017 proof only excerpted",
+    "Yiu 2026 arXiv abstract only"
+  ],
+  "validation_method": "JS JSON.parse, uniqueness and n=1..30 arithmetic within this atomic transaction; no CI runs present",
+  "archive_input_hash": "not asserted: transport bytes unavailable"
+}

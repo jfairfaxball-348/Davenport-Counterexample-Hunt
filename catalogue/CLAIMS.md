@@ -55,3 +55,26 @@ Status enum: `SOURCE_STATED` is a literature statement, not verified proof; `PRO
 - **CLM-0046** **SOURCE_STATED** — Zakarczemny 2019 states bound with a3<=20369 for rank three. Evidence: SRC-0006 primary HTML abstract.
 
 No S001 claim is COMPUTED_EXACT, HEURISTIC or FORMALLY_CERTIFIED. No counterexample is claimed.
+
+## S002 independently checked/derived claims
+
+- **CLM-0047 PROGRAMME_PROVED** — For H<=G finite abelian, D(G)<=D_{D(H)}(G/H); proof by disjoint quotient zero sums and subgroup zero sum. Evidence: research/S002_INDUCTIVE_PROOFS.md. Independent complete derivation; D_k defined as pairwise-disjoint nonempty zero sums.
+- **CLM-0048 PROGRAMME_PROVED** — D_k(C2^3)=2k+3 for every k>=2, with standalone upper and lower proofs. Evidence: research/S002_INDUCTIVE_PROOFS.md. No inherited algorithmic counts or SAT.
+- **CLM-0049 PROGRAMME_PROVED** — For m>=2, D(C_{2m}^3)<=2D(C_m^3)+3. Evidence: research/S002_INDUCTIVE_PROOFS.md. Uses CLM-0047 and CLM-0048; off-by-one if D(Cm^3)=3m-2.
+- **CLM-0050 SOURCE_STATED** — Bhowmik-Schlage-Puchta Proposition 1 states D2(C3^3)=11 and D_k(C3^3)=3k+6 for k>=3, hence D3=15 and D4=18. Evidence: SRC-0008 Proposition 1. Contradicts inherited CLM-0021 and CLM-0022. No programme computation.
+- **CLM-0051 PROGRAMME_PROVED** — For m>=2, D(C_{3m}^3)<=3D(C_m^3)+6, assuming SOURCE_STATED Bhowmik-Schlage-Puchta multiwise formula. Evidence: research/S002_INDUCTIVE_PROOFS.md. Conditional only on an externally established theorem. Old +5 CLM-0025 is unsupported/contradicted.
+- **CLM-0052 PROGRAMME_PROVED** — 16<=D(C6^3)<=17, by basis lower bound, Olson p-group D(C3^3)=7 and proved C2^3 multiwise bound. Evidence: research/S002_INDUCTIVE_PROOFS.md. Bound is mathematical deduction from primary source-stated Olson theorem; does not decide 16 vs 17.
+- **CLM-0053 PROGRAMME_PROVED** — For prime-power m>=2, 3m route gives 9m-2<=D(C3m^3)<=9m, not the inherited upper 9m-1. Evidence: research/S002_INDUCTIVE_PROOFS.md. Using D_k(C3^3)=3k+6, not inherited 3k+5; S001 15,21,12,24 bounds corrected.
+- **CLM-0054 PROGRAMME_PROVED** — Any length-16 zero-sumfree lift to C6^3 projects mod 3 to a 16-term sequence with at most 3 disjoint nonempty zero-sum subsequences. Evidence: research/S002_INDUCTIVE_PROOFS.md. Four disjoint quotient zeros produce four sums in kernel C2^3; D(C2^3)=4 contradicts zero-sumfreeness.
+- **CLM-0055 PROGRAMME_PROVED** — For coprime CRT mod 2,3, a length-16 lift is zero-sumfree iff every nonempty mod-3-zero-sum index subset has nonzero mod-2 label sum. Evidence: research/S002_INDUCTIVE_PROOFS.md. A logical characterization, not certification of any orbit enumeration or search.
+- **CLM-0056 SOURCE_STATED** — Grinsztajn author repository claims D(Cn^3)<=4n-P(n)-2 with written proof and conditional Lean file using explicit unproved external axioms. Evidence: SRC-0016 original README + Main.lean. Full PDF proof not inspected and Lean not built; not FORMALLY_CERTIFIED/PROGRAMME_PROVED by this repo.
+- **CLM-0057 PROGRAMME_PROVED** — Every n=1..30 has a newly audited lower/upper interval derived from source-stated p-group values and source-stated multiwise results plus S002 deductions. Evidence: frontier/FRONTIER.md and research/S002_INDUCTIVE_PROOFS.md. Intervals are deductions conditional on established-source theorems, not exact determinations for composite n.
+- **CLM-0058 SOURCE_STATED** — Bhowmik-Schlage-Puchta 2007 gives D(C3⊕C3⊕C3d)=3d+4 for d>=1; does not establish D(C6^3). Evidence: SRC-0008 Theorem 1. D(C3⊕C3⊕C6)=10 from d=2 but the group is different from C6^3.
+- **CLM-0059 SOURCE_STATED** — Girard-Schmid 2019 studies C2⊕C_n2⊕C_n3, not equal-factor C6^3. Evidence: SRC-0005 primary arXiv v2. Do not infer a resolved C6^3 case.
+
+### S001 corrections
+
+- **CLM-0021 and CLM-0022** (inherited D3=14, D4=17) contradict original 2007 Proposition 1, which states D3=15, D4=18.
+- **CLM-0025, CLM-0026 and CLM-0027** (tripling +5 and composite off-by-one intervals) must not be used; correct conditional-on-source theorem is tripling +6, giving several wider intervals.
+- **CLM-0031** inherits an unverified 5553 skeleton-orbit count and wrong D4 threshold; no enumeration or exactness may be inferred.
+- The inherited records are kept, with explicit caution notes, for honest provenance; fresh corrected claim IDs are appended rather than recycling them.
