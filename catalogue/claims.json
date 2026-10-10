@@ -1,0 +1,445 @@
+{
+  "schema_version": 1,
+  "status_enum": [
+    "SOURCE_STATED",
+    "PROGRAMME_PROVED",
+    "COMPUTED_EXACT",
+    "HEURISTIC",
+    "FORMALLY_CERTIFIED",
+    "INHERITED_UNVERIFIED"
+  ],
+  "claims": [
+    {
+      "id": "CLM-0001",
+      "statement": "Definition of D(G), D*(G), and lower bound D>=D*; for C_n^3 lower 3n-2",
+      "category": "FOUNDATION",
+      "status": "INHERITED_UNVERIFIED",
+      "origin": "owner supplied S001 seed, 2026-10-10",
+      "proof_or_evidence": null,
+      "notes": "Not certified by this repo. Verify independently before use."
+    },
+    {
+      "id": "CLM-0002",
+      "statement": "Rank-three conjecture D(C_n^3)=3n-2; target length 3n-2 zero-sumfree",
+      "category": "FOUNDATION",
+      "status": "INHERITED_UNVERIFIED",
+      "origin": "owner supplied S001 seed, 2026-10-10",
+      "proof_or_evidence": null,
+      "notes": "Not certified by this repo. Verify independently before use."
+    },
+    {
+      "id": "CLM-0003",
+      "statement": "Olson 1969 p-groups have D=D*; van Emde Boas–Kruyswijk independent pointer",
+      "category": "LITERATURE",
+      "status": "INHERITED_UNVERIFIED",
+      "origin": "owner supplied S001 seed, 2026-10-10",
+      "proof_or_evidence": null,
+      "notes": "Not certified by this repo. Verify independently before use."
+    },
+    {
+      "id": "CLM-0004",
+      "statement": "Rank two C_m⊕C_n with m|n has D=m+n-1",
+      "category": "LITERATURE",
+      "status": "INHERITED_UNVERIFIED",
+      "origin": "owner supplied S001 seed, 2026-10-10",
+      "proof_or_evidence": null,
+      "notes": "Not certified by this repo. Verify independently before use."
+    },
+    {
+      "id": "CLM-0005",
+      "statement": "Rank three remains generally unresolved, according to historical sources",
+      "category": "LITERATURE",
+      "status": "INHERITED_UNVERIFIED",
+      "origin": "owner supplied S001 seed, 2026-10-10",
+      "proof_or_evidence": null,
+      "notes": "Not certified by this repo. Verify independently before use."
+    },
+    {
+      "id": "CLM-0006",
+      "statement": "Zakarczemny upper-bound coefficient a3<=20369",
+      "category": "LITERATURE",
+      "status": "INHERITED_UNVERIFIED",
+      "origin": "owner supplied S001 seed, 2026-10-10",
+      "proof_or_evidence": null,
+      "notes": "Not certified by this repo. Verify independently before use."
+    },
+    {
+      "id": "CLM-0007",
+      "statement": "Girard–Schmid say rank-three wide open and cases first invariant 2 known",
+      "category": "LITERATURE",
+      "status": "INHERITED_UNVERIFIED",
+      "origin": "owner supplied S001 seed, 2026-10-10",
+      "proof_or_evidence": null,
+      "notes": "Not certified by this repo. Verify independently before use."
+    },
+    {
+      "id": "CLM-0008",
+      "statement": "Wang AIMS 2020 calls rank-three open 50 years, cites Conjecture 3.5 in reference [11]",
+      "category": "LITERATURE",
+      "status": "INHERITED_UNVERIFIED",
+      "origin": "owner supplied S001 seed, 2026-10-10",
+      "proof_or_evidence": null,
+      "notes": "Not certified by this repo. Verify independently before use."
+    },
+    {
+      "id": "CLM-0009",
+      "statement": "Gao Discrete Math 222 (2000) rank-three paper and Gao-Geroldinger 2006 survey",
+      "category": "LITERATURE",
+      "status": "INHERITED_UNVERIFIED",
+      "origin": "owner supplied S001 seed, 2026-10-10",
+      "proof_or_evidence": null,
+      "notes": "Not certified by this repo. Verify independently before use."
+    },
+    {
+      "id": "CLM-0010",
+      "statement": "No known rank-three or C_n^r example D>D* per HAL pointer",
+      "category": "LITERATURE",
+      "status": "INHERITED_UNVERIFIED",
+      "origin": "owner supplied S001 seed, 2026-10-10",
+      "proof_or_evidence": null,
+      "notes": "Not certified by this repo. Verify independently before use."
+    },
+    {
+      "id": "CLM-0011",
+      "statement": "Infinitely many rank >=4 group examples D>D*, per Bhowmik–Schlage-Puchta 2012 pointer",
+      "category": "LITERATURE",
+      "status": "INHERITED_UNVERIFIED",
+      "origin": "owner supplied S001 seed, 2026-10-10",
+      "proof_or_evidence": null,
+      "notes": "Not certified by this repo. Verify independently before use."
+    },
+    {
+      "id": "CLM-0012",
+      "statement": "Bhowmik–Schlage-Puchta 2007 claim D(C3⊕C3⊕C3d)=3d+4",
+      "category": "LITERATURE",
+      "status": "INHERITED_UNVERIFIED",
+      "origin": "owner supplied S001 seed, 2026-10-10",
+      "proof_or_evidence": null,
+      "notes": "Not certified by this repo. Verify independently before use."
+    },
+    {
+      "id": "CLM-0013",
+      "statement": "Royal Holloway thesis reconstructs and challenges clarity of 2007 proof",
+      "category": "LITERATURE",
+      "status": "INHERITED_UNVERIFIED",
+      "origin": "owner supplied S001 seed, 2026-10-10",
+      "proof_or_evidence": null,
+      "notes": "Not certified by this repo. Verify independently before use."
+    },
+    {
+      "id": "CLM-0014",
+      "statement": "2025 Combinatorica k-th Davenport article says naive k-wise linear formula fails for elementary 2/3 rank>=3",
+      "category": "LITERATURE",
+      "status": "INHERITED_UNVERIFIED",
+      "origin": "owner supplied S001 seed, 2026-10-10",
+      "proof_or_evidence": null,
+      "notes": "Not certified by this repo. Verify independently before use."
+    },
+    {
+      "id": "CLM-0015",
+      "statement": "Freeze–Schmid 2010 and Delorme–Ordaz–Quiroz 2001 multiwise literature pointers",
+      "category": "LITERATURE",
+      "status": "INHERITED_UNVERIFIED",
+      "origin": "owner supplied S001 seed, 2026-10-10",
+      "proof_or_evidence": null,
+      "notes": "Not certified by this repo. Verify independently before use."
+    },
+    {
+      "id": "CLM-0016",
+      "statement": "Inductive bound D(G)<=D_{D(H)}(G/H) for subgroup H",
+      "category": "REDUCTION",
+      "status": "INHERITED_UNVERIFIED",
+      "origin": "owner supplied S001 seed, 2026-10-10",
+      "proof_or_evidence": null,
+      "notes": "Not certified by this repo. Verify independently before use."
+    },
+    {
+      "id": "CLM-0017",
+      "statement": "Short-zero-sum removal if exists length <=e leaves bound e+g_{k-1}",
+      "category": "REDUCTION",
+      "status": "INHERITED_UNVERIFIED",
+      "origin": "owner supplied S001 seed, 2026-10-10",
+      "proof_or_evidence": null,
+      "notes": "Not certified by this repo. Verify independently before use."
+    },
+    {
+      "id": "CLM-0018",
+      "statement": "Over C3^3 no short zero sum implies support A with A∪{0} affine cap, multiplicity <=2",
+      "category": "REDUCTION",
+      "status": "INHERITED_UNVERIFIED",
+      "origin": "owner supplied S001 seed, 2026-10-10",
+      "proof_or_evidence": null,
+      "notes": "Not certified by this repo. Verify independently before use."
+    },
+    {
+      "id": "CLM-0019",
+      "statement": "D_k(C2^3)=2k+3 for k>=2; k=2 witness six distinct nonzero elements",
+      "category": "COMPUTATION",
+      "status": "INHERITED_UNVERIFIED",
+      "origin": "owner supplied S001 seed, 2026-10-10",
+      "proof_or_evidence": null,
+      "notes": "Not certified by this repo. Verify independently before use."
+    },
+    {
+      "id": "CLM-0020",
+      "statement": "D2(C3^3)=11 and GL(3,3) extremal length-10 orbit count 43",
+      "category": "COMPUTATION",
+      "status": "INHERITED_UNVERIFIED",
+      "origin": "owner supplied S001 seed, 2026-10-10",
+      "proof_or_evidence": null,
+      "notes": "Not certified by this repo. Verify independently before use."
+    },
+    {
+      "id": "CLM-0021",
+      "statement": "D3(C3^3)=14 and GL(3,3) extremal length-13 orbit count 699",
+      "category": "COMPUTATION",
+      "status": "INHERITED_UNVERIFIED",
+      "origin": "owner supplied S001 seed, 2026-10-10",
+      "proof_or_evidence": null,
+      "notes": "Not certified by this repo. Verify independently before use."
+    },
+    {
+      "id": "CLM-0022",
+      "statement": "D4(C3^3)=17 and GL(3,3) extremal length-16 orbit count 5553",
+      "category": "COMPUTATION",
+      "status": "INHERITED_UNVERIFIED",
+      "origin": "owner supplied S001 seed, 2026-10-10",
+      "proof_or_evidence": null,
+      "notes": "Not certified by this repo. Verify independently before use."
+    },
+    {
+      "id": "CLM-0023",
+      "statement": "Prior sampled C3^3 cases independently crosschecked by another DP",
+      "category": "COMPUTATION",
+      "status": "INHERITED_UNVERIFIED",
+      "origin": "owner supplied S001 seed, 2026-10-10",
+      "proof_or_evidence": null,
+      "notes": "Not certified by this repo. Verify independently before use."
+    },
+    {
+      "id": "CLM-0024",
+      "statement": "D(C2m^3)<=2 D(Cm^3)+3",
+      "category": "REDUCTION",
+      "status": "INHERITED_UNVERIFIED",
+      "origin": "owner supplied S001 seed, 2026-10-10",
+      "proof_or_evidence": null,
+      "notes": "Not certified by this repo. Verify independently before use."
+    },
+    {
+      "id": "CLM-0025",
+      "statement": "D(C3m^3)<=3 D(Cm^3)+5",
+      "category": "REDUCTION",
+      "status": "INHERITED_UNVERIFIED",
+      "origin": "owner supplied S001 seed, 2026-10-10",
+      "proof_or_evidence": null,
+      "notes": "Not certified by this repo. Verify independently before use."
+    },
+    {
+      "id": "CLM-0026",
+      "statement": "Prime-power m yields D(C_2m^3), D(C_3m^3) in {3n-2,3n-1}",
+      "category": "REDUCTION",
+      "status": "INHERITED_UNVERIFIED",
+      "origin": "owner supplied S001 seed, 2026-10-10",
+      "proof_or_evidence": null,
+      "notes": "Not certified by this repo. Verify independently before use."
+    },
+    {
+      "id": "CLM-0027",
+      "statement": "For n<=30 inherited sandwich examples n=6,10,12,14,15,18,21,22,24,26",
+      "category": "REDUCTION",
+      "status": "INHERITED_UNVERIFIED",
+      "origin": "owner supplied S001 seed, 2026-10-10",
+      "proof_or_evidence": null,
+      "notes": "Not certified by this repo. Verify independently before use."
+    },
+    {
+      "id": "CLM-0028",
+      "statement": "For n=2m odd m: also D(C_n^3)<=D4(C_m^3)",
+      "category": "REDUCTION",
+      "status": "INHERITED_UNVERIFIED",
+      "origin": "owner supplied S001 seed, 2026-10-10",
+      "proof_or_evidence": null,
+      "notes": "Not certified by this repo. Verify independently before use."
+    },
+    {
+      "id": "CLM-0029",
+      "statement": "For n=2m odd m: mod-m skeleton has at most 3 pairwise disjoint zero sums",
+      "category": "REDUCTION",
+      "status": "INHERITED_UNVERIFIED",
+      "origin": "owner supplied S001 seed, 2026-10-10",
+      "proof_or_evidence": null,
+      "notes": "Not certified by this repo. Verify independently before use."
+    },
+    {
+      "id": "CLM-0030",
+      "statement": "For n=2m odd m: valid mod-2 labels avoid zero on every mod-m zero-sum index subset",
+      "category": "REDUCTION",
+      "status": "INHERITED_UNVERIFIED",
+      "origin": "owner supplied S001 seed, 2026-10-10",
+      "proof_or_evidence": null,
+      "notes": "Not certified by this repo. Verify independently before use."
+    },
+    {
+      "id": "CLM-0031",
+      "statement": "n=6 both bounds upper 17; search 5553 mod-3 orbits, lifts 48 Boolean variables",
+      "category": "CAMPAIGN",
+      "status": "INHERITED_UNVERIFIED",
+      "origin": "owner supplied S001 seed, 2026-10-10",
+      "proof_or_evidence": null,
+      "notes": "Not certified by this repo. Verify independently before use."
+    },
+    {
+      "id": "CLM-0032",
+      "statement": "n=6 lifts possibly normalized by GL(3,2), reductions unproved",
+      "category": "CAMPAIGN",
+      "status": "INHERITED_UNVERIFIED",
+      "origin": "owner supplied S001 seed, 2026-10-10",
+      "proof_or_evidence": null,
+      "notes": "Not certified by this repo. Verify independently before use."
+    },
+    {
+      "id": "CLM-0033",
+      "statement": "n=6 deciding all skeleton lifts would prove D=16 or exhibit length-16 counterexample, subject to certification",
+      "category": "CAMPAIGN",
+      "status": "INHERITED_UNVERIFIED",
+      "origin": "owner supplied S001 seed, 2026-10-10",
+      "proof_or_evidence": null,
+      "notes": "Not certified by this repo. Verify independently before use."
+    },
+    {
+      "id": "CLM-0034",
+      "statement": "n=6 Bhowmik–Schlage-Puchta refinement should be studied, comparing C3⊕C3⊕C6 true D10 vs naive 11",
+      "category": "CAMPAIGN",
+      "status": "INHERITED_UNVERIFIED",
+      "origin": "owner supplied S001 seed, 2026-10-10",
+      "proof_or_evidence": null,
+      "notes": "Not certified by this repo. Verify independently before use."
+    },
+    {
+      "id": "CLM-0035",
+      "statement": "n=10 would settle at D=28 if D4(C5^3)=28 (conditional only)",
+      "category": "CAMPAIGN",
+      "status": "INHERITED_UNVERIFIED",
+      "origin": "owner supplied S001 seed, 2026-10-10",
+      "proof_or_evidence": null,
+      "notes": "Not certified by this repo. Verify independently before use."
+    },
+    {
+      "id": "CLM-0036",
+      "statement": "n=10 length-28 counterexample needs C5^3 skeleton with at most 3 disjoint zero sums",
+      "category": "CAMPAIGN",
+      "status": "INHERITED_UNVERIFIED",
+      "origin": "owner supplied S001 seed, 2026-10-10",
+      "proof_or_evidence": null,
+      "notes": "Not certified by this repo. Verify independently before use."
+    },
+    {
+      "id": "CLM-0037",
+      "statement": "n=10 D4(C5^3) >=29 would be necessary for such a skeleton",
+      "category": "CAMPAIGN",
+      "status": "INHERITED_UNVERIFIED",
+      "origin": "owner supplied S001 seed, 2026-10-10",
+      "proof_or_evidence": null,
+      "notes": "Not certified by this repo. Verify independently before use."
+    },
+    {
+      "id": "CLM-0038",
+      "statement": "For all n>=2, D(C_n^3)>=3n-2, by three-coordinate basis sequence",
+      "category": "FOUNDATION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/FOUNDATIONS.md",
+      "source_ids": [],
+      "notes": "Self-contained proof in research/FOUNDATIONS.md"
+    },
+    {
+      "id": "CLM-0039",
+      "statement": "Olson p-group theorem: if G = ⊕ C_(p^a_i) then D(G)=1+Σ(p^a_i-1)",
+      "category": "LITERATURE",
+      "status": "SOURCE_STATED",
+      "origin": "SRC-0001 (abstract), SRC-0003 (secondary exact formulation)",
+      "source_ids": [
+        "SRC-0001",
+        "SRC-0003"
+      ],
+      "notes": "Source statement only; does not imply this programme has proved it."
+    },
+    {
+      "id": "CLM-0040",
+      "statement": "Gao–Geroldinger Conjecture 3.5 includes D(C_n^3)=3n-2",
+      "category": "LITERATURE",
+      "status": "SOURCE_STATED",
+      "origin": "SRC-0018 secondary transcription; original SRC-0003 not yet inspected",
+      "source_ids": [
+        "SRC-0018"
+      ],
+      "notes": "Source statement only; does not imply this programme has proved it."
+    },
+    {
+      "id": "CLM-0041",
+      "statement": "Zakarczemny 2019 Lemma 3.3 states D(G)<=D_D(H)(G/H)",
+      "category": "LITERATURE",
+      "status": "SOURCE_STATED",
+      "origin": "SRC-0006, HTML Lemma 3.3",
+      "source_ids": [
+        "SRC-0006"
+      ],
+      "notes": "Source statement only; does not imply this programme has proved it."
+    },
+    {
+      "id": "CLM-0042",
+      "statement": "Yiu 2026 preprint abstract reports D4(C5^3)=30",
+      "category": "LITERATURE",
+      "status": "SOURCE_STATED",
+      "origin": "SRC-0015 abstract; no independent computation or proof checked",
+      "source_ids": [
+        "SRC-0015"
+      ],
+      "notes": "Source statement only; does not imply this programme has proved it."
+    },
+    {
+      "id": "CLM-0043",
+      "statement": "AIMS Mathematics 2020 [11] identifies Gao–Geroldinger 2006 survey",
+      "category": "LITERATURE",
+      "status": "SOURCE_STATED",
+      "origin": "SRC-0007 publisher references; Conjecture 3.5 attribution through SRC-0018",
+      "source_ids": [
+        "SRC-0007",
+        "SRC-0018"
+      ],
+      "notes": "Source statement only; does not imply this programme has proved it."
+    },
+    {
+      "id": "CLM-0044",
+      "statement": "Grinsztajn 2026 bound D(C_n^3)<=4n-P(n)-2 is reported by secondary page",
+      "category": "LITERATURE",
+      "status": "SOURCE_STATED",
+      "origin": "SRC-0018 only; inspect original proof in S002",
+      "source_ids": [
+        "SRC-0018"
+      ],
+      "notes": "Source statement only; does not imply this programme has proved it."
+    },
+    {
+      "id": "CLM-0045",
+      "statement": "Wang 2026 rank>=8 unbounded gap to D* is reported by abstract, not relevant to rank 3",
+      "category": "LITERATURE",
+      "status": "SOURCE_STATED",
+      "origin": "SRC-0017 abstract",
+      "source_ids": [
+        "SRC-0017"
+      ],
+      "notes": "Source statement only; does not imply this programme has proved it."
+    },
+    {
+      "id": "CLM-0046",
+      "statement": "Zakarczemny 2019 states bound with a3<=20369 for rank three",
+      "category": "LITERATURE",
+      "status": "SOURCE_STATED",
+      "origin": "SRC-0006 primary HTML abstract",
+      "source_ids": [
+        "SRC-0006"
+      ],
+      "notes": "Source statement only; does not imply this programme has proved it."
+    }
+  ]
+}
