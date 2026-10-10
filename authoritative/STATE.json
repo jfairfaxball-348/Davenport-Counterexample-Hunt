@@ -24,17 +24,25 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S001",
-  "recommended_next_session": "S002",
+  "last_completed_session": "S002",
+  "recommended_next_session": "S003",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": 6,
   "phase1_target_status": "PROPOSED_ONLY",
-  "open_blockers": [],
+  "open_blockers": [
+    "Verify the actual written proof of Grinsztajn 2026 bound and each external axiom against primary proofs; Lean file is explicitly conditional.",
+    "Independent scrutiny of BSP Proposition 1 multiwise proof and its typesetting/notation, plus Sheikh thesis reconstruction and implications.",
+    "Independent evidence for all inherited 43/699/5553 orbit counts, or remove them as unusable; not a prerequisite to preserving n=6 target but required before any exhaustive campaign.",
+    "Broaden updated literature audit for individual C6^3 resolution; targeted 2026 search found no authenticated exact determination."
+  ],
   "gate_ledger": "docs/PHASE_GATE_LEDGER.md",
   "source_snapshot": "2026-10-10",
   "warnings": [
-    "SANDWICHED frontier rows not certified; dependent on inherited bounds.",
-    "SRC-0015 reports D4(C5^3)=30, not conjectured 28."
+    "S002 corrects inherited D3(C3^3)=14 and D4(C3^3)=17: primary BSP Proposition 1 states 15 and 18. n=3m inherited +5 upper refuted; correct sourced deduction uses +6.",
+    "n=6 proven programme interval 16..17 from source-stated p-group theorem and standalone C2^3 multiwise proof; no exact composite value certified.",
+    "Grinsztajn 2026 written bound author-claimed; Lean external inputs AXIOMS, not a complete formal certification.",
+    "No GitHub Actions workflows/runs/jobs on S001 entry; no CI pass inferred.",
+    "Yiu Sep 2026 abstract D4(C5^3)=30, no proof/code independent reproduction."
   ]
 }

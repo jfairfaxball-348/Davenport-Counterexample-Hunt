@@ -1,0 +1,32 @@
+# S002 closeout — 2026-10-10
+
+## Entry, lineage and CI
+- GitHub remote main independently pinned **9ff1aa34770ce23e87286ccba26cda7475448ba0**; parent S001 merge commit, its parents initialization 412f0088aeffb823f1533f5d0809806a6b58afde and session commit 1a43fc022179c950138e29994b6ca6a7ab667ec9.
+- S001 PR #1 merged (2026-10-10T21:57:08Z). Initial branch refs main and session/S001-bootstrap-frontier only; no open PR, no competing S002, no intervening changes.
+- GitHub Actions runs endpoint explicitly returned total_count=0, and check-runs endpoint returned total_count=0 on S001 head and merged main; branch main is unprotected, required checks empty. **No workflows/jobs or CI PASS claimed.**
+- Inspected all requested S001 authority, proof, source/claim, frontier and campaign files. Exact S002 text captured in INPUT.md; chat transport original-byte SHA not claimed.
+
+## Source audit and mathematical result
+- Original GG 2006 PDF pp.5-6 read: Theorem 3.1 p-group/rank<=2 d=d*, Conj 3.5 rank three; Olson original abstract plus GG theorem statement, no Olson full proof.
+- Original BSP 2007 PDF pp.1,3,9,19 read: Thm 1 C3⊕C3⊕C3d, Proposition 1 **D_k(C3^3)=3k+6 for k>=3**. This **contradicts inherited D3=14, D4=17**; primary formula gives 15, 18. Initial +5 tripling lemma is unsupported. Aleen Sheikh 2017 primary university thesis metadata/Chapter 4 excerpt inspected; thesis reconstructs the proof and reports gaps. No independent proof of every published lemma supplied.
+- Girard–Schmid arXiv v2 original HTML covers groups with first invariant factor 2, not C6^3; Yiu Sep 2026 arXiv primary abstract says D4(C5^3)=30 (not 28) and k>=2 formula; no independent code proof checked.
+- Grinsztajn author README and Lean source directly inspected: original repo contains a PDF written proof and a **conditional** Lean derivation with external axiom assumptions. The PDF body and validity of each external input have not been independently checked; no Lean build or certification. Universal 4n-P(n)-2 remains SOURCE_STATED, not a programme proof or pointwise resolution. Direct targeted searches found no authenticated newer exact value for C6^3; this is **not proof** that none exists.
+- New programme complete proofs: subgroup induction; exact D_k(C2^3)=2k+3 (k>=2) including extremal lower construction; 2m upper 2D(Cm^3)+3; 3m upper 3D(Cm^3)+6 from sourced BSP theorem; skeleton restriction and CRT lifting criterion. See research/S002_INDUCTIVE_PROOFS.md.
+- Audited n=1..30 frontier, now **16<=D(C6^3)<=17**, 34..36 at 12, 43..45 at 15, 61..63 at 21, 70..72 at 24; no exact composite values determined. Earlier 43/699/5553 enumeration counts and 48-bit orbit framework remain unverified seed claims. n=6 remains defensible smallest composite entry target, CAM-0001 PROPOSED only.
+
+## Gate, blockers, negative and reproducibility statements
+**Phase 1 remains IN_PROGRESS.** Hold PASS pending direct written Grinsztajn proof and axioms, BSP proof/thesis adversarial check, current individual-n diligence and inherited orbit provenance. This is a research verification agenda, not an owner/external blocker preventing the next bounded session. No search, SAT, ILP, orbit enumeration, code computation, Lean proof, publication or candidate executed. JSON schema/IDs/interval consistency verified locally in transaction builder; no CI was available. One atomic commit and PR/merge performed after this close record; exact post-merge SHA to be independently reported in final response.
+
+## Full S003 copy-ready prompt (NOT EXECUTED)
+
+# S003 — Phase-1 source proof challenge and n=6 entry review (ONE bounded new session; UNEXECUTED)
+
+Work only in https://github.com/jfairfaxball-348/Davenport-Counterexample-Hunt. Execute exactly ONE S003 Phase-1 verification session only upon a fresh explicit owner invocation. Do NOT start Phase 2 or Phase 3, a campaign, solver, orbit enumeration, manuscript, Lean formalisation, outreach or publication. Do not execute S004.
+
+ENTRY: Independently pin live main SHA and compare S002 branch, PR/merge and independently observed remote SHA; inspect open/recent merged PRs and actual required GitHub Actions workflow runs and jobs (record absence accurately). Confirm S003 uniqueness. Read AGENTS.md, START_HERE, STATE.json, DECISION_LOG.md, SESSION_PROTOCOL, PHASE_GATE_LEDGER, SESSION_LEDGER, source/claim catalogues, FRONTIER.md/frontier.json, CAM-0001 registry, FOUNDATIONS.md, S002_INDUCTIVE_PROOFS.md, S002 input and closeout. Archive this exact S003 invocation verbatim in sessions/S003/INPUT.md before replacing NEXT_SESSION_PROMPT.md.
+
+TARGET (Phase 1 ONLY): Adversarially verify the original Bhowmik–Schlage-Puchta 2007 Proposition 1 notation and proof D_k(C3^3)=3k+6 (k>=3), including the distinction between subscript multiwise D_k and superscript prescribed-size D^k; inspect Aleen Sheikh 2017 thesis Chapter 4 qualifications, and reconcile inherited 14/17, +5 and 5553 claims without treating any orbit count as computed. Inspect the actual written Grinsztajn 2026 davenport_cn3_bound.pdf proof (not just README/conditional Lean), check the imported Freeze–Schmid and Bhowmik–Schlage-Puchta external hypotheses against PRIMARY theorem statements, and determine whether D(C_n^3)<=4n-P(n)-2 is rigorously justified at source level. Independently inspect Yiu 2609.04950 main theorem/ancillary proof status. Search directly for a newer exact individual C6^3 theorem; non-discovery is not proof of openness. Independently audit every n<=30 bound and source hierarchy in S002, particularly n=6 16..17 and 12/15/21/24 corrections.
+
+GATE: Submit Phase-1 PASS only if exact statements and all necessary deduction inputs are sufficiently substantiated; otherwise retain IN_PROGRESS with precise unresolved checks. n=6 may remain the first recommended Phase-2 tooling target but CAM-0001 must stay PROPOSED / NOT RUNNING. No computation, SAT/ILP, orbit classification, candidates or certification. Preserve primary/source-stated versus programme-proved distinctions.
+
+CLOSE: Validate all JSON, source/claim ID uniqueness, links and Markdown/JSON consistency. Synchronize state, frontier, campaigns, ledgers, negative findings and validation review. Make one atomic session branch commit, push, create PR, merge main without force and independently verify remote main SHA. If no owner/external blocker, write one full copy-ready S004 prompt verbatim in the S003 closeout and NEXT_SESSION_PROMPT.md and final report. STOP after S003.

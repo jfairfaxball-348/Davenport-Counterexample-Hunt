@@ -196,7 +196,7 @@
       "status": "INHERITED_UNVERIFIED",
       "origin": "owner supplied S001 seed, 2026-10-10",
       "proof_or_evidence": null,
-      "notes": "Not certified by this repo. Verify independently before use."
+      "notes": "S002 correction: this inherited statement is refuted or not supported in its asserted form by SRC-0008 Proposition 1; see CLM-0050/0051 and corrected S002 frontier. Retained INHERITED_UNVERIFIED for provenance; do not use as an input."
     },
     {
       "id": "CLM-0022",
@@ -205,7 +205,7 @@
       "status": "INHERITED_UNVERIFIED",
       "origin": "owner supplied S001 seed, 2026-10-10",
       "proof_or_evidence": null,
-      "notes": "Not certified by this repo. Verify independently before use."
+      "notes": "S002 correction: this inherited statement is refuted or not supported in its asserted form by SRC-0008 Proposition 1; see CLM-0050/0051 and corrected S002 frontier. Retained INHERITED_UNVERIFIED for provenance; do not use as an input."
     },
     {
       "id": "CLM-0023",
@@ -232,7 +232,7 @@
       "status": "INHERITED_UNVERIFIED",
       "origin": "owner supplied S001 seed, 2026-10-10",
       "proof_or_evidence": null,
-      "notes": "Not certified by this repo. Verify independently before use."
+      "notes": "S002 correction: this inherited statement is refuted or not supported in its asserted form by SRC-0008 Proposition 1; see CLM-0050/0051 and corrected S002 frontier. Retained INHERITED_UNVERIFIED for provenance; do not use as an input."
     },
     {
       "id": "CLM-0026",
@@ -241,7 +241,7 @@
       "status": "INHERITED_UNVERIFIED",
       "origin": "owner supplied S001 seed, 2026-10-10",
       "proof_or_evidence": null,
-      "notes": "Not certified by this repo. Verify independently before use."
+      "notes": "S002 correction: this inherited statement is refuted or not supported in its asserted form by SRC-0008 Proposition 1; see CLM-0050/0051 and corrected S002 frontier. Retained INHERITED_UNVERIFIED for provenance; do not use as an input."
     },
     {
       "id": "CLM-0027",
@@ -250,7 +250,7 @@
       "status": "INHERITED_UNVERIFIED",
       "origin": "owner supplied S001 seed, 2026-10-10",
       "proof_or_evidence": null,
-      "notes": "Not certified by this repo. Verify independently before use."
+      "notes": "S002 correction: this inherited statement is refuted or not supported in its asserted form by SRC-0008 Proposition 1; see CLM-0050/0051 and corrected S002 frontier. Retained INHERITED_UNVERIFIED for provenance; do not use as an input."
     },
     {
       "id": "CLM-0028",
@@ -286,7 +286,7 @@
       "status": "INHERITED_UNVERIFIED",
       "origin": "owner supplied S001 seed, 2026-10-10",
       "proof_or_evidence": null,
-      "notes": "Not certified by this repo. Verify independently before use."
+      "notes": "S002 correction: this inherited statement is refuted or not supported in its asserted form by SRC-0008 Proposition 1; see CLM-0050/0051 and corrected S002 frontier. Retained INHERITED_UNVERIFIED for provenance; do not use as an input."
     },
     {
       "id": "CLM-0032",
@@ -322,7 +322,7 @@
       "status": "INHERITED_UNVERIFIED",
       "origin": "owner supplied S001 seed, 2026-10-10",
       "proof_or_evidence": null,
-      "notes": "Not certified by this repo. Verify independently before use."
+      "notes": "Conditional false antecedent: SRC-0015 abstract states D4(C5^3)=30, not 28; do not treat as a feasible shortcut."
     },
     {
       "id": "CLM-0036",
@@ -440,6 +440,147 @@
         "SRC-0006"
       ],
       "notes": "Source statement only; does not imply this programme has proved it."
+    },
+    {
+      "id": "CLM-0047",
+      "statement": "For H<=G finite abelian, D(G)<=D_{D(H)}(G/H); proof by disjoint quotient zero sums and subgroup zero sum.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S002_INDUCTIVE_PROOFS.md",
+      "source_ids": [
+        "SRC-0006"
+      ],
+      "notes": "Independent complete derivation; D_k defined as pairwise-disjoint nonempty zero sums."
+    },
+    {
+      "id": "CLM-0048",
+      "statement": "D_k(C2^3)=2k+3 for every k>=2, with standalone upper and lower proofs.",
+      "category": "FOUNDATION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S002_INDUCTIVE_PROOFS.md",
+      "source_ids": [
+        "SRC-0016"
+      ],
+      "notes": "No inherited algorithmic counts or SAT."
+    },
+    {
+      "id": "CLM-0049",
+      "statement": "For m>=2, D(C_{2m}^3)<=2D(C_m^3)+3.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S002_INDUCTIVE_PROOFS.md",
+      "source_ids": [],
+      "notes": "Uses CLM-0047 and CLM-0048; off-by-one if D(Cm^3)=3m-2."
+    },
+    {
+      "id": "CLM-0050",
+      "statement": "Bhowmik-Schlage-Puchta Proposition 1 states D2(C3^3)=11 and D_k(C3^3)=3k+6 for k>=3, hence D3=15 and D4=18.",
+      "category": "LITERATURE",
+      "status": "SOURCE_STATED",
+      "origin": "SRC-0008 Proposition 1",
+      "source_ids": [
+        "SRC-0008",
+        "SRC-0019"
+      ],
+      "notes": "Contradicts inherited CLM-0021 and CLM-0022. No programme computation."
+    },
+    {
+      "id": "CLM-0051",
+      "statement": "For m>=2, D(C_{3m}^3)<=3D(C_m^3)+6, assuming SOURCE_STATED Bhowmik-Schlage-Puchta multiwise formula.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S002_INDUCTIVE_PROOFS.md",
+      "source_ids": [
+        "SRC-0008"
+      ],
+      "notes": "Conditional only on an externally established theorem. Old +5 CLM-0025 is unsupported/contradicted."
+    },
+    {
+      "id": "CLM-0052",
+      "statement": "16<=D(C6^3)<=17, by basis lower bound, Olson p-group D(C3^3)=7 and proved C2^3 multiwise bound.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S002_INDUCTIVE_PROOFS.md",
+      "source_ids": [
+        "SRC-0003"
+      ],
+      "notes": "Bound is mathematical deduction from primary source-stated Olson theorem; does not decide 16 vs 17."
+    },
+    {
+      "id": "CLM-0053",
+      "statement": "For prime-power m>=2, 3m route gives 9m-2<=D(C3m^3)<=9m, not the inherited upper 9m-1.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S002_INDUCTIVE_PROOFS.md",
+      "source_ids": [
+        "SRC-0008",
+        "SRC-0003"
+      ],
+      "notes": "Using D_k(C3^3)=3k+6, not inherited 3k+5; S001 15,21,12,24 bounds corrected."
+    },
+    {
+      "id": "CLM-0054",
+      "statement": "Any length-16 zero-sumfree lift to C6^3 projects mod 3 to a 16-term sequence with at most 3 disjoint nonempty zero-sum subsequences.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S002_INDUCTIVE_PROOFS.md",
+      "source_ids": [],
+      "notes": "Four disjoint quotient zeros produce four sums in kernel C2^3; D(C2^3)=4 contradicts zero-sumfreeness."
+    },
+    {
+      "id": "CLM-0055",
+      "statement": "For coprime CRT mod 2,3, a length-16 lift is zero-sumfree iff every nonempty mod-3-zero-sum index subset has nonzero mod-2 label sum.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S002_INDUCTIVE_PROOFS.md",
+      "source_ids": [],
+      "notes": "A logical characterization, not certification of any orbit enumeration or search."
+    },
+    {
+      "id": "CLM-0056",
+      "statement": "Grinsztajn author repository claims D(Cn^3)<=4n-P(n)-2 with written proof and conditional Lean file using explicit unproved external axioms.",
+      "category": "LITERATURE",
+      "status": "SOURCE_STATED",
+      "origin": "SRC-0016 original README + Main.lean",
+      "source_ids": [
+        "SRC-0016"
+      ],
+      "notes": "Full PDF proof not inspected and Lean not built; not FORMALLY_CERTIFIED/PROGRAMME_PROVED by this repo."
+    },
+    {
+      "id": "CLM-0057",
+      "statement": "Every n=1..30 has a newly audited lower/upper interval derived from source-stated p-group values and source-stated multiwise results plus S002 deductions.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "frontier/FRONTIER.md and research/S002_INDUCTIVE_PROOFS.md",
+      "source_ids": [
+        "SRC-0003",
+        "SRC-0008"
+      ],
+      "notes": "Intervals are deductions conditional on established-source theorems, not exact determinations for composite n."
+    },
+    {
+      "id": "CLM-0058",
+      "statement": "Bhowmik-Schlage-Puchta 2007 gives D(C3⊕C3⊕C3d)=3d+4 for d>=1; does not establish D(C6^3).",
+      "category": "LITERATURE",
+      "status": "SOURCE_STATED",
+      "origin": "SRC-0008 Theorem 1",
+      "source_ids": [
+        "SRC-0008",
+        "SRC-0013"
+      ],
+      "notes": "D(C3⊕C3⊕C6)=10 from d=2 but the group is different from C6^3."
+    },
+    {
+      "id": "CLM-0059",
+      "statement": "Girard-Schmid 2019 studies C2⊕C_n2⊕C_n3, not equal-factor C6^3.",
+      "category": "LITERATURE",
+      "status": "SOURCE_STATED",
+      "origin": "SRC-0005 primary arXiv v2",
+      "source_ids": [
+        "SRC-0005"
+      ],
+      "notes": "Do not infer a resolved C6^3 case."
     }
   ]
 }
