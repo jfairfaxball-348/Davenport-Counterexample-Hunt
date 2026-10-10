@@ -1,0 +1,174 @@
+{
+  "schema_version": 1,
+  "access_enum": [
+    "METADATA_ONLY",
+    "ABSTRACT_INSPECTED",
+    "STATEMENT_INSPECTED",
+    "PROOF_INSPECTED",
+    "SECONDARY_ONLY"
+  ],
+  "sources": [
+    {
+      "id": "SRC-0001",
+      "title": "Olson, A combinatorial problem on finite Abelian groups I",
+      "year": "1969",
+      "url": "https://doi.org/10.1016/0022-314X(69)90021-3",
+      "access": "ABSTRACT_INSPECTED",
+      "accessed": "2026-10-10",
+      "notes": "Primary JNT abstract explicitly says p-group question answered; exact equality independently reported in Gao-Geroldinger survey (survey not read directly)."
+    },
+    {
+      "id": "SRC-0002",
+      "title": "van Emde Boas–Kruyswijk, A combinatorial problem on finite abelian groups 3",
+      "year": "1969",
+      "url": "https://ir.cwi.nl/pub/12899",
+      "access": "METADATA_ONLY",
+      "accessed": "2026-10-10",
+      "notes": "1969 report; URL and full content require verification."
+    },
+    {
+      "id": "SRC-0003",
+      "title": "Gao–Geroldinger, Zero-sum problems in finite abelian groups: a survey",
+      "year": "2006",
+      "url": "https://doi.org/10.1016/j.exmath.2006.07.002",
+      "access": "SECONDARY_ONLY",
+      "accessed": "2026-10-10",
+      "notes": "Conjecture 3.5 quote and theorem 3.1 located by third-party secondary page; primary survey not read."
+    },
+    {
+      "id": "SRC-0004",
+      "title": "Gao, On Davenport's constant of finite abelian groups with rank three",
+      "year": "2000",
+      "url": "https://doi.org/10.1016/S0012-365X(00)00010-8",
+      "access": "METADATA_ONLY",
+      "accessed": "2026-10-10",
+      "notes": "Bibliography confirmed on AIMS publisher's reference list."
+    },
+    {
+      "id": "SRC-0005",
+      "title": "Girard–Schmid, Direct zero-sum problems for certain groups of rank three",
+      "year": "2018/2019",
+      "url": "https://arxiv.org/abs/1806.07636",
+      "access": "ABSTRACT_INSPECTED",
+      "accessed": "2026-10-10",
+      "notes": "Abstract concerns C2 ⊕ C_n2 ⊕ C_n3 and multiwise constants, not C_n^3."
+    },
+    {
+      "id": "SRC-0006",
+      "title": "Zakarczemny, Note on the Davenport's constant for finite abelian groups with rank three",
+      "year": "2019",
+      "url": "https://arxiv.org/html/1910.10984v1",
+      "access": "STATEMENT_INSPECTED",
+      "accessed": "2026-10-10",
+      "notes": "Primary HTML theorem/lemma/abstract inspected; note apparent typo in its Lemma 3.4 rank-two formula, do not import."
+    },
+    {
+      "id": "SRC-0007",
+      "title": "Wang, A generalization of Kruyswijk-Olson theorem on Davenport constant in commutative semigroups",
+      "year": "2020",
+      "url": "https://www.aimspress.com/article/doi/10.3934/math.2020193?viewType=HTML",
+      "access": "ABSTRACT_INSPECTED",
+      "accessed": "2026-10-10",
+      "notes": "Publisher references [11] are Gao–Geroldinger 2006; see REF-11 identification."
+    },
+    {
+      "id": "SRC-0008",
+      "title": "Bhowmik–Schlage-Puchta, Davenport's constant for groups of the form Z3 ⊕ Z3 ⊕ Z3d",
+      "year": "2007",
+      "url": "https://www.ams.org/books/crmp/043/",
+      "access": "METADATA_ONLY",
+      "accessed": "2026-10-10",
+      "notes": "CRM Proc Lecture Notes vol 43 pp 307–326; claimed formula requires direct theorem inspection."
+    },
+    {
+      "id": "SRC-0009",
+      "title": "Bhowmik–Schlage-Puchta, Davenport's constant for groups with large exponent",
+      "year": "2012",
+      "url": "https://doi.org/10.1090/conm/579/11515",
+      "access": "ABSTRACT_INSPECTED",
+      "accessed": "2026-10-10",
+      "notes": "Reported existence of rank>=4 examples is in introductory text reproduced by author repository; precise result needs primary statement."
+    },
+    {
+      "id": "SRC-0010",
+      "title": "Freeze–Schmid, Remarks on a generalization of the Davenport constant",
+      "year": "2010",
+      "url": "https://doi.org/10.1016/j.disc.2009.07.002",
+      "access": "METADATA_ONLY",
+      "accessed": "2026-10-10",
+      "notes": "Bibliographic metadata and DOI to recheck next session."
+    },
+    {
+      "id": "SRC-0011",
+      "title": "Delorme–Ordaz–Quiroz, Some remarks on Davenport constant",
+      "year": "2001",
+      "url": "https://scholar.google.com/scholar?q=Delorme+Ordaz+Quiroz+2001+Davenport",
+      "access": "METADATA_ONLY",
+      "accessed": "2026-10-10",
+      "notes": "Title, venue and theorem not inspected; provisional discovery link."
+    },
+    {
+      "id": "SRC-0012",
+      "title": "HAL hal-01592317 (rank-three assertion pointer)",
+      "year": "unknown",
+      "url": "https://hal.science/hal-01592317",
+      "access": "METADATA_ONLY",
+      "accessed": "2026-10-10",
+      "notes": "User-supplied pointer; theorem text not inspected."
+    },
+    {
+      "id": "SRC-0013",
+      "title": "Royal Holloway thesis on C3⊕C3⊕C3d proof reconstruction",
+      "year": "unknown",
+      "url": "https://pure.royalholloway.ac.uk/",
+      "access": "METADATA_ONLY",
+      "accessed": "2026-10-10",
+      "notes": "Identity of thesis/author still unresolved; do not state proof criticisms as verified."
+    },
+    {
+      "id": "SRC-0014",
+      "title": "Combinatorica article on k-th Davenport constants of rank-two groups",
+      "year": "2025",
+      "url": "https://link.springer.com/journal/493",
+      "access": "METADATA_ONLY",
+      "accessed": "2026-10-10",
+      "notes": "Exact DOI/authors unverified; inherited pointer only."
+    },
+    {
+      "id": "SRC-0015",
+      "title": "Yiu, The fourth generalized Davenport constant of C5^3",
+      "year": "2026",
+      "url": "https://arxiv.org/abs/2609.04950",
+      "access": "ABSTRACT_INSPECTED",
+      "accessed": "2026-10-10",
+      "notes": "Primary abstract: D4(C5^3)=30, Dk(C5^3)=5k+10 (k>=2); report not independently checked."
+    },
+    {
+      "id": "SRC-0016",
+      "title": "Grinsztajn, An upper bound for the Davenport constant of C_n^3",
+      "year": "2026",
+      "url": "https://github.com/maaxgrin/davenport-cn3-bound",
+      "access": "SECONDARY_ONLY",
+      "accessed": "2026-10-10",
+      "notes": "Secondary teorth summary reports D(C_n^3)<=4n-P(n)-2; proof itself not read."
+    },
+    {
+      "id": "SRC-0017",
+      "title": "Wang, Disproof of a Conjectured Upper Bound for the Davenport Constant",
+      "year": "2026",
+      "url": "https://arxiv.org/abs/2609.29878",
+      "access": "ABSTRACT_INSPECTED",
+      "accessed": "2026-10-10",
+      "notes": "Primary abstract: unbounded gap D-D* fixed rank >=8; no rank-three implication."
+    },
+    {
+      "id": "SRC-0018",
+      "title": "Tao optimization problems page: Davenport constant for C_n^3",
+      "year": "2026",
+      "url": "https://teorth.github.io/optimizationproblems/constants/53a.html",
+      "access": "SECONDARY_ONLY",
+      "accessed": "2026-10-10",
+      "notes": "Secondary compilation: identifies Gao–Geroldinger Conjecture 3.5, and recent Grinsztajn bound."
+    }
+  ]
+}

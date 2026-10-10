@@ -1,0 +1,40 @@
+{
+  "project": "Davenport-Counterexample-Hunt",
+  "as_of": "2026-10-10",
+  "current_phase": 1,
+  "phases": {
+    "0": {
+      "name": "Governance bootstrap",
+      "status": "PASS"
+    },
+    "1": {
+      "name": "Frontier map",
+      "status": "IN_PROGRESS"
+    },
+    "2": {
+      "name": "Reduction theory and certified tooling",
+      "status": "NOT_STARTED"
+    },
+    "3": {
+      "name": "Campaigns",
+      "status": "NOT_STARTED"
+    },
+    "4": {
+      "name": "Certification and write-up",
+      "status": "OWNER_GATED"
+    }
+  },
+  "last_completed_session": "S001",
+  "recommended_next_session": "S002",
+  "campaign_active": null,
+  "counterexample_status": "NONE_CLAIMED",
+  "phase1_target_n": 6,
+  "phase1_target_status": "PROPOSED_ONLY",
+  "open_blockers": [],
+  "gate_ledger": "docs/PHASE_GATE_LEDGER.md",
+  "source_snapshot": "2026-10-10",
+  "warnings": [
+    "SANDWICHED frontier rows not certified; dependent on inherited bounds.",
+    "SRC-0015 reports D4(C5^3)=30, not conjectured 28."
+  ]
+}
