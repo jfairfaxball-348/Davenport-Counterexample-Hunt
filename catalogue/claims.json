@@ -919,6 +919,64 @@
         "SRC-0026"
       ],
       "notes": "Proves the actual original GG1999 printed p207 terminal trichotomy, allowing all-1 subset sumt rather than1. Three distinct values give three distinct sums but only1/t possible; two values each occurring twice yield incompatible mixed subsets (t>=3) or homogeneous/mixed pairs (t=2). Conditional on obtaining the actual source setup; not a complete B=>C proof."
+    },
+    {
+      "id": "CLM-0089",
+      "statement": "For every prime p, every indexed length3p−2 sequence over C_p² has a p- or2p-term zero sum. Self-contained finite-field counting proof.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S013_RANK_TWO_ORIGINAL_DEPENDENCIES.md",
+      "source_ids": [
+        "SRC-0026",
+        "SRC-0027"
+      ],
+      "notes": "Counting indicator/monomial sums proved independently; no Chevalley–Warning axiom or numerical search."
+    },
+    {
+      "id": "CLM-0090",
+      "statement": "For every prime p, D(C_p²)=2p−1. Self-contained group-algebra upper proof and coordinate lower proof.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S013_RANK_TWO_ORIGINAL_DEPENDENCIES.md",
+      "source_ids": [
+        "SRC-0026",
+        "SRC-0001"
+      ],
+      "notes": "Restricted rank-two elementary abelian equality only, not the general p-group frontier theorem."
+    },
+    {
+      "id": "CLM-0091",
+      "statement": "For every prime p, eta(C_p²)<=3p−2; every zero-sum sequence over C_p² of length>=2p contains a nonempty zero sum of length<=p.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S013_RANK_TWO_ORIGINAL_DEPENDENCIES.md",
+      "source_ids": [
+        "SRC-0026",
+        "SRC-0028"
+      ],
+      "notes": "Uses CLM-0089/0090; exact original Lem4.3(1)/(3) rank-two inputs. General Gao1997 Lem7 not certified."
+    },
+    {
+      "id": "CLM-0092",
+      "statement": "For odd prime p satisfying Property B, any short-free sequence a^(p−1)b^(p−1) product_(i=1)^(p−1)c_i over C_p² has all c_i equal (original Lem10.6).",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S013_RANK_TWO_ORIGINAL_DEPENDENCIES.md",
+      "source_ids": [
+        "SRC-0026"
+      ],
+      "notes": "Complete availability and positive-coordinate hand proof; Property B is explicit hypothesis."
+    },
+    {
+      "id": "CLM-0093",
+      "statement": "For odd prime p satisfying Property B, every short-free length3p−3 sequence over C_p² has exactly three values each repeatedp−1; complete independent B=>C implication.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S013_RANK_TWO_ORIGINAL_DEPENDENCIES.md",
+      "source_ids": [
+        "SRC-0026"
+      ],
+      "notes": "Proves extraction, translation/padding, exact D, specific Cor10.5(2), Lem10.6, actual constant-sum setup and REAL terminal trichotomy using CLM-0088. Does NOT prove unconditional prime Property B; historical CLM-0082 remains SOURCE_STATED."
     }
   ]
 }

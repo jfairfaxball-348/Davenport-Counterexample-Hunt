@@ -45,3 +45,7 @@ S006 closeout: [full record and future UNEXECUTED S007 prompt](../sessions/S006/
 | S012 | 2026-10-11 | One original-primary-source hand-proof/provenance pass | Complete p7 Lem5.2 CLM-0084–0087, actual GG terminal conditional CLM-0088; Phase1 IN_PROGRESS; no Phase2/3 or campaign | session/S012-p7-lemma-original-dependencies |
 
 S012 closeout: [complete record and FUTURE UNEXECUTED S013 handoff](../sessions/S012/CLOSEOUT.md).
+
+| S013 | 2026-10-11 | One bounded original rank-two hand-proof/provenance pass | CLM-0089–0093 rank-two prerequisites and conditional B=>C complete; unconditional Property B open in programme, Phase1 IN_PROGRESS | session/S013-rank-two-original-prerequisites |
+
+[S013 full proof/closeout and strictly future S014 handoff](../sessions/S013/CLOSEOUT.md).

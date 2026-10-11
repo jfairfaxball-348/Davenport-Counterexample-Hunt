@@ -714,3 +714,47 @@ Proves the actual original GG1999 printed p207 terminal trichotomy, allowing all
 ### S012 composition and scope
 
 S012 complete hand proof CLM-0084–0087 closes BSP2012 Lem5.2, including actual doubled alternatives and t=1,2,4. eta7 and rank-three plane deductions remain CONDITIONAL on original rank-two eta/Property C; stronger coefficient unproved. CLM-0088 proves only the actual GG1999 terminal trichotomy implication; full B=>C/Reiher inputs remain unproved. Phase1 IN_PROGRESS; Phases2/3 NOT_STARTED; CAM-0001 PROPOSED / NOT RUNNING, activation BLOCKED by published n6=16. All 30 numerical rows unchanged; no openness inference. Hosted CI absent, NOT PASS. Earlier CLM-0075–0079,0081,0083 are unchanged historical narrow claims; their prior unresolved statements describe their original session, now composed separately by CLM-0087. CLM-0082 stays SOURCE_STATED.
+
+## CLM-0089 — PROGRAMME_PROVED
+
+For every prime p, every indexed length3p−2 sequence over C_p² has a p- or2p-term zero sum. Self-contained finite-field counting proof.
+
+Category: SOURCE_AUDIT. Origin: research/S013_RANK_TWO_ORIGINAL_DEPENDENCIES.md. Sources: SRC-0026, SRC-0027.
+
+Counting indicator/monomial sums proved independently; no Chevalley–Warning axiom or numerical search.
+
+## CLM-0090 — PROGRAMME_PROVED
+
+For every prime p, D(C_p²)=2p−1. Self-contained group-algebra upper proof and coordinate lower proof.
+
+Category: SOURCE_AUDIT. Origin: research/S013_RANK_TWO_ORIGINAL_DEPENDENCIES.md. Sources: SRC-0026, SRC-0001.
+
+Restricted rank-two elementary abelian equality only, not the general p-group frontier theorem.
+
+## CLM-0091 — PROGRAMME_PROVED
+
+For every prime p, eta(C_p²)<=3p−2; every zero-sum sequence over C_p² of length>=2p contains a nonempty zero sum of length<=p.
+
+Category: SOURCE_AUDIT. Origin: research/S013_RANK_TWO_ORIGINAL_DEPENDENCIES.md. Sources: SRC-0026, SRC-0028.
+
+Uses CLM-0089/0090; exact original Lem4.3(1)/(3) rank-two inputs. General Gao1997 Lem7 not certified.
+
+## CLM-0092 — PROGRAMME_PROVED
+
+For odd prime p satisfying Property B, any short-free sequence a^(p−1)b^(p−1) product_(i=1)^(p−1)c_i over C_p² has all c_i equal (original Lem10.6).
+
+Category: SOURCE_AUDIT. Origin: research/S013_RANK_TWO_ORIGINAL_DEPENDENCIES.md. Sources: SRC-0026.
+
+Complete availability and positive-coordinate hand proof; Property B is explicit hypothesis.
+
+## CLM-0093 — PROGRAMME_PROVED
+
+For odd prime p satisfying Property B, every short-free length3p−3 sequence over C_p² has exactly three values each repeatedp−1; complete independent B=>C implication.
+
+Category: SOURCE_AUDIT. Origin: research/S013_RANK_TWO_ORIGINAL_DEPENDENCIES.md. Sources: SRC-0026.
+
+Proves extraction, translation/padding, exact D, specific Cor10.5(2), Lem10.6, actual constant-sum setup and REAL terminal trichotomy using CLM-0088. Does NOT prove unconditional prime Property B; historical CLM-0082 remains SOURCE_STATED.
+
+### S013 historical scope note
+
+CLM-0082 stays SOURCE_STATED as directed; its earlier session observation is preserved. New CLM-0093 completely proves the implication under Property B, while unconditional Reiher Property B remains an independently unclosed input. CLM-0087 and every prior narrow claim remain unchanged.

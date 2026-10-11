@@ -1,0 +1,31 @@
+{
+  "session": "S013",
+  "entry_main": "e22e1f369606c848d94b71bce737d74301a00954",
+  "entry_tree": "adfc83526c58e495230d7e27364e7ee96c1766de",
+  "prior_s012_pr": 12,
+  "prior_s012_head": "d6b9bc4a95ea6844dc9adfecc70f57f25726ca2b",
+  "prior_s012_head_parent": "eb47980a78c1298e557202b4b63fe45459bdb87b",
+  "prior_s012_head_tree": "adfc83526c58e495230d7e27364e7ee96c1766de",
+  "prior_s012_merge": "e22e1f369606c848d94b71bce737d74301a00954",
+  "prior_merge_parents": [
+    "eb47980a78c1298e557202b4b63fe45459bdb87b",
+    "d6b9bc4a95ea6844dc9adfecc70f57f25726ca2b"
+  ],
+  "prior_merge_tree": "adfc83526c58e495230d7e27364e7ee96c1766de",
+  "prior_pr_commit_count": 1,
+  "git_ls_remote_independently_agrees": true,
+  "all_prs_1_through_12_merged": true,
+  "open_prs": 0,
+  "competing_s013_branches": false,
+  "branch_main_summary_protected": false,
+  "branch_standalone_protection": "Direct REST HTTP401 Requires authentication; authenticated GitHub connector fresh S013 HTTP403 Resource not accessible by integration",
+  "rulesets": [],
+  "workflow_yaml": 0,
+  "workflow_api_inventory": "HTTP200 total_count0",
+  "hosted_action_runs": 0,
+  "hosted_action_jobs": 0,
+  "check_runs": 0,
+  "status_contexts": 0,
+  "combined_status": "pending with empty statuses, NOT PASS",
+  "ci_pass_claimed": false
+}

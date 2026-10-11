@@ -1,0 +1,13 @@
+{
+  "session": "S013",
+  "future_session": "S014",
+  "bytes": 8753,
+  "sha256": "b5479ab9e1a4ac0de71ad7cb0d4cab9c344c2b64886b75bd2086be43940ccb69",
+  "status": "FUTURE_UNEXECUTED",
+  "authoritative": "authoritative/NEXT_SESSION_PROMPT.md",
+  "closeout_markers": [
+    "S014_PROMPT_START",
+    "S014_PROMPT_END"
+  ],
+  "raw_chat_transport_hash_claimed": false
+}

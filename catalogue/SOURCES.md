@@ -251,3 +251,45 @@ SRC-0022: S012 original Thm4.1(2) n6=16 statement rechecked; source-exact not wh
 SRC-0023: S012 originalII Cor4.3 rank-three2p^a exact-family statement rechecked for n6,10,14,18,22,26, historical long proof not rebuilt.
 
 SRC-0002: S012 originalIII Cor1.5VIII rank-three3*2^a statement rechecked for n6,12,24, historical long proof not rebuilt.
+
+### S013 original-source update
+
+SRC-0026: S013 complete independently proved rank-two Lem4.3 prerequisites, specific Cor10.5(2), Lem10.6 and B=>C implication under explicit Property B in CLM-0089–0093. Unconditional Reiher Property B not reconstructed; CLM-0082 SOURCE_STATED preserved. Fresh original author scan hash matches S012.
+
+SRC-0025: S013 required original dependency nodes read; FIRST remaining unconditional input Property B through Lem7.2 / unrebuilt Prop4.1 strategic equations, Cor2.5/Obs7.1. No full programme proof.
+
+SRC-0021: S013 complete S012 Lem5.2 preserved. Rank-two eta independently proved; rank-three plane argument now conditional on Property B via complete B=>C implication. Stronger 3(p−1)/2 coefficient still unproved.
+
+SRC-0008: S013 original Prop1/8 and diagram pages inspected; full classification/upper induction not independently proved; k−3 restricted arithmetic only.
+
+SRC-0019: S013 subscript15/18 distinguished from superscript at-most-three17; diagrams not fully reconstructed.
+
+SRC-0013: S013 fresh official full thesis HTTP403 (6274-byte HTML); Chapter4 unread, separately from S012/S011/S010403 and S009 internal error.
+
+SRC-0020: S013 fresh HTTP403; no full Chapter4 access; exactly-three-free is distinct.
+
+SRC-0024: S013 fresh original Prop5.6 pp16–17 read; original HTTPS C53 code/output request timed out; neither authenticated nor executed.
+
+SRC-0015: S013 originalv1 abstract/source archive read-only matches S012 16680-byte SHA25699dc658b3381038fe0c7b2f89145c52a9687e185883cf2a6fdcc0cb8860b1e21 and five members; no implementation/log/certificate among retrieved members. M1 repeated generators not final predicate; M2/M3 differ. No code execution or global absence claim.
+
+SRC-0022: S013 original Thm4.1(2) n6=16 statement rechecked; whole historic proof not certified.
+
+SRC-0023: S013 original II exact2p^a source family retained; no whole historical proof certification.
+
+SRC-0002: S013 original III exact3·2^a source family retained; no whole historical proof certification.
+
+## SRC-0027 — Olson, A combinatorial problem on finite Abelian groups II
+
+Year: 1969. Access: **METADATA_ONLY** (2026-10-11).
+
+[Primary source](https://doi.org/10.1016/0022-314X(69)90037-7)
+
+GG1999 original Ol2 bibliography pp185,210 and primary publisher metadata authenticate identity. Full-PDF endpoint HTTP200 returned195-byte Site Unavailable HTML, not original paper. Required rank-two extraction independently proved CLM-0089; no original Olson full-proof inspection.
+
+## SRC-0028 — Gao, On a combinatorial problem connected with factorizations
+
+Year: 1997. Access: **PROOF_INSPECTED** (2026-10-11).
+
+[Primary source](https://matwbn.icm.edu.pl/ksiazki/cm/cm72/cm7225.pdf)
+
+Original GG1999 Ga4 bibliography and journal volume listing/DOI10.4064/cm-72-2-251-268 authenticate original18-page PDF. Lemmas5–7 pp253–255 inspected; Lem7 supplies large proper zero block conditional on D(H⊕Cn²), at H=Cp,n=p imports rank-three p-group identity. General proof not independently certified; exact rank-two required consequence independently proved CLM-0091.
