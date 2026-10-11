@@ -1,12 +1,12 @@
 {
-  "as_of": "2026-10-10",
+  "as_of": "2026-10-11",
   "universe": "n=1..30 (n=1 trivial exceptional)",
   "status_enum": [
     "SETTLED",
     "SANDWICHED",
     "UNKNOWN"
   ],
-  "notation": "S002 VERIFIED DEDUCTION intervals: every upper bound obtained by a complete programme deduction from independent C2^3 theorem and/or SOURCE_STATED Bhowmik-Schlage-Puchta C3^3 multiwise theorem and Olson p-group theorem; no composite exact value certified. SOURCE_STATED does not mean proof formalized.",
+  "notation": "S003 n1..30 intervals rechecked against programme binary induction, primary Olson p-group SOURCE_STATED and BSP ternary SOURCE_STATED; no composite exact values certified. Grinsztajn written PDF inaccessible; no universal bound imported. Phase 1 IN_PROGRESS.",
   "rows": [
     {
       "n": 1,
