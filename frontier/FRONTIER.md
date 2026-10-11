@@ -81,3 +81,7 @@ Complete source pages, formula hypotheses, all 30 applications, and proof gaps: 
 ## S006 source-proof follow-through
 
 No endpoint changes. S006 repairs ONE printed BSP2012 p7 conditional subcase (CLM-0075) but does not prove the full p7 lemma or exact stronger coefficient. The published Schmid2011 n6=16 and van Emde Boas II/III exact families retain SOURCE_STATED values despite incomplete long proof reconstructions. Targeted n15/20/21/28/30 primary-result checks found no additional independently authenticated exact value in this bounded pass; these intervals must NOT be called presently open. Phase1 IN_PROGRESS, Phase2/3 NOT_STARTED, CAM-0001 proposed/not running with activation blocked; see [S006 audit](../research/S006_COEFFICIENT_P7_PROVENANCE.md).
+
+## S007 follow-through
+
+All 30 Markdown/JSON numeric rows unchanged: 25 exact/trivial source-stated and five conditional intervals n15 43..45, n20 58..59, n21 61..63, n28 82..83, n30 88..90. Bounded primary-result checks authenticated no new exact value, NOT evidence of current openness. Schmid2011 n6=16 and van Emde Boas II/III families remain source-stated even though full long proofs are not independently reconstructed. CLM-0076 proves only one first p7 normalization, not eta7 or stronger coefficient. Inherited 14/17, +5, 43/699/5553 quarantined; no campaign or Phase2/3.

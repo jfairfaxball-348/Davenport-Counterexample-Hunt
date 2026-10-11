@@ -21,3 +21,7 @@ S005 closeout: [full record, validation and unexecuted S006 handoff](../sessions
 | S006 | 2026-10-11 | Bounded source-only coefficient/p7 repair, Reiher/GG, BSP2007/Sheikh, GHST/Yiu provenance, original families and 30-row review | Phase1 IN_PROGRESS, local CLM-0075 only, 25 exact/trivial + five intervals; no Phase2/3 or campaign | session/S006-coefficient-p7-provenance |
 
 S006 closeout: [full record and future UNEXECUTED S007 prompt](../sessions/S006/CLOSEOUT.md).
+
+| S007 | 2026-10-11 | Bounded paper-only coefficient, first p7 WLOG proof, Reiher/GG, BSP2007/Sheikh, GHST/Yiu, 30-row frontier | Phase1 IN_PROGRESS; CLM-0076 only local, no Phase2/3 or campaign | session/S007-source-proof-normalization |
+
+[S007 closeout and S008 future UNEXECUTED handoff](../sessions/S007/CLOSEOUT.md).

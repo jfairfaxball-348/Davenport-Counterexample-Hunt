@@ -42,3 +42,8 @@
 | S006 | Published p7 alleged zero sum | False printed (1,6) expression can be replaced in that same assumed case by 2(6,1)+(2,4)+(0,1)=0 | Valid conditional CLM-0075 only; do not claim full case exhaustion or eta7 proof |
 | S006 | Stronger BSP coefficient and source dependencies | Short block split gives (3p−1)/2, not claimed 3(p−1)/2; GG/Reiher and BSP diagram proofs incomplete | CLM-0068 only a conditional replacement; Phase1 remains IN_PROGRESS |
 | S006 | Computation and interval provenance | GHST C53 actual original code uninspected, Yiu M1 final predicate distinct from generated counts, no new exact primary n15/20/21/28/30 | Never label code certified, UNSAT, or a currently open row based on absence |
+
+| S007 | BSP p7 reduction | First x,2x WLOG can be proved by replacement but later subgroup/classification reduction not verified | CLM-0076 limited PROGRAMME_PROVED, no eta7 upgrade |
+| S007 | Original Sheikh dissertation | Direct university 137p PDF located/indexed but full-file HTTP403 | Full Chapter4 not read; no exactly-three/at-most-three conflation |
+| S007 | GHST/Yiu provenance | GHST C53 code inaccessible, Yiu M1 generator repetitions do not repeat final predicate; M2/M3 distinct | No computed certificate or external code run |
+| S007 | Hosted CI/protection | No runs/jobs/checks/status contexts, protection read 403 | No CI PASS or branch-unprotected claim |

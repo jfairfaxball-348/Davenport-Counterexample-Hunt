@@ -1,0 +1,34 @@
+{
+  "session": "S007",
+  "kind": "ADMINISTRATIVE_ONLY",
+  "result": "PASS",
+  "checks": {
+    "sources25": true,
+    "claims76": true,
+    "uniqueSourceIds": true,
+    "uniqueClaimIds": true,
+    "allClaimSourcesExist": true,
+    "newClaimMarkdown": true,
+    "frontier30": true,
+    "fiveIntervals": true,
+    "bounds": true,
+    "upperArithmetic": true,
+    "mdMirror": true,
+    "phase1Held": true,
+    "futurePromptMatch": true,
+    "noCertifiedComputations": true
+  },
+  "checks_passed": 14,
+  "changed_files": 23,
+  "mathematical_certification": false,
+  "source_code_executed": false,
+  "hosted_ci_pass": false,
+  "limits": [
+    "Full original mathematical proofs not certified",
+    "Sheikh full PDF HTTP403",
+    "GHST/Yiu ancillary source not verified",
+    "No hosted Actions CI exists at entry",
+    "Raw chat transport bytes unavailable"
+  ],
+  "errors": []
+}

@@ -1,0 +1,31 @@
+{
+  "session": "S007",
+  "entry_main": "f1a52c99abd03e66f612a4aa16b2bfb48ec77795",
+  "phase1": "IN_PROGRESS",
+  "phase2": "NOT_STARTED",
+  "phase3": "NOT_STARTED",
+  "sources": 25,
+  "claims": 76,
+  "frontier_rows": 30,
+  "exact_trivial": 25,
+  "intervals": [
+    15,
+    20,
+    21,
+    28,
+    30
+  ],
+  "new_local_result": "CLM-0076",
+  "campaign": "CAM-0001_PROPOSED_NOT_RUNNING_BLOCKED",
+  "source_code_executed": false,
+  "numerical_searches": 0,
+  "candidates": 0,
+  "negative_certificates": 0,
+  "hosted_runs": 0,
+  "hosted_jobs": 0,
+  "hosted_check_runs": 0,
+  "ci_pass_claimed": false,
+  "branch_protection": "UNKNOWN_403",
+  "future_unexecuted": "S008",
+  "owner_blockers": []
+}
