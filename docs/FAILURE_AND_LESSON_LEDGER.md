@@ -54,3 +54,10 @@
 | S008 | Hosted GitHub verification | Actual workflows0, runs0, jobs0, check-runs0, statuses0; rulesets [] but protection not independently readable | ADMIN validation is NOT CI PASS; no unsafe inference |
 
 **S008 negative scope:** no mathematical exhaustive negative, zero-sumfree candidate, campaign, SAT/ILP, code execution, numerical enumeration or formal certificate. Historical 14/17, +5, 43/699/5553 quarantined.
+
+| S009 | BSP2012 Lem5.2 eight omitted vectors and (5,5) branch | With conditional 2 mixed-line normalization and two diagonal copies, 9 remaining terms restricted to 8 vectors; every repeated candidate has a ≤7 zero sum | New CLM-0079 PROGRAMME_PROVED ONLY for (5,5)-twice branch; first outstanding inference is other (5,5) branch / claimed at-most-one mixed subgroup; eta7 NOT proved |
+| S009 | Gao–Geroldinger B⇒C provenance | Reiher [6] is original GG1999 Theorem10.7, not GG2006 survey; full publisher proof not accessed | SRC-0026 METADATA_ONLY; no B⇒C proof certification |
+| S009 | Read-only source/access limitations | Sheikh official thesis full Chapter4 current retrieval error (older HTTP403); C53.html full code AND output unavailable; Yiu M1 final predicate/ancillary M2/M3 not independently certified | No author-code runs, no false COMPUTED_EXACT upgrades; no source non-discovery openness claim |
+| S009 | Real CI | No workflow files, zero Actions runs/jobs, check-runs or statuses; branch/main summary unprotected, rulesets [] | Admin validation is NOT hosted CI PASS |
+
+**S009 negative scope:** no numerical mathematical search, SAT/ILP, orbit enumeration, campaign, candidate, exhaustive negative, source-program execution, Lean or formal certificate. Inherited 14/17, +5 and 43/699/5553 remain quarantined.

@@ -213,3 +213,11 @@ S006 reads theorem10.2 and printed p27 B⇒C citation, not full dependency proof
 ### S007 read-only primary-source update
 
 SRC-0021 published pp22–23/29–30: coefficient 3(p−1)/2 still unproved from the split; CLM-0076 resolves ONLY first p7 x,2x replacement. SRC-0025 Reiher/GG dependency identified, full original proof not independently completed. SRC-0008/SRC-0019 2007 Prop1/8 diagrams and k−2/k−3 incomplete. SRC-0013/SRC-0020 official 137p Sheikh2017 PDF https://pure.royalholloway.ac.uk/files/28262990/The_Davenport_Constant_of_Finite_Abelian_Groups.pdf located/indexed, but full-file HTTP403 and Chapter4 NOT read; STATEMENT_INSPECTED unchanged. SRC-0024 original GHST C53.html code/output inaccessible. SRC-0015 Yiu M1 final predicate singly author implemented despite repeated generators, M2/M3 distinct; no verified ancillary bytes. SRC-0022/SRC-0023/SRC-0002 exact historical source-stated values retained without full programme certification.
+
+## SRC-0026 — Gao–Geroldinger, On Long Minimal Zero-Sum Sequences in Finite Abelian Groups
+
+Year: 1999. Access: **METADATA_ONLY** (2026-10-11).
+
+[Primary journal DOI](https://doi.org/10.1023/A:1004854508165)
+
+Reiher2010 original reference [6] p.29 identifies the original Periodica Mathematica Hungarica 38 (1999), 179–211, whose Theorem 10.7 is invoked at Reiher p.27 for Property B⇒C. S009 verified bibliographical identity and publisher metadata, NOT the original theorem proof: available preview was insufficient. The 2006 Gao–Geroldinger survey is a separate publication and is not substituted. No change to source proof gate.

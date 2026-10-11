@@ -41,3 +41,7 @@
 | 2026-10-11 | S008 proves conditional two mixed-line GL2 normalization CLM-0077 and explicit t=0,3,5,6 short sums CLM-0078; not the mixed-line impossibility or full p7 lemma | SRC-0021 pp.29–30, research/S008_SOURCE_PROOF_VERIFICATION.md §2 | LIMITED PROGRAMME_PROVED, ETA7 UNVERIFIED |
 | 2026-10-11 | Stronger BSP coefficient, Property B/C and diagrammatic source chains and inaccessible thesis/GHST/Yiu artifacts remain | S008 primary paper/provenance pass | PHASE1 IN_PROGRESS, NO CI PASS |
 | 2026-10-11 | 25 exact/trivial and five intervals unchanged; n6=16 blocks CAM-0001; no replacement target or Phases2/3 | S008 30-row frontier verification | CAM-0001 PROPOSED/NOT RUNNING BLOCKED; STOP S008 |
+
+| 2026-10-11 | S009 hand-proves conditional two-mixed-line (5,5)-twice and all eight omitted-vector exclusions; DOES NOT close remaining p7 case | CLM-0079, SRC-0021 p29, S009 report §2 | LIMITED PROGRAMME_PROVED, ETA7 SOURCE_STATED |
+| 2026-10-11 | Identify original GG1999 Theorem10.7 source distinct from GG2006 survey; publisher proof access insufficient | SRC-0026 METADATA_ONLY, CLM-0080 | ORIGINAL B⇒C PROOF UNVERIFIED |
+| 2026-10-11 | Preserve 30-row frontier and CAM-0001 block; zero hosted CI, no campaign or Phase2/3 | S009 full source-only audit, administrative validation | PHASE1 IN_PROGRESS; CAM BLOCKED; NO CI PASS |

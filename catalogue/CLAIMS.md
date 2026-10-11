@@ -625,3 +625,20 @@ Conditional on BSP2012 Lemma5.2's terminal p7 reduction providing at least two c
 Category: SOURCE_AUDIT. Origin: research/S008_SOURCE_PROOF_VERIFICATION.md section2. Sources: SRC-0021.
 
 Explicit forbidden subsums: t0 singleton zero; t3 2(3,3)+(1,0)+(0,1)=(7,7), length4; t5 (5,5)+2(1,0)+2(0,1)=(7,7), length5; t6 (6,6)+(1,0)+(0,1)=(7,7), length3. All hypotheses are conditional on prior multiplicity existence; no whole-lemma or eta upgrade.
+
+## CLM-0079 — PROGRAMME_PROVED
+
+Under BSP2012 Lemma5.2's no-zero-sum-of-length-at-most-7 and at-most-two-terms-per-cyclic-subgroup hypotheses, **conditional on** two mixed lines being normalized to (1,0),(3,0),(0,1),(0,3) and TWO copies of (5,5), all other nine terms lie among eight printed vectors; some repeats and all eight repeats force a zero sum of length at most seven.
+
+Category: SOURCE_AUDIT. Origin: research/S009_SOURCE_PROOF_VERIFICATION.md section 2. Sources: SRC-0021.
+
+Complete restricted hand proof: k=0,1,2 diagonal copies give coordinate forbidden residue sets S0={0,3,4,6}, S1={1,2,5,6}, S2={0,1,3,4}; only ordered pairs joining {2,5} to {3,4} have disjoint sets. The eight repetition witnesses (lengths four to six) are explicitly recorded in S009. This DOES NOT prove the at-most-one-mixed-line assertion without the other (5,5) branch, subsequent x+y-in-<z> intersection, final t=1,2,4, Lemma5.2, eta7 or the stronger short-block coefficient.
+
+## CLM-0080 — SOURCE_STATED
+
+Reiher2010 [6] original Gao–Geroldinger1999 Theorem10.7 Property B⇒C reference is NOT Gao–Geroldinger's 2006 survey. The ORIGINAL Theorem10.7 proof has not been inspected.
+
+Category: SOURCE_AUDIT. Origin: research/S009_SOURCE_PROOF_VERIFICATION.md section 3. Sources: SRC-0025, SRC-0026.
+
+Original paper bibliographic identity established from Reiher's references and publisher DOI metadata, but the original theorem's full premises/deduction are not proved in this session. The source SRC-0026 is METADATA_ONLY, not PROOF_INSPECTED.
+

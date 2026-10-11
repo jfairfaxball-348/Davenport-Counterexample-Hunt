@@ -1,0 +1,39 @@
+{
+  "session": "S009",
+  "entry_main": "74130b059940a3bf4dbe4e75bb7fee40a7cdea49",
+  "phase1": "IN_PROGRESS",
+  "phase2": "NOT_STARTED",
+  "phase3": "NOT_STARTED",
+  "sources": 26,
+  "claims": 80,
+  "frontier_rows": 30,
+  "exact_trivial": 25,
+  "intervals": [
+    15,
+    20,
+    21,
+    28,
+    30
+  ],
+  "new_local_results": [
+    "CLM-0079"
+  ],
+  "new_source": [
+    "SRC-0026"
+  ],
+  "new_source_identity_claim": [
+    "CLM-0080"
+  ],
+  "campaign": "CAM-0001_PROPOSED_NOT_RUNNING_BLOCKED",
+  "source_code_executed": false,
+  "numerical_searches": 0,
+  "candidates": 0,
+  "negative_certificates": 0,
+  "hosted_runs": 0,
+  "hosted_jobs": 0,
+  "hosted_check_runs": 0,
+  "ci_pass_claimed": false,
+  "branch_protection": "MAIN_SUMMARY_UNPROTECTED_STANDALONE_UNKNOWN",
+  "future_unexecuted": "S010",
+  "owner_blockers": []
+}
