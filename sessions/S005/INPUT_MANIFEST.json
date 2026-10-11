@@ -1,0 +1,7 @@
+{
+  "session": "S005",
+  "file": "sessions/S005/INPUT.md",
+  "sha256": "2223567bbc2f74d8bfe8bf3e1caafb7955aceabd773d48b9e5571c152176967e",
+  "provenance": "Identical to S004 authenticated outgoing authoritative/NEXT_SESSION_PROMPT.md; hash copied from validation/S004_VALIDATION.json input_sha256 for that exact path.",
+  "scope": "UTF-8 LF visible owner text transcription, final newline; not original chat transport bytes."
+}
