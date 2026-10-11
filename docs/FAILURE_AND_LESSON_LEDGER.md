@@ -47,3 +47,10 @@
 | S007 | Original Sheikh dissertation | Direct university 137p PDF located/indexed but full-file HTTP403 | Full Chapter4 not read; no exactly-three/at-most-three conflation |
 | S007 | GHST/Yiu provenance | GHST C53 code inaccessible, Yiu M1 generator repetitions do not repeat final predicate; M2/M3 distinct | No computed certificate or external code run |
 | S007 | Hosted CI/protection | No runs/jobs/checks/status contexts, protection read 403 | No CI PASS or branch-unprotected claim |
+
+| S008 | p7 mixed-line normalization | Under no short zero sum, distinct values on an occupied line have ratio 3 or 5 once x,2x eliminated; two such lines admit a conditional GL2 normalization, not the assertion that at most one exists | CLM-0077 scope limited; full p7 proof and eta7 not closed |
+| S008 | p7 final t cases | If preceding multiplicity setup actually holds, t=0,3,5,6 yield explicit forbidden short sums; t1/2/4 and setup are not proved | CLM-0078 partial hand check only |
+| S008 | Source coefficient / access | Printed 3p split still one term too weak, Sheikh PDF current fetch error after historical 403, C53 unavailable, Yiu archived artifacts not independently located | Phase1 held; source-stated results not demoted, no code run |
+| S008 | Hosted GitHub verification | Actual workflows0, runs0, jobs0, check-runs0, statuses0; rulesets [] but protection not independently readable | ADMIN validation is NOT CI PASS; no unsafe inference |
+
+**S008 negative scope:** no mathematical exhaustive negative, zero-sumfree candidate, campaign, SAT/ILP, code execution, numerical enumeration or formal certificate. Historical 14/17, +5, 43/699/5553 quarantined.

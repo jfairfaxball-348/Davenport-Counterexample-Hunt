@@ -1,0 +1,62 @@
+{
+  "session": "S008",
+  "source_only": true,
+  "inspected": [
+    {
+      "id": "SRC-0021",
+      "pages": "published 22–23,29–30",
+      "scope": "coefficient and p7 conditional cases"
+    },
+    {
+      "id": "SRC-0025",
+      "pages": "26–27",
+      "scope": "Reiher theorem and dependency inventory"
+    },
+    {
+      "id": "SRC-0003",
+      "pages": "selected index and theorem lines",
+      "scope": "GG2006 survey distinguished from original 10.7 proof"
+    },
+    {
+      "id": "SRC-0008",
+      "pages": "3,6–11",
+      "scope": "rank3 count and diagrammatic dependencies"
+    },
+    {
+      "id": "SRC-0020",
+      "pages": "unavailable full 137-page PDF",
+      "scope": "historical 403, current web error and direct download failed"
+    },
+    {
+      "id": "SRC-0024",
+      "pages": "16–17",
+      "scope": "GHST original C53 source and output pointer, actual page unavailable"
+    },
+    {
+      "id": "SRC-0015",
+      "pages": "arXiv v1 2.3,5,8",
+      "scope": "M1 generator vs final test and M2/M3 differences"
+    },
+    {
+      "id": "SRC-0022",
+      "pages": "27–29",
+      "scope": "published n6 exact, long proof incomplete"
+    },
+    {
+      "id": "SRC-0023",
+      "pages": "33–35",
+      "scope": "historical 2p^a family"
+    },
+    {
+      "id": "SRC-0002",
+      "pages": "13–14",
+      "scope": "historical 3·2^a family"
+    }
+  ],
+  "sheikh_full_pdf_url": "https://pure.royalholloway.ac.uk/files/28262990/The_Davenport_Constant_of_Finite_Abelian_Groups.pdf",
+  "full_thesis_read": false,
+  "ghst_original_code_output_read": false,
+  "yiu_ancillary_code_logs_certificates_verified": false,
+  "author_code_executed": false,
+  "numerical_search_executed": false
+}

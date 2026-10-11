@@ -1,6 +1,6 @@
-# Frontier after S006
+# Frontier after S008
 
-S006 source-only audit confirms the previously corrected 30 rows. No endpoint changes: source-exact families supersede older nonsharp intervals, with no programme certificate inferred. Five conditional interval entries do not assert openness. Phase1 IN_PROGRESS; no Phase2 target selected.
+S008 source-only audit confirms the previously corrected 30 rows. No endpoint changes: source-exact families supersede older nonsharp intervals, with no programme certificate inferred. Five conditional interval entries do not assert openness. Phase1 IN_PROGRESS; no Phase2 target selected.
 
 **D(C6³)=16 is already a source-stated exact theorem.** CAM-0001 remains PROPOSED / NOT RUNNING with its premise obsolete. No Phase-2 target is selected. n=15 is the first interval requiring further literature review, not a declaration of openness.
 
@@ -85,3 +85,7 @@ No endpoint changes. S006 repairs ONE printed BSP2012 p7 conditional subcase (CL
 ## S007 follow-through
 
 All 30 Markdown/JSON numeric rows unchanged: 25 exact/trivial source-stated and five conditional intervals n15 43..45, n20 58..59, n21 61..63, n28 82..83, n30 88..90. Bounded primary-result checks authenticated no new exact value, NOT evidence of current openness. Schmid2011 n6=16 and van Emde Boas II/III families remain source-stated even though full long proofs are not independently reconstructed. CLM-0076 proves only one first p7 normalization, not eta7 or stronger coefficient. Inherited 14/17, +5, 43/699/5553 quarantined; no campaign or Phase2/3.
+
+## S008 source-only all-30-row audit
+
+The 30 Markdown table entries match frontier.json exactly. Twenty-five source-stated exact/trivial rows and the same five conditional intervals remain: n15 43..45 (3×13+6), n20 58..59 (2×28+3), n21 61..63 (3×19+6), n28 82..83 (2×40+3), n30 88..90 (3×28+6). New CLM-0077/0078 are restricted p7 paper deductions with no effect on these endpoints. Historical Schmid2011 n6=16 and 1969 exact families are not demoted because their complete proof chains were not independently reconstructed. No interval is asserted to be a currently open problem. Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED and CAM-0001 BLOCKED.

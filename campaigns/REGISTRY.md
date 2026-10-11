@@ -37,3 +37,7 @@ CAM-0001 stays **PROPOSED / NOT RUNNING**, activation **BLOCKED** by published D
 ### S007 status — 2026-10-11
 
 CAM-0001 remains **PROPOSED / NOT RUNNING**, activation **BLOCKED** by source-stated exact D(C6³)=16; S007 mathematical source audit changes no premise. No replacement campaign/tooling, SAT/ILP, numerical search, orbit count, candidate or exhaustive negative. Phase1 IN_PROGRESS; Phases2/3 NOT_STARTED.
+
+### S008 disposition — 2026-10-11
+
+CAM-0001 **PROPOSED / NOT RUNNING**, activation **BLOCKED**: original Schmid2011 exact D(C6³)=16 invalidates the length-16 zero-sumfree premise. S008 only checked sources and symbolic conditional sublemmas CLM-0077/0078; no replacement, tooling, numerical search, solver, campaign, candidate or exhaustive negative. Phase1 IN_PROGRESS; Phases2/3 NOT_STARTED.

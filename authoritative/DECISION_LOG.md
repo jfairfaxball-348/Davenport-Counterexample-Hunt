@@ -37,3 +37,7 @@
 | 2026-10-11 | S007 independently proves first p7 x,2x WLOG normalization but not remainder of Lemma5.2 | CLM-0076, SRC-0021 p29 | LIMITED PROGRAMME_PROVED / FULL p7 NOT CLOSED |
 | 2026-10-11 | Coefficient/eta7, Reiher/GG, BSP2007 diagrams, Sheikh full thesis HTTP403, GHST/Yiu proof-artifact gaps retained | research/S007_SOURCE_PROOF_VERIFICATION.md | PHASE1 IN_PROGRESS |
 | 2026-10-11 | 25 exact/trivial source rows and five intervals unchanged; CAM-0001 obsolete n6 premise | S007 30-row audit | PHASE2/3 NOT_STARTED, CAM BLOCKED |
+
+| 2026-10-11 | S008 proves conditional two mixed-line GL2 normalization CLM-0077 and explicit t=0,3,5,6 short sums CLM-0078; not the mixed-line impossibility or full p7 lemma | SRC-0021 pp.29–30, research/S008_SOURCE_PROOF_VERIFICATION.md §2 | LIMITED PROGRAMME_PROVED, ETA7 UNVERIFIED |
+| 2026-10-11 | Stronger BSP coefficient, Property B/C and diagrammatic source chains and inaccessible thesis/GHST/Yiu artifacts remain | S008 primary paper/provenance pass | PHASE1 IN_PROGRESS, NO CI PASS |
+| 2026-10-11 | 25 exact/trivial and five intervals unchanged; n6=16 blocks CAM-0001; no replacement target or Phases2/3 | S008 30-row frontier verification | CAM-0001 PROPOSED/NOT RUNNING BLOCKED; STOP S008 |

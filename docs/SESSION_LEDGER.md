@@ -25,3 +25,7 @@ S006 closeout: [full record and future UNEXECUTED S007 prompt](../sessions/S006/
 | S007 | 2026-10-11 | Bounded paper-only coefficient, first p7 WLOG proof, Reiher/GG, BSP2007/Sheikh, GHST/Yiu, 30-row frontier | Phase1 IN_PROGRESS; CLM-0076 only local, no Phase2/3 or campaign | session/S007-source-proof-normalization |
 
 [S007 closeout and S008 future UNEXECUTED handoff](../sessions/S007/CLOSEOUT.md).
+
+| S008 | 2026-10-11 | Bounded source-only p7 conditional normalizations/t-exclusions, stronger coefficient, dependent papers and read-only provenance, full 30-row audit | Phase1 IN_PROGRESS; CLM-0077/0078 only; Phases2/3 NOT_STARTED; CAM-0001 BLOCKED, no search/candidate | session/S008-p7-classification-provenance |
+
+[S008 closeout and future UNEXECUTED S009 handoff](../sessions/S008/CLOSEOUT.md).

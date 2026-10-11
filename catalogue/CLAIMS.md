@@ -609,3 +609,19 @@ Under the no-zero-sum-of-length-at-most-seven and at-most-two-terms-per-cyclic-s
 Category: SOURCE_AUDIT. Origin: research/S007_SOURCE_PROOF_VERIFICATION.md section2. Sources: SRC-0021.
 
 The two terms x and 2x fill the cyclic subgroup's two allowed slots. Replace 2x by x. Any new zero sum with zero or one of the two x copies yields the same original zero sum; if it contains both, replace them by the single original 2x to yield a strictly shorter original zero sum. Therefore absence of sums of length at most seven is preserved; support shrinks and iteration terminates. This proves ONLY the first printed without-loss reduction, not later classification steps, Lemma5.2, eta7 or the exact k-wise coefficient.
+
+## CLM-0077 — PROGRAMME_PROVED
+
+In BSP2012 Lemma5.2's p7 no-short-zero-sum context after eliminating x,2x pairs, if two distinct cyclic subgroups each contain two different occupied values, a GL2(F7) change of basis normalizes their four values to (1,0),(3,0),(0,1),(0,3); this does NOT establish that two such subgroups are impossible.
+
+Category: SOURCE_AUDIT. Origin: research/S008_SOURCE_PROOF_VERIFICATION.md section2. Sources: SRC-0021.
+
+On each mixed line the ratio of the different occupied values is not 2 or 4 by prior CLM-0076 reduction, not 6 by absence of short length-2 zero sums, leaving 3/5 which become ratio3 on swapping. Distinct lines give independent basis. Conditional normalization only; at-most-one-mixed-line classification and eta7 still unverified.
+
+## CLM-0078 — PROGRAMME_PROVED
+
+Conditional on BSP2012 Lemma5.2's terminal p7 reduction providing at least two copies each of (1,0),(0,1),(t,t), values t=0,3,5,6 each force a nonempty zero sum of length <=7, but this does not establish the preceding reduction or exclude t=1,2,4.
+
+Category: SOURCE_AUDIT. Origin: research/S008_SOURCE_PROOF_VERIFICATION.md section2. Sources: SRC-0021.
+
+Explicit forbidden subsums: t0 singleton zero; t3 2(3,3)+(1,0)+(0,1)=(7,7), length4; t5 (5,5)+2(1,0)+2(0,1)=(7,7), length5; t6 (6,6)+(1,0)+(0,1)=(7,7), length3. All hypotheses are conditional on prior multiplicity existence; no whole-lemma or eta upgrade.

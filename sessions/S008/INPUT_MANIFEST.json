@@ -1,0 +1,9 @@
+{
+  "session": "S008",
+  "file": "sessions/S008/INPUT.md",
+  "copied_verbatim_from": "S007 merged authoritative/NEXT_SESSION_PROMPT.md",
+  "prior_source_blob_sha1": "51fa81b0faf0e140d32e61b7d1720cbdf70a1d39",
+  "owner_invocation_file": "sessions/S008/OWNER_INVOCATION.md",
+  "scope": "Owner supplied S008 full copy-ready prompt, matching published handoff text; stored as separate invocation record. Transport-level bytes and independent SHA256 unavailable; do not assert transport hash.",
+  "entry_main": "a973efe3a20709183d51716719c391b72fe4019f"
+}
