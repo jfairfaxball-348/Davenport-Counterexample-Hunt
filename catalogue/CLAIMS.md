@@ -593,3 +593,11 @@ Reiher's original Property B proof states every prime has Property B and records
 Category: LITERATURE. Origin: SRC-0025 printed p.27. Sources: SRC-0025, SRC-0021.
 
 Primary source statement and dependency path read, not a new independent verification of every Reiher or Gao–Geroldinger proof step or the full p≥11 large-exponent deduction.
+
+## CLM-0075 — PROGRAMME_PROVED
+
+In the printed BSP2012 Lemma5.2 p7 subcase where (6,1) occurs twice and (2,4),(0,1) occur, 2(6,1)+(2,4)+(0,1)=(14,7)=0 mod 7 repairs a single false displayed zero-sum contradiction, not the whole lemma.
+
+Category: SOURCE_AUDIT. Origin: research/S006_COEFFICIENT_P7_PROVENANCE.md section New bounded p=7. Sources: SRC-0021.
+
+Direct conditional four-term symbolic calculation; other subcases, earlier normalizations and eta7 unresolved. See false printed sum CLM-0073.

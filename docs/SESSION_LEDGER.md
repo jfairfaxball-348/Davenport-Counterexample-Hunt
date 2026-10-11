@@ -17,3 +17,7 @@ S004 closeout: [full record and unexecuted S005 handoff](../sessions/S004/CLOSEO
 | S005 | 2026-10-11 | Bounded source audit: published p7 false arithmetic, coefficient, Reiher B/C, BSP2007/Sheikh, GHST/Yiu provenance, historical 30-row frontier | Phase1 IN_PROGRESS, 25 exact/trivial + five intervals; no mathematical campaign, no candidate, no Phase2/3; CAM-0001 blocked | session/S005-remaining-proof-obligations |
 
 S005 closeout: [full record, validation and unexecuted S006 handoff](../sessions/S005/CLOSEOUT.md).
+
+| S006 | 2026-10-11 | Bounded source-only coefficient/p7 repair, Reiher/GG, BSP2007/Sheikh, GHST/Yiu provenance, original families and 30-row review | Phase1 IN_PROGRESS, local CLM-0075 only, 25 exact/trivial + five intervals; no Phase2/3 or campaign | session/S006-coefficient-p7-provenance |
+
+S006 closeout: [full record and future UNEXECUTED S007 prompt](../sessions/S006/CLOSEOUT.md).

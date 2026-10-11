@@ -1,0 +1,55 @@
+{
+  "session": "S006",
+  "source_only": true,
+  "inspected": [
+    {
+      "id": "SRC-0021",
+      "pages": "22–23,29–30",
+      "scope": "original published coefficient and conditional p7 repair"
+    },
+    {
+      "id": "SRC-0025",
+      "pages": "Theorem10.2,printed 27",
+      "scope": "B/C dependency source-stated"
+    },
+    {
+      "id": "SRC-0008",
+      "pages": "3,6–11",
+      "scope": "Proposition1/8 and diagram dependencies"
+    },
+    {
+      "id": "SRC-0020",
+      "pages": "index Chapter4/Remark4.3.11",
+      "scope": "full thesis inaccessible HTTP403"
+    },
+    {
+      "id": "SRC-0024",
+      "pages": "16–17",
+      "scope": "Prop5.6 printed C53 original locator, code unread"
+    },
+    {
+      "id": "SRC-0015",
+      "pages": "arXiv HTML v1 M1/M2/M3",
+      "scope": "predicate distinction, ancillary logs/certs not authenticated"
+    },
+    {
+      "id": "SRC-0022",
+      "pages": "27–29",
+      "scope": "Schmid n6 source-stated exact, long proof partial"
+    },
+    {
+      "id": "SRC-0023",
+      "pages": "33–35 and Theorem2.8",
+      "scope": "report II original exact family dependency"
+    },
+    {
+      "id": "SRC-0002",
+      "pages": "4–5,12–14",
+      "scope": "report III computation/sketch and exact family"
+    }
+  ],
+  "original_code_executed": false,
+  "numerical_search_executed": false,
+  "external_code_or_logs_verified": false,
+  "full_sheikh_thesis_read": false
+}

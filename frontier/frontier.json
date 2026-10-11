@@ -6,7 +6,7 @@
     "SANDWICHED",
     "UNKNOWN"
   ],
-  "notation": "S005 source-only audit confirms S004 corrected 25 source-exact/trivial and five conditional-interval rows; n6 exact published. No new exact result for five intervals authenticated in this bounded pass; this does not assert present-day openness. Phase1 IN_PROGRESS; Phase2/3 NOT_STARTED; no tooling target.",
+  "notation": "S006 read-only source review, one conditional p7 subcase repaired but full coefficient/eta and auxiliary proofs remain unresolved. Numeric 30-row frontier unchanged: 25 source-stated exact/trivial plus five conditional intervals; no openness inference, Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 blocked.",
   "rows": [
     {
       "n": 1,
@@ -243,7 +243,7 @@
         "CLM-0039",
         "SRC-0008"
       ],
-      "notes": "3·13+6=45; S002 tripling and source D(C5³)=13. No exact value authenticated for this row in this bounded audit; no claim of openness. S005 targeted current literature pass did not authenticate an additional exact result; this is not proof of openness.",
+      "notes": "3·13+6=45; S002 tripling and source D(C5³)=13. No exact value authenticated for this row in this bounded audit; no claim of openness. S005 targeted current literature pass did not authenticate an additional exact result; this is not proof of openness. S006 bounded primary-result check found no independently authenticated new exact value; non-discovery does not imply openness.",
       "lower_bound": 43,
       "upper_bound": 45
     },
@@ -323,7 +323,7 @@
         "CLM-0065",
         "SRC-0023"
       ],
-      "notes": "2·28+3=59; S002 doubling and historical D(C10³)=28. No exact value authenticated for this row in this bounded audit; no claim of openness. S005 targeted current literature pass did not authenticate an additional exact result; this is not proof of openness.",
+      "notes": "2·28+3=59; S002 doubling and historical D(C10³)=28. No exact value authenticated for this row in this bounded audit; no claim of openness. S005 targeted current literature pass did not authenticate an additional exact result; this is not proof of openness. S006 bounded primary-result check found no independently authenticated new exact value; non-discovery does not imply openness.",
       "lower_bound": 58,
       "upper_bound": 59
     },
@@ -340,7 +340,7 @@
         "CLM-0039",
         "SRC-0008"
       ],
-      "notes": "3·19+6=63; S002 tripling and source D(C7³)=19. No exact value authenticated for this row in this bounded audit; no claim of openness. S005 targeted current literature pass did not authenticate an additional exact result; this is not proof of openness.",
+      "notes": "3·19+6=63; S002 tripling and source D(C7³)=19. No exact value authenticated for this row in this bounded audit; no claim of openness. S005 targeted current literature pass did not authenticate an additional exact result; this is not proof of openness. S006 bounded primary-result check found no independently authenticated new exact value; non-discovery does not imply openness.",
       "lower_bound": 61,
       "upper_bound": 63
     },
@@ -450,7 +450,7 @@
         "CLM-0065",
         "SRC-0023"
       ],
-      "notes": "2·40+3=83; S002 doubling and historical D(C14³)=40. No exact value authenticated for this row in this bounded audit; no claim of openness. S005 targeted current literature pass did not authenticate an additional exact result; this is not proof of openness.",
+      "notes": "2·40+3=83; S002 doubling and historical D(C14³)=40. No exact value authenticated for this row in this bounded audit; no claim of openness. S005 targeted current literature pass did not authenticate an additional exact result; this is not proof of openness. S006 bounded primary-result check found no independently authenticated new exact value; non-discovery does not imply openness.",
       "lower_bound": 82,
       "upper_bound": 83
     },
@@ -484,7 +484,7 @@
         "SRC-0008",
         "SRC-0023"
       ],
-      "notes": "3·28+6=90; S002 tripling and historical D(C10³)=28. No exact value authenticated for this row in this bounded audit; no claim of openness. S005 targeted current literature pass did not authenticate an additional exact result; this is not proof of openness.",
+      "notes": "3·28+6=90; S002 tripling and historical D(C10³)=28. No exact value authenticated for this row in this bounded audit; no claim of openness. S005 targeted current literature pass did not authenticate an additional exact result; this is not proof of openness. S006 bounded primary-result check found no independently authenticated new exact value; non-discovery does not imply openness.",
       "lower_bound": 88,
       "upper_bound": 90
     }

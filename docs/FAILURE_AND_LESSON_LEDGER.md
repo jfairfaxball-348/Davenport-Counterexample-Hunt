@@ -38,3 +38,7 @@
 | S005 | Access and frontier | Full Sheikh Chapter4 remains inaccessible, Yiu code/logs remain unlocated, five intervals persist after targeted review | Keep explicit incomplete proof/access gaps; no present-day openness claims |
 
 **S005 negative scope:** no exhaustive mathematical negative, SAT certificate, orbit count, search, sequence generation or candidate. Historic inherited 14/17, +5, 43/699/5553 stay quarantined.
+
+| S006 | Published p7 alleged zero sum | False printed (1,6) expression can be replaced in that same assumed case by 2(6,1)+(2,4)+(0,1)=0 | Valid conditional CLM-0075 only; do not claim full case exhaustion or eta7 proof |
+| S006 | Stronger BSP coefficient and source dependencies | Short block split gives (3p−1)/2, not claimed 3(p−1)/2; GG/Reiher and BSP diagram proofs incomplete | CLM-0068 only a conditional replacement; Phase1 remains IN_PROGRESS |
+| S006 | Computation and interval provenance | GHST C53 actual original code uninspected, Yiu M1 final predicate distinct from generated counts, no new exact primary n15/20/21/28/30 | Never label code certified, UNSAT, or a currently open row based on absence |
