@@ -1,0 +1,123 @@
+{
+  "session": "S012",
+  "primary_source_only": true,
+  "inspected": [
+    {
+      "id": "SRC-0021",
+      "printed": "22–23,29–30",
+      "scope": "Complete Lem5.2 hand proof, coefficient/plane proof conditional audit"
+    },
+    {
+      "id": "SRC-0026",
+      "printed": "185,203–208",
+      "scope": "Original Lem4.3(2)/(3), Cor10.5, Lem10.6/Thm10.7; real terminal trichotomy proved conditionally",
+      "access": "PROOF_INSPECTED"
+    },
+    {
+      "id": "SRC-0025",
+      "printed": "26–29",
+      "scope": "Required Thm10.2 dependency statement nodes and selected proofs; full chain remains unrebuilt"
+    },
+    {
+      "id": "SRC-0008",
+      "printed": "3,6–11",
+      "scope": "BSP2007 diagrams, k−2/k−3"
+    },
+    {
+      "id": "SRC-0013",
+      "printed": "full 137p thesis",
+      "scope": "fresh S012 HTTP403, Chapter4 unread"
+    },
+    {
+      "id": "SRC-0024",
+      "printed": "16–17",
+      "scope": "GHST C53 source/output inaccessible"
+    },
+    {
+      "id": "SRC-0015",
+      "printed": "2609.04950v1 M1/M2/M3",
+      "scope": "M1/M2/M3 and source archive member bytes read-only; no code/log/certificate authenticated"
+    },
+    {
+      "id": "SRC-0022",
+      "printed": "27–29",
+      "scope": "Schmid2011 n6=16 source stated"
+    },
+    {
+      "id": "SRC-0023",
+      "printed": "33–35",
+      "scope": "vEmdeBoas II 2p^a family"
+    },
+    {
+      "id": "SRC-0002",
+      "printed": "13–14",
+      "scope": "vEmdeBoas III 3*2^a family"
+    }
+  ],
+  "sheikh_s009": "INTERNAL_FETCH_ERROR",
+  "sheikh_s010": "HTTP403_FORBIDDEN",
+  "sheikh_s011": "HTTP403_FORBIDDEN",
+  "ghst_original_c53_code_read": false,
+  "ghst_original_c53_output_read": false,
+  "yiu_final_test_independently_certified": false,
+  "author_code_executed": false,
+  "mathematical_numerical_searches": 0,
+  "all_30_frontier_rows_checked": true,
+  "focused_intervals": [
+    15,
+    20,
+    21,
+    28,
+    30
+  ],
+  "sheikh_s012": "HTTP403_FORBIDDEN",
+  "bounded_pass_complete": true,
+  "author_hosted_gg1999": {
+    "url": "https://geroldinger-0836a9.gitlab.io/38.long-minimal-zero-sequences.pdf",
+    "bytes": 1147605,
+    "sha256": "a60f6192235fa25ac9161dbb689032de1c67d0d8684e3c703cb469f8681ee42f",
+    "pages": 33,
+    "authentication": "coauthor official publications list item38; original scan pp179–211",
+    "read": "visual original pp185,203–208 with readonly OCR"
+  },
+  "yiu_v1_archive": {
+    "url": "https://arxiv.org/src/2609.04950v1",
+    "bytes": 16680,
+    "sha256": "99dc658b3381038fe0c7b2f89145c52a9687e185883cf2a6fdcc0cb8860b1e21",
+    "http": 200,
+    "members": [
+      {
+        "name": "00README.json",
+        "bytes": 300,
+        "sha256": "2054377ceae65b62834117034d6d97c2ca4e9e1a5c91dd827ff4f38dd8346fed"
+      },
+      {
+        "name": "bibliography.bib",
+        "bytes": 3559,
+        "sha256": "0da58208fa1d95d8c0e3367f2541ef1abebb10cd5de4b6ec3a7aa5ae3cdf84bc"
+      },
+      {
+        "name": "body.tex",
+        "bytes": 43822,
+        "sha256": "a1feed128940c23f1a01375c78029042617de45de0b4a0e0b1263f00b366189a"
+      },
+      {
+        "name": "main.tex",
+        "bytes": 634,
+        "sha256": "d461fe787690e0132b91d814facbad4efd46d58cb1be04ac0e9ee44387b5dd02"
+      },
+      {
+        "name": "preamble.tex",
+        "bytes": 1028,
+        "sha256": "0f8695abcf306b7f9e1cf21181dab5ed782bb94b4296c41b28c94b7c4f52ae21"
+      }
+    ]
+  },
+  "reiher_original": {
+    "url": "https://www.math.uni-rostock.de/math/pub/preprints/preprint/2010/pre10_01.pdf",
+    "bytes": 289379,
+    "sha256": "7d94931bcbf8fb4ce77c0ed94206659df74e8cb5543e1615e7dde23e86b994d8",
+    "scope": "Required statement nodes and selected proofs inspected; strategic/geometric full prerequisites not independently rebuilt."
+  },
+  "copyrighted_full_sources_committed": false
+}

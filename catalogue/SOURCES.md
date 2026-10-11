@@ -225,3 +225,29 @@ S009 identified original GG1999 (NOT GG2006 survey) but had only metadata. S010 
 ### S011 original source update
 
 SRC-0021 printed pp22–23/29–30: CLM-0083 independently verifies ONLY the six-line doubled-triple x+y in <z> existence geometry after CLM-0081; downstream doubled (1,0),(0,1),(2,2) case and final t1/2/4 unproved, eta7 and exact stronger coefficient unproved. SRC-0026 FULL original author-uploaded GG1999 pp204–208 read; only the last three-distinct-x elimination checked conditional on universal t-subset sums, dependent Property B/Lemma4.3/Cor10.5/Lemma10.6 not fully independently re-proved, so PROOF_INSPECTED and CLM-0082 SOURCE_STATED remain. SRC-0025 Reiher proof dependencies and SRC-0008/SRC-0019 BSP2007 diagrams not fully proved. SRC-0013/SRC-0020 Sheikh2017 fresh official Chapter4 PDF HTTP403 in S011 separate from S010403/S009 internal error; exactly-three-free differs from at-most-three-free. SRC-0024 GHST C53.html code/output absent; SRC-0015 Yiu M1 final test singly implemented despite generator repeat, M2/M3 different. No code run, no proof-status promotions for those sources. SRC-0022/0023/0002 exact historical families remain SOURCE_STATED.
+
+### S012 bounded original-source update
+
+SRC-0021: S012 definitive pp22–23/29–30 re-read. Complete new Lem5.2 hand proof CLM-0084–0087. Printed false sum still false; exact stronger coefficient remains unproved; rank-three averaging audited only conditional on original rank-two eta/Property C.
+
+SRC-0026: S012 ResearchGate original locator returned body/access limitations (direct HTTP403); coauthor official publications page independently identifies author-hosted original https://geroldinger-0836a9.gitlab.io/38.long-minimal-zero-sequences.pdf . Full33-page scan HTTP200, 1147605 bytes, SHA256 a60f6192235fa25ac9161dbb689032de1c67d0d8684e3c703cb469f8681ee42f. Actual printed pp185,203–208 visually read/OCR crosschecked. Lem4.3(2)/(3) still imports original external inputs. Actual terminal condition is sum1 OR constantly1 OR constantlym-1; new CLM-0088 completes only that conditional implication, not all GG/Reiher prerequisites.
+
+SRC-0025: S012 original29-page Rostock PDF downloaded/read Thm10.2 and required Lem7.2/9.2/9.6, Cor2.5, Props5.1/6.2/8.1/10.1 statements and selected proofs. Strategic-equation/geometric prerequisites remain without complete independent proof.
+
+SRC-0008: S012 original Prop1/8 and diagram proof audit retained. Multiplicity2+3kappa allows only kappa monochromatic triples, total k-3; restricted arithmetic reconciliation not complete classification/upper induction.
+
+SRC-0019: S012 D3=15,D4=18 subscript multiwise stays distinct from superscript at-most-three threshold17; no full diagrammatic proof upgrade.
+
+SRC-0013: S012 fresh official full137-page PDF HTTP403, distinct from S011403/S010403/S009 internal fetch error. Chapter4/Remark4.3.11 unread; exactly-three-free does not imply at-most-three-free.
+
+SRC-0020: S012 fresh official full thesis HTTP403; later exactly-three warning cannot be substituted for at-most-three premise.
+
+SRC-0024: S012 original Prop5.6 and printed historical C53.html code/output pointer read; current resolved source inaccessible, authentic original code AND output uninspected. No execution.
+
+SRC-0015: S012 originalv1 source archive downloaded read-only HTTP200, 16680 bytes SHA25699dc658b3381038fe0c7b2f89145c52a9687e185883cf2a6fdcc0cb8860b1e21. Five members are README/TeX/bibliography, no implementation/log/certificate. M1 repeats generators/extensions, not final three-disjoint test. M2s<=6=24/M3s<=7=19 different predicates. No author code execution, no global nonexistence inference.
+
+SRC-0022: S012 original Thm4.1(2) n6=16 statement rechecked; source-exact not whole historic proof certified.
+
+SRC-0023: S012 originalII Cor4.3 rank-three2p^a exact-family statement rechecked for n6,10,14,18,22,26, historical long proof not rebuilt.
+
+SRC-0002: S012 originalIII Cor1.5VIII rank-three3*2^a statement rechecked for n6,12,24, historical long proof not rebuilt.

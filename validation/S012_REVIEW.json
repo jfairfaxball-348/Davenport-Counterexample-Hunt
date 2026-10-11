@@ -1,0 +1,24 @@
+{
+  "session": "S012",
+  "review_kind": "SCOPED_HAND_PROOF_AND_ADMINISTRATIVE",
+  "new_claims": [
+    "CLM-0084",
+    "CLM-0085",
+    "CLM-0086",
+    "CLM-0087",
+    "CLM-0088"
+  ],
+  "complete_lemma": "BSP2012 Lemma5.2 only",
+  "proof_review": "Manual independent symbolic derivation: availability, lengths, residue sums, coordinate-change premises, support-count arguments and actual GG trichotomy; no programmatic mathematical search/checker.",
+  "rank_three_eta7_unconditional": false,
+  "gg1999_full_chain_proved": false,
+  "stronger_coefficient_proved": false,
+  "phase1": "IN_PROGRESS",
+  "phases2_3": "NOT_STARTED",
+  "campaign": "PROPOSED_NOT_RUNNING_BLOCKED_N6",
+  "hosted_ci_pass": false,
+  "source_program_execution": false,
+  "mathematical_numerical_searches": 0,
+  "future_session_executed": false,
+  "owner_action_blockers": []
+}

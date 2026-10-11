@@ -8,8 +8,8 @@
 
 S001 bootstrap: repository initialized from empty main via .gitignore initial commit `412f0088aeffb823f1533f5d0809806a6b58afde`. S001 session commit built as one new tree and one commit on `session/S001-bootstrap-frontier`.
 
-Current completed session: S011. Read research/S011_SOURCE_PROOF_VERIFICATION.md alongside S010/S009/S008/S007/S006/S004. S011 CLM-0083 proves ONLY the six-doubled-lines geometric existence of x,y,z with x+y in <z> after CLM-0081. Next doubled (1,0),(0,1),(2,2) forbidden triple, final t1/2/4, full Lem5.2, eta7 and stronger coefficient remain unproved. Original GG1999 full proof read but internal B=>C dependencies not fully certified. Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED; CAM-0001 blocked by n6=16; no CI PASS.
+Current completed session: S012. Read research/S012_SOURCE_PROOF_VERIFICATION.md with all S002–S011 dependency records. S012 complete hand proof CLM-0084–0087 closes BSP2012 Lem5.2, including actual doubled alternatives and t=1,2,4. eta7 and rank-three plane deductions remain CONDITIONAL on original rank-two eta/Property C; stronger coefficient unproved. CLM-0088 proves only the actual GG1999 terminal trichotomy implication; full B=>C/Reiher inputs remain unproved. Phase1 IN_PROGRESS; Phases2/3 NOT_STARTED; CAM-0001 PROPOSED / NOT RUNNING, activation BLOCKED by published n6=16. All 30 numerical rows unchanged; no openness inference. Hosted CI absent, NOT PASS.
 
 Evidence note: p-group and historical exact-family values are SOURCE_STATED, not newly proved. FOUNDATIONS and S002/S004 record explicit programme proofs and conditional deductions separately. Phase 1 remains IN_PROGRESS; five interval entries do not assert present-day openness. All source-inspection scope limits are binding.
 
-Read authoritative/NEXT_SESSION_PROMPT.md only on a NEW S012 owner invocation; S012 is UNEXECUTED.
+Read authoritative/NEXT_SESSION_PROMPT.md only on a NEW S013 owner invocation; S013 is FUTURE UNEXECUTED.

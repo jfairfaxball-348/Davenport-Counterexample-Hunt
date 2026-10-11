@@ -11,3 +11,7 @@
 **Inductive upper bound (primary source stated, not yet programme proved).** Zakarczemny 2019 Lemma 3.3 (SRC-0006) states $D(G)\le D_{D(H)}(G/H)$. Derivation and exploitation scheduled S002.
 
 **Important:** The inherited no-short-zero-sum cap reduction, the D_k values, the off-by-one sandwiches and 5553 orbits remain INHERITED_UNVERIFIED. They must not be promoted by this document.
+
+## S012 scoped proof addition
+
+S012 complete hand proof CLM-0084–0087 closes BSP2012 Lem5.2, including actual doubled alternatives and t=1,2,4. eta7 and rank-three plane deductions remain CONDITIONAL on original rank-two eta/Property C; stronger coefficient unproved. CLM-0088 proves only the actual GG1999 terminal trichotomy implication; full B=>C/Reiher inputs remain unproved. Phase1 IN_PROGRESS; Phases2/3 NOT_STARTED; CAM-0001 PROPOSED / NOT RUNNING, activation BLOCKED by published n6=16. All 30 numerical rows unchanged; no openness inference. Hosted CI absent, NOT PASS. Full proof and explicit availability are in research/S012_SOURCE_PROOF_VERIFICATION.md; no replacement of the source-stated historical exact family inputs.

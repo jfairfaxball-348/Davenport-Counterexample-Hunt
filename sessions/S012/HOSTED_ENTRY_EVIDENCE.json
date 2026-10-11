@@ -1,0 +1,552 @@
+{
+  "session": "S012",
+  "kind": "Normalized direct GitHub REST observations",
+  "api_base": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt",
+  "entry_date": "2026-10-11",
+  "main": {
+    "name": "main",
+    "commit": {
+      "sha": "eb47980a78c1298e557202b4b63fe45459bdb87b",
+      "node_id": "C_kwDOVENTIdoAKGViNDc5ODBhNzhjMTI5OGU1NTcyMDJiNGI2M2ZlNDU0NTliZGI4N2I",
+      "commit": {
+        "author": {
+          "name": "John Fairfax-Ball",
+          "email": "jfairfaxball@gmail.com",
+          "date": "2026-10-11T18:04:15Z"
+        },
+        "committer": {
+          "name": "GitHub",
+          "email": "noreply@github.com",
+          "date": "2026-10-11T18:04:15Z"
+        },
+        "message": "Merge S011 bounded primary-source proof audit\n\nCLM-0083 closes only the p7 six doubled-line geometric existence implication; original B=>C dependencies and full eta7 remain open. Phase1 IN_PROGRESS, no hosted CI PASS. Future S012 unexecuted.",
+        "tree": {
+          "sha": "c04c2ce22a92e15c6979eba98016ce25a2176c94",
+          "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/git/trees/c04c2ce22a92e15c6979eba98016ce25a2176c94"
+        },
+        "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/git/commits/eb47980a78c1298e557202b4b63fe45459bdb87b",
+        "comment_count": 0,
+        "verification": {
+          "verified": true,
+          "reason": "valid",
+          "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqy8+fCRC1aQ7uu5UhlAAAacoQAAGYAsG70Hx0XFAscr1jbI9Q\ncnduQShM851fuI4/30Jxl9Ajy3IZrmODh+JD6ovCbgLyEGMkb27iR4TQGlKDE4d/\ngWReSkkAZDvn4y2kr5wgvhT453SFiORnHH63EYi3tyvogbFkTnhCcdNemtqCDy8G\ngqKKtdIsw1BaMRUSmMmbpior/+rT15Xl47BWbEZiN3RbJCUVu0QW9NLNMZeCedZI\nphYKIe1sWPQeJEbUeYccRjZMlrDLhNo9aRJBiHDxT/kb6jfFF+5A2QLkIQYurrqN\nGg/F1NggMdpUutVEFBMKN34fWrKnCu6pOaY4oOrXX0SBTSBTL2jakk12Wt61aEG4\nhYjtBMIpI4k+D8RNULliwmVlPJXpptjEcDPpd8UpviEvU61X/zQsDzz+zCjUxalL\nDSKjexCN8K6CBITV/D7tkeGUPFVKrbUL0wbwS1qfj/9k7/zwwmJpRfwC72tK0cej\nOR9FAbdS+g4djlMmYx/zy67PnsevyLUYh40oHgwsRwZDXMc1CmEHkLK9b3y3EIP5\nSKsdso2n76Xgj6tQFxpfM/ulDHJvtSy4RN8bGmaKyx3lIBHWgwPkqOa1+ETSqkMt\nUokiMD3Fv8FgvQ828czYxeceoxn+McVauAGCC+eEQXlrMhuNEbcxM6PcuvqAJuZ6\n7JhzXjl+HXFB3cHeMBe3\n=Zm9q\n-----END PGP SIGNATURE-----\n",
+          "payload": "tree c04c2ce22a92e15c6979eba98016ce25a2176c94\nparent 9ca537dbd50e8cd9b944fdd9be976d307c7ad4d6\nparent d7c91251712559df8ae70ac10b5d2b2902b2c21d\nauthor John Fairfax-Ball <jfairfaxball@gmail.com> 1791741855 +0100\ncommitter GitHub <noreply@github.com> 1791741855 +0100\n\nMerge S011 bounded primary-source proof audit\n\nCLM-0083 closes only the p7 six doubled-line geometric existence implication; original B=>C dependencies and full eta7 remain open. Phase1 IN_PROGRESS, no hosted CI PASS. Future S012 unexecuted.",
+          "verified_at": "2026-10-11T18:04:15Z"
+        }
+      },
+      "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/eb47980a78c1298e557202b4b63fe45459bdb87b",
+      "html_url": "https://github.com/jfairfaxball-348/Davenport-Counterexample-Hunt/commit/eb47980a78c1298e557202b4b63fe45459bdb87b",
+      "comments_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/eb47980a78c1298e557202b4b63fe45459bdb87b/comments",
+      "author": {
+        "login": "jfairfaxball-348",
+        "id": 294537967,
+        "node_id": "U_kgDOEY5K7w",
+        "avatar_url": "https://avatars.githubusercontent.com/u/294537967?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/jfairfaxball-348",
+        "html_url": "https://github.com/jfairfaxball-348",
+        "followers_url": "https://api.github.com/users/jfairfaxball-348/followers",
+        "following_url": "https://api.github.com/users/jfairfaxball-348/following{/other_user}",
+        "gists_url": "https://api.github.com/users/jfairfaxball-348/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/jfairfaxball-348/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/jfairfaxball-348/subscriptions",
+        "organizations_url": "https://api.github.com/users/jfairfaxball-348/orgs",
+        "repos_url": "https://api.github.com/users/jfairfaxball-348/repos",
+        "events_url": "https://api.github.com/users/jfairfaxball-348/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/jfairfaxball-348/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "web-flow",
+        "id": 19864447,
+        "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/web-flow",
+        "html_url": "https://github.com/web-flow",
+        "followers_url": "https://api.github.com/users/web-flow/followers",
+        "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+        "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+        "organizations_url": "https://api.github.com/users/web-flow/orgs",
+        "repos_url": "https://api.github.com/users/web-flow/repos",
+        "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/web-flow/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "9ca537dbd50e8cd9b944fdd9be976d307c7ad4d6",
+          "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/9ca537dbd50e8cd9b944fdd9be976d307c7ad4d6",
+          "html_url": "https://github.com/jfairfaxball-348/Davenport-Counterexample-Hunt/commit/9ca537dbd50e8cd9b944fdd9be976d307c7ad4d6"
+        },
+        {
+          "sha": "d7c91251712559df8ae70ac10b5d2b2902b2c21d",
+          "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/d7c91251712559df8ae70ac10b5d2b2902b2c21d",
+          "html_url": "https://github.com/jfairfaxball-348/Davenport-Counterexample-Hunt/commit/d7c91251712559df8ae70ac10b5d2b2902b2c21d"
+        }
+      ]
+    },
+    "_links": {
+      "self": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/branches/main",
+      "html": "https://github.com/jfairfaxball-348/Davenport-Counterexample-Hunt/tree/main"
+    },
+    "protected": false,
+    "protection": {
+      "enabled": false,
+      "required_status_checks": {
+        "enforcement_level": "off",
+        "contexts": [],
+        "checks": []
+      }
+    },
+    "protection_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/branches/main/protection"
+  },
+  "pulls": [
+    {
+      "number": 11,
+      "url": "https://github.com/jfairfaxball-348/Davenport-Counterexample-Hunt/pull/11",
+      "title": "S011 — p7 six doubled-line geometry and original GG1999 source audit",
+      "state": "closed",
+      "created_at": "2026-10-11T18:03:55Z",
+      "updated_at": "2026-10-11T18:04:16Z",
+      "merged_at": "2026-10-11T18:04:15Z",
+      "merge_commit_sha": "eb47980a78c1298e557202b4b63fe45459bdb87b",
+      "head": {
+        "ref": "session/S011-p7-six-line-geometry-gg1999-audit",
+        "sha": "d7c91251712559df8ae70ac10b5d2b2902b2c21d"
+      },
+      "base": {
+        "ref": "main",
+        "sha": "9ca537dbd50e8cd9b944fdd9be976d307c7ad4d6"
+      }
+    },
+    {
+      "number": 10,
+      "url": "https://github.com/jfairfaxball-348/Davenport-Counterexample-Hunt/pull/10",
+      "title": "S010 — prove p7 mixed-line sublemma; inspect original 1999 Property B⇒C proof",
+      "state": "closed",
+      "created_at": "2026-10-11T17:41:06Z",
+      "updated_at": "2026-10-11T17:41:21Z",
+      "merged_at": "2026-10-11T17:41:20Z",
+      "merge_commit_sha": "9ca537dbd50e8cd9b944fdd9be976d307c7ad4d6",
+      "head": {
+        "ref": "session/S010-p7-mixed-line-original-gg-proof",
+        "sha": "7bc7940b4672af7f6bc62e59b97053c526be1490"
+      },
+      "base": {
+        "ref": "main",
+        "sha": "4d93334fd6335397f1c3df8113b7b3e86f0bd839"
+      }
+    },
+    {
+      "number": 9,
+      "url": "https://github.com/jfairfaxball-348/Davenport-Counterexample-Hunt/pull/9",
+      "title": "S009 — conditional p7 eight-vector proof; hold Phase-1 source gate",
+      "state": "closed",
+      "created_at": "2026-10-11T17:00:27Z",
+      "updated_at": "2026-10-11T17:00:30Z",
+      "merged_at": "2026-10-11T17:00:30Z",
+      "merge_commit_sha": "4d93334fd6335397f1c3df8113b7b3e86f0bd839",
+      "head": {
+        "ref": "session/S009-p7-eight-vector-source-audit",
+        "sha": "8ec9867c4170603c332f234868b43d0507479eb6"
+      },
+      "base": {
+        "ref": "main",
+        "sha": "74130b059940a3bf4dbe4e75bb7fee40a7cdea49"
+      }
+    },
+    {
+      "number": 8,
+      "url": "https://github.com/jfairfaxball-348/Davenport-Counterexample-Hunt/pull/8",
+      "title": "S008 — conditional p=7 normalization and primary provenance audit",
+      "state": "closed",
+      "created_at": "2026-10-11T15:57:42Z",
+      "updated_at": "2026-10-11T15:58:00Z",
+      "merged_at": "2026-10-11T15:57:59Z",
+      "merge_commit_sha": "74130b059940a3bf4dbe4e75bb7fee40a7cdea49",
+      "head": {
+        "ref": "session/S008-p7-classification-provenance",
+        "sha": "99f689cd01a652614db58dc75709321cf871c679"
+      },
+      "base": {
+        "ref": "main",
+        "sha": "a973efe3a20709183d51716719c391b72fe4019f"
+      }
+    },
+    {
+      "number": 7,
+      "url": "https://github.com/jfairfaxball-348/Davenport-Counterexample-Hunt/pull/7",
+      "title": "S007 — verify first p=7 normalization; hold Phase-1 source gate",
+      "state": "closed",
+      "created_at": "2026-10-11T15:33:02Z",
+      "updated_at": "2026-10-11T15:33:22Z",
+      "merged_at": "2026-10-11T15:33:22Z",
+      "merge_commit_sha": "a973efe3a20709183d51716719c391b72fe4019f",
+      "head": {
+        "ref": "session/S007-source-proof-normalization",
+        "sha": "8b6f4241b048a9d45f730812601cb28f87159726"
+      },
+      "base": {
+        "ref": "main",
+        "sha": "f1a52c99abd03e66f612a4aa16b2bfb48ec77795"
+      }
+    },
+    {
+      "number": 6,
+      "url": "https://github.com/jfairfaxball-348/Davenport-Counterexample-Hunt/pull/6",
+      "title": "S006 — repair one published p=7 subcase; hold source-proof gate",
+      "state": "closed",
+      "created_at": "2026-10-11T14:51:14Z",
+      "updated_at": "2026-10-11T14:51:46Z",
+      "merged_at": "2026-10-11T14:51:45Z",
+      "merge_commit_sha": "f1a52c99abd03e66f612a4aa16b2bfb48ec77795",
+      "head": {
+        "ref": "session/S006-coefficient-p7-provenance",
+        "sha": "93561bfb31dec0033452bdf2a9df0d82fb9d9768"
+      },
+      "base": {
+        "ref": "main",
+        "sha": "74709bdbb431416d62bc0b9e75119abc3e49d520"
+      }
+    },
+    {
+      "number": 5,
+      "url": "https://github.com/jfairfaxball-348/Davenport-Counterexample-Hunt/pull/5",
+      "title": "S005 — original-proof audit exposes p=7 error; frontier gate held",
+      "state": "closed",
+      "created_at": "2026-10-11T14:26:37Z",
+      "updated_at": "2026-10-11T14:27:12Z",
+      "merged_at": "2026-10-11T14:27:12Z",
+      "merge_commit_sha": "74709bdbb431416d62bc0b9e75119abc3e49d520",
+      "head": {
+        "ref": "session/S005-remaining-proof-obligations",
+        "sha": "05cc653a92ba8bb53e8ee4202fca73bea88c73e5"
+      },
+      "base": {
+        "ref": "main",
+        "sha": "6e10e9401c32e8a0f81ec7a1f1ea70f307d10d40"
+      }
+    },
+    {
+      "number": 4,
+      "url": "https://github.com/jfairfaxball-348/Davenport-Counterexample-Hunt/pull/4",
+      "title": "S004 — primary proof audit; correct n=6 exact value and hold Phase 1",
+      "state": "closed",
+      "created_at": "2026-10-11T13:14:42Z",
+      "updated_at": "2026-10-11T13:15:32Z",
+      "merged_at": "2026-10-11T13:15:31Z",
+      "merge_commit_sha": "6e10e9401c32e8a0f81ec7a1f1ea70f307d10d40",
+      "head": {
+        "ref": "session/S004-primary-proof-inputs",
+        "sha": "69da4cd6cfcf5b771aa50fc75cbbd882f45d1c7b"
+      },
+      "base": {
+        "ref": "main",
+        "sha": "d0ca11de8c6f513aaa47b8c78df27be4f78afe26"
+      }
+    },
+    {
+      "number": 3,
+      "url": "https://github.com/jfairfaxball-348/Davenport-Counterexample-Hunt/pull/3",
+      "title": "S003 — primary source-proof challenge; Phase-1 gate held",
+      "state": "closed",
+      "created_at": "2026-10-11T07:49:19Z",
+      "updated_at": "2026-10-11T07:49:22Z",
+      "merged_at": "2026-10-11T07:49:22Z",
+      "merge_commit_sha": "d0ca11de8c6f513aaa47b8c78df27be4f78afe26",
+      "head": {
+        "ref": "session/S003-source-proof-challenge",
+        "sha": "e2c26f8c45a6702786196bc973fa94fe61b2807c"
+      },
+      "base": {
+        "ref": "main",
+        "sha": "9073b44fb1ea24f86c3ab69bf6a3cd8c7c45cf70"
+      }
+    },
+    {
+      "number": 2,
+      "url": "https://github.com/jfairfaxball-348/Davenport-Counterexample-Hunt/pull/2",
+      "title": "S002 — frontier verification, corrected ternary bounds, n=6 entry gate",
+      "state": "closed",
+      "created_at": "2026-10-10T22:05:24Z",
+      "updated_at": "2026-10-10T22:05:41Z",
+      "merged_at": "2026-10-10T22:05:41Z",
+      "merge_commit_sha": "9073b44fb1ea24f86c3ab69bf6a3cd8c7c45cf70",
+      "head": {
+        "ref": "session/S002-frontier-verification",
+        "sha": "9387fbd552780ab01723e18e5dd2b6805b33146d"
+      },
+      "base": {
+        "ref": "main",
+        "sha": "9ff1aa34770ce23e87286ccba26cda7475448ba0"
+      }
+    },
+    {
+      "number": 1,
+      "url": "https://github.com/jfairfaxball-348/Davenport-Counterexample-Hunt/pull/1",
+      "title": "S001 — governance bootstrap and provisional Davenport frontier",
+      "state": "closed",
+      "created_at": "2026-10-10T21:57:02Z",
+      "updated_at": "2026-10-10T21:57:08Z",
+      "merged_at": "2026-10-10T21:57:08Z",
+      "merge_commit_sha": "9ff1aa34770ce23e87286ccba26cda7475448ba0",
+      "head": {
+        "ref": "session/S001-bootstrap-frontier",
+        "sha": "1a43fc022179c950138e29994b6ca6a7ab667ec9"
+      },
+      "base": {
+        "ref": "main",
+        "sha": "412f0088aeffb823f1533f5d0809806a6b58afde"
+      }
+    }
+  ],
+  "branches": [
+    {
+      "name": "main",
+      "sha": "eb47980a78c1298e557202b4b63fe45459bdb87b",
+      "protected": false
+    },
+    {
+      "name": "session/S001-bootstrap-frontier",
+      "sha": "1a43fc022179c950138e29994b6ca6a7ab667ec9",
+      "protected": false
+    },
+    {
+      "name": "session/S002-frontier-verification",
+      "sha": "9387fbd552780ab01723e18e5dd2b6805b33146d",
+      "protected": false
+    },
+    {
+      "name": "session/S003-source-proof-challenge",
+      "sha": "e2c26f8c45a6702786196bc973fa94fe61b2807c",
+      "protected": false
+    },
+    {
+      "name": "session/S004-primary-proof-inputs",
+      "sha": "69da4cd6cfcf5b771aa50fc75cbbd882f45d1c7b",
+      "protected": false
+    },
+    {
+      "name": "session/S005-remaining-proof-obligations",
+      "sha": "05cc653a92ba8bb53e8ee4202fca73bea88c73e5",
+      "protected": false
+    },
+    {
+      "name": "session/S006-coefficient-p7-provenance",
+      "sha": "93561bfb31dec0033452bdf2a9df0d82fb9d9768",
+      "protected": false
+    },
+    {
+      "name": "session/S007-source-proof-normalization",
+      "sha": "8b6f4241b048a9d45f730812601cb28f87159726",
+      "protected": false
+    },
+    {
+      "name": "session/S008-p7-classification-provenance",
+      "sha": "99f689cd01a652614db58dc75709321cf871c679",
+      "protected": false
+    },
+    {
+      "name": "session/S009-p7-eight-vector-source-audit",
+      "sha": "8ec9867c4170603c332f234868b43d0507479eb6",
+      "protected": false
+    },
+    {
+      "name": "session/S010-p7-mixed-line-original-gg-proof",
+      "sha": "7bc7940b4672af7f6bc62e59b97053c526be1490",
+      "protected": false
+    },
+    {
+      "name": "session/S011-p7-six-line-geometry-gg1999-audit",
+      "sha": "d7c91251712559df8ae70ac10b5d2b2902b2c21d",
+      "protected": false
+    }
+  ],
+  "rulesets": [],
+  "protection": {
+    "error": "GitHub API error 403: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/branches/branch-protection#get-branch-protection\",\"status\":\"403\"}",
+    "error_code": "FORBIDDEN",
+    "error_data": {
+      "message": "Resource not accessible by integration",
+      "documentation_url": "https://docs.github.com/rest/branches/branch-protection#get-branch-protection",
+      "status": "403"
+    }
+  },
+  "workflow_api_limitation": {
+    "error": "HTTPError: 400: GitHub Fetch URL is not an allowed public GitHub repository or search endpoint. (Response: None)",
+    "error_code": "INVALID_ARGUMENT"
+  },
+  "runs": {
+    "total_count": 0,
+    "workflow_runs": []
+  },
+  "check_observations": {
+    "/commits/d7c91251712559df8ae70ac10b5d2b2902b2c21d/status": {
+      "state": "pending",
+      "statuses": [],
+      "sha": "d7c91251712559df8ae70ac10b5d2b2902b2c21d",
+      "total_count": 0,
+      "repository": {
+        "id": 1413698337,
+        "node_id": "R_kgDOVENTIQ",
+        "name": "Davenport-Counterexample-Hunt",
+        "full_name": "jfairfaxball-348/Davenport-Counterexample-Hunt",
+        "private": false,
+        "owner": {
+          "login": "jfairfaxball-348",
+          "id": 294537967,
+          "node_id": "U_kgDOEY5K7w",
+          "avatar_url": "https://avatars.githubusercontent.com/u/294537967?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/jfairfaxball-348",
+          "html_url": "https://github.com/jfairfaxball-348",
+          "followers_url": "https://api.github.com/users/jfairfaxball-348/followers",
+          "following_url": "https://api.github.com/users/jfairfaxball-348/following{/other_user}",
+          "gists_url": "https://api.github.com/users/jfairfaxball-348/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/jfairfaxball-348/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/jfairfaxball-348/subscriptions",
+          "organizations_url": "https://api.github.com/users/jfairfaxball-348/orgs",
+          "repos_url": "https://api.github.com/users/jfairfaxball-348/repos",
+          "events_url": "https://api.github.com/users/jfairfaxball-348/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/jfairfaxball-348/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "html_url": "https://github.com/jfairfaxball-348/Davenport-Counterexample-Hunt",
+        "description": null,
+        "fork": false,
+        "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt",
+        "forks_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/forks",
+        "keys_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/keys{/key_id}",
+        "collaborators_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/collaborators{/collaborator}",
+        "teams_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/teams",
+        "hooks_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/hooks",
+        "issue_events_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/issues/events{/number}",
+        "events_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/events",
+        "assignees_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/assignees{/user}",
+        "branches_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/branches{/branch}",
+        "tags_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/tags",
+        "blobs_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/git/blobs{/sha}",
+        "git_tags_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/git/tags{/sha}",
+        "git_refs_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/git/refs{/sha}",
+        "trees_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/git/trees{/sha}",
+        "statuses_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/statuses/{sha}",
+        "languages_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/languages",
+        "stargazers_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/stargazers",
+        "contributors_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/contributors",
+        "subscribers_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/subscribers",
+        "subscription_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/subscription",
+        "commits_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits{/sha}",
+        "git_commits_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/git/commits{/sha}",
+        "comments_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/comments{/number}",
+        "issue_comment_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/issues/comments{/number}",
+        "contents_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/contents/{+path}",
+        "compare_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/compare/{base}...{head}",
+        "merges_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/merges",
+        "archive_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/{archive_format}{/ref}",
+        "downloads_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/downloads",
+        "issues_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/issues{/number}",
+        "pulls_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/pulls{/number}",
+        "milestones_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/milestones{/number}",
+        "notifications_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/notifications{?since,all,participating}",
+        "labels_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/labels{/name}",
+        "releases_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/releases{/id}",
+        "deployments_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/deployments"
+      },
+      "commit_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/d7c91251712559df8ae70ac10b5d2b2902b2c21d",
+      "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/d7c91251712559df8ae70ac10b5d2b2902b2c21d/status"
+    },
+    "/commits/d7c91251712559df8ae70ac10b5d2b2902b2c21d/check-runs": {
+      "total_count": 0,
+      "check_runs": []
+    },
+    "/commits/eb47980a78c1298e557202b4b63fe45459bdb87b/status": {
+      "state": "pending",
+      "statuses": [],
+      "sha": "eb47980a78c1298e557202b4b63fe45459bdb87b",
+      "total_count": 0,
+      "repository": {
+        "id": 1413698337,
+        "node_id": "R_kgDOVENTIQ",
+        "name": "Davenport-Counterexample-Hunt",
+        "full_name": "jfairfaxball-348/Davenport-Counterexample-Hunt",
+        "private": false,
+        "owner": {
+          "login": "jfairfaxball-348",
+          "id": 294537967,
+          "node_id": "U_kgDOEY5K7w",
+          "avatar_url": "https://avatars.githubusercontent.com/u/294537967?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/jfairfaxball-348",
+          "html_url": "https://github.com/jfairfaxball-348",
+          "followers_url": "https://api.github.com/users/jfairfaxball-348/followers",
+          "following_url": "https://api.github.com/users/jfairfaxball-348/following{/other_user}",
+          "gists_url": "https://api.github.com/users/jfairfaxball-348/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/jfairfaxball-348/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/jfairfaxball-348/subscriptions",
+          "organizations_url": "https://api.github.com/users/jfairfaxball-348/orgs",
+          "repos_url": "https://api.github.com/users/jfairfaxball-348/repos",
+          "events_url": "https://api.github.com/users/jfairfaxball-348/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/jfairfaxball-348/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "html_url": "https://github.com/jfairfaxball-348/Davenport-Counterexample-Hunt",
+        "description": null,
+        "fork": false,
+        "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt",
+        "forks_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/forks",
+        "keys_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/keys{/key_id}",
+        "collaborators_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/collaborators{/collaborator}",
+        "teams_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/teams",
+        "hooks_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/hooks",
+        "issue_events_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/issues/events{/number}",
+        "events_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/events",
+        "assignees_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/assignees{/user}",
+        "branches_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/branches{/branch}",
+        "tags_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/tags",
+        "blobs_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/git/blobs{/sha}",
+        "git_tags_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/git/tags{/sha}",
+        "git_refs_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/git/refs{/sha}",
+        "trees_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/git/trees{/sha}",
+        "statuses_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/statuses/{sha}",
+        "languages_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/languages",
+        "stargazers_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/stargazers",
+        "contributors_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/contributors",
+        "subscribers_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/subscribers",
+        "subscription_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/subscription",
+        "commits_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits{/sha}",
+        "git_commits_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/git/commits{/sha}",
+        "comments_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/comments{/number}",
+        "issue_comment_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/issues/comments{/number}",
+        "contents_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/contents/{+path}",
+        "compare_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/compare/{base}...{head}",
+        "merges_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/merges",
+        "archive_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/{archive_format}{/ref}",
+        "downloads_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/downloads",
+        "issues_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/issues{/number}",
+        "pulls_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/pulls{/number}",
+        "milestones_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/milestones{/number}",
+        "notifications_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/notifications{?since,all,participating}",
+        "labels_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/labels{/name}",
+        "releases_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/releases{/id}",
+        "deployments_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/deployments"
+      },
+      "commit_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/eb47980a78c1298e557202b4b63fe45459bdb87b",
+      "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/eb47980a78c1298e557202b4b63fe45459bdb87b/status"
+    },
+    "/commits/eb47980a78c1298e557202b4b63fe45459bdb87b/check-runs": {
+      "total_count": 0,
+      "check_runs": []
+    }
+  }
+}

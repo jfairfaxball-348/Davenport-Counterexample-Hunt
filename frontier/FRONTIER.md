@@ -1,6 +1,6 @@
-# Frontier after S011
+# Frontier after S012
 
-S011 source-only audit independently preserves all 30 rows after one limited p7 hand proof CLM-0083 of the six-doubled-line geometry and GG1999 conditional original terminal argument. No endpoint changes: source-exact families supersede older nonsharp intervals, with no programme certificate inferred. Five conditional interval entries do not assert openness. Phase1 IN_PROGRESS; no Phase2 target selected.
+S012 complete hand proof CLM-0084–0087 closes BSP2012 Lem5.2, including actual doubled alternatives and t=1,2,4. eta7 and rank-three plane deductions remain CONDITIONAL on original rank-two eta/Property C; stronger coefficient unproved. CLM-0088 proves only the actual GG1999 terminal trichotomy implication; full B=>C/Reiher inputs remain unproved. Phase1 IN_PROGRESS; Phases2/3 NOT_STARTED; CAM-0001 PROPOSED / NOT RUNNING, activation BLOCKED by published n6=16. All 30 numerical rows unchanged; no openness inference. Hosted CI absent, NOT PASS.
 
 **D(C6³)=16 is already a source-stated exact theorem.** CAM-0001 remains PROPOSED / NOT RUNNING with its premise obsolete. No Phase-2 target is selected. n=15 is the first interval requiring further literature review, not a declaration of openness.
 

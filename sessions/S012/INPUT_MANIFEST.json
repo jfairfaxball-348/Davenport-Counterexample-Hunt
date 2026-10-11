@@ -1,0 +1,7 @@
+{
+  "session": "S012",
+  "committed_handoff_base": "eb47980a78c1298e557202b4b63fe45459bdb87b",
+  "committed_handoff_sha256": "4011ebbedd6a45b91e13b3d98a7215d3b80bc388dd25c6782a15936f409346d2",
+  "committed_handoff_bytes": 5982,
+  "owner_invocation": "Separate UTF-8 transcription of the fresh standalone owner message, whose rendered wording matches the committed handoff; raw chat transport bytes unavailable; no transport hash claimed."
+}
