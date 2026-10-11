@@ -794,3 +794,29 @@ Category: SOURCE_AUDIT. Origin: research/S014_REIHER_STRATEGIC_EQUATIONS.md. Sou
 Complete small-p and α,β,γ≥3 arguments. Does NOT establish arbitrary-support prime Property B.
 
 Historical CLM-0082 remains SOURCE_STATED. All earlier claim fields unchanged; unconditional Property B/C and eta(C7³) remain unproved in programme.
+
+## CLM-0098 — PROGRAMME_PROVED
+
+Original Reiher Lemma3.1 independently hand-proved: 2p−1 nonzero vectors with every indexed µ-deletion zero contain p+1 pairwise linearly dependent positions; rigorous replacement over transcendental field extension.
+
+Category: SOURCE_AUDIT. Origin: research/S015_REIHER_COLLINEAR_PROOF.md. Sources: SRC-0025.
+
+All coefficient/determinant recursions, p-bound multiplicities and final GL2 contradiction; no numerical or code proof.
+
+## CLM-0099 — PROGRAMME_PROVED
+
+Original Reiher Proposition3.3 independently hand-proved with fewer than p exceptional indexed positions in at most two prescribed directions, deriving the full µ-deletion hypothesis and p+1 dependent conclusion via CLM-0098.
+
+Category: SOURCE_AUDIT. Origin: research/S015_REIHER_COLLINEAR_PROOF.md. Sources: SRC-0025.
+
+Precise disjoint exceptional sets, p-fold coefficient sums and no strengthened blanket-zero assumption.
+
+## CLM-0100 — PROGRAMME_PROVED
+
+Original Reiher Proposition5.1 independently hand-proved for every prime: any cloudy sequence containing three distinct collinear vectors is simple, including p=5 and exact indexed multiplicity lift.
+
+Category: SOURCE_AUDIT. Origin: research/S015_REIHER_COLLINEAR_PROOF.md. Sources: SRC-0025.
+
+S014 Prop4.1, Cor2.5, Obs2.6; trilinearity, Vandermonde factor, Z=A+B+C and [Y,Z] nonzero, 3<p exceptional positions; NOT universal Property B.
+
+Old CLM-0001–0097 are unchanged, including historical CLM-0082 SOURCE_STATED. Universal Property B/C and eta7 remain not independently programme-proved.

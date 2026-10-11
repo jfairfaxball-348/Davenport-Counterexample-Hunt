@@ -1,4 +1,4 @@
-# Frontier after S014
+# Frontier after S015
 
 S013 CLM-0089–0093 hand-prove rank-two p/2p extraction, D(Cp²)=2p−1, eta<=3p−2/long-zero short block, original Lem10.6 and the full B=>C implication CONDITIONAL on Property B. Complete S012 p7 Lem5.2 preserved. FIRST unconditional prerequisite is Reiher Property B through unrebuilt strategic-equation/geometric chain; stronger coefficient unproved. Phase1 IN_PROGRESS; Phases2/3 NOT_STARTED; CAM-0001 PROPOSED / NOT RUNNING activation BLOCKED by published n6=16. All 30 numeric rows unchanged; no openness inference. Zero hosted CI, NOT PASS.
 
@@ -109,3 +109,8 @@ S013 CLM-0089–0093 hand-prove rank-two p/2p extraction, D(Cp²)=2p−1, eta<=3
 ## S014 thirty-row source-exact mirror check
 
 All 30 numeric/evidence rows unchanged. Five intervals n15:43..45,n20:58..59,n21:61..63,n28:82..83,n30:88..90 do not imply present-day openness. Original Schmid n6=16 and van Emde Boas 1969 exact families remain SOURCE_STATED; rank-two hand proofs do not upgrade rank-three source classes.
+
+
+## S015 complete thirty-row numerical/source mirror audit
+
+S015 CLM-0098–0100 independently hand-prove Reiher original Lemma 3.1, Proposition 3.3 and Proposition 5.1: a cloudy sequence with three distinct collinear points is simple, including p=5. The next separate original proof package is Lemma6.1/Prop6.2, then Prop8.1/Section9/Prop10.1. Universal Property B, unconditional C and eta(C7³)≤116 remain unproved in programme. All thirty rank-three numerical frontier rows and evidence classes unchanged; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 PROPOSED / NOT RUNNING, activation BLOCKED by published n6=16; zero hosted CI is NOT PASS. Reviewed both thirty-row mirrors and original source scopes for Schmid2011 n6=16, historic van Emde Boas II/III exact 2p^a and 3·2^a rank-three families; SOURCE_STATED not an independent proof of those historical inputs. Conditional intervals remain n15 43..45,n20 58..59,n21 61..63,n28 82..83,n30 88..90. Targeted primary exact-value queries yielded no newly authenticated exact result in bounded pass; NONDISCOVERY is never present-day OPENNESS.

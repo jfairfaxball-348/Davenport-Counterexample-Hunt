@@ -1,0 +1,20 @@
+{
+  "session": "S015",
+  "kind": "ADMINISTRATIVE_ONLY",
+  "result": "PASS",
+  "checks": {
+    "old_claim_fields_exact": true,
+    "claim_ids_100_unique": true,
+    "source_ids_28_unique_classes_preserved": true,
+    "claim_source_refs": true,
+    "frontier_30_original_rows_identical": true,
+    "two_mirror_30_row_equality": true,
+    "incoming_handoff_6692_bytes": true,
+    "phase1_unchanged": true,
+    "phase2_phase3_not_started": true
+  },
+  "claim_ids": 100,
+  "source_ids": 28,
+  "numerical_rows": 30,
+  "hosted_ci_pass": false
+}

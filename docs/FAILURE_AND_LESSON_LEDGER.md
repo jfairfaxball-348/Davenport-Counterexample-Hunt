@@ -95,3 +95,8 @@ S013 CLM-0089–0093 hand-prove rank-two p/2p extraction, D(Cp²)=2p−1, eta<=3
 | S014 | Hosted CI | Zero YAML, hosted runs/checks/statuses, workflow-listing connector URL unsupported | NO hosted CI PASS |
 
 No numerical mathematical search, CAS, SAT/ILP, orbits, author code, candidates, Lean, campaigns, manuscript, contact or publication.
+
+| S015 | Lem3.1 repeated-replacement gap risk | Replacing a term could accidentally create a (p+1)-fold line; independently close with two transcendental directions over F(t), preserving each intermediate multiplicity at most p | CLM-0098, full source hand-proof, no computational substitute |
+| S015 | Prop5.1 auxiliary lifting | Of artificial Y,Y,Z, at most two lie on one line because [Y,Z]=-3[XY]≠0 for p>=5; hence p+1 dependent auxiliary terms imply p-1 original indexed P_i | CLM-0100 closes p5 including multiplicities |
+| S015 | External provenance failure | Fresh Sheikh thesis403, GHST C53 route inaccessible, Yiu original v1 paper without authenticated distinct final M1 implementation/log | Keep source classes/unknowns; no inferred absence or current openness |
+| S015 | Property B dependency | Prop5.1 is not full Property B without Prop6.2/8.1, Sec9 and Prop10.1 | No unconditional rank-two C, rank-three eta7, Phase2/3 or campaign |

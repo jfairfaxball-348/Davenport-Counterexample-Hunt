@@ -6,7 +6,7 @@
     "SANDWICHED",
     "UNKNOWN"
   ],
-  "notation": "S014 CLM-0094–0097 independently reconstruct Reiher original rank-two coefficient/conditional lemmas, exact three-case strategic Prop4.1 (p≥5), Obs7.1 factorial identity, Lem7.2 cloudy support≤3 (p2/3 separately). FIRST unrebuilt general Property B input now Prop5.1 collinear reconstruction; Prop6.2/8.1 and Section9/Prop10.1 remain. Universal Property B, unconditional prime Property C, eta(C7³)≤116, stronger BSP coefficient NOT programme-proved. S012/S013 scopes unchanged; 30 frontier rows unchanged:25 source-exact/trivial and five conditional intervals. Phase1 IN_PROGRESS, Phase2/3 NOT_STARTED, CAM-0001 PROPOSED / NOT RUNNING, BLOCKED by source-stated n6=16. Zero hosted runs/checks: NOT CI PASS.",
+  "notation": "S015 CLM-0098–0100 independently hand-prove Reiher original Lemma 3.1, Proposition 3.3 and Proposition 5.1: a cloudy sequence with three distinct collinear points is simple, including p=5. The next separate original proof package is Lemma6.1/Prop6.2, then Prop8.1/Section9/Prop10.1. Universal Property B, unconditional C and eta(C7³)≤116 remain unproved in programme. All thirty rank-three numerical frontier rows and evidence classes unchanged; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 PROPOSED / NOT RUNNING, activation BLOCKED by published n6=16; zero hosted CI is NOT PASS. Historic original n1..30 numeric rows and evidence classes unchanged; bounded non-discovery not openness.",
   "rows": [
     {
       "n": 1,

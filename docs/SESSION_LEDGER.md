@@ -53,3 +53,7 @@ S012 closeout: [complete record and FUTURE UNEXECUTED S013 handoff](../sessions/
 | S014 | 2026-10-11 | Original Reiher coefficient lemmas, three-case strategic Prop4.1, factorial Obs7.1 and cloudy-support Lem7.2 | CLM-0094–0097 proved with stated scope; Phase1 IN_PROGRESS; no Phase2/3 | session/S014-reiher-strategic-three-support |
 
 [S014 research, closeout and complete FUTURE S015](../sessions/S014/CLOSEOUT.md).
+
+| S015 | 2026-10-11 | Reiher original Lem3.1, Prop3.3, collinear Prop5.1 hand-proof, plus read-only provenance and n1..30 audit | CLM-0098–0100 scoped PROGRAMME_PROVED; Phase1 IN_PROGRESS, Phase2/3 NOT_STARTED, CAM-0001 blocked | session/S015-reiher-collinear-proposition |
+
+[S015 original source proof, closeout and FULL future UNEXECUTED S016 handoff](../sessions/S015/CLOSEOUT.md).

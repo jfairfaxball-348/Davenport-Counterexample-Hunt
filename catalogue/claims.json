@@ -1021,6 +1021,39 @@
         "SRC-0025"
       ],
       "notes": "Complete small-p and α,β,γ≥3 arguments. Does NOT establish arbitrary-support prime Property B."
+    },
+    {
+      "id": "CLM-0098",
+      "statement": "Original Reiher Lemma3.1 independently hand-proved: 2p−1 nonzero vectors with every indexed µ-deletion zero contain p+1 pairwise linearly dependent positions; rigorous replacement over transcendental field extension.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S015_REIHER_COLLINEAR_PROOF.md",
+      "source_ids": [
+        "SRC-0025"
+      ],
+      "notes": "All coefficient/determinant recursions, p-bound multiplicities and final GL2 contradiction; no numerical or code proof."
+    },
+    {
+      "id": "CLM-0099",
+      "statement": "Original Reiher Proposition3.3 independently hand-proved with fewer than p exceptional indexed positions in at most two prescribed directions, deriving the full µ-deletion hypothesis and p+1 dependent conclusion via CLM-0098.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S015_REIHER_COLLINEAR_PROOF.md",
+      "source_ids": [
+        "SRC-0025"
+      ],
+      "notes": "Precise disjoint exceptional sets, p-fold coefficient sums and no strengthened blanket-zero assumption."
+    },
+    {
+      "id": "CLM-0100",
+      "statement": "Original Reiher Proposition5.1 independently hand-proved for every prime: any cloudy sequence containing three distinct collinear vectors is simple, including p=5 and exact indexed multiplicity lift.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S015_REIHER_COLLINEAR_PROOF.md",
+      "source_ids": [
+        "SRC-0025"
+      ],
+      "notes": "S014 Prop4.1, Cor2.5, Obs2.6; trilinearity, Vandermonde factor, Z=A+B+C and [Y,Z] nonzero, 3<p exceptional positions; NOT universal Property B."
     }
   ]
 }
