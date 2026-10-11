@@ -1,4 +1,4 @@
-# S002 — Frontier audit of C_n^3, n=1..30 (2026-10-10)
+# S003 — Frontier re-audit of C_n^3, n=1..30 (2026-10-11)
 
 The lower bound \(D^*=3n-2\) is independently proved in research/FOUNDATIONS.md. **SETTLED** below means exact by *primary SOURCE_STATED* Olson p-group theorem, not programme formalisation. **SANDWICHED** means an independently written deduction of a lower/upper *interval*, conditional on primary SOURCE_STATED multiwise input where used, not an exact value. No composite case is certified or claimed settled; no 'UNKNOWN' label implies an external mathematical open problem.
 
@@ -42,3 +42,6 @@ The lower bound \(D^*=3n-2\) is independently proved in research/FOUNDATIONS.md.
 At n=6, 16≤D(C6^3)≤17, independently deduced in [S002_INDUCTIVE_PROOFS](../research/S002_INDUCTIVE_PROOFS.md). The existence or absence of a 16-term zero-sumfree sequence is not established. An n=6 skeleton must admit at most three disjoint mod-3 zero sums, but the inherited 5553 orbit count is unverified and the previously assumed multiwise thresholds were wrong. Any enumeration/orbit reduction requires independent proof **after Phase-1 PASS and Phase-2 authorization**. No campaigns or searches executed here.
 
 For n=10, Yiu's 2026 abstract reports D4(C5^3)=30, ruling out the inherited antecedent D4=28. Our upper 29 comes instead from the proved binary multiwise deduction and Olson D(C5^3)=13. The new primary Grinsztajn statement is not a pointwise resolution.
+
+### S003 gate annotation
+Every n=1..30 interval remains the S002 source-conditional deduction. The binary multiwise recurrence is standalone PROGRAMME_PROVED; ternary recurrence depends on published BSP theorem whose proof is not fully independently reconstructed. Original Grinsztajn PDF body inaccessible; universal author bound NOT used to sharpen these rows. n=6 still 16..17; CAM-0001 only PROPOSED. Details in research/S003_SOURCE_PROOF_AUDIT.md.

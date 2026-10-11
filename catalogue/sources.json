@@ -76,27 +76,27 @@
       "title": "Bhowmik–Schlage-Puchta, Davenport's constant for groups of the form Z3 ⊕ Z3 ⊕ Z3d",
       "year": "2007",
       "url": "https://www.mathematik.uni-rostock.de/storages/uni-rostock/Alle_MNF/Mathematik/Struktur/Lehrstuehle/Algebra/papers/Davenport333d.pdf",
-      "access": "STATEMENT_INSPECTED",
-      "accessed": "2026-10-10",
-      "notes": "Bhowmik-Schlage-Puchta original PDF pp.1,3,9,19 directly inspected: Thm 1 D(C3 ⊕ C3 ⊕ C3d)=3d+4; Proposition 1 D2(C3^3)=11 and Dk(C3^3)=3k+6 for k>=3. NB typesetting D^3 means zero sums of length 3, distinct from multiwise D_3. Thesis SRC-0013 describes proof reconstruction."
+      "access": "PROOF_INSPECTED",
+      "accessed": "2026-10-11",
+      "notes": "Original BSP 2007 Proposition 1 p.3 and Proposition 8 proof pp.10–11 inspected. Subscript multiwise D3=15,D4=18; superscript D^3=17 is at-most-three-term zero-sum, not multiwise. Auxiliary case proof not independently closed."
     },
     {
       "id": "SRC-0009",
       "title": "Bhowmik–Schlage-Puchta, Davenport's constant for groups with large exponent",
       "year": "2012",
-      "url": "https://doi.org/10.1090/conm/579/11515",
-      "access": "ABSTRACT_INSPECTED",
-      "accessed": "2026-10-10",
-      "notes": "Reported existence of rank>=4 examples is in introductory text reproduced by author repository; precise result needs primary statement."
+      "url": "https://www.mathematik.uni-rostock.de/storages/uni-rostock/Alle_MNF/Mathematik/Struktur/Lehrstuehle/Algebra/papers/large_exponent.pdf",
+      "access": "PROOF_INSPECTED",
+      "accessed": "2026-10-11",
+      "notes": "Original author PDF statements and parts of proof inspected: eta(C5^3)=33, D3(C5^3)≤33 source-stated; eta p>7 and p=7 cases distinct, full imported axioms not matched. Visible editorial annotations including 'Forgot the second claim'. Journal DOI 10.1090/conm/579/11515."
     },
     {
       "id": "SRC-0010",
       "title": "Freeze–Schmid, Remarks on a generalization of the Davenport constant",
       "year": "2010",
-      "url": "https://doi.org/10.1016/j.disc.2009.07.002",
-      "access": "METADATA_ONLY",
-      "accessed": "2026-10-10",
-      "notes": "Bibliographic metadata and DOI to recheck next session."
+      "url": "https://www.math.univ-paris13.fr/~schmid/personal/schmid_28t.pdf",
+      "access": "STATEMENT_INSPECTED",
+      "accessed": "2026-10-11",
+      "notes": "Original Freeze–Schmid author PDF Theorem 3.6 p.9: D_k(G)≤D_{D_k(H)}(G/H), k positive. For k=1 agrees with programme-proved S002 induction. Correct DOI 10.1016/j.disc.2010.07.028; prior 2009.07.002 incorrect."
     },
     {
       "id": "SRC-0011",
@@ -122,8 +122,8 @@
       "year": "unknown",
       "url": "https://pure.royalholloway.ac.uk/en/publications/the-davenport-constant-of-finite-abelian-groups/",
       "access": "STATEMENT_INSPECTED",
-      "accessed": "2026-10-10",
-      "notes": "Aleen Sheikh, Royal Holloway doctoral thesis (2017) identified via primary university record; linked thesis Chapter 4 direct excerpt discusses potential gaps and supplies a reconstruction. Treat as scholarly caution, not as proof formula is false."
+      "accessed": "2026-10-11",
+      "notes": "Royal Holloway Sheikh thesis Chapter 4 indexed primary opening warns about 2007 rank-three-family proof gaps for gcd(d,6)≠1 and incorrect Remark 4.3.11; full university thesis PDF blocked HTTP 403. No comprehensive proof review."
     },
     {
       "id": "SRC-0014",
@@ -140,8 +140,8 @@
       "year": "2026",
       "url": "https://arxiv.org/abs/2609.04950",
       "access": "ABSTRACT_INSPECTED",
-      "accessed": "2026-10-10",
-      "notes": "Yiu original arXiv record/abstract dated 2026-09-04 inspected via indexed arXiv metadata: claims D4(C5^3)=30 and Dk=5k+10 (k>=2), with finite computer-assisted argument. Full proof and associated code not run/inspected."
+      "accessed": "2026-10-11",
+      "notes": "Original Yiu September 2026 arXiv abstract reports D4(C5^3)=30, Dk=5k+10 k≥2; full main proof and ancillary code/certificates not inspected."
     },
     {
       "id": "SRC-0016",
@@ -149,8 +149,8 @@
       "year": "2026",
       "url": "https://github.com/maaxgrin/davenport-cn3-bound",
       "access": "STATEMENT_INSPECTED",
-      "accessed": "2026-10-10",
-      "notes": "Original author GitHub README and Lean source inspected on 2026-10-10 (tree 848b081e40ecd769017a6199ebcb4e31fe125483). Claims written PDF proof of D(Cn^3)<=4n-P(n)-2 and conditional Lean 4 derivation; external Olson, Freeze-Schmid and Bhowmik-Schlage-Puchta zero-sum results are explicit AXIOMS, not kernel-proved in repo. PDF proof not itself read, Lean build not run; do not claim fully formalized theorem."
+      "accessed": "2026-10-11",
+      "notes": "Author repo tree 848b081e40ecd769017a6199ebcb4e31fe125483 contains written PDF blob 5a698f1edee8cf0b1fabcb8b865f0fd04617ab0d; PDF binary body inaccessible to source tools, README/conditional Lean axiom statements inspected. 4n-P(n)-2 not independently audited at proof level."
     },
     {
       "id": "SRC-0017",
@@ -175,9 +175,9 @@
       "title": "Bhowmik–Schlage-Puchta, Davenport's constant for groups of the form Z3⊕Z3⊕Z3d (original PDF mirror)",
       "year": "2007",
       "url": "https://www.mathematik.uni-rostock.de/storages/uni-rostock/Alle_MNF/Mathematik/Struktur/Lehrstuehle/Algebra/papers/Davenport333d.pdf",
-      "access": "STATEMENT_INSPECTED",
-      "accessed": "2026-10-10",
-      "notes": "Direct author-paper PDF cross-reference for SRC-0008: page 3 Proposition 1 prints multiwise D_k(C3^3)=3k+6 for k>=3; 2007 formula 3d+4, applies to C3⊕C3⊕C3d, not C6^3."
+      "access": "PROOF_INSPECTED",
+      "accessed": "2026-10-11",
+      "notes": "Same BSP 2007 primary PDF as SRC-0008. Proposition 1 and written proof Proposition 8 inspected, not independently fully certified. D^3 short-zero-sum differs from D3 multiwise."
     },
     {
       "id": "SRC-0020",
@@ -185,8 +185,8 @@
       "year": "2017",
       "url": "https://pure.royalholloway.ac.uk/en/publications/the-davenport-constant-of-finite-abelian-groups/",
       "access": "STATEMENT_INSPECTED",
-      "accessed": "2026-10-10",
-      "notes": "Primary university metadata identifies Aleen Sheikh and Chapter 4 excerpt of thesis discusses correcting possible gaps in 2007 proof; no independent adjudication of full proof."
+      "accessed": "2026-10-11",
+      "notes": "Royal Holloway Sheikh thesis Chapter 4 indexed primary opening warns about 2007 rank-three-family proof gaps for gcd(d,6)≠1 and incorrect Remark 4.3.11; full university thesis PDF blocked HTTP 403. No comprehensive proof review."
     }
   ]
 }

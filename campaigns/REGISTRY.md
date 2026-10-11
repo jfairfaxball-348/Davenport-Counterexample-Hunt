@@ -18,3 +18,6 @@ Every campaign **before activation** must state: exact target, search space, met
 - **PROPOSED / NOT RUNNING.** n=6 target interval 16..17 independently derived; no candidate evaluated.
 - The original source states D4(C3^3)=18, not inherited 17; any 5553-orbit list must be revalidated from first principles. 48 Boolean variables are simply 16×3 CRT labels, not an activated SAT instance.
 - Prerequisites remain Phase-1 PASS, then Phase-2 certified tooling and independent symmetry/exhaustiveness proof. S003 is a Phase-1 source-proof session only.
+
+### S003 — PROPOSED / NOT RUNNING (2026-10-11)
+Phase 1 IN_PROGRESS, Phases 2 and 3 NOT_STARTED. No SAT/ILP, candidates, orbitting, solver, enumeration, certification or computed count. The inherited 5553 orbit claim has no completeness provenance and used the wrong D4=17. n=6 16..17 remains future tooling target only.

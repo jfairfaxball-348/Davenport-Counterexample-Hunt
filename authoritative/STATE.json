@@ -1,6 +1,6 @@
 {
   "project": "Davenport-Counterexample-Hunt",
-  "as_of": "2026-10-10",
+  "as_of": "2026-10-11",
   "current_phase": 1,
   "phases": {
     "0": {
@@ -24,25 +24,26 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S002",
-  "recommended_next_session": "S003",
+  "last_completed_session": "S003",
+  "recommended_next_session": "S004",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": 6,
   "phase1_target_status": "PROPOSED_ONLY",
   "open_blockers": [
-    "Verify the actual written proof of Grinsztajn 2026 bound and each external axiom against primary proofs; Lean file is explicitly conditional.",
-    "Independent scrutiny of BSP Proposition 1 multiwise proof and its typesetting/notation, plus Sheikh thesis reconstruction and implications.",
-    "Independent evidence for all inherited 43/699/5553 orbit counts, or remove them as unusable; not a prerequisite to preserving n=6 target but required before any exhaustive campaign.",
-    "Broaden updated literature audit for individual C6^3 resolution; targeted 2026 search found no authenticated exact determination."
+    "Original Grinsztajn written PDF at author GitHub located but binary body inaccessible; 4n-P(n)-2 not source-proof-audited.",
+    "Grinsztajn imported prime-5/7/large-prime eta and k-wise axioms not all matched to definitive original BSP proof; author PDF has visible draft editorial remarks.",
+    "Sheikh 2017 thesis full Chapter 4 / Remark 4.3.11 HTTP 403, and BSP Proposition 8 auxiliary case verification incomplete.",
+    "Yiu 2609.04950 full proof and ancillary evidence not inspected; targeted exact C6^3 searches nonconclusive.",
+    "Inherited 43/699/5553 GL(3,3) orbits lack reproducible completeness and old D3/D4 and +5 calculations were erroneous."
   ],
   "gate_ledger": "docs/PHASE_GATE_LEDGER.md",
-  "source_snapshot": "2026-10-10",
+  "source_snapshot": "2026-10-11",
   "warnings": [
-    "S002 corrects inherited D3(C3^3)=14 and D4(C3^3)=17: primary BSP Proposition 1 states 15 and 18. n=3m inherited +5 upper refuted; correct sourced deduction uses +6.",
-    "n=6 proven programme interval 16..17 from source-stated p-group theorem and standalone C2^3 multiwise proof; no exact composite value certified.",
-    "Grinsztajn 2026 written bound author-claimed; Lean external inputs AXIOMS, not a complete formal certification.",
-    "No GitHub Actions workflows/runs/jobs on S001 entry; no CI pass inferred.",
-    "Yiu Sep 2026 abstract D4(C5^3)=30, no proof/code independent reproduction."
+    "Original BSP 2007 subscript D3=15, D4=18 and superscript D^3=17 at-most-three-term threshold; do not conflate.",
+    "Freeze–Schmid original Theorem 3.6 supports subgroup induction at k=1; source DOI corrected.",
+    "n6 16..17, n12 34..36, n15 43..45, n21 61..63, n24 70..72 remain programme deductions conditional on source-stated theorems.",
+    "Grinsztajn source PDF unread, conditional Lean axioms not unconditional theorem proof.",
+    "At S003 entry GitHub Actions runs and check runs were 0, so no CI PASS."
   ]
 }

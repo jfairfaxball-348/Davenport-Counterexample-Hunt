@@ -78,3 +78,6 @@ No S001 claim is COMPUTED_EXACT, HEURISTIC or FORMALLY_CERTIFIED. No counterexam
 - **CLM-0025, CLM-0026 and CLM-0027** (tripling +5 and composite off-by-one intervals) must not be used; correct conditional-on-source theorem is tripling +6, giving several wider intervals.
 - **CLM-0031** inherits an unverified 5553 skeleton-orbit count and wrong D4 threshold; no enumeration or exactness may be inferred.
 - The inherited records are kept, with explicit caution notes, for honest provenance; fresh corrected claim IDs are appended rather than recycling them.
+
+### S003 claim and source-hierarchy review
+New stable claims CLM-0060: Freeze–Schmid primary subgroup k-wise theorem (SOURCE_STATED); CLM-0061: at-most-three superscript D³=17 is not multiwise subscript D₃=15 (SOURCE_STATED); CLM-0062: original large-exponent eta(C5³)=33 and three-block extraction at 33 (SOURCE_STATED; draft caution); CLM-0063: Sheikh Chapter 4 explicit 2007 proof concerns (SOURCE_STATED, original thesis unread). Inherited 14/17, +5 and 43/699/5553 not promoted. Grinsztajn 4n−P(n)−2 remains SOURCE_STATED, not programme-proved.

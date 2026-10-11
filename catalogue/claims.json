@@ -581,6 +581,52 @@
         "SRC-0005"
       ],
       "notes": "Do not infer a resolved C6^3 case."
+    },
+    {
+      "id": "CLM-0060",
+      "category": "LITERATURE",
+      "statement": "Freeze–Schmid original Theorem 3.6 states D_k(G)≤D_{D_k(H)}(G/H) for subgroup H and positive k.",
+      "status": "SOURCE_STATED",
+      "origin": "SRC-0010 original author PDF Theorem 3.6",
+      "source_ids": [
+        "SRC-0010"
+      ],
+      "notes": "k=1 independently PROGRAMME_PROVED as CLM-0047."
+    },
+    {
+      "id": "CLM-0061",
+      "category": "LITERATURE",
+      "statement": "BSP 2007 superscript D^3(C3^3)=17 refers to an at-most-three-term zero sum, not subscript multiwise D3(C3^3)=15.",
+      "status": "SOURCE_STATED",
+      "origin": "SRC-0008 original PDF Proposition 1",
+      "source_ids": [
+        "SRC-0008",
+        "SRC-0019"
+      ],
+      "notes": "Multiwise D4=18. Proposition 8 proof case reconstruction incomplete."
+    },
+    {
+      "id": "CLM-0062",
+      "category": "LITERATURE",
+      "statement": "BSP large-exponent original author PDF says eta(C5^3)=33 and at least three disjoint zero sums at length 33; all Grinsztajn large-prime axioms require further definitive-source verification.",
+      "status": "SOURCE_STATED",
+      "origin": "SRC-0009 primary author PDF sections 3–4",
+      "source_ids": [
+        "SRC-0009",
+        "SRC-0016"
+      ],
+      "notes": "Primary author PDF contains visible editorial draft annotations."
+    },
+    {
+      "id": "CLM-0063",
+      "category": "LITERATURE",
+      "statement": "Sheikh 2017 thesis Chapter 4 warns of incomplete cases in 2007 rank-three-family proof and an incorrect statement at Remark 4.3.11.",
+      "status": "SOURCE_STATED",
+      "origin": "SRC-0020 university-indexed Chapter 4 opening",
+      "source_ids": [
+        "SRC-0020"
+      ],
+      "notes": "Complete thesis PDF HTTP 403; caution does not disprove distinct BSP multiwise lemma."
     }
   ]
 }
