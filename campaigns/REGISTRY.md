@@ -65,3 +65,7 @@ S013 CLM-0089–0093 hand-prove rank-two p/2p extraction, D(Cp²)=2p−1, eta<=3
 ### S014 — PROPOSED / NOT RUNNING, ACTIVATION BLOCKED
 
 No replacement search/tool/campaign. Published n6=16 blocks inherited CAM-0001; first Reiher proof package does not change its premise.
+
+### S015 — PROPOSED / NOT RUNNING, ACTIVATION BLOCKED
+
+Original rank-two Reiher CLM-0098–0100 does not change published Schmid2011 n6=16; CAM-0001 length-16 zero-sumfree premise remains obsolete. No activation, replacement campaign, target, mathematical computation, tooling, candidate or certificate; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED.

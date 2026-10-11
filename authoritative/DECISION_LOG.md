@@ -65,3 +65,6 @@ S013 CLM-0089–0093 hand-prove rank-two p/2p extraction, D(Cp²)=2p−1, eta<=3
 
 | 2026-10-11 | S014 closes original Reiher first strategic-equation/three-support package CLM-0094–0097 | SRC-0025 pp4–6,10–12,15–16, full independent report | PROGRAMME_PROVED LIMITED SCOPE |
 | 2026-10-11 | Stop at next independent Reiher Prop5.1; full Property B/prime C/eta7 remain conditional in programme | Original Theorem10.2 four-support route | PHASE1 IN_PROGRESS; S015 FUTURE UNEXECUTED |
+
+| 2026-10-11 | S015 independently hand-proved original Reiher Lem3.1, Prop3.3 and collinear Prop5.1 including p=5 | CLM-0098–0100, SRC-0025, research/S015_REIHER_COLLINEAR_PROOF.md | PROGRAMME_PROVED only stated local propositions; next Lem6.1/Prop6.2 |
+| 2026-10-11 | S015 official Sheikh403, C53 inaccessible and Yiu final M1 artifacts not authenticated; thirty numeric rows unchanged | SRC-0013/0020/0024/0015, both frontier mirrors | ACCESS LIMITED, NOT absence/openness proof; Phase1 IN_PROGRESS |

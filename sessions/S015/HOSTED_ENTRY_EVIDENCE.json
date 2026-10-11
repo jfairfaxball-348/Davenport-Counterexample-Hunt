@@ -1,0 +1,29 @@
+{
+  "session": "S015",
+  "entry_main": "2c1e0dac220467d5c3bab526ec56bca61308a2b8",
+  "entry_tree": "ada5281be64599ac68a7fb2ea2eb6cb6c54db2b8",
+  "s014_pr": 14,
+  "s014_head": "d0186175defb0ec2191b170950c88cc9eedda264",
+  "s014_head_parent": "8d16ecd63b769e6c138861f78a1dfbff6fd891b3",
+  "s014_head_tree": "ada5281be64599ac68a7fb2ea2eb6cb6c54db2b8",
+  "s014_merge": "2c1e0dac220467d5c3bab526ec56bca61308a2b8",
+  "s014_merge_parents": [
+    "8d16ecd63b769e6c138861f78a1dfbff6fd891b3",
+    "d0186175defb0ec2191b170950c88cc9eedda264"
+  ],
+  "s014_one_atomic_commit": true,
+  "previous_pr_1_to_14_all_merged": true,
+  "open_prs": 0,
+  "competing_S015_branches_at_entry": 0,
+  "rulesets": [],
+  "branch_summary_protected": false,
+  "branch_protection_api": "HTTP403 integration cannot access",
+  "workflow_files": 0,
+  "workflow_api": "unsupported by connector; no inference of zero",
+  "action_runs": 0,
+  "action_jobs": "none",
+  "check_runs": 0,
+  "commit_status_contexts": 0,
+  "combined_status": "pending/empty, NOT PASS",
+  "hosted_ci_pass": false
+}

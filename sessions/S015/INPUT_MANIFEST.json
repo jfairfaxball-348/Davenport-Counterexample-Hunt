@@ -1,0 +1,8 @@
+{
+  "session": "S015",
+  "incoming_committed_handoff_blob": "3f39fc67637ffa46b08422f5ec9866051083a064",
+  "incoming_handoff_bytes": 6692,
+  "prior_s014_sha256": "614ee43a72d1a68b25ac4c36b5304287e147d2fa3b428920bae1f31c53f53475",
+  "incoming_byte_identical": true,
+  "owner_invocation": "Separately transcribed fresh user invocation, identical content but raw chat-transport bytes unavailable; no invented transport hash."
+}

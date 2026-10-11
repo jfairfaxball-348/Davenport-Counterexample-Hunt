@@ -1,0 +1,13 @@
+{
+  "session": "S015",
+  "future_session": "S016",
+  "bytes": 6162,
+  "status": "FUTURE_UNEXECUTED",
+  "authoritative": "authoritative/NEXT_SESSION_PROMPT.md",
+  "markers": [
+    "S016_PROMPT_START",
+    "S016_PROMPT_END"
+  ],
+  "exact_match": true,
+  "raw_chat_transport_hash_claimed": false
+}

@@ -1,0 +1,19 @@
+{
+  "session": "S015",
+  "new_claims": [
+    "CLM-0098",
+    "CLM-0099",
+    "CLM-0100"
+  ],
+  "single_active_target": "Reiher Proposition5.1",
+  "first_future_unclosed": "Original Reiher Lemma6.1/Proposition6.2",
+  "universal_property_B": false,
+  "unconditional_property_C": false,
+  "eta_C7cubed_116_unconditional": false,
+  "phase1": "IN_PROGRESS",
+  "phase2_phase3": "NOT_STARTED",
+  "campaign": "PROPOSED_NOT_RUNNING_BLOCKED_N6",
+  "mathematical_search": false,
+  "hosted_ci_pass": false,
+  "s016_executed": false
+}

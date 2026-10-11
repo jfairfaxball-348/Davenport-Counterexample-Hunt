@@ -1,0 +1,21 @@
+{
+  "session": "S015",
+  "reiher": {
+    "id": "SRC-0025",
+    "original_pdf": "https://www.math.uni-rostock.de/math/pub/preprints/preprint/2010/pre10_01.pdf",
+    "printed_pages": "7-9,13-14",
+    "prior_s013_sha256": "7d94931bcbf8fb4ce77c0ed94206659df74e8cb5543e1615e7dde23e86b994d8",
+    "fresh_hash": false,
+    "proofs": [
+      "Lemma3.1",
+      "Proposition3.3",
+      "Proposition5.1"
+    ]
+  },
+  "sheikh": "S015 official PDF HTTP403",
+  "ghst": "Original C53 HTML URL inaccessible; code AND output uninspected",
+  "yiu": "arxiv v1 original abstract and HTML read only; final M1 independent predicate code/log unverified",
+  "author_code_executed": false,
+  "mathematical_computation": false,
+  "frontier_rows_checked": 30
+}

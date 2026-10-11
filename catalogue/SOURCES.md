@@ -297,3 +297,7 @@ Original GG1999 Ga4 bibliography and journal volume listing/DOI10.4064/cm-72-2-2
 ### S014 scoped original source audit
 
 SRC-0025 original Reiher PDF read printed pp4–6,10–12,15–16,26. Complete independent hand proofs of exact Prop4.1 and Lem7.2 dependencies CLM-0094–0097; full Thm10.2 still not independently certified (Prop5.1, Props6.2/8.1, Sec9, Prop10.1). Known source size/hash from S013 NOT freshly rehashed. Original Sheikh Chapter4 fresh403, C53 HTML inaccessible via web, Yiu v1 abstract accessible but not newly authenticated original ancillary implementations/logs/certificates. Source access enums unchanged; no exact literature update for five frontier intervals.
+
+### S015 scoped primary-source verification
+
+SRC-0025 original Reiher2010 PDF printed pp7–9 and 13–14 read directly. Independently reconstructed Lem3.1, Prop3.3 and Proposition5.1 including p5 (CLM-0098–0100); source SHA256 only historically recorded by S013, not freshly rehashed. Complete universal Property B still not programme-proved. Official SRC-0013/SRC-0020 Sheikh2017 137p PDF S015 HTTP403; SRC-0024 GHST C53 original page/code/output inaccessible; SRC-0015 Yiu v1 original abstract/HTML read-only, no authenticated final M1 implementation/log; SRC-0026 B=>C conditional, BSP coefficient only R=(3p−1)/2. All source classes preserved; no absence inference.
