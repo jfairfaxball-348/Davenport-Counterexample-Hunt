@@ -6,7 +6,7 @@
     "SANDWICHED",
     "UNKNOWN"
   ],
-  "notation": "S008 p7 conditional CLM-0077 two-mixed-line normalization and CLM-0078 four terminal t short sums only; no full eta7 or stronger BSP coefficient proof. Unchanged 25 source-stated exact/trivial rows and five conditional intervals; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 BLOCKED; no openness inference.",
+  "notation": "S010 CLM-0081 proves only the p7 intermediate at-most-one-mixed-line assertion; original GG1999 proof SRC-0026 text read but B=>C chain unverified. Every numeric row unchanged: 25 source-exact/trivial and five conditional intervals; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 BLOCKED; no openness inference.",
   "rows": [
     {
       "n": 1,

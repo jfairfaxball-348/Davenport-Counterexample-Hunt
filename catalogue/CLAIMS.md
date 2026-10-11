@@ -642,3 +642,23 @@ Category: SOURCE_AUDIT. Origin: research/S009_SOURCE_PROOF_VERIFICATION.md secti
 
 Original paper bibliographic identity established from Reiher's references and publisher DOI metadata, but the original theorem's full premises/deduction are not proved in this session. The source SRC-0026 is METADATA_ONLY, not PROOF_INSPECTED.
 
+
+## S010 correction of historical CLM-0080 source access
+
+CLM-0080 records that the full original GG1999 proof was inaccessible **in S009**; that older observation is superseded by S010's actual original full Theorem10.7 proof inspection. SRC-0026 is now PROOF_INSPECTED, not independently proved.
+
+## CLM-0081 — PROGRAMME_PROVED
+
+Complete hand proof of the intermediate BSP2012 p7 **at-most-one-mixed-cyclic-subgroup** assertion after CLM-0076 under the true fifteen-term no-zero-sum-of-length-at-most-seven and subgroup-capacity-two hypotheses.
+
+Category: SOURCE_AUDIT. Sources: SRC-0021. Origin: research/S010_SOURCE_PROOF_VERIFICATION.md §1.
+
+Conditional two-axis normalisation and independent subset sums B={0,1,3,4}; diagonal absent contradicts capacity, diagonal doubled t2/5 explicit length4/6 sums, doubled t1 requires nine terms over only three residual lines capacity6, diagonal singleton t1/2/5 forces full anti-diagonal and explicit length4/6 sums or no available points. NO full Lemma5.2, eta7, stronger coefficient or downstream t1/2/4.
+
+## CLM-0082 — SOURCE_STATED
+
+Original Gao–Geroldinger1999 Theorem10.7 complete published proof of Property B implies Property C is NOW READABLE original pp206–208 in author-uploaded full 33-page article, but internal deductions are not independently certified.
+
+Category: SOURCE_AUDIT. Sources: SRC-0026,SRC-0025. Origin: research/S010_SOURCE_PROOF_VERIFICATION.md §3.
+
+PROOF_INSPECTED evidence, not PROGRAMME_PROVED: uses Property B, Lemma4.3.2 and Lemma10.6 among other internal dependencies and terminal subset argument.

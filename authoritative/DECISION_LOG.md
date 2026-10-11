@@ -45,3 +45,7 @@
 | 2026-10-11 | S009 hand-proves conditional two-mixed-line (5,5)-twice and all eight omitted-vector exclusions; DOES NOT close remaining p7 case | CLM-0079, SRC-0021 p29, S009 report §2 | LIMITED PROGRAMME_PROVED, ETA7 SOURCE_STATED |
 | 2026-10-11 | Identify original GG1999 Theorem10.7 source distinct from GG2006 survey; publisher proof access insufficient | SRC-0026 METADATA_ONLY, CLM-0080 | ORIGINAL B⇒C PROOF UNVERIFIED |
 | 2026-10-11 | Preserve 30-row frontier and CAM-0001 block; zero hosted CI, no campaign or Phase2/3 | S009 full source-only audit, administrative validation | PHASE1 IN_PROGRESS; CAM BLOCKED; NO CI PASS |
+
+| 2026-10-11 | S010 proves BSP2012 p7 at-most-one-mixed-subgroup INTERMEDIATE assertion via complete diagonal one/two-copy hand argument, no all-length zero-sumfree assumption | CLM-0081; S010 research §1 | LOCAL PROGRAMME_PROVED only; full Lemma5.2/eta7 unproved |
+| 2026-10-11 | S010 accessed original GG1999 full author-uploaded 33p Theorem10.7 Property B=>C proof pp206–208 | SRC-0026 PROOF_INSPECTED, CLM-0082 | FULL ORIGINAL SOURCE READ, dependent proof not independently verified |
+| 2026-10-11 | Phase1 gate held at printed doubled x+y in <z> and terminal t1/2/4, strong coefficient and original-source proof chain | S010 report §§2–6 | IN_PROGRESS; Phase2/3 NOT_STARTED; n6 CAM blocked, no CI PASS |

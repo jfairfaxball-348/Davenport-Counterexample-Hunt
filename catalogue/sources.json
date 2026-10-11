@@ -238,9 +238,9 @@
       "title": "Gao–Geroldinger, On Long Minimal Zero-Sum Sequences in Finite Abelian Groups",
       "year": "1999",
       "url": "https://doi.org/10.1023/A:1004854508165",
-      "access": "METADATA_ONLY",
+      "access": "PROOF_INSPECTED",
       "accessed": "2026-10-11",
-      "notes": "Identified from Reiher2010 printed reference [6] (p.29), cited at p.27 as Gao–Geroldinger Theorem10.7 for Property B⇒C. Periodica Mathematica Hungarica 38 (1999), 179–211. Original journal publisher landing/preview inspected for identity only; complete original theorem proof not read and not to be confused with GG2006 survey. No original-source deduction promoted."
+      "notes": "S010 lawful author-uploaded original full 33-page article readable at ResearchGate Weidong Gao profile, Theorem10.7 proof printed pp206–208 and Lemma10.6 printed pp204–206 visually inspected. Original DOI 10.1023/A:1004854508165. Access PROOF_INSPECTED, not independently PROGRAMME_PROVED; underlying Lem4.3.2/4.3.3/10.6, Cor10.5 and Property B chain not completely re-proved. See research/S010_SOURCE_PROOF_VERIFICATION.md §3."
     }
   ]
 }

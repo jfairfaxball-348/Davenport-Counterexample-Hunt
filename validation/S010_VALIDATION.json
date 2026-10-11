@@ -1,0 +1,37 @@
+{
+  "session": "S010",
+  "kind": "ADMINISTRATIVE_ONLY",
+  "result": "PASS",
+  "checks": {
+    "sourceIds26": true,
+    "claimIds82": true,
+    "sourceRefs": true,
+    "sourceEnum": true,
+    "claimEnum": true,
+    "noComputedOrFormal": true,
+    "frontier30": true,
+    "intervalsFive": true,
+    "frontierMirror": true,
+    "phaseGate": true,
+    "sourceAccessScoped": true,
+    "newProofScoped": true,
+    "handoffExact": true,
+    "inputArchiveExact": true,
+    "invocationArchivedSeparately": true,
+    "noCiPass": true,
+    "campaignHeld": true,
+    "noMathSearch": true
+  },
+  "checks_passed": 18,
+  "mathematical_certification": false,
+  "source_code_executed": false,
+  "hosted_ci_pass": false,
+  "limits": [
+    "CLM-0081 intermediate only; NOT full Lem5.2/eta7",
+    "GG1999 full proof text now seen, not all dependencies verified",
+    "Sheikh HTTP403, C53/Yiu records unavailable",
+    "ZERO hosted workflow/status contexts, not CI PASS",
+    "Raw owner chat transport byte SHA unavailable"
+  ],
+  "errors": []
+}

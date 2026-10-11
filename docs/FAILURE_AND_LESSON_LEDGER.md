@@ -61,3 +61,11 @@
 | S009 | Real CI | No workflow files, zero Actions runs/jobs, check-runs or statuses; branch/main summary unprotected, rulesets [] | Admin validation is NOT hosted CI PASS |
 
 **S009 negative scope:** no numerical mathematical search, SAT/ILP, orbit enumeration, campaign, candidate, exhaustive negative, source-program execution, Lean or formal certificate. Inherited 14/17, +5 and 43/699/5553 remain quarantined.
+
+| S010 | Formerly unproved BSP2012 p7 at-most-one mixed line | Complete hand proof with diagonal cannot be empty, all singleton/doubled cases, explicit <=7 zero sums or capacity contradictions | CLM-0081 PROGRAMME_PROVED intermediate only, no eta7/full Lemma5.2 |
+| S010 | NEXT BSP p7 printed assertion | Unproved existence of three doubly occurring x,y,z with x+y in <z> and asserted six-line pair-sum contradiction; final t1/2/4 need other actually available terms | FIRST downstream printed-page gap isolated; no all-length zero-sumfree upgrade |
+| S010 | Original GG1999 B=>C source previously metadata only | Legal original author-uploaded full Theorem10.7 pp206–208 now inspected, but cited internal lemmas and Reiher premises not fully independently derived | SRC0026 PROOF_INSPECTED not PROGRAMME_PROVED |
+| S010 | Original other provenance | Official Sheikh2017 full 137p Chapter4 S010 HTTP403; GHST C53 code/output unavailable; Yiu M1 final test singly implemented and M2/M3 different | No author code run, no computed exact or false reproducibility claim |
+| S010 | Frontier and CI | Every n1..30 unchanged, 25 source exact/trivial and five intervals; no hosted runs/check-runs/status contexts | Non-discovery not openness, admin validation not CI PASS |
+
+**S010 negative scope:** no zero-sumfree candidate, SAT/ILP, orbit enumeration, computational/numerical mathematical search, code execution, Lean, exhaustive negative, proof certificate, campaign or publication. Inherited 14/17, +5, 43/699/5553 remain quarantined.
