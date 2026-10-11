@@ -49,3 +49,7 @@ S012 closeout: [complete record and FUTURE UNEXECUTED S013 handoff](../sessions/
 | S013 | 2026-10-11 | One bounded original rank-two hand-proof/provenance pass | CLM-0089–0093 rank-two prerequisites and conditional B=>C complete; unconditional Property B open in programme, Phase1 IN_PROGRESS | session/S013-rank-two-original-prerequisites |
 
 [S013 full proof/closeout and strictly future S014 handoff](../sessions/S013/CLOSEOUT.md).
+
+| S014 | 2026-10-11 | Original Reiher coefficient lemmas, three-case strategic Prop4.1, factorial Obs7.1 and cloudy-support Lem7.2 | CLM-0094–0097 proved with stated scope; Phase1 IN_PROGRESS; no Phase2/3 | session/S014-reiher-strategic-three-support |
+
+[S014 research, closeout and complete FUTURE S015](../sessions/S014/CLOSEOUT.md).

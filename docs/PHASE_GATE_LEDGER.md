@@ -3,7 +3,7 @@
 | Gate | Status | Review | Evidence / limit |
 |---|---|---|---|
 | Phase 0 governance | PASS | S001 2026-10-10 | Required spine and provenance categories created; JSON structurally constructed |
-| Phase 1 frontier | IN_PROGRESS | S013 2026-10-11 | Complete rank-two eta and conditional B=>C CLM-0089–0093; unrebuilt unconditional Reiher Property B, stronger coefficient and other proof/provenance inputs remain. p7 lemma preserved; n6=16 blocks CAM-0001. |
+| Phase 1 frontier | IN_PROGRESS | S014 2026-10-11 | Complete rank-two eta and conditional B=>C CLM-0089–0093; unrebuilt unconditional Reiher Property B, stronger coefficient and other proof/provenance inputs remain. p7 lemma preserved; n6=16 blocks CAM-0001. |
 | Phase 2 tooling | NOT_STARTED | — | No independent algorithm or SAT checker |
 | Phase 3 campaigns | NOT_STARTED | S004 | CAM-0001 PROPOSED / NOT RUNNING; n6 premise obsolete, activation blocked; no replacement target |
 | Phase 4 result certification | OWNER_GATED | — | No candidate, Lean proof or cold check |
@@ -31,3 +31,7 @@ S012 (2026-10-11): S012 complete hand proof CLM-0084–0087 closes BSP2012 Lem5.
 ## S013 — 2026-10-11
 
 S013 CLM-0089–0093 hand-prove rank-two p/2p extraction, D(Cp²)=2p−1, eta<=3p−2/long-zero short block, original Lem10.6 and the full B=>C implication CONDITIONAL on Property B. Complete S012 p7 Lem5.2 preserved. FIRST unconditional prerequisite is Reiher Property B through unrebuilt strategic-equation/geometric chain; stronger coefficient unproved. Phase1 IN_PROGRESS; Phases2/3 NOT_STARTED; CAM-0001 PROPOSED / NOT RUNNING activation BLOCKED by published n6=16. All 30 numeric rows unchanged; no openness inference. Zero hosted CI, NOT PASS. No owner-action blocker identified; source-access limitations remain research obligations. S014 strictly FUTURE UNEXECUTED.
+
+## S014 — 2026-10-11
+
+S014 CLM-0094–0097 independently reconstruct Reiher original rank-two coefficient/conditional lemmas, exact three-case strategic Prop4.1 (p≥5), Obs7.1 factorial identity, Lem7.2 cloudy support≤3 (p2/3 separately). FIRST unrebuilt general Property B input now Prop5.1 collinear reconstruction; Prop6.2/8.1 and Section9/Prop10.1 remain. Universal Property B, unconditional prime Property C, eta(C7³)≤116, stronger BSP coefficient NOT programme-proved. S012/S013 scopes unchanged; 30 frontier rows unchanged:25 source-exact/trivial and five conditional intervals. Phase1 IN_PROGRESS, Phase2/3 NOT_STARTED, CAM-0001 PROPOSED / NOT RUNNING, BLOCKED by source-stated n6=16. Zero hosted runs/checks: NOT CI PASS. S015 FUTURE UNEXECUTED; administrative checks are NOT hosted CI.

@@ -1,0 +1,29 @@
+{
+  "session": "S014",
+  "entry_main": "8d16ecd63b769e6c138861f78a1dfbff6fd891b3",
+  "entry_tree": "ea8ee811587daaed8e4efa587d9bdd7fd90db28b",
+  "s013_pr": 13,
+  "s013_head": "f49050f2dddfff2d8bab62ae5e1fd8da504b9105",
+  "s013_head_parent": "e22e1f369606c848d94b71bce737d74301a00954",
+  "s013_head_tree": "ea8ee811587daaed8e4efa587d9bdd7fd90db28b",
+  "s013_merge": "8d16ecd63b769e6c138861f78a1dfbff6fd891b3",
+  "s013_merge_parents": [
+    "e22e1f369606c848d94b71bce737d74301a00954",
+    "f49050f2dddfff2d8bab62ae5e1fd8da504b9105"
+  ],
+  "s013_one_atomic_commit": true,
+  "prior_prs_1_through_13_all_merged": true,
+  "open_prs": 0,
+  "competing_S014_branches": 0,
+  "main_branch_summary_protected": false,
+  "rulesets": [],
+  "workflow_files": 0,
+  "actions_workflow_listing": "Connector URL not supported; no assertion of workflow API zero",
+  "action_runs": 0,
+  "check_runs": 0,
+  "commit_status_contexts": 0,
+  "combined_status": "pending/empty, NOT PASS",
+  "direct_standalone_protection_s013": "HTTP401 Requires authentication",
+  "authenticated_protection_s013_s014": "HTTP403 Resource not accessible by integration",
+  "hosted_ci_pass": false
+}

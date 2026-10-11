@@ -1,0 +1,25 @@
+{
+  "session": "S014",
+  "kind": "ADMINISTRATIVE_ONLY",
+  "result": "PASS",
+  "checks": {
+    "allJson": true,
+    "oldClaimsSame": true,
+    "unique97": true,
+    "uniqueSources28": true,
+    "claimSourceRefs": true,
+    "oldRowsSame": true,
+    "twoMirrors": true,
+    "historical0082": true,
+    "scope": true,
+    "nextExact": true,
+    "inputExact": true,
+    "phaseGate": true,
+    "futureBytes": true,
+    "priorBytes": true
+  },
+  "source_ids": 28,
+  "claim_ids": 97,
+  "numerical_frontier_rows": 30,
+  "hosted_ci_pass": false
+}

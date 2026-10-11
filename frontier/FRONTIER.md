@@ -1,4 +1,4 @@
-# Frontier after S013
+# Frontier after S014
 
 S013 CLM-0089–0093 hand-prove rank-two p/2p extraction, D(Cp²)=2p−1, eta<=3p−2/long-zero short block, original Lem10.6 and the full B=>C implication CONDITIONAL on Property B. Complete S012 p7 Lem5.2 preserved. FIRST unconditional prerequisite is Reiher Property B through unrebuilt strategic-equation/geometric chain; stronger coefficient unproved. Phase1 IN_PROGRESS; Phases2/3 NOT_STARTED; CAM-0001 PROPOSED / NOT RUNNING activation BLOCKED by published n6=16. All 30 numeric rows unchanged; no openness inference. Zero hosted CI, NOT PASS.
 
@@ -105,3 +105,7 @@ All 30 rows retain exactly the same group, D*=3n−2, lower and upper endpoint, 
 ## S013 source-only follow-through
 
 S013 CLM-0089–0093 hand-prove rank-two p/2p extraction, D(Cp²)=2p−1, eta<=3p−2/long-zero short block, original Lem10.6 and the full B=>C implication CONDITIONAL on Property B. Complete S012 p7 Lem5.2 preserved. FIRST unconditional prerequisite is Reiher Property B through unrebuilt strategic-equation/geometric chain; stronger coefficient unproved. Phase1 IN_PROGRESS; Phases2/3 NOT_STARTED; CAM-0001 PROPOSED / NOT RUNNING activation BLOCKED by published n6=16. All 30 numeric rows unchanged; no openness inference. Zero hosted CI, NOT PASS. Restricted rank-two proofs do not change rank-three p-group source evidence classes. New query non-discovery is limited retrieval, never current openness. See [S013 proof report](../research/S013_RANK_TWO_ORIGINAL_DEPENDENCIES.md).
+
+## S014 thirty-row source-exact mirror check
+
+All 30 numeric/evidence rows unchanged. Five intervals n15:43..45,n20:58..59,n21:61..63,n28:82..83,n30:88..90 do not imply present-day openness. Original Schmid n6=16 and van Emde Boas 1969 exact families remain SOURCE_STATED; rank-two hand proofs do not upgrade rank-three source classes.

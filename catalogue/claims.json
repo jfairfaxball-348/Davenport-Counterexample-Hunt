@@ -977,6 +977,50 @@
         "SRC-0026"
       ],
       "notes": "Proves extraction, translation/padding, exact D, specific Cor10.5(2), Lem10.6, actual constant-sum setup and REAL terminal trichotomy using CLM-0088. Does NOT prove unconditional prime Property B; historical CLM-0082 remains SOURCE_STATED."
+    },
+    {
+      "id": "CLM-0094",
+      "statement": "Original Reiher coefficient automorphism invariant Obs2.2, suspicious µ=1 Lem2.3, cloudy distinct-point linear independence Cor2.5, and p−1 dependent cloudy positions imply simplicity Obs2.6 over Fp², with independently proved Boolean-cube/field/quotient steps.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S014_REIHER_STRATEGIC_EQUATIONS.md",
+      "source_ids": [
+        "SRC-0025"
+      ],
+      "notes": "Finite-field Wilson/Fermat and Boolean-cube top coefficient reconstructed, p-group/classification not imported."
+    },
+    {
+      "id": "CLM-0095",
+      "statement": "For p≥5, original Reiher Prop4.1 exact determinant strategic equation holds for suspicious sequences over Fp², with complete independent three polynomial cases including original H'/H'' grids, forbidden nonempty-subset maps and coefficients.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S014_REIHER_STRATEGIC_EQUATIONS.md",
+      "source_ids": [
+        "SRC-0025"
+      ],
+      "notes": "Cases x=1, x=−1 and x,y outside {0,±1}, for p≥5; p2/3 independently disposed of for Lem7.2."
+    },
+    {
+      "id": "CLM-0096",
+      "statement": "Original Reiher Obs7.1 exact determinant-weighted factorial identity for three pairwise independent points and nonnegative α+β+γ=2p−2, including exponents at least p.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S014_REIHER_STRATEGIC_EQUATIONS.md",
+      "source_ids": [
+        "SRC-0025"
+      ],
+      "notes": "Independent coefficient/binomial/Wilson calculation, no separate input axioms."
+    },
+    {
+      "id": "CLM-0097",
+      "statement": "For every prime p, every cloudy sequence over Fp² with at most three distinct terms (values) is simple, proving original Reiher Lem7.2 without assuming full Property B.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S014_REIHER_STRATEGIC_EQUATIONS.md",
+      "source_ids": [
+        "SRC-0025"
+      ],
+      "notes": "Complete small-p and α,β,γ≥3 arguments. Does NOT establish arbitrary-support prime Property B."
     }
   ]
 }

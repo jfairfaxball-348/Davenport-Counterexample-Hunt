@@ -87,3 +87,11 @@
 ## S013 — 2026-10-11
 
 S013 CLM-0089–0093 hand-prove rank-two p/2p extraction, D(Cp²)=2p−1, eta<=3p−2/long-zero short block, original Lem10.6 and the full B=>C implication CONDITIONAL on Property B. Complete S012 p7 Lem5.2 preserved. FIRST unconditional prerequisite is Reiher Property B through unrebuilt strategic-equation/geometric chain; stronger coefficient unproved. Phase1 IN_PROGRESS; Phases2/3 NOT_STARTED; CAM-0001 PROPOSED / NOT RUNNING activation BLOCKED by published n6=16. All 30 numeric rows unchanged; no openness inference. Zero hosted CI, NOT PASS. No owner-action blocker identified; source-access limitations remain research obligations. S014 strictly FUTURE UNEXECUTED.
+
+## S014 — 2026-10-11
+
+| S014 | Original Reiher first prerequisite | All three original polynomial cases and Lem7.2 completed, but general four-support proof imports Prop5.1 and later geometry | Claims strictly CLM-0094–0097, Property B remains SOURCE_STATED |
+| S014 | Primary access | Sheikh official PDF fresh web403, original C53 HTML inaccessible, Yiu abstract accessible without new code/output | Preserve prior S013 independent access errors, no global nonexistence inference |
+| S014 | Hosted CI | Zero YAML, hosted runs/checks/statuses, workflow-listing connector URL unsupported | NO hosted CI PASS |
+
+No numerical mathematical search, CAS, SAT/ILP, orbits, author code, candidates, Lean, campaigns, manuscript, contact or publication.

@@ -1,0 +1,14 @@
+{
+  "session": "S014",
+  "future_session": "S015",
+  "bytes": 6692,
+  "sha256": "614ee43a72d1a68b25ac4c36b5304287e147d2fa3b428920bae1f31c53f53475",
+  "git_blob_sha": "3f39fc67637ffa46b08422f5ec9866051083a064",
+  "status": "FUTURE_UNEXECUTED",
+  "authoritative": "authoritative/NEXT_SESSION_PROMPT.md",
+  "closeout_markers": [
+    "S015_PROMPT_START",
+    "S015_PROMPT_END"
+  ],
+  "raw_chat_transport_hash_claimed": false
+}
