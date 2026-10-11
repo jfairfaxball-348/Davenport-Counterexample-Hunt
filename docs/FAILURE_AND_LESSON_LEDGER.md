@@ -76,3 +76,10 @@
 | S011 | Frontier/CI | Both 30-row mirrors identical, 25 published exact/trivial and five unchanged intervals; zero hosted CI files/runs/checks | Non-discovery not present-day openness; local ADMIN checks NOT hosted CI |
 
 **S011 negative scope:** no mathematical numerical/computational search, SAT/ILP, orbit enumeration, author program execution, zero-sumfree candidate, Lean, negative exhaustive certificate, manuscript, campaign, outreach or publication. Inherited 14/17, +5, 43/699/5553 quarantined.
+
+| S012 | Printed p7 doubled alternatives and false sum | Exhaustive signature cases and six-double count prove actual availability; valid length4 sum closes t2, t1/t4 independently closed | New CLM-0084–0087, earlier narrow claims preserved |
+| S012 | GG terminal source fidelity | Actual trichotomy admits all-1 sumt; universal sum1 is stronger | CLM-0088 proves actual condition only; full B=>C remains SOURCE_STATED |
+| S012 | Original dependencies/access | Lem4.3 external inputs/Reiher chain unproved; fresh Sheikh403; C53 and Yiu computational artifacts unavailable | No false complete proof, author execution or non-discovery openness inference |
+| S012 | Hosted checks | Zero runs/checks/status contexts; workflow API inaccessible | Administrative validation not CI PASS |
+
+**S012 negative scope:** no mathematical numerical/computational search, SAT/ILP, orbit enumeration, candidate, author code execution, Lean, campaign, manuscript, contact, outreach or publication. Inherited14/17,+5,43/699/5553 remain quarantined.

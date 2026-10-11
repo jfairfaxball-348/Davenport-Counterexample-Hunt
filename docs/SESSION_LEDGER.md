@@ -41,3 +41,7 @@ S006 closeout: [full record and future UNEXECUTED S007 prompt](../sessions/S006/
 | S011 | 2026-10-11 | ONE source-only p7 six-doubled-line geometry proof (CLM-0083), original GG1999 Property B=>C internal proof and primary-source/frontier/provenance audit | Limited x+y in <z> existence hand proof; next forbidden doubled triple and terminal t1/2/4 unproved; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 BLOCKED | session/S011-p7-six-line-geometry-gg1999-audit |
 
 [S011 full source report and closeout; COMPLETE future UNEXECUTED S012 handoff](../sessions/S011/CLOSEOUT.md).
+
+| S012 | 2026-10-11 | One original-primary-source hand-proof/provenance pass | Complete p7 Lem5.2 CLM-0084–0087, actual GG terminal conditional CLM-0088; Phase1 IN_PROGRESS; no Phase2/3 or campaign | session/S012-p7-lemma-original-dependencies |
+
+S012 closeout: [complete record and FUTURE UNEXECUTED S013 handoff](../sessions/S012/CLOSEOUT.md).

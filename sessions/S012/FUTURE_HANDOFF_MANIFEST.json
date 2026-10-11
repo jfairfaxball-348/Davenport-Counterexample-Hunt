@@ -1,0 +1,12 @@
+{
+  "session": "S012",
+  "next_session": "S013",
+  "state": "FUTURE_UNEXECUTED",
+  "bytes": 7953,
+  "sha256": "6e24c863fe62fefea493f697b2b10bb7ee1919b6feb809e7f5b459dab66be1ce",
+  "paths": [
+    "authoritative/NEXT_SESSION_PROMPT.md",
+    "sessions/S012/CLOSEOUT.md between S013_PROMPT_START/END"
+  ],
+  "no_owner_action_blocker": true
+}

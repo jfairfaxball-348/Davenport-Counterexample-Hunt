@@ -864,6 +864,61 @@
         "SRC-0021"
       ],
       "notes": "COMPLETE hand proof ONLY of doubled-triple existence geometry. Seven lines full, one singleton; at most one mixed line leaves six equal-doubled lines. If pair sums avoid those six lines they lie on two complementary lines, sent to axes. Fix v1=(r,s), five other selected vectors fall in two coordinate-opposition classes, each at most two because three would force impossible pairwise opposite nonzero coordinates in odd characteristic. Subsequent forbidden doubled (1,0),(0,1),(2,2), normalizations, t1/2/4, full Lem5.2 and eta7 remain UNPROVED."
+    },
+    {
+      "id": "CLM-0084",
+      "statement": "Under BSP2012 Lem5.2 actual 15-term no nonempty zero sum of length <=7 and capacity two per cyclic line, after CLM-0076/0081 normalization giving six pure doubled lines, doubled (1,0),(0,1),(2,2) is impossible.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S012_SOURCE_PROOF_VERIFICATION.md section 2",
+      "source_ids": [
+        "SRC-0021"
+      ],
+      "notes": "Exhaustive coordinate-signature list, doubled exclusion witnesses, three opposite-pair alternatives and counting establish actual availability of doubled (6,1),(2,4),(4,6), after valid coordinate swap. The available 2(6,1)+(2,4)+(0,1) is zero, length4. The printed nonzero expression remains erroneous; CLM-0075 retains its conditional scope."
+    },
+    {
+      "id": "CLM-0085",
+      "statement": "Under the same actual p7 15-term/capacity-two/at-least-six-pure-doubled-lines hypotheses, doubled (1,0),(0,1),(1,1) is impossible.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S012_SOURCE_PROOF_VERIFICATION.md section 3",
+      "source_ids": [
+        "SRC-0021"
+      ],
+      "notes": "Hand proof eliminates every further doubled value except those with a coordinate1, justifies two further (1,r),(1,s), proves restricted pair-sum coverage using two available copies, constructs 8-x short sums, and closes first-coordinate1/6 support cases. No all-length-zero-sumfree assumption."
+    },
+    {
+      "id": "CLM-0086",
+      "statement": "Under the same actual p7 15-term/capacity-two/at-least-six-pure-doubled-lines hypotheses, doubled (1,0),(0,1),(4,4) is impossible.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S012_SOURCE_PROOF_VERIFICATION.md section 4",
+      "source_ids": [
+        "SRC-0021"
+      ],
+      "notes": "Hand proof classifies doubled alternatives, proves two additional doubled vectors actually available after swap, forces slope5 singleton, and excludes all antidiagonal terms by length3–5 available zero sums."
+    },
+    {
+      "id": "CLM-0087",
+      "statement": "BSP2012 Lemma5.2: every 15-term sequence in C7² with no NONEMPTY zero-sum subsequence of LENGTH AT MOST SEVEN has some cyclic subgroup containing at least three indexed terms. Complete composed hand proof.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S012_SOURCE_PROOF_VERIFICATION.md sections 1–5",
+      "source_ids": [
+        "SRC-0021"
+      ],
+      "notes": "Uses terminating CLM-0076, complete CLM-0081, six-line counting/CLM-0083, valid GL2 normalization, CLM-0078 and CLM-0084–0086. Does NOT alone prove eta(C7³)<=116, Property B/C, or stronger Lem2.3 coefficient."
+    },
+    {
+      "id": "CLM-0088",
+      "statement": "For odd prime p, 3<=m<=p-1, 2<=t<=p-2 and t(m-1)=1 modp, if every t-subset of p indexed residues has sum1 OR is constantly1 OR constantlym-1, then at least p-1 residues coincide. With established constant x_i+y_i=m, at least p-1 full terms coincide.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S012_SOURCE_PROOF_VERIFICATION.md section 6",
+      "source_ids": [
+        "SRC-0026"
+      ],
+      "notes": "Proves the actual original GG1999 printed p207 terminal trichotomy, allowing all-1 subset sumt rather than1. Three distinct values give three distinct sums but only1/t possible; two values each occurring twice yield incompatible mixed subsets (t>=3) or homogeneous/mixed pairs (t=2). Conditional on obtaining the actual source setup; not a complete B=>C proof."
     }
   ]
 }

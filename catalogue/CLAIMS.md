@@ -670,3 +670,47 @@ Under actual BSP2012 Lemma5.2 p7 15-term no **nonempty zero sum of length at mos
 Category: SOURCE_AUDIT. Origin: research/S011_SOURCE_PROOF_VERIFICATION.md section 1. Sources: SRC-0021.
 
 Full hand proof: eight lines; 15 indexed terms with two capacity give seven double-occupied and one singly occupied, at most one mixed line. Assume no doubled x+y lies on another doubled line. Pair sums of six selected vectors must all lie on the two remaining lines; coordinate-change makes them axes. Fix one selected vector with two nonzero coordinates. Each of five others must have negative first or negative second coordinate. Each opposition class has at most two because three would create pairwise sums with common nonzero coordinate and require three pairwise opposite nonzero values in odd characteristic. Impossible to cover five with classes of size <=2. The geometric existence step alone is proved; no full short-zero-sum classification, Lem5.2, eta7 or stronger coefficient is thereby established.
+
+## CLM-0084 — PROGRAMME_PROVED
+
+Under BSP2012 Lem5.2 actual 15-term no nonempty zero sum of length <=7 and capacity two per cyclic line, after CLM-0076/0081 normalization giving six pure doubled lines, doubled (1,0),(0,1),(2,2) is impossible.
+
+Category: SOURCE_AUDIT. Origin: research/S012_SOURCE_PROOF_VERIFICATION.md section 2. Sources: SRC-0021.
+
+Exhaustive coordinate-signature list, doubled exclusion witnesses, three opposite-pair alternatives and counting establish actual availability of doubled (6,1),(2,4),(4,6), after valid coordinate swap. The available 2(6,1)+(2,4)+(0,1) is zero, length4. The printed nonzero expression remains erroneous; CLM-0075 retains its conditional scope.
+
+## CLM-0085 — PROGRAMME_PROVED
+
+Under the same actual p7 15-term/capacity-two/at-least-six-pure-doubled-lines hypotheses, doubled (1,0),(0,1),(1,1) is impossible.
+
+Category: SOURCE_AUDIT. Origin: research/S012_SOURCE_PROOF_VERIFICATION.md section 3. Sources: SRC-0021.
+
+Hand proof eliminates every further doubled value except those with a coordinate1, justifies two further (1,r),(1,s), proves restricted pair-sum coverage using two available copies, constructs 8-x short sums, and closes first-coordinate1/6 support cases. No all-length-zero-sumfree assumption.
+
+## CLM-0086 — PROGRAMME_PROVED
+
+Under the same actual p7 15-term/capacity-two/at-least-six-pure-doubled-lines hypotheses, doubled (1,0),(0,1),(4,4) is impossible.
+
+Category: SOURCE_AUDIT. Origin: research/S012_SOURCE_PROOF_VERIFICATION.md section 4. Sources: SRC-0021.
+
+Hand proof classifies doubled alternatives, proves two additional doubled vectors actually available after swap, forces slope5 singleton, and excludes all antidiagonal terms by length3–5 available zero sums.
+
+## CLM-0087 — PROGRAMME_PROVED
+
+BSP2012 Lemma5.2: every 15-term sequence in C7² with no NONEMPTY zero-sum subsequence of LENGTH AT MOST SEVEN has some cyclic subgroup containing at least three indexed terms. Complete composed hand proof.
+
+Category: SOURCE_AUDIT. Origin: research/S012_SOURCE_PROOF_VERIFICATION.md sections 1–5. Sources: SRC-0021.
+
+Uses terminating CLM-0076, complete CLM-0081, six-line counting/CLM-0083, valid GL2 normalization, CLM-0078 and CLM-0084–0086. Does NOT alone prove eta(C7³)<=116, Property B/C, or stronger Lem2.3 coefficient.
+
+## CLM-0088 — PROGRAMME_PROVED
+
+For odd prime p, 3<=m<=p-1, 2<=t<=p-2 and t(m-1)=1 modp, if every t-subset of p indexed residues has sum1 OR is constantly1 OR constantlym-1, then at least p-1 residues coincide. With established constant x_i+y_i=m, at least p-1 full terms coincide.
+
+Category: SOURCE_AUDIT. Origin: research/S012_SOURCE_PROOF_VERIFICATION.md section 6. Sources: SRC-0026.
+
+Proves the actual original GG1999 printed p207 terminal trichotomy, allowing all-1 subset sumt rather than1. Three distinct values give three distinct sums but only1/t possible; two values each occurring twice yield incompatible mixed subsets (t>=3) or homogeneous/mixed pairs (t=2). Conditional on obtaining the actual source setup; not a complete B=>C proof.
+
+### S012 composition and scope
+
+S012 complete hand proof CLM-0084–0087 closes BSP2012 Lem5.2, including actual doubled alternatives and t=1,2,4. eta7 and rank-three plane deductions remain CONDITIONAL on original rank-two eta/Property C; stronger coefficient unproved. CLM-0088 proves only the actual GG1999 terminal trichotomy implication; full B=>C/Reiher inputs remain unproved. Phase1 IN_PROGRESS; Phases2/3 NOT_STARTED; CAM-0001 PROPOSED / NOT RUNNING, activation BLOCKED by published n6=16. All 30 numerical rows unchanged; no openness inference. Hosted CI absent, NOT PASS. Earlier CLM-0075–0079,0081,0083 are unchanged historical narrow claims; their prior unresolved statements describe their original session, now composed separately by CLM-0087. CLM-0082 stays SOURCE_STATED.

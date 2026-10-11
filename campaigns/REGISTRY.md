@@ -53,3 +53,7 @@ CAM-0001 still **PROPOSED / NOT RUNNING** with activation BLOCKED by source-stat
 ### S011 disposition — 2026-10-11
 
 CAM-0001 **PROPOSED / NOT RUNNING**, activation **BLOCKED** by published Schmid2011 `D(C6³)=16`; its length-16 zero-sumfree target is obsolete on the source record. CLM-0083 is only p7 paper projective geometry and cannot reactivate it. NO Phase2/3, replacement campaign/tool target, mathematical numerical search, solver, orbit enumeration, candidate or certificate. Phase1 IN_PROGRESS.
+
+### S012 disposition — 2026-10-11
+
+CAM-0001 **PROPOSED / NOT RUNNING**, activation **BLOCKED** by published D(C6³)=16. Complete p7 rank-two Lem5.2 changes no campaign premise. No replacement campaign, target, candidate, certificate or source-code run. Phase1 IN_PROGRESS; Phases2/3 NOT_STARTED.

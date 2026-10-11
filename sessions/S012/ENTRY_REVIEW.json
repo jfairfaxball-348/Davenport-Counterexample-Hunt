@@ -1,0 +1,31 @@
+{
+  "session": "S012",
+  "entry_main": "eb47980a78c1298e557202b4b63fe45459bdb87b",
+  "entry_tree": "c04c2ce22a92e15c6979eba98016ce25a2176c94",
+  "prior_s011_pr": 11,
+  "prior_s011_head": "d7c91251712559df8ae70ac10b5d2b2902b2c21d",
+  "prior_s011_head_parent": "9ca537dbd50e8cd9b944fdd9be976d307c7ad4d6",
+  "prior_s011_head_tree": "c04c2ce22a92e15c6979eba98016ce25a2176c94",
+  "prior_s011_merge": "eb47980a78c1298e557202b4b63fe45459bdb87b",
+  "prior_merge_parents": [
+    "9ca537dbd50e8cd9b944fdd9be976d307c7ad4d6",
+    "d7c91251712559df8ae70ac10b5d2b2902b2c21d"
+  ],
+  "prior_merge_tree": "c04c2ce22a92e15c6979eba98016ce25a2176c94",
+  "prior_pr_commit_count": 1,
+  "git_ls_remote_independently_agrees": true,
+  "all_prs_1_through_11_merged": true,
+  "open_prs": 0,
+  "competing_s012_branches": false,
+  "branch_main_summary_protected": false,
+  "branch_standalone_protection": "HTTP403_INTEGRATION_NO_ACCESS",
+  "rulesets": [],
+  "workflow_yaml": 0,
+  "workflow_api_inventory": "INVALID_ARGUMENT from connector; actual git tree has no workflow files",
+  "hosted_action_runs": 0,
+  "hosted_action_jobs": 0,
+  "check_runs": 0,
+  "status_contexts": 0,
+  "combined_status": "pending with empty statuses, NOT PASS",
+  "ci_pass_claimed": false
+}
