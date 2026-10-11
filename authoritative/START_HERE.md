@@ -8,6 +8,8 @@
 
 S001 bootstrap: repository initialized from empty main via .gitignore initial commit `412f0088aeffb823f1533f5d0809806a6b58afde`. S001 session commit built as one new tree and one commit on `session/S001-bootstrap-frontier`.
 
-Definitional note: p-group values are SOURCE_STATED, not newly proved. Only the lower bound is independently proved in research/FOUNDATIONS.md in S001. Provisional 'SANDWICHED' values outside p-powers have NOT passed the programme's certification gate.
+Current session record: S004. Read research/S004_PRIMARY_PROOF_INPUTS.md for the source pages, ten-axiom audit and exact gate obligations. Historical S001–S003 knowledge states do not override the current frontier. Published Schmid2011 gives D(C6³)=16; original 1969 exact families settle n=10,12,14,18,22,24,26 as well. CAM-0001 remains PROPOSED / NOT RUNNING, activation blocked; no Phase-2 target is selected.
+
+Evidence note: p-group and historical exact-family values are SOURCE_STATED, not newly proved. FOUNDATIONS and S002/S004 record explicit programme proofs and conditional deductions separately. Phase 1 remains IN_PROGRESS; five interval entries do not assert present-day openness. All source-inspection scope limits are binding.
 
 Read authoritative/NEXT_SESSION_PROMPT.md only on a fresh owner invocation; do not execute it as part of current session.

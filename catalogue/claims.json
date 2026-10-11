@@ -286,7 +286,7 @@
       "status": "INHERITED_UNVERIFIED",
       "origin": "owner supplied S001 seed, 2026-10-10",
       "proof_or_evidence": null,
-      "notes": "S002 correction: this inherited statement is refuted or not supported in its asserted form by SRC-0008 Proposition 1; see CLM-0050/0051 and corrected S002 frontier. Retained INHERITED_UNVERIFIED for provenance; do not use as an input."
+      "notes": "S002 correction: this inherited statement is refuted or not supported in its asserted form by SRC-0008 Proposition 1; see CLM-0050/0051 and corrected S002 frontier. Retained INHERITED_UNVERIFIED for provenance; do not use as an input. S004: n=6 and n=10 exact values are historical source theorems (CLM-0064/0065); inherited counterexample-target premise is obsolete. No count or candidate verified."
     },
     {
       "id": "CLM-0032",
@@ -295,7 +295,7 @@
       "status": "INHERITED_UNVERIFIED",
       "origin": "owner supplied S001 seed, 2026-10-10",
       "proof_or_evidence": null,
-      "notes": "Not certified by this repo. Verify independently before use."
+      "notes": "Not certified by this repo. Verify independently before use. S004: n=6 and n=10 exact values are historical source theorems (CLM-0064/0065); inherited counterexample-target premise is obsolete. No count or candidate verified."
     },
     {
       "id": "CLM-0033",
@@ -304,7 +304,7 @@
       "status": "INHERITED_UNVERIFIED",
       "origin": "owner supplied S001 seed, 2026-10-10",
       "proof_or_evidence": null,
-      "notes": "Not certified by this repo. Verify independently before use."
+      "notes": "Not certified by this repo. Verify independently before use. S004: n=6 and n=10 exact values are historical source theorems (CLM-0064/0065); inherited counterexample-target premise is obsolete. No count or candidate verified."
     },
     {
       "id": "CLM-0034",
@@ -313,7 +313,7 @@
       "status": "INHERITED_UNVERIFIED",
       "origin": "owner supplied S001 seed, 2026-10-10",
       "proof_or_evidence": null,
-      "notes": "Not certified by this repo. Verify independently before use."
+      "notes": "Not certified by this repo. Verify independently before use. S004: n=6 and n=10 exact values are historical source theorems (CLM-0064/0065); inherited counterexample-target premise is obsolete. No count or candidate verified."
     },
     {
       "id": "CLM-0035",
@@ -322,7 +322,7 @@
       "status": "INHERITED_UNVERIFIED",
       "origin": "owner supplied S001 seed, 2026-10-10",
       "proof_or_evidence": null,
-      "notes": "Conditional false antecedent: SRC-0015 abstract states D4(C5^3)=30, not 28; do not treat as a feasible shortcut."
+      "notes": "Inherited conditional shortcut retained only as provenance. Yiu claims D4(C5³)=30, proof has computational inputs not certified here. Independently, historical SRC-0023 Cor4.3 already gives ordinary D(C10³)=28; no such shortcut is needed."
     },
     {
       "id": "CLM-0036",
@@ -331,7 +331,7 @@
       "status": "INHERITED_UNVERIFIED",
       "origin": "owner supplied S001 seed, 2026-10-10",
       "proof_or_evidence": null,
-      "notes": "Not certified by this repo. Verify independently before use."
+      "notes": "Not certified by this repo. Verify independently before use. S004: n=6 and n=10 exact values are historical source theorems (CLM-0064/0065); inherited counterexample-target premise is obsolete. No count or candidate verified."
     },
     {
       "id": "CLM-0037",
@@ -340,7 +340,7 @@
       "status": "INHERITED_UNVERIFIED",
       "origin": "owner supplied S001 seed, 2026-10-10",
       "proof_or_evidence": null,
-      "notes": "Not certified by this repo. Verify independently before use."
+      "notes": "Not certified by this repo. Verify independently before use. S004: n=6 and n=10 exact values are historical source theorems (CLM-0064/0065); inherited counterexample-target premise is obsolete. No count or candidate verified."
     },
     {
       "id": "CLM-0038",
@@ -387,14 +387,14 @@
     },
     {
       "id": "CLM-0042",
-      "statement": "Yiu 2026 preprint abstract reports D4(C5^3)=30",
+      "statement": "Yiu 2026 v1 written preprint claims D4(C5³)=30 and Dk(C5³)=5k+10 for k≥2.",
       "category": "LITERATURE",
       "status": "SOURCE_STATED",
-      "origin": "SRC-0015 abstract; no independent computation or proof checked",
+      "origin": "SRC-0015 written PDF Theorem1.1",
       "source_ids": [
         "SRC-0015"
       ],
-      "notes": "Source statement only; does not imply this programme has proved it."
+      "notes": "All 13 written pages inspected S004; computational inputs and purported ancillary records not independently verified. Retrieved source bundles contain no code/logs. SOURCE_STATED only; no execution."
     },
     {
       "id": "CLM-0043",
@@ -417,7 +417,7 @@
       "source_ids": [
         "SRC-0018"
       ],
-      "notes": "Source statement only; does not imply this programme has proved it."
+      "notes": "Source statement only; does not imply this programme has proved it. Historical secondary observation retained; actual primary written proof was obtained in S004, see CLM-0056 and CLM-0071."
     },
     {
       "id": "CLM-0045",
@@ -448,9 +448,10 @@
       "status": "PROGRAMME_PROVED",
       "origin": "research/S002_INDUCTIVE_PROOFS.md",
       "source_ids": [
-        "SRC-0006"
+        "SRC-0006",
+        "SRC-0010"
       ],
-      "notes": "Independent complete derivation; D_k defined as pairwise-disjoint nonempty zero sums."
+      "notes": "Independent complete k=1 derivation, matched to original Freeze–Schmid Thm3.6 in S004; Dk means pairwise-disjoint nonempty zero sums."
     },
     {
       "id": "CLM-0048",
@@ -459,9 +460,10 @@
       "status": "PROGRAMME_PROVED",
       "origin": "research/S002_INDUCTIVE_PROOFS.md",
       "source_ids": [
+        "SRC-0010",
         "SRC-0016"
       ],
-      "notes": "No inherited algorithmic counts or SAT."
+      "notes": "Standalone S002 proof; exact range matched to Freeze–Schmid Remark5.3(3) in S004. No inherited algorithmic counts or SAT."
     },
     {
       "id": "CLM-0049",
@@ -504,7 +506,7 @@
       "source_ids": [
         "SRC-0003"
       ],
-      "notes": "Bound is mathematical deduction from primary source-stated Olson theorem; does not decide 16 vs 17."
+      "notes": "Valid but nonsharp S002 inequality. S004 authenticates historical D(C6³)=16, CLM-0064/0065/0066; this interval is no longer a target recommendation."
     },
     {
       "id": "CLM-0053",
@@ -525,7 +527,7 @@
       "status": "PROGRAMME_PROVED",
       "origin": "research/S002_INDUCTIVE_PROOFS.md",
       "source_ids": [],
-      "notes": "Four disjoint quotient zeros produce four sums in kernel C2^3; D(C2^3)=4 contradicts zero-sumfreeness."
+      "notes": "Four disjoint quotient zeros produce four sums in kernel C2^3; D(C2^3)=4 contradicts zero-sumfreeness. S004: logical statement retained, but a length16 zero-sumfree C6³ sequence is excluded by the source-stated exact theorem. No campaign authorized."
     },
     {
       "id": "CLM-0055",
@@ -534,30 +536,33 @@
       "status": "PROGRAMME_PROVED",
       "origin": "research/S002_INDUCTIVE_PROOFS.md",
       "source_ids": [],
-      "notes": "A logical characterization, not certification of any orbit enumeration or search."
+      "notes": "A logical characterization, not certification of any orbit enumeration or search. S004: logical statement retained, but a length16 zero-sumfree C6³ sequence is excluded by the source-stated exact theorem. No campaign authorized."
     },
     {
       "id": "CLM-0056",
-      "statement": "Grinsztajn author repository claims D(Cn^3)<=4n-P(n)-2 with written proof and conditional Lean file using explicit unproved external axioms.",
+      "statement": "Grinsztajn written 2026 PDF states D(Cn³)≤4n−P(n)−2 for n≥2; deduction relies on stated external zero-sum inputs.",
       "category": "LITERATURE",
       "status": "SOURCE_STATED",
-      "origin": "SRC-0016 original README + Main.lean",
+      "origin": "SRC-0016 written PDF pp.1–4",
       "source_ids": [
         "SRC-0016"
       ],
-      "notes": "Full PDF proof not inspected and Lean not built; not FORMALLY_CERTIFIED/PROGRAMME_PROVED by this repo."
+      "notes": "S004 inspected actual proof, every axiom statement, hypotheses and rounding. Published BSP Lem2.3 coefficient proof gap and eta proof dependencies remain. Conditional sufficient replacement in CLM-0068. No formalisation executed or unconditional programme theorem claimed."
     },
     {
       "id": "CLM-0057",
-      "statement": "Every n=1..30 has a newly audited lower/upper interval derived from source-stated p-group values and source-stated multiwise results plus S002 deductions.",
+      "statement": "S004 audits all n=1..30: 25 source-exact/trivial rows and five conditional intervals at n=15,20,21,28,30.",
       "category": "REDUCTION",
       "status": "PROGRAMME_PROVED",
-      "origin": "frontier/FRONTIER.md and research/S002_INDUCTIVE_PROOFS.md",
+      "origin": "research/S004_PRIMARY_PROOF_INPUTS.md section7; frontier/FRONTIER.md",
       "source_ids": [
         "SRC-0003",
-        "SRC-0008"
+        "SRC-0008",
+        "SRC-0002",
+        "SRC-0022",
+        "SRC-0023"
       ],
-      "notes": "Intervals are deductions conditional on established-source theorems, not exact determinations for composite n."
+      "notes": "Arithmetic and applications checked; source-stated exact values are not programme-certified proofs. Remaining intervals 43..45,58..59,61..63,82..83,88..90. No inference of openness or selected Phase2 target."
     },
     {
       "id": "CLM-0058",
@@ -608,14 +613,15 @@
     {
       "id": "CLM-0062",
       "category": "LITERATURE",
-      "statement": "BSP large-exponent original author PDF says eta(C5^3)=33 and at least three disjoint zero sums at length 33; all Grinsztajn large-prime axioms require further definitive-source verification.",
+      "statement": "Published BSP2012 gives eta(C5³)=33 and D3(C5³)≤33; its p≥7 eta and k-wise statements match Grinsztajn inputs.",
       "status": "SOURCE_STATED",
-      "origin": "SRC-0009 primary author PDF sections 3–4",
+      "origin": "SRC-0021 published pp.22–23,28–30",
       "source_ids": [
-        "SRC-0009",
-        "SRC-0016"
+        "SRC-0021",
+        "SRC-0016",
+        "SRC-0024"
       ],
-      "notes": "Primary author PDF contains visible editorial draft annotations."
+      "notes": "Definitive version located S004; draft annotation uncertainty resolved. Statement matching does not close Lem2.3 coefficient gap, p7 cases or GHST computational input. See CLM-0067/0068/0069/0072."
     },
     {
       "id": "CLM-0063",
@@ -626,7 +632,114 @@
       "source_ids": [
         "SRC-0020"
       ],
-      "notes": "Complete thesis PDF HTTP 403; caution does not disprove distinct BSP multiwise lemma."
+      "notes": "Full Chapter4 still HTTP403. Indexed Remark4.3.11 p.41 concerns exactly-three-free claim at BSPp19; example contains a zero-sum pair. This particular remark does not refute the earlier multiwise Prop1/8 at-most-three-free argument; see CLM-0070."
+    },
+    {
+      "id": "CLM-0064",
+      "statement": "Schmid2011 Theorem4.1(2) states D(C6²⊕C6t)=D* for every t≥1; at t=1, D(C6³)=16.",
+      "category": "LITERATURE",
+      "status": "SOURCE_STATED",
+      "origin": "research/S004_PRIMARY_PROOF_INPUTS.md section1",
+      "source_ids": [
+        "SRC-0022"
+      ],
+      "notes": "Published p27 statement and pp27–29 proof chain inspected; structural subsum cases omitted in source, not independently reconstructed. n6 target premise withdrawn."
+    },
+    {
+      "id": "CLM-0065",
+      "statement": "Original 1969 report II Corollary4.3 gives D(C(2p^a)³)=6p^a−2 for prime p and a≥1.",
+      "category": "LITERATURE",
+      "status": "SOURCE_STATED",
+      "origin": "research/S004_PRIMARY_PROOF_INPUTS.md section1",
+      "source_ids": [
+        "SRC-0023"
+      ],
+      "notes": "Selected original proof read; p-group ν hypothesis checked at source-statement level. Exact rows n6,10,14,18,22,26."
+    },
+    {
+      "id": "CLM-0066",
+      "statement": "Original 1969 report III Corollary1.5 family VIII gives D(C(3·2^a)³)=9·2^a−2 for a≥1.",
+      "category": "LITERATURE",
+      "status": "SOURCE_STATED",
+      "origin": "research/S004_PRIMARY_PROOF_INPUTS.md section1",
+      "source_ids": [
+        "SRC-0002"
+      ],
+      "notes": "Selected proof chain read; prior computational structural lemma/sketches not independently certified. Covers n6,12,24."
+    },
+    {
+      "id": "CLM-0067",
+      "statement": "Assuming eta(C5³)≤33 and the p-group theorem, D3(C5³)≤33 by blocks of length≤5,≤10, then a remaining zero sum.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S004_PRIMARY_PROOF_INPUTS.md section2",
+      "source_ids": [
+        "SRC-0021",
+        "SRC-0024",
+        "SRC-0003"
+      ],
+      "notes": "Complete conditional deduction supplies s≤2p(Cp³)≤4p−3 via Cp⁴ and splitting; not an exact D3 evaluation."
+    },
+    {
+      "id": "CLM-0068",
+      "statement": "For prime p≥7, assuming eta(Cp³)≤3p²−4p−3 and classical p-group/Chevalley–Warning inputs, Dk(Cp³)≤pk+p²−3 for k≥3p−2.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S004_PRIMARY_PROOF_INPUTS.md section4",
+      "source_ids": [
+        "SRC-0021",
+        "SRC-0003"
+      ],
+      "notes": "Complete conditional paper proof uses R=(3p−1)/2, Dj≤5p−2+(j−2)R for j≥2, and j=2p−4. Does not prove exact stronger published Lem2.3 axiom or p7 eta case."
+    },
+    {
+      "id": "CLM-0069",
+      "statement": "Published BSP Lem2.1 states short length (3p−1)/2 but its split proof writes 3(p−1)/2; Lem2.3 uses the smaller coefficient and omits rank3 proof.",
+      "category": "SOURCE_AUDIT",
+      "status": "SOURCE_STATED",
+      "origin": "research/S004_PRIMARY_PROOF_INPUTS.md section3",
+      "source_ids": [
+        "SRC-0021"
+      ],
+      "notes": "Exact Grinsztajn k-wise axiom matches statement, but split only guarantees larger bound. This identifies an unclosed deduction, not a disproof of the theorem. Draft note is absent from published version."
+    },
+    {
+      "id": "CLM-0070",
+      "statement": "The example in indexed Sheikh Remark4.3.11 contains (1,0,0)+(2,0,0)=0, so does not satisfy the no-at-most-three-zero-sum premise used in BSP Prop8.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S004_PRIMARY_PROOF_INPUTS.md section5",
+      "source_ids": [
+        "SRC-0020",
+        "SRC-0008"
+      ],
+      "notes": "Direct hypothesis check of published example only. Full thesis Chapter4 remains inaccessible; does not establish complete validity of BSP auxiliary classifications."
+    },
+    {
+      "id": "CLM-0071",
+      "statement": "The written Grinsztajn subgroup, extraction, floor and global induction deductions yield D(Cn³)≤4n−P(n)−2 conditional on their recorded local inputs.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S004_PRIMARY_PROOF_INPUTS.md sections2–4",
+      "source_ids": [
+        "SRC-0016",
+        "SRC-0010",
+        "SRC-0008",
+        "SRC-0021",
+        "SRC-0024"
+      ],
+      "notes": "All n≥2 hypotheses and integer rounding checked on paper. Alternative large-prime local route CLM-0068 available conditionally. Not an unconditional programme proof or formal certificate."
+    },
+    {
+      "id": "CLM-0072",
+      "statement": "GHST2007 Theorem1.7 gives eta(Cn³)=8n−7 for n=3^a5^b, hence eta(C3³)=17 and eta(C5³)=33.",
+      "category": "LITERATURE",
+      "status": "SOURCE_STATED",
+      "origin": "research/S004_PRIMARY_PROOF_INPUTS.md section3",
+      "source_ids": [
+        "SRC-0024"
+      ],
+      "notes": "Definitive journal paper statement p4 and deduction p17 inspected. p5 base uses published computational Prop5.6 pp16–17, not re-executed or independently certified here."
     }
   ]
 }

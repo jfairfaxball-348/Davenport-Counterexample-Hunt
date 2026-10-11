@@ -1,47 +1,75 @@
-# S003 — Frontier re-audit of C_n^3, n=1..30 (2026-10-11)
+# Frontier after S004
 
-The lower bound \(D^*=3n-2\) is independently proved in research/FOUNDATIONS.md. **SETTLED** below means exact by *primary SOURCE_STATED* Olson p-group theorem, not programme formalisation. **SANDWICHED** means an independently written deduction of a lower/upper *interval*, conditional on primary SOURCE_STATED multiwise input where used, not an exact value. No composite case is certified or claimed settled; no 'UNKNOWN' label implies an external mathematical open problem.
+S004 paper audit: source-exact historical families supersede older nonsharp intervals; no source theorem becomes a programme certificate. Five remaining interval entries do not assert openness. Phase1 IN_PROGRESS; no Phase2 target selected.
 
-**S002 correction:** the 2007 Bhowmik–Schlage-Puchta Proposition 1 reads \(D_k(C_3^3)=3k+6\) for \(k\ge3\), giving \(D_3=15,D_4=18\), not the inherited 14/17. The old tripling \(+5\) upper estimate cannot be derived; valid sourced tripling estimate is \(+6\). The source-reported Grinsztajn universal \(4n-P(n)-2\) bound is a supplemental theorem claim with conditional Lean axioms, not used to sharpen the table.
+**D(C6³)=16 is already a source-stated exact theorem.** CAM-0001 remains PROPOSED / NOT RUNNING with its premise obsolete. No Phase-2 target is selected. n=15 is the first interval requiring further literature review, not a declaration of openness.
 
-| n | D* | Classification | Audited D interval | Upper-bound reason |
-|---:|---:|---|---|---|
-| 1 | 1 | SETTLED | 1 | trivial |
-| 2 | 4 | SETTLED | 4 | Olson p-group, SRC-0003 |
-| 3 | 7 | SETTLED | 7 | Olson p-group, SRC-0003 |
-| 4 | 10 | SETTLED | 10 | Olson p-group, SRC-0003 |
-| 5 | 13 | SETTLED | 13 | Olson p-group, SRC-0003 |
-| 6 | 16 | SANDWICHED | 16..17 | 2D(C3^3)+3 = 17; source-stated Olson 7 and programme-proved C2 multiwise |
-| 7 | 19 | SETTLED | 19 | Olson p-group, SRC-0003 |
-| 8 | 22 | SETTLED | 22 | Olson p-group, SRC-0003 |
-| 9 | 25 | SETTLED | 25 | Olson p-group, SRC-0003 |
-| 10 | 28 | SANDWICHED | 28..29 | 2D(C5^3)+3 = 29 |
-| 11 | 31 | SETTLED | 31 | Olson p-group, SRC-0003 |
-| 12 | 34 | SANDWICHED | 34..36 | 3D(C4^3)+6 = 36; NOT 35 |
-| 13 | 37 | SETTLED | 37 | Olson p-group, SRC-0003 |
-| 14 | 40 | SANDWICHED | 40..41 | 2D(C7^3)+3 = 41 |
-| 15 | 43 | SANDWICHED | 43..45 | 3D(C5^3)+6 = 45; NOT 44 |
-| 16 | 46 | SETTLED | 46 | Olson p-group, SRC-0003 |
-| 17 | 49 | SETTLED | 49 | Olson p-group, SRC-0003 |
-| 18 | 52 | SANDWICHED | 52..53 | 2D(C9^3)+3 = 53 |
-| 19 | 55 | SETTLED | 55 | Olson p-group, SRC-0003 |
-| 20 | 58 | SANDWICHED | 58..61 | 2D(C10^3)+3 <= 61 |
-| 21 | 61 | SANDWICHED | 61..63 | 3D(C7^3)+6 = 63; NOT 62 |
-| 22 | 64 | SANDWICHED | 64..65 | 2D(C11^3)+3 = 65 |
-| 23 | 67 | SETTLED | 67 | Olson p-group, SRC-0003 |
-| 24 | 70 | SANDWICHED | 70..72 | 3D(C8^3)+6 = 72; NOT 71 |
-| 25 | 73 | SETTLED | 73 | Olson p-group, SRC-0003 |
-| 26 | 76 | SANDWICHED | 76..77 | 2D(C13^3)+3 = 77 |
-| 27 | 79 | SETTLED | 79 | Olson p-group, SRC-0003 |
-| 28 | 82 | SANDWICHED | 82..85 | 2D(C14^3)+3 <= 85 |
-| 29 | 85 | SETTLED | 85 | Olson p-group, SRC-0003 |
-| 30 | 88 | SANDWICHED | 88..93 | min(2D(C15^3)+3,3D(C10^3)+6) <= 93 |
+All lower bounds are 3n−2; n=1 is the trivial group. `SETTLED` denotes a source-stated exact value or the trivial proof, not programme certification of the original proof. The five other rows are programme deductions conditional on the listed source theorems.
 
-## Phase-2 entry target: n=6 (PROPOSED only)
+| n | Group | D* | Bound | Status | Evidence |
+|---|---|---|---|---|---|
+| 1 | C_1^3 | 1 | 1 | SETTLED | TRIVIAL_GROUP |
+| 2 | C_2^3 | 4 | 4 | SETTLED | SRC-0001, SRC-0003, CLM-0039 |
+| 3 | C_3^3 | 7 | 7 | SETTLED | SRC-0001, SRC-0003, CLM-0039 |
+| 4 | C_4^3 | 10 | 10 | SETTLED | SRC-0001, SRC-0003, CLM-0039 |
+| 5 | C_5^3 | 13 | 13 | SETTLED | SRC-0001, SRC-0003, CLM-0039 |
+| 6 | C_6^3 | 16 | 16 | SETTLED | CLM-0065, SRC-0023, CLM-0064, SRC-0022, CLM-0066, SRC-0002 |
+| 7 | C_7^3 | 19 | 19 | SETTLED | SRC-0001, SRC-0003, CLM-0039 |
+| 8 | C_8^3 | 22 | 22 | SETTLED | SRC-0001, SRC-0003, CLM-0039 |
+| 9 | C_9^3 | 25 | 25 | SETTLED | SRC-0001, SRC-0003, CLM-0039 |
+| 10 | C_10^3 | 28 | 28 | SETTLED | CLM-0065, SRC-0023 |
+| 11 | C_11^3 | 31 | 31 | SETTLED | SRC-0001, SRC-0003, CLM-0039 |
+| 12 | C_12^3 | 34 | 34 | SETTLED | CLM-0066, SRC-0002 |
+| 13 | C_13^3 | 37 | 37 | SETTLED | SRC-0001, SRC-0003, CLM-0039 |
+| 14 | C_14^3 | 40 | 40 | SETTLED | CLM-0065, SRC-0023 |
+| 15 | C_15^3 | 43 | 43..45 | SANDWICHED | CLM-0038, CLM-0051, CLM-0039, SRC-0008 |
+| 16 | C_16^3 | 46 | 46 | SETTLED | SRC-0001, SRC-0003, CLM-0039 |
+| 17 | C_17^3 | 49 | 49 | SETTLED | SRC-0001, SRC-0003, CLM-0039 |
+| 18 | C_18^3 | 52 | 52 | SETTLED | CLM-0065, SRC-0023 |
+| 19 | C_19^3 | 55 | 55 | SETTLED | SRC-0001, SRC-0003, CLM-0039 |
+| 20 | C_20^3 | 58 | 58..59 | SANDWICHED | CLM-0038, CLM-0049, CLM-0065, SRC-0023 |
+| 21 | C_21^3 | 61 | 61..63 | SANDWICHED | CLM-0038, CLM-0051, CLM-0039, SRC-0008 |
+| 22 | C_22^3 | 64 | 64 | SETTLED | CLM-0065, SRC-0023 |
+| 23 | C_23^3 | 67 | 67 | SETTLED | SRC-0001, SRC-0003, CLM-0039 |
+| 24 | C_24^3 | 70 | 70 | SETTLED | CLM-0066, SRC-0002 |
+| 25 | C_25^3 | 73 | 73 | SETTLED | SRC-0001, SRC-0003, CLM-0039 |
+| 26 | C_26^3 | 76 | 76 | SETTLED | CLM-0065, SRC-0023 |
+| 27 | C_27^3 | 79 | 79 | SETTLED | SRC-0001, SRC-0003, CLM-0039 |
+| 28 | C_28^3 | 82 | 82..83 | SANDWICHED | CLM-0038, CLM-0049, CLM-0065, SRC-0023 |
+| 29 | C_29^3 | 85 | 85 | SETTLED | SRC-0001, SRC-0003, CLM-0039 |
+| 30 | C_30^3 | 88 | 88..90 | SANDWICHED | CLM-0038, CLM-0051, CLM-0065, SRC-0008, SRC-0023 |
 
-At n=6, 16≤D(C6^3)≤17, independently deduced in [S002_INDUCTIVE_PROOFS](../research/S002_INDUCTIVE_PROOFS.md). The existence or absence of a 16-term zero-sumfree sequence is not established. An n=6 skeleton must admit at most three disjoint mod-3 zero sums, but the inherited 5553 orbit count is unverified and the previously assumed multiwise thresholds were wrong. Any enumeration/orbit reduction requires independent proof **after Phase-1 PASS and Phase-2 authorization**. No campaigns or searches executed here.
+## Derivations and evidence limits
 
-For n=10, Yiu's 2026 abstract reports D4(C5^3)=30, ruling out the inherited antecedent D4=28. Our upper 29 comes instead from the proved binary multiwise deduction and Olson D(C5^3)=13. The new primary Grinsztajn statement is not a pointwise resolution.
+- n=1: Trivial group D=1, proved from definition; exceptional rank zero. Evidence class: PROGRAMME_PROVED_TRIVIAL.
+- n=2: Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here. Evidence class: SOURCE_STATED_P_GROUP_THEOREM.
+- n=3: Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here. Evidence class: SOURCE_STATED_P_GROUP_THEOREM.
+- n=4: Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here. Evidence class: SOURCE_STATED_P_GROUP_THEOREM.
+- n=5: Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here. Evidence class: SOURCE_STATED_P_GROUP_THEOREM.
+- n=6: D(C6³)=16 also directly by published Schmid2011 Thm4.1(2), t=1. Historical exact value; old 16..17 nonsharp. CAM-0001 premise obsolete, no tooling target. Evidence class: SOURCE_STATED_HISTORICAL_THEOREM.
+- n=7: Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here. Evidence class: SOURCE_STATED_P_GROUP_THEOREM.
+- n=8: Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here. Evidence class: SOURCE_STATED_P_GROUP_THEOREM.
+- n=9: Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here. Evidence class: SOURCE_STATED_P_GROUP_THEOREM.
+- n=10: Exact by original report II Cor4.3 at n=2p^a. SOURCE_STATED, not a programme-certified full proof. Evidence class: SOURCE_STATED_HISTORICAL_THEOREM.
+- n=11: Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here. Evidence class: SOURCE_STATED_P_GROUP_THEOREM.
+- n=12: Exact by original report III Cor1.5 family VIII at n=3·2^a. SOURCE_STATED, not a programme-certified full proof. Evidence class: SOURCE_STATED_HISTORICAL_THEOREM.
+- n=13: Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here. Evidence class: SOURCE_STATED_P_GROUP_THEOREM.
+- n=14: Exact by original report II Cor4.3 at n=2p^a. SOURCE_STATED, not a programme-certified full proof. Evidence class: SOURCE_STATED_HISTORICAL_THEOREM.
+- n=15: 3·13+6=45; S002 tripling and source D(C5³)=13. No exact value authenticated for this row in this bounded audit; no claim of openness. Evidence class: PROGRAMME_DERIVED_INTERVAL_FROM_SOURCE_THEOREMS.
+- n=16: Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here. Evidence class: SOURCE_STATED_P_GROUP_THEOREM.
+- n=17: Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here. Evidence class: SOURCE_STATED_P_GROUP_THEOREM.
+- n=18: Exact by original report II Cor4.3 at n=2p^a. SOURCE_STATED, not a programme-certified full proof. Evidence class: SOURCE_STATED_HISTORICAL_THEOREM.
+- n=19: Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here. Evidence class: SOURCE_STATED_P_GROUP_THEOREM.
+- n=20: 2·28+3=59; S002 doubling and historical D(C10³)=28. No exact value authenticated for this row in this bounded audit; no claim of openness. Evidence class: PROGRAMME_DERIVED_INTERVAL_FROM_SOURCE_THEOREMS.
+- n=21: 3·19+6=63; S002 tripling and source D(C7³)=19. No exact value authenticated for this row in this bounded audit; no claim of openness. Evidence class: PROGRAMME_DERIVED_INTERVAL_FROM_SOURCE_THEOREMS.
+- n=22: Exact by original report II Cor4.3 at n=2p^a. SOURCE_STATED, not a programme-certified full proof. Evidence class: SOURCE_STATED_HISTORICAL_THEOREM.
+- n=23: Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here. Evidence class: SOURCE_STATED_P_GROUP_THEOREM.
+- n=24: Exact by original report III Cor1.5 family VIII at n=3·2^a. SOURCE_STATED, not a programme-certified full proof. Evidence class: SOURCE_STATED_HISTORICAL_THEOREM.
+- n=25: Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here. Evidence class: SOURCE_STATED_P_GROUP_THEOREM.
+- n=26: Exact by original report II Cor4.3 at n=2p^a. SOURCE_STATED, not a programme-certified full proof. Evidence class: SOURCE_STATED_HISTORICAL_THEOREM.
+- n=27: Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here. Evidence class: SOURCE_STATED_P_GROUP_THEOREM.
+- n=28: 2·40+3=83; S002 doubling and historical D(C14³)=40. No exact value authenticated for this row in this bounded audit; no claim of openness. Evidence class: PROGRAMME_DERIVED_INTERVAL_FROM_SOURCE_THEOREMS.
+- n=29: Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here. Evidence class: SOURCE_STATED_P_GROUP_THEOREM.
+- n=30: 3·28+6=90; S002 tripling and historical D(C10³)=28. No exact value authenticated for this row in this bounded audit; no claim of openness. Evidence class: PROGRAMME_DERIVED_INTERVAL_FROM_SOURCE_THEOREMS.
 
-### S003 gate annotation
-Every n=1..30 interval remains the S002 source-conditional deduction. The binary multiwise recurrence is standalone PROGRAMME_PROVED; ternary recurrence depends on published BSP theorem whose proof is not fully independently reconstructed. Original Grinsztajn PDF body inaccessible; universal author bound NOT used to sharpen these rows. n=6 still 16..17; CAM-0001 only PROPOSED. Details in research/S003_SOURCE_PROOF_AUDIT.md.
+Complete source pages, formula hypotheses, all 30 applications, and proof gaps: [S004 audit](../research/S004_PRIMARY_PROOF_INPUTS.md). Neither Yiu’s computational theorem nor Grinsztajn’s universal bound is needed for these endpoints. Old sessions record their historical knowledge state; this file supersedes their frontier recommendations.

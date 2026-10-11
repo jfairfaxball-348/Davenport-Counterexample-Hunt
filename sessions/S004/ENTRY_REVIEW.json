@@ -1,0 +1,101 @@
+{
+  "session": "S004",
+  "observed_at_utc": "2026-10-11T13:01:07.994394+00:00",
+  "entry_main": "d0ca11de8c6f513aaa47b8c78df27be4f78afe26",
+  "git_ls_remote_main": "d0ca11de8c6f513aaa47b8c78df27be4f78afe26",
+  "github_api_main": "d0ca11de8c6f513aaa47b8c78df27be4f78afe26",
+  "branch_protected": false,
+  "branch_protection_summary": {
+    "enabled": false,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [],
+      "checks": []
+    }
+  },
+  "rulesets": [],
+  "branches": [
+    {
+      "name": "main",
+      "protected": false,
+      "sha": "d0ca11de8c6f513aaa47b8c78df27be4f78afe26"
+    },
+    {
+      "name": "session/S001-bootstrap-frontier",
+      "protected": false,
+      "sha": "1a43fc022179c950138e29994b6ca6a7ab667ec9"
+    },
+    {
+      "name": "session/S002-frontier-verification",
+      "protected": false,
+      "sha": "9387fbd552780ab01723e18e5dd2b6805b33146d"
+    },
+    {
+      "name": "session/S003-source-proof-challenge",
+      "protected": false,
+      "sha": "e2c26f8c45a6702786196bc973fa94fe61b2807c"
+    }
+  ],
+  "pull_requests": [
+    {
+      "number": 3,
+      "state": "closed",
+      "title": "S003 — primary source-proof challenge; Phase-1 gate held",
+      "head_ref": "session/S003-source-proof-challenge",
+      "head_sha": "e2c26f8c45a6702786196bc973fa94fe61b2807c",
+      "merge_sha": "d0ca11de8c6f513aaa47b8c78df27be4f78afe26",
+      "merged_at": "2026-10-11T07:49:22Z",
+      "base_ref": "main"
+    },
+    {
+      "number": 2,
+      "state": "closed",
+      "title": "S002 — frontier verification, corrected ternary bounds, n=6 entry gate",
+      "head_ref": "session/S002-frontier-verification",
+      "head_sha": "9387fbd552780ab01723e18e5dd2b6805b33146d",
+      "merge_sha": "9073b44fb1ea24f86c3ab69bf6a3cd8c7c45cf70",
+      "merged_at": "2026-10-10T22:05:41Z",
+      "base_ref": "main"
+    },
+    {
+      "number": 1,
+      "state": "closed",
+      "title": "S001 — governance bootstrap and provisional Davenport frontier",
+      "head_ref": "session/S001-bootstrap-frontier",
+      "head_sha": "1a43fc022179c950138e29994b6ca6a7ab667ec9",
+      "merge_sha": "9ff1aa34770ce23e87286ccba26cda7475448ba0",
+      "merged_at": "2026-10-10T21:57:08Z",
+      "base_ref": "main"
+    }
+  ],
+  "actions_workflows": {
+    "total_count": 0,
+    "workflows": []
+  },
+  "actions_runs": {
+    "total_count": 0,
+    "workflow_runs": []
+  },
+  "main_check_runs": {
+    "total_count": 0,
+    "check_runs": []
+  },
+  "main_combined_status": {
+    "state": "pending",
+    "statuses": [],
+    "sha": "d0ca11de8c6f513aaa47b8c78df27be4f78afe26",
+    "total_count": 0
+  },
+  "actual_jobs": {
+    "count": 0,
+    "basis": "No repository workflow runs exist, so there are no run/job identifiers to inspect; no job success is asserted."
+  },
+  "s004_uniqueness": "At initial entry no S004 branch, commit, PR or ledger row; this is the only local S004 branch. Owner Continue resumes the same session.",
+  "s003_merge_parents": [
+    "9073b44fb1ea24f86c3ab69bf6a3cd8c7c45cf70",
+    "e2c26f8c45a6702786196bc973fa94fe61b2807c"
+  ],
+  "workflow_files_at_entry": [],
+  "ci_pass_claimed": false,
+  "scope": "Fresh read-only recheck during the same S004 session, before its only commit. Unsupported connector workflow endpoint was independently resolved by public REST GET."
+}
