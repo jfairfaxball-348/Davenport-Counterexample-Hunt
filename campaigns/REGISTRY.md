@@ -45,3 +45,7 @@ CAM-0001 **PROPOSED / NOT RUNNING**, activation **BLOCKED**: original Schmid2011
 ### S009 disposition — 2026-10-11
 
 CAM-0001 remains **PROPOSED / NOT RUNNING**, activation **BLOCKED** by source-stated published Schmid2011 D(C6³)=16 and corroborating original 1969 exact families. Conditional p7 CLM-0079 and original-paper SRC-0026 bibliographical finding do not affect or activate this campaign. **Phase1 IN_PROGRESS; Phase2/3 NOT_STARTED.** No target replacement, solver, mathematical enumeration, candidate or certification.
+
+### S010 disposition — 2026-10-11
+
+CAM-0001 still **PROPOSED / NOT RUNNING** with activation BLOCKED by source-stated published Schmid2011 exact D(C6³)=16. CLM-0081 is a rank-two p7 intermediate source hand proof; SRC-0026 a 1999 proof access update. Neither authorises n6 search, replacement target, Phase2/3, SAT/ILP, candidate or verification campaign.

@@ -829,7 +829,30 @@
         "SRC-0025",
         "SRC-0026"
       ],
-      "notes": "Citation identification and publisher bibliographic metadata only. Original theorem hypotheses, logical deduction and full proof not independently verified; Phase1 PASS withheld."
+      "notes": "Citation identification and publisher bibliographic metadata only. Original theorem hypotheses, logical deduction and full proof not independently verified; Phase1 PASS withheld. S010 improved original full primary access to PROOF_INSPECTED; this S009 claim retains its historical then-unread provenance scope."
+    },
+    {
+      "id": "CLM-0081",
+      "statement": "Under BSP2012 Lem5.2's true 15-term no nonempty zero sum of length <=7 and at-most-two-indexed-terms-per-cyclic-subgroup hypotheses in F7², after CLM-0076 x,2x replacement, at most one subgroup can contain two DISTINCT occupied values. Complete hand proof exhausts diagonal zero/one/two copy cases and displays available short sums or capacity contradiction.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S010_SOURCE_PROOF_VERIFICATION.md section 1",
+      "source_ids": [
+        "SRC-0021"
+      ],
+      "notes": "Proves ONLY intermediate mixed-line assertion; uses conditional CLM0077 normalisation; diagonal t1,2,5 and anti-diagonal cases closed with <=7 witnesses; later doubled x+y in <z>, final t1/2/4, Lemma5.2, eta7 and stronger coefficient remain unproved."
+    },
+    {
+      "id": "CLM-0082",
+      "statement": "Original Gao–Geroldinger1999 Theorem10.7 Property B implies Property C full published proof is now directly readable in lawful author-uploaded 33-page original article printed pp206–208, and its short-zero-sum and odd-prime hypotheses are inspected; cited internal lemmas and all deductions NOT independently verified.",
+      "category": "SOURCE_AUDIT",
+      "status": "SOURCE_STATED",
+      "origin": "research/S010_SOURCE_PROOF_VERIFICATION.md section 3",
+      "source_ids": [
+        "SRC-0026",
+        "SRC-0025"
+      ],
+      "notes": "Original proof now PROOF_INSPECTED; does NOT mean B=>C programme proved; distinguish from 2006 survey and S009 previous METADATA_ONLY."
     }
   ]
 }

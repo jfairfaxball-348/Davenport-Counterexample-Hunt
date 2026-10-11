@@ -1,0 +1,38 @@
+{
+  "session": "S010",
+  "entry_main": "4d93334fd6335397f1c3df8113b7b3e86f0bd839",
+  "phase1": "IN_PROGRESS",
+  "phase2": "NOT_STARTED",
+  "phase3": "NOT_STARTED",
+  "sources": 26,
+  "claims": 82,
+  "new_local_results": [
+    "CLM-0081"
+  ],
+  "source_access_upgrade": [
+    "SRC-0026"
+  ],
+  "new_access_claim": [
+    "CLM-0082"
+  ],
+  "frontier_rows": 30,
+  "source_exact_trivial": 25,
+  "intervals": [
+    15,
+    20,
+    21,
+    28,
+    30
+  ],
+  "campaign": "CAM-0001_PROPOSED_NOT_RUNNING_BLOCKED",
+  "mathematical_numerical_searches": 0,
+  "author_code_executed": false,
+  "candidates": 0,
+  "certificates": 0,
+  "hosted_workflows": 0,
+  "hosted_runs": 0,
+  "hosted_jobs": 0,
+  "hosted_check_runs": 0,
+  "ci_pass_claimed": false,
+  "future_unexecuted": "S011"
+}

@@ -33,3 +33,7 @@ S006 closeout: [full record and future UNEXECUTED S007 prompt](../sessions/S006/
 | S009 | 2026-10-11 | Exactly one bounded source-only p7 eight-vector hand proof and original GG bibliography verification, other primary dependencies, 30-row frontier | CLM-0079 limited conditional result; SRC-0026 metadata, CLM-0080; Phase1 IN_PROGRESS, Phase2/3 NOT_STARTED; CAM-0001 BLOCKED, no campaign | session/S009-p7-eight-vector-source-audit |
 
 [S009 source report, closeout and full future UNEXECUTED S010 handoff](../sessions/S009/CLOSEOUT.md).
+
+| S010 | 2026-10-11 | ONE Phase1 original-source-only p7 all mixed-line diagonal cases; original GG1999 full Thm10.7 proof access; historical/provenance and thirty-row audit | CLM-0081 intermediate hand-proof; SRC-0026 access upgrade; Phase1 IN_PROGRESS, Phase2/3 NOT_STARTED, CAM-0001 BLOCKED, no mathematical search | session/S010-p7-mixed-line-original-gg-proof |
+
+[S010 full proof report and closeout with FUTURE S011 handoff](../sessions/S010/CLOSEOUT.md).

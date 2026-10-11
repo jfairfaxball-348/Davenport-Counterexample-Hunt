@@ -1,6 +1,6 @@
-# Frontier after S009
+# Frontier after S010
 
-S009 source-only audit independently preserves the same 30 rows after an additional limited p7 hand-proof and primary bibliography pass. No endpoint changes: source-exact families supersede older nonsharp intervals, with no programme certificate inferred. Five conditional interval entries do not assert openness. Phase1 IN_PROGRESS; no Phase2 target selected.
+S010 source-only audit independently preserves the same 30 rows after an additional limited p7 hand-proof and primary bibliography pass. No endpoint changes: source-exact families supersede older nonsharp intervals, with no programme certificate inferred. Five conditional interval entries do not assert openness. Phase1 IN_PROGRESS; no Phase2 target selected.
 
 **D(C6³)=16 is already a source-stated exact theorem.** CAM-0001 remains PROPOSED / NOT RUNNING with its premise obsolete. No Phase-2 target is selected. n=15 is the first interval requiring further literature review, not a declaration of openness.
 
@@ -93,3 +93,7 @@ The 30 Markdown table entries match frontier.json exactly. Twenty-five source-st
 ## S009 full n=1..30 source-only verification
 
 All 30 Markdown table entries above and machine-readable frontier rows preserve identical group, lower bound, upper bound, source-class and status. There are 25 source-exact/trivial entries and five intervals: n15 43..45, n20 58..59, n21 61..63, n28 82..83, n30 88..90. Source-stated Schmid2011 n6=16 and original van Emde Boas II/III exact 2p^a and 3·2^a families stand even though all long proof inputs are not independently reconstructed. Focused S009 searches did not authenticate a newly published exact result for any interval, and NON-DISCOVERY DOES NOT SHOW CURRENT OPENNESS. New CLM-0079 excludes only the conditional p7 normalized (5,5)-twice branch; no frontier arithmetic changes or new exact n claim. Original GG1999 identified as SRC-0026 but proof inaccessible. Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 activation BLOCKED by published n6=16. Inherited 14/17, tripling +5 and 43/699/5553 remain quarantined.
+
+## S010 all-thirty-row source-only mirror reconciliation
+
+The complete thirty-row Markdown table above is unchanged against frontier.json at n=1..30: 25 SOURCE_STATED exact/trivial and five conditional intervals n15 43..45, n20 58..59, n21 61..63, n28 82..83, n30 88..90. Focused primary exact-paper review authenticated no new exact theorem; NON-DISCOVERY NEVER IMPLIES OPENNESS. Schmid2011 D(C6³)=16 and original van Emde Boas II/III 2p^a/3·2^a exact rank-three families remain SOURCE_STATED, not downgraded for incomplete independently reproduced long proofs. S010 CLM-0081 is a LOCAL p7 mixed-line sublemma and SRC-0026 is a source-access upgrade only, neither changes numeric endpoints. Inherited 14/17, tripling +5 and 43/699/5553 quarantined. Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 BLOCKED.

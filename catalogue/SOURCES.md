@@ -216,8 +216,9 @@ SRC-0021 published pp22–23/29–30: coefficient 3(p−1)/2 still unproved from
 
 ## SRC-0026 — Gao–Geroldinger, On Long Minimal Zero-Sum Sequences in Finite Abelian Groups
 
-Year: 1999. Access: **METADATA_ONLY** (2026-10-11).
+Year: 1999. Access: **PROOF_INSPECTED** (2026-10-11; printed pp204–208, original 33-page full article).
 
-[Primary journal DOI](https://doi.org/10.1023/A:1004854508165)
+[DOI](https://doi.org/10.1023/A:1004854508165) · [Author-uploaded original FULL PDF](https://www.researchgate.net/profile/Weidong-Gao-5/publication/247011169_On_Long_Minimal_Zero_Sequences_in_Finite_Abelian_Groups/links/00b4953bdc82bc0399000000/On-Long-Minimal-Zero-Sequences-in-Finite-Abelian-Groups.pdf)
 
-Reiher2010 original reference [6] p.29 identifies the original Periodica Mathematica Hungarica 38 (1999), 179–211, whose Theorem 10.7 is invoked at Reiher p.27 for Property B⇒C. S009 verified bibliographical identity and publisher metadata, NOT the original theorem proof: available preview was insufficient. The 2006 Gao–Geroldinger survey is a separate publication and is not substituted. No change to source proof gate.
+S009 identified original GG1999 (NOT GG2006 survey) but had only metadata. S010 viewed complete original Theorem10.7 Property B=>C proof pp206–208 and Lemma10.6 pp204–206, accessing full author-uploaded article. Actual argument has 3p−3 rank-two no-short-zero-sum hypothesis, main odd-p case, uses Lemma4.3.2,4.3.3,Cor10.5,Lemma10.6 and Property B. Not all internal deductions independently re-proved; **PROOF_INSPECTED is NOT PROGRAMME_PROVED**.
+
