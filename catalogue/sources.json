@@ -19,12 +19,12 @@
     },
     {
       "id": "SRC-0002",
-      "title": "van Emde Boas–Kruyswijk, A combinatorial problem on finite abelian groups 3",
+      "title": "van Emde Boas–Kruyswijk, A combinatorial problem on finite abelian groups III (ZW008)",
       "year": "1969",
-      "url": "https://ir.cwi.nl/pub/12899",
-      "access": "METADATA_ONLY",
-      "accessed": "2026-10-10",
-      "notes": "1969 report; URL and full content require verification."
+      "url": "https://ir.cwi.nl/pub/7217/7217D.pdf",
+      "access": "PROOF_INSPECTED",
+      "accessed": "2026-10-11",
+      "notes": "Original CWI 1969 report, replacing unverified pub/12899 pointer. Lemma1.3, Theorem1.4 and Corollary1.5 family VIII read: exact D for rank-three 3 times powers of 2. Printed pp.4–5,12–14 / PDF pp.6–7,14–16; earlier computational lemma and structural sketches not independently certified."
     },
     {
       "id": "SRC-0003",
@@ -78,25 +78,25 @@
       "url": "https://www.mathematik.uni-rostock.de/storages/uni-rostock/Alle_MNF/Mathematik/Struktur/Lehrstuehle/Algebra/papers/Davenport333d.pdf",
       "access": "PROOF_INSPECTED",
       "accessed": "2026-10-11",
-      "notes": "Original BSP 2007 Proposition 1 p.3 and Proposition 8 proof pp.10–11 inspected. Subscript multiwise D3=15,D4=18; superscript D^3=17 is at-most-three-term zero-sum, not multiwise. Auxiliary case proof not independently closed."
+      "notes": "S004 read Prop.1 p.3 and Prop.8 pp.10–11 and associated definitions. D3=15,D4=18 are multiwise; superscript D³=17 is at most three. Earlier diagrammatic cases incompletely checked. Sheikh Remark4.3.11 addresses a later exactly-three claim, not the earlier at-most-three hypothesis; see S004 audit."
     },
     {
       "id": "SRC-0009",
-      "title": "Bhowmik–Schlage-Puchta, Davenport's constant for groups with large exponent",
+      "title": "Bhowmik–Schlage-Puchta, Davenport’s constant for groups with large exponent (annotated author draft)",
       "year": "2012",
       "url": "https://www.mathematik.uni-rostock.de/storages/uni-rostock/Alle_MNF/Mathematik/Struktur/Lehrstuehle/Algebra/papers/large_exponent.pdf",
       "access": "PROOF_INSPECTED",
       "accessed": "2026-10-11",
-      "notes": "Original author PDF statements and parts of proof inspected: eta(C5^3)=33, D3(C5^3)≤33 source-stated; eta p>7 and p=7 cases distinct, full imported axioms not matched. Visible editorial annotations including 'Forgot the second claim'. Journal DOI 10.1090/conm/579/11515."
+      "notes": "Nine-page annotated draft contains Forgot the second claim note and p>7 wording. S004 matched to definitive published offprint SRC-0021: publication renumbers lemma, removes note and includes p≥7. Do not use this draft as the definitive version."
     },
     {
       "id": "SRC-0010",
       "title": "Freeze–Schmid, Remarks on a generalization of the Davenport constant",
       "year": "2010",
       "url": "https://www.math.univ-paris13.fr/~schmid/personal/schmid_28t.pdf",
-      "access": "STATEMENT_INSPECTED",
+      "access": "PROOF_INSPECTED",
       "accessed": "2026-10-11",
-      "notes": "Original Freeze–Schmid author PDF Theorem 3.6 p.9: D_k(G)≤D_{D_k(H)}(G/H), k positive. For k=1 agrees with programme-proved S002 induction. Correct DOI 10.1016/j.disc.2010.07.028; prior 2009.07.002 incorrect."
+      "notes": "Original author PDF selected proofs: Prop.3.1/3.2 and Remark3.3 pp.6–8; Lemma3.4 p.8; Prop.3.5/Thm3.6 p.9; Remark5.3 pp.11–12. Exact k=1 induction and binary multiwise independently proved in S002. General Thm3.6 proof cites prior work. Correct DOI 10.1016/j.disc.2010.07.028. No claim of full-paper reconstruction."
     },
     {
       "id": "SRC-0011",
@@ -118,12 +118,12 @@
     },
     {
       "id": "SRC-0013",
-      "title": "Royal Holloway thesis on C3⊕C3⊕C3d proof reconstruction",
-      "year": "unknown",
+      "title": "Aleen Sheikh, The Davenport Constant of Finite Abelian Groups (doctoral thesis)",
+      "year": "2017",
       "url": "https://pure.royalholloway.ac.uk/en/publications/the-davenport-constant-of-finite-abelian-groups/",
       "access": "STATEMENT_INSPECTED",
       "accessed": "2026-10-11",
-      "notes": "Royal Holloway Sheikh thesis Chapter 4 indexed primary opening warns about 2007 rank-three-family proof gaps for gcd(d,6)≠1 and incorrect Remark 4.3.11; full university thesis PDF blocked HTTP 403. No comprehensive proof review."
+      "notes": "Original university-indexed Chapter4 opening and Remark4.3.11 p.41 inspected; full thesis PDF/file variants HTTP403, full Chapter4 NOT read. Remark concerns exactly-three-free length16 assertion on BSP p.19; its example has a zero-sum pair and does not refute the distinct at-most-three-free Proposition8 step. SRC-0013 and SRC-0020 identify the same thesis."
     },
     {
       "id": "SRC-0014",
@@ -139,18 +139,18 @@
       "title": "Yiu, The fourth generalized Davenport constant of C5^3",
       "year": "2026",
       "url": "https://arxiv.org/abs/2609.04950",
-      "access": "ABSTRACT_INSPECTED",
+      "access": "PROOF_INSPECTED",
       "accessed": "2026-10-11",
-      "notes": "Original Yiu September 2026 arXiv abstract reports D4(C5^3)=30, Dk=5k+10 k≥2; full main proof and ancillary code/certificates not inspected."
+      "notes": "S004 read 13-page v1 written proof (4 Sep2026): author claims D4(C5³)=30, Dk=5k+10 k≥2. Computational premises remain unverified here: M1 final predicate single implementation, M2 repeated according to author. Both downloaded source archives contain five TeX/bibliography files and no code/log/ancillary folder; manifest records exact hash/list. No code run or programme exact computation/certificate."
     },
     {
       "id": "SRC-0016",
       "title": "Grinsztajn, An upper bound for the Davenport constant of C_n^3",
       "year": "2026",
       "url": "https://github.com/maaxgrin/davenport-cn3-bound",
-      "access": "STATEMENT_INSPECTED",
+      "access": "PROOF_INSPECTED",
       "accessed": "2026-10-11",
-      "notes": "Author repo tree 848b081e40ecd769017a6199ebcb4e31fe125483 contains written PDF blob 5a698f1edee8cf0b1fabcb8b865f0fd04617ab0d; PDF binary body inaccessible to source tools, README/conditional Lean axiom statements inspected. 4n-P(n)-2 not independently audited at proof level."
+      "notes": "S004 read all four pages of actual davenport_cn3_bound.pdf. Author main commit 848b081e40ecd769017a6199ebcb4e31fe125483, PDF blob 5a698f1edee8cf0b1fabcb8b865f0fd04617ab0d; SHA256 in S004 source manifest. Ten external axioms inventoried read-only. Algebra/rounding checked; exact published BSP large-prime k-wise proof gap and eta dependencies remain. Conditional Lean was not executed. SOURCE_STATED universal theorem, with separate conditional programme deductions."
     },
     {
       "id": "SRC-0017",
@@ -177,16 +177,52 @@
       "url": "https://www.mathematik.uni-rostock.de/storages/uni-rostock/Alle_MNF/Mathematik/Struktur/Lehrstuehle/Algebra/papers/Davenport333d.pdf",
       "access": "PROOF_INSPECTED",
       "accessed": "2026-10-11",
-      "notes": "Same BSP 2007 primary PDF as SRC-0008. Proposition 1 and written proof Proposition 8 inspected, not independently fully certified. D^3 short-zero-sum differs from D3 multiwise."
+      "notes": "Duplicate identifier for the identical primary PDF SRC-0008; stable ID retained. Selected Prop.1/8 written proofs inspected. Full auxiliary diagrammatic cases not independently closed. Superscript D³ means at most three."
     },
     {
       "id": "SRC-0020",
-      "title": "Sheikh, The Davenport Constant of Finite Abelian Groups (doctoral thesis)",
+      "title": "Aleen Sheikh, The Davenport Constant of Finite Abelian Groups (doctoral thesis)",
       "year": "2017",
       "url": "https://pure.royalholloway.ac.uk/en/publications/the-davenport-constant-of-finite-abelian-groups/",
       "access": "STATEMENT_INSPECTED",
       "accessed": "2026-10-11",
-      "notes": "Royal Holloway Sheikh thesis Chapter 4 indexed primary opening warns about 2007 rank-three-family proof gaps for gcd(d,6)≠1 and incorrect Remark 4.3.11; full university thesis PDF blocked HTTP 403. No comprehensive proof review."
+      "notes": "Original university-indexed Chapter4 opening and Remark4.3.11 p.41 inspected; full thesis PDF/file variants HTTP403, full Chapter4 NOT read. Remark concerns exactly-three-free length16 assertion on BSP p.19; its example has a zero-sum pair and does not refute the distinct at-most-three-free Proposition8 step. SRC-0013 and SRC-0020 identify the same thesis."
+    },
+    {
+      "id": "SRC-0021",
+      "title": "Bhowmik–Schlage-Puchta, Davenport’s constant for groups with large exponent (publisher offprint)",
+      "year": "2012",
+      "url": "https://pro.univ-lille.fr/fileadmin/user_upload/pages_pros/gautami_bhowmik/Publications/large_exponent.pdf",
+      "access": "PROOF_INSPECTED",
+      "accessed": "2026-10-11",
+      "notes": "Published Contemporary Mathematics 579 pp.21–31, DOI10.1090/conm/579/11515. Selected rank-three proofs pp.22–24,28–30 inspected. Thm1.2(3) includes p≥7. Lem2.1 statement (3p−1)/2 versus proof 3(p−1)/2, Lem2.3 omitted rank3 proof; p7 Lem5.2 cases not closed. Definitive version replaces draft as proof target."
+    },
+    {
+      "id": "SRC-0022",
+      "title": "Schmid, The inverse problem associated to the Davenport constant for C2 ⊕ C2 ⊕ C2n, and applications to the arithmetical characterization of class groups",
+      "year": "2011",
+      "url": "https://www.combinatorics.org/ojs/index.php/eljc/article/download/v18i1p33/pdf/",
+      "access": "PROOF_INSPECTED",
+      "accessed": "2026-10-11",
+      "notes": "Published E-JC18 P33. Thm4.1 p.27 gives D(C6²⊕C6t)=D* for every t≥1, hence D(C6³)=16. Proof pp.27–29 inspected, depends on structural Thm3.13 and omitted subsum cases. Intro corroborates older exact 2p^a and 3·2^a families. SOURCE_STATED exact result, not full programme proof."
+    },
+    {
+      "id": "SRC-0023",
+      "title": "van Emde Boas, A combinatorial problem on finite abelian groups II (ZW007)",
+      "year": "1969",
+      "url": "https://ir.cwi.nl/pub/7240/7240D.pdf",
+      "access": "PROOF_INSPECTED",
+      "accessed": "2026-10-11",
+      "notes": "Original report: Theorem4.2 printed pp.33–35 / PDF35–37, Cor4.3 printed35/PDF37 gives D=D* for rank3 doubled p-groups. Selected proof and cited Thm2.8 ν input inspected; entire original proof chain not independently reconstructed."
+    },
+    {
+      "id": "SRC-0024",
+      "title": "Gao–Hou–Schmid–Thangadurai, On Short Zero-Sum Subsequences II",
+      "year": "2007",
+      "url": "https://doi.org/10.5281/zenodo.8281159",
+      "access": "PROOF_INSPECTED",
+      "accessed": "2026-10-11",
+      "notes": "Integers7 A21, journal-linked archival PDF. Thm1.7 p.4 gives eta(Cn³)=8n−7 for n=3^a5^b. Selected proof pp.16–17 via Prop5.5/5.6 inspected: computational base s(C5³)=37 and PropertyD. No program execution/certification; eta5=33 remains source theorem."
     }
   ]
 }

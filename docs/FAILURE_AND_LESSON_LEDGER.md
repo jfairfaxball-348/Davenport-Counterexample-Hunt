@@ -20,3 +20,14 @@
 | S003 | D³ vs D₃ collision | Original superscript at-most-three D³=17, multiwise D₃=15 and D₄=18 | Inherited 14/17, +5 and 5553 remain invalid/unverified |
 | S003 | Freeze–Schmid original DOI correction | S002 listed wrong 2009.07.002 | Primary PDF p.9 and correct 2010.07.028 now recorded |
 | S003 | Exact C6³ theorem diligence | Targeted search did not authenticate newer individual proof | No inference of openness from absence of a hit |
+
+| S004 | Major frontier omission | Schmid2011 Thm4.1 gives D(C6³)=16; original 1969 families settle eight composite rows | Withdraw n6 tooling recommendation; retain old valid nonsharp inequalities as history. CAM-0001 PROPOSED / NOT RUNNING, activation blocked |
+| S004 | Definitive draft reconciliation | Publisher offprint removes editorial note, renumbers lemma and includes p≥7 | Use SRC-0021 as definitive version; access obstacle resolved, proof completeness separate |
+| S004 | Published coefficient discrepancy | Short-block statement (3p−1)/2 differs by one from split-proof text and Lem2.3 coefficient 3(p−1)/2 | Exact axiom unclosed; S004 supplies weaker sufficient conditional route, not theorem disproof |
+| S004 | p7 eta case gap | Published Lem5.2 brief cases and absent (1,6) used in a stated zero sum | No exhaustive case closure or numerical replacement; retain SOURCE_STATED |
+| S004 | Small-prime source dependencies | GHST eta5 theorem rests on computational Prop5.6; BSP2007 diagrammatic cases incomplete here | No code execution, programme exact computation or source-proof upgrade |
+| S004 | Thesis scope | Full Chapter4 remains HTTP403; indexed p41 exactly-three counterexample has a two-term zero sum | Specific remark does not refute earlier at-most-three-free hypothesis; full review still outstanding |
+| S004 | Yiu ancillary discrepancy | Both downloaded source archives contain only five TeX/bibliography files | Do not claim advertised computations independently verified or globally absent; locate records in future source-only session |
+| S004 | Absence of CI | Public REST workflows0, runs0, check-runs0; combined status pending with total_count0 | No CI PASS. Administrative validation is distinct from Actions and mathematical certification |
+
+**Negative-results scope through S004:** no exhaustive negative mathematical result has been produced; no search space was executed. Inherited 43/699/5553 remain quarantined. Source-access failures and proof gaps are not UNSAT certificates or counterexamples.

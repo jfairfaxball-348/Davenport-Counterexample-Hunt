@@ -16,3 +16,11 @@
 | 2026-10-11 | S003 Phase-1 PASS withheld | Grinsztajn written PDF unread, large-prime imported source axioms/full Sheikh/Yiu proofs incomplete | IN_PROGRESS |
 | 2026-10-11 | Freeze–Schmid original Thm3.6 supports induction; BSP subscript D3=15,D4=18 vs superscript D³ short threshold 17 | primary original author sources | SOURCE-STATED versus PROGRAMME-PROVED kept separate |
 | 2026-10-11 | n=6 stays 16..17, CAM-0001 PROPOSED / NOT RUNNING; S004 prompt is future Phase-1 authority only | S003 no-computation gate | NO CAMPAIGN |
+
+| 2026-10-11 | S004 withdraws n6 tooling recommendation: published D(C6³)=16; correct eight composite exact rows and improve n20/28/30 | SRC-0022 Thm4.1, SRC-0023 Cor4.3, SRC-0002 Cor1.5 | CURRENT FRONTIER CORRECTION |
+| 2026-10-11 | Retain CAM-0001 PROPOSED / NOT RUNNING with obsolete premise and activation blocked; select no replacement | explicit owner campaign constraint plus historical exact theorem | BINDING |
+| 2026-10-11 | Actual Grinsztajn PDF read; all ten axiom statements and conditional algebra checked | S004 audit sections2–4 | CONDITIONAL DEDUCTIONS ONLY |
+| 2026-10-11 | Published BSP version resolves draft note/range uncertainty but leaves exact coefficient and p7 case gaps; weaker conditional local route recorded | SRC-0021 and CLM-0068/0069 | NO UNCONDITIONAL UPGRADE |
+| 2026-10-11 | Indexed Sheikh remark does not refute distinct at-most-three-free premise; full Chapter4 still inaccessible | CLM-0070 | SCOPED FINDING |
+| 2026-10-11 | Yiu written proof read; downloaded bundles lack advertised code/logs; no execution | SRC-0015, S004 source manifest | SOURCE_STATED |
+| 2026-10-11 | Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED; future S005 source review only on fresh owner invocation | exact missing proof steps in S004 audit section8 | GATE HELD; STOP S004 |

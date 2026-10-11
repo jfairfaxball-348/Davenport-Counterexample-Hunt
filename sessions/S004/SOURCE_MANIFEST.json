@@ -1,0 +1,141 @@
+{
+  "session": "S004",
+  "retrieved": "2026-10-11",
+  "purpose": "Read-only source provenance; source copies are not committed",
+  "artifacts": [
+    {
+      "source_id": "SRC-0016",
+      "artifact": "grinsztajn.pdf",
+      "url": "https://raw.githubusercontent.com/maaxgrin/davenport-cn3-bound/main/davenport_cn3_bound.pdf",
+      "bytes": 84933,
+      "sha256": "759952ae0e247cc2167594679b698ad30bacd1f4ca72aa7f28bb58baf0394531",
+      "pdf_pages": 4,
+      "immutable_url": "https://raw.githubusercontent.com/maaxgrin/davenport-cn3-bound/848b081e40ecd769017a6199ebcb4e31fe125483/davenport_cn3_bound.pdf"
+    },
+    {
+      "source_id": "SRC-0010",
+      "artifact": "freeze.pdf",
+      "url": "https://www.math.univ-paris13.fr/~schmid/personal/schmid_28t.pdf",
+      "bytes": 517891,
+      "sha256": "0e348f252276f19551f160d9f5b0ebdc1aba5d2d6cb71ae0284c124d52f8130f",
+      "pdf_pages": 27
+    },
+    {
+      "source_id": "SRC-0008",
+      "artifact": "bsp2007.pdf",
+      "url": "https://www.mathematik.uni-rostock.de/storages/uni-rostock/Alle_MNF/Mathematik/Struktur/Lehrstuehle/Algebra/papers/Davenport333d.pdf",
+      "bytes": 231446,
+      "sha256": "5454c753ab743bb7e533133b6297166e241f213cf85c8b8044cb3c43bc6f3f33",
+      "pdf_pages": 20
+    },
+    {
+      "source_id": "SRC-0009",
+      "artifact": "large_draft.pdf",
+      "url": "https://www.mathematik.uni-rostock.de/storages/uni-rostock/Alle_MNF/Mathematik/Struktur/Lehrstuehle/Algebra/papers/large_exponent.pdf",
+      "bytes": 203882,
+      "sha256": "a07421c651c34d362ec83a41ed5ef18b8f11d576295baa80ab14badad977d9cf",
+      "pdf_pages": 9
+    },
+    {
+      "source_id": "SRC-0021",
+      "artifact": "large_published.pdf",
+      "url": "https://pro.univ-lille.fr/fileadmin/user_upload/pages_pros/gautami_bhowmik/Publications/large_exponent.pdf",
+      "bytes": 222330,
+      "sha256": "7fb4c6cf7e9a88dbb84cb1d6c0fb3ffc9f66c905a72fb4202bf5db22f0698fa6",
+      "pdf_pages": 11
+    },
+    {
+      "source_id": "SRC-0022",
+      "artifact": "schmid2011.pdf",
+      "url": "https://www.combinatorics.org/ojs/index.php/eljc/article/download/v18i1p33/pdf/",
+      "bytes": 409015,
+      "sha256": "1bdb76f402504d214cf9e110247ead8182bb60af2978f145b736767e3b4cfb24",
+      "pdf_pages": 42
+    },
+    {
+      "source_id": "SRC-0023",
+      "artifact": "veb1969_II.pdf",
+      "url": "https://ir.cwi.nl/pub/7240/7240D.pdf",
+      "bytes": 3254717,
+      "sha256": "c2710d7632716bc617c2e1d4fff359129d08c3a1819b281f97a564dcf2abf330",
+      "pdf_pages": 62
+    },
+    {
+      "source_id": "SRC-0002",
+      "artifact": "veb1969_III.pdf",
+      "url": "https://ir.cwi.nl/pub/7217/7217D.pdf",
+      "bytes": 1750096,
+      "sha256": "89daee24be85e50490a44ea5c0437f622a2c2c2ba7ea5bb23b8f75d0a1b3a955",
+      "pdf_pages": 36
+    },
+    {
+      "source_id": "SRC-0024",
+      "artifact": "ghst2007.pdf",
+      "url": "https://zenodo.org/api/records/8281159/files/h21.pdf/content",
+      "bytes": 366103,
+      "sha256": "cfc774e91bf0b3099808b4c6336a8cc3607aaafb0dd9d623f74aeb8ed774eb0a",
+      "pdf_pages": 22
+    },
+    {
+      "source_id": "SRC-0015",
+      "artifact": "yiu.pdf",
+      "url": "https://arxiv.org/pdf/2609.04950",
+      "bytes": 413600,
+      "sha256": "c3915cb0df878e83abbc7af392813b8cce067c6dd3bbb07db6fa3268d935c2e5",
+      "pdf_pages": 13,
+      "version_observed": "v1, 4 September 2026"
+    },
+    {
+      "source_id": "SRC-0015",
+      "artifact": "yiu_source.tar",
+      "url": "https://arxiv.org/src/2609.04950",
+      "bytes": 16680,
+      "sha256": "99dc658b3381038fe0c7b2f89145c52a9687e185883cf2a6fdcc0cb8860b1e21",
+      "pdf_pages": null
+    },
+    {
+      "source_id": "SRC-0015",
+      "artifact": "yiu_source_v1.tar",
+      "url": "https://arxiv.org/src/2609.04950v1",
+      "bytes": 16680,
+      "sha256": "99dc658b3381038fe0c7b2f89145c52a9687e185883cf2a6fdcc0cb8860b1e21",
+      "pdf_pages": null
+    }
+  ],
+  "access_limits": [
+    {
+      "source_id": "SRC-0020",
+      "url": "https://pure.royalholloway.ac.uk/files/28262990/The_Davenport_Constant_of_Finite_Abelian_Groups.pdf",
+      "status": "HTTP 403",
+      "scope": "Full PDF unavailable; original indexed Chapter4 opening and Remark4.3.11 p41 excerpts only. Public portal/files and ws/files variants also returned403."
+    },
+    {
+      "source_id": "SRC-0015",
+      "url": "https://arxiv.org/src/2609.04950v1/anc",
+      "status": "HTTP 404",
+      "scope": "No claimed ancillary code/logs in either retrieved source archive; no claim of global absence."
+    }
+  ],
+  "yiu_source_archive_members": [
+    {
+      "name": "00README.json",
+      "bytes": 300
+    },
+    {
+      "name": "bibliography.bib",
+      "bytes": 3559
+    },
+    {
+      "name": "body.tex",
+      "bytes": 43822
+    },
+    {
+      "name": "main.tex",
+      "bytes": 634
+    },
+    {
+      "name": "preamble.tex",
+      "bytes": 1028
+    }
+  ]
+}

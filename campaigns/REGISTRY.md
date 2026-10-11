@@ -2,7 +2,11 @@
 
 Every campaign **before activation** must state: exact target, search space, method, proved symmetry reductions, completeness class EXHAUSTIVE / PARTIAL / HEURISTIC, bounded budget, persisted checkpoint format and stopping rule. A PROPOSED record never authorizes execution.
 
-## CAM-0001 — n=6 skeleton–lift, PROPOSED / NOT STARTED
+## CAM-0001 — n=6 skeleton–lift, PROPOSED / NOT RUNNING
+
+**Current S004 disposition (2026-10-11): activation blocked; premise obsolete.** Published Schmid2011 Theorem4.1(2) gives D(C6³)=16 (SRC-0022 / CLM-0064), corroborated by original 1969 exact families. Thus a length-16 zero-sumfree target is excluded by the source-stated theorem. Preserve this campaign as PROPOSED / NOT RUNNING by owner instruction; withdraw its target recommendation. No replacement campaign, solver, orbit enumeration or tooling is authorized. Phase 1 IN_PROGRESS, Phases 2/3 NOT_STARTED. The proposal and annotations below are historical provenance, not current activation instructions.
+
+### Historical proposal
 - Target: decide whether $C_6^3$ has a zero-sumfree sequence of length 16; a certified example would imply $D(C_6^3)>16$.
 - Search space (conditional): all length-16 multisequences over $C_3^3$ admitting <=3 disjoint nonempty zero-sum subsequences, then all $C_2^3$ labels satisfying nonzero projected lifts; inherited 5553 GL(3,3) skeleton orbits are **unverified AND affected by S002 corrected D4(C3^3)=18, not 17**. Neither this count nor the old threshold establishes completeness.
 - Proposed method: independently verify skeleton enumeration and GL(3,3) orbit completeness; encode each mod-2 zero-sum avoidance condition into SAT or exact enumeration; cross-check with independent lifting algorithm.
@@ -20,4 +24,4 @@ Every campaign **before activation** must state: exact target, search space, met
 - Prerequisites remain Phase-1 PASS, then Phase-2 certified tooling and independent symmetry/exhaustiveness proof. S003 is a Phase-1 source-proof session only.
 
 ### S003 — PROPOSED / NOT RUNNING (2026-10-11)
-Phase 1 IN_PROGRESS, Phases 2 and 3 NOT_STARTED. No SAT/ILP, candidates, orbitting, solver, enumeration, certification or computed count. The inherited 5553 orbit claim has no completeness provenance and used the wrong D4=17. n=6 16..17 remains future tooling target only.
+Phase 1 IN_PROGRESS, Phases 2 and 3 NOT_STARTED. No SAT/ILP, candidates, orbitting, solver, enumeration, certification or computed count. The inherited 5553 orbit claim has no completeness provenance and used the wrong D4=17. S003 recommended n=6 at 16..17; **S004 withdraws that recommendation** on the published exact theorem above.

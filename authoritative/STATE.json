@@ -24,26 +24,29 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S003",
-  "recommended_next_session": "S004",
+  "last_completed_session": "S004",
+  "recommended_next_session": "S005",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
-  "phase1_target_n": 6,
-  "phase1_target_status": "PROPOSED_ONLY",
+  "phase1_target_n": null,
+  "phase1_target_status": "WITHHELD_PENDING_CORRECTED_FRONTIER_REVIEW",
   "open_blockers": [
-    "Original Grinsztajn written PDF at author GitHub located but binary body inaccessible; 4n-P(n)-2 not source-proof-audited.",
-    "Grinsztajn imported prime-5/7/large-prime eta and k-wise axioms not all matched to definitive original BSP proof; author PDF has visible draft editorial remarks.",
-    "Sheikh 2017 thesis full Chapter 4 / Remark 4.3.11 HTTP 403, and BSP Proposition 8 auxiliary case verification incomplete.",
-    "Yiu 2609.04950 full proof and ancillary evidence not inspected; targeted exact C6^3 searches nonconclusive.",
-    "Inherited 43/699/5553 GL(3,3) orbits lack reproducible completeness and old D3/D4 and +5 calculations were erroneous."
+    "Published BSP2012 Lem2.3 p23 exact 3(p−1)/2 coefficient not derived by preceding split, which gives (3p−1)/2. S004 supplies only a sufficient weaker conditional route.",
+    "Published BSP2012 Lem5.2 pp29–30 p7 eta case exhaustion/inconsistent (1,6) subcase incomplete; rank2 PropertyB/C original dependencies for p≥11 not fully checked.",
+    "BSP2007 auxiliary diagrammatic cases and full Sheikh Chapter4 incomplete; university thesis PDF403. Indexed Remark4.3.11 hypothesis mismatch resolved only in specified scope.",
+    "GHST2007 eta5 input uses computational Prop5.6 pp16–17; original computational evidence not independently certified.",
+    "Yiu full written proof read, but both retrieved source archives lack advertised code/logs. M1 final test remains single-implementation on paper; records not verified.",
+    "Historical exact-family proof dependencies and targeted current literature review of n15,20,21,28,30 remain; no openness inferred."
   ],
   "gate_ledger": "docs/PHASE_GATE_LEDGER.md",
   "source_snapshot": "2026-10-11",
   "warnings": [
-    "Original BSP 2007 subscript D3=15, D4=18 and superscript D^3=17 at-most-three-term threshold; do not conflate.",
-    "Freeze–Schmid original Theorem 3.6 supports subgroup induction at k=1; source DOI corrected.",
-    "n6 16..17, n12 34..36, n15 43..45, n21 61..63, n24 70..72 remain programme deductions conditional on source-stated theorems.",
-    "Grinsztajn source PDF unread, conditional Lean axioms not unconditional theorem proof.",
-    "At S003 entry GitHub Actions runs and check runs were 0, so no CI PASS."
-  ]
+    "D(C6³)=16 is source-stated in published Schmid2011 Thm4.1; CAM-0001 stays PROPOSED / NOT RUNNING with obsolete premise and activation blocked.",
+    "25 frontier rows exact/trivial at source level; intervals n15 43..45, n20 58..59, n21 61..63, n28 82..83, n30 88..90.",
+    "Subscript multiwise D3(C3³)=15, D4=18 differs from superscript at-most-three threshold17; inherited14/17, +5 and43/699/5553 quarantined.",
+    "Actual Grinsztajn four-page PDF read; conditional deductions checked, imported source proofs not all closed; no Lean executed.",
+    "No workflows, runs, checks or jobs observed at S004 entry; no CI PASS. Validation is administrative only."
+  ],
+  "first_interval_requiring_literature_review": 15,
+  "owner_action_blockers": []
 }

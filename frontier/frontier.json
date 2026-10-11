@@ -6,7 +6,7 @@
     "SANDWICHED",
     "UNKNOWN"
   ],
-  "notation": "S003 n1..30 intervals rechecked against programme binary induction, primary Olson p-group SOURCE_STATED and BSP ternary SOURCE_STATED; no composite exact values certified. Grinsztajn written PDF inaccessible; no universal bound imported. Phase 1 IN_PROGRESS.",
+  "notation": "S004 paper audit: source-exact historical families supersede older nonsharp intervals; no source theorem becomes a programme certificate. Five remaining interval entries do not assert openness. Phase1 IN_PROGRESS; no Phase2 target selected.",
   "rows": [
     {
       "n": 1,
@@ -18,7 +18,9 @@
       "evidence": [
         "TRIVIAL_GROUP"
       ],
-      "notes": "Trivial group D=1, proved from definition; exceptional rank zero."
+      "notes": "Trivial group D=1, proved from definition; exceptional rank zero.",
+      "lower_bound": 1,
+      "upper_bound": 1
     },
     {
       "n": 2,
@@ -32,7 +34,9 @@
         "SRC-0003",
         "CLM-0039"
       ],
-      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here."
+      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here.",
+      "lower_bound": 4,
+      "upper_bound": 4
     },
     {
       "n": 3,
@@ -46,7 +50,9 @@
         "SRC-0003",
         "CLM-0039"
       ],
-      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here."
+      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here.",
+      "lower_bound": 7,
+      "upper_bound": 7
     },
     {
       "n": 4,
@@ -60,7 +66,9 @@
         "SRC-0003",
         "CLM-0039"
       ],
-      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here."
+      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here.",
+      "lower_bound": 10,
+      "upper_bound": 10
     },
     {
       "n": 5,
@@ -74,24 +82,28 @@
         "SRC-0003",
         "CLM-0039"
       ],
-      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here."
+      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here.",
+      "lower_bound": 13,
+      "upper_bound": 13
     },
     {
       "n": 6,
       "group": "C_6^3",
       "d_star": 16,
-      "provisional_status": "SANDWICHED",
-      "programme_certification": "PROGRAMME_DERIVED_INTERVAL_FROM_SOURCE_THEOREMS",
-      "reported_bound": "16..17",
+      "provisional_status": "SETTLED",
+      "programme_certification": "SOURCE_STATED_HISTORICAL_THEOREM",
+      "reported_bound": "16",
       "evidence": [
-        "CLM-0038",
-        "CLM-0047",
-        "CLM-0048",
-        "CLM-0049",
-        "CLM-0050",
-        "CLM-0051"
+        "CLM-0065",
+        "SRC-0023",
+        "CLM-0064",
+        "SRC-0022",
+        "CLM-0066",
+        "SRC-0002"
       ],
-      "notes": "2D(C3^3)+3 = 17; source-stated Olson 7 and programme-proved C2 multiwise. Not an exact determination; no published individual-n proof inferred from literature search."
+      "notes": "D(C6³)=16 also directly by published Schmid2011 Thm4.1(2), t=1. Historical exact value; old 16..17 nonsharp. CAM-0001 premise obsolete, no tooling target.",
+      "lower_bound": 16,
+      "upper_bound": 16
     },
     {
       "n": 7,
@@ -105,7 +117,9 @@
         "SRC-0003",
         "CLM-0039"
       ],
-      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here."
+      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here.",
+      "lower_bound": 19,
+      "upper_bound": 19
     },
     {
       "n": 8,
@@ -119,7 +133,9 @@
         "SRC-0003",
         "CLM-0039"
       ],
-      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here."
+      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here.",
+      "lower_bound": 22,
+      "upper_bound": 22
     },
     {
       "n": 9,
@@ -133,24 +149,24 @@
         "SRC-0003",
         "CLM-0039"
       ],
-      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here."
+      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here.",
+      "lower_bound": 25,
+      "upper_bound": 25
     },
     {
       "n": 10,
       "group": "C_10^3",
       "d_star": 28,
-      "provisional_status": "SANDWICHED",
-      "programme_certification": "PROGRAMME_DERIVED_INTERVAL_FROM_SOURCE_THEOREMS",
-      "reported_bound": "28..29",
+      "provisional_status": "SETTLED",
+      "programme_certification": "SOURCE_STATED_HISTORICAL_THEOREM",
+      "reported_bound": "28",
       "evidence": [
-        "CLM-0038",
-        "CLM-0047",
-        "CLM-0048",
-        "CLM-0049",
-        "CLM-0050",
-        "CLM-0051"
+        "CLM-0065",
+        "SRC-0023"
       ],
-      "notes": "2D(C5^3)+3 = 29. Not an exact determination; no published individual-n proof inferred from literature search."
+      "notes": "Exact by original report II Cor4.3 at n=2p^a. SOURCE_STATED, not a programme-certified full proof.",
+      "lower_bound": 28,
+      "upper_bound": 28
     },
     {
       "n": 11,
@@ -164,24 +180,24 @@
         "SRC-0003",
         "CLM-0039"
       ],
-      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here."
+      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here.",
+      "lower_bound": 31,
+      "upper_bound": 31
     },
     {
       "n": 12,
       "group": "C_12^3",
       "d_star": 34,
-      "provisional_status": "SANDWICHED",
-      "programme_certification": "PROGRAMME_DERIVED_INTERVAL_FROM_SOURCE_THEOREMS",
-      "reported_bound": "34..36",
+      "provisional_status": "SETTLED",
+      "programme_certification": "SOURCE_STATED_HISTORICAL_THEOREM",
+      "reported_bound": "34",
       "evidence": [
-        "CLM-0038",
-        "CLM-0047",
-        "CLM-0048",
-        "CLM-0049",
-        "CLM-0050",
-        "CLM-0051"
+        "CLM-0066",
+        "SRC-0002"
       ],
-      "notes": "3D(C4^3)+6 = 36; NOT 35. Not an exact determination; no published individual-n proof inferred from literature search."
+      "notes": "Exact by original report III Cor1.5 family VIII at n=3·2^a. SOURCE_STATED, not a programme-certified full proof.",
+      "lower_bound": 34,
+      "upper_bound": 34
     },
     {
       "n": 13,
@@ -195,24 +211,24 @@
         "SRC-0003",
         "CLM-0039"
       ],
-      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here."
+      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here.",
+      "lower_bound": 37,
+      "upper_bound": 37
     },
     {
       "n": 14,
       "group": "C_14^3",
       "d_star": 40,
-      "provisional_status": "SANDWICHED",
-      "programme_certification": "PROGRAMME_DERIVED_INTERVAL_FROM_SOURCE_THEOREMS",
-      "reported_bound": "40..41",
+      "provisional_status": "SETTLED",
+      "programme_certification": "SOURCE_STATED_HISTORICAL_THEOREM",
+      "reported_bound": "40",
       "evidence": [
-        "CLM-0038",
-        "CLM-0047",
-        "CLM-0048",
-        "CLM-0049",
-        "CLM-0050",
-        "CLM-0051"
+        "CLM-0065",
+        "SRC-0023"
       ],
-      "notes": "2D(C7^3)+3 = 41. Not an exact determination; no published individual-n proof inferred from literature search."
+      "notes": "Exact by original report II Cor4.3 at n=2p^a. SOURCE_STATED, not a programme-certified full proof.",
+      "lower_bound": 40,
+      "upper_bound": 40
     },
     {
       "n": 15,
@@ -223,13 +239,13 @@
       "reported_bound": "43..45",
       "evidence": [
         "CLM-0038",
-        "CLM-0047",
-        "CLM-0048",
-        "CLM-0049",
-        "CLM-0050",
-        "CLM-0051"
+        "CLM-0051",
+        "CLM-0039",
+        "SRC-0008"
       ],
-      "notes": "3D(C5^3)+6 = 45; NOT 44. Not an exact determination; no published individual-n proof inferred from literature search."
+      "notes": "3·13+6=45; S002 tripling and source D(C5³)=13. No exact value authenticated for this row in this bounded audit; no claim of openness.",
+      "lower_bound": 43,
+      "upper_bound": 45
     },
     {
       "n": 16,
@@ -243,7 +259,9 @@
         "SRC-0003",
         "CLM-0039"
       ],
-      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here."
+      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here.",
+      "lower_bound": 46,
+      "upper_bound": 46
     },
     {
       "n": 17,
@@ -257,24 +275,24 @@
         "SRC-0003",
         "CLM-0039"
       ],
-      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here."
+      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here.",
+      "lower_bound": 49,
+      "upper_bound": 49
     },
     {
       "n": 18,
       "group": "C_18^3",
       "d_star": 52,
-      "provisional_status": "SANDWICHED",
-      "programme_certification": "PROGRAMME_DERIVED_INTERVAL_FROM_SOURCE_THEOREMS",
-      "reported_bound": "52..53",
+      "provisional_status": "SETTLED",
+      "programme_certification": "SOURCE_STATED_HISTORICAL_THEOREM",
+      "reported_bound": "52",
       "evidence": [
-        "CLM-0038",
-        "CLM-0047",
-        "CLM-0048",
-        "CLM-0049",
-        "CLM-0050",
-        "CLM-0051"
+        "CLM-0065",
+        "SRC-0023"
       ],
-      "notes": "2D(C9^3)+3 = 53. Not an exact determination; no published individual-n proof inferred from literature search."
+      "notes": "Exact by original report II Cor4.3 at n=2p^a. SOURCE_STATED, not a programme-certified full proof.",
+      "lower_bound": 52,
+      "upper_bound": 52
     },
     {
       "n": 19,
@@ -288,7 +306,9 @@
         "SRC-0003",
         "CLM-0039"
       ],
-      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here."
+      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here.",
+      "lower_bound": 55,
+      "upper_bound": 55
     },
     {
       "n": 20,
@@ -296,16 +316,16 @@
       "d_star": 58,
       "provisional_status": "SANDWICHED",
       "programme_certification": "PROGRAMME_DERIVED_INTERVAL_FROM_SOURCE_THEOREMS",
-      "reported_bound": "58..61",
+      "reported_bound": "58..59",
       "evidence": [
         "CLM-0038",
-        "CLM-0047",
-        "CLM-0048",
         "CLM-0049",
-        "CLM-0050",
-        "CLM-0051"
+        "CLM-0065",
+        "SRC-0023"
       ],
-      "notes": "2D(C10^3)+3 <= 61. Not an exact determination; no published individual-n proof inferred from literature search."
+      "notes": "2·28+3=59; S002 doubling and historical D(C10³)=28. No exact value authenticated for this row in this bounded audit; no claim of openness.",
+      "lower_bound": 58,
+      "upper_bound": 59
     },
     {
       "n": 21,
@@ -316,30 +336,28 @@
       "reported_bound": "61..63",
       "evidence": [
         "CLM-0038",
-        "CLM-0047",
-        "CLM-0048",
-        "CLM-0049",
-        "CLM-0050",
-        "CLM-0051"
+        "CLM-0051",
+        "CLM-0039",
+        "SRC-0008"
       ],
-      "notes": "3D(C7^3)+6 = 63; NOT 62. Not an exact determination; no published individual-n proof inferred from literature search."
+      "notes": "3·19+6=63; S002 tripling and source D(C7³)=19. No exact value authenticated for this row in this bounded audit; no claim of openness.",
+      "lower_bound": 61,
+      "upper_bound": 63
     },
     {
       "n": 22,
       "group": "C_22^3",
       "d_star": 64,
-      "provisional_status": "SANDWICHED",
-      "programme_certification": "PROGRAMME_DERIVED_INTERVAL_FROM_SOURCE_THEOREMS",
-      "reported_bound": "64..65",
+      "provisional_status": "SETTLED",
+      "programme_certification": "SOURCE_STATED_HISTORICAL_THEOREM",
+      "reported_bound": "64",
       "evidence": [
-        "CLM-0038",
-        "CLM-0047",
-        "CLM-0048",
-        "CLM-0049",
-        "CLM-0050",
-        "CLM-0051"
+        "CLM-0065",
+        "SRC-0023"
       ],
-      "notes": "2D(C11^3)+3 = 65. Not an exact determination; no published individual-n proof inferred from literature search."
+      "notes": "Exact by original report II Cor4.3 at n=2p^a. SOURCE_STATED, not a programme-certified full proof.",
+      "lower_bound": 64,
+      "upper_bound": 64
     },
     {
       "n": 23,
@@ -353,24 +371,24 @@
         "SRC-0003",
         "CLM-0039"
       ],
-      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here."
+      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here.",
+      "lower_bound": 67,
+      "upper_bound": 67
     },
     {
       "n": 24,
       "group": "C_24^3",
       "d_star": 70,
-      "provisional_status": "SANDWICHED",
-      "programme_certification": "PROGRAMME_DERIVED_INTERVAL_FROM_SOURCE_THEOREMS",
-      "reported_bound": "70..72",
+      "provisional_status": "SETTLED",
+      "programme_certification": "SOURCE_STATED_HISTORICAL_THEOREM",
+      "reported_bound": "70",
       "evidence": [
-        "CLM-0038",
-        "CLM-0047",
-        "CLM-0048",
-        "CLM-0049",
-        "CLM-0050",
-        "CLM-0051"
+        "CLM-0066",
+        "SRC-0002"
       ],
-      "notes": "3D(C8^3)+6 = 72; NOT 71. Not an exact determination; no published individual-n proof inferred from literature search."
+      "notes": "Exact by original report III Cor1.5 family VIII at n=3·2^a. SOURCE_STATED, not a programme-certified full proof.",
+      "lower_bound": 70,
+      "upper_bound": 70
     },
     {
       "n": 25,
@@ -384,24 +402,24 @@
         "SRC-0003",
         "CLM-0039"
       ],
-      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here."
+      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here.",
+      "lower_bound": 73,
+      "upper_bound": 73
     },
     {
       "n": 26,
       "group": "C_26^3",
       "d_star": 76,
-      "provisional_status": "SANDWICHED",
-      "programme_certification": "PROGRAMME_DERIVED_INTERVAL_FROM_SOURCE_THEOREMS",
-      "reported_bound": "76..77",
+      "provisional_status": "SETTLED",
+      "programme_certification": "SOURCE_STATED_HISTORICAL_THEOREM",
+      "reported_bound": "76",
       "evidence": [
-        "CLM-0038",
-        "CLM-0047",
-        "CLM-0048",
-        "CLM-0049",
-        "CLM-0050",
-        "CLM-0051"
+        "CLM-0065",
+        "SRC-0023"
       ],
-      "notes": "2D(C13^3)+3 = 77. Not an exact determination; no published individual-n proof inferred from literature search."
+      "notes": "Exact by original report II Cor4.3 at n=2p^a. SOURCE_STATED, not a programme-certified full proof.",
+      "lower_bound": 76,
+      "upper_bound": 76
     },
     {
       "n": 27,
@@ -415,7 +433,9 @@
         "SRC-0003",
         "CLM-0039"
       ],
-      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here."
+      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here.",
+      "lower_bound": 79,
+      "upper_bound": 79
     },
     {
       "n": 28,
@@ -423,16 +443,16 @@
       "d_star": 82,
       "provisional_status": "SANDWICHED",
       "programme_certification": "PROGRAMME_DERIVED_INTERVAL_FROM_SOURCE_THEOREMS",
-      "reported_bound": "82..85",
+      "reported_bound": "82..83",
       "evidence": [
         "CLM-0038",
-        "CLM-0047",
-        "CLM-0048",
         "CLM-0049",
-        "CLM-0050",
-        "CLM-0051"
+        "CLM-0065",
+        "SRC-0023"
       ],
-      "notes": "2D(C14^3)+3 <= 85. Not an exact determination; no published individual-n proof inferred from literature search."
+      "notes": "2·40+3=83; S002 doubling and historical D(C14³)=40. No exact value authenticated for this row in this bounded audit; no claim of openness.",
+      "lower_bound": 82,
+      "upper_bound": 83
     },
     {
       "n": 29,
@@ -446,7 +466,9 @@
         "SRC-0003",
         "CLM-0039"
       ],
-      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here."
+      "notes": "Exact by classical p-group theorem; theorem statement directly checked in primary GG 2006, proof not re-proved here.",
+      "lower_bound": 85,
+      "upper_bound": 85
     },
     {
       "n": 30,
@@ -454,16 +476,19 @@
       "d_star": 88,
       "provisional_status": "SANDWICHED",
       "programme_certification": "PROGRAMME_DERIVED_INTERVAL_FROM_SOURCE_THEOREMS",
-      "reported_bound": "88..93",
+      "reported_bound": "88..90",
       "evidence": [
         "CLM-0038",
-        "CLM-0047",
-        "CLM-0048",
-        "CLM-0049",
-        "CLM-0050",
-        "CLM-0051"
+        "CLM-0051",
+        "CLM-0065",
+        "SRC-0008",
+        "SRC-0023"
       ],
-      "notes": "min(2D(C15^3)+3,3D(C10^3)+6) <= 93. Not an exact determination; no published individual-n proof inferred from literature search."
+      "notes": "3·28+6=90; S002 tripling and historical D(C10³)=28. No exact value authenticated for this row in this bounded audit; no claim of openness.",
+      "lower_bound": 88,
+      "upper_bound": 90
     }
-  ]
+  ],
+  "recommended_phase2_target": null,
+  "first_interval_requiring_literature_review": 15
 }

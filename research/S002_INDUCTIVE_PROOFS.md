@@ -1,5 +1,7 @@
 # S002 — Inductive bounds, exact binary multiwise lemma, and corrected ternary route
 
+**S004 correction:** the inequalities in this historical proof remain valid, but the n=6 target recommendation below is superseded: published Schmid2011 Theorem4.1 gives D(C6³)=16, and original 1969 exact families improve several other rows. See [the current audit](S004_PRIMARY_PROOF_INPUTS.md) and frontier. No Phase-2 target is currently selected.
+
 ## Definitions and inputs
 
 A sequence is a finite multiset; nonempty zero-sum subsequences may repeat group elements at distinct positions. \(D_k(Q)\) is the smallest \(L\) for which every length-\(L\) sequence over \(Q\) contains \(k\) pairwise disjoint nonempty zero-sum subsequences. The classical Olson p-group identity \(D(C_{p^a}^3)=3p^a-2\) is **SOURCE_STATED**, not independently reproved. No inherited orbit count, software or numerical campaign is used.
@@ -38,7 +40,7 @@ Original Bhowmik–Schlage-Puchta SRC-0008/SRC-0019, Proposition 1, explicitly s
 \[
 D_2(C_3^3)=11,\qquad D_k(C_3^3)=3k+6\ (k\ge3).
 \]
-The same page also uses \(D^3\) for a *different* invariant (a zero sum of length three), which must not be confused with subscript \(D_3\). Thus \(D_3=15\), \(D_4=18\), **not** 14/17 (S001 inherited). Combining Lemma 1 and this **SOURCE_STATED** theorem, since \(D(C_m^3)\ge4\), proves the conditional-on-published-theorem deduction
+The same page also uses \(D^3\) for a *different* invariant (a zero sum of length **at most three**; wording corrected in S004), which must not be confused with subscript \(D_3\). Thus \(D_3=15\), \(D_4=18\), **not** 14/17 (S001 inherited). Combining Lemma 1 and this **SOURCE_STATED** theorem, since \(D(C_m^3)\ge4\), proves the conditional-on-published-theorem deduction
 \[
 D(C_{3m}^3)\le3D(C_m^3)+6\quad(m\ge2).
 \]
@@ -52,4 +54,4 @@ Suppose a length-16 sequence \(S\in C_6^3\) is zero-sumfree. If its reduction to
 
 For prime-power n, the source-stated Olson equality applies. For composite n≤30, repeatedly use doubling and tripling as above, always with the minimum available upper bound; the resulting intervals are listed in frontier/FRONTIER.md. These are deductions, not new exact evaluations or evidence that any composite n is currently an open problem in the external literature.
 
-**n=6 entry decision:** It is the first non-prime-power n and has a proved narrow interval 16..17; recommend as first Phase-2 tooling target **after Phase-1 PASS**, retaining CAM-0001 PROPOSED. The primary 2007 C3⊕C3⊕C3d result is for a different invariant-factor family and cannot decide C6^3. The inherited '5553' GL(3,3) skeleton-orbit claim has no reproduced evidence and must never be treated as a complete count.
+**Historical S002 n=6 entry decision (withdrawn in S004):** The 16..17 deduction led to a proposed first Phase-2 tooling target after Phase-1 PASS. S004 located exact historical D(C6³)=16 and withdrew that recommendation while retaining CAM-0001 PROPOSED / NOT RUNNING. The primary 2007 C3⊕C3⊕C3d result is for a different invariant-factor family. The inherited '5553' GL(3,3) skeleton-orbit claim has no reproduced evidence and must never be treated as a complete count.
