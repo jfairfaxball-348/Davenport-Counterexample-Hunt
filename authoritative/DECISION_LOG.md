@@ -29,3 +29,7 @@
 | 2026-10-11 | Original Reiher prime Property B and B⇒C citation chain identified; full dependency proof not independently closed | SRC-0025 p27; CLM-0074 | SOURCE_STATED |
 | 2026-10-11 | Published GHST Prop5.6 exact original code/output pointer located but artifacts uninspected; full Sheikh/Yiu evidence incomplete | SRC-0024 p17, S005 §4–6 | PROVENANCE UNVERIFIED |
 | 2026-10-11 | All 30 rows retained; 25 exact/trivial, five intervals do not imply openness; Phase1 gate held; no replacement target | S005 §7–8 | IN_PROGRESS / CAM-0001 BLOCKED / NO PHASE2/3 |
+
+| 2026-10-11 | S006 found one valid four-term repair to BSP2012 Lemma5.2's invalid printed p7 sum, CONDITIONAL on printed subcase multiplicities only | SRC-0021 p29; CLM-0073 and new CLM-0075 | LOCAL PROGRAMME_PROVED; FULL p7 PROOF UNVERIFIED |
+| 2026-10-11 | Preserve exact coefficient, other p7 cases, BSP2007 diagrams, Reiher/GG originals and GHST/Yiu computational source gaps; no source program run | S006 research audit §§1–6 | PHASE1 GATE HELD |
+| 2026-10-11 | All 30 rows unchanged; five intervals not asserted open; CAM-0001 obsolete n6 premise | S006 audit frontier, Schmid/1969 source values | PHASE1 IN_PROGRESS; PHASE2/3 NOT_STARTED |

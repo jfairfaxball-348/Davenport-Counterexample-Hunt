@@ -24,28 +24,29 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S005",
-  "recommended_next_session": "S006",
+  "last_completed_session": "S006",
+  "recommended_next_session": "S007",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": null,
   "phase1_target_status": "WITHHELD_NO_REPLACEMENT_CAMPAIGN",
   "open_blockers": [
-    "BSP2012 Lemma2.3 published p23 exact 3(p−1)/2 k-wise coefficient is not obtained from Lemma2.1 split (3p−1)/2. Weaker S004 conditional route proves only the local bound assuming eta.",
-    "BSP2012 Lemma5.2 pp29–30 p=7 proof contains false zero-sum 2(6,1)+(1,6)+(1,0)=(0,1) mod7 plus omitted cases/unclear subcase; Property B/C original p≥11 proof chain not fully reconstructed.",
-    "BSP2007 Proposition1/8 auxiliary diagrammatic classifications and full Sheikh2017 thesis Chapter4/Remark4.3.11 inaccessible; exactly-three and at-most-three remain distinct.",
-    "GHST2007 computational Proposition5.6 original advertised C53.html code/output URL identified but actual code and detailed output unverified; eta5 depends on this premise.",
-    "Yiu2609.04950 written proof inspected in S004; exact advertised code/logs/certificates for M1/M2/M3 not located or independently checked.",
-    "Historical Schmid2011, 1969 II/III exact-family omitted/auxiliary proof dependencies not fully reconstructed; current exact literature for n15,20,21,28,30 not authenticated; no openness asserted."
+    "BSP2012 printed Lemma2.3 p23 shorter coefficient 3(p−1)/2 unproved; CLM-0068 is conditional on eta and classical inputs.",
+    "BSP2012 printed pp29–30 p7 false sum repaired in precisely one conditional subcase CLM-0075, but without-loss reductions and omitted cases incomplete; eta7 not independently certified.",
+    "Original Reiher B=>GG Theorem10.7 C proof and BSP p≥11 plane-averaging chain only source-stated/not fully reconstructed.",
+    "BSP2007 Prop1/8 diagrams and classification unclosed; full Sheikh2017 Chapter4 inaccessible; exactly-three/at-most-three distinct.",
+    "GHST2007 Proposition5.6 historical C53 code/output inaccessible; no source computational certificate.",
+    "Yiu2609.04950 M1 final predicate not independently corroborated by repeated generators; M2/M3 distinct author reimplementations, no verified ancillary bytes.",
+    "Schmid2011 and original 1969 families source-stated exact with incomplete long proof chains; no newly authenticated primary exact result for interval n15,20,21,28,30 and no openness claim."
   ],
   "gate_ledger": "docs/PHASE_GATE_LEDGER.md",
   "source_snapshot": "2026-10-11",
   "warnings": [
-    "Published Schmid2011 D(C6³)=16 and original 1969 2p^a and 3·2^a exact families remain source-stated; CAM-0001 activation blocked.",
-    "25 source-exact/trivial frontier rows; five conditional intervals n15 43..45, n20 58..59, n21 61..63, n28 82..83, n30 88..90; no openness inferred.",
-    "S005 identified p7 arithmetic failure in published Lemma5.2; this is a local proof defect, not a refutation of its conclusion.",
-    "Exact and at-most-three hypotheses, multiwise 15/18 vs superscript threshold 17, old 14/17 +5 and inherited 43/699/5553 remain distinct/quarantined.",
-    "No GitHub workflow files, Actions runs, check runs or jobs observed; combined status pending with zero statuses is not CI PASS. Administrative validation only."
+    "S006 local p7 repair only CLM-0075; complete Lemma5.2 remains unproved here.",
+    "25 exact/trivial source rows and five conditional intervals preserved; n6=16.",
+    "Inherited 14/17, tripling +5, 43/699/5553 quarantined.",
+    "CAM-0001 proposed not running and activation blocked; no replacement, Phase2/3 not started.",
+    "No Actions workflows/runs/jobs/check-runs; administrative validation is not hosted CI PASS."
   ],
   "first_interval_requiring_literature_review": 15,
   "owner_action_blockers": []

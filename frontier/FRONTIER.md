@@ -1,6 +1,6 @@
-# Frontier after S005
+# Frontier after S006
 
-S005 source-only audit independently rechecks S004's corrected 30 rows. No endpoint changes: source-exact families supersede older nonsharp intervals, with no programme certificate inferred. Five conditional interval entries do not assert openness. Phase1 IN_PROGRESS; no Phase2 target selected.
+S006 source-only audit confirms the previously corrected 30 rows. No endpoint changes: source-exact families supersede older nonsharp intervals, with no programme certificate inferred. Five conditional interval entries do not assert openness. Phase1 IN_PROGRESS; no Phase2 target selected.
 
 **D(C6³)=16 is already a source-stated exact theorem.** CAM-0001 remains PROPOSED / NOT RUNNING with its premise obsolete. No Phase-2 target is selected. n=15 is the first interval requiring further literature review, not a declaration of openness.
 
@@ -77,3 +77,7 @@ Complete source pages, formula hypotheses, all 30 applications, and proof gaps: 
 ## S005 follow-through
 
 [Primary source and case/provenance audit](../research/S005_REMAINING_PROOF_OBLIGATIONS.md): the full 30-row bounds above are unchanged. Published Lemma5.2 contains a local nonzero alleged sum in its p7 proof; this affects verification of a large-prime auxiliary theorem, not any already-source-stated exact frontier row. Original rank-two Property B/C chain identified. Targeted searches for n=15,20,21,28,30 did not establish a new exact result; absence is not a claim of openness. No campaign was selected.
+
+## S006 source-proof follow-through
+
+No endpoint changes. S006 repairs ONE printed BSP2012 p7 conditional subcase (CLM-0075) but does not prove the full p7 lemma or exact stronger coefficient. The published Schmid2011 n6=16 and van Emde Boas II/III exact families retain SOURCE_STATED values despite incomplete long proof reconstructions. Targeted n15/20/21/28/30 primary-result checks found no additional independently authenticated exact value in this bounded pass; these intervals must NOT be called presently open. Phase1 IN_PROGRESS, Phase2/3 NOT_STARTED, CAM-0001 proposed/not running with activation blocked; see [S006 audit](../research/S006_COEFFICIENT_P7_PROVENANCE.md).

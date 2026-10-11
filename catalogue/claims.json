@@ -763,6 +763,17 @@
         "SRC-0021"
       ],
       "notes": "Primary source statement and dependency path read, not a new independent verification of every Reiher or Gao–Geroldinger proof step or the full p≥11 large-exponent deduction."
+    },
+    {
+      "id": "CLM-0075",
+      "statement": "In the printed BSP2012 Lemma5.2 p7 subcase where (6,1) occurs twice and (2,4),(0,1) occur, 2(6,1)+(2,4)+(0,1)=(14,7)=0 mod 7 repairs a single false displayed zero-sum contradiction, not the whole lemma.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S006_COEFFICIENT_P7_PROVENANCE.md section New bounded p=7",
+      "source_ids": [
+        "SRC-0021"
+      ],
+      "notes": "Direct conditional four-term symbolic calculation; other subcases, earlier normalizations and eta7 unresolved. See false printed sum CLM-0073."
     }
   ]
 }

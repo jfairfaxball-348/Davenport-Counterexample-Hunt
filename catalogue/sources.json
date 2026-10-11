@@ -141,7 +141,7 @@
       "url": "https://arxiv.org/abs/2609.04950",
       "access": "PROOF_INSPECTED",
       "accessed": "2026-10-11",
-      "notes": "S004 read 13-page v1 written proof (4 Sep2026): author claims D4(C5³)=30, Dk=5k+10 k≥2. Computational premises remain unverified here: M1 final predicate single implementation, M2 repeated according to author. Both downloaded source archives contain five TeX/bibliography files and no code/log/ancillary folder; manifest records exact hash/list. No code run or programme exact computation/certificate. S005 targeted public code/log/certificate searches did not locate a verified artifact; absence from retrieved bundles is not global absence."
+      "notes": "S004 read 13-page v1 written proof (4 Sep2026): author claims D4(C5³)=30, Dk=5k+10 k≥2. Computational premises remain unverified here: M1 final predicate single implementation, M2 repeated according to author. Both downloaded source archives contain five TeX/bibliography files and no code/log/ancillary folder; manifest records exact hash/list. No code run or programme exact computation/certificate. S005 targeted public code/log/certificate searches did not locate a verified artifact; absence from retrieved bundles is not global absence. S006 distinguishes M1 final predicate from author-replicated generators and M2/M3 short-threshold predicates; exact ancillary bytes not verified."
     },
     {
       "id": "SRC-0016",
@@ -195,7 +195,7 @@
       "url": "https://pro.univ-lille.fr/fileadmin/user_upload/pages_pros/gautami_bhowmik/Publications/large_exponent.pdf",
       "access": "PROOF_INSPECTED",
       "accessed": "2026-10-11",
-      "notes": "Published Contemporary Mathematics 579 pp.21–31, DOI10.1090/conm/579/11515. Selected rank-three proofs pp.22–24,28–30 inspected. Thm1.2(3) includes p≥7. Lem2.1 statement (3p−1)/2 versus proof 3(p−1)/2, Lem2.3 omitted rank3 proof; p7 Lem5.2 cases not closed. Definitive version replaces draft as proof target. S005 independently finds on printed p.29 that 2(6,1)+(1,6)+(1,0)=(0,1) mod7, not a zero sum; p7 case unresolved."
+      "notes": "Published Contemporary Mathematics 579 pp.21–31, DOI10.1090/conm/579/11515. Selected rank-three proofs pp.22–24,28–30 inspected. Thm1.2(3) includes p≥7. Lem2.1 statement (3p−1)/2 versus proof 3(p−1)/2, Lem2.3 omitted rank3 proof; p7 Lem5.2 cases not closed. Definitive version replaces draft as proof target. S005 independently finds on printed p.29 that 2(6,1)+(1,6)+(1,0)=(0,1) mod7, not a zero sum; p7 case unresolved. S006 confirms that one invalid printed p7 contradiction has a valid restricted replacement CLM-0075; all other cases and stronger coefficient unclosed."
     },
     {
       "id": "SRC-0022",
@@ -222,7 +222,7 @@
       "url": "https://doi.org/10.5281/zenodo.8281159",
       "access": "PROOF_INSPECTED",
       "accessed": "2026-10-11",
-      "notes": "Integers7 A21, journal-linked archival PDF. Thm1.7 p.4 gives eta(Cn³)=8n−7 for n=3^a5^b. Selected proof pp.16–17 via Prop5.5/5.6 inspected: computational base s(C5³)=37 and PropertyD. No program execution/certification; eta5=33 remains source theorem. S005 identifies published pp.16–17 original full code/output pointer http://www.combinatorics.net.cn/homepage/hou/C53.html, which could not be inspected."
+      "notes": "Integers7 A21, journal-linked archival PDF. Thm1.7 p.4 gives eta(Cn³)=8n−7 for n=3^a5^b. Selected proof pp.16–17 via Prop5.5/5.6 inspected: computational base s(C5³)=37 and PropertyD. No program execution/certification; eta5=33 remains source theorem. S005 identifies published pp.16–17 original full code/output pointer http://www.combinatorics.net.cn/homepage/hou/C53.html, which could not be inspected. S006 C53.html original full code and output remain uninspected."
     },
     {
       "id": "SRC-0025",
@@ -231,7 +231,7 @@
       "url": "https://www.math.uni-rostock.de/math/pub/preprints/preprint/2010/pre10_01.pdf",
       "access": "PROOF_INSPECTED",
       "accessed": "2026-10-11",
-      "notes": "Original 29-page Reiher thesis/paper; title/abstract and printed p.27 consulted. Establishes prime Property B and expressly invokes Gao–Geroldinger Theorem10.7 for B⇒C, giving every prime Property C. Full proof chain and that separate original theorem not independently reconstructed in S005."
+      "notes": "Original 29-page Reiher thesis/paper; title/abstract and printed p.27 consulted. Establishes prime Property B and expressly invokes Gao–Geroldinger Theorem10.7 for B⇒C, giving every prime Property C. Full proof chain and that separate original theorem not independently reconstructed in S005. S006 reads theorem10.2 and printed p27 B⇒C citation, not full dependency proof."
     }
   ]
 }

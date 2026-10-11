@@ -1,0 +1,34 @@
+{
+  "session": "S006",
+  "entry_main": "74709bdbb431416d62bc0b9e75119abc3e49d520",
+  "prior_s005_branch": "session/S005-remaining-proof-obligations",
+  "prior_s005_head": "05cc653a92ba8bb53e8ee4202fca73bea88c73e5",
+  "prior_head_parent": "6e10e9401c32e8a0f81ec7a1f1ea70f307d10d40",
+  "prior_pr": 5,
+  "prior_pr_commits": 1,
+  "prior_merge": "74709bdbb431416d62bc0b9e75119abc3e49d520",
+  "prior_merge_parents": [
+    "6e10e9401c32e8a0f81ec7a1f1ea70f307d10d40",
+    "05cc653a92ba8bb53e8ee4202fca73bea88c73e5"
+  ],
+  "prior_tree": "7e65ca5fa2eeaaaf09ed6e741a43629ce4482b24",
+  "prior_prs": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "open_prs": 0,
+  "competing_s006": false,
+  "protected_main": false,
+  "rulesets": [],
+  "workflow_yaml_files": 0,
+  "workflows_list_api": "unavailable",
+  "github_actions_runs": 0,
+  "github_actions_jobs": 0,
+  "head_check_runs": 0,
+  "main_check_runs": 0,
+  "main_combined_status": "pending (zero actual status contexts)",
+  "ci_pass_claimed": false
+}
