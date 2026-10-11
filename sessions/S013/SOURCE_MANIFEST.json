@@ -1,0 +1,140 @@
+{
+  "session": "S013",
+  "primary_source_only": true,
+  "downloads": {
+    "bsp2012": {
+      "url": "https://pro.univ-lille.fr/fileadmin/user_upload/pages_pros/gautami_bhowmik/Publications/large_exponent.pdf",
+      "http": 200,
+      "bytes": 222330,
+      "sha256": "7fb4c6cf7e9a88dbb84cb1d6c0fb3ffc9f66c905a72fb4202bf5db22f0698fa6"
+    },
+    "bsp2007": {
+      "url": "https://www.mathematik.uni-rostock.de/storages/uni-rostock/Alle_MNF/Mathematik/Struktur/Lehrstuehle/Algebra/papers/Davenport333d.pdf",
+      "http": 200,
+      "bytes": 231446,
+      "sha256": "5454c753ab743bb7e533133b6297166e241f213cf85c8b8044cb3c43bc6f3f33"
+    },
+    "reiher": {
+      "url": "https://www.math.uni-rostock.de/math/pub/preprints/preprint/2010/pre10_01.pdf",
+      "http": 200,
+      "bytes": 289379,
+      "sha256": "7d94931bcbf8fb4ce77c0ed94206659df74e8cb5543e1615e7dde23e86b994d8"
+    },
+    "sheikh": {
+      "url": "https://pure.royalholloway.ac.uk/files/28262990/The_Davenport_Constant_of_Finite_Abelian_Groups.pdf",
+      "http": 403,
+      "bytes": 6274,
+      "sha256": "cb9a75f4094ed6fc38d4762c8bcf4af0829e848e4e0ff34b9add8bdf2ab3b110"
+    },
+    "ghst": {
+      "url": "https://www.math.univ-paris13.fr/~schmid/personal/schmid_16.pdf",
+      "http": 200,
+      "bytes": 366103,
+      "sha256": "cfc774e91bf0b3099808b4c6336a8cc3607aaafb0dd9d623f74aeb8ed774eb0a"
+    },
+    "ghst_code": {
+      "url": "https://www.combinatorics.net.cn/homepage/hou/C53.html",
+      "error": "The read operation timed out"
+    },
+    "yiu_src": {
+      "url": "https://arxiv.org/src/2609.04950v1",
+      "http": 200,
+      "bytes": 16680,
+      "sha256": "99dc658b3381038fe0c7b2f89145c52a9687e185883cf2a6fdcc0cb8860b1e21"
+    },
+    "schmid": {
+      "url": "https://www.combinatorics.org/ojs/index.php/eljc/article/download/v18i1p33/pdf/",
+      "http": 200,
+      "bytes": 409015,
+      "sha256": "1bdb76f402504d214cf9e110247ead8182bb60af2978f145b736767e3b4cfb24"
+    },
+    "vembII": {
+      "url": "https://ir.cwi.nl/pub/7240/7240D.pdf",
+      "http": 200,
+      "bytes": 3254717,
+      "sha256": "c2710d7632716bc617c2e1d4fff359129d08c3a1819b281f97a564dcf2abf330"
+    },
+    "vembIII": {
+      "url": "https://ir.cwi.nl/pub/7217/7217D.pdf",
+      "http": 200,
+      "bytes": 1750096,
+      "sha256": "89daee24be85e50490a44ea5c0437f622a2c2c2ba7ea5bb23b8f75d0a1b3a955"
+    },
+    "olsonII": {
+      "url": "https://www.sciencedirect.com/science/article/pii/0022314X69900377/pdfft?isDTMRedir=true&download=true",
+      "http": 200,
+      "bytes": 195,
+      "sha256": "5b131ca14aa96311d3432b0062c7443d3b0e6346ec279bd376a75f0a76bcd5d7"
+    },
+    "gg1999": {
+      "url": "https://geroldinger-0836a9.gitlab.io/38.long-minimal-zero-sequences.pdf",
+      "http": 200,
+      "bytes": 1147605,
+      "sha256": "a60f6192235fa25ac9161dbb689032de1c67d0d8684e3c703cb469f8681ee42f"
+    },
+    "gao1997": {
+      "url": "https://matwbn.icm.edu.pl/ksiazki/cm/cm72/cm7225.pdf",
+      "http": 200,
+      "bytes": 237176,
+      "sha256": "1f5bae7d704ab911400bc1398289fa9108f959cd1ae4506d65e890d7a0694ab3",
+      "pages": 18,
+      "scope": "original Lemmas5–7 pp253–255; general theorem not independently proved"
+    }
+  },
+  "yiu_v1_members": [
+    {
+      "name": "00README.json",
+      "bytes": 300,
+      "sha256": "2054377ceae65b62834117034d6d97c2ca4e9e1a5c91dd827ff4f38dd8346fed"
+    },
+    {
+      "name": "bibliography.bib",
+      "bytes": 3559,
+      "sha256": "0da58208fa1d95d8c0e3367f2541ef1abebb10cd5de4b6ec3a7aa5ae3cdf84bc"
+    },
+    {
+      "name": "body.tex",
+      "bytes": 43822,
+      "sha256": "a1feed128940c23f1a01375c78029042617de45de0b4a0e0b1263f00b366189a"
+    },
+    {
+      "name": "main.tex",
+      "bytes": 634,
+      "sha256": "d461fe787690e0132b91d814facbad4efd46d58cb1be04ac0e9ee44387b5dd02"
+    },
+    {
+      "name": "preamble.tex",
+      "bytes": 1028,
+      "sha256": "0f8695abcf306b7f9e1cf21181dab5ed782bb94b4296c41b28c94b7c4f52ae21"
+    }
+  ],
+  "original_GG_pages": "185,203–208,209–210",
+  "original_GG_authentication": "coauthor publications item38 and exact matching scan hash",
+  "original_OlsonII_body_read": false,
+  "required_rank_two_Olson_statements_independently_proved": true,
+  "source_expansion_stop": "Reiher unconditional Property B: Lem7.2 imports unrebuilt Prop4.1 strategic-equation package, Cor2.5 and Obs7.1. Later nodes inspected only.",
+  "reiher_inspection": "Thm10.2, Lem7.2,9.2,9.6, Cor2.5, Props4.1,5.1,6.2,8.1,10.1; full chain not independently rebuilt",
+  "sheikh_s013": "FRESH_HTTP403_FORBIDDEN",
+  "sheikh_prior": {
+    "S012": "HTTP403",
+    "S011": "HTTP403",
+    "S010": "HTTP403",
+    "S009": "INTERNAL_FETCH_ERROR"
+  },
+  "ghst_original_c53_code_read": false,
+  "ghst_original_c53_output_read": false,
+  "yiu_final_test_independently_certified": false,
+  "author_code_executed": false,
+  "mathematical_numerical_searches": 0,
+  "all_30_frontier_rows_checked": true,
+  "focused_intervals": [
+    15,
+    20,
+    21,
+    28,
+    30
+  ],
+  "literature_query_limit": "Bounded queries; no authenticated new exact statement. Literal C_{n} queries frequently irrelevant; no completeness/open-status inference.",
+  "bounded_pass_complete": true,
+  "copyrighted_full_sources_committed": false
+}

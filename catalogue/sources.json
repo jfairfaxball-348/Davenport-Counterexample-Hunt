@@ -24,7 +24,7 @@
       "url": "https://ir.cwi.nl/pub/7217/7217D.pdf",
       "access": "PROOF_INSPECTED",
       "accessed": "2026-10-11",
-      "notes": "Original CWI 1969 report, replacing unverified pub/12899 pointer. Lemma1.3, Theorem1.4 and Corollary1.5 family VIII read: exact D for rank-three 3 times powers of 2. Printed pp.4–5,12–14 / PDF pp.6–7,14–16; earlier computational lemma and structural sketches not independently certified. S012 originalIII Cor1.5VIII rank-three3*2^a statement rechecked for n6,12,24, historical long proof not rebuilt."
+      "notes": "Original CWI 1969 report, replacing unverified pub/12899 pointer. Lemma1.3, Theorem1.4 and Corollary1.5 family VIII read: exact D for rank-three 3 times powers of 2. Printed pp.4–5,12–14 / PDF pp.6–7,14–16; earlier computational lemma and structural sketches not independently certified. S012 originalIII Cor1.5VIII rank-three3*2^a statement rechecked for n6,12,24, historical long proof not rebuilt. S013 original III exact3·2^a source family retained; no whole historical proof certification."
     },
     {
       "id": "SRC-0003",
@@ -78,7 +78,7 @@
       "url": "https://www.mathematik.uni-rostock.de/storages/uni-rostock/Alle_MNF/Mathematik/Struktur/Lehrstuehle/Algebra/papers/Davenport333d.pdf",
       "access": "PROOF_INSPECTED",
       "accessed": "2026-10-11",
-      "notes": "S004 read Prop.1 p.3 and Prop.8 pp.10–11 and associated definitions. D3=15,D4=18 are multiwise; superscript D³=17 is at most three. Earlier diagrammatic cases incompletely checked. Sheikh Remark4.3.11 addresses a later exactly-three claim, not the earlier at-most-three hypothesis; see S004 audit. S012 original Prop1/8 and diagram proof audit retained. Multiplicity2+3kappa allows only kappa monochromatic triples, total k-3; restricted arithmetic reconciliation not complete classification/upper induction."
+      "notes": "S004 read Prop.1 p.3 and Prop.8 pp.10–11 and associated definitions. D3=15,D4=18 are multiwise; superscript D³=17 is at most three. Earlier diagrammatic cases incompletely checked. Sheikh Remark4.3.11 addresses a later exactly-three claim, not the earlier at-most-three hypothesis; see S004 audit. S012 original Prop1/8 and diagram proof audit retained. Multiplicity2+3kappa allows only kappa monochromatic triples, total k-3; restricted arithmetic reconciliation not complete classification/upper induction. S013 original Prop1/8 and diagram pages inspected; full classification/upper induction not independently proved; k−3 restricted arithmetic only."
     },
     {
       "id": "SRC-0009",
@@ -123,7 +123,7 @@
       "url": "https://pure.royalholloway.ac.uk/en/publications/the-davenport-constant-of-finite-abelian-groups/",
       "access": "STATEMENT_INSPECTED",
       "accessed": "2026-10-11",
-      "notes": "Original university-indexed Chapter4 opening and Remark4.3.11 p.41 inspected; full thesis PDF/file variants HTTP403, full Chapter4 NOT read. Remark concerns exactly-three-free length16 assertion on BSP p.19; its example has a zero-sum pair and does not refute the distinct at-most-three-free Proposition8 step. SRC-0013 and SRC-0020 identify the same thesis. S005 full Chapter4 access still HTTP403; 2016 seminar slide PDF is not the doctoral thesis. S011 fresh official full thesis HTTP403, full Chapter4 unread, separate from S010403 and S009 internal error. S012 fresh official full137-page PDF HTTP403, distinct from S011403/S010403/S009 internal fetch error. Chapter4/Remark4.3.11 unread; exactly-three-free does not imply at-most-three-free."
+      "notes": "Original university-indexed Chapter4 opening and Remark4.3.11 p.41 inspected; full thesis PDF/file variants HTTP403, full Chapter4 NOT read. Remark concerns exactly-three-free length16 assertion on BSP p.19; its example has a zero-sum pair and does not refute the distinct at-most-three-free Proposition8 step. SRC-0013 and SRC-0020 identify the same thesis. S005 full Chapter4 access still HTTP403; 2016 seminar slide PDF is not the doctoral thesis. S011 fresh official full thesis HTTP403, full Chapter4 unread, separate from S010403 and S009 internal error. S012 fresh official full137-page PDF HTTP403, distinct from S011403/S010403/S009 internal fetch error. Chapter4/Remark4.3.11 unread; exactly-three-free does not imply at-most-three-free. S013 fresh official full thesis HTTP403 (6274-byte HTML); Chapter4 unread, separately from S012/S011/S010403 and S009 internal error."
     },
     {
       "id": "SRC-0014",
@@ -141,7 +141,7 @@
       "url": "https://arxiv.org/abs/2609.04950",
       "access": "PROOF_INSPECTED",
       "accessed": "2026-10-11",
-      "notes": "S004 read 13-page v1 written proof (4 Sep2026): author claims D4(C5³)=30, Dk=5k+10 k≥2. Computational premises remain unverified here: M1 final predicate single implementation, M2 repeated according to author. Both downloaded source archives contain five TeX/bibliography files and no code/log/ancillary folder; manifest records exact hash/list. No code run or programme exact computation/certificate. S005 targeted public code/log/certificate searches did not locate a verified artifact; absence from retrieved bundles is not global absence. S006 distinguishes M1 final predicate from author-replicated generators and M2/M3 short-threshold predicates; exact ancillary bytes not verified. S011 M1 singly implemented final three-disjoint predicate still not independently reproduced; M2/M3 predicates distinct and full source/logs unauthenticated. S012 originalv1 source archive downloaded read-only HTTP200, 16680 bytes SHA25699dc658b3381038fe0c7b2f89145c52a9687e185883cf2a6fdcc0cb8860b1e21. Five members are README/TeX/bibliography, no implementation/log/certificate. M1 repeats generators/extensions, not final three-disjoint test. M2s<=6=24/M3s<=7=19 different predicates. No author code execution, no global nonexistence inference."
+      "notes": "S004 read 13-page v1 written proof (4 Sep2026): author claims D4(C5³)=30, Dk=5k+10 k≥2. Computational premises remain unverified here: M1 final predicate single implementation, M2 repeated according to author. Both downloaded source archives contain five TeX/bibliography files and no code/log/ancillary folder; manifest records exact hash/list. No code run or programme exact computation/certificate. S005 targeted public code/log/certificate searches did not locate a verified artifact; absence from retrieved bundles is not global absence. S006 distinguishes M1 final predicate from author-replicated generators and M2/M3 short-threshold predicates; exact ancillary bytes not verified. S011 M1 singly implemented final three-disjoint predicate still not independently reproduced; M2/M3 predicates distinct and full source/logs unauthenticated. S012 originalv1 source archive downloaded read-only HTTP200, 16680 bytes SHA25699dc658b3381038fe0c7b2f89145c52a9687e185883cf2a6fdcc0cb8860b1e21. Five members are README/TeX/bibliography, no implementation/log/certificate. M1 repeats generators/extensions, not final three-disjoint test. M2s<=6=24/M3s<=7=19 different predicates. No author code execution, no global nonexistence inference. S013 originalv1 abstract/source archive read-only matches S012 16680-byte SHA25699dc658b3381038fe0c7b2f89145c52a9687e185883cf2a6fdcc0cb8860b1e21 and five members; no implementation/log/certificate among retrieved members. M1 repeated generators not final predicate; M2/M3 differ. No code execution or global absence claim."
     },
     {
       "id": "SRC-0016",
@@ -177,7 +177,7 @@
       "url": "https://www.mathematik.uni-rostock.de/storages/uni-rostock/Alle_MNF/Mathematik/Struktur/Lehrstuehle/Algebra/papers/Davenport333d.pdf",
       "access": "PROOF_INSPECTED",
       "accessed": "2026-10-11",
-      "notes": "Duplicate identifier for the identical primary PDF SRC-0008; stable ID retained. Selected Prop.1/8 written proofs inspected. Full auxiliary diagrammatic cases not independently closed. Superscript D³ means at most three. S012 D3=15,D4=18 subscript multiwise stays distinct from superscript at-most-three threshold17; no full diagrammatic proof upgrade."
+      "notes": "Duplicate identifier for the identical primary PDF SRC-0008; stable ID retained. Selected Prop.1/8 written proofs inspected. Full auxiliary diagrammatic cases not independently closed. Superscript D³ means at most three. S012 D3=15,D4=18 subscript multiwise stays distinct from superscript at-most-three threshold17; no full diagrammatic proof upgrade. S013 subscript15/18 distinguished from superscript at-most-three17; diagrams not fully reconstructed."
     },
     {
       "id": "SRC-0020",
@@ -186,7 +186,7 @@
       "url": "https://pure.royalholloway.ac.uk/en/publications/the-davenport-constant-of-finite-abelian-groups/",
       "access": "STATEMENT_INSPECTED",
       "accessed": "2026-10-11",
-      "notes": "Original university-indexed Chapter4 opening and Remark4.3.11 p.41 inspected; full thesis PDF/file variants HTTP403, full Chapter4 NOT read. Remark concerns exactly-three-free length16 assertion on BSP p.19; its example has a zero-sum pair and does not refute the distinct at-most-three-free Proposition8 step. SRC-0013 and SRC-0020 identify the same thesis. S011 fresh official PDF HTTP403, no Chapter4 access, exactly-three-free distinct from at-most-three-free. S012 fresh official full thesis HTTP403; later exactly-three warning cannot be substituted for at-most-three premise."
+      "notes": "Original university-indexed Chapter4 opening and Remark4.3.11 p.41 inspected; full thesis PDF/file variants HTTP403, full Chapter4 NOT read. Remark concerns exactly-three-free length16 assertion on BSP p.19; its example has a zero-sum pair and does not refute the distinct at-most-three-free Proposition8 step. SRC-0013 and SRC-0020 identify the same thesis. S011 fresh official PDF HTTP403, no Chapter4 access, exactly-three-free distinct from at-most-three-free. S012 fresh official full thesis HTTP403; later exactly-three warning cannot be substituted for at-most-three premise. S013 fresh HTTP403; no full Chapter4 access; exactly-three-free is distinct."
     },
     {
       "id": "SRC-0021",
@@ -195,7 +195,7 @@
       "url": "https://pro.univ-lille.fr/fileadmin/user_upload/pages_pros/gautami_bhowmik/Publications/large_exponent.pdf",
       "access": "PROOF_INSPECTED",
       "accessed": "2026-10-11",
-      "notes": "Published Contemporary Mathematics 579 pp.21–31, DOI10.1090/conm/579/11515. Selected rank-three proofs pp.22–24,28–30 inspected. Thm1.2(3) includes p≥7. Lem2.1 statement (3p−1)/2 versus proof 3(p−1)/2, Lem2.3 omitted rank3 proof; p7 Lem5.2 cases not closed. Definitive version replaces draft as proof target. S005 independently finds on printed p.29 that 2(6,1)+(1,6)+(1,0)=(0,1) mod7, not a zero sum; p7 case unresolved. S006 confirms that one invalid printed p7 contradiction has a valid restricted replacement CLM-0075; all other cases and stronger coefficient unclosed. S011 CLM-0083 now independently proves ONLY the downstream six-line doubly repeated x+y in <z> geometric existence inference; next forbidden doubled triple (1,0),(0,1),(2,2) and t1/2/4 remain unproved. S012 definitive pp22–23/29–30 re-read. Complete new Lem5.2 hand proof CLM-0084–0087. Printed false sum still false; exact stronger coefficient remains unproved; rank-three averaging audited only conditional on original rank-two eta/Property C."
+      "notes": "Published Contemporary Mathematics 579 pp.21–31, DOI10.1090/conm/579/11515. Selected rank-three proofs pp.22–24,28–30 inspected. Thm1.2(3) includes p≥7. Lem2.1 statement (3p−1)/2 versus proof 3(p−1)/2, Lem2.3 omitted rank3 proof; p7 Lem5.2 cases not closed. Definitive version replaces draft as proof target. S005 independently finds on printed p.29 that 2(6,1)+(1,6)+(1,0)=(0,1) mod7, not a zero sum; p7 case unresolved. S006 confirms that one invalid printed p7 contradiction has a valid restricted replacement CLM-0075; all other cases and stronger coefficient unclosed. S011 CLM-0083 now independently proves ONLY the downstream six-line doubly repeated x+y in <z> geometric existence inference; next forbidden doubled triple (1,0),(0,1),(2,2) and t1/2/4 remain unproved. S012 definitive pp22–23/29–30 re-read. Complete new Lem5.2 hand proof CLM-0084–0087. Printed false sum still false; exact stronger coefficient remains unproved; rank-three averaging audited only conditional on original rank-two eta/Property C. S013 complete S012 Lem5.2 preserved. Rank-two eta independently proved; rank-three plane argument now conditional on Property B via complete B=>C implication. Stronger 3(p−1)/2 coefficient still unproved."
     },
     {
       "id": "SRC-0022",
@@ -204,7 +204,7 @@
       "url": "https://www.combinatorics.org/ojs/index.php/eljc/article/download/v18i1p33/pdf/",
       "access": "PROOF_INSPECTED",
       "accessed": "2026-10-11",
-      "notes": "Published E-JC18 P33. Thm4.1 p.27 gives D(C6²⊕C6t)=D* for every t≥1, hence D(C6³)=16. Proof pp.27–29 inspected, depends on structural Thm3.13 and omitted subsum cases. Intro corroborates older exact 2p^a and 3·2^a families. SOURCE_STATED exact result, not full programme proof. S012 original Thm4.1(2) n6=16 statement rechecked; source-exact not whole historic proof certified."
+      "notes": "Published E-JC18 P33. Thm4.1 p.27 gives D(C6²⊕C6t)=D* for every t≥1, hence D(C6³)=16. Proof pp.27–29 inspected, depends on structural Thm3.13 and omitted subsum cases. Intro corroborates older exact 2p^a and 3·2^a families. SOURCE_STATED exact result, not full programme proof. S012 original Thm4.1(2) n6=16 statement rechecked; source-exact not whole historic proof certified. S013 original Thm4.1(2) n6=16 statement rechecked; whole historic proof not certified."
     },
     {
       "id": "SRC-0023",
@@ -213,7 +213,7 @@
       "url": "https://ir.cwi.nl/pub/7240/7240D.pdf",
       "access": "PROOF_INSPECTED",
       "accessed": "2026-10-11",
-      "notes": "Original report: Theorem4.2 printed pp.33–35 / PDF35–37, Cor4.3 printed35/PDF37 gives D=D* for rank3 doubled p-groups. Selected proof and cited Thm2.8 ν input inspected; entire original proof chain not independently reconstructed. S012 originalII Cor4.3 rank-three2p^a exact-family statement rechecked for n6,10,14,18,22,26, historical long proof not rebuilt."
+      "notes": "Original report: Theorem4.2 printed pp.33–35 / PDF35–37, Cor4.3 printed35/PDF37 gives D=D* for rank3 doubled p-groups. Selected proof and cited Thm2.8 ν input inspected; entire original proof chain not independently reconstructed. S012 originalII Cor4.3 rank-three2p^a exact-family statement rechecked for n6,10,14,18,22,26, historical long proof not rebuilt. S013 original II exact2p^a source family retained; no whole historical proof certification."
     },
     {
       "id": "SRC-0024",
@@ -222,7 +222,7 @@
       "url": "https://doi.org/10.5281/zenodo.8281159",
       "access": "PROOF_INSPECTED",
       "accessed": "2026-10-11",
-      "notes": "Integers7 A21, journal-linked archival PDF. Thm1.7 p.4 gives eta(Cn³)=8n−7 for n=3^a5^b. Selected proof pp.16–17 via Prop5.5/5.6 inspected: computational base s(C5³)=37 and PropertyD. No program execution/certification; eta5=33 remains source theorem. S005 identifies published pp.16–17 original full code/output pointer http://www.combinatorics.net.cn/homepage/hou/C53.html, which could not be inspected. S006 C53.html original full code and output remain uninspected. S011 original C53.html code and output remain unauthenticated and unexecuted. S012 original Prop5.6 and printed historical C53.html code/output pointer read; current resolved source inaccessible, authentic original code AND output uninspected. No execution."
+      "notes": "Integers7 A21, journal-linked archival PDF. Thm1.7 p.4 gives eta(Cn³)=8n−7 for n=3^a5^b. Selected proof pp.16–17 via Prop5.5/5.6 inspected: computational base s(C5³)=37 and PropertyD. No program execution/certification; eta5=33 remains source theorem. S005 identifies published pp.16–17 original full code/output pointer http://www.combinatorics.net.cn/homepage/hou/C53.html, which could not be inspected. S006 C53.html original full code and output remain uninspected. S011 original C53.html code and output remain unauthenticated and unexecuted. S012 original Prop5.6 and printed historical C53.html code/output pointer read; current resolved source inaccessible, authentic original code AND output uninspected. No execution. S013 fresh original Prop5.6 pp16–17 read; original HTTPS C53 code/output request timed out; neither authenticated nor executed."
     },
     {
       "id": "SRC-0025",
@@ -231,7 +231,7 @@
       "url": "https://www.math.uni-rostock.de/math/pub/preprints/preprint/2010/pre10_01.pdf",
       "access": "PROOF_INSPECTED",
       "accessed": "2026-10-11",
-      "notes": "Original 29-page Reiher thesis/paper; title/abstract and printed p.27 consulted. Establishes prime Property B and expressly invokes Gao–Geroldinger Theorem10.7 for B⇒C, giving every prime Property C. Full proof chain and that separate original theorem not independently reconstructed in S005. S006 reads theorem10.2 and printed p27 B⇒C citation, not full dependency proof. S012 original29-page Rostock PDF downloaded/read Thm10.2 and required Lem7.2/9.2/9.6, Cor2.5, Props5.1/6.2/8.1/10.1 statements and selected proofs. Strategic-equation/geometric prerequisites remain without complete independent proof."
+      "notes": "Original 29-page Reiher thesis/paper; title/abstract and printed p.27 consulted. Establishes prime Property B and expressly invokes Gao–Geroldinger Theorem10.7 for B⇒C, giving every prime Property C. Full proof chain and that separate original theorem not independently reconstructed in S005. S006 reads theorem10.2 and printed p27 B⇒C citation, not full dependency proof. S012 original29-page Rostock PDF downloaded/read Thm10.2 and required Lem7.2/9.2/9.6, Cor2.5, Props5.1/6.2/8.1/10.1 statements and selected proofs. Strategic-equation/geometric prerequisites remain without complete independent proof. S013 required original dependency nodes read; FIRST remaining unconditional input Property B through Lem7.2 / unrebuilt Prop4.1 strategic equations, Cor2.5/Obs7.1. No full programme proof."
     },
     {
       "id": "SRC-0026",
@@ -240,7 +240,25 @@
       "url": "https://doi.org/10.1023/A:1004854508165",
       "access": "PROOF_INSPECTED",
       "accessed": "2026-10-11",
-      "notes": "S010 lawful author-uploaded original full 33-page article readable at ResearchGate Weidong Gao profile, Theorem10.7 proof printed pp206–208 and Lemma10.6 printed pp204–206 visually inspected. Original DOI 10.1023/A:1004854508165. Access PROOF_INSPECTED, not independently PROGRAMME_PROVED; underlying Lem4.3.2/4.3.3/10.6, Cor10.5 and Property B chain not completely re-proved. See research/S010_SOURCE_PROOF_VERIFICATION.md §3. S011 directly revisited original 1999 proof and hand-checked conditional final t-subset three-distinct-x exclusion only; earlier Lem4.3, Cor10.5, Lem10.6 inputs remain unproved, no B=>C independent verification. S012 ResearchGate original locator returned body/access limitations (direct HTTP403); coauthor official publications page independently identifies author-hosted original https://geroldinger-0836a9.gitlab.io/38.long-minimal-zero-sequences.pdf . Full33-page scan HTTP200, 1147605 bytes, SHA256 a60f6192235fa25ac9161dbb689032de1c67d0d8684e3c703cb469f8681ee42f. Actual printed pp185,203–208 visually read/OCR crosschecked. Lem4.3(2)/(3) still imports original external inputs. Actual terminal condition is sum1 OR constantly1 OR constantlym-1; new CLM-0088 completes only that conditional implication, not all GG/Reiher prerequisites."
+      "notes": "S010 lawful author-uploaded original full 33-page article readable at ResearchGate Weidong Gao profile, Theorem10.7 proof printed pp206–208 and Lemma10.6 printed pp204–206 visually inspected. Original DOI 10.1023/A:1004854508165. Access PROOF_INSPECTED, not independently PROGRAMME_PROVED; underlying Lem4.3.2/4.3.3/10.6, Cor10.5 and Property B chain not completely re-proved. See research/S010_SOURCE_PROOF_VERIFICATION.md §3. S011 directly revisited original 1999 proof and hand-checked conditional final t-subset three-distinct-x exclusion only; earlier Lem4.3, Cor10.5, Lem10.6 inputs remain unproved, no B=>C independent verification. S012 ResearchGate original locator returned body/access limitations (direct HTTP403); coauthor official publications page independently identifies author-hosted original https://geroldinger-0836a9.gitlab.io/38.long-minimal-zero-sequences.pdf . Full33-page scan HTTP200, 1147605 bytes, SHA256 a60f6192235fa25ac9161dbb689032de1c67d0d8684e3c703cb469f8681ee42f. Actual printed pp185,203–208 visually read/OCR crosschecked. Lem4.3(2)/(3) still imports original external inputs. Actual terminal condition is sum1 OR constantly1 OR constantlym-1; new CLM-0088 completes only that conditional implication, not all GG/Reiher prerequisites. S013 complete independently proved rank-two Lem4.3 prerequisites, specific Cor10.5(2), Lem10.6 and B=>C implication under explicit Property B in CLM-0089–0093. Unconditional Reiher Property B not reconstructed; CLM-0082 SOURCE_STATED preserved. Fresh original author scan hash matches S012."
+    },
+    {
+      "id": "SRC-0027",
+      "title": "Olson, A combinatorial problem on finite Abelian groups II",
+      "year": "1969",
+      "url": "https://doi.org/10.1016/0022-314X(69)90037-7",
+      "access": "METADATA_ONLY",
+      "accessed": "2026-10-11",
+      "notes": "GG1999 original Ol2 bibliography pp185,210 and primary publisher metadata authenticate identity. Full-PDF endpoint HTTP200 returned195-byte Site Unavailable HTML, not original paper. Required rank-two extraction independently proved CLM-0089; no original Olson full-proof inspection."
+    },
+    {
+      "id": "SRC-0028",
+      "title": "Gao, On a combinatorial problem connected with factorizations",
+      "year": "1997",
+      "url": "https://matwbn.icm.edu.pl/ksiazki/cm/cm72/cm7225.pdf",
+      "access": "PROOF_INSPECTED",
+      "accessed": "2026-10-11",
+      "notes": "Original GG1999 Ga4 bibliography and journal volume listing/DOI10.4064/cm-72-2-251-268 authenticate original18-page PDF. Lemmas5–7 pp253–255 inspected; Lem7 supplies large proper zero block conditional on D(H⊕Cn²), at H=Cp,n=p imports rank-three p-group identity. General proof not independently certified; exact rank-two required consequence independently proved CLM-0091."
     }
   ]
 }

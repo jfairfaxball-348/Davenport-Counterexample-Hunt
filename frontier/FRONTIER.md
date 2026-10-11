@@ -1,6 +1,6 @@
-# Frontier after S012
+# Frontier after S013
 
-S012 complete hand proof CLM-0084–0087 closes BSP2012 Lem5.2, including actual doubled alternatives and t=1,2,4. eta7 and rank-three plane deductions remain CONDITIONAL on original rank-two eta/Property C; stronger coefficient unproved. CLM-0088 proves only the actual GG1999 terminal trichotomy implication; full B=>C/Reiher inputs remain unproved. Phase1 IN_PROGRESS; Phases2/3 NOT_STARTED; CAM-0001 PROPOSED / NOT RUNNING, activation BLOCKED by published n6=16. All 30 numerical rows unchanged; no openness inference. Hosted CI absent, NOT PASS.
+S013 CLM-0089–0093 hand-prove rank-two p/2p extraction, D(Cp²)=2p−1, eta<=3p−2/long-zero short block, original Lem10.6 and the full B=>C implication CONDITIONAL on Property B. Complete S012 p7 Lem5.2 preserved. FIRST unconditional prerequisite is Reiher Property B through unrebuilt strategic-equation/geometric chain; stronger coefficient unproved. Phase1 IN_PROGRESS; Phases2/3 NOT_STARTED; CAM-0001 PROPOSED / NOT RUNNING activation BLOCKED by published n6=16. All 30 numeric rows unchanged; no openness inference. Zero hosted CI, NOT PASS.
 
 **D(C6³)=16 is already a source-stated exact theorem.** CAM-0001 remains PROPOSED / NOT RUNNING with its premise obsolete. No Phase-2 target is selected. n=15 is the first interval requiring further literature review, not a declaration of openness.
 
@@ -101,3 +101,7 @@ The complete thirty-row Markdown table above is unchanged against frontier.json 
 ## S011 full n=1..30 source and two-mirror audit
 
 All 30 rows retain exactly the same group, D*=3n−2, lower and upper endpoint, evidence and source class in frontier.json and the Markdown table. **25 exact/trivial source rows**, five conditional intervals **n15 43..45, n20 58..59, n21 61..63, n28 82..83, n30 88..90**. Bounded read-only original-source exact theorem queries authenticated no new exact result for those five; NON-DISCOVERY IS NEVER PROOF OF PRESENT-DAY OPENNESS. Schmid2011 published n6=16 and original van Emde Boas II/III exact 2p^a/3·2^a rank-three families remain SOURCE_STATED even though full long proofs are not independently rebuilt. New CLM-0083 does not change any Davenport numeric bound. Inherited 14/17, tripling +5 and GL-orbit 43/699/5553 quarantined. Phase1 IN_PROGRESS; Phases2/3 NOT_STARTED; CAM-0001 BLOCKED.
+
+## S013 source-only follow-through
+
+S013 CLM-0089–0093 hand-prove rank-two p/2p extraction, D(Cp²)=2p−1, eta<=3p−2/long-zero short block, original Lem10.6 and the full B=>C implication CONDITIONAL on Property B. Complete S012 p7 Lem5.2 preserved. FIRST unconditional prerequisite is Reiher Property B through unrebuilt strategic-equation/geometric chain; stronger coefficient unproved. Phase1 IN_PROGRESS; Phases2/3 NOT_STARTED; CAM-0001 PROPOSED / NOT RUNNING activation BLOCKED by published n6=16. All 30 numeric rows unchanged; no openness inference. Zero hosted CI, NOT PASS. Restricted rank-two proofs do not change rank-three p-group source evidence classes. New query non-discovery is limited retrieval, never current openness. See [S013 proof report](../research/S013_RANK_TWO_ORIGINAL_DEPENDENCIES.md).

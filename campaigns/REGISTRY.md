@@ -57,3 +57,7 @@ CAM-0001 **PROPOSED / NOT RUNNING**, activation **BLOCKED** by published Schmid2
 ### S012 disposition — 2026-10-11
 
 CAM-0001 **PROPOSED / NOT RUNNING**, activation **BLOCKED** by published D(C6³)=16. Complete p7 rank-two Lem5.2 changes no campaign premise. No replacement campaign, target, candidate, certificate or source-code run. Phase1 IN_PROGRESS; Phases2/3 NOT_STARTED.
+
+## S013 — 2026-10-11
+
+S013 CLM-0089–0093 hand-prove rank-two p/2p extraction, D(Cp²)=2p−1, eta<=3p−2/long-zero short block, original Lem10.6 and the full B=>C implication CONDITIONAL on Property B. Complete S012 p7 Lem5.2 preserved. FIRST unconditional prerequisite is Reiher Property B through unrebuilt strategic-equation/geometric chain; stronger coefficient unproved. Phase1 IN_PROGRESS; Phases2/3 NOT_STARTED; CAM-0001 PROPOSED / NOT RUNNING activation BLOCKED by published n6=16. All 30 numeric rows unchanged; no openness inference. Zero hosted CI, NOT PASS. No owner-action blocker identified; source-access limitations remain research obligations. S014 strictly FUTURE UNEXECUTED.

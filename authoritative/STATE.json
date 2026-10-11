@@ -24,29 +24,28 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S012",
-  "recommended_next_session": "S013",
+  "last_completed_session": "S013",
+  "recommended_next_session": "S014",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": null,
   "phase1_target_status": "WITHHELD_NO_REPLACEMENT_CAMPAIGN",
   "open_blockers": [
-    "CLM-0087 now completely hand-proves BSP2012 p7 Lem5.2. eta(C7³)<=116 remains conditional on original rank-two eta/Property C inputs; no unconditional eta upgrade.",
+    "Complete CLM-0087 p7 Lem5.2 preserved; rank-two eta now independently proved CLM-0091. eta(C7³)<=116 remains conditional on Property B through CLM-0093; no unconditional eta upgrade.",
     "BSP2012 Lem2.1/2.3 pp22–23 split supports R=(3p−1)/2, NOT stronger 3(p−1)/2; CLM-0068 only conditional on eta(Cp³)<=3p²−4p−3 and classical inputs.",
-    "Original GG1999 Lem4.3(2)/(3), complete Lem10.6 and Reiher strategic/geometric chain unproved. CLM-0088 proves actual terminal trichotomy only; S011 universal subset-sum premise is stronger than original source. Rank-three p>=11/7 plane averaging is proved conditional on rank-two inputs.",
-    "BSP2007 Proposition1/8 diagrams and k−2 versus k−3 gap; Sheikh2017 137p official Chapter4 S012 fresh HTTP403 (distinct S011 fresh403) (distinct S010 fresh403, S009 internal error); exactly-three-free versus at-most-three-free.",
+    "GG1999 rank-two required Lem4.3, Lem10.6 and B=>C implication now independently proved CLM-0089–0093 under Property B. FIRST remaining unconditional input is Reiher Lem7.2/Prop4.1 strategic-equation chain with Cor2.5/Obs7.1 and general-position geometry. CLM-0082 stays SOURCE_STATED.",
+    "BSP2007 full diagrams/classification/upper induction unproved; Sheikh2017 fresh S013 HTTP403 (6274-byte HTML) separate from earlier session access failures; exactly-three distinct from at-most-three.",
     "GHST2007 original C53.html code/output not inspected; Yiu2026 M1 final three-disjoint test singly implemented despite repeated generation, M2/M3 distinct, original complete independent code/log/certificates unauthenticated.",
     "All n1..30 frontier values unchanged; published Schmid2011 n6=16 and 1969 van Emde Boas rank-three exact families retain source status; five intervals do not prove present-day openness."
   ],
   "gate_ledger": "docs/PHASE_GATE_LEDGER.md",
   "source_snapshot": "2026-10-11",
   "warnings": [
-    "CLM-0084–0087 complete BSP2012 Lem5.2 only; rank-three eta7 and stronger coefficient retain separate dependencies.",
-    "Original GG1999 author-hosted scan independently authenticated/read; CLM-0088 actual terminal trichotomy only; CLM-0082 stays SOURCE_STATED.",
-    "25 source exact/trivial + five conditional n15 43..45,n20 58..59,n21 61..63,n28 82..83,n30 88..90; no openness inference.",
-    "Inherited multiwise 14/17, tripling +5, 43/699/5553 GL orbits quarantined.",
-    "CAM-0001 PROPOSED / NOT RUNNING activation BLOCKED by published n6=16; Phases2/3 NOT_STARTED.",
-    "S012 entry: zero actual workflow YAML/runs/jobs/checks/status contexts, NOT CI PASS. Workflow API inventory rejected INVALID_ARGUMENT; standalone protection HTTP403; main summary unprotected/rulesets empty."
+    "S013 CLM-0089–0093 hand-prove rank-two p/2p extraction, D(Cp²)=2p−1, eta<=3p−2/long-zero short block, original Lem10.6 and the full B=>C implication CONDITIONAL on Property B. Complete S012 p7 Lem5.2 preserved. FIRST unconditional prerequisite is Reiher Property B through unrebuilt strategic-equation/geometric chain; stronger coefficient unproved. Phase1 IN_PROGRESS; Phases2/3 NOT_STARTED; CAM-0001 PROPOSED / NOT RUNNING activation BLOCKED by published n6=16. All 30 numeric rows unchanged; no openness inference. Zero hosted CI, NOT PASS.",
+    "CLM-0082 historical SOURCE_STATED preserved; new CLM-0093 is complete conditional B=>C proof, not unconditional Property B.",
+    "25 source exact/trivial and five conditional intervals unchanged; inherited14/17,+5,43/699/5553 quarantined.",
+    "Original OlsonII full body not acquired (HTTP200 unavailable HTML); exact needed statements independently proved. Original Ga4 Lem7 accessed; general historic proof not certified.",
+    "S013 actual workflows/runs/jobs/check-runs/status contexts all zero, NOT CI PASS. Rulesets empty/main summary unprotected. Direct standalone protection HTTP401 Requires authentication; fresh authenticated connector HTTP403 Resource not accessible by integration."
   ],
   "first_interval_requiring_literature_review": 15,
   "owner_action_blockers": []

@@ -1,0 +1,29 @@
+{
+  "session": "S013",
+  "review_kind": "SCOPED_HAND_PROOF_AND_ADMINISTRATIVE",
+  "new_claims": [
+    "CLM-0089",
+    "CLM-0090",
+    "CLM-0091",
+    "CLM-0092",
+    "CLM-0093"
+  ],
+  "proof_review": "Manual second symbolic review: finite-field monomial degree/support counting, augmentation ideal and identity coefficient, proper zero/complement lengths, cyclic partial-sum swaps, quotient minimality, positive representatives, indexed anchor availability and actual trichotomy. No mathematical program or search.",
+  "rank_two_prerequisites_independently_proved": true,
+  "original_lemma10_6_conditional_proved": true,
+  "gg_B_implies_C_conditional_proved": true,
+  "gg1999_full_chain_proved": false,
+  "unconditional_property_B_proved": false,
+  "rank_three_eta7_unconditional": false,
+  "stronger_coefficient_proved": false,
+  "historical_claim_0082": "SOURCE_STATED",
+  "first_incomplete_prerequisite": "Reiher unconditional Property B / Lem7.2 strategic Prop4.1, Cor2.5/Obs7.1 and later geometric package",
+  "phase1": "IN_PROGRESS",
+  "phases2_3": "NOT_STARTED",
+  "campaign": "PROPOSED_NOT_RUNNING_BLOCKED_N6",
+  "hosted_ci_pass": false,
+  "source_program_execution": false,
+  "mathematical_numerical_searches": 0,
+  "future_session_executed": false,
+  "owner_action_blockers": []
+}
