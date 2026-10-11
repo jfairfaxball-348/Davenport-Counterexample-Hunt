@@ -1,0 +1,16 @@
+{
+  "session": "S014",
+  "reiher": {
+    "source": "SRC-0025",
+    "url": "https://www.math.uni-rostock.de/math/pub/preprints/preprint/2010/pre10_01.pdf",
+    "pages_read": "printed4–6,10–12,15–16,26",
+    "prior_s013_bytes": 289379,
+    "prior_s013_sha256": "7d94931bcbf8fb4ce77c0ed94206659df74e8cb5543e1615e7dde23e86b994d8",
+    "fresh_hash": false
+  },
+  "sheikh": "fresh official web403",
+  "ghst": "original C53.html inaccessible in web tool; no output/code",
+  "yiu": "original v1 abstract arxiv page accessed; no new authentic ancillary code/log/certificate",
+  "author_code_execution": false,
+  "mathematical_computation": false
+}

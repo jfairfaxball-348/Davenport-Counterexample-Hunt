@@ -1,0 +1,20 @@
+{
+  "session": "S014",
+  "new_claims": [
+    "CLM-0094",
+    "CLM-0095",
+    "CLM-0096",
+    "CLM-0097"
+  ],
+  "first_unclosed": "Reiher original Proposition5.1 collinear reconstruction",
+  "universal_Property_B_independently_proved": false,
+  "unconditional_prime_Property_C_proved": false,
+  "eta_C7_cubed_116_unconditional": false,
+  "phase1": "IN_PROGRESS",
+  "phase2_3": "NOT_STARTED",
+  "campaign": "PROPOSED_NOT_RUNNING_BLOCKED_N6",
+  "author_code": false,
+  "mathematical_search": false,
+  "hosted_ci_pass": false,
+  "s015_executed": false
+}

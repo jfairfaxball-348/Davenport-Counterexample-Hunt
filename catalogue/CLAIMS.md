@@ -758,3 +758,39 @@ Proves extraction, translation/padding, exact D, specific Cor10.5(2), Lem10.6, a
 ### S013 historical scope note
 
 CLM-0082 stays SOURCE_STATED as directed; its earlier session observation is preserved. New CLM-0093 completely proves the implication under Property B, while unconditional Reiher Property B remains an independently unclosed input. CLM-0087 and every prior narrow claim remain unchanged.
+
+### S014 new scoped programme-proved original results
+
+## CLM-0094 — PROGRAMME_PROVED
+
+Original Reiher coefficient automorphism invariant Obs2.2, suspicious µ=1 Lem2.3, cloudy distinct-point linear independence Cor2.5, and p−1 dependent cloudy positions imply simplicity Obs2.6 over Fp², with independently proved Boolean-cube/field/quotient steps.
+
+Category: SOURCE_AUDIT. Origin: research/S014_REIHER_STRATEGIC_EQUATIONS.md. Sources: SRC-0025.
+
+Finite-field Wilson/Fermat and Boolean-cube top coefficient reconstructed, p-group/classification not imported.
+
+## CLM-0095 — PROGRAMME_PROVED
+
+For p≥5, original Reiher Prop4.1 exact determinant strategic equation holds for suspicious sequences over Fp², with complete independent three polynomial cases including original H'/H'' grids, forbidden nonempty-subset maps and coefficients.
+
+Category: SOURCE_AUDIT. Origin: research/S014_REIHER_STRATEGIC_EQUATIONS.md. Sources: SRC-0025.
+
+Cases x=1, x=−1 and x,y outside {0,±1}, for p≥5; p2/3 independently disposed of for Lem7.2.
+
+## CLM-0096 — PROGRAMME_PROVED
+
+Original Reiher Obs7.1 exact determinant-weighted factorial identity for three pairwise independent points and nonnegative α+β+γ=2p−2, including exponents at least p.
+
+Category: SOURCE_AUDIT. Origin: research/S014_REIHER_STRATEGIC_EQUATIONS.md. Sources: SRC-0025.
+
+Independent coefficient/binomial/Wilson calculation, no separate input axioms.
+
+## CLM-0097 — PROGRAMME_PROVED
+
+For every prime p, every cloudy sequence over Fp² with at most three distinct terms (values) is simple, proving original Reiher Lem7.2 without assuming full Property B.
+
+Category: SOURCE_AUDIT. Origin: research/S014_REIHER_STRATEGIC_EQUATIONS.md. Sources: SRC-0025.
+
+Complete small-p and α,β,γ≥3 arguments. Does NOT establish arbitrary-support prime Property B.
+
+Historical CLM-0082 remains SOURCE_STATED. All earlier claim fields unchanged; unconditional Property B/C and eta(C7³) remain unproved in programme.

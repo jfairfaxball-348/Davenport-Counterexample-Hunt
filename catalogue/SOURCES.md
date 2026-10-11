@@ -293,3 +293,7 @@ Year: 1997. Access: **PROOF_INSPECTED** (2026-10-11).
 [Primary source](https://matwbn.icm.edu.pl/ksiazki/cm/cm72/cm7225.pdf)
 
 Original GG1999 Ga4 bibliography and journal volume listing/DOI10.4064/cm-72-2-251-268 authenticate original18-page PDF. Lemmas5–7 pp253–255 inspected; Lem7 supplies large proper zero block conditional on D(H⊕Cn²), at H=Cp,n=p imports rank-three p-group identity. General proof not independently certified; exact rank-two required consequence independently proved CLM-0091.
+
+### S014 scoped original source audit
+
+SRC-0025 original Reiher PDF read printed pp4–6,10–12,15–16,26. Complete independent hand proofs of exact Prop4.1 and Lem7.2 dependencies CLM-0094–0097; full Thm10.2 still not independently certified (Prop5.1, Props6.2/8.1, Sec9, Prop10.1). Known source size/hash from S013 NOT freshly rehashed. Original Sheikh Chapter4 fresh403, C53 HTML inaccessible via web, Yiu v1 abstract accessible but not newly authenticated original ancillary implementations/logs/certificates. Source access enums unchanged; no exact literature update for five frontier intervals.
