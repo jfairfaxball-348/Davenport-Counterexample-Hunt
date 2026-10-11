@@ -6,7 +6,7 @@
     "SANDWICHED",
     "UNKNOWN"
   ],
-  "notation": "S010 CLM-0081 proves only the p7 intermediate at-most-one-mixed-line assertion; original GG1999 proof SRC-0026 text read but B=>C chain unverified. Every numeric row unchanged: 25 source-exact/trivial and five conditional intervals; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 BLOCKED; no openness inference.",
+  "notation": "S011 CLM-0083 hand-proves ONLY p7 six doubly occupied cyclic lines imply distinct doubled x,y,z with x+y in <z>. Next forbidden doubled (1,0),(0,1),(2,2), terminal t1/2/4, full Lem5.2/eta7 and GG1999 B=>C dependency remain unproved. All thirty numeric rows unchanged: 25 source exact/trivial and five intervals; no present-day openness inference; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 BLOCKED.",
   "rows": [
     {
       "n": 1,

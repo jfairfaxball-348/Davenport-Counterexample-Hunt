@@ -662,3 +662,11 @@ Original Gao–Geroldinger1999 Theorem10.7 complete published proof of Property 
 Category: SOURCE_AUDIT. Sources: SRC-0026,SRC-0025. Origin: research/S010_SOURCE_PROOF_VERIFICATION.md §3.
 
 PROOF_INSPECTED evidence, not PROGRAMME_PROVED: uses Property B, Lemma4.3.2 and Lemma10.6 among other internal dependencies and terminal subset argument.
+
+## CLM-0083 — PROGRAMME_PROVED
+
+Under actual BSP2012 Lemma5.2 p7 15-term no **nonempty zero sum of length at most seven** and cyclic-line capacity two hypotheses, after S010 CLM-0081, at least six distinct cyclic lines contain **two copies of one identical term**. Three distinct doubled x,y,z necessarily satisfy x+y in <z>.
+
+Category: SOURCE_AUDIT. Origin: research/S011_SOURCE_PROOF_VERIFICATION.md section 1. Sources: SRC-0021.
+
+Full hand proof: eight lines; 15 indexed terms with two capacity give seven double-occupied and one singly occupied, at most one mixed line. Assume no doubled x+y lies on another doubled line. Pair sums of six selected vectors must all lie on the two remaining lines; coordinate-change makes them axes. Fix one selected vector with two nonzero coordinates. Each of five others must have negative first or negative second coordinate. Each opposition class has at most two because three would create pairwise sums with common nonzero coordinate and require three pairwise opposite nonzero values in odd characteristic. Impossible to cover five with classes of size <=2. The geometric existence step alone is proved; no full short-zero-sum classification, Lem5.2, eta7 or stronger coefficient is thereby established.

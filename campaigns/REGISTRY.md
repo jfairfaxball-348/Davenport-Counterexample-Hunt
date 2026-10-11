@@ -49,3 +49,7 @@ CAM-0001 remains **PROPOSED / NOT RUNNING**, activation **BLOCKED** by source-st
 ### S010 disposition — 2026-10-11
 
 CAM-0001 still **PROPOSED / NOT RUNNING** with activation BLOCKED by source-stated published Schmid2011 exact D(C6³)=16. CLM-0081 is a rank-two p7 intermediate source hand proof; SRC-0026 a 1999 proof access update. Neither authorises n6 search, replacement target, Phase2/3, SAT/ILP, candidate or verification campaign.
+
+### S011 disposition — 2026-10-11
+
+CAM-0001 **PROPOSED / NOT RUNNING**, activation **BLOCKED** by published Schmid2011 `D(C6³)=16`; its length-16 zero-sumfree target is obsolete on the source record. CLM-0083 is only p7 paper projective geometry and cannot reactivate it. NO Phase2/3, replacement campaign/tool target, mathematical numerical search, solver, orbit enumeration, candidate or certificate. Phase1 IN_PROGRESS.

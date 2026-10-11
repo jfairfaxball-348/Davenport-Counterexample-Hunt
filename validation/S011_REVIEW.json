@@ -1,0 +1,35 @@
+{
+  "session": "S011",
+  "entry_main": "9ca537dbd50e8cd9b944fdd9be976d307c7ad4d6",
+  "phase1": "IN_PROGRESS",
+  "phase2": "NOT_STARTED",
+  "phase3": "NOT_STARTED",
+  "sources": 26,
+  "claims": 83,
+  "new_local_results": [
+    "CLM-0083"
+  ],
+  "original_gg1999_full_proof_read": true,
+  "original_gg1999_full_dependencies_verified": false,
+  "frontier_rows": 30,
+  "source_exact_trivial": 25,
+  "intervals": [
+    15,
+    20,
+    21,
+    28,
+    30
+  ],
+  "campaign": "CAM-0001_PROPOSED_NOT_RUNNING_BLOCKED",
+  "mathematical_numerical_searches": 0,
+  "author_code_executed": false,
+  "candidates": 0,
+  "certificates": 0,
+  "hosted_workflows": 0,
+  "hosted_runs": 0,
+  "hosted_jobs": 0,
+  "hosted_check_runs": 0,
+  "status_contexts": 0,
+  "ci_pass_claimed": false,
+  "future_unexecuted": "S012"
+}

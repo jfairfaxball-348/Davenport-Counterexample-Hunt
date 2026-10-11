@@ -1,0 +1,26 @@
+{
+  "session": "S011",
+  "entry_main": "9ca537dbd50e8cd9b944fdd9be976d307c7ad4d6",
+  "entry_tree": "24a64dbb882f7dac87c5dbfa52f73d300032e311",
+  "prior_s010_pr": 10,
+  "prior_s010_head": "7bc7940b4672af7f6bc62e59b97053c526be1490",
+  "prior_s010_head_parent": "4d93334fd6335397f1c3df8113b7b3e86f0bd839",
+  "prior_s010_merge": "9ca537dbd50e8cd9b944fdd9be976d307c7ad4d6",
+  "prior_merge_parents": [
+    "4d93334fd6335397f1c3df8113b7b3e86f0bd839",
+    "7bc7940b4672af7f6bc62e59b97053c526be1490"
+  ],
+  "prior_merge_tree": "24a64dbb882f7dac87c5dbfa52f73d300032e311",
+  "all_prs_1_through_10_merged": true,
+  "open_prs": 0,
+  "competing_s011_branches": false,
+  "branch_main_summary_protected": false,
+  "branch_standalone_protection": "HTTP403_INTEGRATION_NO_ACCESS",
+  "rulesets": [],
+  "workflow_yaml": 0,
+  "hosted_action_runs": 0,
+  "hosted_action_jobs": 0,
+  "check_runs": 0,
+  "status_contexts": 0,
+  "ci_pass_claimed": false
+}

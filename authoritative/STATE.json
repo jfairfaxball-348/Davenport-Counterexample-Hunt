@@ -24,29 +24,29 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S010",
-  "recommended_next_session": "S011",
+  "last_completed_session": "S011",
+  "recommended_next_session": "S012",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": null,
   "phase1_target_status": "WITHHELD_NO_REPLACEMENT_CAMPAIGN",
   "open_blockers": [
-    "BSP2012 Lem2.1/2.3 printed pp.22–23: R=(3p−1)/2 follows; stronger 3(p−1)/2 does not; CLM-0068 remains conditional on eta and external classical inputs.",
-    "BSP2012 Lem5.2 printed pp.29–30: S010 CLM-0081 now independently proves intermediate at-most-one mixed subgroup under true <=7 short zero sum premise. FIRST downstream unproved inference: three distinct doubled x,y,z with x+y in <z>, claimed six-line/pair-sum contradiction, further triples, final t1/2/4 and eta7.",
-    "Reiher2010 dependencies and original GG1999 Property B=>C: S010 located ORIGINAL complete author-uploaded full Theorem10.7 proof pp206–208 (SRC-0026 PROOF_INSPECTED), but full internal hypotheses/deductions not independently rebuilt; BSP2012 p>=11 plane-averaging remains conditional.",
-    "BSP2007 Proposition1/8 diagrams and k−2 vs k−3; full official 137p Sheikh2017 Chapter4 S010 direct HTTP403; do not confuse with S009 internal fetch error.",
-    "GHST2007 original C53.html code/output not accessed; Yiu2026 M1 final three-disjoint test singly implemented, M2/M3 distinct and original executable records/certificates not authenticated.",
-    "Schmid2011 n6=16 and original 1969 rank-three 2p^a / 3·2^a families source-stated exact despite incomplete independent long proofs; n15/20/21/28/30 interval rows do not assert present-day openness."
+    "BSP2012 Lem5.2 p29–30: S011 CLM-0083 now proves ONLY x+y in <z> existence among three distinct doubly occurring vectors (after CLM-0081), but the FIRST next (1,0),(0,1),(2,2) doubled forbidden triple and exhaustive alternatives, t1/2/4, full lemma and eta7 remain without full independent <=7 short sum hand-proof.",
+    "BSP2012 Lem2.1/2.3 pp22–23 split supports R=(3p−1)/2, NOT stronger 3(p−1)/2; CLM-0068 only conditional on eta(Cp³)<=3p²−4p−3 and classical inputs.",
+    "Original GG1999 Property B=>C: S011 checked only conditional terminal t-subset 3-distinct-x elimination; original internal Lem4.3(2),(3), Lem4.3.3, Cor10.5, Lem10.6/Property B and Reiher2010 proof inputs remain incompletely proved; BSP2012 p>=11 plane-averaging remains conditional.",
+    "BSP2007 Proposition1/8 diagrams and k−2 versus k−3 gap; Sheikh2017 137p official Chapter4 S011 fresh HTTP403 (distinct S010 fresh403, S009 internal error); exactly-three-free versus at-most-three-free.",
+    "GHST2007 original C53.html code/output not inspected; Yiu2026 M1 final three-disjoint test singly implemented despite repeated generation, M2/M3 distinct, original complete independent code/log/certificates unauthenticated.",
+    "All n1..30 frontier values unchanged; published Schmid2011 n6=16 and 1969 van Emde Boas rank-three exact families retain source status; five intervals do not prove present-day openness."
   ],
   "gate_ledger": "docs/PHASE_GATE_LEDGER.md",
   "source_snapshot": "2026-10-11",
   "warnings": [
-    "CLM-0081 now COMPLETELY hand-proves only p7 intermediate at-most-one-mixed-line claim; printed downstream doubled x+y in <z>, final t cases, full Lemma5.2, eta7 NOT proved.",
-    "SRC-0026 original GG1999 full paper author-uploaded pp206–208 PROOF_INSPECTED as of S010, but Property B=>C internal proof dependencies not independently certified.",
-    "25 source-exact/trivial and five unchanged intervals n15 43..45, n20 58..59, n21 61..63, n28 82..83, n30 88..90; no present-day openness inference.",
-    "Inherited D3/D4 14/17, tripling +5, GL orbit counts 43/699/5553 quarantined.",
+    "CLM-0083 PROGRAMME_PROVED only for p7 existence of three doubled x,y,z with x+y in <z>; not a full length<=7 contradiction or proof Lem5.2/eta7.",
+    "SRC-0026 full original GG1999 PROOF_INSPECTED; CLM-0082 SOURCE_STATED since B=>C dependencies not fully checked.",
+    "25 source exact/trivial + five conditional n15 43..45,n20 58..59,n21 61..63,n28 82..83,n30 88..90; no openness inference.",
+    "Inherited multiwise 14/17, tripling +5, 43/699/5553 GL orbits quarantined.",
     "CAM-0001 PROPOSED / NOT RUNNING activation BLOCKED by published n6=16; Phases2/3 NOT_STARTED.",
-    "No workflow YAML, hosted Actions runs/jobs, check-runs or commit status contexts at S010 entry; NO CI PASS. Main summary unprotected/rulesets []; standalone protection 403."
+    "No hosted workflows YAML/runs/jobs/check-runs/status contexts on S011 entry; NOT CI PASS. Branch protection standalone 403, unprotected main summary and empty rulesets."
   ],
   "first_interval_requiring_literature_review": 15,
   "owner_action_blockers": []

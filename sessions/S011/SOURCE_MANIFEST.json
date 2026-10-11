@@ -1,0 +1,73 @@
+{
+  "session": "S011",
+  "primary_source_only": true,
+  "inspected": [
+    {
+      "id": "SRC-0021",
+      "printed": "22–23,29–30",
+      "scope": "p7 six-line and remaining doubled triple, coefficient"
+    },
+    {
+      "id": "SRC-0026",
+      "printed": "204–208",
+      "scope": "1999 ORIGINAL full original B=>C, conditional t-subset final logic",
+      "access": "PROOF_INSPECTED"
+    },
+    {
+      "id": "SRC-0025",
+      "printed": "26–29",
+      "scope": "Reiher subsidiary proof chain not fully reconstructed"
+    },
+    {
+      "id": "SRC-0008",
+      "printed": "3,6–11",
+      "scope": "BSP2007 diagrams, k−2/k−3"
+    },
+    {
+      "id": "SRC-0013",
+      "printed": "full 137p thesis",
+      "scope": "fresh S011 HTTP403, Chapter4 unread"
+    },
+    {
+      "id": "SRC-0024",
+      "printed": "16–17",
+      "scope": "GHST C53 source/output inaccessible"
+    },
+    {
+      "id": "SRC-0015",
+      "printed": "2609.04950v1 M1/M2/M3",
+      "scope": "M1 final singly implemented, independent originals unavailable"
+    },
+    {
+      "id": "SRC-0022",
+      "printed": "27–29",
+      "scope": "Schmid2011 n6=16 source stated"
+    },
+    {
+      "id": "SRC-0023",
+      "printed": "33–35",
+      "scope": "vEmdeBoas II 2p^a family"
+    },
+    {
+      "id": "SRC-0002",
+      "printed": "13–14",
+      "scope": "vEmdeBoas III 3*2^a family"
+    }
+  ],
+  "sheikh_s009": "INTERNAL_FETCH_ERROR",
+  "sheikh_s010": "HTTP403_FORBIDDEN",
+  "sheikh_s011": "HTTP403_FORBIDDEN",
+  "ghst_original_c53_code_read": false,
+  "ghst_original_c53_output_read": false,
+  "yiu_final_test_independently_certified": false,
+  "author_code_executed": false,
+  "mathematical_numerical_searches": 0,
+  "all_30_frontier_rows_checked": true,
+  "focused_intervals": [
+    15,
+    20,
+    21,
+    28,
+    30
+  ]
+}
