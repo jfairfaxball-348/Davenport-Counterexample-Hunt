@@ -1,0 +1,37 @@
+{
+  "session": "S005",
+  "entry_main": "6e10e9401c32e8a0f81ec7a1f1ea70f307d10d40",
+  "source": "independent live GitHub Git ref and commit API",
+  "prior_s004_branch": "session/S004-primary-proof-inputs",
+  "prior_s004_head": "69da4cd6cfcf5b771aa50fc75cbbd882f45d1c7b",
+  "prior_s004_head_parent": "d0ca11de8c6f513aaa47b8c78df27be4f78afe26",
+  "prior_s004_pr": 4,
+  "prior_s004_merged_main": "6e10e9401c32e8a0f81ec7a1f1ea70f307d10d40",
+  "prior_merge_parents": [
+    "d0ca11de8c6f513aaa47b8c78df27be4f78afe26",
+    "69da4cd6cfcf5b771aa50fc75cbbd882f45d1c7b"
+  ],
+  "prior_merge_tree": "4dbd7ed210eee765e73ddc0084969b5694185afc",
+  "all_prior_prs": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "all_prior_prs_merged": true,
+  "open_pr_count": 0,
+  "main_protected": false,
+  "rulesets": [],
+  "actions_runs": 0,
+  "actions_workflow_files": 0,
+  "actions_workflows_collection": "Not accessible via connected fetch API; absence of workflow YAML in full current main tree, and zero runs, independently observed",
+  "actions_jobs": 0,
+  "main_check_runs": 0,
+  "combined_status": {
+    "state": "pending",
+    "total_count": 0
+  },
+  "ci_pass_claimed": false,
+  "s005_prior_branch_or_session": false,
+  "scope": "S005 uniqueness from full recursive main tree and repository PR/branch history; check states on current entry SHA only"
+}

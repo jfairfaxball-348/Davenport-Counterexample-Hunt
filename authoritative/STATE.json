@@ -24,28 +24,28 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S004",
-  "recommended_next_session": "S005",
+  "last_completed_session": "S005",
+  "recommended_next_session": "S006",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": null,
-  "phase1_target_status": "WITHHELD_PENDING_CORRECTED_FRONTIER_REVIEW",
+  "phase1_target_status": "WITHHELD_NO_REPLACEMENT_CAMPAIGN",
   "open_blockers": [
-    "Published BSP2012 Lem2.3 p23 exact 3(p−1)/2 coefficient not derived by preceding split, which gives (3p−1)/2. S004 supplies only a sufficient weaker conditional route.",
-    "Published BSP2012 Lem5.2 pp29–30 p7 eta case exhaustion/inconsistent (1,6) subcase incomplete; rank2 PropertyB/C original dependencies for p≥11 not fully checked.",
-    "BSP2007 auxiliary diagrammatic cases and full Sheikh Chapter4 incomplete; university thesis PDF403. Indexed Remark4.3.11 hypothesis mismatch resolved only in specified scope.",
-    "GHST2007 eta5 input uses computational Prop5.6 pp16–17; original computational evidence not independently certified.",
-    "Yiu full written proof read, but both retrieved source archives lack advertised code/logs. M1 final test remains single-implementation on paper; records not verified.",
-    "Historical exact-family proof dependencies and targeted current literature review of n15,20,21,28,30 remain; no openness inferred."
+    "BSP2012 Lemma2.3 published p23 exact 3(p−1)/2 k-wise coefficient is not obtained from Lemma2.1 split (3p−1)/2. Weaker S004 conditional route proves only the local bound assuming eta.",
+    "BSP2012 Lemma5.2 pp29–30 p=7 proof contains false zero-sum 2(6,1)+(1,6)+(1,0)=(0,1) mod7 plus omitted cases/unclear subcase; Property B/C original p≥11 proof chain not fully reconstructed.",
+    "BSP2007 Proposition1/8 auxiliary diagrammatic classifications and full Sheikh2017 thesis Chapter4/Remark4.3.11 inaccessible; exactly-three and at-most-three remain distinct.",
+    "GHST2007 computational Proposition5.6 original advertised C53.html code/output URL identified but actual code and detailed output unverified; eta5 depends on this premise.",
+    "Yiu2609.04950 written proof inspected in S004; exact advertised code/logs/certificates for M1/M2/M3 not located or independently checked.",
+    "Historical Schmid2011, 1969 II/III exact-family omitted/auxiliary proof dependencies not fully reconstructed; current exact literature for n15,20,21,28,30 not authenticated; no openness asserted."
   ],
   "gate_ledger": "docs/PHASE_GATE_LEDGER.md",
   "source_snapshot": "2026-10-11",
   "warnings": [
-    "D(C6³)=16 is source-stated in published Schmid2011 Thm4.1; CAM-0001 stays PROPOSED / NOT RUNNING with obsolete premise and activation blocked.",
-    "25 frontier rows exact/trivial at source level; intervals n15 43..45, n20 58..59, n21 61..63, n28 82..83, n30 88..90.",
-    "Subscript multiwise D3(C3³)=15, D4=18 differs from superscript at-most-three threshold17; inherited14/17, +5 and43/699/5553 quarantined.",
-    "Actual Grinsztajn four-page PDF read; conditional deductions checked, imported source proofs not all closed; no Lean executed.",
-    "No workflows, runs, checks or jobs observed at S004 entry; no CI PASS. Validation is administrative only."
+    "Published Schmid2011 D(C6³)=16 and original 1969 2p^a and 3·2^a exact families remain source-stated; CAM-0001 activation blocked.",
+    "25 source-exact/trivial frontier rows; five conditional intervals n15 43..45, n20 58..59, n21 61..63, n28 82..83, n30 88..90; no openness inferred.",
+    "S005 identified p7 arithmetic failure in published Lemma5.2; this is a local proof defect, not a refutation of its conclusion.",
+    "Exact and at-most-three hypotheses, multiwise 15/18 vs superscript threshold 17, old 14/17 +5 and inherited 43/699/5553 remain distinct/quarantined.",
+    "No GitHub workflow files, Actions runs, check runs or jobs observed; combined status pending with zero statuses is not CI PASS. Administrative validation only."
   ],
   "first_interval_requiring_literature_review": 15,
   "owner_action_blockers": []

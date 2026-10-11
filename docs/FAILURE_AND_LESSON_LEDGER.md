@@ -31,3 +31,10 @@
 | S004 | Absence of CI | Public REST workflows0, runs0, check-runs0; combined status pending with total_count0 | No CI PASS. Administrative validation is distinct from Actions and mathematical certification |
 
 **Negative-results scope through S004:** no exhaustive negative mathematical result has been produced; no search space was executed. Inherited 43/699/5553 remain quarantined. Source-access failures and proof gaps are not UNSAT certificates or counterexamples.
+
+| S005 | Published BSP2012 Lemma5.2 p7 alleged zero sum | 2(6,1)+(1,6)+(1,0)=(0,1) in C7², not zero | New local **proof defect** CLM-0073; no false claim that Lemma5.2 fails; entire p7 case not certified |
+| S005 | Rank-two prime dependency | Reiher 2010 p27 identifies Property B⇒Property C via Gao–Geroldinger, but original proof chain not fully reconstructed | SRC-0025/CLM-0074; no universal bound upgraded |
+| S005 | GHST2007 computational record | Published original Prop5.6 p17 gives C53.html complete-code/output pointer; record not accessible/read | Provenance gap recorded; no source execution/COMP_EXACT |
+| S005 | Access and frontier | Full Sheikh Chapter4 remains inaccessible, Yiu code/logs remain unlocated, five intervals persist after targeted review | Keep explicit incomplete proof/access gaps; no present-day openness claims |
+
+**S005 negative scope:** no exhaustive mathematical negative, SAT certificate, orbit count, search, sequence generation or candidate. Historic inherited 14/17, +5, 43/699/5553 stay quarantined.

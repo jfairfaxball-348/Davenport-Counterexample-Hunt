@@ -1,0 +1,37 @@
+{
+  "session": "S005",
+  "kind": "ADMINISTRATIVE_ONLY",
+  "result": "PASS",
+  "checks": {
+    "source_id_sequence": 25,
+    "claim_id_sequence": 74,
+    "claim_source_references": "PASS",
+    "all_modified_source_and_claim_references": "PASS",
+    "source_claim_access_and_status_enums": "PASS",
+    "inherited_and_formal_status_quarantine": "PASS",
+    "frontier_30_rows": "PASS",
+    "frontier_markdown_json_mirror": "PASS",
+    "frontier_25_exact_5_interval": "PASS",
+    "gate_campaign_no_target": "PASS",
+    "verbatim_archived_s005": "PASS",
+    "identical_unexecuted_s006": "PASS",
+    "modified_json_parse": "PASS"
+  },
+  "changed_file_count": 23,
+  "verified_references": "All new/modified files scanned for stable SRC/CLM reference resolution. Earlier untouched files passed S004 full administrative validation.",
+  "errors": [],
+  "not_checked": [
+    "Proof truth or computational source predicate",
+    "GitHub hosted CI (zero workflows/runs)",
+    "Unreachable external source archives",
+    "Original chat transport bytes hash"
+  ],
+  "n6": 16,
+  "intervals": {
+    "15": "43..45",
+    "20": "58..59",
+    "21": "61..63",
+    "28": "82..83",
+    "30": "88..90"
+  }
+}

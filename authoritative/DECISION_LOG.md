@@ -24,3 +24,8 @@
 | 2026-10-11 | Indexed Sheikh remark does not refute distinct at-most-three-free premise; full Chapter4 still inaccessible | CLM-0070 | SCOPED FINDING |
 | 2026-10-11 | Yiu written proof read; downloaded bundles lack advertised code/logs; no execution | SRC-0015, S004 source manifest | SOURCE_STATED |
 | 2026-10-11 | Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED; future S005 source review only on fresh owner invocation | exact missing proof steps in S004 audit section8 | GATE HELD; STOP S004 |
+
+| 2026-10-11 | S005 checks published Lemma5.2 p7 claimed zero sum 2(6,1)+(1,6)+(1,0)=(0,1), nonzero | SRC-0021 p29; CLM-0073; S005 audit §2 | LOCAL PROOF GAP; NO THEOREM REFUTATION |
+| 2026-10-11 | Original Reiher prime Property B and B⇒C citation chain identified; full dependency proof not independently closed | SRC-0025 p27; CLM-0074 | SOURCE_STATED |
+| 2026-10-11 | Published GHST Prop5.6 exact original code/output pointer located but artifacts uninspected; full Sheikh/Yiu evidence incomplete | SRC-0024 p17, S005 §4–6 | PROVENANCE UNVERIFIED |
+| 2026-10-11 | All 30 rows retained; 25 exact/trivial, five intervals do not imply openness; Phase1 gate held; no replacement target | S005 §7–8 | IN_PROGRESS / CAM-0001 BLOCKED / NO PHASE2/3 |

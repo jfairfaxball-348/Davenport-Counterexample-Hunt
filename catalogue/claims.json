@@ -690,7 +690,7 @@
         "SRC-0021",
         "SRC-0003"
       ],
-      "notes": "Complete conditional paper proof uses R=(3p−1)/2, Dj≤5p−2+(j−2)R for j≥2, and j=2p−4. Does not prove exact stronger published Lem2.3 axiom or p7 eta case."
+      "notes": "Complete conditional paper proof uses R=(3p−1)/2, Dj≤5p−2+(j−2)R for j≥2, and j=2p−4. Does not prove exact stronger published Lem2.3 axiom or p7 eta case. S005 checks j=2p−4 and M−[5p−2+(j−2)R]=p−4; estimate is conditional on eta and does not establish Lem2.3."
     },
     {
       "id": "CLM-0069",
@@ -701,7 +701,7 @@
       "source_ids": [
         "SRC-0021"
       ],
-      "notes": "Exact Grinsztajn k-wise axiom matches statement, but split only guarantees larger bound. This identifies an unclosed deduction, not a disproof of the theorem. Draft note is absent from published version."
+      "notes": "Exact Grinsztajn k-wise axiom matches statement, but split only guarantees larger bound. This identifies an unclosed deduction, not a disproof of the theorem. Draft note is absent from published version. S005 repeated primary p.23 inspection: the one-term split discrepancy is not repaired; the stronger axiom remains SOURCE_STATED."
     },
     {
       "id": "CLM-0070",
@@ -739,7 +739,30 @@
       "source_ids": [
         "SRC-0024"
       ],
-      "notes": "Definitive journal paper statement p4 and deduction p17 inspected. p5 base uses published computational Prop5.6 pp16–17, not re-executed or independently certified here."
+      "notes": "Definitive journal paper statement p4 and deduction p17 inspected. p5 base uses published computational Prop5.6 pp16–17, not re-executed or independently certified here. S005 original Prop5.6 refers readers to http://www.combinatorics.net.cn/homepage/hou/C53.html for full code/output; contents not verified."
+    },
+    {
+      "id": "CLM-0073",
+      "statement": "BSP2012 Lemma5.2 printed p.29 calls 2(6,1)+(1,6)+(1,0) a zero sum over C7², but the sum is (14,8)=(0,1) mod7 and is nonzero.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S005_REMAINING_PROOF_OBLIGATIONS.md section2",
+      "source_ids": [
+        "SRC-0021"
+      ],
+      "notes": "Direct arithmetic checks the displayed expression only. It is a local proof defect, not a counterexample to Lemma5.2 or eta(C7³). p7 case coverage and availability assumptions remain unproved."
+    },
+    {
+      "id": "CLM-0074",
+      "statement": "Reiher's original Property B proof states every prime has Property B and records that Property B implies Property C for primes via Gao–Geroldinger Theorem10.7.",
+      "category": "LITERATURE",
+      "status": "SOURCE_STATED",
+      "origin": "SRC-0025 printed p.27",
+      "source_ids": [
+        "SRC-0025",
+        "SRC-0021"
+      ],
+      "notes": "Primary source statement and dependency path read, not a new independent verification of every Reiher or Gao–Geroldinger proof step or the full p≥11 large-exponent deduction."
     }
   ]
 }

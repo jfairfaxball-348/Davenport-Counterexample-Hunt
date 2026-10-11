@@ -544,7 +544,7 @@ For prime p≥7, assuming eta(Cp³)≤3p²−4p−3 and classical p-group/Cheval
 
 Category: REDUCTION. Origin: research/S004_PRIMARY_PROOF_INPUTS.md section4. Sources: SRC-0021, SRC-0003.
 
-Complete conditional paper proof uses R=(3p−1)/2, Dj≤5p−2+(j−2)R for j≥2, and j=2p−4. Does not prove exact stronger published Lem2.3 axiom or p7 eta case.
+Complete conditional paper proof uses R=(3p−1)/2, Dj≤5p−2+(j−2)R for j≥2, and j=2p−4. Does not prove exact stronger published Lem2.3 axiom or p7 eta case. S005 checks j=2p−4 and M−[5p−2+(j−2)R]=p−4; estimate is conditional on eta and does not establish Lem2.3.
 
 ## CLM-0069 — SOURCE_STATED
 
@@ -552,7 +552,7 @@ Published BSP Lem2.1 states short length (3p−1)/2 but its split proof writes 3
 
 Category: SOURCE_AUDIT. Origin: research/S004_PRIMARY_PROOF_INPUTS.md section3. Sources: SRC-0021.
 
-Exact Grinsztajn k-wise axiom matches statement, but split only guarantees larger bound. This identifies an unclosed deduction, not a disproof of the theorem. Draft note is absent from published version.
+Exact Grinsztajn k-wise axiom matches statement, but split only guarantees larger bound. This identifies an unclosed deduction, not a disproof of the theorem. Draft note is absent from published version. S005 repeated primary p.23 inspection: the one-term split discrepancy is not repaired; the stronger axiom remains SOURCE_STATED.
 
 ## CLM-0070 — PROGRAMME_PROVED
 
@@ -576,4 +576,20 @@ GHST2007 Theorem1.7 gives eta(Cn³)=8n−7 for n=3^a5^b, hence eta(C3³)=17 and 
 
 Category: LITERATURE. Origin: research/S004_PRIMARY_PROOF_INPUTS.md section3. Sources: SRC-0024.
 
-Definitive journal paper statement p4 and deduction p17 inspected. p5 base uses published computational Prop5.6 pp16–17, not re-executed or independently certified here.
+Definitive journal paper statement p4 and deduction p17 inspected. p5 base uses published computational Prop5.6 pp16–17, not re-executed or independently certified here. S005 original Prop5.6 refers readers to http://www.combinatorics.net.cn/homepage/hou/C53.html for full code/output; contents not verified.
+
+## CLM-0073 — PROGRAMME_PROVED
+
+BSP2012 Lemma5.2 printed p.29 calls 2(6,1)+(1,6)+(1,0) a zero sum over C7², but the sum is (14,8)=(0,1) mod7 and is nonzero.
+
+Category: SOURCE_AUDIT. Origin: research/S005_REMAINING_PROOF_OBLIGATIONS.md section2. Sources: SRC-0021.
+
+Direct arithmetic checks the displayed expression only. It is a local proof defect, not a counterexample to Lemma5.2 or eta(C7³). p7 case coverage and availability assumptions remain unproved.
+
+## CLM-0074 — SOURCE_STATED
+
+Reiher's original Property B proof states every prime has Property B and records that Property B implies Property C for primes via Gao–Geroldinger Theorem10.7.
+
+Category: LITERATURE. Origin: SRC-0025 printed p.27. Sources: SRC-0025, SRC-0021.
+
+Primary source statement and dependency path read, not a new independent verification of every Reiher or Gao–Geroldinger proof step or the full p≥11 large-exponent deduction.

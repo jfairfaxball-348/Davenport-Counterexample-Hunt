@@ -25,3 +25,7 @@ Every campaign **before activation** must state: exact target, search space, met
 
 ### S003 — PROPOSED / NOT RUNNING (2026-10-11)
 Phase 1 IN_PROGRESS, Phases 2 and 3 NOT_STARTED. No SAT/ILP, candidates, orbitting, solver, enumeration, certification or computed count. The inherited 5553 orbit claim has no completeness provenance and used the wrong D4=17. S003 recommended n=6 at 16..17; **S004 withdraws that recommendation** on the published exact theorem above.
+
+### S005 disposition — 2026-10-11
+
+CAM-0001 **PROPOSED / NOT RUNNING**, activation BLOCKED: Schmid2011 source-stated exact D(C6³)=16 rules out its zero-sumfree length-16 premise. S005 performed source-proof and provenance review only, no activation, solver, enumeration, candidate or new campaign. Phase1 IN_PROGRESS; Phases 2/3 NOT_STARTED; no replacement target selected.

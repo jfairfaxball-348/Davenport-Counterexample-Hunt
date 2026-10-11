@@ -1,6 +1,6 @@
-# Frontier after S004
+# Frontier after S005
 
-S004 paper audit: source-exact historical families supersede older nonsharp intervals; no source theorem becomes a programme certificate. Five remaining interval entries do not assert openness. Phase1 IN_PROGRESS; no Phase2 target selected.
+S005 source-only audit independently rechecks S004's corrected 30 rows. No endpoint changes: source-exact families supersede older nonsharp intervals, with no programme certificate inferred. Five conditional interval entries do not assert openness. Phase1 IN_PROGRESS; no Phase2 target selected.
 
 **D(C6³)=16 is already a source-stated exact theorem.** CAM-0001 remains PROPOSED / NOT RUNNING with its premise obsolete. No Phase-2 target is selected. n=15 is the first interval requiring further literature review, not a declaration of openness.
 
@@ -73,3 +73,7 @@ All lower bounds are 3n−2; n=1 is the trivial group. `SETTLED` denotes a sourc
 - n=30: 3·28+6=90; S002 tripling and historical D(C10³)=28. No exact value authenticated for this row in this bounded audit; no claim of openness. Evidence class: PROGRAMME_DERIVED_INTERVAL_FROM_SOURCE_THEOREMS.
 
 Complete source pages, formula hypotheses, all 30 applications, and proof gaps: [S004 audit](../research/S004_PRIMARY_PROOF_INPUTS.md). Neither Yiu’s computational theorem nor Grinsztajn’s universal bound is needed for these endpoints. Old sessions record their historical knowledge state; this file supersedes their frontier recommendations.
+
+## S005 follow-through
+
+[Primary source and case/provenance audit](../research/S005_REMAINING_PROOF_OBLIGATIONS.md): the full 30-row bounds above are unchanged. Published Lemma5.2 contains a local nonzero alleged sum in its p7 proof; this affects verification of a large-prime auxiliary theorem, not any already-source-stated exact frontier row. Original rank-two Property B/C chain identified. Targeted searches for n=15,20,21,28,30 did not establish a new exact result; absence is not a claim of openness. No campaign was selected.

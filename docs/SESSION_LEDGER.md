@@ -13,3 +13,7 @@ For exact close evidence see [S001 closeout](../sessions/S001/CLOSEOUT.md).
 | S004 | 2026-10-11 | One primary-proof-input session; actual Grinsztajn PDF, definitive BSP, Sheikh/Yiu, historical frontier correction | Phase1 IN_PROGRESS; published n6=16, 25 exact/trivial rows; CAM-0001 PROPOSED / NOT RUNNING, premise obsolete; no Phase2/3 or campaign | session/S004-primary-proof-inputs |
 
 S004 closeout: [full record and unexecuted S005 handoff](../sessions/S004/CLOSEOUT.md). Owner “Continue” resumed this same S004, not a second session. Earlier interval and recommendation rows describe historical knowledge; current authority is STATE and frontier.
+
+| S005 | 2026-10-11 | Bounded source audit: published p7 false arithmetic, coefficient, Reiher B/C, BSP2007/Sheikh, GHST/Yiu provenance, historical 30-row frontier | Phase1 IN_PROGRESS, 25 exact/trivial + five intervals; no mathematical campaign, no candidate, no Phase2/3; CAM-0001 blocked | session/S005-remaining-proof-obligations |
+
+S005 closeout: [full record, validation and unexecuted S006 handoff](../sessions/S005/CLOSEOUT.md).

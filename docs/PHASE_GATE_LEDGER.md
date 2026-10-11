@@ -11,3 +11,5 @@
 **Phase-0 PASS scope:** governance construction only; it does not certify a mathematical case or numerical orbit count.
 
 S004 gate: 25 source-exact/trivial frontier rows and five conditional interval rows. A published exact theorem is not a programme-certified proof. No PASS for Phase 1 and no advance into Phase 2 or 3. Missing source text/records are recorded research obligations; no owner-action blocker was identified for S004 closeout.
+
+S005 gate (2026-10-11): **Phase 1 IN_PROGRESS**. Published BSP2012 p.29 displayed p7 arithmetic is nonzero, exact Lem2.3 coefficient still unproved, p7 omitted cases and p≥11 dependencies only partly rechecked. GHST original code-output URL identified but uninspected; Sheikh full Chapter4 and Yiu M1–M3 records unverified. Same 25 source-exact/trivial + five conditional interval rows, with no openness inference. Phases 2/3 **NOT_STARTED**. CAM-0001 **PROPOSED / NOT RUNNING**, activation blocked by source-exact n6. No owner/external blocker prevents S005 administrative close.

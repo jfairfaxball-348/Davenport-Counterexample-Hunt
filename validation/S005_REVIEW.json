@@ -1,0 +1,55 @@
+{
+  "session": "S005",
+  "date": "2026-10-11",
+  "entry_main": "6e10e9401c32e8a0f81ec7a1f1ea70f307d10d40",
+  "entry_record": "sessions/S005/ENTRY_REVIEW.json",
+  "phase1": "IN_PROGRESS",
+  "phase2": "NOT_STARTED",
+  "phase3": "NOT_STARTED",
+  "sources": 25,
+  "claims": 74,
+  "frontier_rows": 30,
+  "exact_or_trivial": 25,
+  "intervals": {
+    "15": [
+      43,
+      45
+    ],
+    "20": [
+      58,
+      59
+    ],
+    "21": [
+      61,
+      63
+    ],
+    "28": [
+      82,
+      83
+    ],
+    "30": [
+      88,
+      90
+    ]
+  },
+  "campaign": "CAM-0001_PROPOSED_NOT_RUNNING_ACTIVATION_BLOCKED",
+  "new_p7_local_error": "CLM-0073",
+  "reiher_original": "SRC-0025",
+  "published_n6": 16,
+  "source_executables_run": false,
+  "numerical_searches": 0,
+  "solvers_run": 0,
+  "orbit_enumeration": false,
+  "lean_run": false,
+  "candidates": 0,
+  "exhaustive_negatives": 0,
+  "hosted_ci_pass_claimed": false,
+  "github_actions_runs_at_entry": 0,
+  "check_runs_at_entry": 0,
+  "workflow_jobs_at_entry": 0,
+  "required_workflow_files": 0,
+  "input_transcription_sha256": "2223567bbc2f74d8bfe8bf3e1caafb7955aceabd773d48b9e5571c152176967e",
+  "unexecuted_next": "S006",
+  "owner_action_blockers": [],
+  "validation_scope": "Administrative-only, no mathematical verification"
+}

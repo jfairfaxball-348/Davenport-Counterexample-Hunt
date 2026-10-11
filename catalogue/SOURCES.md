@@ -104,7 +104,7 @@ Year: 2017. Access: **STATEMENT_INSPECTED** (2026-10-11).
 
 [Primary/discovery URL](https://pure.royalholloway.ac.uk/en/publications/the-davenport-constant-of-finite-abelian-groups/)
 
-Original university-indexed Chapter4 opening and Remark4.3.11 p.41 inspected; full thesis PDF/file variants HTTP403, full Chapter4 NOT read. Remark concerns exactly-three-free length16 assertion on BSP p.19; its example has a zero-sum pair and does not refute the distinct at-most-three-free Proposition8 step. SRC-0013 and SRC-0020 identify the same thesis.
+Original university-indexed Chapter4 opening and Remark4.3.11 p.41 inspected; full thesis PDF/file variants HTTP403, full Chapter4 NOT read. Remark concerns exactly-three-free length16 assertion on BSP p.19; its example has a zero-sum pair and does not refute the distinct at-most-three-free Proposition8 step. SRC-0013 and SRC-0020 identify the same thesis. S005 full Chapter4 access still HTTP403; 2016 seminar slide PDF is not the doctoral thesis.
 
 ## SRC-0014 — Combinatorica article on k-th Davenport constants of rank-two groups
 
@@ -120,7 +120,7 @@ Year: 2026. Access: **PROOF_INSPECTED** (2026-10-11).
 
 [Primary/discovery URL](https://arxiv.org/abs/2609.04950)
 
-S004 read 13-page v1 written proof (4 Sep2026): author claims D4(C5³)=30, Dk=5k+10 k≥2. Computational premises remain unverified here: M1 final predicate single implementation, M2 repeated according to author. Both downloaded source archives contain five TeX/bibliography files and no code/log/ancillary folder; manifest records exact hash/list. No code run or programme exact computation/certificate.
+S004 read 13-page v1 written proof (4 Sep2026): author claims D4(C5³)=30, Dk=5k+10 k≥2. Computational premises remain unverified here: M1 final predicate single implementation, M2 repeated according to author. Both downloaded source archives contain five TeX/bibliography files and no code/log/ancillary folder; manifest records exact hash/list. No code run or programme exact computation/certificate. S005 targeted public code/log/certificate searches did not locate a verified artifact; absence from retrieved bundles is not global absence.
 
 ## SRC-0016 — Grinsztajn, An upper bound for the Davenport constant of C_n^3
 
@@ -168,7 +168,7 @@ Year: 2012. Access: **PROOF_INSPECTED** (2026-10-11).
 
 [Primary/discovery URL](https://pro.univ-lille.fr/fileadmin/user_upload/pages_pros/gautami_bhowmik/Publications/large_exponent.pdf)
 
-Published Contemporary Mathematics 579 pp.21–31, DOI10.1090/conm/579/11515. Selected rank-three proofs pp.22–24,28–30 inspected. Thm1.2(3) includes p≥7. Lem2.1 statement (3p−1)/2 versus proof 3(p−1)/2, Lem2.3 omitted rank3 proof; p7 Lem5.2 cases not closed. Definitive version replaces draft as proof target.
+Published Contemporary Mathematics 579 pp.21–31, DOI10.1090/conm/579/11515. Selected rank-three proofs pp.22–24,28–30 inspected. Thm1.2(3) includes p≥7. Lem2.1 statement (3p−1)/2 versus proof 3(p−1)/2, Lem2.3 omitted rank3 proof; p7 Lem5.2 cases not closed. Definitive version replaces draft as proof target. S005 independently finds on printed p.29 that 2(6,1)+(1,6)+(1,0)=(0,1) mod7, not a zero sum; p7 case unresolved.
 
 ## SRC-0022 — Schmid, The inverse problem associated to the Davenport constant for C2 ⊕ C2 ⊕ C2n, and applications to the arithmetical characterization of class groups
 
@@ -192,4 +192,12 @@ Year: 2007. Access: **PROOF_INSPECTED** (2026-10-11).
 
 [Primary/discovery URL](https://doi.org/10.5281/zenodo.8281159)
 
-Integers7 A21, journal-linked archival PDF. Thm1.7 p.4 gives eta(Cn³)=8n−7 for n=3^a5^b. Selected proof pp.16–17 via Prop5.5/5.6 inspected: computational base s(C5³)=37 and PropertyD. No program execution/certification; eta5=33 remains source theorem.
+Integers7 A21, journal-linked archival PDF. Thm1.7 p.4 gives eta(Cn³)=8n−7 for n=3^a5^b. Selected proof pp.16–17 via Prop5.5/5.6 inspected: computational base s(C5³)=37 and PropertyD. No program execution/certification; eta5=33 remains source theorem. S005 identifies published pp.16–17 original full code/output pointer http://www.combinatorics.net.cn/homepage/hou/C53.html, which could not be inspected.
+
+## SRC-0025 — Christian Reiher, A proof of the theorem according to which every prime number possesses property B
+
+Year: 2010. Access: **PROOF_INSPECTED** (2026-10-11).
+
+[Primary/discovery URL](https://www.math.uni-rostock.de/math/pub/preprints/preprint/2010/pre10_01.pdf)
+
+Original 29-page Reiher thesis/paper; title/abstract and printed p.27 consulted. Establishes prime Property B and expressly invokes Gao–Geroldinger Theorem10.7 for B⇒C, giving every prime Property C. Full proof chain and that separate original theorem not independently reconstructed in S005.
