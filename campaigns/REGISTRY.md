@@ -41,3 +41,7 @@ CAM-0001 remains **PROPOSED / NOT RUNNING**, activation **BLOCKED** by source-st
 ### S008 disposition — 2026-10-11
 
 CAM-0001 **PROPOSED / NOT RUNNING**, activation **BLOCKED**: original Schmid2011 exact D(C6³)=16 invalidates the length-16 zero-sumfree premise. S008 only checked sources and symbolic conditional sublemmas CLM-0077/0078; no replacement, tooling, numerical search, solver, campaign, candidate or exhaustive negative. Phase1 IN_PROGRESS; Phases2/3 NOT_STARTED.
+
+### S009 disposition — 2026-10-11
+
+CAM-0001 remains **PROPOSED / NOT RUNNING**, activation **BLOCKED** by source-stated published Schmid2011 D(C6³)=16 and corroborating original 1969 exact families. Conditional p7 CLM-0079 and original-paper SRC-0026 bibliographical finding do not affect or activate this campaign. **Phase1 IN_PROGRESS; Phase2/3 NOT_STARTED.** No target replacement, solver, mathematical enumeration, candidate or certification.

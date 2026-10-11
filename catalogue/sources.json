@@ -232,6 +232,15 @@
       "access": "PROOF_INSPECTED",
       "accessed": "2026-10-11",
       "notes": "Original 29-page Reiher thesis/paper; title/abstract and printed p.27 consulted. Establishes prime Property B and expressly invokes Gao–Geroldinger Theorem10.7 for B⇒C, giving every prime Property C. Full proof chain and that separate original theorem not independently reconstructed in S005. S006 reads theorem10.2 and printed p27 B⇒C citation, not full dependency proof."
+    },
+    {
+      "id": "SRC-0026",
+      "title": "Gao–Geroldinger, On Long Minimal Zero-Sum Sequences in Finite Abelian Groups",
+      "year": "1999",
+      "url": "https://doi.org/10.1023/A:1004854508165",
+      "access": "METADATA_ONLY",
+      "accessed": "2026-10-11",
+      "notes": "Identified from Reiher2010 printed reference [6] (p.29), cited at p.27 as Gao–Geroldinger Theorem10.7 for Property B⇒C. Periodica Mathematica Hungarica 38 (1999), 179–211. Original journal publisher landing/preview inspected for identity only; complete original theorem proof not read and not to be confused with GG2006 survey. No original-source deduction promoted."
     }
   ]
 }

@@ -8,8 +8,8 @@
 
 S001 bootstrap: repository initialized from empty main via .gitignore initial commit `412f0088aeffb823f1533f5d0809806a6b58afde`. S001 session commit built as one new tree and one commit on `session/S001-bootstrap-frontier`.
 
-Current completed session: S008. Read research/S008_SOURCE_PROOF_VERIFICATION.md with S007, S006 and S004: new CLM-0077/0078 prove ONLY conditional two-mixed-line normalization and four conditional t-exclusions; stronger coefficient, full p7 classification/eta and computational provenance unverified. Source-stated n6=16 blocks CAM-0001, no replacement; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED.
+Current completed session: S009. Read research/S009_SOURCE_PROOF_VERIFICATION.md alongside S008/S007/S006/S004: CLM-0079 closes only the conditional two-mixed-line (5,5)-twice eight-vector subcase; no full p7 classification, eta7, or stronger coefficient. SRC-0026 identifies the original 1999 GG paper without access to its original proof. Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED; CAM-0001 blocked by n6=16; no CI PASS.
 
 Evidence note: p-group and historical exact-family values are SOURCE_STATED, not newly proved. FOUNDATIONS and S002/S004 record explicit programme proofs and conditional deductions separately. Phase 1 remains IN_PROGRESS; five interval entries do not assert present-day openness. All source-inspection scope limits are binding.
 
-Read authoritative/NEXT_SESSION_PROMPT.md only on a NEW S009 owner invocation; S009 is UNEXECUTED.
+Read authoritative/NEXT_SESSION_PROMPT.md only on a NEW S010 owner invocation; S010 is UNEXECUTED.

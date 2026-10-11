@@ -1,0 +1,73 @@
+{
+  "session": "S009",
+  "source_only": true,
+  "inspected": [
+    {
+      "id": "SRC-0021",
+      "printed_pages": "22–23,29–30",
+      "scope": "exact coefficient and conditional p7 eight-vector proof"
+    },
+    {
+      "id": "SRC-0025",
+      "printed_pages": "26–29",
+      "scope": "Reiher Theorem10.2 dependencies and reference [6] identity"
+    },
+    {
+      "id": "SRC-0026",
+      "printed_pages": "publisher metadata only",
+      "scope": "original GG1999 10.7 paper identified, original proof not accessed"
+    },
+    {
+      "id": "SRC-0008",
+      "printed_pages": "3,6–11",
+      "scope": "Prop1/8 and diagrams, unresolved k−2/k−3"
+    },
+    {
+      "id": "SRC-0013",
+      "printed_pages": "full 137-page thesis inaccessible",
+      "scope": "prior 403 and current retrieval error, Chapter4 unread"
+    },
+    {
+      "id": "SRC-0024",
+      "printed_pages": "16–17",
+      "scope": "C53 source/output pointer, both inaccessible"
+    },
+    {
+      "id": "SRC-0015",
+      "printed_pages": "v1 paper §§2.3,5,8",
+      "scope": "M1 final predicate versus repeated generations, M2/M3 distinction"
+    },
+    {
+      "id": "SRC-0022",
+      "printed_pages": "27–29",
+      "scope": "Schmid2011 n6=16 source exact"
+    },
+    {
+      "id": "SRC-0023",
+      "printed_pages": "33–35",
+      "scope": "van Emde Boas II 2p^a exact"
+    },
+    {
+      "id": "SRC-0002",
+      "printed_pages": "13–14",
+      "scope": "van Emde Boas III 3·2^a exact"
+    }
+  ],
+  "sheikh_historical_http403": true,
+  "sheikh_current_retrieval": "INTERNAL_FETCH_ERROR_NO_FULL_TEXT",
+  "sheikh_full_pdf_read": false,
+  "ghst_original_c53_code_read": false,
+  "ghst_original_c53_output_read": false,
+  "yiu_original_final_predicate_independently_certified": false,
+  "yiu_ancillary_full_code_logs_certificates_authenticated": false,
+  "author_code_executed": false,
+  "numerical_search_executed": false,
+  "frontier_all_30_checked": true,
+  "target_intervals": [
+    15,
+    20,
+    21,
+    28,
+    30
+  ]
+}

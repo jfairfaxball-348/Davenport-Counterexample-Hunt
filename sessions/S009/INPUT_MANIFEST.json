@@ -1,0 +1,9 @@
+{
+  "session": "S009",
+  "file": "sessions/S009/INPUT.md",
+  "copied_verbatim_from": "S008 merged authoritative/NEXT_SESSION_PROMPT.md",
+  "prior_source_blob_sha1": "19e4ab74193910f3cbe1b57b3f069cc9358fe5e7",
+  "owner_invocation_file": "sessions/S009/OWNER_INVOCATION.md",
+  "owner_invocation_scope": "Fresh user submitted full S009 handoff text; prompt matches committed S009 handoff. Raw chat transport bytes and SHA-256 unavailable; do not assert transport hash.",
+  "entry_main": "74130b059940a3bf4dbe4e75bb7fee40a7cdea49"
+}

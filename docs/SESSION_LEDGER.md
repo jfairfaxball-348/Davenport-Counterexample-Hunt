@@ -29,3 +29,7 @@ S006 closeout: [full record and future UNEXECUTED S007 prompt](../sessions/S006/
 | S008 | 2026-10-11 | Bounded source-only p7 conditional normalizations/t-exclusions, stronger coefficient, dependent papers and read-only provenance, full 30-row audit | Phase1 IN_PROGRESS; CLM-0077/0078 only; Phases2/3 NOT_STARTED; CAM-0001 BLOCKED, no search/candidate | session/S008-p7-classification-provenance |
 
 [S008 closeout and future UNEXECUTED S009 handoff](../sessions/S008/CLOSEOUT.md).
+
+| S009 | 2026-10-11 | Exactly one bounded source-only p7 eight-vector hand proof and original GG bibliography verification, other primary dependencies, 30-row frontier | CLM-0079 limited conditional result; SRC-0026 metadata, CLM-0080; Phase1 IN_PROGRESS, Phase2/3 NOT_STARTED; CAM-0001 BLOCKED, no campaign | session/S009-p7-eight-vector-source-audit |
+
+[S009 source report, closeout and full future UNEXECUTED S010 handoff](../sessions/S009/CLOSEOUT.md).

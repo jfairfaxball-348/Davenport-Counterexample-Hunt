@@ -1,0 +1,28 @@
+{
+  "session": "S009",
+  "entry_main": "74130b059940a3bf4dbe4e75bb7fee40a7cdea49",
+  "entry_tree": "19e0ac73ca2f9367c5a55295bc9cacbf758a0aa0",
+  "prior_s008_pr": 8,
+  "prior_s008_head": "99f689cd01a652614db58dc75709321cf871c679",
+  "prior_head_parent": "a973efe3a20709183d51716719c391b72fe4019f",
+  "prior_merge": "74130b059940a3bf4dbe4e75bb7fee40a7cdea49",
+  "prior_merge_parents": [
+    "a973efe3a20709183d51716719c391b72fe4019f",
+    "99f689cd01a652614db58dc75709321cf871c679"
+  ],
+  "prior_merge_tree": "19e0ac73ca2f9367c5a55295bc9cacbf758a0aa0",
+  "prior_pr_one_commit": true,
+  "all_s001_s008_prs_merged": true,
+  "open_prs": 0,
+  "competing_s009_branches_at_entry": false,
+  "main_branch_protected": false,
+  "branch_protection_standalone_endpoint": "UNAVAILABLE",
+  "rulesets": [],
+  "workflow_yaml": 0,
+  "action_runs": 0,
+  "action_jobs": 0,
+  "check_runs": 0,
+  "status_contexts": 0,
+  "combined_status": "pending with zero contexts",
+  "ci_pass_claimed": false
+}

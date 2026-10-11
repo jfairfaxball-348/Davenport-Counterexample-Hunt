@@ -24,28 +24,29 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S008",
-  "recommended_next_session": "S009",
+  "last_completed_session": "S009",
+  "recommended_next_session": "S010",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": null,
   "phase1_target_status": "WITHHELD_NO_REPLACEMENT_CAMPAIGN",
   "open_blockers": [
-    "BSP2012 Lemma2.1/2.3 printed pp.22–23: 3p split gives (3p−1)/2, not 3(p−1)/2; CLM-0068 conditional on eta and classical facts.",
-    "BSP2012 Lemma5.2 printed pp.29–30: CLM-0075 one false-sum subcase, CLM-0076 first replacement, CLM-0077 conditional two-line normalization and CLM-0078 four conditional t-exclusions; at-most-one mixed line, omitted eight vectors, multiplicities and final exhaustion still unproved; eta7 source-stated.",
-    "Reiher Theorem10.2 dependent lemmas, Gao–Geroldinger Theorem10.7 B⇒C original proof, BSP p≥11 plane averaging not fully re-proved.",
-    "BSP2007 Prop1/8 diagrams and k−2/k−3 discrepancy; full indexed Sheikh2017 thesis PDF not accessible (earlier HTTP403, S008 Internal Error/direct download fail), Chapter4 uninspected.",
-    "GHST C53 historical code/output inaccessible; Yiu M1 final disjointness predicate only singly implemented in described M1, M2/M3 ancillary implementation/log/certificates not independently inspected.",
-    "Schmid2011 n6=16 and historical 2p^a /3·2^a source-stated exact despite incomplete independent long proofs; five frontier intervals n15,20,21,28,30 not claimed open."
+    "BSP2012 Lem2.1/2.3 printed pp.22–23: R=(3p−1)/2 follows; stronger 3(p−1)/2 does not; CLM-0068 remains conditional on eta and external classical inputs.",
+    "BSP2012 Lem5.2 printed pp.29–30: CLM-0079 eliminates ONLY two-mixed-line normalized (5,5) multiplicity-two branch using the printed eight vector candidates; (5,5) other branch, at-most-one mixed subgroup, x+y intersection, forbidden triples, t=1/2/4 and eta7 remain unproved.",
+    "Reiher2010 Theorem10.2 dependency proofs and original Gao–Geroldinger1999 Theorem10.7 B⇒C inaccessible in full; BSP p≥11 plane averaging conditional on rank-two facts.",
+    "BSP2007 Prop1/8 pp.3,6–11 diagrams and k−2/k−3; full Sheikh2017 official 137-page Chapter4 unavailable, prior HTTP403 versus current retrieval error.",
+    "GHST2007 original C53.html code/output not accessed; Yiu2026 M1 final three-disjoint test singly implemented, M2/M3 distinct and original executable records/certificates not authenticated.",
+    "Schmid2011 n6=16 and original 1969 rank-three 2p^a / 3·2^a families source-stated exact despite incomplete independent long proofs; n15/20/21/28/30 interval rows do not assert present-day openness."
   ],
   "gate_ledger": "docs/PHASE_GATE_LEDGER.md",
   "source_snapshot": "2026-10-11",
   "warnings": [
-    "S008 new CLM-0077/0078 are ONLY scoped hand proofs; neither establishes p7 Lemma5.2/eta7 nor the stronger coefficient.",
-    "25 source-exact/trivial rows, five unchanged conditional intervals, no openness inference.",
-    "Inherited multiwise 14/17, +5 tripling, and orbit counts 43/699/5553 quarantined.",
-    "CAM-0001 PROPOSED / NOT RUNNING activation BLOCKED by source-stated D(C6³)=16; Phases2/3 NOT_STARTED.",
-    "No hosted workflow files/runs/jobs/check-runs/status contexts; no CI PASS. Rulesets visible [] but branch protection inaccessible/unknown."
+    "S009 CLM-0079 is a complete but STRICTLY CONDITIONAL eight-vector/multiplicity-two hand proof, NOT Lemma5.2 or eta7.",
+    "SRC-0026 identifies the original 1999 Gao–Geroldinger paper but its Theorem10.7 proof is not accessible in the publisher preview; source remains METADATA_ONLY.",
+    "25 source-exact/trivial and five unchanged intervals n15 43..45, n20 58..59, n21 61..63, n28 82..83, n30 88..90; no present-day openness inference.",
+    "Inherited D3/D4 14/17, tripling +5, GL orbit counts 43/699/5553 quarantined.",
+    "CAM-0001 PROPOSED / NOT RUNNING activation BLOCKED by published n6=16; Phases2/3 NOT_STARTED.",
+    "No .github/workflows files, hosted Actions runs/jobs, check-runs or status contexts; no CI PASS; branch main reported unprotected and rulesets []."
   ],
   "first_interval_requiring_literature_review": 15,
   "owner_action_blockers": []
