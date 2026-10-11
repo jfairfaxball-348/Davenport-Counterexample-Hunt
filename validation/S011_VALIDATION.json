@@ -1,0 +1,43 @@
+{
+  "session": "S011",
+  "kind": "ADMINISTRATIVE_ONLY",
+  "result": "PASS",
+  "checks": {
+    "priorS010MergeReconciled": true,
+    "openPRsZeroAtEntry": true,
+    "competingS011BranchAbsent": true,
+    "sourceIds26": true,
+    "claimIds83": true,
+    "sourceRefs": true,
+    "sourceAndClaimEnums": true,
+    "inheritedQuarantine": true,
+    "noComputedOrFormalClaim": true,
+    "sourceStatusScoped": true,
+    "localHandProofScoped": true,
+    "frontier30": true,
+    "intervalsFive": true,
+    "frontierMarkdownJsonMatch": true,
+    "sourceExactHistoricalPreserved": true,
+    "phaseGate": true,
+    "campaignHeld": true,
+    "inputCommittedHandoffExact": true,
+    "invocationSeparateNoTransportHashClaim": true,
+    "futureHandoffByteExact": true,
+    "futureUnexecuted": true,
+    "noHostedCiPassClaim": true,
+    "noAuthorCodeOrMathSearch": true,
+    "allNewJSONParses": true
+  },
+  "checks_passed": 24,
+  "mathematical_certification": false,
+  "source_code_executed": false,
+  "hosted_ci_pass": false,
+  "limits": [
+    "CLM-0083 proves only the printed six-line geometric existence, not full Lem5.2/eta7",
+    "GG1999 final conditional subset inference, full B=>C input proof unverified",
+    "Sheikh fresh HTTP403, original GHST C53/Yiu records unauthenticated",
+    "No hosted workflow runs/checks at S011 entry; zero checks NOT CI PASS",
+    "Raw owner chat transport byte checksum unavailable"
+  ],
+  "errors": []
+}

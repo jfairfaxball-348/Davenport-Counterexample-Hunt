@@ -1,0 +1,8 @@
+{
+  "session": "S011",
+  "committed_handoff_archived_exact": true,
+  "separate_fresh_owner_invocation_archived": true,
+  "raw_chat_transport_sha256": null,
+  "raw_transport_byte_exactness_claimed": false,
+  "notes": "Archive from S010 committed NEXT prompt is byte-identical; fresh invocation separately transcribed with no raw transport checksum."
+}

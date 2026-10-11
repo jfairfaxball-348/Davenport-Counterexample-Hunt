@@ -1,6 +1,6 @@
-# Frontier after S010
+# Frontier after S011
 
-S010 source-only audit independently preserves the same 30 rows after an additional limited p7 hand-proof and primary bibliography pass. No endpoint changes: source-exact families supersede older nonsharp intervals, with no programme certificate inferred. Five conditional interval entries do not assert openness. Phase1 IN_PROGRESS; no Phase2 target selected.
+S011 source-only audit independently preserves all 30 rows after one limited p7 hand proof CLM-0083 of the six-doubled-line geometry and GG1999 conditional original terminal argument. No endpoint changes: source-exact families supersede older nonsharp intervals, with no programme certificate inferred. Five conditional interval entries do not assert openness. Phase1 IN_PROGRESS; no Phase2 target selected.
 
 **D(C6³)=16 is already a source-stated exact theorem.** CAM-0001 remains PROPOSED / NOT RUNNING with its premise obsolete. No Phase-2 target is selected. n=15 is the first interval requiring further literature review, not a declaration of openness.
 
@@ -97,3 +97,7 @@ All 30 Markdown table entries above and machine-readable frontier rows preserve 
 ## S010 all-thirty-row source-only mirror reconciliation
 
 The complete thirty-row Markdown table above is unchanged against frontier.json at n=1..30: 25 SOURCE_STATED exact/trivial and five conditional intervals n15 43..45, n20 58..59, n21 61..63, n28 82..83, n30 88..90. Focused primary exact-paper review authenticated no new exact theorem; NON-DISCOVERY NEVER IMPLIES OPENNESS. Schmid2011 D(C6³)=16 and original van Emde Boas II/III 2p^a/3·2^a exact rank-three families remain SOURCE_STATED, not downgraded for incomplete independently reproduced long proofs. S010 CLM-0081 is a LOCAL p7 mixed-line sublemma and SRC-0026 is a source-access upgrade only, neither changes numeric endpoints. Inherited 14/17, tripling +5 and 43/699/5553 quarantined. Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 BLOCKED.
+
+## S011 full n=1..30 source and two-mirror audit
+
+All 30 rows retain exactly the same group, D*=3n−2, lower and upper endpoint, evidence and source class in frontier.json and the Markdown table. **25 exact/trivial source rows**, five conditional intervals **n15 43..45, n20 58..59, n21 61..63, n28 82..83, n30 88..90**. Bounded read-only original-source exact theorem queries authenticated no new exact result for those five; NON-DISCOVERY IS NEVER PROOF OF PRESENT-DAY OPENNESS. Schmid2011 published n6=16 and original van Emde Boas II/III exact 2p^a/3·2^a rank-three families remain SOURCE_STATED even though full long proofs are not independently rebuilt. New CLM-0083 does not change any Davenport numeric bound. Inherited 14/17, tripling +5 and GL-orbit 43/699/5553 quarantined. Phase1 IN_PROGRESS; Phases2/3 NOT_STARTED; CAM-0001 BLOCKED.

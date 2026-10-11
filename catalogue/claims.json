@@ -853,6 +853,17 @@
         "SRC-0025"
       ],
       "notes": "Original proof now PROOF_INSPECTED; does NOT mean B=>C programme proved; distinguish from 2006 survey and S009 previous METADATA_ONLY."
+    },
+    {
+      "id": "CLM-0083",
+      "statement": "Under actual BSP2012 Lem5.2 p7 15-term no nonempty zero sum of length <=7 and capacity-two-per-cyclic-line hypotheses, following CLM-0081, at least six cyclic lines each have two identical nonzero indexed terms; there must be three distinct doubly occurring x,y,z with x+y in <z>. Pure GL2 geometry proves the alternative six-line pair sums confined to the other two lines is impossible.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S011_SOURCE_PROOF_VERIFICATION.md section 1",
+      "source_ids": [
+        "SRC-0021"
+      ],
+      "notes": "COMPLETE hand proof ONLY of doubled-triple existence geometry. Seven lines full, one singleton; at most one mixed line leaves six equal-doubled lines. If pair sums avoid those six lines they lie on two complementary lines, sent to axes. Fix v1=(r,s), five other selected vectors fall in two coordinate-opposition classes, each at most two because three would force impossible pairwise opposite nonzero coordinates in odd characteristic. Subsequent forbidden doubled (1,0),(0,1),(2,2), normalizations, t1/2/4, full Lem5.2 and eta7 remain UNPROVED."
     }
   ]
 }

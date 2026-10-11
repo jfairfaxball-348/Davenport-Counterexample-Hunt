@@ -69,3 +69,10 @@
 | S010 | Frontier and CI | Every n1..30 unchanged, 25 source exact/trivial and five intervals; no hosted runs/check-runs/status contexts | Non-discovery not openness, admin validation not CI PASS |
 
 **S010 negative scope:** no zero-sumfree candidate, SAT/ILP, orbit enumeration, computational/numerical mathematical search, code execution, Lean, exhaustive negative, proof certificate, campaign or publication. Inherited 14/17, +5, 43/699/5553 remain quarantined.
+
+| S011 | p7 source six-line 'easy contradiction' | From 15 positions/capacity two and CLM-0081 at most one mixed line, select six equal-doubled lines. Pair sums confined to two remaining lines would force five other vectors into two coordinate-negation classes of size <=2 each | CLM-0083 proves geometric existence of doubled x,y,z with x+y in <z>; NOT a short-zero-sum classification, next doubled (1,0),(0,1),(2,2) triple is still unproved |
+| S011 | Original 1999 Property B=>C t-subset | Last three-distinct-x contradiction follows conditionally from universal t-subset sums=1, but getting universal condition from Lem10.6/Property B and internal lemmas not independently checked | Keep SRC-0026 PROOF_INSPECTED, CLM-0082 SOURCE_STATED; no independent full B=>C claim |
+| S011 | Source access gaps | Official Sheikh Chapter4 fresh S011 HTTP403 versus S010403/S009 internal error; GHST C53.html original code/output unavailable; Yiu M1 final three-disjoint test singly implemented and M2/M3 different | No author code run, no COMPUTED_EXACT, no false reproducibility claim |
+| S011 | Frontier/CI | Both 30-row mirrors identical, 25 published exact/trivial and five unchanged intervals; zero hosted CI files/runs/checks | Non-discovery not present-day openness; local ADMIN checks NOT hosted CI |
+
+**S011 negative scope:** no mathematical numerical/computational search, SAT/ILP, orbit enumeration, author program execution, zero-sumfree candidate, Lean, negative exhaustive certificate, manuscript, campaign, outreach or publication. Inherited 14/17, +5, 43/699/5553 quarantined.
