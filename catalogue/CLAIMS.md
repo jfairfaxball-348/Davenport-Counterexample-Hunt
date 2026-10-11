@@ -601,3 +601,11 @@ In the printed BSP2012 Lemma5.2 p7 subcase where (6,1) occurs twice and (2,4),(0
 Category: SOURCE_AUDIT. Origin: research/S006_COEFFICIENT_P7_PROVENANCE.md section New bounded p=7. Sources: SRC-0021.
 
 Direct conditional four-term symbolic calculation; other subcases, earlier normalizations and eta7 unresolved. See false printed sum CLM-0073.
+
+## CLM-0076 — PROGRAMME_PROVED
+
+Under the no-zero-sum-of-length-at-most-seven and at-most-two-terms-per-cyclic-subgroup hypotheses of BSP2012 Lemma5.2, replacing a pair x,2x with x,x cannot create a new short zero sum; iterating removes all x,2x pairs.
+
+Category: SOURCE_AUDIT. Origin: research/S007_SOURCE_PROOF_VERIFICATION.md section2. Sources: SRC-0021.
+
+The two terms x and 2x fill the cyclic subgroup's two allowed slots. Replace 2x by x. Any new zero sum with zero or one of the two x copies yields the same original zero sum; if it contains both, replace them by the single original 2x to yield a strictly shorter original zero sum. Therefore absence of sums of length at most seven is preserved; support shrinks and iteration terminates. This proves ONLY the first printed without-loss reduction, not later classification steps, Lemma5.2, eta7 or the exact k-wise coefficient.

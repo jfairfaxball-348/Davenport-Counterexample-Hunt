@@ -774,6 +774,17 @@
         "SRC-0021"
       ],
       "notes": "Direct conditional four-term symbolic calculation; other subcases, earlier normalizations and eta7 unresolved. See false printed sum CLM-0073."
+    },
+    {
+      "id": "CLM-0076",
+      "statement": "Under the no-zero-sum-of-length-at-most-seven and at-most-two-terms-per-cyclic-subgroup hypotheses of BSP2012 Lemma5.2, replacing a pair x,2x with x,x cannot create a new short zero sum; iterating removes all x,2x pairs.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S007_SOURCE_PROOF_VERIFICATION.md section2",
+      "source_ids": [
+        "SRC-0021"
+      ],
+      "notes": "The two terms x and 2x fill the cyclic subgroup's two allowed slots. Replace 2x by x. Any new zero sum with zero or one of the two x copies yields the same original zero sum; if it contains both, replace them by the single original 2x to yield a strictly shorter original zero sum. Therefore absence of sums of length at most seven is preserved; support shrinks and iteration terminates. This proves ONLY the first printed without-loss reduction, not later classification steps, Lemma5.2, eta7 or the exact k-wise coefficient."
     }
   ]
 }

@@ -1,0 +1,56 @@
+{
+  "session": "S007",
+  "source_only": true,
+  "inspected": [
+    {
+      "id": "SRC-0021",
+      "pages": "22–23,29–30",
+      "scope": "coefficient split and p7 first normalization, remaining cases"
+    },
+    {
+      "id": "SRC-0025",
+      "pages": "Theorem10.2 and p27",
+      "scope": "Reiher dependent lemmas/GG theorem citation"
+    },
+    {
+      "id": "SRC-0008",
+      "pages": "3,6–11",
+      "scope": "2007 Prop1/8 cases/count"
+    },
+    {
+      "id": "SRC-0020",
+      "pages": "Chapter4 index",
+      "scope": "official 137p full PDF HTTP403"
+    },
+    {
+      "id": "SRC-0024",
+      "pages": "16–17",
+      "scope": "GHST computational base/C53 inaccessible"
+    },
+    {
+      "id": "SRC-0015",
+      "pages": "arXiv v1 M1/M2/M3",
+      "scope": "author predicates, unverified ancillary"
+    },
+    {
+      "id": "SRC-0022",
+      "pages": "27–29",
+      "scope": "Schmid n6 published exact"
+    },
+    {
+      "id": "SRC-0023",
+      "pages": "33–35",
+      "scope": "1969 II historical exact"
+    },
+    {
+      "id": "SRC-0002",
+      "pages": "4–5,12–14",
+      "scope": "1969 III historical exact"
+    }
+  ],
+  "sheikh_full_pdf_url": "https://pure.royalholloway.ac.uk/files/28262990/The_Davenport_Constant_of_Finite_Abelian_Groups.pdf",
+  "full_thesis_read": false,
+  "author_code_executed": false,
+  "numerical_search_executed": false,
+  "external_code_or_logs_verified": false
+}
