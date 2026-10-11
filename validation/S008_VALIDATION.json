@@ -1,0 +1,38 @@
+{
+  "session": "S008",
+  "kind": "ADMINISTRATIVE_ONLY",
+  "result": "PASS",
+  "checks": {
+    "sourceIds25": true,
+    "claimIds78": true,
+    "uniqueSourceIds": true,
+    "uniqueClaimIds": true,
+    "stableSourceIds": true,
+    "stableClaimIds": true,
+    "allClaimSourcesExist": true,
+    "newClaimsMarkdown": true,
+    "sourceMarkdown25": true,
+    "claimMarkdown78": true,
+    "frontier30": true,
+    "fiveIntervals": true,
+    "bounds": true,
+    "intervalArithmetic": true,
+    "mdMirror": true,
+    "noCertifiedComputations": true,
+    "phaseHeld": true,
+    "futureHandoffExact": true
+  },
+  "checks_passed": 18,
+  "mathematical_certification": false,
+  "source_code_executed": false,
+  "hosted_ci_pass": false,
+  "limits": [
+    "Not full p7 proof; eta7 and BSP coefficient unverified",
+    "Sheikh university PDF current open/download inaccessible; earlier HTTP403",
+    "GHST C53 historical code-output inaccessible",
+    "Yiu ancillary source and final M1 independently checked predicate not authenticated",
+    "No hosted GitHub Actions, no CI PASS",
+    "Raw chat transport byte hash unavailable"
+  ],
+  "errors": []
+}
