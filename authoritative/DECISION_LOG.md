@@ -142,3 +142,7 @@ See research/S017_REIHER_PROPOSITION_8_1.md. Next S018 original Obs9.1/Lem9.2 is
 | 2026-10-12 | S035 s=-1 high-high transfer: D>=2tL, D=2Σ_HH(λ−2t), and HH pair moment nonexception only when λ=T | CLM-0138 exact indexed incidence and S031 pair moment; separate INTERNAL symbolic pass | PROGRAMME_PROVED scoped, no universal P |
 | 2026-10-12 | Counting all exceptional LL/LH/HH pairs yields E>=b(b+1)+3 and W>=ceil(E/3), p13>=128 vs old64 | S035 complete symbolic proof; no Z instance generated | Necessary LOWER support, not m2p contradiction or actual-Z projective UPPER |
 | 2026-10-12 | Preserve historical thirty D1 rows/evidence and 28 source enums; phase/campaign/CI unchanged, S036 future only | S035 primary pp22–24 and internal+admin audit | No D1/Dk theorem, search, novelty, external review or hosted CI PASS |
+
+| 2026-10-12 | S036 Route A1 symbolic vector-weighted Psi pair moment, STOP on first substantial theorem; A2/A3/Route B unexecuted | New owner invocation and preregistered plan | ONE Phase1 session only |
+| 2026-10-12 | Exact Σ_(k≠i,j) z_k Psi_ijk=0, >=2 nonzero witnesses per exceptional pair, 2E<=3W | CLM-0139 complete internal proof and separate adversarial pass | PROGRAMME_PROVED scoped, p7 W>=58/p13 W>=256 if m2p, NO contradiction |
+| 2026-10-12 | Preserve original30 frontier row objects/Markdown rows and original28 source enums; Phase1 IN_PROGRESS, CAM-0001 BLOCKED | S036 validation and SRC-0021 inspection | No new D1/Dk, candidate, published result, source upgrade or CI PASS; S037 FUTURE ONLY |

@@ -117,3 +117,7 @@ IN_PROGRESS; PASS WITHHELD. CLM-0132 exact sparse projective zero-fibre and exce
 ## S035 Phase-1 gate — 2026-10-12
 
 **IN_PROGRESS; PASS withheld.** CLM-0138 closes s=-1 m2p high-high transfer and establishes an actual indexed-Z-dependent **LOWER** nonzero Psi support: p13 >=128 versus prior64. Neither s=-1 low-high universal positivity nor all-pairs P is assumed; S034 s=+1 p7>=29 unchanged. S032 raw projective capacity U>=p²+10p−8 is not an opposing actual-Z cancellation UPPER bound. No m2p/m>=3p exclusion, p>=7 strong extraction, D2<=6p−6, rank3 D1/Dk resolution, original source promotion, campaign or publication. All original thirty frontier row objects and full ordered Markdown table rows preserved, original 28 source records unchanged. Phase2/3 NOT_STARTED; CAM-0001 PROPOSED/NOT_RUNNING/BLOCKED n6=16; hosted checks absent NOT PASS. S036 FUTURE ONLY.
+
+## S036 Phase-1 gate — 2026-10-12
+
+**IN_PROGRESS; PASS withheld.** CLM-0139 all-m vector-weighted Psi pair moment yields >=2 nonzero witnesses per exceptional pair and 2E<=3W; under m=2p p7 W>=58, p13 W>=256. Exactly-two parallelism is an allowed geometry, not a contradiction. No actual-Z projective cancellation UPPER, m2p/m>=3p exclusion, p>=7 strong extraction, D2 two-position saving, rank3 D1/Dk theorem/counterexample or new source authentic exact status. Original30 JSON and full ordered MD frontier entries unchanged, original28 source records unchanged. Phase2/3 NOT_STARTED, CAM-0001 PROPOSED/NOT_RUNNING/BLOCKED n6=16, no hosted CI PASS. S037 FUTURE.
