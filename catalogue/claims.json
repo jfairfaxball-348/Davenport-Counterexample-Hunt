@@ -1404,6 +1404,39 @@
         "SRC-0021"
       ],
       "notes": "Finite-field power sums + projective scaling; polynomial coefficient exchange. Conditional blocking-set vanishing does NOT assert arbitrary Psi=0 or m2p contradiction; internal proof, no priority claim."
+    },
+    {
+      "id": "CLM-0132",
+      "statement": "For any indexed no-short zero-sum Z in C_p^3, |Z|=N=3p, Psi_D=sum_{[X]:H_X subseteq D} prod_{v notin D}<X,z_v>. Nonzero triple support <=min(C(N,3),U), U=C(N,3)Q0+C(N-1,2)Q1+(N-2)Q2+Q3. Every exceptional pair lambda_ij!=t modp must be covered by a light functional, giving pair-cover capacity C(N,2)(Q0+Q1)+(2N-3)Q2+3Q3; m2p forces >=ceil(L(b+1)/2) exceptional pairs. Individual nonzero projective summands may cancel.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S032_PROJECTIVE_LIGHT_HYPERPLANE_NO_GO.md",
+      "source_ids": [
+        "SRC-0021"
+      ],
+      "notes": "Exact indexed zero fibre decomposition from S031 projective identity, and two necessary covering upper bounds only. No nonzero converse or m2p contradiction."
+    },
+    {
+      "id": "CLM-0133",
+      "statement": "For any 3p nonzero indexed vectors over Fp³, projective kernel multiplicities h_X satisfy sum_X(3-h_X)=3 and sum_X C(h_X,2)=C(3p,2)+p sum_projective_direction_d C(c_d,2). In no-short Z each one-dimensional projective direction has indexed multiplicity c_d<=p-1.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S032_PROJECTIVE_LIGHT_HYPERPLANE_NO_GO.md",
+      "source_ids": [
+        "SRC-0021"
+      ],
+      "notes": "Incidence of vector directions with projective annihilating functionals, parallel pair p+1 vs independent pair 1. Elementary C_p partial-sum short-zero-sum cap."
+    },
+    {
+      "id": "CLM-0134",
+      "statement": "Raw support-cover budget U from CLM-0132 ALWAYS satisfies U>=p²+10p-8 for p>=7, which is strictly above the S031 conditional m2p Psi lower B=ceil(L(b+1)/6). Hence comparing only these two coarse counts can never eliminate m2p; at p7 U>=111 vs B24. Does not preclude improved overlap/cancellation bounds.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S032_PROJECTIVE_LIGHT_HYPERPLANE_NO_GO.md",
+      "source_ids": [
+        "SRC-0021"
+      ],
+      "notes": "Use Q2=3-3Q0-2Q1+E, Q3=q-Q0-Q1-Q2-H and E>=H, all remaining U terms nonnegative. Scoped no-go, no D1 or Dk theorem."
     }
   ]
 }

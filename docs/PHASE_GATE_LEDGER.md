@@ -101,3 +101,7 @@ S030 CLM-0127: applying three-coordinate Chevalley–Warning to any two-index de
 ## S031 Phase-1 gate — 2026-10-12
 
 **IN_PROGRESS; PASS withheld.** CLM-0129 exact Psi pair-sum and CLM-0130 conditional >=ceil(L(b+1)/6) nonzero triple support (p7 >=24) are valid only as scoped necessary conditions. CLM-0131 projective representation/blocking criterion/exchange is proved but DOES NOT ensure enough triples blocked to exclude m2p, much less all m>=3p. No strong p>=7 extraction, omitted original BSP Lem2.3 proof, D2<=6p-6, classic rank3 D1 proof/counterexample, new exact original interval source, vector lift or novelty. Original 30 JSON/Markdown frontier rows preserved; Phase2/3 NOT_STARTED, CAM-0001 PROPOSED/NOT_RUNNING/BLOCKED n6=16. Zero hosted checks NOT CI PASS. S032 future only.
+
+## S032 Phase-1 gate — 2026-10-12
+
+IN_PROGRESS; PASS WITHHELD. CLM-0132 exact sparse projective zero-fibre and exceptional-pair coverage, CLM-0133 incidence moments and rank-one cap, and CLM-0134 universal coarse cover-budget NO-GO U>=p²+10p-8 (p7 U>=111 while S031 B>=24). No m2p or m>=3p exclusion, strong short extraction, D2 saving, rank3 D1 theorem/counterexample, source status or numeric frontier improvement. Actual Z-dependent hyperplane overlap/cancellation remains first essential STOP. Original30 frontier rows preserved; CAM-0001 PROPOSED/NOT_RUNNING/BLOCKED n6=16, Phase2/3 NOT_STARTED; zero hosted CI pass. S033 FUTURE ONLY.

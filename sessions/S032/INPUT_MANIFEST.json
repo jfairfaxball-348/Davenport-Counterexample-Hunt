@@ -1,0 +1,11 @@
+{
+  "session": "S032",
+  "canonical_source": "authoritative/NEXT_SESSION_PROMPT.md@a8d268c9dd6aa98781e08982d8a448b67c72f693",
+  "canonical_git_blob_sha": "3252076da91db9a9820577df21851da016063bfb",
+  "canonical_archived_verbatim": true,
+  "owner_invocation_file": "sessions/S032/OWNER_INVOCATION.md",
+  "raw_chat_sha256": null,
+  "archived_input_sha256": null,
+  "reason_no_digest": "Use source Git blob identity; authenticated raw-wire bytes/digest unavailable; no invented hash.",
+  "new_session_authorized": true
+}

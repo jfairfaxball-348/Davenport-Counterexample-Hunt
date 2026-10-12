@@ -923,3 +923,9 @@ Three-index deletion equals the polynomial degree sum and produces explicit Psi(
 - **CLM-0129 · PROGRAMME_PROVED (internal, SRC-0021 methodological context only):** For distinct indices i,j of a balanced-only indexed zero-sum Z, sum_{k !=i,j} Psi_ijk = s(lambda_ij-t) modulo p, with s=(-1)^b, t=(p+s)/2. If lambda_ij differs from t modulo p, at least one Psi triple is NONZERO.
 - **CLM-0130 · PROGRAMME_PROVED conditional:** IF m=2p, let L=(3p+2+3s)/2 count the low-degree r_i=t positions. At least ceil(L(b+1)/6) unordered triples have NONZERO Psi coefficient (p7 at least 24), by complete-index incidence counting. This does NOT exclude m=2p or larger m.
 - **CLM-0131 · PROGRAMME_PROVED identities:** Psi is the GL3-invariant projective sum of products of retained index linear forms. Any projective blocking configuration forces Psi=0; a four-index deletion exchange obeys all linear dependencies of the four corresponding z-vectors. The blocking premise is NOT universal. See [full S031 proof](../research/S031_TRIPLE_MOMENTS_AND_PROJECTIVE_EXCHANGE.md). No stronger extraction, D2, D1/Dk endpoint, vector lift, search or novelty claim.
+
+## S032 — projective zero-fibre, incidence moments and coarse-bound no-go
+
+- **CLM-0132 · PROGRAMME_PROVED scoped:** exact Psi projective zero-index-fibre representation; U upper support and exceptional-pair coverage bound, WITHOUT reverse noncancellation claim.
+- **CLM-0133 · PROGRAMME_PROVED:** sum(3-h_X)=3, exact second factorial projective moment and direction multiplicity <=p-1 under no-short.
+- **CLM-0134 · PROGRAMME_PROVED scoped NO-GO:** U>=p²+10p-8 >S031 B, p7 111>24, so raw geometric capacity comparison CANNOT exclude m2p. Overlap/cancellation/zero-sum block geometry first unproved extension. [Complete proof](../research/S032_PROJECTIVE_LIGHT_HYPERPLANE_NO_GO.md). No D1/Dk upgrade or novelty claim.
