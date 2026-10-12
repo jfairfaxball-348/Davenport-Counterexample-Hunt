@@ -334,3 +334,7 @@ SRC-0025 Reiher 29-page original printed24–26 images read, ONLY Proposition10.
 ### S021 SRC-0025 provenance addendum
 
 Fresh original 29-page PDF page-images inspected: printed pp3,6–7,19–20,26. Source access PROOF_INSPECTED retained. CLM-0110 complete rank-two Theorem10.2 independently reconstructed; no new PDF binary/hash, no rank-three upgrade. Original Sheikh full PDF HTTP403, GHST C53 original code/output inaccessible and Yiu terminal M1 independent logs/certificates not authenticated; no negative or source-class promotion inferred.
+
+### S022 original-source and provenance audit
+
+SRC-0025 Reiher printed pp26–27 original images independently read: universal Property B and Property C consequence. SRC-0026 GG1999 original pp203–208 conditional B⇒C original proof reconstructed in S013, composed with B in S022. SRC-0021 definitive BSP2012 Lem5.2 independently reconstructed S012 and used for eta(C7³)≤116; stronger splitting remains UNPROVED. SRC-0013/SRC-0020 official Sheikh full thesis HTTP403; SRC-0024 GHST original C53 code/output inaccessible, no execution; SRC-0015 original Yiu arXiv v1 HTML reviewed but final M1 independent predicate/logs/certificates unauthenticated. All 28 IDs and access classes preserved; no global absence/openness inference.

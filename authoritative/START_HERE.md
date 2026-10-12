@@ -41,3 +41,7 @@ See research/S020_REIHER_PROPOSITION_10_1.md; S021 original Theorem10.2 strictly
 ## S021 — 2026-10-12
 
 S021 independently closes original Reiher Theorem10.2 CLM-0110: every prime Property B (RANK TWO) after complete seven-case reduction; no unconditional Property C, eta(C7³)<=116 or rank-three D claim in S021. All 30 frontier numeric/status/evidence rows unchanged; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 BLOCKED n6=16; zero hosted checks NOT CI PASS. Original proof research/S021_REIHER_THEOREM_10_2.md; full handoff only future S022.
+
+## S022 — 2026-10-12
+
+S022 independently composes every-prime Property B CLM-0110 with the fully reconstructed conditional GG1999 B⇒C CLM-0093 to prove every-prime Property C CLM-0111; proves historical eta(C7³)≤116 CLM-0112 by maximal-line eight-plane counting with all six integer cases and CLM-0087/0091. This is NOT a rank-three Davenport equality or a novelty claim. Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 BLOCKED by source-stated n6=16; hosted CI absent (NOT PASS). See research/S022_PROPERTY_C_ETA7.md. S023 is strictly FUTURE UNEXECUTED; older dated summaries were accurate only at their own session cutoff.

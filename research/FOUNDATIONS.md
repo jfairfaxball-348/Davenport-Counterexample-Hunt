@@ -31,3 +31,7 @@ See research/S017_REIHER_PROPOSITION_8_1.md. Next S018 original Obs9.1/Lem9.2 is
 S018 independently reconstructs ONLY original Reiher Observation9.1 and Lemma9.2 over arbitrary K, char(K) != 2 (CLM-0104/0105), with dependent-X,Y basis case, exact conic equations, fourteen-sum collisions, all 4-of-7 pair line subcases, all 6-of-7 proper conic relabellings and verified printed typo Observation10.1 -> Observation9.1. STOP at Lem9.2: Section9 quartic/Obs9.4/9.5/Lem9.6 and Prop10.1 remain unproved; no universal Property B, unconditional Property C, eta(C7^3)<=116 or rank-three theorem. Thirty frontier values/evidence classes unchanged; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 PROPOSED / NOT RUNNING, activation BLOCKED by published n6=16. Zero hosted CI is NOT PASS.
 
 See research/S018_REIHER_SECTION9_CONIC_LEMMA.md; original quartic/Prop10.1 proof still unbuilt. S019 only on separate future owner invocation.
+
+## S022 new historic proof dependencies
+
+CLM-0111 every-prime Property C (S013 conditional B⇒C plus S021 universal B) and CLM-0112 eta(C7³)≤116 (CLM-0091 rank-two eta, CLM-0087 p7 lemma, eight-plane CEIL m cases) independently reconstructed in research/S022_PROPERTY_C_ETA7.md. Not rank-three Davenport exactness nor a new publication. BSP stronger coefficient/general omitted Lem2.3 still unproved.

@@ -868,3 +868,7 @@ Category: SOURCE_AUDIT. Origin: research/S018_REIHER_SECTION9_CONIC_LEMMA.md. So
 ### CLM-0110 — PROGRAMME_PROVED, S021
 
 Every prime Property B (original Reiher Theorem 10.2), symbolic original-source complete proof in research/S021_REIHER_THEOREM_10_2.md; input SRC-0025. Does NOT discharge conditional B=>C/eta7 or rank-three conjecture during S021.
+
+### S022 — CLM-0111 and CLM-0112: PROGRAMME_PROVED
+
+CLM-0111: Every prime Property C, original GG1999 Theorem10.7 conditional B⇒C CLM-0093 + universal Reiher B CLM-0110; p=2 and p=7 verified. Sources SRC-0025, SRC-0026. CLM-0112: eta(C7³)≤116 from precise eight-plane maximal-line counts (m=1..6), CLM-0091, CLM-0087, CLM-0111. Source SRC-0021. Full independent historically-published proofs [S022](../research/S022_PROPERTY_C_ETA7.md). Neither claim resolves D(C7³), general rank-three Davenport conjecture nor disputed stronger BSP coefficient.

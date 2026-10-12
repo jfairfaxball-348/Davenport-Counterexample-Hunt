@@ -95,3 +95,7 @@ Published Schmid2011 source-stated n6=16 makes the inherited length16 zero-sumfr
 ### S021 — CAM-0001 PROPOSED / NOT RUNNING / ACTIVATION BLOCKED
 
 Source-stated published D(C6³)=16 still invalidates the inherited length16 zero-sumfree premise. Universal prime Property B is rank TWO and does not change this fact. No Phase2/3, replacement campaign/target, mathematical search, solver, code, candidate, Lean or certificate.
+
+### S022 — 2026-10-12
+
+CAM-0001 stays PROPOSED / NOT RUNNING, activation BLOCKED by published historical exact D(C6³)=16. S022 rank-two Property C and rank-three eta upper bound do NOT change that campaign or select a new D target. No Phase2/3, candidate, mathematical search, solver or certificate; Phase1 IN_PROGRESS.

@@ -1,0 +1,37 @@
+# S022 — unconditional prime Property C and the p=7 eta bridge
+
+12 October 2026. ONE bounded Phase-1 original-primary-source symbolic hand-proof session. LIVE entry main `fccf9f0d4c2d58a7c7a96e585fd7dfab8b6993ee`, tree `740adfaa0cb6a414d04e83299c7ec9c9d1f32bdb`. Historically published mathematics independently reconstructed, not new research or a rank-three Davenport conjecture resolution. No numerical mathematical search, CAS/SAT/ILP, author code execution, candidates, campaigns, Lean, manuscripts, outreach, submission or publication.
+
+## Definitions, proofs and dependency graph
+
+C_p denotes Z/pZ, and a **short** zero-sum subsequence is NONEMPTY, of **at most p** indexed positions. Property C(p) says any short-free S∈C_p² of length 3p−3 is precisely a^(p−1)b^(p−1)c^(p−1) for three **distinct** elements a,b,c. Property B(p) concerns maximal length-(2p−1) minimal zero sums over C_p² (equivalently suspicious length 2p−2); it is not a rank-three statement.
+
+Already proved inputs: S013 CLM-0089–0093 reconstruct exact rank-two p/2p extraction, D(C_p²)=2p−1, η(C_p²)≤3p−2 and original Gao–Geroldinger1999 Lem10.6 plus complete Theorem10.7 implication B(p)⇒C(p), including indexed trichotomy. S021 CLM-0110 proves Reiher Theorem10.2 Property B(p) for **EVERY prime**, using independently proved CLM-0094–0109. S012 CLM-0087 is full independent proof of published BSP2012 Lemma5.2: any 15-term short-free C7² sequence has at least THREE positions on a cyclic subgroup. Preserve corrections to the original printed false doubled triple.
+
+### CLM-0111: every prime has Property C, with no remaining hypothesis
+
+For every odd prime p, apply CLM-0110 to discharge the ONLY conditional external B(p) premise in CLM-0093. The previously proved conditional proof is substantive, not simply a source citation: append zero to a putative short-free length 3p−3 S; the proved p/2p extraction and eta bound supply a minimal length 2p−1 zero-sum subsequence; Property B forces b^(p−1). Translate by −b, preserving only p- or 2p-term zero-sum absence (because p b=0); pad any zero block among residual 2p−2 translated positions with the p−1 available zeros to p or 2p. Thus that residual R is genuinely **all-length zero-sumfree**. Append its negative total to obtain a maximal minimal rank-two zero sum. Property B either finds a second repeated value already in R, or determines p−2 copies of the appended value. In the latter branch the remaining indexed coordinate pairs (x_i,y_i), 1≤x_i,y_i≤p−1, satisfy x_i+y_i=m∈{3,…,p−1}, and **for every t-subset I** the exact original alternative is (sum_I x_i=1) OR (all x_i=1) OR (all x_i=m−1). Do NOT assume the first clause universally. S012 CLM-0088 and the S013 complete trichotomy proof force a second disjoint value of multiplicity p−1, and proved original Lem10.6 yields the third. Having p−1 repeats of three values fills 3p−3 positions; values must be distinct, since p repeats of one value already form a short zero sum. This proof does not import the conjectured rank-three Davenport theorem.
+
+The p=2 case is independent: S length 3 over C2² can contain neither zero (short singleton) nor repeated element (short pair), so must contain each of the three distinct nonzero elements once. This is precisely the three blocks with p−1=1. For p=7, every short-free length 18 sequence has three distinct elements each SIX times. Therefore C(p) holds for every prime. QED. Original Reiher SRC-0025 printed p27 explicitly draws this historical consequence from GG1999 Theorem10.7 SRC-0026; S022 independently discharges the implication instead of merely quoting it.
+
+### CLM-0112: eta(C7³)≤116, exact integral endpoints
+
+Suppose a sequence A of N=3·7²−4·7−3=116 elements of C7³ has **no** nonempty zero-sum subsequence of length ≤7. Zero is absent. Since seven terms in any cyclic C7 line force a nonempty zero sum of length ≤7 (D(C7)=7), its maximum 1-dimensional *linear* subgroup occupancy m is an integer in {1,2,3,4,5,6}. Choose maximal line L. Precisely 7+1=8 planes U≅C7² pass through L, and their off-L parts partition the other 116−m indexed positions. Some U contains
+
+    |A ∩ U| ≥ m + ceil((116−m)/8).
+
+All positions in U remain short-free; counting is with multiplicities and integer CEIL, with no affine translation.
+
+* m=6: 6+ceil(110/8)=20; m=5: 5+ceil(111/8)=19. Both contradict η(C7²)≤3p−2=19, proved independently CLM-0091, since U must have a short zero sum.
+* m=4: 4+ceil(112/8)=18; m=3: 3+ceil(113/8)=18. Select ANY 18 U-positions. By unconditional C(7), CLM-0111, six of these are one common nonzero point, giving ≥6 occupied positions in its linear cyclic subgroup, contradicting m≤4.
+* m=2: 2+ceil(114/8)=17; m=1: 1+ceil(115/8)=16. Choose ANY 15 U-positions. They are short-free and every cyclic subgroup contains ≤m≤2 of them. This contradicts independently reconstructed BSP2012 p7 Lemma5.2, CLM-0087, which forces ≥3 in some cyclic subgroup.
+
+Thus every possible m is eliminated. Every 116-term sequence has a short zero sum, so η(C7³)≤116. QED. This is only the upper bound for the DIFFERENT invariant eta; it does not prove exact η, D(C7³), or D(C_n³)=3n−2 for general n. The disputed BSP2012 stronger 3(p−1)/2 splitting coefficient and omitted general rank-three Lemma2.3 proof are **not used**.
+
+## Original-source provenance and scope
+
+Reiher SRC-0025 original 29p PDF at https://www.math.uni-rostock.de/math/pub/preprints/preprint/2010/pre10_01.pdf printed pp26–27 (PDF page indices25–26) inspected as images for B and C. No fresh binary hash in this session. GG1999 SRC-0026 original pp203–208 reconstructed in S013 (historical author scan 1147605 bytes SHA256 a60f6192235fa25ac9161dbb689032de1c67d0d8684e3c703cb469f8681ee42f); current web endpoint could not supply a fresh PDF. BSP2012 SRC-0021 publisher offprint pp22–23,29–30 reconstructed in S012. Proven stronger general splitting coefficient remains unproved; original BSP2007 SRC-0008 full diagrams/upper induction unproved.
+
+S022 lawful fresh retrieval attempts: official Sheikh2017 full 137-page thesis PDF https://pure.royalholloway.ac.uk/files/28262990/The_Davenport_Constant_of_Finite_Abelian_Groups.pdf HTTP403; entire Chapter4/Remark4.3.11 not acquired. Original GHST2007 C53.html https://www.combinatorics.net.cn/homepage/hou/C53.html inaccessible: complete historical code **and** output not authenticated or executed. Original Yiu arXiv:2609.04950v1 HTML inspected but independent terminal M1 three-disjoint test implementation/logs/certificates not authenticated. S013 16680-byte historical SHA256 99dc658b3381038fe0c7b2f89145c52a9687e185883cf2a6fdcc0cb8860b1e21 archive is README/TeX/bib, NOT final M1. Reported 98622 generators/230983 extensions are intermediate; M2≤6=24/M3≤7=19 different predicates. No global nonexistence or present-day openness inference.
+
+Both n1..30 frontier numeric/status/evidence/source rows preserved. Five intervals still n15 43..45, n20 58..59, n21 61..63, n28 82..83, n30 88..90; bounded read-only searches found no newly authenticated exact theorem, NOT a current-openness proof. Schmid2011 source-stated D(C6³)=16 and van Emde Boas II/III families 2p^a,3·2^a remain SOURCE_STATED, not programme-proved. Inherited 14/17, +5, orbit43/699/5553 quarantined; multiwise D3(C3³)=15,D4=18 distinct from at-most-three17. Phase1 IN_PROGRESS pending other source gates; Phases2/3 NOT_STARTED, CAM-0001 PROPOSED/NOT_RUNNING, activation BLOCKED by n6=16. Hosted CI absence is NOT PASS.
