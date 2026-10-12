@@ -1,4 +1,6 @@
-# Frontier after S025
+# Frontier after S026
+
+# S026 adds CLM-0122: >=4 indexed balanced b-zero-sum blocks are necessary for each 3p zero-sum under a no-short hypothesis (Olson D1 SOURCE_STATED). The four-or-more possibility remains; no new D1 or Dk claim. All 30 numeric/source/status/evidence table rows are unchanged.
 
 S025 independently reconstructs original odd-prime rank3 Chevalley–Warning 6p−3 p-or-3p existence and weaker <=(3p−1)/2 extraction, with classical Olson D1 SOURCE_STATED as premise. Strong p>=7 3(p−1)/2 extraction UNPROVED and safe recurrence has two-position downstream deficit; this is NOT any new D1 equality or candidate. S022 historically-proved Property C and eta7 remain scoped. Phase1 IN_PROGRESS; Phases2/3 NOT_STARTED; CAM-0001 PROPOSED / NOT RUNNING, activation BLOCKED by published n6=16. ALL 30 original numeric/status/evidence rows remain unchanged; no openness inference. Zero hosted CI, NOT PASS.
 

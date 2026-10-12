@@ -1,0 +1,54 @@
+{
+  "session": "S026",
+  "checks": [
+    {
+      "name": "entry actual S025 one commit PR25 non-force two-parent merge/tree",
+      "status": "PASS_ADMIN"
+    },
+    {
+      "name": "canonical S026 prompt archived as identical committed source content",
+      "status": "PASS_ADMIN",
+      "source_git_blob_sha": "ba4f78dce5776f34f6815479975af3ec1d945e75"
+    },
+    {
+      "name": "CLM-0122 indexed pair-cover and three-block incidence proof",
+      "status": "HAND_PROOF_REVIEWED_NOT_FORMALLY_CERTIFIED",
+      "first_unclosed": "four-or-more balanced b blocks"
+    },
+    {
+      "name": "strong p>=7 extraction",
+      "status": "UNPROVED_INTERNAL"
+    },
+    {
+      "name": "D2<=6p−6 bypass",
+      "status": "NOT_PROVED_ALTERNATIVE_ONLY"
+    },
+    {
+      "name": "whole 30-row JSON+Markdown original numeric/status/source/evidence frontier",
+      "status": "PASS_ADMIN_PRESERVED",
+      "rows": 30,
+      "intervals": [
+        15,
+        20,
+        21,
+        28,
+        30
+      ]
+    },
+    {
+      "name": "phase gate/campaign",
+      "status": "PASS_ADMIN",
+      "phase1": "IN_PROGRESS",
+      "phase2": "NOT_STARTED",
+      "phase3": "NOT_STARTED",
+      "CAM": "PROPOSED/NOT_RUNNING/BLOCKED n6=16"
+    }
+  ],
+  "hosted_actions_runs": 0,
+  "hosted_check_runs": 0,
+  "hosted_status_contexts": 0,
+  "hosted_ci_pass": false,
+  "mathematical_numerical_search": false,
+  "author_code_executed": false,
+  "new_rank_three_D1_value": false
+}

@@ -97,3 +97,5 @@ S012 closeout: [complete record and FUTURE UNEXECUTED S013 handoff](../sessions/
 | S025 | 2026-10-12 | Original definitive BSP2012 6p−3 odd-prime rank3 Chevalley–Warning complete hand proof, stronger balanced-only gate, weak recurrence downstream two-position audit, read-only primary provenance, full n1..30 mirrors | CLM-0120/0121; weaker extraction now proved with SOURCE_STATED Olson input; p>=7 strong and omitted rank3 Lem2.3 unclosed; 30 D1 rows unchanged; Phase1 IN_PROGRESS, CAM-0001 BLOCKED | session/S025-bsp-odd-prime-cw-audit |
 
 [S025 full proof/closeout and complete strictly future UNEXECUTED S026 handoff](../sessions/S025/CLOSEOUT.md).
+
+| S026 | 2026-10-12 | New CLM-0122 symbolic balanced-only indexed pair-cover / triple-incidence obstruction: >=4 distinct b zero-sums; four-or-more case first essential unresolved; no Dk/D1 advancement | COMPLETED proof-first STOP, Phase1 IN_PROGRESS; S027 FUTURE UNEXECUTED |

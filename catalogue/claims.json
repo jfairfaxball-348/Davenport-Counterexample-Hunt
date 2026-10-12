@@ -1291,6 +1291,18 @@
         "SRC-0003"
       ],
       "notes": "PROGRAMME_PROVED exact integer algebra of valid upper-bound route, NOT lower bound on actual D_k, NOT failure of downstream theorem or D1 conjecture. Olson D1 remains SOURCE_STATED original classical theorem."
+    },
+    {
+      "id": "CLM-0122",
+      "statement": "For odd prime p>=7, let a=3(p−1)/2, b=a+1=(3p−1)/2. If an indexed sequence S of length 6p−3 over C_p³ has no nonempty zero sum of size <=a, then every contained 3p-term zero-sum Z has >=4 distinct indexed b-term zero-sum subsets; any pair of indices in Z is co-contained or co-excluded by one b-zero subset, and any three distinct b-zero subsets have some pair separated by all three.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S026_BALANCED_ONLY_INCIDENCE.md",
+      "source_ids": [
+        "SRC-0021",
+        "SRC-0003"
+      ],
+      "notes": "New finite incidence / 3-bit affine-rank proof with determinants ±1,±2 in odd characteristic, conditional on classical SOURCE_STATED Olson D1 used to obtain pair-cover and S025 CW extraction. Does NOT disprove >=4 families, stronger p>=7 extraction, generalized Dk bounds or classical rank3 D1 conjecture."
     }
   ]
 }

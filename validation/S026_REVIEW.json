@@ -1,0 +1,11 @@
+{
+  "session": "S026",
+  "verdict": "SCOPED_PROGRAMME_PROVED_WITH_SOURCE_STATED_INPUT",
+  "claim": "CLM-0122",
+  "premise": "classical Olson D(Cp³)=3p−2 SOURCE_STATED and S025 CLM-0120",
+  "review": "symbolic affine incidence algebra independent under odd p; r=1 rank-singular FACE excluded by block properness; r=0,2 determinant unit; r=3 determinant ±2 invertible",
+  "first_essential_unclosed": "4+ b-zero-sum block configuration",
+  "strong_extraction_p_ge_7": "NOT PROVED",
+  "rank_three_D1_counterexample": "NONE",
+  "hosted_CI_PASS": false
+}
