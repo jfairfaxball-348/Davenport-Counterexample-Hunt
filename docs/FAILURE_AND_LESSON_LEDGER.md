@@ -120,3 +120,7 @@ Original PDF IMAGE says n>=5 and m>=3 in Obs9.4, while extracted text misleading
 ## S020 — quartic index and provenance boundaries
 
 The original Proposition10.1 proof uses two distinct nonzero members of W and two DIFFERENT auxiliary Cor3.4 sequences: append E,F then F,F. Deleting newly appended positions requires the already-present identical original E/F indices; the reported proof checks these explicitly. Binomial/factorial denominators including 24((p−5)!)² remain invertible at p5 and p7. The conclusion is ONLY Proposition10.1, not Theorem10.2/universal B/C, eta7 or rank-three theorem. Official Sheikh thesis HTTP403; original C53 full code/output inaccessible; Yiu final independent M1 predicate unauthenticated. Non-discovery is not current openness. No hosted CI PASS, Phase1 still IN_PROGRESS, CAM-0001 still blocked.
+
+## S021 — dependency discipline
+
+Original universal prime Property B is rank TWO. Exact Lem9.2(a)–(g) mapping and p2/p3/p5 endpoints independently closed, but S013 conditional Property C and eta(C7³)<=116 deliberately not promoted during this bounded session. Original full Sheikh thesis HTTP403; GHST C53 code/output inaccessible, Yiu terminal M1 unauthenticated. Missing hosted CI is not green; bounded non-discovery is not present-day openness.

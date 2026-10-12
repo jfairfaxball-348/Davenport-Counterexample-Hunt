@@ -1,0 +1,8 @@
+{
+  "session": "S021",
+  "incoming_committed_handoff_blob": "d7bf9fb2cec7f8a63da8cec1cc62fe6f024a5672",
+  "incoming_committed_handoff_equal": true,
+  "S020_closeout_handoff_equal": true,
+  "owner_invocation_transcribed": true,
+  "raw_chat_transport_sha256_claimed": false
+}

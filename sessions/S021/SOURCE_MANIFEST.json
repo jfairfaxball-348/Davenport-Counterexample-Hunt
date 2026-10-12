@@ -1,0 +1,31 @@
+{
+  "session": "S021",
+  "reiher": {
+    "id": "SRC-0025",
+    "url": "https://www.math.uni-rostock.de/math/pub/preprints/preprint/2010/pre10_01.pdf",
+    "printed_pages": "3,6-7,19-20,26",
+    "pdf_zero_based": "2,5-6,18-19,25",
+    "page_images_inspected": true,
+    "fresh_binary_sha256": false,
+    "historical_S017_SHA256": "7d94931bcbf8fb4ce77c0ed94206659df74e8cb5543e1615e7dde23e86b994d8",
+    "target": "Theorem10.2",
+    "stop_before": "Property C / eta / rank-three"
+  },
+  "sheikh": "Official full 137-page PDF HTTP403; Chapter4 unread",
+  "ghst": "Original C53.html full code/output inaccessible/unexecuted",
+  "yiu": "v1 HTML available, independent final three-disjoint M1 predicate/logs/certificates unauthenticated",
+  "frontier": {
+    "all30": true,
+    "intervals": [
+      15,
+      20,
+      21,
+      28,
+      30
+    ],
+    "new_exact_primary": false,
+    "nondiscovery_not_openness": true
+  },
+  "mathematical_search": false,
+  "author_code": false
+}

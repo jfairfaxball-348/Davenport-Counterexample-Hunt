@@ -8,7 +8,7 @@
 
 S001 bootstrap: repository initialized from empty main via .gitignore initial commit `412f0088aeffb823f1533f5d0809806a6b58afde`. S001 session commit built as one new tree and one commit on `session/S001-bootstrap-frontier`.
 
-Current completed session: S018. The only active continuation is a NEW separately owner-invoked S019 as specified in authoritative/NEXT_SESSION_PROMPT.md. S019 is STRICTLY FUTURE UNEXECUTED.
+Current completed session: S021. The only active continuation is NEW separately owner-invoked S022 in authoritative/NEXT_SESSION_PROMPT.md. S022 is STRICTLY FUTURE UNEXECUTED.
 
 S012–S016 independent p7/rank-two/coefficient/collinear/trapezoid results remain preserved. S017 adds ONLY original Reiher Proposition8.1 (CLM-0103), with both η signs, all original determinants, four genuine conditional µ=1 equations, exact strategic equation and printed cancellation 2(1−x−y)=0; Prop5.1 is applied to three DISTINCT ORIGINAL collinear terms, p5 included. See research/S017_REIHER_PROPOSITION_8_1.md.
 
@@ -37,3 +37,7 @@ See research/S019_REIHER_SECTION9_GENERAL_POSITION.md. S020 Prop10.1 strictly FU
 S020 independently closes ONLY original Reiher Proposition10.1 CLM-0109: 14 quartic moment coefficients, at-most-two-dimensional V, 1/4/6/4/1 factorial identity, two indexed auxiliary Cor3.4 applications with p5 boundary and residual contradiction. Original Theorem10.2/universal Property B, unconditional C, eta(C7³)<=116 and rank-three D conjecture remain not programme-proved. All 30 numerical/status/evidence frontier rows unchanged; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 PROPOSED / NOT RUNNING activation BLOCKED by published n6=16; zero hosted checks NOT CI PASS.
 
 See research/S020_REIHER_PROPOSITION_10_1.md; S021 original Theorem10.2 strictly FUTURE UNEXECUTED, requiring a new invocation.
+
+## S021 — 2026-10-12
+
+S021 independently closes original Reiher Theorem10.2 CLM-0110: every prime Property B (RANK TWO) after complete seven-case reduction; no unconditional Property C, eta(C7³)<=116 or rank-three D claim in S021. All 30 frontier numeric/status/evidence rows unchanged; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 BLOCKED n6=16; zero hosted checks NOT CI PASS. Original proof research/S021_REIHER_THEOREM_10_2.md; full handoff only future S022.

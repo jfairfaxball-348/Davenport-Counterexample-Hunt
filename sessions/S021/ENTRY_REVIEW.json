@@ -1,0 +1,28 @@
+{
+  "session": "S021",
+  "entry_main": "1dd9d3bf20ecbce23b23a3174ce06f39e9fadd42",
+  "entry_tree": "3823dc8236e892561ea7ca46d155e82bf539bd72",
+  "prior_S020_branch": "9e6d45bde9b651db8b71d5fa32916292ccbe115d",
+  "prior_S020_parent": "ba5b98d5cdec49f81207260df09ac8f829ebcbd9",
+  "prior_S020_tree": "3823dc8236e892561ea7ca46d155e82bf539bd72",
+  "prior_pr": 20,
+  "prior_two_parent_merge": "1dd9d3bf20ecbce23b23a3174ce06f39e9fadd42",
+  "prior_merge_parents": [
+    "ba5b98d5cdec49f81207260df09ac8f829ebcbd9",
+    "9e6d45bde9b651db8b71d5fa32916292ccbe115d"
+  ],
+  "open_prs": 0,
+  "competing_S021_branch_at_entry": 0,
+  "all20_prs_merged": true,
+  "rulesets": [],
+  "protected_branch_summary": false,
+  "protection": "HTTP403 inaccessible",
+  "workflow_files_in_tree": 0,
+  "workflow_list": "unsupported, not zero evidence",
+  "hosted_runs": 0,
+  "jobs": "no runs, no jobs to enumerate",
+  "check_runs": 0,
+  "status_contexts": 0,
+  "combined_status": "pending",
+  "ci_pass": false
+}

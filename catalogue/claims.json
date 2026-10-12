@@ -1153,6 +1153,17 @@
         "SRC-0025"
       ],
       "notes": "Fourteen moment interpolation, W dim≥3, Q/Boolean cube exact indexed 1/4/6/4/1 factorial identity, two auxiliary Cor3.4 sequences with swapped identical-index deletion, residual E^(p−2)F^(p−3), final trapezoid contradiction. No original Theorem10.2, Property B/C, eta7 or rank-three inference."
+    },
+    {
+      "id": "CLM-0110",
+      "statement": "Original Reiher Theorem10.2 independently hand-proved: every prime possesses Property B; all cloudy length-(2p−1) sequences are simple, equivalently suspicious length-(2p−2) sequences have source types I/II.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S021_REIHER_THEOREM_10_2.md",
+      "source_ids": [
+        "SRC-0025"
+      ],
+      "notes": "Both-way cloudification, p2/p3, support<=3, seven indexed Lem9.2 alternatives (a) cloudiness (b) Cor2.5 (c) Prop5.1 (d) Prop6.2 (e/f) Prop8.1 (g) Lem9.6 general position then Prop10.1 including p5. NO S021 Property C/eta/rank3 upgrade."
     }
   ]
 }
