@@ -1,4 +1,6 @@
-# Frontier after S029
+# Frontier after S030
+
+S030 CLM-0127: applying three-coordinate Chevalley–Warning to any two-index deletion directly proves indexed pair-cover without the SOURCE_STATED classical Olson D1 input; for m=kp the exact level census is r_i=t+p j_i (0<=j_i<=k-1), sum j_i=kb-3t. CLM-0128: three-index deletion is the EXACT degree boundary and its zero-support count equals an explicitly signed three-colour partition coefficient, not automatically 0 mod p. Two-index deletion congruences are redundant given S029. Neither m=2p nor larger m is excluded; strong short extraction and D2<=6p-6 remain UNPROVED. No classic rank-three D1/Dk update or novelty claim. Older S029 table and historical summaries remain unchanged.
 
 S029 CLM-0125/0126: elementary indexed Chevalley–Warning deletion counts force the complete number m of balanced b-zero-sum blocks to be a positive multiple of p and m>=2p, with 2r_i=m+(-1)^b mod p. At m=2p there is an exact two-degree census. Therefore EVERY exactly-four indexed family is impossible, independently of signature count. An arbitrary S028 no-short six-cell lift is NOT ruled out: it must create at least 2p-4 additional partial-cell b-blocks. First essential gap is m>=2p indexed families. Strong extraction and D2<=6p-6 remain UNPROVED; no rank-three D1/Dk numerical update, no novelty claim. Older numbered summaries below are historical; the complete original table is unchanged.
 

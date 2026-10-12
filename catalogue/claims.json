@@ -1349,6 +1349,28 @@
         "SRC-0021"
       ],
       "notes": "Corollary of CLM-0125 and CLM-0124 whole-cell uniqueness. Eliminates exact-four premise, not arbitrary lift; larger indexed families m>=2p remain first essential gap. No D1/Dk endpoint update or symbolic candidate."
+    },
+    {
+      "id": "CLM-0127",
+      "statement": "Given indexed zero-sum Z of length3p in F_p^3 with no nonempty zero sum of length <=a=3(p-1)/2, for every distinct positions i,j a complete b-zero-sum block contains both or neither; the pair-cover is proved locally by two-deletion three-coordinate Chevalley–Warning WITHOUT Olson D1. If m=kp (k>=2), r_i=t+p j_i with 0<=j_i<=k-1, sum j_i=kb-3t, t=(p+(-1)^b)/2. Two-index CW congruence is redundant.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S030_TWO_DELETION_AND_TRIPLE_BOUNDARY.md",
+      "source_ids": [
+        "SRC-0021"
+      ],
+      "notes": "Self-contained local necessary-condition and degree-layer algebra, no classical Olson imported for pair-cover. No global Olson reconstruction, m2p exclusion, short-extraction or rank-three D1/Dk claim."
+    },
+    {
+      "id": "CLM-0128",
+      "statement": "For three distinct deletions i,j,k from indexed balanced-only zero-sum Z of length3p, the zero count in 3p-3 variables is the exact top-degree three-colour ordered-partition coefficient Psi(Z\\{i,j,k}) = -1/2+(-1)^b(lambda_ij+lambda_ik+lambda_jk-2tau_ijk) mod p. The total degree EQUALS n at this boundary, so no strict Chevalley–Warning vanishing is implied. This does not exclude any allowed complete family m>=2p.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S030_TWO_DELETION_AND_TRIPLE_BOUNDARY.md",
+      "source_ids": [
+        "SRC-0021"
+      ],
+      "notes": "Elementary indicator expansion and Wilson factorial sign, proved symbolically. Psi is value-sensitive; no universal bound/nonvanishing or D2 saving. Not source-attributed priority or a classic rank-three conjecture result."
     }
   ]
 }

@@ -1,0 +1,11 @@
+{
+  "session": "S030",
+  "canonical_source": "authoritative/NEXT_SESSION_PROMPT.md@6263732628029ef7b31dbf0fbb3ae94a01d30e9e",
+  "canonical_git_blob_sha": "51bb39a8402401bb6a0db8986f486b888838dd1c",
+  "canonical_archived_verbatim": true,
+  "archived_input_sha256": null,
+  "owner_invocation": "Visible text transcribed in OWNER_INVOCATION.md",
+  "raw_chat_sha256": null,
+  "reason_no_raw_digest": "No authenticated raw transport bytes were available; Git blob SHA identifies canonical prompt source, not a raw chat SHA-256.",
+  "new_session_authorized": true
+}

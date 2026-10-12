@@ -1,0 +1,40 @@
+{
+  "session": "S030",
+  "checks": [
+    {
+      "name": "original 30 frontier JSON row objects untouched",
+      "status": "PASS_ADMIN",
+      "rows": 30,
+      "entry_reference": "6263732628029ef7b31dbf0fbb3ae94a01d30e9e"
+    },
+    {
+      "name": "original 30 Markdown table rows and evidence order untouched",
+      "status": "PASS_ADMIN",
+      "rows": 30,
+      "entry_reference": "6263732628029ef7b31dbf0fbb3ae94a01d30e9e"
+    },
+    {
+      "name": "claim IDs unique, source access enums legal and unchanged",
+      "status": "PASS_ADMIN"
+    },
+    {
+      "name": "all changed JSON constructed with JSON.stringify",
+      "status": "PASS_ADMIN"
+    },
+    {
+      "name": "CLM-0127/0128 separately internally reconstructed",
+      "status": "HAND_PROOF_REVIEWED_NOT_FORMALLY_CERTIFIED",
+      "first_unclosed": "value-sensitive triple-boundary coefficient control and m>=2p indexed family"
+    }
+  ],
+  "mathematical_numerical_search": false,
+  "author_code_executed": false,
+  "new_D1_value": false,
+  "new_Dk_bound": false,
+  "hosted_actions_runs": 0,
+  "hosted_check_runs": 0,
+  "hosted_status_contexts": 0,
+  "hosted_ci_pass": false,
+  "proof_sha256": null,
+  "reason_no_proof_sha256": "Repository blob SHA available after commit; no authenticated SHA-256 proof bytes service in connector. No invented digest."
+}

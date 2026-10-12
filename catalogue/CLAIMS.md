@@ -909,3 +909,11 @@ No rank-three Davenport D(C_n³) value or evidence class changed; result correct
 **CLM-0125 · PROGRAMME_PROVED (conditional local theorem):** S029 CLM-0125/0126: elementary indexed Chevalley–Warning deletion counts force the complete number m of balanced b-zero-sum blocks to be a positive multiple of p and m>=2p, with 2r_i=m+(-1)^b mod p. At m=2p there is an exact two-degree census. Therefore EVERY exactly-four indexed family is impossible, independently of signature count. An arbitrary S028 no-short six-cell lift is NOT ruled out: it must create at least 2p-4 additional partial-cell b-blocks. First essential gap is m>=2p indexed families. Strong extraction and D2<=6p-6 remain UNPROVED; no rank-three D1/Dk numerical update, no novelty claim.
 
 **CLM-0126 · PROGRAMME_PROVED (conditional corollary):** Exactly-four indexed families are excluded by m>=2p. Whole-cell four-block uniqueness does not imply indexed uniqueness. [Complete self-contained proof](../research/S029_INDEXED_CW_BLOCK_MULTIPLICITY.md). No SOURCE_STATED Olson D1 import is required for these local deductions; SRC-0021 supplies methodological context, not a source assertion of these results.
+
+## CLM-0127 — PROGRAMME_PROVED (scoped local necessary condition)
+
+Two-index deletion gives elementary CW pair-cover without Olson D1 in the local balanced-only 3p zero-sum setting. For m=kp, r_i=t+p j_i, j_i in {0,...,k-1}, sum j_i=kb-3t. Two-deletion congruence adds no constraint to S029. [Complete proof](../research/S030_TWO_DELETION_AND_TRIPLE_BOUNDARY.md). SRC-0021 is *methodological original provenance*, NOT source for S030's internal deduction.
+
+## CLM-0128 — PROGRAMME_PROVED (exact boundary identity only)
+
+Three-index deletion equals the polynomial degree sum and produces explicit Psi(T)=-1/2+s(sum lambda_ij-2tau_ijk), where Psi is an ordered three-colour equal-size partition coefficient of individual vector coordinates. Strict CW is **NOT** valid here. No exclusion of m=2p, no strong extraction, D2 or rank3 D1 result. [Proof and essential gap](../research/S030_TWO_DELETION_AND_TRIPLE_BOUNDARY.md).

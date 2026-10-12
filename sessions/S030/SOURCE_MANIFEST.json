@@ -1,0 +1,40 @@
+{
+  "session": "S030",
+  "reviewed": [
+    {
+      "id": "SRC-0021",
+      "url": "https://pro.univ-lille.fr/fileadmin/user_upload/pages_pros/gautami_bhowmik/Publications/large_exponent.pdf",
+      "access": "PROOF_INSPECTED",
+      "observed": "2026-10-12 source original pages22-24, p23 screenshot; CLM-0127/0128 are internal not source claims"
+    },
+    {
+      "id": "SRC-0003",
+      "access": "STATEMENT_INSPECTED",
+      "observed": "Historical Olson source-stated, S030 pair-cover independent locally"
+    },
+    {
+      "name": "Sheikh2017",
+      "access": "BIBLIOGRAPHIC_PAGE_ONLY",
+      "observed": "Official thesis metadata accessible, complete Chapter4 not inspected"
+    },
+    {
+      "name": "GHST original author C53",
+      "access": "UNREAD",
+      "observed": "Original http legacy endpoint inaccessible, code-output not run"
+    },
+    {
+      "id": "SRC-0015",
+      "access": "PROOF_INSPECTED",
+      "observed": "Prior v1 written source preserved; no independent terminal M1 certification"
+    }
+  ],
+  "interval_primary_exact_searches": [
+    15,
+    20,
+    21,
+    28,
+    30
+  ],
+  "new_authenticated_exact_sources": 0,
+  "source_access_enum_changes": 0
+}

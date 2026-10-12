@@ -111,3 +111,7 @@ S012 closeout: [complete record and FUTURE UNEXECUTED S013 handoff](../sessions/
 | S029 | 2026-10-12 | One Phase1 indexed original-CW-method symbolic gate, all-index deletion/congruence and incidence double-counting, separate adversarial review | CLM-0125/0126: p divides m and m>=2p, exact-four case impossible; arbitrary six-cell lifts with extra partial-cell blocks unresolved; Phase1 IN_PROGRESS, CAM-0001 BLOCKED; S030 FUTURE | session/S029-indexed-cw-block-multiplicity |
 
 [S029 proof, entry evidence, separate review, validation, closeout and future S030 handoff](../sessions/S029/CLOSEOUT.md).
+
+| S030 | 2026-10-12 | One original-primary-source Phase1 symbolic indexed CW two-/three-deletion gate with internal adversarial reconstruction | CLM-0127 Olson-free local pair cover and all m=kp degrees; CLM-0128 exact three-deletion boundary Psi, no m2p contradiction; Phase1 IN_PROGRESS, CAM-0001 BLOCKED; S031 FUTURE UNEXECUTED | session/S030-two-deletion-triple-boundary |
+
+[S030 symbolic proof, review, validation, closeout and strictly future S031 handoff](../sessions/S030/CLOSEOUT.md).

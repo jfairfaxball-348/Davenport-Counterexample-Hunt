@@ -1,0 +1,31 @@
+{
+  "session": "S030",
+  "entry_main": "6263732628029ef7b31dbf0fbb3ae94a01d30e9e",
+  "entry_tree": "d859f6fc8d860666b1776c23d4981c8e6e68728f",
+  "prior_s029_branch": "4a568eb851ca9b5f607ab69deda83b7dde2933da",
+  "prior_s029_parent": "5fa1f4c645f4d9454341e17eb3ba104f75b44487",
+  "prior_s029_tree": "d859f6fc8d860666b1776c23d4981c8e6e68728f",
+  "prior_pr": 29,
+  "prior_merge": "6263732628029ef7b31dbf0fbb3ae94a01d30e9e",
+  "prior_merge_parents": [
+    "5fa1f4c645f4d9454341e17eb3ba104f75b44487",
+    "4a568eb851ca9b5f607ab69deda83b7dde2933da"
+  ],
+  "prior_branch_commits": 1,
+  "prs_total": 29,
+  "open_prs": 0,
+  "prior_prs_1_to_29": "ALL MERGED",
+  "competing_s030_at_entry": 0,
+  "branches_total": 30,
+  "rulesets": [],
+  "main_protected_summary": false,
+  "branch_protection": "403 Resource not accessible by integration, details UNKNOWN",
+  "workflow_files_recursive_tree": 0,
+  "workflow_listing_endpoint": "Connector endpoint rejected, UNKNOWN",
+  "hosted_actions_runs": 0,
+  "hosted_jobs": 0,
+  "hosted_check_runs": 0,
+  "hosted_status_contexts": 0,
+  "combined_status": "pending with zero contexts",
+  "hosted_ci_pass": false
+}
