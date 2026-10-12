@@ -1,0 +1,30 @@
+{
+  "session": "S020",
+  "reiher": {
+    "source": "SRC-0025",
+    "url": "https://www.math.uni-rostock.de/math/pub/preprints/preprint/2010/pre10_01.pdf",
+    "pages": "printed 24-26; PDF zero-based23-25",
+    "page_images_inspected": true,
+    "fresh_binary_sha256": false,
+    "historical_S017_SHA256": "7d94931bcbf8fb4ce77c0ed94206659df74e8cb5543e1615e7dde23e86b994d8",
+    "target": "Proposition10.1",
+    "stop_before": "Theorem10.2"
+  },
+  "sheikh": "S020 official Royal Holloway thesis HTTP403; full Chapter4 unread",
+  "ghst": "S020 original C53.html full code/output inaccessible, unexecuted",
+  "yiu": "S020 original arXiv2609.04950v1 HTML read-only, final independent M1 predicate/logs/certificates unverified",
+  "frontier": {
+    "all30": true,
+    "intervals": [
+      15,
+      20,
+      21,
+      28,
+      30
+    ],
+    "new_exact_primary": false,
+    "nondiscovery_not_openness": true
+  },
+  "mathematical_computation": false,
+  "raw_chat_transport_hash": false
+}

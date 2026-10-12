@@ -83,3 +83,6 @@ See research/S017_REIHER_PROPOSITION_8_1.md. Next S018 original Obs9.1/Lem9.2 is
 
 | 2026-10-12 | S019 independently closes only original Reiher Obs9.4(n>=5), Obs9.5 and Lem9.6; corrected extractor n>5 and printed 10.4/10.2(g) references | SRC-0025 CLM-0106–0108, S019 research | PROGRAMME_PROVED LIMITED SCOPE, not universal Property B |
 | 2026-10-12 | Preserve 30 frontier original rows and historical Schmid n6=16; source access Sheikh403/C53 inaccessible/Yiu final M1 incomplete; no CI PASS | S019 provenance and mirrors | Phase1 IN_PROGRESS, S020 FUTURE ONLY |
+
+| 2026-10-12 | S020 independently hand-proves only Reiher original Proposition10.1 with 14 moments, W, exact 1/4/6/4/1 ratios, auxiliary repeated-index checks and p5 boundary | SRC-0025 CLM-0109, S020 research report | PROGRAMME_PROVED LIMITED SCOPE; Theorem10.2/universal B not executed; Phase1 IN_PROGRESS |
+| 2026-10-12 | All30 frontier rows untouched; Sheikh original403, GHST C53 inaccessible, Yiu final M1 unauthenticated, zero hosted CI | S020 provenance and mirror audit | Phases2/3 NOT_STARTED; CAM-0001 BLOCKED n6=16, S021 FUTURE ONLY |

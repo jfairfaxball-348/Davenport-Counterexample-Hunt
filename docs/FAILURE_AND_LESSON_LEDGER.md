@@ -116,3 +116,7 @@ Original Observation9.1 basis normalization silently presupposes X,Y independent
 ## S019 — source rendering and geometric dimension controls
 
 Original PDF IMAGE says n>=5 and m>=3 in Obs9.4, while extracted text misleadingly says n>5 and m>3. Essential n=5 application independently proved. Obs9.5 dimension intersections, forbidden 5-plane/3-line and terminal permutation reconstructed with explicit nonzero factors. Lem9.6 printed 10.4/10.2(g) really original 9.4/9.2(g); Q_i distinct and proper-conic coefficient checked. No general Property B. S019 official Sheikh403, original C53 inaccessible, final Yiu M1 independently unauthenticated. No fresh Reiher binary due DNS; zero hosted checks NOT CI PASS. S020 NOT RUN.
+
+## S020 — quartic index and provenance boundaries
+
+The original Proposition10.1 proof uses two distinct nonzero members of W and two DIFFERENT auxiliary Cor3.4 sequences: append E,F then F,F. Deleting newly appended positions requires the already-present identical original E/F indices; the reported proof checks these explicitly. Binomial/factorial denominators including 24((p−5)!)² remain invertible at p5 and p7. The conclusion is ONLY Proposition10.1, not Theorem10.2/universal B/C, eta7 or rank-three theorem. Official Sheikh thesis HTTP403; original C53 full code/output inaccessible; Yiu final independent M1 predicate unauthenticated. Non-discovery is not current openness. No hosted CI PASS, Phase1 still IN_PROGRESS, CAM-0001 still blocked.

@@ -73,3 +73,7 @@ S012 closeout: [complete record and FUTURE UNEXECUTED S013 handoff](../sessions/
 | S019 | 2026-10-12 | One primary-source original Reiher Obs9.4/9.5/Lem9.6 symbolic hand proof, provenance and n1..30 audit | CLM-0106–0108 only; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 blocked | session/S019-reiher-section9-general-position |
 
 [S019 full proof and CLOSEOUT; strictly future S020 handoff](../sessions/S019/CLOSEOUT.md).
+
+| S020 | 2026-10-12 | ONE original Reiher Proposition10.1 quartic/interpolation/multiplicity hand-proof, provenance and full thirty-row audit | CLM-0109 only; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 BLOCKED NOT RUNNING; no campaign | session/S020-reiher-proposition-10-1 |
+
+[S020 proof and CLOSEOUT with FULL strictly future S021 handoff](../sessions/S020/CLOSEOUT.md).

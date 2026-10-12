@@ -132,3 +132,7 @@ All 30 Markdown table rows and JSON rows were reconciled for n, lower/upper boun
 ## S019 — n1..30 complete numerical/evidence mirror audit
 
 All thirty Markdown/JSON row values, bounds, statuses, evidence classes and original reported values unchanged. Five original intervals n15=43..45,n20=58..59,n21=61..63,n28=82..83,n30=88..90, 25 historical exact/trivial. No bounded read-only source found authenticated new exact changes; this is NOT a proof of current openness. Source-stated Schmid2011 n6=16 and van Emde Boas II/III rank-three 2p^a/3*2^a families retained without claiming independent full proofs. CLM-0106–0108 is rank-two geometry, not a rank-three upgrade.
+
+## S020 — n1..30 complete numerical/status/evidence mirror review
+
+ALL thirty original Markdown/JSON numeric/report/status/evidence row values unchanged. 25 settled/trivial, five conditional intervals: n15=43..45,n20=58..59,n21=61..63,n28=82..83,n30=88..90. Bounded original-source queries did not authenticate exact upgrades, NOT proof of present-day openness. Historical original Schmid2011 n6=16 and van Emde Boas II/III rank-three 2p^a and 3*2^a families remain SOURCE_STATED without whole original proof reconstruction. Rank-two Prop10.1 changes no rank-three row.

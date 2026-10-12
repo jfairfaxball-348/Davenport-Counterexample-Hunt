@@ -1142,6 +1142,17 @@
         "SRC-0025"
       ],
       "notes": "Seven ± pairs, Q_i distinct, parity symmetrization, four independent quadric sextuples, exact 9.4 and 9.5/9.2(g) application; printed references 10.4/10.2(g) are 9.4/9.2(g), NOT Prop10.1."
+    },
+    {
+      "id": "CLM-0109",
+      "statement": "Original Reiher Proposition10.1 independently hand-proved: every cloudy length-(2p−1) F_p² sequence containing four original points in quartic general position is simple, including p5.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S020_REIHER_PROPOSITION_10_1.md",
+      "source_ids": [
+        "SRC-0025"
+      ],
+      "notes": "Fourteen moment interpolation, W dim≥3, Q/Boolean cube exact indexed 1/4/6/4/1 factorial identity, two auxiliary Cor3.4 sequences with swapped identical-index deletion, residual E^(p−2)F^(p−3), final trapezoid contradiction. No original Theorem10.2, Property B/C, eta7 or rank-three inference."
     }
   ]
 }

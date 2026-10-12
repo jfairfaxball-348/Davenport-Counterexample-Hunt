@@ -1,0 +1,14 @@
+{
+  "session": "S020",
+  "result": "PASS FOR LIMITED ORIGINAL PROPOSITION10.1",
+  "claim": "CLM-0109",
+  "proof_path": "research/S020_REIHER_PROPOSITION_10_1.md",
+  "original_primary_pages": "24-26",
+  "p5_boundary_checked": true,
+  "all_auxiliary_index_deletions_accounted_for": true,
+  "theorem_10_2_executed": false,
+  "phase1": "IN_PROGRESS",
+  "campaign_status": "BLOCKED_NOT_RUNNING",
+  "hosted_ci_pass": false,
+  "owner_action_blocker": false
+}

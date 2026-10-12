@@ -24,8 +24,8 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S019",
-  "recommended_next_session": "S020",
+  "last_completed_session": "S020",
+  "recommended_next_session": "S021",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": null,
@@ -33,7 +33,7 @@
   "open_blockers": [
     "Complete CLM-0087 p7 Lem5.2 preserved; rank-two eta now independently proved CLM-0091. eta(C7³)<=116 remains conditional on Property B through CLM-0093; no unconditional eta upgrade.",
     "BSP2012 Lem2.1/2.3 pp22–23 split supports R=(3p−1)/2, NOT stronger 3(p−1)/2; CLM-0068 only conditional on eta(Cp³)<=3p²−4p−3 and classical inputs.",
-    "S019 closes original Reiher Observation9.4/9.5/Lemma9.6 (CLM-0106–0108) after preserved S014–S018. FIRST further original universal Property B prerequisite is Proposition10.1; not programme-proved, so no unconditional prime Property C, eta(C7³)<=116 or rank-three theorem.",
+    "S020 closes original Reiher Proposition10.1 CLM-0109; first further unpublished programme proof prerequisite is original Theorem10.2; no universal Property B/C, eta(C7³)<=116 or rank-three conjecture proved.",
     "BSP2007 full diagrams/classification/upper induction unproved; Sheikh2017 S017 official HTTP403 separate earlier session attempts; full Chapter4 unread and exactly-three differs from at-most-three.",
     "GHST2007 original C53.html code/output not inspected; Yiu2026 M1 final three-disjoint test singly implemented despite repeated generation, M2/M3 distinct, original complete independent code/log/certificates unauthenticated.",
     "All n1..30 frontier values unchanged; published Schmid2011 n6=16 and 1969 van Emde Boas rank-three exact families retain source status; five intervals do not prove present-day openness."
@@ -41,6 +41,7 @@
   "gate_ledger": "docs/PHASE_GATE_LEDGER.md",
   "source_snapshot": "2026-10-12",
   "warnings": [
+    "S020 independently closes ONLY original Reiher Proposition10.1 CLM-0109: 14 quartic moment coefficients, at-most-two-dimensional V, 1/4/6/4/1 factorial identity, two indexed auxiliary Cor3.4 applications with p5 boundary and residual contradiction. Original Theorem10.2/universal Property B, unconditional C, eta(C7³)<=116 and rank-three D conjecture remain not programme-proved. All 30 numerical/status/evidence frontier rows unchanged; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 PROPOSED / NOT RUNNING activation BLOCKED by published n6=16; zero hosted checks NOT CI PASS.",
     "S019 independently hand-proves ONLY Reiher's original Observation9.4, Observation9.5 and Lemma9.6 over fields of characteristic !=2 (CLM-0106–0108), with n>=5 conic dimension, quadratic-surface rank and fourteen-sum Veronese geometry. Proposition10.1/universal Property B, unconditional Property C, eta(C7³)<=116 and rank-three Davenport conjecture remain unproved. All 30 numerical/status/evidence frontier rows unchanged; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 PROPOSED / NOT RUNNING and BLOCKED by source-stated n6=16. No hosted CI PASS.",
     "S018 independently reconstructs ONLY original Reiher Observation9.1 and Lemma9.2 over arbitrary K, char(K) != 2 (CLM-0104/0105), with dependent-X,Y basis case, exact conic equations, fourteen-sum collisions, all 4-of-7 pair line subcases, all 6-of-7 proper conic relabellings and verified printed typo Observation10.1 -> Observation9.1. STOP at Lem9.2: Section9 quartic/Obs9.4/9.5/Lem9.6 and Prop10.1 remain unproved; no universal Property B, unconditional Property C, eta(C7^3)<=116 or rank-three theorem. Thirty frontier values/evidence classes unchanged; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 PROPOSED / NOT RUNNING, activation BLOCKED by published n6=16. Zero hosted CI is NOT PASS.",
     "S017 independently reconstructs ONLY original Reiher Proposition8.1, CLM-0103: both η²=1 configurations, four genuine indexed conditional µ=1 identities, exact strategic equation and printed multipliers giving 2(1−x−y)=0; three DISTINCT ORIGINAL collinear A,B,C permit proved Prop5.1, including p5. STOP before Section9. Universal Property B, unconditional Property C, eta(C7³)≤116 and rank-three conjecture NOT proved. All 30 numeric/evidence rows unchanged; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 PROPOSED / NOT RUNNING activation BLOCKED by published n6=16. Zero hosted checks NOT CI PASS.",
