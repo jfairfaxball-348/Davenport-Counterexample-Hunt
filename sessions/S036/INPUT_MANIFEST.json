@@ -1,0 +1,11 @@
+{
+  "session": "S036",
+  "canonical_source": "authoritative/NEXT_SESSION_PROMPT.md@af4a4a41b26c8ecb45bad431253976cc1cb7303b",
+  "canonical_git_blob_sha": "193288e92b86836c1da4d1914ac29bcc3bd3bfde",
+  "canonical_archived_verbatim": true,
+  "owner_invocation_file": "sessions/S036/OWNER_INVOCATION.md",
+  "raw_chat_sha256": null,
+  "archived_input_sha256": null,
+  "reason_no_digest": "Canonical Git blob sha authenticates source prompt, raw owner chat SHA256 unavailable.",
+  "new_session_authorized": true
+}

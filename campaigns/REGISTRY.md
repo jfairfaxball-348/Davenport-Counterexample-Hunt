@@ -151,3 +151,7 @@ CLM-0137 proves only an internal symbolic necessary Psi-support condition on a h
 ### S035 disposition — 2026-10-12
 
 CAM-0001 stays **PROPOSED / NOT RUNNING / activation BLOCKED** by published source-stated Schmid2011 D(C6³)=16; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED. New S035 CLM-0138 is a hypothetical indexed Psi support lower bound, NOT a search target, solver result, counterexample, new D1/Dk theorem or authorization for the obsolete n6 campaign. No replacement activation.
+
+### S036 disposition — 2026-10-12
+
+CAM-0001 **PROPOSED / NOT RUNNING / activation BLOCKED** by historical SOURCE_STATED Schmid D(C6³)=16. S036 CLM-0139 is conditional symbolic vector-weighted coefficient support (m2p p7 W>=58, p13 W>=256), not a vector sequence, new D1/Dk value, counterexample, search/candidate or alternative campaign. No numerical mathematical/computational search, solver, author code, Lean, Palomar, publication or Phase2/3. Phase1 IN_PROGRESS, original30 frontier entries and 28 sources unchanged; absent hosted checks NOT PASS.

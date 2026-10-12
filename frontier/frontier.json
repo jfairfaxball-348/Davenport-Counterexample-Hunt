@@ -764,5 +764,27 @@
     "all_30_rows_unchanged": true,
     "campaign": "CAM-0001 PROPOSED/NOT_RUNNING/BLOCKED n6=16",
     "m2p_excluded": false
+  },
+  "s036_audit": {
+    "session": "S036",
+    "date": "2026-10-12",
+    "original30_row_objects_unchanged": true,
+    "full_markdown_ordered_table_rows_unchanged": true,
+    "rows": 30,
+    "historical_settled_or_trivial": 25,
+    "intervals": [
+      15,
+      20,
+      21,
+      28,
+      30
+    ],
+    "rank3_D1_Dk_theorem": false,
+    "claim": "CLM-0139",
+    "p7_W_min": 58,
+    "p13_W_min": 256,
+    "phase1": "IN_PROGRESS",
+    "campaign": "CAM-0001 BLOCKED n6=16",
+    "hosted_ci_pass": false
   }
 }

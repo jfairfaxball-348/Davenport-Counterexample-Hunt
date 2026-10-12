@@ -1,0 +1,39 @@
+{
+  "session": "S036",
+  "reviewed": [
+    {
+      "id": "SRC-0021",
+      "access": "PROOF_INSPECTED existing",
+      "url": "https://pro.univ-lille.fr/fileadmin/user_upload/pages_pros/gautami_bhowmik/Publications/large_exponent.pdf",
+      "observed": "Fresh original printed pp22-24 text, direct printed p23 visual; weak Lem2.1 vs stronger proof step, omitted rank3 Lem2.3 proof. New vector identity INTERNAL not attributed to authors."
+    },
+    {
+      "id": "SRC-0003",
+      "access": "STATEMENT_INSPECTED unchanged",
+      "observed": "No new classical Olson proof."
+    },
+    {
+      "name": "Sheikh full Chapter4",
+      "access": "UNREAD"
+    },
+    {
+      "name": "GHST C53 full original code/output",
+      "access": "UNREAD_NEVER_RUN"
+    },
+    {
+      "id": "SRC-0015",
+      "access": "PROOF_INSPECTED existing",
+      "observed": "Yiu final independent M1 check unauthenticated; M2/M3 distinct."
+    }
+  ],
+  "interval_source_checks": [
+    15,
+    20,
+    21,
+    28,
+    30
+  ],
+  "new_exact_original_authentications": 0,
+  "source_access_enum_changes": 0,
+  "original_source_records_unchanged": true
+}

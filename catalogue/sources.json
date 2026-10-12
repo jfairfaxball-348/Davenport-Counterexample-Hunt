@@ -307,5 +307,25 @@
       "Yiu independent complete M1 final check"
     ],
     "interval_rows_unchanged": true
+  },
+  "s036_audit": {
+    "session": "S036",
+    "date": "2026-10-12",
+    "source_enums_unchanged": true,
+    "original_source_records_unchanged": true,
+    "reviewed_original": "SRC-0021 original publisher-author offprint pp22–24 direct text read, p23 image visually inspected, omitted rank3 Lem2.3 and stronger split not upgraded",
+    "new_exact_authentications": 0,
+    "unread": [
+      "Sheikh2017 full Chapter4",
+      "GHST original C53 output/code never run",
+      "Yiu independent final M1 verification"
+    ],
+    "interval_rows_unchanged": [
+      15,
+      20,
+      21,
+      28,
+      30
+    ]
   }
 }

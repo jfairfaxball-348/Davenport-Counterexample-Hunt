@@ -135,3 +135,7 @@ S012 closeout: [complete record and FUTURE UNEXECUTED S013 handoff](../sessions/
 | S035 | 2026-10-12 | One separately invoked bounded Phase1 original-source symbolic low–high/high–high transfer and critical Psi support gate, with independent internal symbolic adversarial pass | CLM-0138: for s=-1 m2p, E>=b(b+1)+3 and W>=ceil([b(b+1)+3]/3), p13 >=128 (prior64); NO contradiction/D1/Dk/candidate, Phase1 IN_PROGRESS, CAM-0001 blocked; S036 FUTURE UNEXECUTED | session/S035-negative-sign-high-high-defect |
 
 [S035 complete hand-proof, original archival input, provenance, adversarial review, validation, precommit closeout and strictly future S036 handoff](../sessions/S035/CLOSEOUT.md).
+
+| S036 | 2026-10-12 | One owner-invoked bounded Phase1 Route A1 original-primary-source symbolic indexed-vector critical Psi pair moment, separate internal adversarial pass | CLM-0139 exact Σz_k Psi=0 and 2E<=3W; under m2p p7 Psi W>=58, p13>=256; NO contradiction/D1/Dk theorem/candidate; Phase1 IN_PROGRESS, CAM-0001 blocked, S037 future ONLY | session/S036-vector-weighted-psi-moment |
+
+[S036 complete original-source hand-proof, input, review, validation, provenance, closeout and future S037 handoff](../sessions/S036/CLOSEOUT.md).

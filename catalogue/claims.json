@@ -1481,6 +1481,17 @@
         "SRC-0021"
       ],
       "notes": "Internal exact symbolic incidence/defect hand proof and separate same-executor adversarial pass; SRC-0021 primary methodological provenance NOT source of claim; no search, external reviewer or theorem of Davenport equality."
+    },
+    {
+      "id": "CLM-0139",
+      "statement": "For any hypothetical indexed no-short zero-sum Z in F_p^3 of size 3p and COMPLETE b-block family m=kp>=2p, the critical three-deletion Psi obeys VECTOR pair moment sum_(k!=i,j) z_k Psi_ijk=0 for every distinct i,j. Combined with S031 scalar moment sum Psi=s(lambda_ij-t), every exceptional pair lambda_ij not congruent t needs >=2 distinct nonzero Psi triple witnesses; exactly two witnesses have parallel z_k. Therefore 2E<=3W where E exceptional unordered pairs and W nonzero Psi triples. Under hypothetical m2p, p7 W>=58 from S034 E>=87 (previous29), and p13 W>=256 from S035 E>=383 (previous128). Both signs and all m for identity, but E bounds only m2p. No P assumption, projective UPPER bound, m2p or m>=3p contradiction, rank3 D1/Dk/D2 theorem or candidate.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S036_VECTOR_WEIGHTED_PSI_PAIR_MOMENT.md",
+      "source_ids": [
+        "SRC-0021"
+      ],
+      "notes": "New programme-internal symbolic indexed block-sum theorem, SRC-0021 original methods provenance NOT authorship; separate INTERNAL adversarial sign/index check, p7/p13 hand tests; no search, external review, formalisation or CI pass."
     }
   ]
 }
