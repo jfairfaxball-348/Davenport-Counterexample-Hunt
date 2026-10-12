@@ -293,5 +293,19 @@
       "Yiu independent final M1"
     ],
     "interval_rows_unchanged": true
+  },
+  "s035_audit": {
+    "date": "2026-10-12",
+    "session": "S035",
+    "source_enums_unchanged": true,
+    "original_source_records_unchanged": true,
+    "reviewed_original": "SRC-0021 definitive author-hosted publisher offprint original printed pp22–24 incl direct p23 image; weak lemma and omitted rank3 proof remain as recorded",
+    "new_exact_authentications": 0,
+    "unread": [
+      "Sheikh2017 Chapter4",
+      "GHST C53 original code/output",
+      "Yiu independent complete M1 final check"
+    ],
+    "interval_rows_unchanged": true
   }
 }

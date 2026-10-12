@@ -1,0 +1,39 @@
+{
+  "session": "S035",
+  "reviewed": [
+    {
+      "id": "SRC-0021",
+      "access": "PROOF_INSPECTED historical existing enum",
+      "url": "https://pro.univ-lille.fr/fileadmin/user_upload/pages_pros/gautami_bhowmik/Publications/large_exponent.pdf",
+      "observed": "Freshly opened original publisher-author offprint printed pp22-24 and inspected original p23 page image PDF index2; printed Lemma2.1 weaker <=(3p-1)/2, following stronger <=3(p-1)/2 step not independently established; rank3 Lemma2.3 proof expressly omitted. CLM-0138 internally derived and not attributed to the authors."
+    },
+    {
+      "id": "SRC-0003",
+      "access": "STATEMENT_INSPECTED existing",
+      "observed": "No classic Olson theorem imported as new proof of D1."
+    },
+    {
+      "name": "Sheikh2017 full Chapter4",
+      "access": "UNREAD"
+    },
+    {
+      "name": "GHST original C53 code/output",
+      "access": "UNREAD_NEVER_RUN"
+    },
+    {
+      "id": "SRC-0015",
+      "access": "PROOF_INSPECTED historical existing",
+      "observed": "Yiu M1 independent terminal final predicate/log/certificate not authenticated; generator counts not final three-disjoint check."
+    }
+  ],
+  "interval_source_checks": [
+    15,
+    20,
+    21,
+    28,
+    30
+  ],
+  "new_exact_original_authentications": 0,
+  "source_access_enum_changes": 0,
+  "original_source_records_unchanged": true
+}

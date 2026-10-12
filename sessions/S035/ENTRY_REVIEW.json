@@ -1,0 +1,30 @@
+{
+  "session": "S035",
+  "entry_main": "b6d6883d182815098fc9b7625635d7c1698fb054",
+  "entry_tree": "3c5bfda6c527b5bfe0900f0b5a9f89064da1ad3a",
+  "prior_branch_commit": "f9ff25b9167691b6a07a38c8296623b3caba5f1f",
+  "prior_parent": "95d5cf1f17539394387a309840eefcbfdd1005e4",
+  "prior_tree": "3c5bfda6c527b5bfe0900f0b5a9f89064da1ad3a",
+  "prior_pr": 34,
+  "prior_merge": "b6d6883d182815098fc9b7625635d7c1698fb054",
+  "prior_merge_parents": [
+    "95d5cf1f17539394387a309840eefcbfdd1005e4",
+    "f9ff25b9167691b6a07a38c8296623b3caba5f1f"
+  ],
+  "prior_branch_commits": 1,
+  "prs_total_at_entry": 34,
+  "prs_all_merged": true,
+  "open_prs": 0,
+  "competing_s035": 0,
+  "rulesets": [],
+  "branch_summary_protected": false,
+  "branch_protection": "403 UNKNOWN; inaccessible by integration",
+  "workflow_files": 0,
+  "workflow_listing": "Endpoint rejected INVALID_ARGUMENT; UNKNOWN",
+  "hosted_runs": 0,
+  "hosted_jobs": 0,
+  "check_runs": 0,
+  "status_contexts": 0,
+  "combined_status": "0 contexts observed; ABSENT_NOT_PASS",
+  "hosted_ci_pass": false
+}

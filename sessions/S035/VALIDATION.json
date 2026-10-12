@@ -1,0 +1,31 @@
+{
+  "session": "S035",
+  "entry_main": "b6d6883d182815098fc9b7625635d7c1698fb054",
+  "original_frontier_json_rows": 30,
+  "original_frontier_md_rows": 30,
+  "original_frontier_json_row_objects_unchanged": true,
+  "original_frontier_md_table_rows_unchanged": true,
+  "md_json_original_row_mismatches": 0,
+  "source_records_unchanged": true,
+  "source_enums_unchanged": true,
+  "original_source_count": 28,
+  "new_claims": [
+    "CLM-0138"
+  ],
+  "expected_claims": 138,
+  "claim_ids_unique": true,
+  "negative_sign_p13_old_W": 64,
+  "negative_sign_p13_new_W": 128,
+  "positive_sign_p7_unconditional_W": 29,
+  "conditional_only_p7_P_lower": 37,
+  "m2p_excluded": false,
+  "m_at_least_3p_excluded": false,
+  "math_review": "SEPARATE_INTERNAL_SAME_EXECUTOR_SYMBOLIC_PASS",
+  "external_independent_review": false,
+  "formal_proof": false,
+  "mathematical_instance_search": false,
+  "campaign_run": false,
+  "phase1": "IN_PROGRESS",
+  "hosted_ci_pass": false,
+  "no_raw_sha256_invented": true
+}

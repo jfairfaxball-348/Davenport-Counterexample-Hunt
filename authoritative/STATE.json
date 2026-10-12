@@ -24,13 +24,14 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S034",
-  "recommended_next_session": "S035",
+  "last_completed_session": "S035",
+  "recommended_next_session": "S036",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": null,
   "phase1_target_status": "WITHHELD_NO_REPLACEMENT_CAMPAIGN",
   "open_blockers": [
+    "S035 CLM-0138: for s=-1 (p≡1 mod4), m=2p hypothetical indexed Z forces high-high transfer D=2ΣHH(lambda-2t) with D>=2tL and E>=b(b+1)+3 exceptional pairs, W>=ceil((b(b+1)+3)/3) nonzero Psi triples; p13 W>=128 versus prior64. NO actual-Z-dependent projective UPPER bound or contradiction, m2p/m>=3p OPEN. S034 p7 >=29 remains, S033 p7 37 CONDITIONAL on P. S036 FUTURE ONLY; Phase1 IN_PROGRESS, CAM-0001 blocked, absent CI ≠ PASS.",
     "S033 CLM-0136 uniform nonzero Psi star moment (-1/8) proved for all indices, but NO m2p exclusion. CLM-0135 refined p7 >=37 support is ONLY CONDITIONAL on pair-positivity lambda_ij>=1 (P), not proved by S030 disjunctive pair-cover (both OR neither). Original unconditional p7 >=24 remains; actual light-hyperplane cancellation/overlap and P are first essential gaps. S034 FUTURE ONLY. Phase1 IN_PROGRESS; CAM-0001 remains blocked; no hosted CI PASS.",
     "S032 CLM-0132 exact projective hyperplane H_X subset deletion Psi formula; CLM-0133 sum(3-h_X)=3, sum C(h_X,2)=C(3p,2)+p sum_d C(c_d,2) and c_d<=p-1; CLM-0134 raw support upper-capacity U>=p²+10p-8, too large against S031 B=ceil(L(b+1)/6) (p7 111>24). No exclusion of m=2p or m>=3p; no strong p>=7 extraction, D2 saving or rank3 Davenport claim. First gap: cancellation/overlap/actual indexed b-block correlation. Phase1 IN_PROGRESS, CAM-0001 BLOCKED.",
     "S031 CLM-0129 proves exact pair-sum Psi moment: for distinct i,j, sum_{k distinct}Psi_ijk=s(lambda_ij-t) mod p. CLM-0130: if m=2p, at least ceil(L(b+1)/6) distinct triple-deletion coefficients are NONZERO, L=(3p+2+3s)/2 (p7 >=24). CLM-0131: GL3-invariant projective product formula, blocking-set vanishing, and a four-index exchange relation. None excludes m=2p or m>=3p; no strong p>=7 extraction, D2<=6p-6, D1/Dk value, indexed lift, candidate or novelty claim. Phase1 IN_PROGRESS, CAM-0001 blocked. FIRST essential gap: geometric upper bound or forcing vanishing of enough Psi triples; neither m2p nor m>=3p excluded.",
@@ -51,6 +52,7 @@
   "gate_ledger": "docs/PHASE_GATE_LEDGER.md",
   "source_snapshot": "2026-10-12",
   "warnings": [
+    "S035 negative-sign high-high transfer is a scoped support LOWER bound, not m2p exclusion; substituting D's minimum separately in E_HH would be invalid, only combined positive-slope inequality permits it. No mathematical search, primary-source upgrade or hosted CI PASS.",
     "S033 adversarial audit caught invalid unconditional inference lambda_ij>=1 from S030's OR pair-cover. Refined support theorem is explicitly conditional P and must never replace S031 unconditional bound. All original30 frontier rows, source enums and campaigns preserved.",
     "S032 exact projective zero-fibre union capacity is only a coarse upper bound on nonzero Psi: it is always larger than S031 forced support. Fp summands may cancel. All30 frontier row objects and Markdown table rows preserved; no hosted CI PASS.",
     "S031 Psi nonzero support is a lower bound, not a contradiction: strict CW does NOT apply at three deletions. All 30 original frontier rows and sources unchanged, Phase1 ongoing, no hosted CI PASS.",
@@ -193,5 +195,18 @@
     "frontier_change": false,
     "phase1": "IN_PROGRESS",
     "hosted_ci_pass": false
+  },
+  "s035_result": {
+    "date": "2026-10-12",
+    "claim": "CLM-0138",
+    "condition": "hypothetical indexed no-short Z, m=2p, p>=13 prime 1 mod4",
+    "E_lower": "b(b+1)+3",
+    "W_lower": "ceil((b(b+1)+3)/3)",
+    "p13_old_W": 64,
+    "p13_new_W": 128,
+    "m2p_excluded": false,
+    "m_ge_3p_excluded": false,
+    "phase1": "IN_PROGRESS",
+    "next": "S036 FUTURE ONLY"
   }
 }
