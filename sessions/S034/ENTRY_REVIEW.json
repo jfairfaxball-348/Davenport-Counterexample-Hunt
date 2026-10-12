@@ -1,0 +1,30 @@
+{
+  "session": "S034",
+  "entry_main": "95d5cf1f17539394387a309840eefcbfdd1005e4",
+  "entry_tree": "123e00c2282ac8a32c585c2116cc71b3e2abd8c7",
+  "prior_branch_commit": "21080be3fabbe81ee00578a75eeb080d3f04f3ce",
+  "prior_parent": "a63089f7d121960e0b1dd4a9b1a1f560435b8348",
+  "prior_tree": "123e00c2282ac8a32c585c2116cc71b3e2abd8c7",
+  "prior_pr": 33,
+  "prior_merge": "95d5cf1f17539394387a309840eefcbfdd1005e4",
+  "prior_merge_parents": [
+    "a63089f7d121960e0b1dd4a9b1a1f560435b8348",
+    "21080be3fabbe81ee00578a75eeb080d3f04f3ce"
+  ],
+  "prior_branch_commits": 1,
+  "prs_total": 33,
+  "prs_all_merged": true,
+  "open_prs": 0,
+  "competing_s034": 0,
+  "rulesets": [],
+  "branch_summary_protected": false,
+  "branch_protection": "403 UNKNOWN endpoint",
+  "workflow_files": 0,
+  "workflow_listing": "URL rejected INVALID_ARGUMENT/UNKNOWN",
+  "hosted_runs": 0,
+  "hosted_jobs": 0,
+  "check_runs": 0,
+  "status_contexts": 0,
+  "combined_status": "pending with 0 contexts, NOT PASS",
+  "hosted_ci_pass": false
+}

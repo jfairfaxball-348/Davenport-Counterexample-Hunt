@@ -24,8 +24,8 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S033",
-  "recommended_next_session": "S034",
+  "last_completed_session": "S034",
+  "recommended_next_session": "S035",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": null,
@@ -45,7 +45,8 @@
     "S022 CLM-0111 unconditionally closes every-prime Property C and CLM-0112 proves historical eta(C7³)≤116; neither implies rank-three Davenport equality. Stronger BSP splitting coefficient and general omitted rank-three Lem2.3, BSP2007 diagrams, full provenance and other frontier gates unproved.",
     "BSP2007 full diagrams/classification/upper induction unproved; Sheikh2017 S017 official HTTP403 separate earlier session attempts; full Chapter4 unread and exactly-three differs from at-most-three.",
     "GHST2007 original C53.html code/output not inspected; Yiu2026 M1 final three-disjoint test singly implemented despite repeated generation, M2/M3 distinct, original complete independent code/log/certificates unauthenticated.",
-    "All n1..30 frontier values unchanged; published Schmid2011 n6=16 and 1969 van Emde Boas rank-three exact families retain source status; five intervals do not prove present-day openness."
+    "All n1..30 frontier values unchanged; published Schmid2011 n6=16 and 1969 van Emde Boas rank-three exact families retain source status; five intervals do not prove present-day openness.",
+    "S034 improves unconditional p7 critical Psi support to 29 for hypothetical m=2p only, but provides no contradicting actual-Z-dependent projective overlap/cancellation UPPER bound; m2p and m>=3p remain unexcluded. Full all-pairs P remains unproved, especially low-low and s=-1 mixed codegrees."
   ],
   "gate_ledger": "docs/PHASE_GATE_LEDGER.md",
   "source_snapshot": "2026-10-12",
@@ -172,6 +173,21 @@
     "pair_positivity": "UNPROVED",
     "p7_37_bound": "CONDITIONAL_ONLY",
     "p7_unconditional_bound": 24,
+    "m2p_excluded": false,
+    "mge3p_excluded": false,
+    "frontier_change": false,
+    "phase1": "IN_PROGRESS",
+    "hosted_ci_pass": false
+  },
+  "s034_result": {
+    "claim": "CLM-0137",
+    "sign": "s=+1 (p congruent 3 mod4)",
+    "mixed_lambda_positive_without_P": true,
+    "low_low_lambda_positive_unproved": true,
+    "unconditional_bound": "W >= ceil((L(b+1)t+3H(t+1))/(6t))",
+    "p7_unconditional_psi_support_lower": 29,
+    "p7_previous_unconditional": 24,
+    "p7_conditional_under_unproved_P": 37,
     "m2p_excluded": false,
     "mge3p_excluded": false,
     "frontier_change": false,

@@ -187,3 +187,7 @@ CLM-0132–0134 identify only a symbolic projective incidence NO-GO for coarse P
 ## S033 metadata audit (NO change to original table)
 
 All thirty original n/group/D*/bound/status/FULL ORDERED evidence rows above unchanged. The new S033 Psi bound 37 at p7 is CONDITIONAL on an unproved pair-positivity premise, not a classical Davenport D1 value; unconditional S031 Psi support >=24 survives. n15 43..45, n20 58..59, n21 61..63, n28 82..83, n30 88..90 still as recorded. No present-day openness inference.
+
+## S034 — original thirty numerical/evidence rows fully preserved
+
+The original 30/30 Markdown n/group/D*/reported bound/provisional status/FULL ORDERED evidence table rows above and 30/30 original JSON frontier row objects are unchanged; independent row-by-row validation found 0 mismatches. Internal CLM-0137 makes p7 nonzero Psi support >=29 **conditional on a hypothetical m=2p Z**, NOT a new classic Davenport D1 or Dk value. S033 >=37 still needs universal P. Historical 25 source-stated/trivial and five intervals n15 43..45,n20 58..59,n21 61..63,n28 82..83,n30 88..90 unchanged; no current openness assertion. Phase1 IN_PROGRESS, CAM-0001 blocked; hosted CI absent NOT PASS.

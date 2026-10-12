@@ -1459,6 +1459,17 @@
         "SRC-0021"
       ],
       "notes": "S031 pair-sum plus S029 degree congruence, exact sum of pair codegrees through an index. Internal proof only; star -1/8 nonzero for p>=7, global sum=0."
+    },
+    {
+      "id": "CLM-0137",
+      "statement": "Under the standing hypothetical indexed no-short zero-sum Z with complete b-block family m=2p, when s=(-1)^b=+1 (p congruent 3 mod 4), every high-low pair has lambda>=1 by rH+rL-m=1 even though low-low codegree may be zero. With L low, H high, t=(p+1)/2, count E_LL/E_LH exceptional low-containing unordered pairs lambda<t. Then E_LH>=3H, 2t(E_LL+E_LH)>=L(b+1)t+3H(t+1), so #nonzero three-deletion Psi coefficients W>=ceil([L(b+1)t+3H(t+1)]/(6t)). At p7 W>=29 UNCONDITIONALLY versus previous 24; S033 37 remains conditional on unproved P. No m2p or m>=3p exclusion.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S034_UNCONDITIONAL_MIXED_CODEGREE_DEFECT.md",
+      "source_ids": [
+        "SRC-0021"
+      ],
+      "notes": "Proof internal by m2p two-level block incidence, high-low inclusion-exclusion positivity ONLY for s=+1, low-low zero permitted, pair-moment covering; SRC-0021 methodological original provenance not author-attributed theorem. s=-1 not upgraded."
     }
   ]
 }

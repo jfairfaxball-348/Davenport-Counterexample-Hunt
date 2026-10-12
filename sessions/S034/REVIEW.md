@@ -1,0 +1,11 @@
+# S034 adversarial proof reconstruction — separate INTERNAL same-executor pass
+
+No EXTERNAL independent reviewer, mathematical numerical search, CAS, SAT/ILP, Lean, Palomar or formal certificate.
+
+1. Start without P. Mixed λ lower bound from set inclusion–exclusion for high T=p+t, low t, m=2p is **2t-p=s**, so for s=+1 λ>=1, while for s=-1 it says only λ>=-1 and yields NO positivity. Low-low may have λ=0 in both signs. This is NOT inferred from S030 pair-cover OR.
+2. High-high λ>=2t via (p+t)+(p+t)-2p, and <=T. Hence T-λ<=p-t. The exact high row sum has L low partners and H-1 high partners; the minimum high-to-low deficit is (b+1)T-Lp-(H-1)(p-t)=3(p-1)/2 for s=+. Each positive mixed low deficit <=t-1=(p-1)/2 => at least three distinct low partners per high, E_LH>=3H. No double count between distinct high indices.
+3. Low row exact identity: sum(t-λ)=(b+1)t. Sum over L lows counts LL pairs TWICE, LH ONCE. Exceptional LL defect <=t (NOT t-1, as λ=0 allowed), exceptional LH defect <=t-1 only because mixed inclusion–exclusion; nonexception zero. Thus L(b+1)t<=2t E_LL+(t-1) E_LH. With E_LH>=3H obtain 2t E>=L(b+1)t+3H(t+1). No hidden universal P.
+4. Critical nonzero link: for low-containing exceptional λ<t<p, s(λ-t) is nonzero mod p; S031 pair moment implies at least one nonzero Psi triple. One deletion triple contains exactly three unordered pairs, so 3W>=E. No converse from projective fibre vanishing/noncancellation.
+5. p7: N21,b10,m14,s+,t4,T11,L13,H8; mixed minλ1, high-low residual 9, max deficit3, E_LH>=24; low deficit 572, 8E>=572+120=692, E>=87, W>=29. Check S033 P bound37 remains conditional, S031 lower24 prior unconditional, S032 U>=111 (no contradiction). Star -1/8=6 mod7.
+6. For s=- (e.g. p13) mixed minλ=-1 vacuous: new formula NOT asserted; base S031 only. Even for s+ m>=3p the pair-degree census changes, so theorem DOES NOT extend to larger m.
+7. First essential STOP: no genuinely opposing actual-Z-specific nonzero Psi support UPPER bound from overlaps/cancellation; no m2p exclusion, no p>=7 strong extraction or D2 saving. Original BSP2012 primary page inspected but its omitted rank-three proof not supplied; no D1/Dk/source/status/phase/campaign upgrade. Internal review is not external independent verification.

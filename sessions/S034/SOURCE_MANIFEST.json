@@ -1,0 +1,40 @@
+{
+  "session": "S034",
+  "reviewed": [
+    {
+      "id": "SRC-0021",
+      "access": "PROOF_INSPECTED (historical existing enum)",
+      "url": "https://pro.univ-lille.fr/fileadmin/user_upload/pages_pros/gautami_bhowmik/Publications/large_exponent.pdf",
+      "observed": "Direct fresh original offprint extraction printed pp22-24 and page-image printed p23 (PDF index 2). Weak Lem2.1 versus unsupported stronger step, omitted rank3 Lem2.3 proof. The new CLM-0137 is internal, not source-authored."
+    },
+    {
+      "id": "SRC-0003",
+      "access": "STATEMENT_INSPECTED (existing)",
+      "observed": "Historical Olson input not required in the S034 local incidence deduction."
+    },
+    {
+      "name": "Sheikh2017 Chapter4",
+      "access": "UNREAD",
+      "observed": "Not inspected in S034."
+    },
+    {
+      "name": "GHST original C53 full author code/output",
+      "access": "UNREAD",
+      "observed": "Not inspected; NEVER RUN."
+    },
+    {
+      "id": "SRC-0015",
+      "access": "PROOF_INSPECTED (historical existing enum)",
+      "observed": "Yiu M1 final independent three-disjoint verifier/log/certificates not authenticated; M2/M3 distinct."
+    }
+  ],
+  "interval_source_checks": [
+    15,
+    20,
+    21,
+    28,
+    30
+  ],
+  "new_exact_original_authentications": 0,
+  "source_access_enum_changes": 0
+}
