@@ -864,3 +864,7 @@ Category: SOURCE_AUDIT. Origin: research/S018_REIHER_SECTION9_CONIC_LEMMA.md. So
 ## CLM-0109 — independently reconstructed original Reiher Proposition10.1
 
 **PROGRAMME_PROVED, limited Proposition10.1 ONLY:** every cloudy length-(2p−1) F_p² sequence containing four points in quartic general position is simple. Original SRC-0025 printed pp24–26. Exact fourteen indexed subset sums/moment interpolation, W dimension≥3, 1/4/6/4/1 factorial coefficient ratio, two auxiliary Cor3.4 indexed deletion checks, p5 extension and final trapezoid argument. Complete independent source proof: [S020](../research/S020_REIHER_PROPOSITION_10_1.md). Theorem10.2/universal Property B, unconditional C, eta7 and rank-three D conjecture NOT proved.
+
+### CLM-0110 — PROGRAMME_PROVED, S021
+
+Every prime Property B (original Reiher Theorem 10.2), symbolic original-source complete proof in research/S021_REIHER_THEOREM_10_2.md; input SRC-0025. Does NOT discharge conditional B=>C/eta7 or rank-three conjecture during S021.

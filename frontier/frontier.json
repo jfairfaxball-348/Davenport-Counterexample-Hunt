@@ -490,5 +490,18 @@
     }
   ],
   "recommended_phase2_target": null,
-  "first_interval_requiring_literature_review": 15
+  "first_interval_requiring_literature_review": 15,
+  "s021_audit": {
+    "all30_rows_unchanged": true,
+    "rank_two_only": true,
+    "intervals": [
+      15,
+      20,
+      21,
+      28,
+      30
+    ],
+    "nondiscovery_not_openness": true,
+    "no_new_exact_rank_three": true
+  }
 }

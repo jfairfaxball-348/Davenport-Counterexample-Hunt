@@ -1,6 +1,6 @@
-# Frontier after S017
+# Frontier after S021
 
-S013 CLM-0089–0093 hand-prove rank-two p/2p extraction, D(Cp²)=2p−1, eta<=3p−2/long-zero short block, original Lem10.6 and the full B=>C implication CONDITIONAL on Property B. Complete S012 p7 Lem5.2 preserved. FIRST unconditional prerequisite is Reiher Property B through unrebuilt strategic-equation/geometric chain; stronger coefficient unproved. Phase1 IN_PROGRESS; Phases2/3 NOT_STARTED; CAM-0001 PROPOSED / NOT RUNNING activation BLOCKED by published n6=16. All 30 numeric rows unchanged; no openness inference. Zero hosted CI, NOT PASS.
+S013 CLM-0089–0093 hand-prove rank-two p/2p extraction, D(Cp²)=2p−1, eta<=3p−2/long-zero short block, original Lem10.6 and the full B=>C implication CONDITIONAL on Property B. Complete S012 p7 Lem5.2 preserved. S021 has now independently proved original Reiher universal prime Property B, CLM-0110, RANK TWO; conditional Property C/eta7 not yet discharged; stronger coefficient unproved. Phase1 IN_PROGRESS; Phases2/3 NOT_STARTED; CAM-0001 PROPOSED / NOT RUNNING activation BLOCKED by published n6=16. All 30 numeric rows unchanged; no openness inference. Zero hosted CI, NOT PASS.
 
 **D(C6³)=16 is already a source-stated exact theorem.** CAM-0001 remains PROPOSED / NOT RUNNING with its premise obsolete. No Phase-2 target is selected. n=15 is the first interval requiring further literature review, not a declaration of openness.
 
@@ -136,3 +136,7 @@ All thirty Markdown/JSON row values, bounds, statuses, evidence classes and orig
 ## S020 — n1..30 complete numerical/status/evidence mirror review
 
 ALL thirty original Markdown/JSON numeric/report/status/evidence row values unchanged. 25 settled/trivial, five conditional intervals: n15=43..45,n20=58..59,n21=61..63,n28=82..83,n30=88..90. Bounded original-source queries did not authenticate exact upgrades, NOT proof of present-day openness. Historical original Schmid2011 n6=16 and van Emde Boas II/III rank-three 2p^a and 3*2^a families remain SOURCE_STATED without whole original proof reconstruction. Rank-two Prop10.1 changes no rank-three row.
+
+## S021 — full thirty-row numeric/status/evidence mirror review
+
+All original 30 Markdown table rows AND JSON row objects preserved exactly. 25 settled/trivial, five n15 43..45,n20 58..59,n21 61..63,n28 82..83,n30 88..90. Bounded interval sources did not authenticate a new exact primary theorem; NOT proof of present-day openness. Schmid2011 n6=16, van Emde Boas II/III rank-three 2p^a and 3·2^a family claims remain SOURCE_STATED absent independently reconstructed full historical proofs; CAM-0001 remains BLOCKED.

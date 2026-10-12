@@ -77,3 +77,7 @@ S012 closeout: [complete record and FUTURE UNEXECUTED S013 handoff](../sessions/
 | S020 | 2026-10-12 | ONE original Reiher Proposition10.1 quartic/interpolation/multiplicity hand-proof, provenance and full thirty-row audit | CLM-0109 only; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 BLOCKED NOT RUNNING; no campaign | session/S020-reiher-proposition-10-1 |
 
 [S020 proof and CLOSEOUT with FULL strictly future S021 handoff](../sessions/S020/CLOSEOUT.md).
+
+| S021 | 2026-10-12 | Original Theorem10.2 seven-case symbolic hand-proof and read-only provenance/frontier review | CLM-0110 prime Property B ONLY; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 BLOCKED | session/S021-reiher-theorem-10-2 |
+
+[S021 proof and full future S022 handoff](../sessions/S021/CLOSEOUT.md).

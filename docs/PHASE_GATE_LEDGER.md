@@ -3,7 +3,7 @@
 | Gate | Status | Review | Evidence / limit |
 |---|---|---|---|
 | Phase 0 governance | PASS | S001 2026-10-10 | Required spine and provenance categories created; JSON structurally constructed |
-| Phase 1 frontier | IN_PROGRESS | S017 2026-10-12 | Prop8.1 CLM-0103 closed; Section9/Prop10.1, stronger coefficient and other proof/provenance inputs remain. Prior rank-two/p7 proofs preserved; n6=16 blocks CAM-0001. |
+| Phase 1 frontier | IN_PROGRESS | S021 2026-10-12 | Reiher universal prime Property B reconstructed CLM-0110. Conditional Property C/eta7 composition, external provenance and rank-three frontier gates unclosed. CAM-0001 blocked. |
 | Phase 2 tooling | NOT_STARTED | — | No independent algorithm or SAT checker |
 | Phase 3 campaigns | NOT_STARTED | S004 | CAM-0001 PROPOSED / NOT RUNNING; n6 premise obsolete, activation blocked; no replacement target |
 | Phase 4 result certification | OWNER_GATED | — | No candidate, Lean proof or cold check |
@@ -63,3 +63,7 @@ Original Proposition10.1, full universal B and remaining source provenance unclo
 S020 independently closes ONLY original Reiher Proposition10.1 CLM-0109: 14 quartic moment coefficients, at-most-two-dimensional V, 1/4/6/4/1 factorial identity, two indexed auxiliary Cor3.4 applications with p5 boundary and residual contradiction. Original Theorem10.2/universal Property B, unconditional C, eta(C7³)<=116 and rank-three D conjecture remain not programme-proved. All 30 numerical/status/evidence frontier rows unchanged; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 PROPOSED / NOT RUNNING activation BLOCKED by published n6=16; zero hosted checks NOT CI PASS.
 
 Phase1 PASS WITHHELD because original Theorem10.2, other full primary dependencies and provenance gates remain unclosed. No source-upgrade of rank-three frontier, numerical search, candidate or campaign.
+
+## S021 — 2026-10-12
+
+S021 independently closes original Reiher Theorem10.2 CLM-0110: every prime Property B (RANK TWO) after complete seven-case reduction; no unconditional Property C, eta(C7³)<=116 or rank-three D claim in S021. All 30 frontier numeric/status/evidence rows unchanged; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 BLOCKED n6=16; zero hosted checks NOT CI PASS. Phase1 PASS withheld due other original source/provenance obligations; no upgrade of any rank-three exact result.

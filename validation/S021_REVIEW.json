@@ -1,0 +1,12 @@
+{
+  "session": "S021",
+  "result": "BOUNDED_ORIGINAL_HAND_PROOF_CLOSED",
+  "claim": "CLM-0110",
+  "source": "SRC-0025",
+  "rank_two_only": true,
+  "conditional_property_c_unpromoted": true,
+  "eta7_unpromoted": true,
+  "rank_three_conjecture_unproved": true,
+  "hosted_ci": "NOT_OBSERVED",
+  "future_S022_executed": false
+}

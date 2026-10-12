@@ -91,3 +91,7 @@ Published Schmid2011 source-stated D(C6³)=16 makes its inherited length16 zero-
 ### S020 — CAM-0001 remains PROPOSED / NOT RUNNING, activation BLOCKED
 
 Published Schmid2011 source-stated n6=16 makes the inherited length16 zero-sumfree premise obsolete. S020 rank-two Proposition10.1 cannot reactivate this rank-three campaign. No Phase2/3, replacement target/campaign, code, candidate, solver, Lean, certificate or numerical mathematical search.
+
+### S021 — CAM-0001 PROPOSED / NOT RUNNING / ACTIVATION BLOCKED
+
+Source-stated published D(C6³)=16 still invalidates the inherited length16 zero-sumfree premise. Universal prime Property B is rank TWO and does not change this fact. No Phase2/3, replacement campaign/target, mathematical search, solver, code, candidate, Lean or certificate.

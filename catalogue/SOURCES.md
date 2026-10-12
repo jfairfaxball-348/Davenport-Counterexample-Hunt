@@ -330,3 +330,7 @@ All 28 source IDs/access classes retained; GG1999 conditional B⇒C, BSP2012 str
 ### S020 original source review
 
 SRC-0025 Reiher 29-page original printed24–26 images read, ONLY Proposition10.1 independently proved CLM-0109, not Theorem10.2. No fresh binary/SHA, S017 historical 289379-byte SHA256 7d94931bcbf8fb4ce77c0ed94206659df74e8cb5543e1615e7dde23e86b994d8. SRC-0013/0020 Sheikh original full thesis S020 official HTTP403; SRC-0024 GHST original C53 full CODE/OUTPUT inaccessible/unexecuted; SRC-0015 original Yiu v1 HTML read-only, final independent M1 three-disjoint predicate/log/cert unverified, S013 archive historical. Conditional GG1999 B=>C, BSP2012 stronger coefficient, BSP2007 full diagram/induction limitations preserved. All28 source access classes preserved; no non-discovery/openness inference.
+
+### S021 SRC-0025 provenance addendum
+
+Fresh original 29-page PDF page-images inspected: printed pp3,6–7,19–20,26. Source access PROOF_INSPECTED retained. CLM-0110 complete rank-two Theorem10.2 independently reconstructed; no new PDF binary/hash, no rank-three upgrade. Original Sheikh full PDF HTTP403, GHST C53 original code/output inaccessible and Yiu terminal M1 independent logs/certificates not authenticated; no negative or source-class promotion inferred.
