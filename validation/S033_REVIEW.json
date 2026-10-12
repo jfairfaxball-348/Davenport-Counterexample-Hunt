@@ -1,0 +1,9 @@
+{
+  "session": "S033",
+  "review": "INTERNAL_SAME_EXECUTOR",
+  "fatal_gap_in_attempt": "S030 pair-cover is OR, not positive-pair coverage",
+  "conditional_claim": "CLM-0135",
+  "unconditional_claim": "CLM-0136",
+  "external_reviewer": false,
+  "hosted_ci_pass": false
+}

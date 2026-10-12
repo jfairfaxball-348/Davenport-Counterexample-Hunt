@@ -712,5 +712,23 @@
     "phase1": "IN_PROGRESS",
     "campaign": "CAM-0001 BLOCKED n6=16",
     "hosted_ci_pass": false
+  },
+  "s033_audit": {
+    "date": "2026-10-12",
+    "session": "S033",
+    "original_rows_unchanged": true,
+    "original_markdown_rows_unchanged": true,
+    "new_classical_rank3_D1_value": false,
+    "conditional_psi_lower_p7": 37,
+    "unconditional_psi_lower_p7": 24,
+    "interval_rows": [
+      15,
+      20,
+      21,
+      28,
+      30
+    ],
+    "phase1": "IN_PROGRESS",
+    "campaign": "NOT_RUNNING_BLOCKED"
   }
 }

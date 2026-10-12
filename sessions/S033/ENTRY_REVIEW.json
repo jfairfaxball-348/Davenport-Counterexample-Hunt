@@ -1,0 +1,29 @@
+{
+  "session": "S033",
+  "entry_main": "a63089f7d121960e0b1dd4a9b1a1f560435b8348",
+  "entry_tree": "9618f15f25e7cbdaffab6c3cabbdb5a5ac4f8b82",
+  "prior_branch_commit": "926ac9f8b675c2c9b834b64dc842895f421894f4",
+  "prior_parent": "a8d268c9dd6aa98781e08982d8a448b67c72f693",
+  "prior_tree": "9618f15f25e7cbdaffab6c3cabbdb5a5ac4f8b82",
+  "prior_pr": 32,
+  "prior_merge": "a63089f7d121960e0b1dd4a9b1a1f560435b8348",
+  "prior_merge_parents": [
+    "a8d268c9dd6aa98781e08982d8a448b67c72f693",
+    "926ac9f8b675c2c9b834b64dc842895f421894f4"
+  ],
+  "prior_branch_commits": 1,
+  "prs_total": 32,
+  "prs_all_merged": true,
+  "open_prs": 0,
+  "competing_s033": 0,
+  "rulesets": [],
+  "branch_protection": "403 UNKNOWN",
+  "workflow_files": 0,
+  "workflow_listing": "API FORBIDDEN/UNKNOWN",
+  "hosted_runs": 0,
+  "hosted_jobs": 0,
+  "check_runs": 0,
+  "status_contexts": 0,
+  "combined_status": "pending with 0 contexts, NOT PASS",
+  "hosted_ci_pass": false
+}

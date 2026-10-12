@@ -1,0 +1,40 @@
+{
+  "session": "S033",
+  "reviewed": [
+    {
+      "id": "SRC-0021",
+      "access": "PROOF_INSPECTED",
+      "url": "https://pro.univ-lille.fr/fileadmin/user_upload/pages_pros/gautami_bhowmik/Publications/large_exponent.pdf",
+      "observed": "Fresh original publisher offprint printed pp22-23, visual printed p23 and text; weaker Lem2.1, unsupported stronger extraction, omitted rank3 Lem2.3 proof. Internal S033 claims not attributed to authors."
+    },
+    {
+      "id": "SRC-0003",
+      "access": "STATEMENT_INSPECTED",
+      "observed": "Historical classical Olson D1 not imported in S033 local proof."
+    },
+    {
+      "name": "Sheikh2017 Chapter4",
+      "access": "UNREAD",
+      "observed": "No new full chapter inspection"
+    },
+    {
+      "name": "GHST C53 original code/output",
+      "access": "UNREAD",
+      "observed": "No execution"
+    },
+    {
+      "id": "SRC-0015",
+      "access": "PROOF_INSPECTED historical",
+      "observed": "Yiu M1 final independent three-disjoint verifier unauthenticated; generator counts not final check."
+    }
+  ],
+  "interval_source_checks": [
+    15,
+    20,
+    21,
+    28,
+    30
+  ],
+  "new_exact_original_authentications": 0,
+  "source_access_enum_changes": 0
+}

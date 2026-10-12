@@ -396,3 +396,7 @@ Definitive publisher original Bhowmik–Schlage-Puchta 2012 SRC-0021 original pp
 ## S032 primary read-only provenance — 2026-10-12
 
 Bhowmik–Schlage-Puchta 2012 publisher offprint original pp22–23, including freshly visually inspected p23: weaker Lem2.1 vs unsupported stronger 3(p-1)/2 printed inference and omitted rank3 Lem2.3 proof. S032 CLM-0132–0134 are internal deductions and NOT attributed to that article. Sheikh2017 full Chapter4, GHST C53 full code/output remain unread; GHST NEVER RUN; Yiu M1 independent final three-disjoint terminal predicate/log/certificates unauthenticated (98622/230983 only generator counts). Narrow n15/20/21/28/30 no new primary authenticated exact source, no absence/openness inference. All source JSON records/enums unchanged.
+
+## S033 original-source read-only provenance
+
+SRC-0021 primary 2012 publisher author-offprint, printed pp22–23, directly revisited including visual p23: Lemma2.1 weaker <=(3p−1)/2 statement; subsequent unsupported stronger <=3(p−1)/2 line, rank-three Lem2.3 proof omitted. S033 CLM-0135/0136 are **internal** deductions not printed as such there. No access enum changes. Sheikh2017 Chapter4 and original GHST C53 complete code/output not inspected; no author code run. Yiu M1 independent final verifier remains unauthenticated; M2/M3 distinct. n15/20/21/28/30 remain historical bounded interval records, not claims of current openness.

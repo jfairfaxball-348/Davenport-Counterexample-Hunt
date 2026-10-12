@@ -929,3 +929,8 @@ Three-index deletion equals the polynomial degree sum and produces explicit Psi(
 - **CLM-0132 · PROGRAMME_PROVED scoped:** exact Psi projective zero-index-fibre representation; U upper support and exceptional-pair coverage bound, WITHOUT reverse noncancellation claim.
 - **CLM-0133 · PROGRAMME_PROVED:** sum(3-h_X)=3, exact second factorial projective moment and direction multiplicity <=p-1 under no-short.
 - **CLM-0134 · PROGRAMME_PROVED scoped NO-GO:** U>=p²+10p-8 >S031 B, p7 111>24, so raw geometric capacity comparison CANNOT exclude m2p. Overlap/cancellation/zero-sum block geometry first unproved extension. [Complete proof](../research/S032_PROJECTIVE_LIGHT_HYPERPLANE_NO_GO.md). No D1/Dk upgrade or novelty claim.
+
+## S033 — precise conditional incidence enhancement and unconditional Psi star moment
+
+- **CLM-0135 · PROGRAMME_PROVED conditional only:** Under additional UNPROVED universal pair-positivity P (lambda_ij>=1), derive conditional support >=ceil((Le+3H)/6) for s=+1, or ceil(Le/6) for s=-1; p7 >=37 *conditional*. S030 pair-cover is BOTH **OR** NEITHER and therefore does NOT imply P; an unconditional p7>=37 claim is rejected. Existing unconditional CLM-0130 p7>=24 preserved.
+- **CLM-0136 · PROGRAMME_PROVED unconditional scoped:** Exact critical coefficient star moment sum_{j<k,j,k!=i}Psi_ijk=-1/8 (mod p) for each i and global triple sum 0 (mod p). No m2p contradiction. [Complete S033 symbolic proof](../research/S033_CONDITIONAL_DEFECT_AND_PSI_STAR.md). SRC-0021 remains original methodological provenance, not the source of these internal claims.
