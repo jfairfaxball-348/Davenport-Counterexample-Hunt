@@ -1,0 +1,31 @@
+{
+  "session": "S028",
+  "entry_main": "64e7cdee9b6acf97aafec51536042d67607a67a6",
+  "entry_tree": "086538c6044e024d4ef9ad771ef7949e590d9b74",
+  "prior_s027_branch": "269486e7f8bce58f028a55d1b064f93217f1ecb9",
+  "prior_s027_parent": "362bb53e39131a134c072cdf69c2a0358b66c1aa",
+  "prior_s027_tree": "086538c6044e024d4ef9ad771ef7949e590d9b74",
+  "prior_pr": 27,
+  "prior_merge": "64e7cdee9b6acf97aafec51536042d67607a67a6",
+  "prior_merge_parents": [
+    "362bb53e39131a134c072cdf69c2a0358b66c1aa",
+    "269486e7f8bce58f028a55d1b064f93217f1ecb9"
+  ],
+  "prior_branch_commits": 1,
+  "prs_total": 27,
+  "open_prs": 0,
+  "prior_prs_1_to_27": "all merged",
+  "competing_s028_records_or_branches_at_entry": 0,
+  "branches_total": 28,
+  "rulesets": [],
+  "main_protected_summary": false,
+  "branch_protection": "HTTP403 Resource not accessible by integration; UNKNOWN details",
+  "workflow_files_recursive_tree": 0,
+  "workflow_listing_endpoint": "fetch rejected NOT ALLOWED; UNKNOWN",
+  "hosted_actions_runs": 0,
+  "hosted_jobs": 0,
+  "hosted_check_runs": 0,
+  "hosted_status_contexts": 0,
+  "combined_status": "pending with zero contexts",
+  "hosted_ci_pass": false
+}

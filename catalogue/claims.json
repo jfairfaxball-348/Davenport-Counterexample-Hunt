@@ -1315,6 +1315,18 @@
         "SRC-0003"
       ],
       "notes": "New NECESSARY condition only with exact-four-block hypothesis and SOURCE_STATED Olson D1; does NOT exclude six+ signature classes, four blocks, five+ blocks, p>=7 stronger short extraction, D2<=6p−6, generalized Dk or D1 conjecture. Hand proof only, not formal certification."
+    },
+    {
+      "id": "CLM-0124",
+      "statement": "For every odd prime p>=7 there exists an ABSTRACT six-cell aggregate C_p³ incidence system with 3p total indexed cell cardinality, precisely four distinct zero-sum whole-cell unions of size b=(3p-1)/2 and their four size b+1 complements, and no other nonempty proper whole-cell zero-sum union; S026 pair-cover and triple-cut incidence conditions hold. Explicit cells A..F have sizes (d+ell-1,d+2ell,d+ell,d,ell,ell) and aggregate sums (1,-1,1,3,-2,-2)u with ell parity-selected and d=(b+1-3ell)/2. The six-class S027 bound is sharp only in this ABSTRACT aggregate relaxation. No actual indexed group-element lift/no-short S, rank3 D1, D2 or strong extraction is established.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S028_SIX_CELL_AGGREGATE_COUNTERMODEL.md",
+      "source_ids": [
+        "SRC-0021",
+        "SRC-0003"
+      ],
+      "notes": "New symbolic self-contained check of all {0,1} WHOLE-CELL subset sums, cardinalities and complementary signatures. The CLASSICAL Olson D1 in the motivating hypothetical remains SOURCE_STATED; aggregate cell sums are not individual indexed vectors. No numerical mathematical search or exhaustive machine enumeration, no D1/Dk or stronger source-claim upgrade."
     }
   ]
 }

@@ -24,13 +24,14 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S027",
-  "recommended_next_session": "S028",
+  "last_completed_session": "S028",
+  "recommended_next_session": "S029",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": null,
   "phase1_target_status": "WITHHELD_NO_REPLACEMENT_CAMPAIGN",
   "open_blockers": [
+    "S028 CLM-0124: explicit uniform p>=7 six-cell AGGREGATE incidence countermodel exactly satisfies four b-block sums/cardinalities, every whole-cell zero-sum subset, pair-cover and triple-cut; DOES NOT provide actual indexed zero-sumfree lift. FIRST essential gap is partial-cell/nonempty <=a zero-sum exclusion for individual positions; 7/8 classes, >=5 blocks, strong extraction and D2<=6p-6 remain unproved.",
     "S027 four-block analysis STOP: when exactly four balanced b-blocks occur their incidence needs at least SIX 4-bit signature classes; at six+ the five zero-sum equations can have nontrivial kernel. No structural contradiction for exactly four or five+ blocks. Alternate D2<=6p−6 unproved, weak recurrence two short.",
     "S026 proves a new balanced-only incidence obstruction CLM-0122: with classical Olson rank3 D1 source-stated, any 3p zero-sum block in a hypothetical no-<=3(p−1)/2 length 6p−3 sequence has at least FOUR distinct indexed zero-sum b-subsets, b=(3p−1)/2. Proof uses two-deletion pair-cover, three-block bit patterns, and invertible affine incidence matrices (det ±1 or ±2, odd characteristic). This does NOT exclude four or more blocks, does NOT prove the strong p>=7 extraction, and does NOT improve generalized Dk or classic D1. The previous safe recurrence remains M+2 at k0=2p−4; D2<=6p−6 would be sufficient but is unproved. SOURCE_STATED exact historical frontier retained; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 blocked n6=16. Zero hosted checks NOT CI PASS.",
     "S025 CLM-0120 independently reconstructs odd-prime C_p³ original 6p−3 Chevalley–Warning p-or-3p zero-sum existence (p3/p5 included); using SOURCE_STATED classical Olson D1, the weaker <=(3p−1)/2 rank3 extraction is now PROGRAMME_PROVED relative to that imported premise. Strong <=3(p−1)/2 p>=7 is UNPROVED internally; all-prime p2 generalized bound remains REFUTED (S024), not classic D1 counterexample. S025 CLM-0121 safe recurrence yields downstream M+2 at k=2p−4, two-position deficiency, not a theorem failure.",
@@ -46,6 +47,7 @@
   "gate_ledger": "docs/PHASE_GATE_LEDGER.md",
   "source_snapshot": "2026-10-12",
   "warnings": [
+    "S028 is an ABSTRACT aggregate countermodel only, not a group-element sequence, stronger extraction failure, rank-three D1 or Dk theorem or search candidate. 30/30 frontier rows preserved, Phase1 IN_PROGRESS, CAM-0001 BLOCKED, 0 hosted checks NOT CI PASS.",
     "S027 hand-proof only: CLM-0123 conditional four-block >=6 signatures, never a new D1 or Dk value, p>=7 strong extraction unproved, Phase1 IN_PROGRESS, blocked CAM-0001, no hosted CI PASS.",
     "S025 STOP at p>=7 balanced-only 3p zero-sum splitting essential structural gap after COMPLETE odd-prime original CW/p-or-3p proof; safe recurrence downstream exact M+2 shortfall. 30/30 original frontier rows unchanged, Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 blocked n6=16, zero hosted checks NOT CI PASS.",
     "S024 STOP after direct p2 printed multiwise counterexamples and complete safe weaker recurrence. No original strong odd-prime coefficient or rank-three D conjecture result. All30 frontier rows unchanged, Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 blocked; absent hosted checks NOT CI PASS.",
@@ -84,5 +86,18 @@
     "phase1": "IN_PROGRESS",
     "CI": "NO_HOSTED_CHECKS_NOT_PASS"
   },
-  "s027_result": "S027 CLM-0123 proves, relative to SOURCE_STATED classical Olson D1 and S025/S026, that IF exactly four indexed balanced b-zero-sum blocks occur in a hypothetical p>=7 3p zero-sum Z, their four-bit membership pattern must occupy >=6 signature cells. Four Hamming-distance-three coordinate-labelled edges form a forest; five cells would yield invertible det +/-1 or +/-3 and a forbidden small zero-sum class. Six+ cells and >=5 b-block families remain UNRESOLVED. No stronger short extraction or D2<=6p-6, no new D1/Dk numeric frontier theorem. Full n1..30 original values/evidence preserved, Phase1 IN_PROGRESS, CAM-0001 blocked, zero hosted CI PASS."
+  "s027_result": "S027 CLM-0123 proves, relative to SOURCE_STATED classical Olson D1 and S025/S026, that IF exactly four indexed balanced b-zero-sum blocks occur in a hypothetical p>=7 3p zero-sum Z, their four-bit membership pattern must occupy >=6 signature cells. Four Hamming-distance-three coordinate-labelled edges form a forest; five cells would yield invertible det +/-1 or +/-3 and a forbidden small zero-sum class. Six+ cells and >=5 b-block families remain UNRESOLVED. No stronger short extraction or D2<=6p-6, no new D1/Dk numeric frontier theorem. Full n1..30 original values/evidence preserved, Phase1 IN_PROGRESS, CAM-0001 blocked, zero hosted CI PASS.",
+  "s028_summary": {
+    "session": "S028",
+    "claim": "CLM-0124",
+    "kind": "PROGRAMME_PROVED abstract aggregate relaxation countermodel",
+    "whole_cell_zero_subsets": "exactly four b blocks and four b+1 complements",
+    "indexed_lift": "UNPROVED",
+    "strong_extraction": "UNPROVED",
+    "D2_target": "UNPROVED",
+    "frontier_original_rows_unchanged": 30,
+    "phase1": "IN_PROGRESS",
+    "campaign": "CAM-0001 BLOCKED n6=16",
+    "hosted_ci_pass": false
+  }
 }

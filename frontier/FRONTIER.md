@@ -1,4 +1,4 @@
-# Frontier after S027
+# Frontier after S028
 
 # S027 adds CLM-0123: if exactly FOUR balanced b-blocks, there must be at least SIX occupied 4-bit incidence signatures; six+ remains unresolved, NOT a proof of strong extraction or new D1/Dk. Thirty original numeric/source/status/evidence rows unchanged.
 
@@ -165,3 +165,7 @@ Compared **each** row n=1..30 between frontier/frontier.json and this Markdown t
 ## S027 — independently reconciled all 30 original rows
 
 30/30 row-by-row Markdown-versus-JSON comparisons for n, group, D*, reported bound, provisional status and full ordered evidence list: **ZERO mismatches**, all original rows and JSON row objects unchanged. Historical 25 settled/trivial, five interval cases n15 43..45, n20 58..59, n21 61..63, n28 82..83, n30 88..90. No modern openness conclusion. CLM-0123 concerns balanced short zero sums for prime C_p³, NOT a rank3 classical D1 new theorem. Schmid n6=16, van Emde Boas 2p^a/3*2^a and Yiu remain SOURCE_STATED. Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 blocked n6=16; zero CI runs/checks NOT CI PASS.
+
+## S028 — aggregate six-class model does not change ANY n1..30 D1 row
+
+Independently re-compared 30 original JSON row objects with ALL 30 Markdown table rows for n, group, D*, numeric bound, provisional status and full ORDERED evidence list: **30/30 identical, zero mismatches**; no original row field was changed. 25 settled/trivial historical and n15 43..45, n20 58..59, n21 61..63, n28 82..83, n30 88..90 unchanged. CLM-0124 is a symbolic whole-cell AGGREGATE incidence consistency theorem for prime p>=7, NOT an indexed sequence or new classic D1 or Dk result, nor a novelty claim. Schmid n6=16, van Emde Boas historical exact 2p^a/3*2^a and Yiu remain SOURCE_STATED. CAM-0001 remains blocked by n6=16; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED; no authenticated latest exact interval result, no openness inference and NO hosted CI PASS.

@@ -8,7 +8,7 @@
 
 S001 bootstrap: repository initialized from empty main via .gitignore initial commit `412f0088aeffb823f1533f5d0809806a6b58afde`. S001 session commit built as one new tree and one commit on `session/S001-bootstrap-frontier`.
 
-Current completed session: S027. The only active continuation is NEW separately owner-invoked S028 in authoritative/NEXT_SESSION_PROMPT.md. S028 is STRICTLY FUTURE UNEXECUTED.
+Current completed session: S028. The only active continuation is NEW separately owner-invoked S029 in authoritative/NEXT_SESSION_PROMPT.md. S029 is STRICTLY FUTURE UNEXECUTED.
 
 S012–S016 independent p7/rank-two/coefficient/collinear/trapezoid results remain preserved. S017 adds ONLY original Reiher Proposition8.1 (CLM-0103), with both η signs, all original determinants, four genuine conditional µ=1 equations, exact strategic equation and printed cancellation 2(1−x−y)=0; Prop5.1 is applied to three DISTINCT ORIGINAL collinear terms, p5 included. See research/S017_REIHER_PROPOSITION_8_1.md.
 
@@ -71,3 +71,7 @@ See research/S026_BALANCED_ONLY_INCIDENCE.md; new S027 handoff strictly future.
 S027 CLM-0123 proves, relative to SOURCE_STATED classical Olson D1 and S025/S026, that IF exactly four indexed balanced b-zero-sum blocks occur in a hypothetical p>=7 3p zero-sum Z, their four-bit membership pattern must occupy >=6 signature cells. Four Hamming-distance-three coordinate-labelled edges form a forest; five cells would yield invertible det +/-1 or +/-3 and a forbidden small zero-sum class. Six+ cells and >=5 b-block families remain UNRESOLVED. No stronger short extraction or D2<=6p-6, no new D1/Dk numeric frontier theorem. Full n1..30 original values/evidence preserved, Phase1 IN_PROGRESS, CAM-0001 blocked, zero hosted CI PASS.
 
 See research/S027_FOUR_BLOCK_CUBE_FOREST.md and sessions/S027. S028 is FUTURE UNEXECUTED and requires a new owner request.
+
+## S028 — 2026-10-12
+
+S028 CLM-0124 proves a **six-cell abstract AGGREGATE countermodel** to closing S027's exactly-four balanced b-block obstruction by whole-cell incidence constraints alone. For every p>=7: coefficients (1,-1,1,3,-2,-2)u, six positive class sizes (d+ell-1,d+2ell,d+ell,d,ell,ell), four b zero unions AB,ACE,ACF,ADEF and exactly four b+1 zero complements; no other whole-cell zero-sum unions. Pair-cover and triple-separation hold. **No indexed group-vector lift or full short-zero-sum exclusion has been proved.** Strong extraction, D2<=6p-6 and classic rank3 conjecture UNPROVED. All thirty n1..30 original numeric/source/evidence rows unchanged; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 PROPOSED/NOT_RUNNING/BLOCKED n6=16. Zero hosted checks NOT CI PASS. See [S028 proof](../research/S028_SIX_CELL_AGGREGATE_COUNTERMODEL.md). S029 future only.

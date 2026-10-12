@@ -1,0 +1,19 @@
+{
+  "session": "S028",
+  "primary": "SRC-0021 original publisher definitive printed pp22-24 (page23 PDF index2 visually inspected)",
+  "imported": "SRC-0003 classical Olson rank3 D1 SOURCE_STATED; CLM-0120/0122/0123 PROGRAMME_PROVED relative to source-stated input",
+  "new_claim": "CLM-0124 six-cell ABSTRACT aggregate relaxation consistency (internal hand proof)",
+  "sheikh": "Original Royal Holloway full 137-page PDF reattempt failed (tool internal error; prior HTTP403); Chapter4/Remark4.3.11 unread",
+  "ghst": "Original GHST C53 author CODE and OUTPUT endpoint inaccessible, NEVER RUN",
+  "yiu": "Original arXiv 2609.04950v1 HTML read; independent final M1 three-disjoint program/log/certificates not authenticated; M2/M3 distinct, p5 D2=20 SOURCE_STATED",
+  "interval_primary_queries": [
+    15,
+    20,
+    21,
+    28,
+    30
+  ],
+  "new_authenticated_exact_D1_results": 0,
+  "no_openness_claim": true,
+  "source_access_changes": 0
+}

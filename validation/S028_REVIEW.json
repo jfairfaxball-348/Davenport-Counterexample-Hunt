@@ -1,0 +1,11 @@
+{
+  "session": "S028",
+  "claim": "CLM-0124",
+  "proof_category": "PROGRAMME_PROVED_ABSTRACT_AGGREGATE_ONLY",
+  "review": "reviewed all 6 symbolic coefficient cases and four b sizes, 4-cube signatures",
+  "indexed_lift_not_claimed": true,
+  "formal_certification": false,
+  "hosted_ci_pass": false,
+  "essential_open_step": "partial-cell indexed zero-sumfree lifting",
+  "frontier_original_rows_preserved": 30
+}
