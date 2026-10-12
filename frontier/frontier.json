@@ -533,5 +533,39 @@
     "no_rank_three_D_upgrade": true,
     "new_p2_lemma23_refutation_is_Dk_not_D1": true,
     "missing_checks_not_pass": true
+  },
+  "s025_audit": {
+    "session": "S025",
+    "date": "2026-10-12",
+    "rows": 30,
+    "mismatches": 0,
+    "original_group_dstar_bound_status_evidence_unchanged": true,
+    "exact_source_or_trivial": 25,
+    "intervals": [
+      {
+        "n": 15,
+        "bound": "43..45"
+      },
+      {
+        "n": 20,
+        "bound": "58..59"
+      },
+      {
+        "n": 21,
+        "bound": "61..63"
+      },
+      {
+        "n": 28,
+        "bound": "82..83"
+      },
+      {
+        "n": 30,
+        "bound": "88..90"
+      }
+    ],
+    "new_rank_three_D1_theorem": false,
+    "phase1": "IN_PROGRESS",
+    "campaign": "CAM-0001 BLOCKED n6=16",
+    "notes": "S025 proved odd prime CW rank3 extraction relative to source-stated Olson; stronger p>=7 and downstream M+2 deficit do not change any D1 value/source evidence class."
   }
 }

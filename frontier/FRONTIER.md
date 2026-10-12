@@ -1,6 +1,6 @@
-# Frontier after S023
+# Frontier after S025
 
-S013 CLM-0089–0093 hand-prove rank-two p/2p extraction, D(Cp²)=2p−1, eta<=3p−2/long-zero short block, original Lem10.6 and the full B=>C implication CONDITIONAL on Property B. Complete S012 p7 Lem5.2 preserved. S021 has now independently proved original Reiher universal prime Property B, CLM-0110, RANK TWO; conditional Property C/eta7 not yet discharged; stronger coefficient unproved. Phase1 IN_PROGRESS; Phases2/3 NOT_STARTED; CAM-0001 PROPOSED / NOT RUNNING activation BLOCKED by published n6=16. All 30 numeric rows unchanged; no openness inference. Zero hosted CI, NOT PASS.
+S025 independently reconstructs original odd-prime rank3 Chevalley–Warning 6p−3 p-or-3p existence and weaker <=(3p−1)/2 extraction, with classical Olson D1 SOURCE_STATED as premise. Strong p>=7 3(p−1)/2 extraction UNPROVED and safe recurrence has two-position downstream deficit; this is NOT any new D1 equality or candidate. S022 historically-proved Property C and eta7 remain scoped. Phase1 IN_PROGRESS; Phases2/3 NOT_STARTED; CAM-0001 PROPOSED / NOT RUNNING, activation BLOCKED by published n6=16. ALL 30 original numeric/status/evidence rows remain unchanged; no openness inference. Zero hosted CI, NOT PASS.
 
 **D(C6³)=16 is already a source-stated exact theorem.** CAM-0001 remains PROPOSED / NOT RUNNING with its premise obsolete. No Phase-2 target is selected. n=15 is the first interval requiring further literature review, not a declaration of openness.
 
@@ -153,3 +153,7 @@ All THIRTY original D(Cn³) numerical bounds, provisional status, evidence class
 ## S024 — complete 30-row numeric/status/evidence JSON/Markdown reconciliation
 
 One-to-one administrative comparison of n=1..30 EVERY row: 30/30 matched n, group, D*, reported bound, provisional status, evidence; no cell changed. 25 settled/trivial, five intervals n15=43..45,n20=58..59,n21=61..63,n28=82..83,n30=88..90. S024 refutes two all-prime generalized **D_k** Lem2.3 inequalities at p2, not ANY n-specific classic **D_1**. Schmid2011 n6=16 and van Emde Boas rank-three 2p^a/3·2^a remain SOURCE_STATED; inherited14/17,+5,43/699/5553 quarantined. Bounded primary exact-source no-hit does NOT establish openness. Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 BLOCKED, missing hosted checks NOT CI PASS.
+
+## S025 full thirty-row mirror audit
+
+Compared **each** row n=1..30 between frontier/frontier.json and this Markdown table for group, D*, reported bound, provisional status and complete evidence list: 30/30, zero discrepancies at S025 entry; S025 changes NO row numeric endpoint, original status, source or evidence class. 25 source-stated exact/trivial; n15 43..45, n20 58..59, n21 61..63, n28 82..83, n30 88..90 intervals. Schmid2011 n6=16 and van Emde Boas exact 2p^a/3·2^a SOURCE_STATED; neither promoted to independently established original D1. Search non-discovery is NOT current openness. All phases and blocked CAM-0001 unchanged. New scoped math CLM-0120/0121 is unrelated to exact composite-rank3 D1 endpoints.

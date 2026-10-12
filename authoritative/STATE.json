@@ -24,13 +24,14 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S024",
-  "recommended_next_session": "S025",
+  "last_completed_session": "S025",
+  "recommended_next_session": "S026",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": null,
   "phase1_target_status": "WITHHELD_NO_REPLACEMENT_CAMPAIGN",
   "open_blockers": [
+    "S025 CLM-0120 independently reconstructs odd-prime C_p³ original 6p−3 Chevalley–Warning p-or-3p zero-sum existence (p3/p5 included); using SOURCE_STATED classical Olson D1, the weaker <=(3p−1)/2 rank3 extraction is now PROGRAMME_PROVED relative to that imported premise. Strong <=3(p−1)/2 p>=7 is UNPROVED internally; all-prime p2 generalized bound remains REFUTED (S024), not classic D1 counterexample. S025 CLM-0121 safe recurrence yields downstream M+2 at k=2p−4, two-position deficiency, not a theorem failure.",
     "S024 CLM-0115/0116 refute PUBLISHED ALL-PRIME BSP2012 Lem2.3 generalized D_k bounds for p2 (rank3 k19; d4 k25) by order-two repetitions. This is NOT a counterexample to D(C_n³)=3n−2. New CLM-0117 recurrence and conditional weaker CLM-0118/0119 do NOT close stronger odd p≥5/p≥7 coefficient, unproved odd-prime short extraction, or omitted original rank3 proof.",
     "S023 CLM-0113 establishes only the odd-prime weaker (3p−1)/2 split (p7=10), while CLM-0114 supplies an explicit 15-term p3 symbolic counterexample to a universally stronger 3(p−1)/2 short-extraction assertion. BSP2012 Lem2.3 rank-three proof is omitted and stronger p≥7 coefficient unproved; these do NOT refute its multiwise statement or Davenport equality.",
     "S022 CLM-0111 unconditionally closes every-prime Property C and CLM-0112 proves historical eta(C7³)≤116; neither implies rank-three Davenport equality. Stronger BSP splitting coefficient and general omitted rank-three Lem2.3, BSP2007 diagrams, full provenance and other frontier gates unproved.",
@@ -43,6 +44,7 @@
   "gate_ledger": "docs/PHASE_GATE_LEDGER.md",
   "source_snapshot": "2026-10-12",
   "warnings": [
+    "S025 STOP at p>=7 balanced-only 3p zero-sum splitting essential structural gap after COMPLETE odd-prime original CW/p-or-3p proof; safe recurrence downstream exact M+2 shortfall. 30/30 original frontier rows unchanged, Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 blocked n6=16, zero hosted checks NOT CI PASS.",
     "S024 STOP after direct p2 printed multiwise counterexamples and complete safe weaker recurrence. No original strong odd-prime coefficient or rank-three D conjecture result. All30 frontier rows unchanged, Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 blocked; absent hosted checks NOT CI PASS.",
     "S023 STOP on essential BSP2012 prerequisite: published 3p split gives floor(3p/2), not 3(p−1)/2. Symbolic T²-minus-one counterexample at p3 refutes universal stronger short-extraction; no rank-three Davenport candidate, no Lem2.3 refutation, no source-status promotion of that lemma. All 30 D frontier rows unchanged; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 blocked, 0 hosted checks NOT CI PASS.",
     "S022 independently composes every-prime Property B CLM-0110 with the fully reconstructed conditional GG1999 B⇒C CLM-0093 to prove every-prime Property C CLM-0111; proves historical eta(C7³)≤116 CLM-0112 by maximal-line eight-plane counting with all six integer cases and CLM-0087/0091. This is NOT a rank-three Davenport equality or a novelty claim. Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 BLOCKED by source-stated n6=16; hosted CI absent (NOT PASS).",
@@ -61,5 +63,12 @@
     "S014 official Sheikh 403, C53 HTML inaccessible through web tool, Yiu abstract read without authenticated original code/log/certificates; do not infer global absence."
   ],
   "first_interval_requiring_literature_review": 15,
-  "owner_action_blockers": []
+  "owner_action_blockers": [],
+  "s025_result": {
+    "rank3_CW": "PROGRAMME_PROVED relative to classical source-stated Olson D1",
+    "strong_p_ge_7": "UNPROVED_INTERNAL",
+    "downstream_two_position_deficit": true,
+    "frontier_change": false,
+    "owner_blocker": false
+  }
 }

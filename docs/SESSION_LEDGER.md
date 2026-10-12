@@ -93,3 +93,7 @@ S012 closeout: [complete record and FUTURE UNEXECUTED S013 handoff](../sessions/
 | S024 | 2026-10-12 | Definitive BSP2012 pp22–24 all-prime multiwise p2 counterexamples, complete safe weaker recurrence, read-only source/mirror audit | CLM-0115/0116 disprove published D_k inequalities at p2 k19 and d4 k25; CLM-0117–0119 recurrence/conditional bounds; p≥7 strong proof unclosed; Phase1 IN_PROGRESS, CAM-0001 BLOCKED | session/S024-bsp-p2-counterexample-recurrence |
 
 [S024 full proof/closeout and complete strictly future S025 handoff](../sessions/S024/CLOSEOUT.md).
+
+| S025 | 2026-10-12 | Original definitive BSP2012 6p−3 odd-prime rank3 Chevalley–Warning complete hand proof, stronger balanced-only gate, weak recurrence downstream two-position audit, read-only primary provenance, full n1..30 mirrors | CLM-0120/0121; weaker extraction now proved with SOURCE_STATED Olson input; p>=7 strong and omitted rank3 Lem2.3 unclosed; 30 D1 rows unchanged; Phase1 IN_PROGRESS, CAM-0001 BLOCKED | session/S025-bsp-odd-prime-cw-audit |
+
+[S025 full proof/closeout and complete strictly future UNEXECUTED S026 handoff](../sessions/S025/CLOSEOUT.md).

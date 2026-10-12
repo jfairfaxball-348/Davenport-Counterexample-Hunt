@@ -1,0 +1,47 @@
+{
+  "session": "S025",
+  "checks": [
+    {
+      "name": "S024 entry actual branch/PR/two-parent merge",
+      "status": "PASS_ADMIN"
+    },
+    {
+      "name": "all thirty JSON/Markdown exact original group/Dstar/bound/status/evidence rows",
+      "status": "PASS_ADMIN",
+      "rows": 30,
+      "mismatches": 0
+    },
+    {
+      "name": "CW p-or-3p algebra",
+      "status": "HAND_PROOF_REVIEWED_NOT_FORMALLY_CERTIFIED",
+      "prime_range": "odd primes including p3,p5"
+    },
+    {
+      "name": "rank3 short extraction classical Olson prerequisite",
+      "status": "PROGRAMME_PROVED_WITH_SOURCE_STATED_INPUT",
+      "L": "(3p-1)/2"
+    },
+    {
+      "name": "strong p>=7 extraction",
+      "status": "UNPROVED_INTERNAL"
+    },
+    {
+      "name": "downstream k threshold and two-term deficit",
+      "status": "HAND_PROOF_REVIEWED_NOT_FORMALLY_CERTIFIED",
+      "gap": 2
+    },
+    {
+      "name": "Phase1/campaign unchanged",
+      "status": "PASS_ADMIN",
+      "phase1": "IN_PROGRESS",
+      "phase2": "NOT_STARTED",
+      "phase3": "NOT_STARTED",
+      "CAM": "PROPOSED/NOT_RUNNING/BLOCKED n6=16"
+    }
+  ],
+  "hosted_checks_observed_at_entry": 0,
+  "hosted_ci_pass": false,
+  "author_code_executed": false,
+  "mathematical_numerical_search": false,
+  "original_rank3_D1_new_value": false
+}

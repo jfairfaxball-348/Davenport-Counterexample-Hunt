@@ -35,3 +35,7 @@ See research/S018_REIHER_SECTION9_CONIC_LEMMA.md; original quartic/Prop10.1 proo
 ## S022 new historic proof dependencies
 
 CLM-0111 every-prime Property C (S013 conditional B⇒C plus S021 universal B) and CLM-0112 eta(C7³)≤116 (CLM-0091 rank-two eta, CLM-0087 p7 lemma, eight-plane CEIL m cases) independently reconstructed in research/S022_PROPERTY_C_ETA7.md. Not rank-three Davenport exactness nor a new publication. BSP stronger coefficient/general omitted Lem2.3 still unproved.
+
+## S025 scoped original-primary-source proof addition
+
+CLM-0120 reconstructs the definitive original BSP2012 odd-prime C_p³ length 6p−3 Chevalley–Warning p-or-3p existence, including the complete 5p exclusion and mod-p factor identities. With CLASSICAL Olson D(C_p³)=3p−2 imported SOURCE_STATED, <=(3p−1)/2 short extraction is independently proved for odd primes, thereby discharging S024's rank3 conditional antecedent. S023 p3 stronger <=3(p−1)/2 obstruction still holds, p>=7 stronger case UNPROVED. CLM-0121 yields exact S024 recurrence D_k<=6p−4+(k−2)(3p−1)/2 for k>=2 (relative to Olson) and a two-position M+2 shortfall at downstream k=2p−4. Neither is a novel exact D(C_n³) theorem or a candidate. Source and detailed calculations research/S025_BSP_ODD_PRIME_EXTRACTION.md. All original n1..30 endpoints/evidence unchanged, Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 BLOCKED.
