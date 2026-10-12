@@ -1,0 +1,26 @@
+{
+  "session": "S020",
+  "entry_main": "ba5b98d5cdec49f81207260df09ac8f829ebcbd9",
+  "entry_tree": "ce287fee322651817091c4e1d671581ccaad8e85",
+  "prior_S019_branch": "19d917c1ea8b789da8088ec80d088e8167cf5a1d",
+  "prior_parent": "9cfe4ef86c1d7408f56dce65aa62eee2c0f711fc",
+  "prior_tree": "ce287fee322651817091c4e1d671581ccaad8e85",
+  "prior_pr": 19,
+  "prior_merge_parents": [
+    "9cfe4ef86c1d7408f56dce65aa62eee2c0f711fc",
+    "19d917c1ea8b789da8088ec80d088e8167cf5a1d"
+  ],
+  "all19_prs_merged": true,
+  "open_prs": 0,
+  "competing_s020_branches": 0,
+  "rulesets": [],
+  "protection": "HTTP403 inaccessible",
+  "workflow_files": 0,
+  "workflow_list": "HTTP400 unsupported endpoint",
+  "runs": 0,
+  "jobs": "No runs; separate collection unsupported",
+  "check_runs": 0,
+  "status_contexts": 0,
+  "combined_status": "pending",
+  "hosted_ci_pass": false
+}

@@ -87,3 +87,7 @@ No replacement campaign, target, solver, candidate, source-code execution or cer
 ### S019 — CAM-0001 remains PROPOSED / NOT RUNNING, activation BLOCKED
 
 Published Schmid2011 source-stated D(C6³)=16 makes its inherited length16 zero-sumfree campaign obsolete. Original Reiher rank-two geometry CLM-0106–0108 cannot reactivate it. No Phase2/3, replacement campaign, new target, search, candidate, certificate or numerical mathematical computation.
+
+### S020 — CAM-0001 remains PROPOSED / NOT RUNNING, activation BLOCKED
+
+Published Schmid2011 source-stated n6=16 makes the inherited length16 zero-sumfree premise obsolete. S020 rank-two Proposition10.1 cannot reactivate this rank-three campaign. No Phase2/3, replacement target/campaign, code, candidate, solver, Lean, certificate or numerical mathematical search.

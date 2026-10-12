@@ -31,3 +31,9 @@ See research/S018_REIHER_SECTION9_CONIC_LEMMA.md. S019 is FUTURE UNEXECUTED on n
 S019 independently hand-proves ONLY Reiher's original Observation9.4, Observation9.5 and Lemma9.6 over fields of characteristic !=2 (CLM-0106–0108), with n>=5 conic dimension, quadratic-surface rank and fourteen-sum Veronese geometry. Proposition10.1/universal Property B, unconditional Property C, eta(C7³)<=116 and rank-three Davenport conjecture remain unproved. All 30 numerical/status/evidence frontier rows unchanged; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 PROPOSED / NOT RUNNING and BLOCKED by source-stated n6=16. No hosted CI PASS.
 
 See research/S019_REIHER_SECTION9_GENERAL_POSITION.md. S020 Prop10.1 strictly FUTURE UNEXECUTED.
+
+## S020 — 2026-10-12
+
+S020 independently closes ONLY original Reiher Proposition10.1 CLM-0109: 14 quartic moment coefficients, at-most-two-dimensional V, 1/4/6/4/1 factorial identity, two indexed auxiliary Cor3.4 applications with p5 boundary and residual contradiction. Original Theorem10.2/universal Property B, unconditional C, eta(C7³)<=116 and rank-three D conjecture remain not programme-proved. All 30 numerical/status/evidence frontier rows unchanged; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 PROPOSED / NOT RUNNING activation BLOCKED by published n6=16; zero hosted checks NOT CI PASS.
+
+See research/S020_REIHER_PROPOSITION_10_1.md; S021 original Theorem10.2 strictly FUTURE UNEXECUTED, requiring a new invocation.

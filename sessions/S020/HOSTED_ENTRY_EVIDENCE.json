@@ -1,0 +1,17 @@
+{
+  "session": "S020",
+  "main": "ba5b98d5cdec49f81207260df09ac8f829ebcbd9",
+  "branches_count": 20,
+  "open_prs": 0,
+  "rulesets": [],
+  "protected_summary": false,
+  "protection_API": "HTTP403 Resource not accessible by integration",
+  "workflow_directory_files": 0,
+  "workflow_listing": "HTTP400 unsupported",
+  "hosted_runs": 0,
+  "jobs": "No runs, no jobs to enumerate",
+  "check_runs": 0,
+  "status_contexts": 0,
+  "combined_status": "pending",
+  "ci_pass": false
+}
