@@ -279,5 +279,19 @@
       28,
       30
     ]
+  },
+  "s034_audit": {
+    "date": "2026-10-12",
+    "session": "S034",
+    "source_enums_unchanged": true,
+    "original_source_records_unchanged": true,
+    "reviewed_original": "SRC-0021 original publisher offprint pp22-24, PDF p23 image direct inspection, original weak Lem2.1 and omitted rank-three Lem2.3 proof",
+    "new_exact_authentications": 0,
+    "unread": [
+      "Sheikh2017 Chapter4",
+      "GHST C53 original code/output",
+      "Yiu independent final M1"
+    ],
+    "interval_rows_unchanged": true
   }
 }

@@ -173,3 +173,7 @@ A plausible shortcut would upper-bound nonzero Psi by adding all light projectiv
 ## S033 — pair-cover OR is not uniform codegree positivity
 
 Attempted strengthened p7 nonzero Psi lower >=37 by asserting every pair has lambda_ij>=1. FAILED indispensable premise: S030 CLM-0127 proves every pair is either co-contained in a b-block OR co-avoided by a b-block; a co-avoided pair can still have lambda_ij=0. The conditional proof is mathematically consistent **only under extra unproved P**, archived as CLM-0135 without promoting unconditional p7 bound above 24. The independent star moment CLM-0136 is valid with no P. Strong extraction/m2p and light-fibre overlap/cancellation are not settled. No computational search, candidate, D1/Dk, source enum, phase or CI upgrade.
+
+## S034 — recover mixed positivity, not the failed universal P
+
+S033's invalid OR=>AND interpretation remains rejected. NEW sound route: for m2p with s=+1 only, rH+rL-m=1 gives lambda_HL>=1 directly by inclusion–exclusion; low-low lambda may still be zero, thus use max low-low defect t rather than t-1. This yields CLM-0137 p7 W>=29 unconditionally, NOT 37, and does NOT work for s=-1 because the mixed bound is -1. The lower support bound is not a projective upper bound: S032 U>=111 still blocks a raw-capacity contradiction. No m2p/m>=3p exclusion, source/D1/Dk/phase/campaign/CI promotion.

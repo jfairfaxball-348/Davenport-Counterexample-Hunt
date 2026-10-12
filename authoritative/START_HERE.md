@@ -8,7 +8,7 @@
 
 S001 bootstrap: repository initialized from empty main via .gitignore initial commit `412f0088aeffb823f1533f5d0809806a6b58afde`. S001 session commit built as one new tree and one commit on `session/S001-bootstrap-frontier`.
 
-Current completed session: S032. The only active continuation is NEW separately owner-invoked S033 in authoritative/NEXT_SESSION_PROMPT.md. S033 is STRICTLY FUTURE UNEXECUTED.
+Current completed session: S034. The only active continuation is NEW separately owner-invoked S035 in authoritative/NEXT_SESSION_PROMPT.md. S035 is STRICTLY FUTURE UNEXECUTED. Earlier numbered introductory results below remain historical at their stated session cutoff.
 
 Current result: S030 CLM-0127: applying three-coordinate Chevalley–Warning to any two-index deletion directly proves indexed pair-cover without the SOURCE_STATED classical Olson D1 input; for m=kp the exact level census is r_i=t+p j_i (0<=j_i<=k-1), sum j_i=kb-3t. CLM-0128: three-index deletion is the EXACT degree boundary and its zero-support count equals an explicitly signed three-colour partition coefficient, not automatically 0 mod p. Two-index deletion congruences are redundant given S029. Neither m=2p nor larger m is excluded; strong short extraction and D2<=6p-6 remain UNPROVED. No classic rank-three D1/Dk update or novelty claim.
 
@@ -100,3 +100,7 @@ CLM-0132 identifies light-hyperplane zero fibres generating three-deletion Psi s
 ## S033 — 2026-10-12
 
 **CLM-0136** unconditional star moment sum_{j<k,j,k!=i}Psi_ijk=-1/8 modp for every i; global triple sum vanishes. **CLM-0135** improved m2p support (p7 >=37) only under an EXTRA, UNPROVED pair-positivity premise P. S030 proves pair contained **or** avoided, not positive lambda for all pairs: invalid attempted unconditional deduction caught by adversarial review. Unconditional p7 >=24 remains (S031). m2p and m>=3p not excluded, no strong p>=7 extraction or D2 saving. Original30 frontier rows/source enums preserved, Phase1 IN_PROGRESS, CAM-0001 blocked; no hosted CI PASS. [S033 full proof](../research/S033_CONDITIONAL_DEFECT_AND_PSI_STAR.md). S034 only future.
+
+## S034 — unconditional mixed pair-defect improvement (2026-10-12)
+
+CLM-0137 uses the m2p high/low incidence census to prove, when s=+1, high–low lambda>=1 **without** assuming S033's unproved universal positivity P. Exact high/low defect double count yields W>=ceil([L(b+1)t+3H(t+1)]/(6t)) nonzero Psi triples (p7 >=29 unconditional, prior >=24; >=37 remains conditional on P). Low-low lambda=0 remains allowed; s=-1 not upgraded. No m2p/m>=3p contradiction, p>=7 strong extraction, D2 saving or rank3 D1/Dk result. Original 30 frontier JSON objects/Markdown rows and source enums unchanged; Phase1 IN_PROGRESS, CAM-0001 BLOCKED, CI checks absent NOT PASS. [S034 proof](../research/S034_UNCONDITIONAL_MIXED_CODEGREE_DEFECT.md). S035 strictly FUTURE ONLY.

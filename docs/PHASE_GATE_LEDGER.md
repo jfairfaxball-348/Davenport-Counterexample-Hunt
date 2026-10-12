@@ -109,3 +109,7 @@ IN_PROGRESS; PASS WITHHELD. CLM-0132 exact sparse projective zero-fibre and exce
 ## S033 Phase-1 gate — 2026-10-12
 
 **IN_PROGRESS; PASS withheld.** CLM-0136 uniform unconditional Psi star-sum is proved; CLM-0135 support improvement p7 37 requires UNPROVED P: lambda_ij>=1 for every pair. S030 local pair-cover gives a block containing both OR neither; cannot infer P. No m2p/m>=3p exclusion, strong rank-three extraction, D2 two-position saving, classic D1/Dk resolution or source upgrade. Original 30/30 frontier row objects/table rows preserved. Phase2/3 NOT_STARTED, CAM-0001 PROPOSED/NOT_RUNNING/BLOCKED n6=16; hosted CI absent not PASS. S034 strictly future.
+
+## S034 Phase-1 gate — 2026-10-12
+
+**IN_PROGRESS; PASS withheld.** CLM-0137 proves unconditional s=+1 mixed high–low codegree positivity and weighted-defect lower bound on Psi triple support (p7 W>=29, previous unconditional24). Low-low zero codegrees and s=-1 mixed zeros remain possible; stronger S033 p7>=37 demands unproved P. No actual-Z projective-cancellation support upper bound, no m2p or m>=3p exclusion, strong short extraction, D2<=6p-6 or rank3 D1/Dk resolution. Original thirty JSON/Markdown rows and original source records/enums preserved. Phases2/3 NOT_STARTED, CAM-0001 PROPOSED/NOT_RUNNING/BLOCKED n6=16; zero hosted checks NOT PASS. S035 FUTURE ONLY.

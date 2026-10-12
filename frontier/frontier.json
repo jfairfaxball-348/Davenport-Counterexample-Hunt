@@ -730,5 +730,25 @@
     ],
     "phase1": "IN_PROGRESS",
     "campaign": "NOT_RUNNING_BLOCKED"
+  },
+  "s034_audit": {
+    "session": "S034",
+    "as_of": "2026-10-12",
+    "claim": "CLM-0137",
+    "original_rows_preserved": true,
+    "markdown_original_rows_preserved": true,
+    "markdown_json_mismatch_count": 0,
+    "intervals_unchanged": true,
+    "new_rank3_D1_value": false,
+    "new_Dk_bound": false,
+    "p7_prior_unconditional_Psi_support": 24,
+    "p7_new_unconditional_Psi_support": 29,
+    "p7_conditional_only_support_under_P": 37,
+    "m2p_excluded": false,
+    "mge3p_excluded": false,
+    "source_access_status_changes": 0,
+    "phase1": "IN_PROGRESS",
+    "campaign": "CAM-0001 PROPOSED/NOT_RUNNING/BLOCKED",
+    "hosted_ci_pass": false
   }
 }

@@ -143,3 +143,7 @@ CLM-0132/0133/0134 are conditional symbolic necessary conditions and coarse coun
 ## S033 — no campaign activation
 
 Conditional CLM-0135 requires unproved pair-positivity; unconditional CLM-0136 is an exact Psi star identity, not a zero-sumfree sequence or D1/Dk advance. CAM-0001 stays PROPOSED / NOT RUNNING / BLOCKED by original SOURCE_STATED Schmid n6=16. No new target, tooling, author code, search, candidate, Phase2/3, Lean, Palomar or certificate. Original 30 frontier rows preserved; no hosted CI PASS.
+
+## S034 — no campaign/candidate
+
+CLM-0137 proves only an internal symbolic necessary Psi-support condition on a hypothetical indexed p>=7 Z, not a vector sequence or rank-three D1/Dk theorem/candidate. CAM-0001 stays PROPOSED/NOT_RUNNING with activation BLOCKED by historical SOURCE_STATED Schmid D(C6^3)=16. No new mathematical numerical search, tooling, solver, author code execution, Phase2/3, Lean or Palomar. Original 30 frontier rows preserved; hosted CI absent NOT PASS.

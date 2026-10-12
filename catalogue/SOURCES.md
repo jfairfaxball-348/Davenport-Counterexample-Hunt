@@ -400,3 +400,7 @@ Bhowmik–Schlage-Puchta 2012 publisher offprint original pp22–23, including f
 ## S033 original-source read-only provenance
 
 SRC-0021 primary 2012 publisher author-offprint, printed pp22–23, directly revisited including visual p23: Lemma2.1 weaker <=(3p−1)/2 statement; subsequent unsupported stronger <=3(p−1)/2 line, rank-three Lem2.3 proof omitted. S033 CLM-0135/0136 are **internal** deductions not printed as such there. No access enum changes. Sheikh2017 Chapter4 and original GHST C53 complete code/output not inspected; no author code run. Yiu M1 independent final verifier remains unauthenticated; M2/M3 distinct. n15/20/21/28/30 remain historical bounded interval records, not claims of current openness.
+
+## S034 original-primary-source read-only provenance — 2026-10-12
+
+Direct original BSP2012 SRC-0021 publisher-author offprint, printed pp22–24 and visually examined printed p23 (PDF page2): weaker printed Lem2.1 <=(3p−1)/2 and unsupported later stronger <=3(p−1)/2, rank3 Lem2.3 proof expressly omitted. New CLM-0137 derives internally from S029/S031 incidence, NOT asserted by original authors. No SRC access-enum changes or new exact source authentication. Sheikh2017 Chapter4 and GHST original C53 complete code/output UNREAD (code NEVER RUN); Yiu M1 final independent three-disjoint verification unauthenticated, M2/M3 distinct, 98622/230983 generator counts not final proof. Five historical n15/20/21/28/30 intervals unchanged; no present-day openness inference from bounded non-discovery.
