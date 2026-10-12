@@ -1,0 +1,29 @@
+{
+  "session": "S016",
+  "entry_main": "889ac83a4a3161676c928d2965442e59a738e53d",
+  "entry_tree": "94acab1971a8d5d95522d9bdc6bd550813ecaebe",
+  "s015_pr": 15,
+  "s015_head": "1d24f60ffff8866551dd20fca2c8e098817cde10",
+  "s015_head_parent": "2c1e0dac220467d5c3bab526ec56bca61308a2b8",
+  "s015_head_tree": "94acab1971a8d5d95522d9bdc6bd550813ecaebe",
+  "s015_merge": "889ac83a4a3161676c928d2965442e59a738e53d",
+  "s015_merge_parents": [
+    "2c1e0dac220467d5c3bab526ec56bca61308a2b8",
+    "1d24f60ffff8866551dd20fca2c8e098817cde10"
+  ],
+  "s015_one_atomic_commit": true,
+  "all_pr_1_to_15_merged": true,
+  "open_prs": 0,
+  "competing_s016_branches": 0,
+  "reachable_rulesets": [],
+  "main_protected_summary": false,
+  "branch_protection_api": "HTTP403 Resource not accessible by integration",
+  "workflow_files_in_recursive_tree": 0,
+  "workflow_listing_api": "Unsupported by connector; not evidence of zero",
+  "hosted_action_runs": 0,
+  "hosted_action_jobs": 0,
+  "check_runs": 0,
+  "commit_status_contexts": 0,
+  "combined_status": "pending/empty",
+  "hosted_ci_pass": false
+}

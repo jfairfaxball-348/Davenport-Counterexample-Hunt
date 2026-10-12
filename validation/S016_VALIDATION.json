@@ -1,0 +1,24 @@
+{
+  "session": "S016",
+  "kind": "ADMINISTRATIVE_ONLY_IN_MEMORY",
+  "result": "PASS",
+  "checks": {
+    "prior_100_claim_objects_exact": true,
+    "new_claim_ids_unique_102": true,
+    "source_ids_28_unique_and_classes_preserved": true,
+    "claim_source_references_valid": true,
+    "frontier_all_30_original_rows_exact": true,
+    "frontier_Markdown_JSON_numeric_evidence_mirrors_equal": true,
+    "input_committed_git_blob_exact": true,
+    "full_outgoing_future_handoff_exact": true,
+    "phase1_in_progress": true,
+    "phase2_phase3_not_started": true,
+    "campaign_not_running_blocked": true
+  },
+  "claim_ids": 102,
+  "source_ids": 28,
+  "frontier_rows": 30,
+  "hosted_ci_pass": false,
+  "python_validator_executed": false,
+  "git_diff_check_executed": false
+}

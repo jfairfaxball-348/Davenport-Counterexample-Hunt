@@ -1,0 +1,26 @@
+{
+  "session": "S016",
+  "reiher": {
+    "id": "SRC-0025",
+    "primary_pdf": "https://www.math.uni-rostock.de/math/pub/preprints/preprint/2010/pre10_01.pdf",
+    "original_pages": 29,
+    "printed_pages": "14-15",
+    "pdf_zero_based_pages": [
+      13,
+      14
+    ],
+    "s013_historical_sha256": "7d94931bcbf8fb4ce77c0ed94206659df74e8cb5543e1615e7dde23e86b994d8",
+    "fresh_pdf_hash": false,
+    "proofs": [
+      "Lemma6.1",
+      "Proposition6.2"
+    ]
+  },
+  "sheikh": "S016 fresh original official PDF read-only HTTP403, separate earlier checks",
+  "ghst": "S016 original C53.html page inaccessible, full CODE AND OUTPUT unauthenticated",
+  "yiu": "S016 original arxiv2609.04950v1 HTML and abstract read-only, final M1 independent implementation/log/certificates unauthenticated",
+  "s013_yiu_archive_historical": "16680 bytes SHA256 99dc658b3381038fe0c7b2f89145c52a9687e185883cf2a6fdcc0cb8860b1e21; not freshly rehashed",
+  "frontier_rows": 30,
+  "author_code_executed": false,
+  "mathematical_computation": false
+}

@@ -57,3 +57,7 @@ S012 closeout: [complete record and FUTURE UNEXECUTED S013 handoff](../sessions/
 | S015 | 2026-10-11 | Reiher original Lem3.1, Prop3.3, collinear Prop5.1 hand-proof, plus read-only provenance and n1..30 audit | CLM-0098–0100 scoped PROGRAMME_PROVED; Phase1 IN_PROGRESS, Phase2/3 NOT_STARTED, CAM-0001 blocked | session/S015-reiher-collinear-proposition |
 
 [S015 original source proof, closeout and FULL future UNEXECUTED S016 handoff](../sessions/S015/CLOSEOUT.md).
+
+| S016 | 2026-10-12 | ONE original Reiher Section6 symbolic proof of Lem6.1/Prop6.2 with p5, read-only external provenance and n1..30 audit | CLM-0101/0102 only, Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 BLOCKED | session/S016-reiher-trapezoid-proofs |
+
+[S016 source-proof report, closeout and full FUTURE UNEXECUTED S017 handoff](../sessions/S016/CLOSEOUT.md).

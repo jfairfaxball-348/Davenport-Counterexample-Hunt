@@ -1,0 +1,20 @@
+{
+  "session": "S016",
+  "new_claims": [
+    "CLM-0101",
+    "CLM-0102"
+  ],
+  "single_active_target": "Original Reiher Lem6.1 and Proposition6.2",
+  "proof_complete_within_target": true,
+  "next_original_unclosed": "Proposition8.1",
+  "universal_property_B": false,
+  "unconditional_property_C": false,
+  "eta_C7cubed_116_unconditional": false,
+  "rank_three_conjecture": false,
+  "phase1": "IN_PROGRESS",
+  "phase2_phase3": "NOT_STARTED",
+  "campaign": "PROPOSED_NOT_RUNNING_BLOCKED_N6",
+  "mathematical_search": false,
+  "hosted_ci_pass": false,
+  "s017_executed": false
+}
