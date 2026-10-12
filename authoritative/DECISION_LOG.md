@@ -122,3 +122,7 @@ See research/S017_REIHER_PROPOSITION_8_1.md. Next S018 original Obs9.1/Lem9.2 is
 | 2026-10-12 | S030 use two-index CW to prove pair-cover locally WITHOUT Olson and exact all-k degree census; two-deletion congruence redundant | CLM-0127, independently hand-proved | PROGRAMME_PROVED scoped necessary condition |
 | 2026-10-12 | Three-index boundary exact coefficient Psi identified, strict CW unavailable | CLM-0128; complete field-sum/Wilson proof | STOP before unproved m2p contradiction |
 | 2026-10-12 | No D1/Dk endpoint, source upgrades, campaign or Phase1 PASS; S031 future only | S030 internal adversarial and admin checks | No hosted CI PASS |
+
+| 2026-10-12 | S031 exact pair-sum Psi relation sum_k Psi_ijk=s(lambda_ij-t), including correct distinct-index and complement incidence coefficients | CLM-0129; research/S031_TRIPLE_MOMENTS_AND_PROJECTIVE_EXCHANGE.md | PROGRAMME_PROVED internal; no Psi universal vanishing |
+| 2026-10-12 | Conditional m=2p forces >=ceil(L(b+1)/6) nonzero triple Psi coefficients (p7 >=24); GL3 projective/blocking and four-index exchange proved | CLM-0130/0131; S031 internally adversarially reconstructed | Necessary constraints only; NO m2p contradiction or D2 saving |
+| 2026-10-12 | Preserve 30/30 D1 frontier original rows, historical access classes, blocked CAM-0001, Phase1 IN_PROGRESS; S032 future-only | S031 administrative/source audit | No new D1/Dk theorem, novelty or hosted CI PASS |

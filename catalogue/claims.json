@@ -1371,6 +1371,39 @@
         "SRC-0021"
       ],
       "notes": "Elementary indicator expansion and Wilson factorial sign, proved symbolically. Psi is value-sensitive; no universal bound/nonvanishing or D2 saving. Not source-attributed priority or a classic rank-three conjecture result."
+    },
+    {
+      "id": "CLM-0129",
+      "statement": "For actual indexed 3p zero-sum balanced-only Z, every distinct pair (i,j) satisfies sum_{k !=i,j} Psi_ijk = -1/2+(-1)^b lambda_ij = (-1)^b(lambda_ij-t) mod p, where t=(p+(-1)^b)/2. Consequently lambda_ij not congruent t forces at least one NONZERO three-deletion coefficient.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S031_TRIPLE_MOMENTS_AND_PROJECTIVE_EXCHANGE.md",
+      "source_ids": [
+        "SRC-0021"
+      ],
+      "notes": "Independent incidence sum over distinct k; S030 boundary coefficient. Does NOT force Psi=0 or exclude m>=2p; programme-internal deduction, not original source claim."
+    },
+    {
+      "id": "CLM-0130",
+      "statement": "Conditional on actual indexed balanced-only Z and minimal complete family m=2p, L=(3p+2+3(-1)^b)/2 low-degree positions force >=ceil(L(b+1)/6) distinct unordered three-index deletions with NONZERO Psi_ijk. At p=7 at least 24. No contradiction for m=2p or higher multiples.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S031_TRIPLE_MOMENTS_AND_PROJECTIVE_EXCHANGE.md",
+      "source_ids": [
+        "SRC-0021"
+      ],
+      "notes": "For each low i a b-block B contains i; b+1 outside indices j have lambda_ij<t, pair sum nonzero. Count directed pairs max2 orientations and triple capacity3. Not a numerical search or new D1/Dk bound."
+    },
+    {
+      "id": "CLM-0131",
+      "statement": "The S030 ordered three-colour coefficient Psi(T) for |T|=3p-3 equals the GL3-invariant projective sum over P^2(Fp) of prod_{v in T}<X,z_v>. It vanishes if retained vector directions meet every nonzero functional kernel (e.g. all p+1 projective directions in a plane). For any four original indices, the four Psi values on their three-deletion complements are evaluations of a common linear covector on those four z-vectors, hence obey every linear dependency among them.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S031_TRIPLE_MOMENTS_AND_PROJECTIVE_EXCHANGE.md",
+      "source_ids": [
+        "SRC-0021"
+      ],
+      "notes": "Finite-field power sums + projective scaling; polynomial coefficient exchange. Conditional blocking-set vanishing does NOT assert arbitrary Psi=0 or m2p contradiction; internal proof, no priority claim."
     }
   ]
 }

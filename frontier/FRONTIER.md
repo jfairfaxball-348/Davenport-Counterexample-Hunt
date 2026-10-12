@@ -1,4 +1,6 @@
-# Frontier after S030
+# Frontier after S031
+
+S031 CLM-0129 proves exact pair-sum Psi moment: for distinct i,j, sum_{k distinct}Psi_ijk=s(lambda_ij-t) mod p. CLM-0130: if m=2p, at least ceil(L(b+1)/6) distinct triple-deletion coefficients are NONZERO, L=(3p+2+3s)/2 (p7 >=24). CLM-0131: GL3-invariant projective product formula, blocking-set vanishing, and a four-index exchange relation. None excludes m=2p or m>=3p; no strong p>=7 extraction, D2<=6p-6, D1/Dk value, indexed lift, candidate or novelty claim. Phase1 IN_PROGRESS, CAM-0001 blocked. These are symbolic conditional indexed necessary conditions, NOT classic rank-three D1 bounds; all original thirty table rows remain byte-for-byte unchanged.
 
 S030 CLM-0127: applying three-coordinate Chevalley–Warning to any two-index deletion directly proves indexed pair-cover without the SOURCE_STATED classical Olson D1 input; for m=kp the exact level census is r_i=t+p j_i (0<=j_i<=k-1), sum j_i=kb-3t. CLM-0128: three-index deletion is the EXACT degree boundary and its zero-support count equals an explicitly signed three-colour partition coefficient, not automatically 0 mod p. Two-index deletion congruences are redundant given S029. Neither m=2p nor larger m is excluded; strong short extraction and D2<=6p-6 remain UNPROVED. No classic rank-three D1/Dk update or novelty claim. Older S029 table and historical summaries remain unchanged.
 

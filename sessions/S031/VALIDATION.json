@@ -1,0 +1,36 @@
+{
+  "session": "S031",
+  "checks": [
+    {
+      "name": "original 30 frontier JSON row objects preserved exact",
+      "status": "PASS_ADMIN",
+      "rows": 30,
+      "entry_reference": "eed11ce4a6e05515198e48a32ba8cc8165bc375c"
+    },
+    {
+      "name": "original 30 Markdown numeric/status/evidence rows preserved byte-identically",
+      "status": "PASS_ADMIN",
+      "rows": 30,
+      "entry_reference": "eed11ce4a6e05515198e48a32ba8cc8165bc375c"
+    },
+    {
+      "name": "source access enums unchanged and claim IDs unique",
+      "status": "PASS_ADMIN"
+    },
+    {
+      "name": "pair sum, projective sign, four-point exchange independently internally reconstructed",
+      "status": "HAND_PROOF_REVIEWED_NOT_FORMALLY_CERTIFIED",
+      "first_unclosed": "upper restriction for nonzero Psi triples / m>=2p complete families"
+    }
+  ],
+  "mathematical_numerical_search": false,
+  "author_code_executed": false,
+  "new_D1_value": false,
+  "new_Dk_bound": false,
+  "hosted_actions_runs": 0,
+  "hosted_check_runs": 0,
+  "hosted_status_contexts": 0,
+  "hosted_ci_pass": false,
+  "proof_sha256": null,
+  "reason_no_proof_sha256": "No authenticated SHA-256 proof byte service; session Git blob SHA after commit is authoritative. No invented digest."
+}

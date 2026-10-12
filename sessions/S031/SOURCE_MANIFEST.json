@@ -1,0 +1,40 @@
+{
+  "session": "S031",
+  "reviewed": [
+    {
+      "id": "SRC-0021",
+      "url": "https://pro.univ-lille.fr/fileadmin/user_upload/pages_pros/gautami_bhowmik/Publications/large_exponent.pdf",
+      "access": "PROOF_INSPECTED",
+      "observed": "2026-10-12 original publisher offprint pp22-24 and p23 page image; weaker Lemma2.1 split vs printed stronger step; rank3 Lemma2.3 proof omitted; S031 original identities NOT attributed to article"
+    },
+    {
+      "id": "SRC-0003",
+      "access": "STATEMENT_INSPECTED",
+      "observed": "Olson rank-three D1 historical source-stated; S031 identities not dependent on its original proof"
+    },
+    {
+      "name": "Sheikh2017",
+      "access": "BIBLIOGRAPHIC_PAGE_ONLY",
+      "observed": "Original complete Chapter4 not inspected; no new access upgrade"
+    },
+    {
+      "name": "GHST author C53",
+      "access": "UNREAD",
+      "observed": "Full original code and output not read nor run"
+    },
+    {
+      "id": "SRC-0015",
+      "access": "PROOF_INSPECTED",
+      "observed": "Inherited source status; independently executed M1 final triple-disjoint predicate/log/certificates not authenticated"
+    }
+  ],
+  "interval_primary_exact_searches": [
+    15,
+    20,
+    21,
+    28,
+    30
+  ],
+  "new_authenticated_exact_sources": 0,
+  "source_access_enum_changes": 0
+}

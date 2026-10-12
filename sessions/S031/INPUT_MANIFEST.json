@@ -1,0 +1,11 @@
+{
+  "session": "S031",
+  "canonical_source": "authoritative/NEXT_SESSION_PROMPT.md@eed11ce4a6e05515198e48a32ba8cc8165bc375c",
+  "canonical_git_blob_sha": "0da1250e92ee878d9ed0ed3f84088d1c47fb2d28",
+  "canonical_archived_verbatim": true,
+  "archived_input_sha256": null,
+  "owner_invocation": "Visible text transcribed in OWNER_INVOCATION.md",
+  "raw_chat_sha256": null,
+  "reason_no_raw_digest": "Git blob SHA verifies exact repo prompt archival; authentic transport bytes are unavailable and no raw-wire digest is asserted.",
+  "new_session_authorized": true
+}

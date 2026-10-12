@@ -115,3 +115,7 @@ S012 closeout: [complete record and FUTURE UNEXECUTED S013 handoff](../sessions/
 | S030 | 2026-10-12 | One original-primary-source Phase1 symbolic indexed CW two-/three-deletion gate with internal adversarial reconstruction | CLM-0127 Olson-free local pair cover and all m=kp degrees; CLM-0128 exact three-deletion boundary Psi, no m2p contradiction; Phase1 IN_PROGRESS, CAM-0001 BLOCKED; S031 FUTURE UNEXECUTED | session/S030-two-deletion-triple-boundary |
 
 [S030 symbolic proof, review, validation, closeout and strictly future S031 handoff](../sessions/S030/CLOSEOUT.md).
+
+| S031 | 2026-10-12 | One original-primary-source symbolic triple Psi pair-sum, projective blocking and four-index exchange proof; adversarial and full thirty-row administrative checks | CLM-0129/0130/0131; m2p forces >=ceil(L(b+1)/6) NONZERO Psi triples, p7 >=24; no m2p contradiction; Phase1 IN_PROGRESS, CAM-0001 BLOCKED; S032 FUTURE ONLY | session/S031-triple-coefficient-moments |
+
+[S031 proof, original exact archived input, review, validation, closeout and strictly future S032 handoff](../sessions/S031/CLOSEOUT.md).

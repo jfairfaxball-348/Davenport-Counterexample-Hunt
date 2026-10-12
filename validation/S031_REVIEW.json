@@ -1,0 +1,17 @@
+{
+  "session": "S031",
+  "review_type": "SEPARATE_INTERNAL_SAME_EXECUTOR",
+  "external_review": false,
+  "verified_lemmas": [
+    "CLM-0129",
+    "CLM-0130",
+    "CLM-0131"
+  ],
+  "limits": [
+    "m=2p not excluded",
+    "m>=3p not excluded",
+    "no universal Psi vanishing",
+    "no D2 or strong extraction"
+  ],
+  "formal_certificate": false
+}
