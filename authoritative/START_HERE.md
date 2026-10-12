@@ -8,7 +8,7 @@
 
 S001 bootstrap: repository initialized from empty main via .gitignore initial commit `412f0088aeffb823f1533f5d0809806a6b58afde`. S001 session commit built as one new tree and one commit on `session/S001-bootstrap-frontier`.
 
-Current completed session: S030. The only active continuation is NEW separately owner-invoked S031 in authoritative/NEXT_SESSION_PROMPT.md. S031 is STRICTLY FUTURE UNEXECUTED.
+Current completed session: S031. The only active continuation is NEW separately owner-invoked S032 in authoritative/NEXT_SESSION_PROMPT.md. S032 is STRICTLY FUTURE UNEXECUTED.
 
 Current result: S030 CLM-0127: applying three-coordinate Chevalley–Warning to any two-index deletion directly proves indexed pair-cover without the SOURCE_STATED classical Olson D1 input; for m=kp the exact level census is r_i=t+p j_i (0<=j_i<=k-1), sum j_i=kb-3t. CLM-0128: three-index deletion is the EXACT degree boundary and its zero-support count equals an explicitly signed three-colour partition coefficient, not automatically 0 mod p. Two-index deletion congruences are redundant given S029. Neither m=2p nor larger m is excluded; strong short extraction and D2<=6p-6 remain UNPROVED. No classic rank-three D1/Dk update or novelty claim.
 
@@ -88,3 +88,7 @@ S029 CLM-0125/0126: elementary indexed Chevalley–Warning deletion counts force
 ## S030 — current result (2026-10-12)
 
 S030 CLM-0127: applying three-coordinate Chevalley–Warning to any two-index deletion directly proves indexed pair-cover without the SOURCE_STATED classical Olson D1 input; for m=kp the exact level census is r_i=t+p j_i (0<=j_i<=k-1), sum j_i=kb-3t. CLM-0128: three-index deletion is the EXACT degree boundary and its zero-support count equals an explicitly signed three-colour partition coefficient, not automatically 0 mod p. Two-index deletion congruences are redundant given S029. Neither m=2p nor larger m is excluded; strong short extraction and D2<=6p-6 remain UNPROVED. No classic rank-three D1/Dk update or novelty claim. See [research proof](../research/S030_TWO_DELETION_AND_TRIPLE_BOUNDARY.md). Future S031 only.
+
+## S031 — current result (2026-10-12)
+
+S031 CLM-0129 proves exact pair-sum Psi moment: for distinct i,j, sum_{k distinct}Psi_ijk=s(lambda_ij-t) mod p. CLM-0130: if m=2p, at least ceil(L(b+1)/6) distinct triple-deletion coefficients are NONZERO, L=(3p+2+3s)/2 (p7 >=24). CLM-0131: GL3-invariant projective product formula, blocking-set vanishing, and a four-index exchange relation. None excludes m=2p or m>=3p; no strong p>=7 extraction, D2<=6p-6, D1/Dk value, indexed lift, candidate or novelty claim. Phase1 IN_PROGRESS, CAM-0001 blocked. [Complete internal hand proof](../research/S031_TRIPLE_MOMENTS_AND_PROJECTIVE_EXCHANGE.md). Full session review and source limitations in [S031 closeout](../sessions/S031/CLOSEOUT.md). S032 STRICTLY FUTURE and not executed.

@@ -161,3 +161,7 @@ Do not substitute the four displayed whole-cell blocks for the COMPLETE indexed 
 
 | S030 | Attempt to strengthen one-deletion m>=2p using two-deletion congruence | The exact b/b+1 avoidance pair co-degree cancels; 1+s(m-r_i-r_j)=0 is already implied by S029 residues | Pair-cover nevertheless follows from the all-zero-assignment CW existence argument, now without Olson locally (CLM-0127) |
 | S030 | Tempting but INVALID three-deletion CW inference | 3p-3 variables exactly equals sum of three polynomial degrees, so strict CW does NOT apply; a value-sensitive top-degree three-colour coefficient survives with Wilson signs | CLM-0128 proves precise Psi identity; no vanishing/nonvanishing or m2p impossibility, first essential S031 gap |
+
+## S031 — polynomial degree boundary does NOT demand Psi vanish
+
+The new exact pair-sum sum_k Psi_ijk=s(lambda_ij-t) forces a large NONZERO Psi support at the smallest m=2p (p7 at least24). Mistaken inference: projective blocking holds for every deletion T, or three-deletion Chevalley–Warning forces every Psi=0, producing a contradiction. Neither premise has been proved; strict CW fails at n=3(p-1). Projective plane contains p+1 directions per two-plane, but they must ALL be represented in the retained T to force blocking by that simple criterion. The quartet exchange is a coordinate-dependent relation, not a standalone family impossibility theorem. No theorem excludes m2p, any m>=3p or proves D2<=6p-6. All30 original frontier entries conserved, CAM-0001 blocked, Phase1 IN_PROGRESS; no hosted CI PASS.

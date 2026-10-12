@@ -131,3 +131,7 @@ The indexed m>=2p necessary-condition theorem does not construct or certify a se
 ## S030 — no campaign/candidate
 
 CLM-0127/0128 give local symbolic necessary identities, not an actual indexed zero-sumfree sequence, exhaustive search, generalized D2 saving or classic D1 advance. CAM-0001 stays PROPOSED / NOT RUNNING / BLOCKED by SOURCE_STATED Schmid n6=16. No replacement target, numerical mathematical search, tooling, solver, Lean or Palomar. Phase1 IN_PROGRESS; Phases2/3 NOT_STARTED; all thirty original D1 rows conserved.
+
+## S031 — no search, no campaign, no candidate
+
+CLM-0129/0130/0131 are internal symbolic necessary conditions on a hypothetical prime Z. They do NOT construct a zero-sumfree sequence, give a rank3 classic D1 candidate, prove D2, or license searching. CAM-0001 remains PROPOSED/NOT_RUNNING with activation BLOCKED by SOURCE_STATED published Schmid n6=16. No replacement target/campaign, mathematical numerical or computational search, solver, orbit enumeration, Lean/Palomar or Phase2/3. Full30 frontier rows preserved; hosted CI absent NOT PASS.
