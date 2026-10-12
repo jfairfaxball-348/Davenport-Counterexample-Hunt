@@ -118,3 +118,7 @@ See research/S017_REIHER_PROPOSITION_8_1.md. Next S018 original Obs9.1/Lem9.2 is
 | 2026-10-12 | S029 complete indexed deletion-polynomial congruences and double count force p divides m, m>=2p; minimal family degree census | CLM-0125 elementary self-contained proof | PROGRAMME_PROVED NECESSARY CONDITION ONLY |
 | 2026-10-12 | Exclude ALL exactly-four indexed families, preserve S028 abstract aggregate proof, require >=2p-4 extra partial-cell blocks for any no-short lift | CLM-0126; research/S029_INDEXED_CW_BLOCK_MULTIPLICITY.md | STOP at arbitrary m>=2p indexed case; strong extraction/D2 unproved |
 | 2026-10-12 | 30 original frontier rows/source access enums conserved, Phase1 IN_PROGRESS, CAM-0001 BLOCKED; future S030 only | S029 admin/adversarial/source review | No mathematical search or hosted CI PASS |
+
+| 2026-10-12 | S030 use two-index CW to prove pair-cover locally WITHOUT Olson and exact all-k degree census; two-deletion congruence redundant | CLM-0127, independently hand-proved | PROGRAMME_PROVED scoped necessary condition |
+| 2026-10-12 | Three-index boundary exact coefficient Psi identified, strict CW unavailable | CLM-0128; complete field-sum/Wilson proof | STOP before unproved m2p contradiction |
+| 2026-10-12 | No D1/Dk endpoint, source upgrades, campaign or Phase1 PASS; S031 future only | S030 internal adversarial and admin checks | No hosted CI PASS |

@@ -127,3 +127,7 @@ CLM-0124 assigns only six formal cell cardinalities and six AGGREGATE group sums
 ## S029 — no campaign or candidate
 
 The indexed m>=2p necessary-condition theorem does not construct or certify a sequence. CAM-0001 retains PROPOSED / NOT RUNNING with activation BLOCKED by SOURCE_STATED Schmid D(C6³)=16. No replacement target/campaign, mathematical computation/search, solver, author code, tooling, Lean or Palomar; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED.
+
+## S030 — no campaign/candidate
+
+CLM-0127/0128 give local symbolic necessary identities, not an actual indexed zero-sumfree sequence, exhaustive search, generalized D2 saving or classic D1 advance. CAM-0001 stays PROPOSED / NOT RUNNING / BLOCKED by SOURCE_STATED Schmid n6=16. No replacement target, numerical mathematical search, tooling, solver, Lean or Palomar. Phase1 IN_PROGRESS; Phases2/3 NOT_STARTED; all thirty original D1 rows conserved.

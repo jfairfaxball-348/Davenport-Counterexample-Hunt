@@ -384,3 +384,7 @@ Bhowmik--Schlage-Puchta publisher original offprint SRC-0021 pp22–24 re-inspec
 **SRC-0015** S029 original v1 Section2.3 read-only rechecked: 98622/230983 repeated generators do not authenticate independent terminal M1 three-disjoint test, M2/M3 are distinct. No code run/log/certificate authenticated.
 
 Bounded original exact-value queries for all five intervals n15/20/21/28/30 were empty or irrelevant; no original exact upgrade authenticated and no current-openness inference. Classical SRC-0003 Olson D1 remains SOURCE_STATED, but the new local deletion proof does not need it.
+
+## S030 — 2026-10-12 original-primary read-only provenance
+
+SRC-0021 definitive original publisher offprint [Bhowmik–Schlage-Puchta 2012](https://pro.univ-lille.fr/fileadmin/user_upload/pages_pros/gautami_bhowmik/Publications/large_exponent.pdf), printed pp22–24/PDF pp1–3, including fresh p23 page-image, re-read. Weak printed <=(3p-1)/2 and subsequent unsupported <=3(p-1)/2 inference in Lem2.1 are DISTINCT. Rank3 Lem2.3 proof is explicitly omitted. CLM-0127/0128 are new *internal* symbolic proofs using elementary CW, not the authors' statements. SRC-0003 Olson remains SOURCE_STATED but is no longer needed LOCALLY for pair-cover. Sheikh full thesis Chapter4 not inspected (official Royal Holloway metadata available); original GHST C53 full code/output unavailable and NEVER RUN; Yiu M1 independent terminal test unauthenticated. Bounded original exact n15/20/21/28/30 queries gave no authenticated upgrade and no current-openness inference. ALL source access categories preserved.
