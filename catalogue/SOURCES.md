@@ -319,3 +319,10 @@ SRC-0024: S017 original C53.html HTTP locator resolves HTTPS and is inaccessible
 SRC-0015: S017 originalv1 abstract/HTML machine-input provenance and ancillary pointer read-only, no authenticated independent final M1 predicate/log/certificate obtained. S01316680-byte archive hash historical, NOT freshly rehashed. Generation repeats do not replay final predicate; M2/M3 differ.
 
 All 28 source IDs/access classes retained; GG1999 conditional B⇒C, BSP2012 stronger coefficient and BSP2007 diagram scopes preserved. No newly authenticated exact primary update for five intervals; limited retrieval is not current openness or global absence.
+
+### S018 read-only primary source provenance (existing 28 source identities and access classes unchanged)
+
+- SRC-0025: original Reiher29p PDF pages18–20 live text/visual inspection; independent CLM-0104/0105; historical S017 PDF bytes/hash not re-measured; printed “Observation10.1” is earlier Observation9.1.
+- SRC-0013: S018 official Royal Holloway 137p Sheikh thesis PDF click HTTP403; full Chapter4 and Remark4.3.11 unavailable, separately from older HTTP403.
+- SRC-0024: original GHST C53.html complete CODE AND OUTPUT inaccessible in S018, no execution.
+- SRC-0015: arXiv v1 original HTML read, source gzip unsupported, no independently authenticated FINAL M1 code/log/certificate; S013 historical archive hash not fresh. The GG1999 conditional B=>C, BSP2012 coefficient and BSP2007 diagrams/induction scope remain unchanged.

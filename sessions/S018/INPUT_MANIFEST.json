@@ -1,0 +1,8 @@
+{
+  "session": "S018",
+  "incoming_committed_handoff_blob": "091af27e64200c691e686036041471f023747760",
+  "incoming_byte_identical_to_s017_closeout": true,
+  "owner_invocation": "Current fresh owner S018 invocation manually transcribed from user message as same handoff text; inaccessible raw chat transport bytes/hash NOT claimed.",
+  "raw_chat_transport_hash_claimed": false,
+  "committed_handoff_equality_checked": true
+}

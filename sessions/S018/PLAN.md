@@ -1,0 +1,3 @@
+# S018 preregistration — 2026-10-12
+
+Exactly ONE bounded symbolic hand-proof pass on original Reiher Section9 Observation9.1 and Lemma9.2 over arbitrary char!=2 K, printed pp18–20. First close dependent-X,Y case and all proper conic equations/divisors; then 14-sum collisions, four paired-collinear line cases, six paired-proper-conic relabelling/translation, printed reference. STOP at first essential unclosed prerequisite, otherwise after Lemma9.2 and BEFORE Definition9.3 and further proofs. Read-only provenance and all30 frontier rows; only administrative checks. No Phase2/3, mathematical computation/CAS/solver/orbits, author code, candidate, campaign, Lean, manuscript, outreach, submission or S019 execution.
