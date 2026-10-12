@@ -1164,6 +1164,31 @@
         "SRC-0025"
       ],
       "notes": "Both-way cloudification, p2/p3, support<=3, seven indexed Lem9.2 alternatives (a) cloudiness (b) Cor2.5 (c) Prop5.1 (d) Prop6.2 (e/f) Prop8.1 (g) Lem9.6 general position then Prop10.1 including p5. NO S021 Property C/eta/rank3 upgrade."
+    },
+    {
+      "id": "CLM-0111",
+      "statement": "Every prime p possesses Property C: every short-zero-sumfree length-(3p−3) sequence over C_p² is three distinct points each repeated p−1 times (short = nonempty zero sum of length≤p).",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S022_PROPERTY_C_ETA7.md",
+      "source_ids": [
+        "SRC-0025",
+        "SRC-0026"
+      ],
+      "notes": "Independent composition S013 CLM-0093 GG1999 B=>C conditional with S021 CLM-0110 every-prime B; p2 separately, p7 endpoint, no rank3 premise. Historic published result."
+    },
+    {
+      "id": "CLM-0112",
+      "statement": "Every 116-term sequence over C7³ contains a nonempty zero-sum subsequence of length≤7: eta(C7³)≤116.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S022_PROPERTY_C_ETA7.md",
+      "source_ids": [
+        "SRC-0021",
+        "SRC-0025",
+        "SRC-0026"
+      ],
+      "notes": "Maximal-line m=1..6 and eight planes with integer ceiling; η(C7²)≤19 CLM-0091, Property C CLM-0111, p7 Lem5.2 CLM-0087. No D(C7³) equality, no BSP stronger splitting premise."
     }
   ]
 }

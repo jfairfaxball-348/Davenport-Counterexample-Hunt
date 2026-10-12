@@ -1,0 +1,14 @@
+{
+  "session": "S022",
+  "review": "ORIGINAL_HISTORIC_PROOF_CHAIN_CLOSED",
+  "new_claims": [
+    "CLM-0111",
+    "CLM-0112"
+  ],
+  "unconditional_prime_property_c": true,
+  "eta_C7cube_upper": 116,
+  "rank3_D_conjecture_unproved": true,
+  "BSP_stronger_coefficient_unproved": true,
+  "hosted_CI": "NOT_OBSERVED",
+  "future_S023_executed": false
+}

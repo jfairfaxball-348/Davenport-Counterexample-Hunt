@@ -1,0 +1,37 @@
+{
+  "session": "S022",
+  "source_ids": [
+    "SRC-0025",
+    "SRC-0026",
+    "SRC-0021",
+    "SRC-0013",
+    "SRC-0020",
+    "SRC-0024",
+    "SRC-0015"
+  ],
+  "reiher": {
+    "printed": "26–27",
+    "pdf_zero_based": "25–26",
+    "page_images_inspected": true,
+    "fresh_binary_hash": false
+  },
+  "GG1999": "S013 original scan/proof historic, no fresh scan download",
+  "BSP2012": "S012 original Lem5.2 full hand proof, stronger coefficient not proved",
+  "sheikh": "full PDF 403",
+  "GHST": "original C53 original code/output inaccessible, unexecuted",
+  "Yiu": "v1 HTML read, final independent M1 code/log/cert unavailable",
+  "frontier": {
+    "rows": 30,
+    "intervals": [
+      15,
+      20,
+      21,
+      28,
+      30
+    ],
+    "new_exact": false,
+    "nondiscovery_not_openness": true
+  },
+  "mathematical_search": false,
+  "author_code": false
+}

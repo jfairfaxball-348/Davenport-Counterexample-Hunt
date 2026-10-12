@@ -140,3 +140,7 @@ ALL thirty original Markdown/JSON numeric/report/status/evidence row values unch
 ## S021 — full thirty-row numeric/status/evidence mirror review
 
 All original 30 Markdown table rows AND JSON row objects preserved exactly. 25 settled/trivial, five n15 43..45,n20 58..59,n21 61..63,n28 82..83,n30 88..90. Bounded interval sources did not authenticate a new exact primary theorem; NOT proof of present-day openness. Schmid2011 n6=16, van Emde Boas II/III rank-three 2p^a and 3·2^a family claims remain SOURCE_STATED absent independently reconstructed full historical proofs; CAM-0001 remains BLOCKED.
+
+## S022 complete n1..30 mirror check
+
+Full existing Markdown table's all 30 numeric/status/source/evidence cells and all 30 JSON row objects deliberately UNCHANGED. Historical eta(C7³)≤116 is a different invariant from Davenport D(C7³) and warrants no new D endpoint. Preserve exact/trivial25, intervals n15 43..45,n20 58..59,n21 61..63,n28 82..83,n30 88..90. Bounded read-only queries produced no newly authenticated exact primary theorem; nondiscovery is NOT current openness. Historical Schmid2011 n6=16 and van Emde Boas II/III 2p^a/3·2^a retain SOURCE_STATED. Inherited14/17,+5,orbits43/699/5553 quarantined. Phase1 IN_PROGRESS, CAM-0001 blocked.

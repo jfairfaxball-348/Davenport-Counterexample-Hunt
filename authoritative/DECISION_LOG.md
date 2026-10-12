@@ -88,3 +88,7 @@ See research/S017_REIHER_PROPOSITION_8_1.md. Next S018 original Obs9.1/Lem9.2 is
 | 2026-10-12 | All30 frontier rows untouched; Sheikh original403, GHST C53 inaccessible, Yiu final M1 unauthenticated, zero hosted CI | S020 provenance and mirror audit | Phases2/3 NOT_STARTED; CAM-0001 BLOCKED n6=16, S021 FUTURE ONLY |
 
 | 2026-10-12 | S021 reconstructs Reiher original Theorem10.2 CLM-0110, every prime Property B ONLY; no Property C or eta7 discharge | SRC-0025/CLM-0094–0109 | PROGRAMME_PROVED RANK TWO, Phase1 IN_PROGRESS |
+
+| 2026-10-12 | S022 discharges original GG1999 conditional B=>C using Reiher every-prime B, obtains Property C p2/p7 inclusive | CLM-0093,0110→0111; SRC-0025/26 | PROGRAMME_PROVED historic rank-two theorem |
+| 2026-10-12 | S022 eta(C7³)≤116 by maximal line and exact eight-plane integer census, no stronger splitting assumption | CLM-0087,0091,0111→0112 SRC-0021 | PROGRAMME_PROVED historic rank-three eta bound, NOT Davenport D equality |
+| 2026-10-12 | Preserve entire frontier, all 28 source classes, Cambridge/Yiu source limitations, CAM-0001 BLOCKED | S022 proof/provenance/mirror check | Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, no hosted CI PASS; S023 future |

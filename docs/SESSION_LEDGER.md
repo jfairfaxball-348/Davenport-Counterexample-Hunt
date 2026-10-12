@@ -81,3 +81,7 @@ S012 closeout: [complete record and FUTURE UNEXECUTED S013 handoff](../sessions/
 | S021 | 2026-10-12 | Original Theorem10.2 seven-case symbolic hand-proof and read-only provenance/frontier review | CLM-0110 prime Property B ONLY; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 BLOCKED | session/S021-reiher-theorem-10-2 |
 
 [S021 proof and full future S022 handoff](../sessions/S021/CLOSEOUT.md).
+
+| S022 | 2026-10-12 | One primary-source symbolic B⇒C composition and p7 eta eight-plane proof, provenance and all30-row audit | CLM-0111/0112 PROGRAMME_PROVED historically known; Phase1 IN_PROGRESS; Phases2/3 NOT_STARTED, CAM-0001 BLOCKED | session/S022-property-c-eta7 |
+
+[S022 full proof/closeout and strictly future S023 handoff](../sessions/S022/CLOSEOUT.md).

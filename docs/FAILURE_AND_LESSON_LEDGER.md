@@ -124,3 +124,7 @@ The original Proposition10.1 proof uses two distinct nonzero members of W and tw
 ## S021 — dependency discipline
 
 Original universal prime Property B is rank TWO. Exact Lem9.2(a)–(g) mapping and p2/p3/p5 endpoints independently closed, but S013 conditional Property C and eta(C7³)<=116 deliberately not promoted during this bounded session. Original full Sheikh thesis HTTP403; GHST C53 code/output inaccessible, Yiu terminal M1 unauthenticated. Missing hosted CI is not green; bounded non-discovery is not present-day openness.
+
+## S022 — discharge only genuine premises, preserve sharp invariant boundaries
+
+Conditional GG1999 B⇒C (CLM-0093) becomes unconditional only after S021 Reiher B. In eta(C7³) plane averaging use m+CEIL((116−m)/8) and all m=1..6: m5/6 at least19 forces a short planar sum; m3/4 gives18 and Property C forces six equal; m1/2 gives at least16 and p7 15-term Lem5.2 contradicts line cap≤2. Historical eta bound is NOT a proof of D(C7³) equality, nor evidence for disputed stronger BSP2012 3(p−1)/2 splitting coefficient or omitted general Lem2.3. Source 403/inaccessibility and five-interval nondiscovery are not proofs of absence/openness; no hosted CI PASS.

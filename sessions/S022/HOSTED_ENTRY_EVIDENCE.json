@@ -1,0 +1,27 @@
+{
+  "session": "S022",
+  "entry_main": "fccf9f0d4c2d58a7c7a96e585fd7dfab8b6993ee",
+  "entry_tree": "740adfaa0cb6a414d04e83299c7ec9c9d1f32bdb",
+  "prior_S021_branch": "9e98ea2e6eae72c0ba90a0525ed270910263ff5e",
+  "prior_S021_parent": "1dd9d3bf20ecbce23b23a3174ce06f39e9fadd42",
+  "prior_S021_tree": "740adfaa0cb6a414d04e83299c7ec9c9d1f32bdb",
+  "prior_pr": 21,
+  "prior_merge": "fccf9f0d4c2d58a7c7a96e585fd7dfab8b6993ee",
+  "prior_merge_parents": [
+    "1dd9d3bf20ecbce23b23a3174ce06f39e9fadd42",
+    "9e98ea2e6eae72c0ba90a0525ed270910263ff5e"
+  ],
+  "open_prs": 0,
+  "competing_S022_records_or_branches_at_entry": 0,
+  "rulesets": [],
+  "protected_branch_summary": false,
+  "branch_protection": "HTTP403 inaccessible",
+  "workflow_files_in_tree": 0,
+  "workflow_listing": "unsupported, not zero evidence",
+  "hosted_runs": 0,
+  "jobs": "no runs from which to enumerate jobs",
+  "check_runs": 0,
+  "status_contexts": 0,
+  "combined_status": "pending",
+  "hosted_ci_pass": false
+}

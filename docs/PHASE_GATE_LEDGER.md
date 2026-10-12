@@ -3,7 +3,7 @@
 | Gate | Status | Review | Evidence / limit |
 |---|---|---|---|
 | Phase 0 governance | PASS | S001 2026-10-10 | Required spine and provenance categories created; JSON structurally constructed |
-| Phase 1 frontier | IN_PROGRESS | S021 2026-10-12 | Reiher universal prime Property B reconstructed CLM-0110. Conditional Property C/eta7 composition, external provenance and rank-three frontier gates unclosed. CAM-0001 blocked. |
+| Phase 1 frontier | IN_PROGRESS | S022 2026-10-12 | Universal prime Property C CLM-0111, historical eta(C7³)≤116 CLM-0112 proved; other source gates open, CAM-0001 blocked. |
 | Phase 2 tooling | NOT_STARTED | — | No independent algorithm or SAT checker |
 | Phase 3 campaigns | NOT_STARTED | S004 | CAM-0001 PROPOSED / NOT RUNNING; n6 premise obsolete, activation blocked; no replacement target |
 | Phase 4 result certification | OWNER_GATED | — | No candidate, Lean proof or cold check |
@@ -67,3 +67,7 @@ Phase1 PASS WITHHELD because original Theorem10.2, other full primary dependenci
 ## S021 — 2026-10-12
 
 S021 independently closes original Reiher Theorem10.2 CLM-0110: every prime Property B (RANK TWO) after complete seven-case reduction; no unconditional Property C, eta(C7³)<=116 or rank-three D claim in S021. All 30 frontier numeric/status/evidence rows unchanged; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 BLOCKED n6=16; zero hosted checks NOT CI PASS. Phase1 PASS withheld due other original source/provenance obligations; no upgrade of any rank-three exact result.
+
+## S022 — 2026-10-12
+
+S022 independently composes every-prime Property B CLM-0110 with the fully reconstructed conditional GG1999 B⇒C CLM-0093 to prove every-prime Property C CLM-0111; proves historical eta(C7³)≤116 CLM-0112 by maximal-line eight-plane counting with all six integer cases and CLM-0087/0091. This is NOT a rank-three Davenport equality or a novelty claim. Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 BLOCKED by source-stated n6=16; hosted CI absent (NOT PASS). Phase1 PASS withheld: stronger BSP2012 coefficient/omitted general Lem2.3, BSP2007 full diagrams and remaining original long-source/provenance obligations. No target replacement, search/candidate/Phase2/3.
