@@ -350,3 +350,11 @@ SRC-0025 Reiher printed pp26–27 original images independently read: universal 
 - **SRC-0015** Yiu2026 v1 original §2.3 itself states 98622 seeds/230983 extensions generated independently but not independently FINAL M1 three-disjoint tested; M2/M3 different. Historical S013 16680-byte TeX source hash does NOT authenticate M1. No author code run. Source-stated exact D_k(C2³)=2k+3 from paper; original exact multiwise literature not elevated to independent programme proof.
 - **SRC-0013/SRC-0020** official Sheikh thesis metadata live, full PDF click/direct inaccessible; Chapter4/Remark4.3.11 not fully inspected. **SRC-0024** original GHST C53.html complete code AND output inaccessible, neither executed. No negative existence or exactly-three/at-most-three inference.
 - Limited five-interval primary exact-source searches no authenticated exact upgrade; nondiscovery is not present-day openness. All 28 source IDs and access classes preserved.
+
+## S025 scoped primary-source and access update (no source class changed)
+
+**SRC-0021:** definitive published Bhowmik–Schlage-Puchta 2012 original publisher offprint printed pp22–24 (not draft). Independently reconstructed 6p−3 odd-prime rank3 p/3p Chevalley–Warning proof, exact five binomial reductions and p3/p5 boundaries, and weaker <=(3p−1)/2 split using CLASSICAL SOURCE_STATED Olson D(Cp³)=3p−2; not the omitted strong p>=7 rank3 Dk coefficient. Full S025 symbolic record research/S025_BSP_ODD_PRIME_EXTRACTION.md.
+
+**SRC-0015:** original Yiu arXiv2609.04950v1 M2 s_{<=6}(C5³)=24 independently computationally recomputed in source, *not programme symbolically proved*. Reported M1 98622/230983 generator counts do not constitute independently executed final three-disjoint M1 predicate. M3 is different. S013 16680-byte TeX archive digest not final M1.
+
+**SRC-0013 / SRC-0020:** official Sheikh2017 full 137-page Chapter4/Remark4.3.11 inaccessible HTTP403; original GHST2007 C53.html complete author code/output inaccessible and NEVER RUN. These are access limits, not absence proofs. All stable source access enums UNCHANGED.

@@ -1,0 +1,6 @@
+{
+  "session": "S025",
+  "review_type": "internal_symbolic_adversarial_not_external_referee",
+  "result": "CW proof and weaker recurrence audited; strong p>=7 premise unclosed; no formal certificate",
+  "status": "PASS_INTERNAL_REVIEW_ONLY"
+}

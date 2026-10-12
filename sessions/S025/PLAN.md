@@ -1,0 +1,7 @@
+# S025 ordered bounded preregistered plan
+
+1. Pin live entry main 40a45d84357659614ef5411a126efd5db720da6f; verify S024 one atomic branch commit/tree/parent, PR24 non-force two-parent merge, all PRs/branches, rulesets/protection and real hosted checks. Read ALL repository authority/governance, catalogues, n1..30 frontier in two forms, blocked campaign, research S002–S024, S024 full records. Preserve exact committed S025 handoff separately from new owner invocation.
+2. Rebuild DEFINITIVE publisher SRC-0021 original 6p−3 odd-prime CW rank3 existence from four degree p−1 equations, full alternating counts, 5p elimination, 2p/4p factors, five binomial reductions and p3/p5 endpoints. Prove the weaker short block with SOURCE_STATED Olson input.
+3. Test p>=5/p>=7 strong <=3(p−1)/2 extraction; if not proved, name minimum balanced-only structural gap and STOP omitted strong Lem2.3 induction. Independently check S024 weaker rank3 recurrence against original downstream integer threshold.
+4. Read-only Sheikh thesis, GHST author code+output without running, Yiu v1 final M1 provenance distinct from generators and M2/M3; bounded five-interval literature pass. Preserve all D1 endpoint/source classes and blocked phase/campaign.
+5. Complete synced audit/claims/source/state/governance/research, admin validation distinct from math and CI. ONE atomic S025 branch commit, PR, non-force two-parent merge, independent main/check observation. Write complete FUTURE S026 only; never execute.

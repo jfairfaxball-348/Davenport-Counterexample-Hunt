@@ -1267,6 +1267,30 @@
         "SRC-0021"
       ],
       "notes": "Independently proved recurrence implication, source-stated p-group D1. The floor equals 2 at p2 and (3p−1)/2 for odd p; p2 d3 bound is 2k+4. Not the publisher's false all-prime Lem2.3."
+    },
+    {
+      "id": "CLM-0120",
+      "statement": "For each odd prime p, the original BSP2012 four-polynomial Chevalley–Warning proof establishes every length 6p−3 sequence over C_p³ has a p- or 3p-term zero-sum; together with classical Olson D(C_p³)=3p−2 SOURCE_STATED input, a zero-sum length <=(3p−1)/2 exists. Complete p3/p5 Lucas reductions and 5p exclusion.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S025_BSP_ODD_PRIME_EXTRACTION.md",
+      "source_ids": [
+        "SRC-0021",
+        "SRC-0003"
+      ],
+      "notes": "Original finite-field count reconstructed internally; rank3 shorter extraction is proved relative to CLASSICAL SOURCE_STATED Olson D1 input. NOT strong 3(p−1)/2, NOT higher-rank extraction; p>=7 stronger remains UNPROVED."
+    },
+    {
+      "id": "CLM-0121",
+      "statement": "For odd p>=7, relative to classical Olson D1 and CLM-0120, safe recurrence gives D_k(C_p³)<=6p−4+(k−2)(3p−1)/2 k>=2; at first BSP2012 downstream admissible k=2p−4 this upper bound equals 3p²−4p−1, exactly TWO above M=3p²−4p−3.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S025_BSP_ODD_PRIME_EXTRACTION.md",
+      "source_ids": [
+        "SRC-0021",
+        "SRC-0003"
+      ],
+      "notes": "PROGRAMME_PROVED exact integer algebra of valid upper-bound route, NOT lower bound on actual D_k, NOT failure of downstream theorem or D1 conjecture. Olson D1 remains SOURCE_STATED original classical theorem."
     }
   ]
 }

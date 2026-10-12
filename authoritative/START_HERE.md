@@ -8,7 +8,7 @@
 
 S001 bootstrap: repository initialized from empty main via .gitignore initial commit `412f0088aeffb823f1533f5d0809806a6b58afde`. S001 session commit built as one new tree and one commit on `session/S001-bootstrap-frontier`.
 
-Current completed session: S021. The only active continuation is NEW separately owner-invoked S022 in authoritative/NEXT_SESSION_PROMPT.md. S022 is STRICTLY FUTURE UNEXECUTED.
+Current completed session: S025. The only active continuation is NEW separately owner-invoked S026 in authoritative/NEXT_SESSION_PROMPT.md. S026 is STRICTLY FUTURE UNEXECUTED.
 
 S012–S016 independent p7/rank-two/coefficient/collinear/trapezoid results remain preserved. S017 adds ONLY original Reiher Proposition8.1 (CLM-0103), with both η signs, all original determinants, four genuine conditional µ=1 equations, exact strategic equation and printed cancellation 2(1−x−y)=0; Prop5.1 is applied to three DISTINCT ORIGINAL collinear terms, p5 included. See research/S017_REIHER_PROPOSITION_8_1.md.
 
@@ -55,3 +55,7 @@ See research/S023_BSP_SPLIT_OBSTRUCTION.md and sessions/S023/CLOSEOUT.md. S024 i
 ## S024 — 2026-10-12
 
 S024 independently refutes original BSP2012 Lem2.3 as an ALL-PRIME **D_k** assertion: at p2 rank3 k19 printed RHS37.5 whereas D19≥38, and at p2 rank4 k25 RHS49.5 whereas D25≥50, by elementary identical order-two terms (CLM-0115/0116). CLM-0117 independently proves an exact safe short-extraction recurrence, CLM-0118/0119 supply weaker odd-prime CONDITIONAL and p2 pigeonhole bounds. Source-stated p≥5/p≥7 stronger coefficient and omitted original rank3 induction remain UNPROVED in programme. These are NOT classic rank3 Davenport D1 counterexamples, novelty claim or new exact frontier values. All thirty frontier rows unchanged, Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 BLOCKED n6=16, zero hosted checks NOT CI PASS. See research/S024_BSP_P2_COUNTEREXAMPLE_RECURRENCE.md and sessions/S024/CLOSEOUT.md; S025 full handoff FUTURE UNEXECUTED only.
+
+## S025 — 2026-10-12
+
+S025 independently reconstructs definitive original BSP2012 6p−3 odd-prime rank3 p-or-3p Chevalley–Warning proof with four polynomials, exact 5p exclusion, five binomial coefficient reductions, p3/p5 checks. Using classical Olson rank3 D1=3p−2 SOURCE_STATED input, proves original weaker <=(3p−1)/2 extraction CLM-0120. Strong <=3(p−1)/2 for p>=7 is NOT proved and original Lem2.3 rank3 induction remains omitted; p3 strong failed (S023), all-prime printed p2 generalized inequalities false (S024). CLM-0121 checks weak Dk bound at downstream k=2p−4 gives M+2, not enough for required M; NOT a classic rank3 Davenport candidate/theorem disproof. S025 full research/provenance sessions/S025 and research/S025_BSP_ODD_PRIME_EXTRACTION.md. All30 frontier group/D*/numeric bound/status/evidence cells unchanged; 25 source-exact/trivial, 5 intervals n15/20/21/28/30; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 PROPOSED/NOT_RUNNING BLOCKED n6=16; absent hosted checks NOT CI PASS. New S026 handoff FUTURE UNEXECUTED only.

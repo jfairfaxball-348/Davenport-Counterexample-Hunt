@@ -107,3 +107,7 @@ CAM-0001 remains PROPOSED / NOT RUNNING; activation BLOCKED because published Sc
 ### S024 — 2026-10-12: CAM-0001 NOT RUNNING, BLOCKED
 
 Printed BSP2012 **generalized D_k** all-prime inequalities are refuted at p2 by CLM-0115/0116; this neither changes source-stated Schmid2011 D(C6³)=16 nor licenses inherited length16 zero-sumfree search. CAM-0001 still PROPOSED / NOT RUNNING, activation BLOCKED by n6=16; no replacement target/campaign, no Phase2/3, solver, code, candidate or certificate. Phase1 IN_PROGRESS.
+
+## S025 administrative non-activation confirmation
+
+CAM-0001 retains original PROPOSED / NOT RUNNING status; activation BLOCKED by SOURCE_STATED exact D(C6³)=16, with obsolete n6 premise. NO Phase2 tooling, Phase3 campaign, solver, orbit count, candidate, certification, target selection or numerical search. New CLM-0120/0121 are symbolic source audits unrelated to campaign activation. All thirty rank-three D1 original source/evidence classes and endpoints preserved.

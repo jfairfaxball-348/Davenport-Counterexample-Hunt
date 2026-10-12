@@ -1,0 +1,28 @@
+{
+  "session": "S025",
+  "primary": "SRC-0021 definitive 2012 offprint printed pp22–24/PDF indices1–3",
+  "source_status": "PROOF_INSPECTED scoped, no change",
+  "supporting": [
+    "SRC-0001",
+    "SRC-0003",
+    "SRC-0013",
+    "SRC-0015",
+    "SRC-0020",
+    "SRC-0021"
+  ],
+  "original_CW": "PROVED from four polynomials, 5p exclusion, all five binomial factors, p3/p5",
+  "olsons_D1": "SOURCE_STATED as prerequisite, original Olson full proof not reconstructed",
+  "strong_p_ge_7": "UNPROVED",
+  "p5_strong": "Yiu M2 s_<=6=24 externally source-stated independently recomputed, not programme symbolic proof",
+  "sheikh": "Original official 137p Chapter4/Remark4.3.11 PDF HTTP403; not verified",
+  "ghst": "C53.html original full author source AND output inaccessible, code not executed",
+  "yiu": "arxiv2609.04950v1 HTML generator counts 98622 and 230983 NOT terminal independent M1 final predicate; M2 and M3 different",
+  "intervals_checked": [
+    15,
+    20,
+    21,
+    28,
+    30
+  ],
+  "all_frontier_rows_preserved": true
+}
