@@ -3,7 +3,7 @@
 | Gate | Status | Review | Evidence / limit |
 |---|---|---|---|
 | Phase 0 governance | PASS | S001 2026-10-10 | Required spine and provenance categories created; JSON structurally constructed |
-| Phase 1 frontier | IN_PROGRESS | S026 2026-10-12 | Universal prime Property C CLM-0111, historical eta(C7³)≤116 CLM-0112 proved; other source gates open, CAM-0001 blocked. |
+| Phase 1 frontier | IN_PROGRESS | S027 2026-10-12 | Universal prime Property C CLM-0111, historical eta(C7³)≤116 CLM-0112 proved; other source gates open, CAM-0001 blocked. |
 | Phase 2 tooling | NOT_STARTED | — | No independent algorithm or SAT checker |
 | Phase 3 campaigns | NOT_STARTED | S004 | CAM-0001 PROPOSED / NOT RUNNING; n6 premise obsolete, activation blocked; no replacement target |
 | Phase 4 result certification | OWNER_GATED | — | No candidate, Lean proof or cold check |
@@ -85,3 +85,7 @@ Phase1 remains IN_PROGRESS. CLM-0115/0116 disprove printed **D_k** all-prime BSP
 **IN_PROGRESS; PASS withheld.** CLM-0120 reconstructs original odd-prime rank3 Chevalley–Warning p-or-3p existence and weak <=(3p−1)/2 extraction given CLASSICAL Olson p-group D1 SOURCE_STATED prerequisite. S023 p3 strong auxiliary refutation and S024 p2 generalized multiwise printed counterexamples remain correctly scoped. Strong odd-prime p>=7 <=3(p−1)/2 extraction not proved, original rank3 Lem2.3 strong induction omitted; CLM-0121 weak recurrence has two-position M+2 deficit at downstream k=2p−4. Rank-three exact D1 for n1..30 untouched, five intervals remain, primary-source Yiu/Sheikh/C53 certification unresolved. Phases 2 and 3 NOT_STARTED; CAM-0001 PROPOSED/NOT_RUNNING and activation BLOCKED n6=16, no replacement campaign. Administrative validation is not a proof or hosted CI PASS; observed zero hosted checks is not green.
 
 S026: New CLM-0122 proves >=4 distinct balanced b-index zero-sum blocks under no-short hypothesis using index pair-cover and 3-bit affine rank, *conditional on historical SOURCE_STATED Olson D1*. Does NOT close p>=7 strong extraction or original omitted rank3 Lem2.3. Weak recurrence still M+2; D2<=6p−6 remains UNPROVED. All thirty D1 frontier original entries unchanged; CAM-0001 blocked, no Phase1 PASS or Phase2/3. Zero hosted checks NOT CI PASS.
+
+## S027 Phase-1 gate — 2026-10-12
+
+**IN_PROGRESS; PASS withheld.** S027 CLM-0123 proves, relative to SOURCE_STATED classical Olson D1 and S025/S026, that IF exactly four indexed balanced b-zero-sum blocks occur in a hypothetical p>=7 3p zero-sum Z, their four-bit membership pattern must occupy >=6 signature cells. Four Hamming-distance-three coordinate-labelled edges form a forest; five cells would yield invertible det +/-1 or +/-3 and a forbidden small zero-sum class. Six+ cells and >=5 b-block families remain UNRESOLVED. No stronger short extraction or D2<=6p-6, no new D1/Dk numeric frontier theorem. Full n1..30 original values/evidence preserved, Phase1 IN_PROGRESS, CAM-0001 blocked, zero hosted CI PASS. Original 30 D1 JSON/Markdown group/D*/bounds/status/evidence unchanged. Original p-group/Schmid/van Emde Boas Yiu source statuses not promoted. No original rank3 Lem2.3 proof, no p>=7 strong short-extraction, no D2 bound. Phases2/3 NOT_STARTED, CAM-0001 NOT RUNNING and activation BLOCKED n6=16; absent hosted runs/checks is NOT CI PASS.

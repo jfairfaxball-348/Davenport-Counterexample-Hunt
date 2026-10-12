@@ -1,0 +1,50 @@
+{
+  "session": "S027",
+  "checks": [
+    {
+      "name": "entry S026 actual one atomic commit, parent/tree and two-parent PR26 merge",
+      "status": "PASS_ADMIN"
+    },
+    {
+      "name": "canonical original S027 prompt archived verbatim",
+      "status": "PASS_ADMIN",
+      "source_git_blob_sha": "1a58c395f7eeeaba6f0c99484900c1a3465e4003"
+    },
+    {
+      "name": "CLM-0123 forest and 5-pattern affine determinant proof",
+      "status": "HAND_PROOF_REVIEWED_NOT_FORMALLY_CERTIFIED",
+      "first_unclosed": "six-or-more occupied 4-bit signature classes / larger b-block families"
+    },
+    {
+      "name": "D2(Cp³)<=6p-6 independent symbolic proof",
+      "status": "NOT_PROVED_ALTERNATIVE_ONLY"
+    },
+    {
+      "name": "30-row D1 mirrors",
+      "status": "PASS_ADMIN_ORIGINAL_ROWS_PRESERVED",
+      "rows": 30,
+      "intervals": [
+        15,
+        20,
+        21,
+        28,
+        30
+      ]
+    },
+    {
+      "name": "Phase1 / CAM-0001",
+      "status": "PASS_ADMIN_PRESERVED",
+      "phase1": "IN_PROGRESS",
+      "phase2": "NOT_STARTED",
+      "phase3": "NOT_STARTED",
+      "CAM": "PROPOSED/NOT_RUNNING/BLOCKED n6=16"
+    }
+  ],
+  "hosted_actions_runs": 0,
+  "hosted_check_runs": 0,
+  "hosted_status_contexts": 0,
+  "hosted_ci_pass": false,
+  "mathematical_numerical_search": false,
+  "author_code_executed": false,
+  "new_rank_three_D1_value": false
+}

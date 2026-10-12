@@ -115,3 +115,7 @@ CAM-0001 retains original PROPOSED / NOT RUNNING status; activation BLOCKED by S
 ## S026 administrative non-activation confirmation
 
 CLM-0122 is a bounded symbolic obstruction, NOT a counterexample or search authorization. CAM-0001 remains PROPOSED / NOT RUNNING, activation BLOCKED by SOURCE_STATED Schmid D(C6³)=16, and premise remains obsolete. No replacement target, campaign activation, solver, code execution, enumeration, Phase2/3, Lean or Palomar. Full original n1..30 D1 table rows untouched, Phase1 IN_PROGRESS; missing hosted checks NOT CI PASS.
+
+## S027 administrative non-activation confirmation
+
+CLM-0123 is a symbolic four-cut necessity only, NOT a new target, computed candidate or zero-sumfree D1 construction. CAM-0001 remains PROPOSED/NOT_RUNNING with activation BLOCKED by SOURCE_STATED published Schmid D(C6³)=16; no replacement target/campaign, mathematical search, solver, orbit, Phase2/3, Lean, Palomar or certificate. Preserve all 30 original rank3 D1 frontier rows/source categories; missing hosted CI is NOT PASS.

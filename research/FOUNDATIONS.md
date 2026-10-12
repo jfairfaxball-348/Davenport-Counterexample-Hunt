@@ -43,3 +43,7 @@ CLM-0120 reconstructs the definitive original BSP2012 odd-prime C_p³ length 6p�
 ## S026 symbolic incidence extension
 
 CLM-0122 derives, from S025 p-or-3p existence and **SOURCE_STATED classical Olson rank3 D1=3p−2**, the exact balanced-pair-cover and three-cut obstruction: a hypothetical p>=7 no-<=3(p−1)/2 sequence forces >=4 indexed b=(3p−1)/2 zero-sum blocks in each 3p zero-sum Z. It does not eliminate >=4 blocks or prove stronger extraction / original BSP rank3 multiwise bound. The safe downstream M+2 deficit and every n1..30 D1 historical frontier cell remain unchanged. Full argument in research/S026_BALANCED_ONLY_INCIDENCE.md; S027 future only.
+
+## S027 exact-four-block four-cube forest obstruction
+
+CLM-0123 proves (relative to SOURCE_STATED Olson rank3 D1 and previous CLM-0120/0122) that exactly FOUR balanced b-index zero-sum blocks in a hypothetical no-short p>=7 zero-sum 3p block entail at least SIX distinct 4-bit index-signature classes. Four coordinate-labelled distance-three edges are linearly independent mod2 and acyclic; five classes force affine determinant +/-1 or +/-3 and a forbidden short zero-sum class. SIX OR MORE remain unresolved, and family with five or more blocks is unaddressed. No p>=7 strong extraction, D2<=6p−6, D1 case, campaign or hosted CI claim. Read full research/S027_FOUR_BLOCK_CUBE_FOREST.md; S028 is future-only.

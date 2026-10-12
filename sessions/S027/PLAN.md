@@ -1,0 +1,5 @@
+# S027 preregistered bounded plan
+
+One owner-invoked Phase1 symbolic proof/provenance session. Entry main `362bb53e39131a134c072cdf69c2a0358b66c1aa`, tree `b511ca2929ada65bc41c0793214a2fcc98b92fee`; previous S026 one atomic commit / genuine PR26 two-parent merge independently reconciled.
+
+Route A FIRST: use CLM-0122 indexed pair-cover and three-cut separation to investigate exactly FOUR b-balanced subsets via 4-bit cube incidence, characteristic-p affine rank, overlapping atom classes and cardinal constraints. Aim eliminate all four-or-more blocks or prove a rigorous partial obstruction; no numerical mathematical searches or CAS. Route B alternate ONLY if gate permits: prove D2(Cp^3)<=6p-6 for p>=7, or an exact other two-position k0=2p-4 saving; verify p5/p7 arithmetic without assuming D2. HARD STOP on first unresolved essential premise or closed theorem. Read-only provenance for Sheikh/GHST/Yiu five historical intervals. Keep D1 frontier rows/status and CAM-0001 blocked; no Phases2/3, code search, Lean, Palomar, manuscripts or outreach. Prepare S028 future-only.

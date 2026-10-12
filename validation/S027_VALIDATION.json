@@ -1,0 +1,12 @@
+{
+  "session": "S027",
+  "entry_integrity": "PASS_ADMIN",
+  "canonical_archive": "PASS_ADMIN",
+  "math_proof": "HAND_PROOF_NOT_FORMAL",
+  "frontier_30_rows": "UNCHANGED_JSON_AND_MARKDOWN",
+  "source_classes": "UNCHANGED",
+  "campaign": "BLOCKED_NOT_RUNNING",
+  "hosted_ci_pass": false,
+  "new_D1_value": false,
+  "new_campaign": false
+}
