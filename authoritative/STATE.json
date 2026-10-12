@@ -24,8 +24,8 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S017",
-  "recommended_next_session": "S018",
+  "last_completed_session": "S018",
+  "recommended_next_session": "S019",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": null,
@@ -33,7 +33,7 @@
   "open_blockers": [
     "Complete CLM-0087 p7 Lem5.2 preserved; rank-two eta now independently proved CLM-0091. eta(C7³)<=116 remains conditional on Property B through CLM-0093; no unconditional eta upgrade.",
     "BSP2012 Lem2.1/2.3 pp22–23 split supports R=(3p−1)/2, NOT stronger 3(p−1)/2; CLM-0068 only conditional on eta(Cp³)<=3p²−4p−3 and classical inputs.",
-    "S017 closes original Prop8.1; S014–S016 coefficient/support/collinear/trapezoid results preserved. Still require independent Section9 Obs9.1/Lem9.2 and later quartic/general-position Lem9.6/Prop10.1 for universal Property B. Unconditional C/eta7 and stronger BSP coefficient NOT proved.",
+    "S018 now closes Reiher original Observation9.1 and Lemma9.2 CLM-0104/0105. S014–S017 previous coefficient/support/collinear/trapezoid/Prop8.1 preserved. Still require quartic/general-position Obs9.4/9.5, Lem9.6 and Proposition10.1 for universal Property B; unconditional Property C/eta7 and stronger BSP coefficient NOT proved.",
     "BSP2007 full diagrams/classification/upper induction unproved; Sheikh2017 S017 official HTTP403 separate earlier session attempts; full Chapter4 unread and exactly-three differs from at-most-three.",
     "GHST2007 original C53.html code/output not inspected; Yiu2026 M1 final three-disjoint test singly implemented despite repeated generation, M2/M3 distinct, original complete independent code/log/certificates unauthenticated.",
     "All n1..30 frontier values unchanged; published Schmid2011 n6=16 and 1969 van Emde Boas rank-three exact families retain source status; five intervals do not prove present-day openness."
@@ -41,6 +41,7 @@
   "gate_ledger": "docs/PHASE_GATE_LEDGER.md",
   "source_snapshot": "2026-10-12",
   "warnings": [
+    "S018 independently reconstructs ONLY original Reiher Observation9.1 and Lemma9.2 over arbitrary K, char(K) != 2 (CLM-0104/0105), with dependent-X,Y basis case, exact conic equations, fourteen-sum collisions, all 4-of-7 pair line subcases, all 6-of-7 proper conic relabellings and verified printed typo Observation10.1 -> Observation9.1. STOP at Lem9.2: Section9 quartic/Obs9.4/9.5/Lem9.6 and Prop10.1 remain unproved; no universal Property B, unconditional Property C, eta(C7^3)<=116 or rank-three theorem. Thirty frontier values/evidence classes unchanged; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 PROPOSED / NOT RUNNING, activation BLOCKED by published n6=16. Zero hosted CI is NOT PASS.",
     "S017 independently reconstructs ONLY original Reiher Proposition8.1, CLM-0103: both η²=1 configurations, four genuine indexed conditional µ=1 identities, exact strategic equation and printed multipliers giving 2(1−x−y)=0; three DISTINCT ORIGINAL collinear A,B,C permit proved Prop5.1, including p5. STOP before Section9. Universal Property B, unconditional Property C, eta(C7³)≤116 and rank-three conjecture NOT proved. All 30 numeric/evidence rows unchanged; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 PROPOSED / NOT RUNNING activation BLOCKED by published n6=16. Zero hosted checks NOT CI PASS.",
     "S016 independently reconstructs original Reiher Lemma6.1 and Proposition6.2 (CLM-0101–0102, including p=5) via the exact strategic coefficient identities and four conditional equations, ending in −2(r−1)(s−1)=0. Proposition8.1, Section9 and Proposition10.1 remain unproved; no universal Property B, unconditional Property C, eta(C7³)≤116, or rank-three conjecture proof. All 30 frontier numerical/evidence rows preserved (25 exact/trivial historical, five intervals). Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 PROPOSED / NOT RUNNING, activation BLOCKED by published n6=16. No hosted CI PASS.",
     "S015 CLM-0098–0100 independently hand-prove Reiher original Lemma 3.1, Proposition 3.3 and Proposition 5.1: a cloudy sequence with three distinct collinear points is simple, including p=5. The next separate original proof package is Lemma6.1/Prop6.2, then Prop8.1/Section9/Prop10.1. Universal Property B, unconditional C and eta(C7³)≤116 remain unproved in programme. All thirty rank-three numerical frontier rows and evidence classes unchanged; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 PROPOSED / NOT RUNNING, activation BLOCKED by published n6=16; zero hosted CI is NOT PASS.",

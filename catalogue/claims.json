@@ -1087,6 +1087,28 @@
         "SRC-0025"
       ],
       "notes": "Exact D=A+ηB+C, η²=1; six nonzero determinants; four original indexed deletion equations and strategic identity; printed multipliers yield 2(1−x−y)=0; Prop5.1 only for distinct ORIGINAL A,B,C. No Section9/full Property B/rank-three result."
+    },
+    {
+      "id": "CLM-0104",
+      "statement": "Original Reiher Observation 9.1 independently hand-proved over any K of characteristic different from 2: seven DISTINCT points of form 0,X,Y,Z,X+Y,Y+Z,Z+X on a proper conic force two of X,Y,Z linearly dependent; includes necessary dependent-X,Y basis case and exact three equations.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S018_REIHER_SECTION9_CONIC_LEMMA.md",
+      "source_ids": [
+        "SRC-0025"
+      ],
+      "notes": "Proper conic means nonzero quadratic leading part; if X,Y independent normalize basis; equations imply 2ar=2cs=0. Not full Property B."
+    },
+    {
+      "id": "CLM-0105",
+      "statement": "Original Reiher Lemma 9.2 independently hand-proved for any four distinct points in K^2, char K not 2: exact seven alternatives including the full 14-sum distinctness, 4-of-7 paired collinearity and 6-of-7 paired proper-conic exclusions.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S018_REIHER_SECTION9_CONIC_LEMMA.md",
+      "source_ids": [
+        "SRC-0025"
+      ],
+      "notes": "All collision partitions, min singleton line pairs, both possible omitted pair types and seven translated conic points proved; printed Observation10.1 is Obs9.1. No Section9 quartics, Lem9.6 or universal Property B proved."
     }
   ]
 }

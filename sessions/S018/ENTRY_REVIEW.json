@@ -1,0 +1,30 @@
+{
+  "session": "S018",
+  "entry_main": "3d8847528f6844029d732d9a0e0cb62880bc5f0e",
+  "entry_tree": "3f4aa5a7c9e05071b0086281def0231f405b29f8",
+  "previous_s017_branch_head": "27231d7f79a9fa9d3d6f6e21f5a063591d83a35a",
+  "previous_s017_head_parent": "9298cedd67b8df568c8c20a9cbfedb01d5789257",
+  "previous_s017_head_tree": "3f4aa5a7c9e05071b0086281def0231f405b29f8",
+  "previous_pr": 17,
+  "previous_merge_parents": [
+    "9298cedd67b8df568c8c20a9cbfedb01d5789257",
+    "27231d7f79a9fa9d3d6f6e21f5a063591d83a35a"
+  ],
+  "previous_merge_tree": "3f4aa5a7c9e05071b0086281def0231f405b29f8",
+  "all_pr_1_to_17_merged": true,
+  "open_prs_at_entry": 0,
+  "competing_s018_branches_at_entry": 0,
+  "competing_s018_records_at_entry": 0,
+  "intervening_changes": [],
+  "reachable_rulesets": [],
+  "branch_protection_api": "HTTP403 Resource not accessible by integration",
+  "main_protected_branch_summary": false,
+  "workflow_files": 0,
+  "workflow_listing_api": "GitHub connector unsupported endpoint HTTP400; NOT proof of zero",
+  "hosted_action_runs": 0,
+  "hosted_action_jobs": 0,
+  "check_runs": 0,
+  "status_contexts": 0,
+  "combined_status": "pending with no contexts",
+  "ci_pass_claimed": false
+}

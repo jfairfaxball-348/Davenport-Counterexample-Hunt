@@ -108,3 +108,7 @@ Exact indexed exceptional-position counting matters: auxiliary (A,A,A,P1,...), P
 ## S017 — exact original Proposition8.1 boundary
 
 Printed η=−1 and η=1 multipliers both cancel correctly; no new printed defect shown. Conditional equations are genuine indexed cloudy deletions, not zero equations on changed terms. Divide only by [AB] and2; p5 covered. Prop5.1 needs three DISTINCT ORIGINAL terms and is applied only after x+y=1. No stronger geometric classification/full Property B inferred. S017 Sheikh official403 separately logged; C53 full code/output inaccessible; Yiu final M1 unauthenticated. Empty hosted checks are NOT CI PASS. Raw chat transport unavailable: only committed handoff bytes hashed. STOP proof at Prop8.1.
+
+## S018 — original Section9 geometric shortcuts
+
+Original Observation9.1 basis normalization silently presupposes X,Y independent; if dependent, conclusion is immediate; if independent, exact equations give 2ar=2cs=0 in characteristic !=2. Lemma9.2 printed final 'Observation10.1' is an internal mistaken reference to **Observation9.1**, NOT later Proposition10.1. The relabelling of six chosen paired sums requires distinguishing omitted singleton type from omitted 2+2 split type. Both are now proved. Neither historical source access failures nor five interval searches certify negative/openness claims.

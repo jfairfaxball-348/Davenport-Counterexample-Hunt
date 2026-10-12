@@ -1,0 +1,38 @@
+{
+  "session": "S018",
+  "kind": "CONNECTOR_SIDE_ADMINISTRATIVE_INTEGRITY",
+  "result": "PASS",
+  "checks": {
+    "existing103_claim_objects_unchanged": true,
+    "105_unique_claim_ids": true,
+    "28_unique_source_ids": true,
+    "all_source_identity_and_access_preserved": true,
+    "all_source_notes_append_only": true,
+    "source_references_exist": true,
+    "valid_claim_enum": true,
+    "valid_source_enum": true,
+    "exactly30_frontier_rows": true,
+    "frontier_numeric_status_evidence_preserved": true,
+    "frontier_markdown_thirty_original_rows": true,
+    "all_five_intervals_exact": true,
+    "phase1_in_progress": true,
+    "phases2_3_not_started": true,
+    "campaign_unactivated": true,
+    "incoming_committed_handoff_byte_identity": true,
+    "future_handoff_copy_byte_identity": true,
+    "historical_clm0082_source_stated": true,
+    "zero_computed_or_formal_claims": true,
+    "old_reiher_proofs_not_rewritten": true,
+    "no_owner_blocker": true,
+    "all_edited_json_parses": true,
+    "proof_stop_exact": true,
+    "future_prompt_unexecuted": true
+  },
+  "checks_run": 24,
+  "checks_passed": 24,
+  "limits": [
+    "Checks executed in JavaScript against fetched live GitHub UTF-8 file bytes and proposed tree contents, not a local git checkout or hosted Actions CI.",
+    "No local git diff --check, python script or kernel verification run; not mathematical computation, formal proof or hosted CI.",
+    "Do not assert raw chat transport SHA256 or outgoing commit hashes before postmerge remote observation."
+  ]
+}

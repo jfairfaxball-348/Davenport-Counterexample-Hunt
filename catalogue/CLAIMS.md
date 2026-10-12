@@ -848,3 +848,15 @@ Original Reiher Proposition8.1 independently hand-proved for every prime: a clou
 Category: SOURCE_AUDIT. Origin: research/S017_REIHER_PROPOSITION_8_1.md. Sources: SRC-0025.
 
 Exact D=A+ηB+C, η²=1; six nonzero determinants; four original indexed deletion equations and strategic identity; printed multipliers yield 2(1−x−y)=0; Prop5.1 only for distinct ORIGINAL A,B,C. No Section9/full Property B/rank-three result.
+
+## CLM-0104 — PROGRAMME_PROVED
+
+Original Reiher Observation9.1 over arbitrary field char!=2, seven DISTINCT proper-conic points imply at least two of X,Y,Z are linearly dependent; the dependent-X,Y case precedes the author's basis normalization, and independent case yields exact equations 2ar=2cs=0.
+
+Category: SOURCE_AUDIT. Origin: research/S018_REIHER_SECTION9_CONIC_LEMMA.md. Sources: SRC-0025. Scope: original Observation9.1 ONLY; no universal B.
+
+## CLM-0105 — PROGRAMME_PROVED
+
+Original Reiher Lemma9.2 exact SEVEN alternatives proved over K char!=2, including 14-sum collisions, four paired collinear line subcases and six paired proper-conic subcases via Obs9.1 (printed mistaken 'Observation10.1').
+
+Category: SOURCE_AUDIT. Origin: research/S018_REIHER_SECTION9_CONIC_LEMMA.md. Sources: SRC-0025. Scope: Lemma9.2 ONLY; no Lem9.6/Prop10.1/full B.
