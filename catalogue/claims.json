@@ -1189,6 +1189,28 @@
         "SRC-0026"
       ],
       "notes": "Maximal-line m=1..6 and eight planes with integer ceiling; η(C7²)≤19 CLM-0091, Property C CLM-0111, p7 Lem5.2 CLM-0087. No D(C7³) equality, no BSP stronger splitting premise."
+    },
+    {
+      "id": "CLM-0113",
+      "statement": "For odd prime p, splitting a 3p-term zero sum into two nonempty zero-sum pieces proves that one has length at most floor(3p/2)=(3p−1)/2; the printed split alone does not imply the stronger 3(p−1)/2 (p7:10 vs 9).",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S023_BSP_SPLIT_OBSTRUCTION.md",
+      "source_ids": [
+        "SRC-0021"
+      ],
+      "notes": "Elementary integer pigeonhole on |Y| and 3p−|Y|. Distinguish valid bound and false derivation from unresolved p≥7 structural claim or Lem2.3 multiwise estimate; not optimality claim."
+    },
+    {
+      "id": "CLM-0114",
+      "statement": "The universal p=3 stronger short-extraction assertion fails: a length-(6p−3)=15 sequence in C3³ exists with no nonempty zero-sum subsequence of length≤3=3(p−1)/2.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S023_BSP_SPLIT_OBSTRUCTION.md",
+      "source_ids": [
+        "SRC-0021"
+      ],
+      "notes": "Let q=x²+y² anisotropic on F3², T={(x,y,q(x,y)): (x,y)≠0} eight nonzero points. T² has no zero subsums length≤3 (no opposite pairs; triples of distinct graph points yield −q(v)≠0 on affine lines); remove any one index to get 15 terms. Refutes stronger universal auxiliary extraction ONLY, NOT BSP Lem2.3, its p≥7 range, or D(Cn³) conjecture; no numerical search."
     }
   ]
 }

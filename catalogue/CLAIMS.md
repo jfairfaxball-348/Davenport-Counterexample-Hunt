@@ -872,3 +872,8 @@ Every prime Property B (original Reiher Theorem 10.2), symbolic original-source 
 ### S022 — CLM-0111 and CLM-0112: PROGRAMME_PROVED
 
 CLM-0111: Every prime Property C, original GG1999 Theorem10.7 conditional B⇒C CLM-0093 + universal Reiher B CLM-0110; p=2 and p=7 verified. Sources SRC-0025, SRC-0026. CLM-0112: eta(C7³)≤116 from precise eight-plane maximal-line counts (m=1..6), CLM-0091, CLM-0087, CLM-0111. Source SRC-0021. Full independent historically-published proofs [S022](../research/S022_PROPERTY_C_ETA7.md). Neither claim resolves D(C7³), general rank-three Davenport conjecture nor disputed stronger BSP coefficient.
+
+## S023 — original BSP2012 coefficient audit (scoped proved obstructions)
+
+- **CLM-0113 · PROGRAMME_PROVED · SOURCE_AUDIT · SRC-0021.** For odd prime p, the elementary length-3p zero-sum split guarantees a nonempty zero-sum part of length≤floor(3p/2)=(3p−1)/2, p7=10; it does **not** prove 3(p−1)/2, p7=9. This is a sharp guarantee of the splitting argument, not an assertion that stronger uniform results fail for p≥7.
+- **CLM-0114 · PROGRAMME_PROVED · SOURCE_AUDIT · SRC-0021.** At p3 the doubled eight-point anisotropic graph {(x,y,x²+y²): (x,y)∈F3²\{0}} minus one position has length15 and no nonempty zero sum of length≤3. This refutes any all-prime stronger **short-extraction** lemma used to justify the printed coefficient, **NOT** BSP Lem2.3 multiwise conclusion and **NOT** the rank-three Davenport conjecture. See full symbolic proof research/S023_BSP_SPLIT_OBSTRUCTION.md. No stronger coefficient or omitted Lem2.3 induction is promoted.

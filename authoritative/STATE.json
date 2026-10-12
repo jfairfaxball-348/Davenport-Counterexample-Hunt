@@ -24,13 +24,14 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S022",
-  "recommended_next_session": "S023",
+  "last_completed_session": "S023",
+  "recommended_next_session": "S024",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": null,
   "phase1_target_status": "WITHHELD_NO_REPLACEMENT_CAMPAIGN",
   "open_blockers": [
+    "S023 CLM-0113 establishes only the odd-prime weaker (3p−1)/2 split (p7=10), while CLM-0114 supplies an explicit 15-term p3 symbolic counterexample to a universally stronger 3(p−1)/2 short-extraction assertion. BSP2012 Lem2.3 rank-three proof is omitted and stronger p≥7 coefficient unproved; these do NOT refute its multiwise statement or Davenport equality.",
     "S022 CLM-0111 unconditionally closes every-prime Property C and CLM-0112 proves historical eta(C7³)≤116; neither implies rank-three Davenport equality. Stronger BSP splitting coefficient and general omitted rank-three Lem2.3, BSP2007 diagrams, full provenance and other frontier gates unproved.",
     "BSP2012 Lem2.1/2.3 pp22–23 split supports R=(3p−1)/2, NOT stronger 3(p−1)/2; CLM-0068 only conditional on eta(Cp³)<=3p²−4p−3 and classical inputs.",
     "S022 CLM-0111 unconditionally closes every-prime Property C and CLM-0112 proves historical eta(C7³)≤116; neither implies rank-three Davenport equality. Stronger BSP splitting coefficient and general omitted rank-three Lem2.3, BSP2007 diagrams, full provenance and other frontier gates unproved.",
@@ -41,6 +42,7 @@
   "gate_ledger": "docs/PHASE_GATE_LEDGER.md",
   "source_snapshot": "2026-10-12",
   "warnings": [
+    "S023 STOP on essential BSP2012 prerequisite: published 3p split gives floor(3p/2), not 3(p−1)/2. Symbolic T²-minus-one counterexample at p3 refutes universal stronger short-extraction; no rank-three Davenport candidate, no Lem2.3 refutation, no source-status promotion of that lemma. All 30 D frontier rows unchanged; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 blocked, 0 hosted checks NOT CI PASS.",
     "S022 independently composes every-prime Property B CLM-0110 with the fully reconstructed conditional GG1999 B⇒C CLM-0093 to prove every-prime Property C CLM-0111; proves historical eta(C7³)≤116 CLM-0112 by maximal-line eight-plane counting with all six integer cases and CLM-0087/0091. This is NOT a rank-three Davenport equality or a novelty claim. Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 BLOCKED by source-stated n6=16; hosted CI absent (NOT PASS).",
     "S021 independently closes original Reiher Theorem10.2 CLM-0110: every prime Property B (RANK TWO) after complete seven-case reduction; no unconditional Property C, eta(C7³)<=116 or rank-three D claim in S021. All 30 frontier numeric/status/evidence rows unchanged; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 BLOCKED n6=16; zero hosted checks NOT CI PASS.",
     "S020 independently closes ONLY original Reiher Proposition10.1 CLM-0109: 14 quartic moment coefficients, at-most-two-dimensional V, 1/4/6/4/1 factorial identity, two indexed auxiliary Cor3.4 applications with p5 boundary and residual contradiction. Original Theorem10.2/universal Property B, unconditional C, eta(C7³)<=116 and rank-three D conjecture remain not programme-proved. All 30 numerical/status/evidence frontier rows unchanged; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 PROPOSED / NOT RUNNING activation BLOCKED by published n6=16; zero hosted checks NOT CI PASS.",

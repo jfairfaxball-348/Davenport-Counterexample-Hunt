@@ -92,3 +92,7 @@ See research/S017_REIHER_PROPOSITION_8_1.md. Next S018 original Obs9.1/Lem9.2 is
 | 2026-10-12 | S022 discharges original GG1999 conditional B=>C using Reiher every-prime B, obtains Property C p2/p7 inclusive | CLM-0093,0110→0111; SRC-0025/26 | PROGRAMME_PROVED historic rank-two theorem |
 | 2026-10-12 | S022 eta(C7³)≤116 by maximal line and exact eight-plane integer census, no stronger splitting assumption | CLM-0087,0091,0111→0112 SRC-0021 | PROGRAMME_PROVED historic rank-three eta bound, NOT Davenport D equality |
 | 2026-10-12 | Preserve entire frontier, all 28 source classes, Cambridge/Yiu source limitations, CAM-0001 BLOCKED | S022 proof/provenance/mirror check | Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, no hosted CI PASS; S023 future |
+
+| 2026-10-12 | S023: BSP2012 split guarantees R=(3p−1)/2 for odd p, not stronger a=3(p−1)/2; 10 versus 9 at p7 | SRC-0021 CLM-0113 original pp22–24 hand proof | PROGRAMME_PROVED scoped split; stronger coefficient NOT PROVED |
+| 2026-10-12 | S023: doubled anisotropic graph T² minus one at p3 gives 15-term sequence with NO short ≤3 zero sum | CLM-0114 elementary symbolic proof | PROGRAMME_PROVED obstruction to universal stronger extraction; NOT Lem2.3 refutation or Davenport candidate |
+| 2026-10-12 | Mandatory STOP at stronger coefficient, omitted rank-three induction not promoted; 30 source/evidence D rows and blocked CAM-0001 preserved | S023 review and full frontier audit | Phase1 IN_PROGRESS; Phase2/3 NOT_STARTED; no hosted CI PASS; S024 FUTURE |
