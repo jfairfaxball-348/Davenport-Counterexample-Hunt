@@ -119,3 +119,7 @@ CLM-0122 is a bounded symbolic obstruction, NOT a counterexample or search autho
 ## S027 administrative non-activation confirmation
 
 CLM-0123 is a symbolic four-cut necessity only, NOT a new target, computed candidate or zero-sumfree D1 construction. CAM-0001 remains PROPOSED/NOT_RUNNING with activation BLOCKED by SOURCE_STATED published Schmid D(C6³)=16; no replacement target/campaign, mathematical search, solver, orbit, Phase2/3, Lean, Palomar or certificate. Preserve all 30 original rank3 D1 frontier rows/source categories; missing hosted CI is NOT PASS.
+
+## S028 — no campaign activated; aggregate model NOT a candidate
+
+CLM-0124 assigns only six formal cell cardinalities and six AGGREGATE group sums, not any individual indexed group-element sequence. It is not a mathematical candidate for zero-sumfreeness or a new campaign authorisation. CAM-0001 remains PROPOSED / NOT RUNNING with activation BLOCKED by historical SOURCE_STATED Schmid D(C6³)=16. No replacement target, mathematical computational search, solver/orbits, candidate, tooling, Lean or Palomar. Phase1 IN_PROGRESS; Phases2/3 NOT_STARTED; full original 30 D1 rows preserved.

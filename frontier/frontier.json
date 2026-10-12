@@ -610,5 +610,26 @@
     "phase1": "IN_PROGRESS",
     "campaign": "CAM-0001 PROPOSED/NOT_RUNNING/BLOCKED n6=16",
     "hosted_ci_pass": false
+  },
+  "s028_audit": {
+    "session": "S028",
+    "as_of": "2026-10-12",
+    "claim": "CLM-0124: sharp six-class abstract aggregate incidence system, NOT an indexed zero-sumfree sequence or D1/Dk advance",
+    "rows_compared": 30,
+    "rows_unchanged": 30,
+    "markdown_json_mismatch_count": 0,
+    "intervals": [
+      15,
+      20,
+      21,
+      28,
+      30
+    ],
+    "settled_or_trivial": 25,
+    "source_access_status_changes": 0,
+    "rank_three_D1_changes": 0,
+    "phase1": "IN_PROGRESS",
+    "campaign": "CAM-0001 PROPOSED/NOT_RUNNING/BLOCKED n6=16",
+    "hosted_ci_pass": false
   }
 }

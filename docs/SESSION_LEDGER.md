@@ -103,3 +103,7 @@ S012 closeout: [complete record and FUTURE UNEXECUTED S013 handoff](../sessions/
 | S027 | 2026-10-12 | Original BSP2012 symbolic four-cut incidence: exact-four b-blocks force >=6 membership pattern classes via mod2 forest + p>=7 determinant; READ-ONLY source/30-row provenance | CLM-0123 scoped necessary condition, six+ cells unresolved; no D1/Dk result; Phase1 IN_PROGRESS, CAM-0001 BLOCKED; S028 FUTURE UNEXECUTED | session/S027-four-block-incidence-rank-gate |
 
 [S027 complete indexed proof, reviews, archived input, closeout and future S028 handoff](../sessions/S027/CLOSEOUT.md).
+
+| S028 | 2026-10-12 | One Phase1 original-source symbolic exactly-four-block six-cell aggregate incidence gate; exact all whole-cell zero sums/size/signature audit and indexed-lift STOP; no mathematical numerical search | CLM-0124 proves SIX occupied classes compatible with aggregate axioms, NOT an indexed zero-sumfree sequence or D1/Dk theorem; Phase1 IN_PROGRESS, CAM-0001 BLOCKED; S029 FUTURE UNEXECUTED | session/S028-six-cell-aggregate-incidence-countermodel |
+
+[S028 original symbolic proof, full records and strictly future S029 handoff](../sessions/S028/CLOSEOUT.md).
