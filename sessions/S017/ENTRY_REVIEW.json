@@ -1,0 +1,31 @@
+{
+  "session": "S017",
+  "entry_main": "9298cedd67b8df568c8c20a9cbfedb01d5789257",
+  "entry_tree": "822c1639e5d904a7e345ccf5e5b61b67eca2f0d1",
+  "prior_pr": 16,
+  "prior_s016_head": "bf5565393cd91083817e266559a6503498c2aed7",
+  "prior_s016_head_parent": "889ac83a4a3161676c928d2965442e59a738e53d",
+  "prior_s016_head_tree": "822c1639e5d904a7e345ccf5e5b61b67eca2f0d1",
+  "prior_merge_parents": [
+    "889ac83a4a3161676c928d2965442e59a738e53d",
+    "bf5565393cd91083817e266559a6503498c2aed7"
+  ],
+  "prior_pr_commit_count": 1,
+  "intervening_changes": [],
+  "all_pr_1_to_16_merged": true,
+  "open_prs": 0,
+  "competing_s017_branches_at_entry": 0,
+  "competing_s017_records_at_entry": 0,
+  "git_ls_remote_independently_agrees": true,
+  "main_protected_summary": false,
+  "reachable_rulesets": [],
+  "branch_protection_api": "HTTP403 Resource not accessible by integration",
+  "workflow_files": 0,
+  "workflow_listing_api": "Unsupported endpoint by connector; not evidence of zero",
+  "hosted_action_runs": 0,
+  "hosted_action_jobs": 0,
+  "check_runs": 0,
+  "status_contexts": 0,
+  "combined_status": "pending/empty",
+  "ci_pass_claimed": false
+}

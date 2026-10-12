@@ -19,3 +19,9 @@ S012 complete hand proof CLM-0084–0087 closes BSP2012 Lem5.2, including actual
 ## S013 — 2026-10-11
 
 S013 CLM-0089–0093 hand-prove rank-two p/2p extraction, D(Cp²)=2p−1, eta<=3p−2/long-zero short block, original Lem10.6 and the full B=>C implication CONDITIONAL on Property B. Complete S012 p7 Lem5.2 preserved. FIRST unconditional prerequisite is Reiher Property B through unrebuilt strategic-equation/geometric chain; stronger coefficient unproved. Phase1 IN_PROGRESS; Phases2/3 NOT_STARTED; CAM-0001 PROPOSED / NOT RUNNING activation BLOCKED by published n6=16. All 30 numeric rows unchanged; no openness inference. Zero hosted CI, NOT PASS. No owner-action blocker identified; source-access limitations remain research obligations. S014 strictly FUTURE UNEXECUTED.
+
+## S017 — 2026-10-12
+
+S017 independently reconstructs ONLY original Reiher Proposition8.1, CLM-0103: both η²=1 configurations, four genuine indexed conditional µ=1 identities, exact strategic equation and printed multipliers giving 2(1−x−y)=0; three DISTINCT ORIGINAL collinear A,B,C permit proved Prop5.1, including p5. STOP before Section9. Universal Property B, unconditional Property C, eta(C7³)≤116 and rank-three conjecture NOT proved. All 30 numeric/evidence rows unchanged; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 PROPOSED / NOT RUNNING activation BLOCKED by published n6=16. Zero hosted checks NOT CI PASS.
+
+See research/S017_REIHER_PROPOSITION_8_1.md. Next S018 original Obs9.1/Lem9.2 is strictly FUTURE UNEXECUTED; no owner-action blocker prevents closeout.

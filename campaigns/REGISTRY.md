@@ -73,3 +73,7 @@ Original rank-two Reiher CLM-0098–0100 does not change published Schmid2011 n6
 ### S016 — CAM-0001 remains PROPOSED / NOT RUNNING, ACTIVATION BLOCKED
 
 Independent rank-two Reiher Section6 CLM-0101/0102 do not change published source-stated Schmid2011 D(C6³)=16. Historical length-16 zero-sumfree CAM-0001 premise remains obsolete. No replacement campaign/target, Phase2/3, mathematical numerical computation/search, candidate, solver, code, Lean or certificate. Phase1 IN_PROGRESS.
+
+### S017 — CAM-0001 PROPOSED / NOT RUNNING, ACTIVATION BLOCKED
+
+S017 independently reconstructs ONLY original Reiher Proposition8.1, CLM-0103: both η²=1 configurations, four genuine indexed conditional µ=1 identities, exact strategic equation and printed multipliers giving 2(1−x−y)=0; three DISTINCT ORIGINAL collinear A,B,C permit proved Prop5.1, including p5. STOP before Section9. Universal Property B, unconditional Property C, eta(C7³)≤116 and rank-three conjecture NOT proved. All 30 numeric/evidence rows unchanged; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 PROPOSED / NOT RUNNING activation BLOCKED by published n6=16. Zero hosted checks NOT CI PASS. No replacement campaign, target, tooling, candidate or certificate.

@@ -61,3 +61,7 @@ S012 closeout: [complete record and FUTURE UNEXECUTED S013 handoff](../sessions/
 | S016 | 2026-10-12 | ONE original Reiher Section6 symbolic proof of Lem6.1/Prop6.2 with p5, read-only external provenance and n1..30 audit | CLM-0101/0102 only, Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 BLOCKED | session/S016-reiher-trapezoid-proofs |
 
 [S016 source-proof report, closeout and full FUTURE UNEXECUTED S017 handoff](../sessions/S016/CLOSEOUT.md).
+
+| S017 | 2026-10-12 | ONE original-source symbolic Proposition8.1 proof, read-only provenance and full n1..30 audit | CLM-0103 only; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 BLOCKED | session/S017-reiher-proposition-8-1 |
+
+[S017 complete proof/closeout and FULL FUTURE UNEXECUTED S018 handoff](../sessions/S017/CLOSEOUT.md).

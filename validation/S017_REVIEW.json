@@ -1,0 +1,32 @@
+{
+  "session": "S017",
+  "review_type": "MANUAL_SYMBOLIC_AND_ADMINISTRATIVE",
+  "proposition8_1_independently_proved": true,
+  "both_eta_signs": true,
+  "six_original_determinants_checked": true,
+  "four_genuine_conditional_deletions": true,
+  "strategic_equation_exact": true,
+  "printed_multipliers_fully_expanded": true,
+  "prop5_1_original_distinct_collinear_premise": true,
+  "p5_covered": true,
+  "old_claims_preserved": true,
+  "first_unclosed_future_input": "Original Section9 Obs9.1/Lem9.2; later quartics/general-position and Prop10.1",
+  "section9_proof_executed": false,
+  "future_session_executed": false,
+  "unconditional_property_B_proved": false,
+  "unconditional_property_C_proved": false,
+  "rank_three_eta7_unconditional": false,
+  "stronger_coefficient_proved": false,
+  "source_program_execution": false,
+  "mathematical_numerical_searches": 0,
+  "hosted_ci_pass": false,
+  "phase1": "IN_PROGRESS",
+  "phases2_3": "NOT_STARTED",
+  "campaign": "CAM-0001 PROPOSED / NOT RUNNING; activation BLOCKED by source-stated n6=16",
+  "owner_action_blockers": [],
+  "limits": [
+    "Manual proof, not formal kernel certification.",
+    "Original complete historical/frontier proofs and computational provenance remain scoped.",
+    "No hosted CI pass; inaccessible endpoints do not establish zero."
+  ]
+}
