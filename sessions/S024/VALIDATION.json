@@ -1,0 +1,54 @@
+{
+  "session": "S024",
+  "checks": [
+    {
+      "name": "JSON state/claims/sources/frontier",
+      "status": "PASS_ADMIN"
+    },
+    {
+      "name": "claims IDs and status enums",
+      "status": "PASS_ADMIN",
+      "claim_count": 119
+    },
+    {
+      "name": "sources IDs/access preserved",
+      "status": "PASS_ADMIN",
+      "source_count": 28
+    },
+    {
+      "name": "full n1..30 exact JSON/Markdown original numeric/group/status/evidence match",
+      "status": "PASS_ADMIN",
+      "rows": 30,
+      "mismatches": 0
+    },
+    {
+      "name": "conditional intervals",
+      "status": "PASS_ADMIN",
+      "n": [
+        15,
+        20,
+        21,
+        28,
+        30
+      ]
+    },
+    {
+      "name": "campaign/phase gate",
+      "status": "PASS_ADMIN",
+      "phase1": "IN_PROGRESS",
+      "phase2": "NOT_STARTED",
+      "phase3": "NOT_STARTED",
+      "campaign_active": null
+    },
+    {
+      "name": "future handoff archival",
+      "status": "PASS_ADMIN",
+      "next": "S025 future only"
+    }
+  ],
+  "hosted_checks_observed_at_entry": 0,
+  "hosted_ci_pass": false,
+  "math_computation_or_search": false,
+  "author_code_executed": false,
+  "formal_mathematical_certification": false
+}

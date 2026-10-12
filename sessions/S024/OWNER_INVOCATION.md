@@ -1,0 +1,3 @@
+# S024 distinct owner invocation
+
+New explicit owner invocation received on 2026-10-12 at approximately 14:26 +01:00, supplying the full S024 handoff headed “S024 — Test a repaired BSP multiwise extraction route after the S023 p=3 obstruction (FUTURE, UNEXECUTED)” and authorising exactly one separately invoked S024. The canonical committed identical S023 outgoing future handoff was fetched live from authoritative/NEXT_SESSION_PROMPT.md and archived verbatim in sessions/S024/INPUT.md. This record is a separate human-readable transcription; inaccessible raw conversation transport bytes and raw-chat SHA-256 are NOT claimed.

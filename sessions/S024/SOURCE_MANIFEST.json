@@ -1,0 +1,29 @@
+{
+  "session": "S024",
+  "primary": "SRC-0021 definitive publisher offprint printed pp22–24/PDF indices1–3",
+  "primary_status": "PROOF_INSPECTED scoped",
+  "source_ids": [
+    "SRC-0021",
+    "SRC-0015",
+    "SRC-0013",
+    "SRC-0020",
+    "SRC-0024"
+  ],
+  "refuted_formulations": [
+    "rank3 p2 k19",
+    "d4 p2 k25"
+  ],
+  "sheikh": "Official metadata accessible, full PDF internal error/inaccessible; Chapter4 not verified",
+  "ghst": "C53.html original code and output inaccessible; not run",
+  "yiu": "arXiv2609.04950v1 Section2.3 M1 generation repeated without independent final three-disjoint test; no terminal M1 code/log/cert authenticated",
+  "intervals_checked": [
+    15,
+    20,
+    21,
+    28,
+    30
+  ],
+  "no_new_exact_D1": true,
+  "math_computational_search": false,
+  "author_code_executed": false
+}

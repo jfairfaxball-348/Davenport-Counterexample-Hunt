@@ -1,0 +1,28 @@
+{
+  "session": "S024",
+  "entry_main": "a57c7aaa264951ad2570459c319fcee36509feb6",
+  "entry_tree": "2588637b673715f6809d3740502ccd8e584c60c8",
+  "prior_S023_branch": "d59503a362226d735bf8d6aab60d793edf4434e4",
+  "prior_S023_parent": "44d451ead8854a35419462cd0a69a35d847c12cc",
+  "prior_S023_tree": "2588637b673715f6809d3740502ccd8e584c60c8",
+  "prior_pr": 23,
+  "prior_merge": "a57c7aaa264951ad2570459c319fcee36509feb6",
+  "prior_merge_parents": [
+    "44d451ead8854a35419462cd0a69a35d847c12cc",
+    "d59503a362226d735bf8d6aab60d793edf4434e4"
+  ],
+  "open_prs": 0,
+  "recent_prs": "PR1–PR23 all closed/merged; PR23 most recent",
+  "competing_S024_branches_or_records_at_entry": 0,
+  "rulesets": [],
+  "protected_branch_summary": false,
+  "branch_protection": "HTTP403 inaccessible by integration; NOT evidence of absence",
+  "workflow_files_in_recursive_tree": 0,
+  "workflow_listing": "endpoint rejected by connector; NOT zero observed",
+  "hosted_runs": 0,
+  "jobs": "none to enumerate as run list was empty",
+  "check_runs": 0,
+  "status_contexts": 0,
+  "combined_status": "pending",
+  "hosted_ci_pass": false
+}
