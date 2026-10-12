@@ -85,3 +85,7 @@ S012 closeout: [complete record and FUTURE UNEXECUTED S013 handoff](../sessions/
 | S022 | 2026-10-12 | One primary-source symbolic B⇒C composition and p7 eta eight-plane proof, provenance and all30-row audit | CLM-0111/0112 PROGRAMME_PROVED historically known; Phase1 IN_PROGRESS; Phases2/3 NOT_STARTED, CAM-0001 BLOCKED | session/S022-property-c-eta7 |
 
 [S022 full proof/closeout and strictly future S023 handoff](../sessions/S022/CLOSEOUT.md).
+
+| S023 | 2026-10-12 | Definitive BSP2012 short-zero-sum split bound and p3 symbolic failure of stronger extraction; provenance and complete frontier audit | CLM-0113/0114 only; essential multiwise coefficient/omitted rank-three proof UNPROVED; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 BLOCKED | session/S023-bsp-split-obstruction |
+
+[S023 proof, full closeout and strictly future S024 handoff](../sessions/S023/CLOSEOUT.md).

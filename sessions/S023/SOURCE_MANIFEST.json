@@ -1,0 +1,38 @@
+{
+  "session": "S023",
+  "sources": [
+    "SRC-0021",
+    "SRC-0024",
+    "SRC-0013",
+    "SRC-0020",
+    "SRC-0015"
+  ],
+  "BSP2012": {
+    "publisher_offprint": true,
+    "printed_pages": "22–24",
+    "pdf_indices": [
+      1,
+      2,
+      3
+    ],
+    "source_class": "PROOF_INSPECTED",
+    "new_binary_hash": false
+  },
+  "GHST2007": "original pdf Theorem 1.7 inspected, C53 HTML complete code/output inaccessible",
+  "sheikh": "HTTP403, complete thesis unavailable",
+  "yiu": "v1 HTML read; final independent terminal M1 predicate/log/cert not authenticated",
+  "frontier": {
+    "rows": 30,
+    "intervals": [
+      15,
+      20,
+      21,
+      28,
+      30
+    ],
+    "changed_D_rows": 0,
+    "nondiscovery_not_openness": true
+  },
+  "math_numerical_search": false,
+  "author_code_executed": false
+}

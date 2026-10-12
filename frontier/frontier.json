@@ -503,5 +503,19 @@
     ],
     "nondiscovery_not_openness": true,
     "no_new_exact_rank_three": true
+  },
+  "s023_audit": {
+    "all30_rows_unchanged": true,
+    "rank_three_D_endpoints_changed": 0,
+    "intervals": [
+      15,
+      20,
+      21,
+      28,
+      30
+    ],
+    "proven_p3_auxiliary_obstruction_not_D_conjecture": true,
+    "source_stated_exact_families_retained": true,
+    "nondiscovery_not_openness": true
   }
 }

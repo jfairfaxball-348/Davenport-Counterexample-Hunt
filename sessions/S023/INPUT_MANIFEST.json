@@ -1,0 +1,8 @@
+{
+  "session": "S023",
+  "committed_handoff_blob": "f6b66a36ebcacea92f30535ef4579550881745f4",
+  "verbatim_committed_handoff": true,
+  "S022_closeout_handoff_trimmed_exact": true,
+  "owner_invocation_transcribed": true,
+  "raw_transport_sha256_claimed": false
+}

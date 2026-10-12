@@ -1,4 +1,4 @@
-# Frontier after S021
+# Frontier after S023
 
 S013 CLM-0089–0093 hand-prove rank-two p/2p extraction, D(Cp²)=2p−1, eta<=3p−2/long-zero short block, original Lem10.6 and the full B=>C implication CONDITIONAL on Property B. Complete S012 p7 Lem5.2 preserved. S021 has now independently proved original Reiher universal prime Property B, CLM-0110, RANK TWO; conditional Property C/eta7 not yet discharged; stronger coefficient unproved. Phase1 IN_PROGRESS; Phases2/3 NOT_STARTED; CAM-0001 PROPOSED / NOT RUNNING activation BLOCKED by published n6=16. All 30 numeric rows unchanged; no openness inference. Zero hosted CI, NOT PASS.
 
@@ -144,3 +144,8 @@ All original 30 Markdown table rows AND JSON row objects preserved exactly. 25 s
 ## S022 complete n1..30 mirror check
 
 Full existing Markdown table's all 30 numeric/status/source/evidence cells and all 30 JSON row objects deliberately UNCHANGED. Historical eta(C7³)≤116 is a different invariant from Davenport D(C7³) and warrants no new D endpoint. Preserve exact/trivial25, intervals n15 43..45,n20 58..59,n21 61..63,n28 82..83,n30 88..90. Bounded read-only queries produced no newly authenticated exact primary theorem; nondiscovery is NOT current openness. Historical Schmid2011 n6=16 and van Emde Boas II/III 2p^a/3·2^a retain SOURCE_STATED. Inherited14/17,+5,orbits43/699/5553 quarantined. Phase1 IN_PROGRESS, CAM-0001 blocked.
+ 
+
+## S023 complete n1..30 JSON/Markdown reconciliation
+
+All THIRTY original D(Cn³) numerical bounds, provisional status, evidence classes/sources, and n1..30 row objects retained unchanged. 25 exact/trivial SOURCE_STATED/definition rows and intervals n15 43..45, n20 58..59, n21 61..63, n28 82..83, n30 88..90 remain. S023 p3 counterexample refutes a different short-extraction AUXILIARY, not a Davenport zero-sumfree target. S022 eta(C7³)≤116 is not D(C7³). n6=16 and historical 2p^a/3·2^a exact families retain SOURCE_STATED. CAM-0001 blocked n6=16, Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED. No-hit NOT present-day openness. No hosted CI PASS.

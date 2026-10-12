@@ -45,3 +45,9 @@ S021 independently closes original Reiher Theorem10.2 CLM-0110: every prime Prop
 ## S022 — 2026-10-12
 
 S022 independently composes every-prime Property B CLM-0110 with the fully reconstructed conditional GG1999 B⇒C CLM-0093 to prove every-prime Property C CLM-0111; proves historical eta(C7³)≤116 CLM-0112 by maximal-line eight-plane counting with all six integer cases and CLM-0087/0091. This is NOT a rank-three Davenport equality or a novelty claim. Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 BLOCKED by source-stated n6=16; hosted CI absent (NOT PASS). See research/S022_PROPERTY_C_ETA7.md. S023 is strictly FUTURE UNEXECUTED; older dated summaries were accurate only at their own session cutoff.
+
+## S023 — 2026-10-12
+
+S023 independently audits original definitive BSP2012 pp22–24: CLM-0113 establishes only odd-prime split R=(3p−1)/2 (p7=10); CLM-0114 supplies a symbolic 15-term F3³ counterexample to the UNIVERSAL shorter 3(p−1)/2 block extraction. This does NOT disprove BSP Lem2.3 multiwise bound, p≥7 strengthening, or rank-three Davenport equality. First necessary coefficient premise remains unproved and omitted Lem2.3 induction unattempted by mandated STOP. Thirty D frontier rows unchanged; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 PROPOSED/NOT_RUNNING BLOCKED n6=16, no hosted CI PASS.
+
+See research/S023_BSP_SPLIT_OBSTRUCTION.md and sessions/S023/CLOSEOUT.md. S024 is strictly FUTURE UNEXECUTED pending a separate owner invocation.

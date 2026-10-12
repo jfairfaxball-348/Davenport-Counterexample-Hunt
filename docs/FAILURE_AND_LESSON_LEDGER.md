@@ -128,3 +128,7 @@ Original universal prime Property B is rank TWO. Exact Lem9.2(a)–(g) mapping a
 ## S022 — discharge only genuine premises, preserve sharp invariant boundaries
 
 Conditional GG1999 B⇒C (CLM-0093) becomes unconditional only after S021 Reiher B. In eta(C7³) plane averaging use m+CEIL((116−m)/8) and all m=1..6: m5/6 at least19 forces a short planar sum; m3/4 gives18 and Property C forces six equal; m1/2 gives at least16 and p7 15-term Lem5.2 contradicts line cap≤2. Historical eta bound is NOT a proof of D(C7³) equality, nor evidence for disputed stronger BSP2012 3(p−1)/2 splitting coefficient or omitted general Lem2.3. Source 403/inaccessibility and five-interval nondiscovery are not proofs of absence/openness; no hosted CI PASS.
+
+## S023 — printed BSP split contradiction and sharp scope
+
+Author's 3p zero-sum split only forces a shorter part of size ≤floor(3p/2)=(3p−1)/2 (p7=10); neither the extra lost unit 3(p−1)/2 (p7=9) nor omitted rank-three multiwise induction follows. A real UNIVERSAL-short-extraction counterexample at p3 is the 15-term double graph of q=x²+y² over F3²\{0}, minus one indexed point. This is a valid symbolic refutation of the stronger blanket auxiliary claim, NOT of Lem2.3 or Davenport. STOP at the first essential missing p≥7 premise. Source access limits (Sheikh HTTP403, GHST C53 original code/output inaccessible, Yiu independent M1 unauthenticated) are not negative evidence; zero hosted checks not CI PASS. Keep all30 D numeric/status/evidence rows and campaign status intact.

@@ -99,3 +99,7 @@ Source-stated published D(C6³)=16 still invalidates the inherited length16 zero
 ### S022 — 2026-10-12
 
 CAM-0001 stays PROPOSED / NOT RUNNING, activation BLOCKED by published historical exact D(C6³)=16. S022 rank-two Property C and rank-three eta upper bound do NOT change that campaign or select a new D target. No Phase2/3, candidate, mathematical search, solver or certificate; Phase1 IN_PROGRESS.
+
+### S023 — 2026-10-12
+
+CAM-0001 remains PROPOSED / NOT RUNNING; activation BLOCKED because published Schmid2011 D(C6³)=16 disqualifies inherited length16 counterexample premise. S023 p3 symbolic SHORT-EXTRACTION obstruction is not a rank-three Davenport zero-sumfree candidate and does NOT activate or replace any campaign. No campaign, solver, mathematical computational search, tooling or new target; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED.
