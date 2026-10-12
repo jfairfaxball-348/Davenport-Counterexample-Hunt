@@ -8,7 +8,9 @@
 
 S001 bootstrap: repository initialized from empty main via .gitignore initial commit `412f0088aeffb823f1533f5d0809806a6b58afde`. S001 session commit built as one new tree and one commit on `session/S001-bootstrap-frontier`.
 
-Current completed session: S028. The only active continuation is NEW separately owner-invoked S029 in authoritative/NEXT_SESSION_PROMPT.md. S029 is STRICTLY FUTURE UNEXECUTED.
+Current completed session: S029. The only active continuation is NEW separately owner-invoked S030 in authoritative/NEXT_SESSION_PROMPT.md. S030 is STRICTLY FUTURE UNEXECUTED.
+
+Current result: S029 CLM-0125/0126: elementary indexed Chevalley–Warning deletion counts force the complete number m of balanced b-zero-sum blocks to be a positive multiple of p and m>=2p, with 2r_i=m+(-1)^b mod p. At m=2p there is an exact two-degree census. Therefore EVERY exactly-four indexed family is impossible, independently of signature count. An arbitrary S028 no-short six-cell lift is NOT ruled out: it must create at least 2p-4 additional partial-cell b-blocks. First essential gap is m>=2p indexed families. Strong extraction and D2<=6p-6 remain UNPROVED; no rank-three D1/Dk numerical update, no novelty claim. Older numbered summaries below are historical at their stated cutoffs.
 
 S012–S016 independent p7/rank-two/coefficient/collinear/trapezoid results remain preserved. S017 adds ONLY original Reiher Proposition8.1 (CLM-0103), with both η signs, all original determinants, four genuine conditional µ=1 equations, exact strategic equation and printed cancellation 2(1−x−y)=0; Prop5.1 is applied to three DISTINCT ORIGINAL collinear terms, p5 included. See research/S017_REIHER_PROPOSITION_8_1.md.
 
@@ -75,3 +77,7 @@ See research/S027_FOUR_BLOCK_CUBE_FOREST.md and sessions/S027. S028 is FUTURE UN
 ## S028 — 2026-10-12
 
 S028 CLM-0124 proves a **six-cell abstract AGGREGATE countermodel** to closing S027's exactly-four balanced b-block obstruction by whole-cell incidence constraints alone. For every p>=7: coefficients (1,-1,1,3,-2,-2)u, six positive class sizes (d+ell-1,d+2ell,d+ell,d,ell,ell), four b zero unions AB,ACE,ACF,ADEF and exactly four b+1 zero complements; no other whole-cell zero-sum unions. Pair-cover and triple-separation hold. **No indexed group-vector lift or full short-zero-sum exclusion has been proved.** Strong extraction, D2<=6p-6 and classic rank3 conjecture UNPROVED. All thirty n1..30 original numeric/source/evidence rows unchanged; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 PROPOSED/NOT_RUNNING/BLOCKED n6=16. Zero hosted checks NOT CI PASS. See [S028 proof](../research/S028_SIX_CELL_AGGREGATE_COUNTERMODEL.md). S029 future only.
+
+## S029 — current result
+
+S029 CLM-0125/0126: elementary indexed Chevalley–Warning deletion counts force the complete number m of balanced b-zero-sum blocks to be a positive multiple of p and m>=2p, with 2r_i=m+(-1)^b mod p. At m=2p there is an exact two-degree census. Therefore EVERY exactly-four indexed family is impossible, independently of signature count. An arbitrary S028 no-short six-cell lift is NOT ruled out: it must create at least 2p-4 additional partial-cell b-blocks. First essential gap is m>=2p indexed families. Strong extraction and D2<=6p-6 remain UNPROVED; no rank-three D1/Dk numerical update, no novelty claim. See [full proof](../research/S029_INDEXED_CW_BLOCK_MULTIPLICITY.md). The local proof no longer needs the classical source-stated Olson input. Phase1 IN_PROGRESS; Phases2/3 NOT_STARTED; CAM-0001 blocked n6=16. S030 future only.

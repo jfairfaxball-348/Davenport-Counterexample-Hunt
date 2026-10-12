@@ -1,0 +1,41 @@
+{
+  "session": "S029",
+  "checks": [
+    {
+      "name": "all repository JSON parses",
+      "status": "PASS_ADMIN",
+      "files": 161
+    },
+    {
+      "name": "30 exact original JSON row objects and complete Markdown table cells/evidence order",
+      "status": "PASS_ADMIN",
+      "rows": 30,
+      "mismatches": 0,
+      "entry_reference": "5fa1f4c645f4d9454341e17eb3ba104f75b44487"
+    },
+    {
+      "name": "source access classes unchanged; claim IDs unique, legal status and mirror/path present",
+      "status": "PASS_ADMIN",
+      "sources": 28
+    },
+    {
+      "name": "exact input archive, future-only handoff, state and phase gates",
+      "status": "PASS_ADMIN"
+    },
+    {
+      "name": "CLM-0125/0126 separate adversarial proof reconstruction",
+      "status": "HAND_PROOF_REVIEWED_NOT_FORMALLY_CERTIFIED",
+      "first_unclosed": "arbitrary indexed families m>=2p; all partial-cell lifts not excluded",
+      "reviewer": "session executor separate pass, not external"
+    }
+  ],
+  "mathematical_numerical_search": false,
+  "author_code_executed": false,
+  "new_D1_value": false,
+  "new_Dk_bound": false,
+  "hosted_actions_runs": 0,
+  "hosted_check_runs": 0,
+  "hosted_status_contexts": 0,
+  "hosted_ci_pass": false,
+  "proof_sha256": "445508d40371424bc5bfb9cf30bf0726f9176e43e61a760c928db2317a6289d2"
+}

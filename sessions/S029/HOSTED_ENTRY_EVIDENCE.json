@@ -1,0 +1,700 @@
+{
+  "session": "S029",
+  "observed_utc": "2026-10-12",
+  "requests": [
+    {
+      "endpoint": "git/ref/heads/main",
+      "is_error": false,
+      "data": {
+        "ref": "refs/heads/main",
+        "node_id": "REF_kwDOVENTIa9yZWZzL2hlYWRzL21haW4",
+        "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/git/refs/heads/main",
+        "object": {
+          "sha": "5fa1f4c645f4d9454341e17eb3ba104f75b44487",
+          "type": "commit",
+          "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/git/commits/5fa1f4c645f4d9454341e17eb3ba104f75b44487"
+        }
+      }
+    },
+    {
+      "endpoint": "pulls?state=all&per_page=100",
+      "is_error": false,
+      "data": [
+        {
+          "number": 28,
+          "state": "closed",
+          "title": "S028 — six-cell aggregate countermodel closes incidence-only route, indexed lift remains open",
+          "head": "45297dd7c4b174b8128d0d430112f60affc9e87d",
+          "head_ref": "session/S028-six-cell-aggregate-incidence-countermodel",
+          "base": "64e7cdee9b6acf97aafec51536042d67607a67a6",
+          "merge_commit_sha": "5fa1f4c645f4d9454341e17eb3ba104f75b44487",
+          "merged_at": "2026-10-12T15:50:29Z"
+        },
+        {
+          "number": 27,
+          "state": "closed",
+          "title": "S027 — four balanced blocks require six membership classes, bounded STOP",
+          "head": "269486e7f8bce58f028a55d1b064f93217f1ecb9",
+          "head_ref": "session/S027-four-block-incidence-rank-gate",
+          "base": "362bb53e39131a134c072cdf69c2a0358b66c1aa",
+          "merge_commit_sha": "64e7cdee9b6acf97aafec51536042d67607a67a6",
+          "merged_at": "2026-10-12T15:18:13Z"
+        },
+        {
+          "number": 26,
+          "state": "closed",
+          "title": "S026 — balanced-only rank-three incidence obstruction, scoped STOP",
+          "head": "63a58b834e44652db5948bd7d14001d4b4d0ddd5",
+          "head_ref": "session/S026-balanced-incidence-obstruction",
+          "base": "f93b913a5ef289979aead91b5630304191a604cd",
+          "merge_commit_sha": "362bb53e39131a134c072cdf69c2a0358b66c1aa",
+          "merged_at": "2026-10-12T14:49:16Z"
+        },
+        {
+          "number": 25,
+          "state": "closed",
+          "title": "S025 — verify original odd-prime BSP CW extraction and two-term downstream gap",
+          "head": "1363679caea45bc0fd0bcdd5b8475813dd1090a1",
+          "head_ref": "session/S025-bsp-odd-prime-cw-audit",
+          "base": "40a45d84357659614ef5411a126efd5db720da6f",
+          "merge_commit_sha": "f93b913a5ef289979aead91b5630304191a604cd",
+          "merged_at": "2026-10-12T14:18:49Z"
+        },
+        {
+          "number": 24,
+          "state": "closed",
+          "title": "S024 — refute BSP2012 all-prime multiwise bounds at p2; safe recurrence",
+          "head": "e33da067d68999ed166859509cbd0a80cb87f206",
+          "head_ref": "session/S024-bsp-p2-counterexample-recurrence",
+          "base": "a57c7aaa264951ad2570459c319fcee36509feb6",
+          "merge_commit_sha": "40a45d84357659614ef5411a126efd5db720da6f",
+          "merged_at": "2026-10-12T13:45:00Z"
+        },
+        {
+          "number": 23,
+          "state": "closed",
+          "title": "S023 — BSP split coefficient and symbolic p3 obstruction",
+          "head": "d59503a362226d735bf8d6aab60d793edf4434e4",
+          "head_ref": "session/S023-bsp-split-obstruction",
+          "base": "44d451ead8854a35419462cd0a69a35d847c12cc",
+          "merge_commit_sha": "a57c7aaa264951ad2570459c319fcee36509feb6",
+          "merged_at": "2026-10-12T13:22:21Z"
+        },
+        {
+          "number": 22,
+          "state": "closed",
+          "title": "S022 — unconditional prime Property C and eta(C7³) ≤ 116",
+          "head": "a8772a694634fa3f3655514c8e8677c20270aca3",
+          "head_ref": "session/S022-property-c-eta7",
+          "base": "fccf9f0d4c2d58a7c7a96e585fd7dfab8b6993ee",
+          "merge_commit_sha": "44d451ead8854a35419462cd0a69a35d847c12cc",
+          "merged_at": "2026-10-12T12:57:22Z"
+        },
+        {
+          "number": 21,
+          "state": "closed",
+          "title": "S021 — independently reconstruct original Reiher Theorem 10.2",
+          "head": "9e98ea2e6eae72c0ba90a0525ed270910263ff5e",
+          "head_ref": "session/S021-reiher-theorem-10-2",
+          "base": "1dd9d3bf20ecbce23b23a3174ce06f39e9fadd42",
+          "merge_commit_sha": "fccf9f0d4c2d58a7c7a96e585fd7dfab8b6993ee",
+          "merged_at": "2026-10-12T12:36:06Z"
+        },
+        {
+          "number": 20,
+          "state": "closed",
+          "title": "S020 — independently reconstruct original Reiher Proposition 10.1",
+          "head": "9e6d45bde9b651db8b71d5fa32916292ccbe115d",
+          "head_ref": "session/S020-reiher-proposition-10-1",
+          "base": "ba5b98d5cdec49f81207260df09ac8f829ebcbd9",
+          "merge_commit_sha": "1dd9d3bf20ecbce23b23a3174ce06f39e9fadd42",
+          "merged_at": "2026-10-12T12:14:11Z"
+        },
+        {
+          "number": 19,
+          "state": "closed",
+          "title": "S019 — reconstruct original Reiher Observations 9.4/9.5 and Lemma 9.6",
+          "head": "19d917c1ea8b789da8088ec80d088e8167cf5a1d",
+          "head_ref": "session/S019-reiher-section9-general-position",
+          "base": "9cfe4ef86c1d7408f56dce65aa62eee2c0f711fc",
+          "merge_commit_sha": "ba5b98d5cdec49f81207260df09ac8f829ebcbd9",
+          "merged_at": "2026-10-12T11:26:53Z"
+        },
+        {
+          "number": 18,
+          "state": "closed",
+          "title": "S018 — reconstruct original Reiher Observation 9.1 and Lemma 9.2",
+          "head": "1652bb3bdca28c2ba47b8f20030b783cc7fbef4c",
+          "head_ref": "session/S018-reiher-section9-conic-lemma",
+          "base": "3d8847528f6844029d732d9a0e0cb62880bc5f0e",
+          "merge_commit_sha": "9cfe4ef86c1d7408f56dce65aa62eee2c0f711fc",
+          "merged_at": "2026-10-12T08:16:19Z"
+        },
+        {
+          "number": 17,
+          "state": "closed",
+          "title": "S017 — reconstruct original Reiher Proposition 8.1",
+          "head": "27231d7f79a9fa9d3d6f6e21f5a063591d83a35a",
+          "head_ref": "session/S017-reiher-proposition-8-1",
+          "base": "9298cedd67b8df568c8c20a9cbfedb01d5789257",
+          "merge_commit_sha": "3d8847528f6844029d732d9a0e0cb62880bc5f0e",
+          "merged_at": "2026-10-12T07:57:42Z"
+        },
+        {
+          "number": 16,
+          "state": "closed",
+          "title": "S016: independently reconstruct original Reiher Section 6 trapezoid proofs",
+          "head": "bf5565393cd91083817e266559a6503498c2aed7",
+          "head_ref": "session/S016-reiher-trapezoid-proofs",
+          "base": "889ac83a4a3161676c928d2965442e59a738e53d",
+          "merge_commit_sha": "9298cedd67b8df568c8c20a9cbfedb01d5789257",
+          "merged_at": "2026-10-12T06:55:38Z"
+        },
+        {
+          "number": 15,
+          "state": "closed",
+          "title": "S015: independently reconstruct Reiher Proposition 5.1",
+          "head": "1d24f60ffff8866551dd20fca2c8e098817cde10",
+          "head_ref": "session/S015-reiher-collinear-proposition",
+          "base": "2c1e0dac220467d5c3bab526ec56bca61308a2b8",
+          "merge_commit_sha": "889ac83a4a3161676c928d2965442e59a738e53d",
+          "merged_at": "2026-10-11T22:32:57Z"
+        },
+        {
+          "number": 14,
+          "state": "closed",
+          "title": "S014: reconstruct Reiher strategic equations and three-support lemma",
+          "head": "d0186175defb0ec2191b170950c88cc9eedda264",
+          "head_ref": "session/S014-reiher-strategic-three-support",
+          "base": "8d16ecd63b769e6c138861f78a1dfbff6fd891b3",
+          "merge_commit_sha": "2c1e0dac220467d5c3bab526ec56bca61308a2b8",
+          "merged_at": "2026-10-11T22:00:57Z"
+        },
+        {
+          "number": 13,
+          "state": "closed",
+          "title": "S013: close rank-two extraction and conditional Property B ⇒ C dependencies",
+          "head": "f49050f2dddfff2d8bab62ae5e1fd8da504b9105",
+          "head_ref": "session/S013-rank-two-original-prerequisites",
+          "base": "e22e1f369606c848d94b71bce737d74301a00954",
+          "merge_commit_sha": "8d16ecd63b769e6c138861f78a1dfbff6fd891b3",
+          "merged_at": "2026-10-11T21:23:22Z"
+        },
+        {
+          "number": 12,
+          "state": "closed",
+          "title": "S012: complete p7 Lemma5.2 hand proof; retain original dependency gates",
+          "head": "d6b9bc4a95ea6844dc9adfecc70f57f25726ca2b",
+          "head_ref": "session/S012-p7-lemma-original-dependencies",
+          "base": "eb47980a78c1298e557202b4b63fe45459bdb87b",
+          "merge_commit_sha": "e22e1f369606c848d94b71bce737d74301a00954",
+          "merged_at": "2026-10-11T21:03:52Z"
+        },
+        {
+          "number": 11,
+          "state": "closed",
+          "title": "S011 — p7 six doubled-line geometry and original GG1999 source audit",
+          "head": "d7c91251712559df8ae70ac10b5d2b2902b2c21d",
+          "head_ref": "session/S011-p7-six-line-geometry-gg1999-audit",
+          "base": "9ca537dbd50e8cd9b944fdd9be976d307c7ad4d6",
+          "merge_commit_sha": "eb47980a78c1298e557202b4b63fe45459bdb87b",
+          "merged_at": "2026-10-11T18:04:15Z"
+        },
+        {
+          "number": 10,
+          "state": "closed",
+          "title": "S010 — prove p7 mixed-line sublemma; inspect original 1999 Property B⇒C proof",
+          "head": "7bc7940b4672af7f6bc62e59b97053c526be1490",
+          "head_ref": "session/S010-p7-mixed-line-original-gg-proof",
+          "base": "4d93334fd6335397f1c3df8113b7b3e86f0bd839",
+          "merge_commit_sha": "9ca537dbd50e8cd9b944fdd9be976d307c7ad4d6",
+          "merged_at": "2026-10-11T17:41:20Z"
+        },
+        {
+          "number": 9,
+          "state": "closed",
+          "title": "S009 — conditional p7 eight-vector proof; hold Phase-1 source gate",
+          "head": "8ec9867c4170603c332f234868b43d0507479eb6",
+          "head_ref": "session/S009-p7-eight-vector-source-audit",
+          "base": "74130b059940a3bf4dbe4e75bb7fee40a7cdea49",
+          "merge_commit_sha": "4d93334fd6335397f1c3df8113b7b3e86f0bd839",
+          "merged_at": "2026-10-11T17:00:30Z"
+        },
+        {
+          "number": 8,
+          "state": "closed",
+          "title": "S008 — conditional p=7 normalization and primary provenance audit",
+          "head": "99f689cd01a652614db58dc75709321cf871c679",
+          "head_ref": "session/S008-p7-classification-provenance",
+          "base": "a973efe3a20709183d51716719c391b72fe4019f",
+          "merge_commit_sha": "74130b059940a3bf4dbe4e75bb7fee40a7cdea49",
+          "merged_at": "2026-10-11T15:57:59Z"
+        },
+        {
+          "number": 7,
+          "state": "closed",
+          "title": "S007 — verify first p=7 normalization; hold Phase-1 source gate",
+          "head": "8b6f4241b048a9d45f730812601cb28f87159726",
+          "head_ref": "session/S007-source-proof-normalization",
+          "base": "f1a52c99abd03e66f612a4aa16b2bfb48ec77795",
+          "merge_commit_sha": "a973efe3a20709183d51716719c391b72fe4019f",
+          "merged_at": "2026-10-11T15:33:22Z"
+        },
+        {
+          "number": 6,
+          "state": "closed",
+          "title": "S006 — repair one published p=7 subcase; hold source-proof gate",
+          "head": "93561bfb31dec0033452bdf2a9df0d82fb9d9768",
+          "head_ref": "session/S006-coefficient-p7-provenance",
+          "base": "74709bdbb431416d62bc0b9e75119abc3e49d520",
+          "merge_commit_sha": "f1a52c99abd03e66f612a4aa16b2bfb48ec77795",
+          "merged_at": "2026-10-11T14:51:45Z"
+        },
+        {
+          "number": 5,
+          "state": "closed",
+          "title": "S005 — original-proof audit exposes p=7 error; frontier gate held",
+          "head": "05cc653a92ba8bb53e8ee4202fca73bea88c73e5",
+          "head_ref": "session/S005-remaining-proof-obligations",
+          "base": "6e10e9401c32e8a0f81ec7a1f1ea70f307d10d40",
+          "merge_commit_sha": "74709bdbb431416d62bc0b9e75119abc3e49d520",
+          "merged_at": "2026-10-11T14:27:12Z"
+        },
+        {
+          "number": 4,
+          "state": "closed",
+          "title": "S004 — primary proof audit; correct n=6 exact value and hold Phase 1",
+          "head": "69da4cd6cfcf5b771aa50fc75cbbd882f45d1c7b",
+          "head_ref": "session/S004-primary-proof-inputs",
+          "base": "d0ca11de8c6f513aaa47b8c78df27be4f78afe26",
+          "merge_commit_sha": "6e10e9401c32e8a0f81ec7a1f1ea70f307d10d40",
+          "merged_at": "2026-10-11T13:15:31Z"
+        },
+        {
+          "number": 3,
+          "state": "closed",
+          "title": "S003 — primary source-proof challenge; Phase-1 gate held",
+          "head": "e2c26f8c45a6702786196bc973fa94fe61b2807c",
+          "head_ref": "session/S003-source-proof-challenge",
+          "base": "9073b44fb1ea24f86c3ab69bf6a3cd8c7c45cf70",
+          "merge_commit_sha": "d0ca11de8c6f513aaa47b8c78df27be4f78afe26",
+          "merged_at": "2026-10-11T07:49:22Z"
+        },
+        {
+          "number": 2,
+          "state": "closed",
+          "title": "S002 — frontier verification, corrected ternary bounds, n=6 entry gate",
+          "head": "9387fbd552780ab01723e18e5dd2b6805b33146d",
+          "head_ref": "session/S002-frontier-verification",
+          "base": "9ff1aa34770ce23e87286ccba26cda7475448ba0",
+          "merge_commit_sha": "9073b44fb1ea24f86c3ab69bf6a3cd8c7c45cf70",
+          "merged_at": "2026-10-10T22:05:41Z"
+        },
+        {
+          "number": 1,
+          "state": "closed",
+          "title": "S001 — governance bootstrap and provisional Davenport frontier",
+          "head": "1a43fc022179c950138e29994b6ca6a7ab667ec9",
+          "head_ref": "session/S001-bootstrap-frontier",
+          "base": "412f0088aeffb823f1533f5d0809806a6b58afde",
+          "merge_commit_sha": "9ff1aa34770ce23e87286ccba26cda7475448ba0",
+          "merged_at": "2026-10-10T21:57:08Z"
+        }
+      ]
+    },
+    {
+      "endpoint": "branches?per_page=100",
+      "is_error": false,
+      "data": [
+        {
+          "name": "main",
+          "commit": {
+            "sha": "5fa1f4c645f4d9454341e17eb3ba104f75b44487",
+            "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/5fa1f4c645f4d9454341e17eb3ba104f75b44487"
+          },
+          "protected": false
+        },
+        {
+          "name": "session/S001-bootstrap-frontier",
+          "commit": {
+            "sha": "1a43fc022179c950138e29994b6ca6a7ab667ec9",
+            "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/1a43fc022179c950138e29994b6ca6a7ab667ec9"
+          },
+          "protected": false
+        },
+        {
+          "name": "session/S002-frontier-verification",
+          "commit": {
+            "sha": "9387fbd552780ab01723e18e5dd2b6805b33146d",
+            "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/9387fbd552780ab01723e18e5dd2b6805b33146d"
+          },
+          "protected": false
+        },
+        {
+          "name": "session/S003-source-proof-challenge",
+          "commit": {
+            "sha": "e2c26f8c45a6702786196bc973fa94fe61b2807c",
+            "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/e2c26f8c45a6702786196bc973fa94fe61b2807c"
+          },
+          "protected": false
+        },
+        {
+          "name": "session/S004-primary-proof-inputs",
+          "commit": {
+            "sha": "69da4cd6cfcf5b771aa50fc75cbbd882f45d1c7b",
+            "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/69da4cd6cfcf5b771aa50fc75cbbd882f45d1c7b"
+          },
+          "protected": false
+        },
+        {
+          "name": "session/S005-remaining-proof-obligations",
+          "commit": {
+            "sha": "05cc653a92ba8bb53e8ee4202fca73bea88c73e5",
+            "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/05cc653a92ba8bb53e8ee4202fca73bea88c73e5"
+          },
+          "protected": false
+        },
+        {
+          "name": "session/S006-coefficient-p7-provenance",
+          "commit": {
+            "sha": "93561bfb31dec0033452bdf2a9df0d82fb9d9768",
+            "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/93561bfb31dec0033452bdf2a9df0d82fb9d9768"
+          },
+          "protected": false
+        },
+        {
+          "name": "session/S007-source-proof-normalization",
+          "commit": {
+            "sha": "8b6f4241b048a9d45f730812601cb28f87159726",
+            "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/8b6f4241b048a9d45f730812601cb28f87159726"
+          },
+          "protected": false
+        },
+        {
+          "name": "session/S008-p7-classification-provenance",
+          "commit": {
+            "sha": "99f689cd01a652614db58dc75709321cf871c679",
+            "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/99f689cd01a652614db58dc75709321cf871c679"
+          },
+          "protected": false
+        },
+        {
+          "name": "session/S009-p7-eight-vector-source-audit",
+          "commit": {
+            "sha": "8ec9867c4170603c332f234868b43d0507479eb6",
+            "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/8ec9867c4170603c332f234868b43d0507479eb6"
+          },
+          "protected": false
+        },
+        {
+          "name": "session/S010-p7-mixed-line-original-gg-proof",
+          "commit": {
+            "sha": "7bc7940b4672af7f6bc62e59b97053c526be1490",
+            "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/7bc7940b4672af7f6bc62e59b97053c526be1490"
+          },
+          "protected": false
+        },
+        {
+          "name": "session/S011-p7-six-line-geometry-gg1999-audit",
+          "commit": {
+            "sha": "d7c91251712559df8ae70ac10b5d2b2902b2c21d",
+            "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/d7c91251712559df8ae70ac10b5d2b2902b2c21d"
+          },
+          "protected": false
+        },
+        {
+          "name": "session/S012-p7-lemma-original-dependencies",
+          "commit": {
+            "sha": "d6b9bc4a95ea6844dc9adfecc70f57f25726ca2b",
+            "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/d6b9bc4a95ea6844dc9adfecc70f57f25726ca2b"
+          },
+          "protected": false
+        },
+        {
+          "name": "session/S013-rank-two-original-prerequisites",
+          "commit": {
+            "sha": "f49050f2dddfff2d8bab62ae5e1fd8da504b9105",
+            "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/f49050f2dddfff2d8bab62ae5e1fd8da504b9105"
+          },
+          "protected": false
+        },
+        {
+          "name": "session/S014-reiher-strategic-three-support",
+          "commit": {
+            "sha": "d0186175defb0ec2191b170950c88cc9eedda264",
+            "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/d0186175defb0ec2191b170950c88cc9eedda264"
+          },
+          "protected": false
+        },
+        {
+          "name": "session/S015-reiher-collinear-proposition",
+          "commit": {
+            "sha": "1d24f60ffff8866551dd20fca2c8e098817cde10",
+            "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/1d24f60ffff8866551dd20fca2c8e098817cde10"
+          },
+          "protected": false
+        },
+        {
+          "name": "session/S016-reiher-trapezoid-proofs",
+          "commit": {
+            "sha": "bf5565393cd91083817e266559a6503498c2aed7",
+            "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/bf5565393cd91083817e266559a6503498c2aed7"
+          },
+          "protected": false
+        },
+        {
+          "name": "session/S017-reiher-proposition-8-1",
+          "commit": {
+            "sha": "27231d7f79a9fa9d3d6f6e21f5a063591d83a35a",
+            "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/27231d7f79a9fa9d3d6f6e21f5a063591d83a35a"
+          },
+          "protected": false
+        },
+        {
+          "name": "session/S018-reiher-section9-conic-lemma",
+          "commit": {
+            "sha": "1652bb3bdca28c2ba47b8f20030b783cc7fbef4c",
+            "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/1652bb3bdca28c2ba47b8f20030b783cc7fbef4c"
+          },
+          "protected": false
+        },
+        {
+          "name": "session/S019-reiher-section9-general-position",
+          "commit": {
+            "sha": "19d917c1ea8b789da8088ec80d088e8167cf5a1d",
+            "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/19d917c1ea8b789da8088ec80d088e8167cf5a1d"
+          },
+          "protected": false
+        },
+        {
+          "name": "session/S020-reiher-proposition-10-1",
+          "commit": {
+            "sha": "9e6d45bde9b651db8b71d5fa32916292ccbe115d",
+            "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/9e6d45bde9b651db8b71d5fa32916292ccbe115d"
+          },
+          "protected": false
+        },
+        {
+          "name": "session/S021-reiher-theorem-10-2",
+          "commit": {
+            "sha": "9e98ea2e6eae72c0ba90a0525ed270910263ff5e",
+            "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/9e98ea2e6eae72c0ba90a0525ed270910263ff5e"
+          },
+          "protected": false
+        },
+        {
+          "name": "session/S022-property-c-eta7",
+          "commit": {
+            "sha": "a8772a694634fa3f3655514c8e8677c20270aca3",
+            "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/a8772a694634fa3f3655514c8e8677c20270aca3"
+          },
+          "protected": false
+        },
+        {
+          "name": "session/S023-bsp-split-obstruction",
+          "commit": {
+            "sha": "d59503a362226d735bf8d6aab60d793edf4434e4",
+            "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/d59503a362226d735bf8d6aab60d793edf4434e4"
+          },
+          "protected": false
+        },
+        {
+          "name": "session/S024-bsp-p2-counterexample-recurrence",
+          "commit": {
+            "sha": "e33da067d68999ed166859509cbd0a80cb87f206",
+            "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/e33da067d68999ed166859509cbd0a80cb87f206"
+          },
+          "protected": false
+        },
+        {
+          "name": "session/S025-bsp-odd-prime-cw-audit",
+          "commit": {
+            "sha": "1363679caea45bc0fd0bcdd5b8475813dd1090a1",
+            "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/1363679caea45bc0fd0bcdd5b8475813dd1090a1"
+          },
+          "protected": false
+        },
+        {
+          "name": "session/S026-balanced-incidence-obstruction",
+          "commit": {
+            "sha": "63a58b834e44652db5948bd7d14001d4b4d0ddd5",
+            "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/63a58b834e44652db5948bd7d14001d4b4d0ddd5"
+          },
+          "protected": false
+        },
+        {
+          "name": "session/S027-four-block-incidence-rank-gate",
+          "commit": {
+            "sha": "269486e7f8bce58f028a55d1b064f93217f1ecb9",
+            "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/269486e7f8bce58f028a55d1b064f93217f1ecb9"
+          },
+          "protected": false
+        },
+        {
+          "name": "session/S028-six-cell-aggregate-incidence-countermodel",
+          "commit": {
+            "sha": "45297dd7c4b174b8128d0d430112f60affc9e87d",
+            "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/45297dd7c4b174b8128d0d430112f60affc9e87d"
+          },
+          "protected": false
+        }
+      ]
+    },
+    {
+      "endpoint": "rulesets",
+      "is_error": false,
+      "data": []
+    },
+    {
+      "endpoint": "branches/main/protection",
+      "is_error": true,
+      "data": {
+        "error": "GitHub API error 403: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/branches/branch-protection#get-branch-protection\",\"status\":\"403\"}",
+        "error_code": "FORBIDDEN",
+        "error_data": {
+          "message": "Resource not accessible by integration",
+          "documentation_url": "https://docs.github.com/rest/branches/branch-protection#get-branch-protection",
+          "status": "403"
+        }
+      }
+    },
+    {
+      "endpoint": "actions/workflows",
+      "is_error": true,
+      "data": {
+        "error": "HTTPError: 400: GitHub Fetch URL is not an allowed public GitHub repository or search endpoint. (Response: None)",
+        "error_code": "INVALID_ARGUMENT"
+      }
+    },
+    {
+      "endpoint": "actions/runs?per_page=100",
+      "is_error": false,
+      "data": {
+        "total_count": 0,
+        "workflow_runs": []
+      }
+    },
+    {
+      "endpoint": "git/commits/45297dd7c4b174b8128d0d430112f60affc9e87d",
+      "is_error": false,
+      "data": {
+        "sha": "45297dd7c4b174b8128d0d430112f60affc9e87d",
+        "node_id": "C_kwDOVENTIdoAKDQ1Mjk3ZGQ3YzRiMTc0YjgxMjhkMGQ0MzAxMTJmNjBhZmZjOWU4N2Q",
+        "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/git/commits/45297dd7c4b174b8128d0d430112f60affc9e87d",
+        "html_url": "https://github.com/jfairfaxball-348/Davenport-Counterexample-Hunt/commit/45297dd7c4b174b8128d0d430112f60affc9e87d",
+        "author": {
+          "name": "John Fairfax-Ball",
+          "email": "jfairfaxball@gmail.com",
+          "date": "2026-10-12T15:49:32Z"
+        },
+        "committer": {
+          "name": "John Fairfax-Ball",
+          "email": "jfairfaxball@gmail.com",
+          "date": "2026-10-12T15:49:32Z"
+        },
+        "tree": {
+          "sha": "a6ceb8dc68e4e94b8d8b9f563a86b548e07a9c72",
+          "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/git/trees/a6ceb8dc68e4e94b8d8b9f563a86b548e07a9c72"
+        },
+        "message": "S028: prove uniform six-cell aggregate incidence countermodel; stop before indexed lift",
+        "parents": [
+          {
+            "sha": "64e7cdee9b6acf97aafec51536042d67607a67a6",
+            "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/git/commits/64e7cdee9b6acf97aafec51536042d67607a67a6",
+            "html_url": "https://github.com/jfairfaxball-348/Davenport-Counterexample-Hunt/commit/64e7cdee9b6acf97aafec51536042d67607a67a6"
+          }
+        ],
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null,
+          "verified_at": null
+        }
+      }
+    },
+    {
+      "endpoint": "git/commits/5fa1f4c645f4d9454341e17eb3ba104f75b44487",
+      "is_error": false,
+      "data": {
+        "sha": "5fa1f4c645f4d9454341e17eb3ba104f75b44487",
+        "node_id": "C_kwDOVENTIdoAKDVmYTFmNGM2NDVmNGQ5NDU0MzQxZTE3ZWIzYmExMDRmNzViNDQ0ODc",
+        "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/git/commits/5fa1f4c645f4d9454341e17eb3ba104f75b44487",
+        "html_url": "https://github.com/jfairfaxball-348/Davenport-Counterexample-Hunt/commit/5fa1f4c645f4d9454341e17eb3ba104f75b44487",
+        "author": {
+          "name": "John Fairfax-Ball",
+          "email": "jfairfaxball@gmail.com",
+          "date": "2026-10-12T15:50:28Z"
+        },
+        "committer": {
+          "name": "GitHub",
+          "email": "noreply@github.com",
+          "date": "2026-10-12T15:50:28Z"
+        },
+        "tree": {
+          "sha": "a6ceb8dc68e4e94b8d8b9f563a86b548e07a9c72",
+          "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/git/trees/a6ceb8dc68e4e94b8d8b9f563a86b548e07a9c72"
+        },
+        "message": "Merge S028 six-cell aggregate incidence gate\n\nOne bounded Phase-1 hand proof: uniform six-cell aggregate countermodel only; no indexed zero-sumfree sequence or D1/Dk assertion. Strictly future S029, two-parent non-force merge.",
+        "parents": [
+          {
+            "sha": "64e7cdee9b6acf97aafec51536042d67607a67a6",
+            "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/git/commits/64e7cdee9b6acf97aafec51536042d67607a67a6",
+            "html_url": "https://github.com/jfairfaxball-348/Davenport-Counterexample-Hunt/commit/64e7cdee9b6acf97aafec51536042d67607a67a6"
+          },
+          {
+            "sha": "45297dd7c4b174b8128d0d430112f60affc9e87d",
+            "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/git/commits/45297dd7c4b174b8128d0d430112f60affc9e87d",
+            "html_url": "https://github.com/jfairfaxball-348/Davenport-Counterexample-Hunt/commit/45297dd7c4b174b8128d0d430112f60affc9e87d"
+          }
+        ],
+        "verification": {
+          "verified": true,
+          "reason": "valid",
+          "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqzQHFCRC1aQ7uu5UhlAAAk1MQABiPRS7s8mae0KCJ6By7X0Ru\nEEyd8IFM4AFfusoXJz0r89cZI+hLCTVDQAeWR0G/0pHp521Ee6PBoUgX8+jzTmM4\nVvh/cEEGuc3uzdgTgzosMkXBlATLKTM4tCPfPimsOShFp/jL8HxJ9zRqTwFVjdD3\nCMbzOGrqCbAxrHfrFadF33zEMoXfQJhAgl/887kCMdziVV9bN2Z4Xco0sb/G++Gp\nru7F+9GV9X6hnyesmlpnmab9OLI50Q7KVEVkq+wJ753N5PxFjFXWaMQ9PAIzVe9b\nmCdBITax6Hede86odA2zztKoSnOPdurNrNjSNCdM7PiQAx9c5AMtBnV/CQjdeqtn\n4+brGVlbKDHhdZvBbVXD9NClmcQwbhqM3CNcWK/kdQvWU+Y+sx9r2OHUawS5GgXW\nwFz4axLSe0iYVoP8Rtq+aysVoneJsChMclVDz6vAgMa90R01YhKBrq3Mj3waB/XX\nUxZ4//VCbpraEsJMtcn/OPKACyLkE3LT/wvVfi6NgYA/qqY+tj6PzWMhvhKOMwTb\nNQ+7B44gJpcLOcesdHVMTXAoYHjTTopIXrvKuCeWXiHnLVNLXiV0UUuf5Az1HHmX\n73iW+BlcZwhc6GsksJJ7w1vIZ2wSpTI0LvS8RVvQ+9lq19nVhYugDiYQxpQ79OyM\nJnOXugnyAnxBn3OcQs3K\n=sPSM\n-----END PGP SIGNATURE-----\n",
+          "payload": "tree a6ceb8dc68e4e94b8d8b9f563a86b548e07a9c72\nparent 64e7cdee9b6acf97aafec51536042d67607a67a6\nparent 45297dd7c4b174b8128d0d430112f60affc9e87d\nauthor John Fairfax-Ball <jfairfaxball@gmail.com> 1791820228 +0100\ncommitter GitHub <noreply@github.com> 1791820228 +0100\n\nMerge S028 six-cell aggregate incidence gate\n\nOne bounded Phase-1 hand proof: uniform six-cell aggregate countermodel only; no indexed zero-sumfree sequence or D1/Dk assertion. Strictly future S029, two-parent non-force merge.",
+          "verified_at": "2026-10-12T15:50:29Z"
+        }
+      }
+    },
+    {
+      "endpoint": "commits/5fa1f4c645f4d9454341e17eb3ba104f75b44487/check-runs",
+      "is_error": false,
+      "data": {
+        "total_count": 0,
+        "check_runs": []
+      }
+    },
+    {
+      "endpoint": "commits/5fa1f4c645f4d9454341e17eb3ba104f75b44487/status",
+      "is_error": false,
+      "data": {
+        "sha": "5fa1f4c645f4d9454341e17eb3ba104f75b44487",
+        "state": "pending",
+        "total_count": 0,
+        "statuses": []
+      }
+    },
+    {
+      "endpoint": "commits/45297dd7c4b174b8128d0d430112f60affc9e87d/check-runs",
+      "is_error": false,
+      "data": {
+        "total_count": 0,
+        "check_runs": []
+      }
+    },
+    {
+      "endpoint": "commits/45297dd7c4b174b8128d0d430112f60affc9e87d/status",
+      "is_error": false,
+      "data": {
+        "sha": "45297dd7c4b174b8128d0d430112f60affc9e87d",
+        "state": "pending",
+        "total_count": 0,
+        "statuses": []
+      }
+    }
+  ],
+  "workflow_files": 0,
+  "jobs": "No jobs because actions run collection total_count=0",
+  "hosted_ci_pass": false
+}

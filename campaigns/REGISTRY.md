@@ -123,3 +123,7 @@ CLM-0123 is a symbolic four-cut necessity only, NOT a new target, computed candi
 ## S028 — no campaign activated; aggregate model NOT a candidate
 
 CLM-0124 assigns only six formal cell cardinalities and six AGGREGATE group sums, not any individual indexed group-element sequence. It is not a mathematical candidate for zero-sumfreeness or a new campaign authorisation. CAM-0001 remains PROPOSED / NOT RUNNING with activation BLOCKED by historical SOURCE_STATED Schmid D(C6³)=16. No replacement target, mathematical computational search, solver/orbits, candidate, tooling, Lean or Palomar. Phase1 IN_PROGRESS; Phases2/3 NOT_STARTED; full original 30 D1 rows preserved.
+
+## S029 — no campaign or candidate
+
+The indexed m>=2p necessary-condition theorem does not construct or certify a sequence. CAM-0001 retains PROPOSED / NOT RUNNING with activation BLOCKED by SOURCE_STATED Schmid D(C6³)=16. No replacement target/campaign, mathematical computation/search, solver, author code, tooling, Lean or Palomar; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED.

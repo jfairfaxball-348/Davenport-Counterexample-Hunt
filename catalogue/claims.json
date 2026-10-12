@@ -1327,6 +1327,28 @@
         "SRC-0003"
       ],
       "notes": "New symbolic self-contained check of all {0,1} WHOLE-CELL subset sums, cardinalities and complementary signatures. The CLASSICAL Olson D1 in the motivating hypothetical remains SOURCE_STATED; aggregate cell sums are not individual indexed vectors. No numerical mathematical search or exhaustive machine enumeration, no D1/Dk or stronger source-claim upgrade."
+    },
+    {
+      "id": "CLM-0125",
+      "statement": "For prime p>=7, a=3(p-1)/2, b=(3p-1)/2, let Z be an indexed zero-sum 3p-sequence over F_p^3 with no nonempty zero sum of length <=a. If m counts ALL indexed b-zero-sum subsets and r_i counts those containing i, then 2r_i=m+s mod p, s=(-1)^b; m is a positive multiple of p and m>=2p. If m=2p, r_i is t or t+p, t=(p+s)/2, and exactly (3p-2-3s)/2 indices have degree t+p.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S029_INDEXED_CW_BLOCK_MULTIPLICITY.md",
+      "source_ids": [
+        "SRC-0021"
+      ],
+      "notes": "Self-contained local elementary polynomial-support proof adapting original CW method; no Olson D1 dependency. A conditional necessary condition, not existence, strong extraction, D1/D2 result or novelty claim. No mathematical computation/search."
+    },
+    {
+      "id": "CLM-0126",
+      "statement": "Under CLM-0125 hypotheses, every exactly-four indexed b-zero-sum family is impossible regardless of membership cells. Any no-short indexed lift of S028 aggregate six-cell data must create >=2p-4 additional b-zero-sum subsets that are not whole-cell unions (at p7 at least ten); nonexistence of arbitrary lifts with these extra partial-cell blocks is NOT proved.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S029_INDEXED_CW_BLOCK_MULTIPLICITY.md",
+      "source_ids": [
+        "SRC-0021"
+      ],
+      "notes": "Corollary of CLM-0125 and CLM-0124 whole-cell uniqueness. Eliminates exact-four premise, not arbitrary lift; larger indexed families m>=2p remain first essential gap. No D1/Dk endpoint update or symbolic candidate."
     }
   ]
 }

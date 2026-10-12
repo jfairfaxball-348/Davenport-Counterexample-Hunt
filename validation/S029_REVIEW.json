@@ -1,0 +1,14 @@
+{
+  "session": "S029",
+  "claims": [
+    "CLM-0125",
+    "CLM-0126"
+  ],
+  "review": "Separate logical reconstruction by session executor; no external reviewer",
+  "result": "HAND_PROOF_REVIEWED_NOT_FORMALLY_CERTIFIED",
+  "exactly_four_indexed_case": "IMPOSSIBLE",
+  "arbitrary_no_short_lift": "UNRESOLVED",
+  "D2_and_strong_extraction": "UNPROVED",
+  "frontier_original_rows_preserved": 30,
+  "hosted_ci_pass": false
+}

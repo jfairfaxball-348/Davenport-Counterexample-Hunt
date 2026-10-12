@@ -1,0 +1,11 @@
+{
+  "session": "S029",
+  "canonical_source": "authoritative/NEXT_SESSION_PROMPT.md@5fa1f4c645f4d9454341e17eb3ba104f75b44487",
+  "canonical_git_blob_sha": "223cebbddefdbe9ef6d3fafc50da0569ae1f0b38",
+  "canonical_archived_verbatim": true,
+  "archived_input_sha256": "be6261b8eb25f48c12a0a46cd56e83e3f88e30c8d666c1da99dd4e5dfc9cf244",
+  "owner_invocation": "separate message text transcribed in OWNER_INVOCATION.md",
+  "raw_chat_sha256": null,
+  "reason_no_raw_digest": "Raw chat wire bytes inaccessible; archived-input hash covers only repository prompt bytes.",
+  "new_session_authorized": true
+}
