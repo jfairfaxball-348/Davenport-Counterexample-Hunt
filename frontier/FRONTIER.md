@@ -1,4 +1,6 @@
-# Frontier after S028
+# Frontier after S029
+
+S029 CLM-0125/0126: elementary indexed Chevalley–Warning deletion counts force the complete number m of balanced b-zero-sum blocks to be a positive multiple of p and m>=2p, with 2r_i=m+(-1)^b mod p. At m=2p there is an exact two-degree census. Therefore EVERY exactly-four indexed family is impossible, independently of signature count. An arbitrary S028 no-short six-cell lift is NOT ruled out: it must create at least 2p-4 additional partial-cell b-blocks. First essential gap is m>=2p indexed families. Strong extraction and D2<=6p-6 remain UNPROVED; no rank-three D1/Dk numerical update, no novelty claim. Older numbered summaries below are historical; the complete original table is unchanged.
 
 # S027 adds CLM-0123: if exactly FOUR balanced b-blocks, there must be at least SIX occupied 4-bit incidence signatures; six+ remains unresolved, NOT a proof of strong extraction or new D1/Dk. Thirty original numeric/source/status/evidence rows unchanged.
 
@@ -169,3 +171,7 @@ Compared **each** row n=1..30 between frontier/frontier.json and this Markdown t
 ## S028 — aggregate six-class model does not change ANY n1..30 D1 row
 
 Independently re-compared 30 original JSON row objects with ALL 30 Markdown table rows for n, group, D*, numeric bound, provisional status and full ORDERED evidence list: **30/30 identical, zero mismatches**; no original row field was changed. 25 settled/trivial historical and n15 43..45, n20 58..59, n21 61..63, n28 82..83, n30 88..90 unchanged. CLM-0124 is a symbolic whole-cell AGGREGATE incidence consistency theorem for prime p>=7, NOT an indexed sequence or new classic D1 or Dk result, nor a novelty claim. Schmid n6=16, van Emde Boas historical exact 2p^a/3*2^a and Yiu remain SOURCE_STATED. CAM-0001 remains blocked by n6=16; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED; no authenticated latest exact interval result, no openness inference and NO hosted CI PASS.
+
+## S029 — all thirty original row objects/table rows conserved
+
+CLM-0125/0126 affects conditional local indexed block counts only, not any D1 endpoint. Preserve all 30 original n/group/D*/bounds/status/ordered-evidence entries, 25 historical exact/trivial and five intervals n15 43..45,n20 58..59,n21 61..63,n28 82..83,n30 88..90. SOURCE_STATED historical Schmid n6=16 and van Emde Boas/Yiu distinctions retained. Bounded source queries did not authenticate a new exact statement, never current openness. CAM-0001 blocked, Phase1 IN_PROGRESS; absent hosted CI is NOT PASS.

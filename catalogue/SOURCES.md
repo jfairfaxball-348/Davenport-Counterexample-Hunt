@@ -370,3 +370,17 @@ Bhowmik--Schlage-Puchta publisher original offprint SRC-0021 pp22–24 re-inspec
 ## S028 read-only original provenance; NO source access class promotion
 
 **SRC-0021** publisher definitive original BSP2012 pp22–24 (PDF p2 text and screenshot) re-inspected; Lem2.1 weak 3p split and omitted rank-three Lem2.3 proof do not authenticate the stronger p>=7 coefficient. Classical Olson rank3 D1 **SRC-0003** full original proof not reconstructed, remains SOURCE_STATED. **SRC-0013/SRC-0020** original Royal Holloway Sheikh 137-page Chapter4/Remark4.3.11 link inaccessible in fresh fetch (earlier HTTP403), not read. **SRC-0024** GHST author C53 complete code AND output inaccessible, NEVER RUN. **SRC-0015** Yiu original v1 HTML accessible, independent terminal M1 triple-disjoint program/log/certificates not authenticated (98622/230983 are generation counts; M2/M3 different). Bounded primary exact-theorem queries for n15,20,21,28,30 authenticated no new exact original statement; nondiscovery is not present-day openness. All source access enums unchanged. New CLM-0124 is internal abstract incidence mathematics, NOT a result claimed by the historical source.
+
+## S029 — direct observations, no access-class upgrades
+
+**SRC-0021** S029: original definitive offprint printed pp22–24 rechecked, including p23 image. Internal three-group-polynomial all-support deletion proof CLM-0125/0126 is not attributed to source; stronger printed split and omitted rank3 Lem2.3 remain unproved.
+
+**SRC-0013** S029 fresh full original Royal Holloway PDF request returned tool internal error, not a freshly observed HTTP403; Chapter4/Remark4.3.11 unread. Earlier403 remains historical.
+
+**SRC-0020** S029 fresh full original Royal Holloway PDF request returned tool internal error; no new full-proof inspection or access-enum upgrade.
+
+**SRC-0024** S029 original author C53 code/output endpoint request returned tool internal error; full code and output uninspected, NEVER RUN.
+
+**SRC-0015** S029 original v1 Section2.3 read-only rechecked: 98622/230983 repeated generators do not authenticate independent terminal M1 three-disjoint test, M2/M3 are distinct. No code run/log/certificate authenticated.
+
+Bounded original exact-value queries for all five intervals n15/20/21/28/30 were empty or irrelevant; no original exact upgrade authenticated and no current-openness inference. Classical SRC-0003 Olson D1 remains SOURCE_STATED, but the new local deletion proof does not need it.

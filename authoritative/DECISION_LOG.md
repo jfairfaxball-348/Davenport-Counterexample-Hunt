@@ -114,3 +114,7 @@ See research/S017_REIHER_PROPOSITION_8_1.md. Next S018 original Obs9.1/Lem9.2 is
 
 | 2026-10-12 | S028 CLM-0124 proves all-p>=7 SIX-CELL aggregate incidence consistency: exactly 4 b zero whole-cell unions, their b+1 complements, pair-cover and all triple-cut witnesses | [S028 hand proof](../research/S028_SIX_CELL_AGGREGATE_COUNTERMODEL.md) | PROGRAMME_PROVED ABSTRACT RELAXATION ONLY; indexed-lift essential STOP; no strong extraction or D1/Dk update |
 | 2026-10-12 | No source-enum promotion, D1 frontier update or activation of blocked n6 CAM-0001; S029 only future on separate invocation | S028 30/30 mirrors, original-source and admin reviews | Phase1 IN_PROGRESS; Phases2/3 NOT_STARTED; hosted CI absent NOT PASS |
+
+| 2026-10-12 | S029 complete indexed deletion-polynomial congruences and double count force p divides m, m>=2p; minimal family degree census | CLM-0125 elementary self-contained proof | PROGRAMME_PROVED NECESSARY CONDITION ONLY |
+| 2026-10-12 | Exclude ALL exactly-four indexed families, preserve S028 abstract aggregate proof, require >=2p-4 extra partial-cell blocks for any no-short lift | CLM-0126; research/S029_INDEXED_CW_BLOCK_MULTIPLICITY.md | STOP at arbitrary m>=2p indexed case; strong extraction/D2 unproved |
+| 2026-10-12 | 30 original frontier rows/source access enums conserved, Phase1 IN_PROGRESS, CAM-0001 BLOCKED; future S030 only | S029 admin/adversarial/source review | No mathematical search or hosted CI PASS |
