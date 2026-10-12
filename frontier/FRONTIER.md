@@ -1,4 +1,4 @@
-# Frontier after S015
+# Frontier after S016
 
 S013 CLM-0089–0093 hand-prove rank-two p/2p extraction, D(Cp²)=2p−1, eta<=3p−2/long-zero short block, original Lem10.6 and the full B=>C implication CONDITIONAL on Property B. Complete S012 p7 Lem5.2 preserved. FIRST unconditional prerequisite is Reiher Property B through unrebuilt strategic-equation/geometric chain; stronger coefficient unproved. Phase1 IN_PROGRESS; Phases2/3 NOT_STARTED; CAM-0001 PROPOSED / NOT RUNNING activation BLOCKED by published n6=16. All 30 numeric rows unchanged; no openness inference. Zero hosted CI, NOT PASS.
 
@@ -114,3 +114,7 @@ All 30 numeric/evidence rows unchanged. Five intervals n15:43..45,n20:58..59,n21
 ## S015 complete thirty-row numerical/source mirror audit
 
 S015 CLM-0098–0100 independently hand-prove Reiher original Lemma 3.1, Proposition 3.3 and Proposition 5.1: a cloudy sequence with three distinct collinear points is simple, including p=5. The next separate original proof package is Lemma6.1/Prop6.2, then Prop8.1/Section9/Prop10.1. Universal Property B, unconditional C and eta(C7³)≤116 remain unproved in programme. All thirty rank-three numerical frontier rows and evidence classes unchanged; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 PROPOSED / NOT RUNNING, activation BLOCKED by published n6=16; zero hosted CI is NOT PASS. Reviewed both thirty-row mirrors and original source scopes for Schmid2011 n6=16, historic van Emde Boas II/III exact 2p^a and 3·2^a rank-three families; SOURCE_STATED not an independent proof of those historical inputs. Conditional intervals remain n15 43..45,n20 58..59,n21 61..63,n28 82..83,n30 88..90. Targeted primary exact-value queries yielded no newly authenticated exact result in bounded pass; NONDISCOVERY is never present-day OPENNESS.
+
+## S016 complete n1..30 mirror audit — 2026-10-12
+
+S016 closes only original Reiher Lem6.1 and Prop6.2 (CLM-0101/0102, including p5), not universal Property B, unconditional C or rank-three Davenport conjecture. Next independent original input is Prop8.1, Section9/Prop10.1 later. Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 PROPOSED/NOT RUNNING BLOCKED by source-stated n6=16. Thirty numeric/evidence rows unchanged; zero hosted CI is NOT PASS. Both mirrors show 25 exact/trivial historical/source rows and five CONDITIONAL intervals n15 43..45, n20 58..59, n21 61..63, n28 82..83, n30 88..90. Schmid2011 n6=16 and original van Emde Boas II/III rank-three exact 2p^a and 3·2^a families retain SOURCE_STATED, not full independently checked original proofs. Inherited14/17,+5,orbits43/699/5553 quarantined. No found newer exact original update is not current-openness evidence.

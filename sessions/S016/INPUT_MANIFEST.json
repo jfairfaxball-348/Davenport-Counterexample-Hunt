@@ -1,0 +1,8 @@
+{
+  "session": "S016",
+  "incoming_committed_handoff_blob": "47a2323f2052f70e26c1fdcfae355279fa0e9f2c",
+  "incoming_git_bytes": 6162,
+  "incoming_byte_identical": true,
+  "owner_invocation": "Separately newly owner-invoked S016; matched transcription stored in OWNER_INVOCATION.md. Raw chat transport is unavailable, no invented transport hash.",
+  "raw_chat_transport_hash_claimed": false
+}

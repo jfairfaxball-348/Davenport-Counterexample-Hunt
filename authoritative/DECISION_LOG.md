@@ -68,3 +68,6 @@ S013 CLM-0089–0093 hand-prove rank-two p/2p extraction, D(Cp²)=2p−1, eta<=3
 
 | 2026-10-11 | S015 independently hand-proved original Reiher Lem3.1, Prop3.3 and collinear Prop5.1 including p=5 | CLM-0098–0100, SRC-0025, research/S015_REIHER_COLLINEAR_PROOF.md | PROGRAMME_PROVED only stated local propositions; next Lem6.1/Prop6.2 |
 | 2026-10-11 | S015 official Sheikh403, C53 inaccessible and Yiu final M1 artifacts not authenticated; thirty numeric rows unchanged | SRC-0013/0020/0024/0015, both frontier mirrors | ACCESS LIMITED, NOT absence/openness proof; Phase1 IN_PROGRESS |
+
+| 2026-10-12 | S016 independently reconstructs exact original Reiher Lemma6.1 and Proposition6.2 including p5 and full symbolic cancellation, stops before Prop8.1 | SRC-0025 original printed pp14–15; CLM-0101–0102 | PROGRAMME_PROVED strictly Section6, Phase1 IN_PROGRESS |
+| 2026-10-12 | Retain all 30 rank-three values/evidence classes, historical n6=16 and exact 2p^a/3·2^a source status; CAM-0001 remains blocked | Both frontier mirrors, old Schmid and van Emde Boas source evidence | NO campaign, search, candidate, CI PASS or present-day openness inference; S017 future only |

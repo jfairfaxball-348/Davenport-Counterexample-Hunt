@@ -820,3 +820,23 @@ Category: SOURCE_AUDIT. Origin: research/S015_REIHER_COLLINEAR_PROOF.md. Sources
 S014 Prop4.1, Cor2.5, Obs2.6; trilinearity, Vandermonde factor, Z=A+B+C and [Y,Z] nonzero, 3<p exceptional positions; NOT universal Property B.
 
 Old CLM-0001–0097 are unchanged, including historical CLM-0082 SOURCE_STATED. Universal Property B/C and eta7 remain not independently programme-proved.
+
+## S016 independent original Section 6 claims
+
+## CLM-0101 — PROGRAMME_PROVED
+
+Original Reiher Lemma6.1 independently hand-proved: every cloudy sequence with 0 and three nonzero trapezoid vertices not forming a parallelogram is simple; exact determinant k(r³−r) and exceptional 3<p indexed auxiliary lift, including p=5.
+
+Category: SOURCE_AUDIT. Origin: research/S016_REIHER_TRAPEZOID_PROOF.md. Sources: SRC-0025.
+
+No hidden divisor, exact original/residual position count and previously proved Prop3.3/Obs2.6; p2/3 separately.
+
+## CLM-0102 — PROGRAMME_PROVED
+
+Original Reiher Proposition6.2 independently hand-proved for every prime: all cloudy origin-trapezoid triples are simple using exact four conditional deletion equations, fifth strategic equation, multipliers giving −2(r−1)(s−1)=0 and precise collinear Prop5.1.
+
+Category: SOURCE_AUDIT. Origin: research/S016_REIHER_TRAPEZOID_PROOF.md. Sources: SRC-0025.
+
+Exact cancellation of all four µ unknowns and p5; no full universal Property B/prime Property C/rank-three result.
+
+All previous CLM-0001–0100 fields remain unchanged; historical CLM-0082 stays SOURCE_STATED. No full Property B/C or rank-three proof.

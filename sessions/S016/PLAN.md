@@ -1,0 +1,3 @@
+# S016 original-source proof preregistration — 2026-10-12
+
+Exactly ONE bounded Phase1 original Reiher Section6 proof pass: first Lem6.1 nonparallelogram trapezoid, then Proposition6.2 all origin-trapezoid triples with original indexed deletions, strategic coefficients, precise Prop3.3/Prop5.1 premises, p5. STOP on first essential unclosed input or after complete Prop6.2. Read-only primary provenance Sheikh/GHST/Yiu and BOTH n1..30 mirrors only. No Prop8.1, Section9, Proposition10.1, universal Property B, mathematical numerical/computational search/CAS/SAT/ILP/orbit enumeration, author code, Lean, campaign, candidate, manuscript or publication. Preserve all old claims and rank-three statuses.

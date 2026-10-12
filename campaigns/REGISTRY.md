@@ -69,3 +69,7 @@ No replacement search/tool/campaign. Published n6=16 blocks inherited CAM-0001; 
 ### S015 — PROPOSED / NOT RUNNING, ACTIVATION BLOCKED
 
 Original rank-two Reiher CLM-0098–0100 does not change published Schmid2011 n6=16; CAM-0001 length-16 zero-sumfree premise remains obsolete. No activation, replacement campaign, target, mathematical computation, tooling, candidate or certificate; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED.
+
+### S016 — CAM-0001 remains PROPOSED / NOT RUNNING, ACTIVATION BLOCKED
+
+Independent rank-two Reiher Section6 CLM-0101/0102 do not change published source-stated Schmid2011 D(C6³)=16. Historical length-16 zero-sumfree CAM-0001 premise remains obsolete. No replacement campaign/target, Phase2/3, mathematical numerical computation/search, candidate, solver, code, Lean or certificate. Phase1 IN_PROGRESS.
