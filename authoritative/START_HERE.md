@@ -96,3 +96,7 @@ S031 CLM-0129 proves exact pair-sum Psi moment: for distinct i,j, sum_{k distinc
 ## S032 — exact projective fibres and a coarse-bound no-go
 
 CLM-0132 identifies light-hyperplane zero fibres generating three-deletion Psi support and exceptional-pair incidence. CLM-0133 gives projective deficit and pair moments. CLM-0134 proves raw union upper-budget U>=p²+10p-8 so U cannot contradict S031's lower B (p7 111>24). m2p and all m>=3p unresolved. Full [S032 proof](../research/S032_PROJECTIVE_LIGHT_HYPERPLANE_NO_GO.md); no frontier numeric, source enum, Phase1, campaign or CI upgrade.
+
+## S033 — 2026-10-12
+
+**CLM-0136** unconditional star moment sum_{j<k,j,k!=i}Psi_ijk=-1/8 modp for every i; global triple sum vanishes. **CLM-0135** improved m2p support (p7 >=37) only under an EXTRA, UNPROVED pair-positivity premise P. S030 proves pair contained **or** avoided, not positive lambda for all pairs: invalid attempted unconditional deduction caught by adversarial review. Unconditional p7 >=24 remains (S031). m2p and m>=3p not excluded, no strong p>=7 extraction or D2 saving. Original30 frontier rows/source enums preserved, Phase1 IN_PROGRESS, CAM-0001 blocked; no hosted CI PASS. [S033 full proof](../research/S033_CONDITIONAL_DEFECT_AND_PSI_STAR.md). S034 only future.

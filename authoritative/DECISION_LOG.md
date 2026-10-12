@@ -130,3 +130,7 @@ See research/S017_REIHER_PROPOSITION_8_1.md. Next S018 original Obs9.1/Lem9.2 is
 | 2026-10-12 | S032 exact light projective zero-fibre triple Psi support and pair-cover capacity, projective point/line incidence deficit plus exact pair moment | CLM-0132/0133, internally reconstructed | PROGRAMME_PROVED scoped necessary conditions |
 | 2026-10-12 | Raw union capacity U>=p²+10p-8 cannot contradict S031 lower (p7 111>24) | CLM-0134 exact algebra and p7 hand substitution | NO-GO for raw counting only; m2p unexcluded |
 | 2026-10-12 | All original30 D1 frontier JSON/Markdown rows, source enums and campaign status preserved; S033 future only | S032 admin/source review | Phase1 IN_PROGRESS; NO D1/Dk theorem, candidate or hosted CI PASS |
+
+| 2026-10-12 | S033 exact Psi star sum = -1/8 for every original index and zero global triple sum | CLM-0136, complete internal hand derivation | PROGRAMME_PROVED scoped; no m2p exclusion |
+| 2026-10-12 | Refinement m2p p7 >=37 Psi support REQUIRES unproved all-pairs-positive codegree P; S030 pair-cover has OR rather than AND | CLM-0135 conditional proof and S033 adversarial falsification of logical implication | NO unconditional upgrade; p7>=24 retained |
+| 2026-10-12 | Preserve full 30 original frontier rows, source access enums, blocked campaign and Phase1 status; S034 FUTURE ONLY | S033 source/admin audit | No D1/Dk resolution, candidate, external proof review, or hosted CI PASS |

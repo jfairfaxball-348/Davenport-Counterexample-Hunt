@@ -1437,6 +1437,28 @@
         "SRC-0021"
       ],
       "notes": "Use Q2=3-3Q0-2Q1+E, Q3=q-Q0-Q1-Q2-H and E>=H, all remaining U terms nonnegative. Scoped no-go, no D1 or Dk theorem."
+    },
+    {
+      "id": "CLM-0135",
+      "statement": "If additionally every pair of original indices lies together in some b-zero-sum block (positivity P: lambda_ij>=1), then under m=2p every low index has >=e=ceil((b+1)t/(t-1)) exceptional partners. For s=+1 each high index has >=3 exceptional low partners; nonzero Psi triple support >=ceil((Le+3H)/6), or ceil(Le/6) for s=-1. At p7 conditional support >=37. S030's disjunctive pair cover DOES NOT establish P, so this is not an unconditional improvement.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S033_CONDITIONAL_DEFECT_AND_PSI_STAR.md",
+      "source_ids": [
+        "SRC-0021"
+      ],
+      "notes": "Exactly stated conditional theorem, with unproved extra P flagged. The unconditional sharpening initially considered is WITHDRAWN because S030 pair-cover says both OR neither. p7 37 conditional, original unconditional 24 retained."
+    },
+    {
+      "id": "CLM-0136",
+      "statement": "For every index i in a hypothetical no-short zero-sum indexed Z length 3p, sum_{unordered j<k; j,k!=i} Psi_ijk=-1/8 modp; every index lies in a nonzero Psi triple, and the global sum of Psi over unordered triples is 0 modp. This is unconditional relative to the standing Z hypotheses and does not eliminate m2p.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S033_CONDITIONAL_DEFECT_AND_PSI_STAR.md",
+      "source_ids": [
+        "SRC-0021"
+      ],
+      "notes": "S031 pair-sum plus S029 degree congruence, exact sum of pair codegrees through an index. Internal proof only; star -1/8 nonzero for p>=7, global sum=0."
     }
   ]
 }

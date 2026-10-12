@@ -139,3 +139,7 @@ CLM-0129/0130/0131 are internal symbolic necessary conditions on a hypothetical 
 ## S032 — no campaign or candidate
 
 CLM-0132/0133/0134 are conditional symbolic necessary conditions and coarse counting NO-GO, not a zero-sumfree vector assignment or a new rank3 D1 theorem. CAM-0001 remains PROPOSED / NOT RUNNING, activation BLOCKED by historical SOURCE_STATED Schmid n6=16; no replacement campaign, numerical mathematical search, SAT/ILP, orbit enumeration, author code execution, Lean or Palomar. Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED; all original30 frontier row objects and Markdown rows unchanged; no hosted CI PASS.
+
+## S033 — no campaign activation
+
+Conditional CLM-0135 requires unproved pair-positivity; unconditional CLM-0136 is an exact Psi star identity, not a zero-sumfree sequence or D1/Dk advance. CAM-0001 stays PROPOSED / NOT RUNNING / BLOCKED by original SOURCE_STATED Schmid n6=16. No new target, tooling, author code, search, candidate, Phase2/3, Lean, Palomar or certificate. Original 30 frontier rows preserved; no hosted CI PASS.
