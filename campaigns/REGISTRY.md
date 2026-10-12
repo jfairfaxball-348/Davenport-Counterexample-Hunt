@@ -83,3 +83,7 @@ S017 independently reconstructs ONLY original Reiher Proposition8.1, CLM-0103: b
 S018 independently reconstructs ONLY original Reiher Observation9.1 and Lemma9.2 over arbitrary K, char(K) != 2 (CLM-0104/0105), with dependent-X,Y basis case, exact conic equations, fourteen-sum collisions, all 4-of-7 pair line subcases, all 6-of-7 proper conic relabellings and verified printed typo Observation10.1 -> Observation9.1. STOP at Lem9.2: Section9 quartic/Obs9.4/9.5/Lem9.6 and Prop10.1 remain unproved; no universal Property B, unconditional Property C, eta(C7^3)<=116 or rank-three theorem. Thirty frontier values/evidence classes unchanged; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 PROPOSED / NOT RUNNING, activation BLOCKED by published n6=16. Zero hosted CI is NOT PASS.
 
 No replacement campaign, target, solver, candidate, source-code execution or certificate.
+
+### S019 — CAM-0001 remains PROPOSED / NOT RUNNING, activation BLOCKED
+
+Published Schmid2011 source-stated D(C6³)=16 makes its inherited length16 zero-sumfree campaign obsolete. Original Reiher rank-two geometry CLM-0106–0108 cannot reactivate it. No Phase2/3, replacement campaign, new target, search, candidate, certificate or numerical mathematical computation.

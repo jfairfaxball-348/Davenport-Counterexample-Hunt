@@ -69,3 +69,7 @@ S012 closeout: [complete record and FUTURE UNEXECUTED S013 handoff](../sessions/
 | S018 | 2026-10-12 | Original Reiher Obs9.1/Lem9.2 symbolic source reconstruction; provenance and all n1..30 audit | CLM-0104/0105 only; Phase1 IN_PROGRESS; Phases2/3 NOT_STARTED; CAM-0001 BLOCKED | session/S018-reiher-section9-conic-lemma |
 
 [S018 proof, closeout and full FUTURE UNEXECUTED S019 handoff](../sessions/S018/CLOSEOUT.md).
+
+| S019 | 2026-10-12 | One primary-source original Reiher Obs9.4/9.5/Lem9.6 symbolic hand proof, provenance and n1..30 audit | CLM-0106–0108 only; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 blocked | session/S019-reiher-section9-general-position |
+
+[S019 full proof and CLOSEOUT; strictly future S020 handoff](../sessions/S019/CLOSEOUT.md).

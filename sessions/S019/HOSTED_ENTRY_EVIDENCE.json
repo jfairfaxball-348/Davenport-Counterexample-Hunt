@@ -1,0 +1,18 @@
+{
+  "session": "S019",
+  "entry_main": "9cfe4ef86c1d7408f56dce65aa62eee2c0f711fc",
+  "branches_count": 19,
+  "all18_prs_merged": true,
+  "open_prs": 0,
+  "rulesets": [],
+  "main_branch_protected_summary": false,
+  "standalone_protection_api": "HTTP403 inaccessible",
+  "workflow_directory_files": 0,
+  "workflow_listing_endpoint": "HTTP400 unsupported connector endpoint",
+  "actions_runs_total_count": 0,
+  "hosted_jobs": "No runs, cannot claim separately inspected hosted job records",
+  "check_runs_total_count": 0,
+  "commit_status_contexts": 0,
+  "combined_commit_status": "pending",
+  "ci_pass": false
+}

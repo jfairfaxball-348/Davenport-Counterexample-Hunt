@@ -25,3 +25,9 @@ See research/S017_REIHER_PROPOSITION_8_1.md. Next S018 original Obs9.1/Lem9.2 is
 S018 independently reconstructs ONLY original Reiher Observation9.1 and Lemma9.2 over arbitrary K, char(K) != 2 (CLM-0104/0105), with dependent-X,Y basis case, exact conic equations, fourteen-sum collisions, all 4-of-7 pair line subcases, all 6-of-7 proper conic relabellings and verified printed typo Observation10.1 -> Observation9.1. STOP at Lem9.2: Section9 quartic/Obs9.4/9.5/Lem9.6 and Prop10.1 remain unproved; no universal Property B, unconditional Property C, eta(C7^3)<=116 or rank-three theorem. Thirty frontier values/evidence classes unchanged; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 PROPOSED / NOT RUNNING, activation BLOCKED by published n6=16. Zero hosted CI is NOT PASS.
 
 See research/S018_REIHER_SECTION9_CONIC_LEMMA.md. S019 is FUTURE UNEXECUTED on new invocation only.
+
+## S019 — 2026-10-12
+
+S019 independently hand-proves ONLY Reiher's original Observation9.4, Observation9.5 and Lemma9.6 over fields of characteristic !=2 (CLM-0106–0108), with n>=5 conic dimension, quadratic-surface rank and fourteen-sum Veronese geometry. Proposition10.1/universal Property B, unconditional Property C, eta(C7³)<=116 and rank-three Davenport conjecture remain unproved. All 30 numerical/status/evidence frontier rows unchanged; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 PROPOSED / NOT RUNNING and BLOCKED by source-stated n6=16. No hosted CI PASS.
+
+See research/S019_REIHER_SECTION9_GENERAL_POSITION.md. S020 Prop10.1 strictly FUTURE UNEXECUTED.

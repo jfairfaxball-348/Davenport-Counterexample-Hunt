@@ -112,3 +112,7 @@ Printed η=−1 and η=1 multipliers both cancel correctly; no new printed defec
 ## S018 — original Section9 geometric shortcuts
 
 Original Observation9.1 basis normalization silently presupposes X,Y independent; if dependent, conclusion is immediate; if independent, exact equations give 2ar=2cs=0 in characteristic !=2. Lemma9.2 printed final 'Observation10.1' is an internal mistaken reference to **Observation9.1**, NOT later Proposition10.1. The relabelling of six chosen paired sums requires distinguishing omitted singleton type from omitted 2+2 split type. Both are now proved. Neither historical source access failures nor five interval searches certify negative/openness claims.
+
+## S019 — source rendering and geometric dimension controls
+
+Original PDF IMAGE says n>=5 and m>=3 in Obs9.4, while extracted text misleadingly says n>5 and m>3. Essential n=5 application independently proved. Obs9.5 dimension intersections, forbidden 5-plane/3-line and terminal permutation reconstructed with explicit nonzero factors. Lem9.6 printed 10.4/10.2(g) really original 9.4/9.2(g); Q_i distinct and proper-conic coefficient checked. No general Property B. S019 official Sheikh403, original C53 inaccessible, final Yiu M1 independently unauthenticated. No fresh Reiher binary due DNS; zero hosted checks NOT CI PASS. S020 NOT RUN.

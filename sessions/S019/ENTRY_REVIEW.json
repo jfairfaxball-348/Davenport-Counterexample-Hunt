@@ -1,0 +1,30 @@
+{
+  "session": "S019",
+  "entry_main": "9cfe4ef86c1d7408f56dce65aa62eee2c0f711fc",
+  "entry_tree": "bd950f5a41d3292a7e41ac0c0273e6d9e05938eb",
+  "previous_s018_branch_commit": "1652bb3bdca28c2ba47b8f20030b783cc7fbef4c",
+  "previous_s018_branch_sole_parent": "3d8847528f6844029d732d9a0e0cb62880bc5f0e",
+  "previous_s018_tree": "bd950f5a41d3292a7e41ac0c0273e6d9e05938eb",
+  "previous_PR": 18,
+  "previous_merge_parents": [
+    "3d8847528f6844029d732d9a0e0cb62880bc5f0e",
+    "1652bb3bdca28c2ba47b8f20030b783cc7fbef4c"
+  ],
+  "previous_merge_tree": "bd950f5a41d3292a7e41ac0c0273e6d9e05938eb",
+  "all18_prs_merged": true,
+  "open_prs": 0,
+  "competing_s019_branches": 0,
+  "competing_s019_records": 0,
+  "intervening_changes": [],
+  "reachable_rulesets": [],
+  "main_protected_summary": false,
+  "branch_protection": "HTTP403 Resource not accessible by integration",
+  "workflow_files": 0,
+  "workflow_listing": "HTTP400 URL unsupported by connector, cannot prove zero",
+  "hosted_runs": 0,
+  "hosted_jobs": "No hosted runs to enumerate; no independent jobs API query",
+  "check_runs": 0,
+  "status_contexts": 0,
+  "combined_status": "pending with zero contexts",
+  "hosted_ci_pass": false
+}
