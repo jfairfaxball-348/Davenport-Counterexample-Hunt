@@ -1,0 +1,9 @@
+{
+  "session": "S017",
+  "committed_handoff_bytes": 6709,
+  "committed_handoff_sha256": "cd8d8f46ffb0ce1e11e977d798b3d4d61150a98d6948213480d4e73707e103b4",
+  "incoming_committed_handoff_blob": "5aa408c521787d995bc435444ca54d6c0446f51b",
+  "incoming_byte_identical": true,
+  "owner_invocation": "Fresh owner S017 message separately transcribed in OWNER_INVOCATION.md; later Continue resumes S017. Raw chat transport bytes unavailable; no raw transport hash claimed.",
+  "raw_chat_transport_hash_claimed": false
+}

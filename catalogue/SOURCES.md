@@ -305,3 +305,17 @@ SRC-0025 original Reiher2010 PDF printed pp7–9 and 13–14 read directly. Inde
 ### S016 original-primary-source/provenance audit — 2026-10-12
 
 SRC-0025 original 29-page Reiher2010 PDF printed pp14–15 directly inspected as page images and text. Only Lem6.1 and Prop6.2 independently proved CLM-0101/0102; original Theorem10.2 and remaining Prop8.1/Section9/Prop10.1 not independently closed. Historical S013 SHA256 is not a fresh hash. SRC-0013/SRC-0020 original Sheikh2017 137p thesis fresh S016 HTTP403, separately from S013–S015; SRC-0024 original C53.html full CODE and OUTPUT inaccessible; SRC-0015 Yiu v1 original abstract/HTML only, independent final M1 code/log/certificates not authenticated. SRC-0026 GG1999 B=>C remains conditional, BSP2012 only R=(3p−1)/2, BSP2007 full diagrams unproved. No exact original new literature result authenticated for n15/20/21/28/30; nondiscovery NOT openness. All source classes retained.
+
+### S017 original-primary-source/provenance audit — 2026-10-12
+
+SRC-0025: S017 fresh original29-page PDF downloaded289379 bytes SHA2567d94931bcbf8fb4ce77c0ed94206659df74e8cb5543e1615e7dde23e86b994d8; printed pp17–18 directly inspected (p17 visual display). Only Proposition8.1 independently reconstructed CLM-0103 incl p5. Section9/Prop10.1 and full Property B remain unproved.
+
+SRC-0013: S017 official137p original thesis PDF web retrieval HTTP403 Forbidden, separately from S016/S015/S014/S013; full Chapter4/Remark4.3.11 not acquired.
+
+SRC-0020: S017 fresh official original full thesis web retrieval HTTP403, separate session record; no source access upgrade.
+
+SRC-0024: S017 original C53.html HTTP locator resolves HTTPS and is inaccessible via web tool; neither complete CODE nor OUTPUT authenticated/executed.
+
+SRC-0015: S017 originalv1 abstract/HTML machine-input provenance and ancillary pointer read-only, no authenticated independent final M1 predicate/log/certificate obtained. S01316680-byte archive hash historical, NOT freshly rehashed. Generation repeats do not replay final predicate; M2/M3 differ.
+
+All 28 source IDs/access classes retained; GG1999 conditional B⇒C, BSP2012 stronger coefficient and BSP2007 diagram scopes preserved. No newly authenticated exact primary update for five intervals; limited retrieval is not current openness or global absence.

@@ -1,0 +1,35 @@
+{
+  "session": "S017",
+  "reiher": {
+    "id": "SRC-0025",
+    "url": "https://www.math.uni-rostock.de/math/pub/preprints/preprint/2010/pre10_01.pdf",
+    "pages": 29,
+    "printed_pages": "17–18",
+    "fresh_download_bytes": 289379,
+    "fresh_sha256": "7d94931bcbf8fb4ce77c0ed94206659df74e8cb5543e1615e7dde23e86b994d8",
+    "fresh_hash_measured": true,
+    "page17_visual_display_inspected": true,
+    "proof_target": "Proposition8.1",
+    "stop_after_target": true
+  },
+  "sheikh": "S017 official PDF web retrieval HTTP403 Forbidden; not earlier-session observation",
+  "ghst": "S017 original C53.html resolved HTTPS inaccessible through web tool; code AND output unauthenticated",
+  "yiu": "S017 original v1 HTML/abstract and machine-input provenance read; independent final M1 implementation/log/certificate not authenticated; historical S013 archive not freshly rehashed",
+  "frontier_searches": {
+    "engines": [
+      "system2",
+      "system1"
+    ],
+    "queries": [
+      "Davenport C_15 C_20 C_21",
+      "Davenport constant C_28 C_30 exact",
+      "Davenport constant 15 20 21 C_n",
+      "Davenport constant 28 30 rank three exact"
+    ],
+    "outcome": "No new exact primary update authenticated; literal notation gave irrelevant results; no present-day openness inference"
+  },
+  "all_frontier_rows": 30,
+  "author_code_executed": false,
+  "mathematical_computation": false,
+  "raw_chat_transport_hash_claimed": false
+}

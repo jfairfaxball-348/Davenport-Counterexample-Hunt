@@ -1,0 +1,299 @@
+{
+  "branches?per_page=100": [
+    {
+      "name": "main",
+      "commit": {
+        "sha": "9298cedd67b8df568c8c20a9cbfedb01d5789257",
+        "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/9298cedd67b8df568c8c20a9cbfedb01d5789257"
+      },
+      "protected": false
+    },
+    {
+      "name": "session/S001-bootstrap-frontier",
+      "commit": {
+        "sha": "1a43fc022179c950138e29994b6ca6a7ab667ec9",
+        "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/1a43fc022179c950138e29994b6ca6a7ab667ec9"
+      },
+      "protected": false
+    },
+    {
+      "name": "session/S002-frontier-verification",
+      "commit": {
+        "sha": "9387fbd552780ab01723e18e5dd2b6805b33146d",
+        "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/9387fbd552780ab01723e18e5dd2b6805b33146d"
+      },
+      "protected": false
+    },
+    {
+      "name": "session/S003-source-proof-challenge",
+      "commit": {
+        "sha": "e2c26f8c45a6702786196bc973fa94fe61b2807c",
+        "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/e2c26f8c45a6702786196bc973fa94fe61b2807c"
+      },
+      "protected": false
+    },
+    {
+      "name": "session/S004-primary-proof-inputs",
+      "commit": {
+        "sha": "69da4cd6cfcf5b771aa50fc75cbbd882f45d1c7b",
+        "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/69da4cd6cfcf5b771aa50fc75cbbd882f45d1c7b"
+      },
+      "protected": false
+    },
+    {
+      "name": "session/S005-remaining-proof-obligations",
+      "commit": {
+        "sha": "05cc653a92ba8bb53e8ee4202fca73bea88c73e5",
+        "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/05cc653a92ba8bb53e8ee4202fca73bea88c73e5"
+      },
+      "protected": false
+    },
+    {
+      "name": "session/S006-coefficient-p7-provenance",
+      "commit": {
+        "sha": "93561bfb31dec0033452bdf2a9df0d82fb9d9768",
+        "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/93561bfb31dec0033452bdf2a9df0d82fb9d9768"
+      },
+      "protected": false
+    },
+    {
+      "name": "session/S007-source-proof-normalization",
+      "commit": {
+        "sha": "8b6f4241b048a9d45f730812601cb28f87159726",
+        "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/8b6f4241b048a9d45f730812601cb28f87159726"
+      },
+      "protected": false
+    },
+    {
+      "name": "session/S008-p7-classification-provenance",
+      "commit": {
+        "sha": "99f689cd01a652614db58dc75709321cf871c679",
+        "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/99f689cd01a652614db58dc75709321cf871c679"
+      },
+      "protected": false
+    },
+    {
+      "name": "session/S009-p7-eight-vector-source-audit",
+      "commit": {
+        "sha": "8ec9867c4170603c332f234868b43d0507479eb6",
+        "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/8ec9867c4170603c332f234868b43d0507479eb6"
+      },
+      "protected": false
+    },
+    {
+      "name": "session/S010-p7-mixed-line-original-gg-proof",
+      "commit": {
+        "sha": "7bc7940b4672af7f6bc62e59b97053c526be1490",
+        "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/7bc7940b4672af7f6bc62e59b97053c526be1490"
+      },
+      "protected": false
+    },
+    {
+      "name": "session/S011-p7-six-line-geometry-gg1999-audit",
+      "commit": {
+        "sha": "d7c91251712559df8ae70ac10b5d2b2902b2c21d",
+        "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/d7c91251712559df8ae70ac10b5d2b2902b2c21d"
+      },
+      "protected": false
+    },
+    {
+      "name": "session/S012-p7-lemma-original-dependencies",
+      "commit": {
+        "sha": "d6b9bc4a95ea6844dc9adfecc70f57f25726ca2b",
+        "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/d6b9bc4a95ea6844dc9adfecc70f57f25726ca2b"
+      },
+      "protected": false
+    },
+    {
+      "name": "session/S013-rank-two-original-prerequisites",
+      "commit": {
+        "sha": "f49050f2dddfff2d8bab62ae5e1fd8da504b9105",
+        "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/f49050f2dddfff2d8bab62ae5e1fd8da504b9105"
+      },
+      "protected": false
+    },
+    {
+      "name": "session/S014-reiher-strategic-three-support",
+      "commit": {
+        "sha": "d0186175defb0ec2191b170950c88cc9eedda264",
+        "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/d0186175defb0ec2191b170950c88cc9eedda264"
+      },
+      "protected": false
+    },
+    {
+      "name": "session/S015-reiher-collinear-proposition",
+      "commit": {
+        "sha": "1d24f60ffff8866551dd20fca2c8e098817cde10",
+        "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/1d24f60ffff8866551dd20fca2c8e098817cde10"
+      },
+      "protected": false
+    },
+    {
+      "name": "session/S016-reiher-trapezoid-proofs",
+      "commit": {
+        "sha": "bf5565393cd91083817e266559a6503498c2aed7",
+        "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/bf5565393cd91083817e266559a6503498c2aed7"
+      },
+      "protected": false
+    }
+  ],
+  "rulesets": [],
+  "branches/main/protection": [
+    {
+      "type": "text",
+      "text": "GitHub API error 403: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/branches/branch-protection#get-branch-protection\",\"status\":\"403\"}"
+    }
+  ],
+  "actions/runs?per_page=100": {
+    "total_count": 0,
+    "workflow_runs": []
+  },
+  "actions/workflows": [
+    {
+      "type": "text",
+      "text": "HTTPError: 400: GitHub Fetch URL is not an allowed public GitHub repository or search endpoint. (Response: None)"
+    }
+  ],
+  "commits/9298cedd67b8df568c8c20a9cbfedb01d5789257/check-runs": {
+    "total_count": 0,
+    "check_runs": []
+  },
+  "commits/9298cedd67b8df568c8c20a9cbfedb01d5789257/status": {
+    "state": "pending",
+    "statuses": [],
+    "sha": "9298cedd67b8df568c8c20a9cbfedb01d5789257",
+    "total_count": 0,
+    "commit_url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/9298cedd67b8df568c8c20a9cbfedb01d5789257",
+    "url": "https://api.github.com/repos/jfairfaxball-348/Davenport-Counterexample-Hunt/commits/9298cedd67b8df568c8c20a9cbfedb01d5789257/status"
+  },
+  "pull_requests": [
+    {
+      "number": 16,
+      "state": "closed",
+      "merged_at": "2026-10-12T06:55:38Z",
+      "merge_commit_sha": "9298cedd67b8df568c8c20a9cbfedb01d5789257",
+      "head": "bf5565393cd91083817e266559a6503498c2aed7",
+      "ref": "session/S016-reiher-trapezoid-proofs"
+    },
+    {
+      "number": 15,
+      "state": "closed",
+      "merged_at": "2026-10-11T22:32:57Z",
+      "merge_commit_sha": "889ac83a4a3161676c928d2965442e59a738e53d",
+      "head": "1d24f60ffff8866551dd20fca2c8e098817cde10",
+      "ref": "session/S015-reiher-collinear-proposition"
+    },
+    {
+      "number": 14,
+      "state": "closed",
+      "merged_at": "2026-10-11T22:00:57Z",
+      "merge_commit_sha": "2c1e0dac220467d5c3bab526ec56bca61308a2b8",
+      "head": "d0186175defb0ec2191b170950c88cc9eedda264",
+      "ref": "session/S014-reiher-strategic-three-support"
+    },
+    {
+      "number": 13,
+      "state": "closed",
+      "merged_at": "2026-10-11T21:23:22Z",
+      "merge_commit_sha": "8d16ecd63b769e6c138861f78a1dfbff6fd891b3",
+      "head": "f49050f2dddfff2d8bab62ae5e1fd8da504b9105",
+      "ref": "session/S013-rank-two-original-prerequisites"
+    },
+    {
+      "number": 12,
+      "state": "closed",
+      "merged_at": "2026-10-11T21:03:52Z",
+      "merge_commit_sha": "e22e1f369606c848d94b71bce737d74301a00954",
+      "head": "d6b9bc4a95ea6844dc9adfecc70f57f25726ca2b",
+      "ref": "session/S012-p7-lemma-original-dependencies"
+    },
+    {
+      "number": 11,
+      "state": "closed",
+      "merged_at": "2026-10-11T18:04:15Z",
+      "merge_commit_sha": "eb47980a78c1298e557202b4b63fe45459bdb87b",
+      "head": "d7c91251712559df8ae70ac10b5d2b2902b2c21d",
+      "ref": "session/S011-p7-six-line-geometry-gg1999-audit"
+    },
+    {
+      "number": 10,
+      "state": "closed",
+      "merged_at": "2026-10-11T17:41:20Z",
+      "merge_commit_sha": "9ca537dbd50e8cd9b944fdd9be976d307c7ad4d6",
+      "head": "7bc7940b4672af7f6bc62e59b97053c526be1490",
+      "ref": "session/S010-p7-mixed-line-original-gg-proof"
+    },
+    {
+      "number": 9,
+      "state": "closed",
+      "merged_at": "2026-10-11T17:00:30Z",
+      "merge_commit_sha": "4d93334fd6335397f1c3df8113b7b3e86f0bd839",
+      "head": "8ec9867c4170603c332f234868b43d0507479eb6",
+      "ref": "session/S009-p7-eight-vector-source-audit"
+    },
+    {
+      "number": 8,
+      "state": "closed",
+      "merged_at": "2026-10-11T15:57:59Z",
+      "merge_commit_sha": "74130b059940a3bf4dbe4e75bb7fee40a7cdea49",
+      "head": "99f689cd01a652614db58dc75709321cf871c679",
+      "ref": "session/S008-p7-classification-provenance"
+    },
+    {
+      "number": 7,
+      "state": "closed",
+      "merged_at": "2026-10-11T15:33:22Z",
+      "merge_commit_sha": "a973efe3a20709183d51716719c391b72fe4019f",
+      "head": "8b6f4241b048a9d45f730812601cb28f87159726",
+      "ref": "session/S007-source-proof-normalization"
+    },
+    {
+      "number": 6,
+      "state": "closed",
+      "merged_at": "2026-10-11T14:51:45Z",
+      "merge_commit_sha": "f1a52c99abd03e66f612a4aa16b2bfb48ec77795",
+      "head": "93561bfb31dec0033452bdf2a9df0d82fb9d9768",
+      "ref": "session/S006-coefficient-p7-provenance"
+    },
+    {
+      "number": 5,
+      "state": "closed",
+      "merged_at": "2026-10-11T14:27:12Z",
+      "merge_commit_sha": "74709bdbb431416d62bc0b9e75119abc3e49d520",
+      "head": "05cc653a92ba8bb53e8ee4202fca73bea88c73e5",
+      "ref": "session/S005-remaining-proof-obligations"
+    },
+    {
+      "number": 4,
+      "state": "closed",
+      "merged_at": "2026-10-11T13:15:31Z",
+      "merge_commit_sha": "6e10e9401c32e8a0f81ec7a1f1ea70f307d10d40",
+      "head": "69da4cd6cfcf5b771aa50fc75cbbd882f45d1c7b",
+      "ref": "session/S004-primary-proof-inputs"
+    },
+    {
+      "number": 3,
+      "state": "closed",
+      "merged_at": "2026-10-11T07:49:22Z",
+      "merge_commit_sha": "d0ca11de8c6f513aaa47b8c78df27be4f78afe26",
+      "head": "e2c26f8c45a6702786196bc973fa94fe61b2807c",
+      "ref": "session/S003-source-proof-challenge"
+    },
+    {
+      "number": 2,
+      "state": "closed",
+      "merged_at": "2026-10-10T22:05:41Z",
+      "merge_commit_sha": "9073b44fb1ea24f86c3ab69bf6a3cd8c7c45cf70",
+      "head": "9387fbd552780ab01723e18e5dd2b6805b33146d",
+      "ref": "session/S002-frontier-verification"
+    },
+    {
+      "number": 1,
+      "state": "closed",
+      "merged_at": "2026-10-10T21:57:08Z",
+      "merge_commit_sha": "9ff1aa34770ce23e87286ccba26cda7475448ba0",
+      "head": "1a43fc022179c950138e29994b6ca6a7ab667ec9",
+      "ref": "session/S001-bootstrap-frontier"
+    }
+  ]
+}

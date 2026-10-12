@@ -840,3 +840,11 @@ Category: SOURCE_AUDIT. Origin: research/S016_REIHER_TRAPEZOID_PROOF.md. Sources
 Exact cancellation of all four µ unknowns and p5; no full universal Property B/prime Property C/rank-three result.
 
 All previous CLM-0001–0100 fields remain unchanged; historical CLM-0082 stays SOURCE_STATED. No full Property B/C or rank-three proof.
+
+## CLM-0103 — PROGRAMME_PROVED
+
+Original Reiher Proposition8.1 independently hand-proved for every prime: a cloudy sequence with four distinct original points forming a parallelogram or with one equal to the sum of the other three is simple, including p5.
+
+Category: SOURCE_AUDIT. Origin: research/S017_REIHER_PROPOSITION_8_1.md. Sources: SRC-0025.
+
+Exact D=A+ηB+C, η²=1; six nonzero determinants; four original indexed deletion equations and strategic identity; printed multipliers yield 2(1−x−y)=0; Prop5.1 only for distinct ORIGINAL A,B,C. No Section9/full Property B/rank-three result.

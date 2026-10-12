@@ -1,4 +1,4 @@
-# Frontier after S016
+# Frontier after S017
 
 S013 CLM-0089–0093 hand-prove rank-two p/2p extraction, D(Cp²)=2p−1, eta<=3p−2/long-zero short block, original Lem10.6 and the full B=>C implication CONDITIONAL on Property B. Complete S012 p7 Lem5.2 preserved. FIRST unconditional prerequisite is Reiher Property B through unrebuilt strategic-equation/geometric chain; stronger coefficient unproved. Phase1 IN_PROGRESS; Phases2/3 NOT_STARTED; CAM-0001 PROPOSED / NOT RUNNING activation BLOCKED by published n6=16. All 30 numeric rows unchanged; no openness inference. Zero hosted CI, NOT PASS.
 
@@ -118,3 +118,9 @@ S015 CLM-0098–0100 independently hand-prove Reiher original Lemma 3.1, Proposi
 ## S016 complete n1..30 mirror audit — 2026-10-12
 
 S016 closes only original Reiher Lem6.1 and Prop6.2 (CLM-0101/0102, including p5), not universal Property B, unconditional C or rank-three Davenport conjecture. Next independent original input is Prop8.1, Section9/Prop10.1 later. Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 PROPOSED/NOT RUNNING BLOCKED by source-stated n6=16. Thirty numeric/evidence rows unchanged; zero hosted CI is NOT PASS. Both mirrors show 25 exact/trivial historical/source rows and five CONDITIONAL intervals n15 43..45, n20 58..59, n21 61..63, n28 82..83, n30 88..90. Schmid2011 n6=16 and original van Emde Boas II/III rank-three exact 2p^a and 3·2^a families retain SOURCE_STATED, not full independently checked original proofs. Inherited14/17,+5,orbits43/699/5553 quarantined. No found newer exact original update is not current-openness evidence.
+
+## S017 all-thirty-row source/mirror audit — 2026-10-12
+
+S017 independently reconstructs ONLY original Reiher Proposition8.1, CLM-0103: both η²=1 configurations, four genuine indexed conditional µ=1 identities, exact strategic equation and printed multipliers giving 2(1−x−y)=0; three DISTINCT ORIGINAL collinear A,B,C permit proved Prop5.1, including p5. STOP before Section9. Universal Property B, unconditional Property C, eta(C7³)≤116 and rank-three conjecture NOT proved. All 30 numeric/evidence rows unchanged; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 PROPOSED / NOT RUNNING activation BLOCKED by published n6=16. Zero hosted checks NOT CI PASS.
+
+Both complete tables remain numerically and evidentially identical; all historical row objects preserved. Five intervals n15 43..45,n20 58..59,n21 61..63,n28 82..83,n30 88..90. Fresh bounded searches authenticated no new exact original update; this does not establish openness. Schmid/van Emde Boas rank-three original full proofs are not newly reconstructed.

@@ -3,7 +3,7 @@
 | Gate | Status | Review | Evidence / limit |
 |---|---|---|---|
 | Phase 0 governance | PASS | S001 2026-10-10 | Required spine and provenance categories created; JSON structurally constructed |
-| Phase 1 frontier | IN_PROGRESS | S014 2026-10-11 | Complete rank-two eta and conditional B=>C CLM-0089–0093; unrebuilt unconditional Reiher Property B, stronger coefficient and other proof/provenance inputs remain. p7 lemma preserved; n6=16 blocks CAM-0001. |
+| Phase 1 frontier | IN_PROGRESS | S017 2026-10-12 | Prop8.1 CLM-0103 closed; Section9/Prop10.1, stronger coefficient and other proof/provenance inputs remain. Prior rank-two/p7 proofs preserved; n6=16 blocks CAM-0001. |
 | Phase 2 tooling | NOT_STARTED | — | No independent algorithm or SAT checker |
 | Phase 3 campaigns | NOT_STARTED | S004 | CAM-0001 PROPOSED / NOT RUNNING; n6 premise obsolete, activation blocked; no replacement target |
 | Phase 4 result certification | OWNER_GATED | — | No candidate, Lean proof or cold check |
@@ -39,3 +39,9 @@ S014 CLM-0094–0097 independently reconstruct Reiher original rank-two coeffici
 S015 (2026-10-11): **Phase1 IN_PROGRESS, PASS withheld**. New CLM-0098–0100 completely reconstruct original Reiher Lem3.1, Prop3.3 and Prop5.1 including p5. Prop6.2/8.1, Section9 and Prop10.1 still needed for full independent Property B; no unconditional Property C or eta(C7³)<=116. All 30 frontier numerical/evidence entries unchanged (25 exact/trivial historical, five conditional intervals), non-discovery not openness. Phases2/3 NOT_STARTED, CAM-0001 PROPOSED / NOT RUNNING activation BLOCKED by published n6=16. Zero hosted CI not PASS.
 
 S016 (2026-10-12): **Phase 1 IN_PROGRESS (NOT PASS)**; original Reiher Lem6.1/Prop6.2 only independently hand-proved CLM-0101/0102, while Prop8.1, Section9, Prop10.1, BSP2007 and original-source provenance gates remain. Universal Property B, unconditional C, eta(C7³)≤116 and rank-three equality NOT proved. 30 numerical/evidence frontier rows exact historical match; current openness not asserted. Phases2/3 NOT_STARTED; CAM-0001 PROPOSED/NOT RUNNING/BLOCKED by source-stated n6=16. No hosted CI PASS; in-memory administrative validation only.
+
+## S017 — 2026-10-12
+
+S017 independently reconstructs ONLY original Reiher Proposition8.1, CLM-0103: both η²=1 configurations, four genuine indexed conditional µ=1 identities, exact strategic equation and printed multipliers giving 2(1−x−y)=0; three DISTINCT ORIGINAL collinear A,B,C permit proved Prop5.1, including p5. STOP before Section9. Universal Property B, unconditional Property C, eta(C7³)≤116 and rank-three conjecture NOT proved. All 30 numeric/evidence rows unchanged; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 PROPOSED / NOT RUNNING activation BLOCKED by published n6=16. Zero hosted checks NOT CI PASS.
+
+See research/S017_REIHER_PROPOSITION_8_1.md. Next S018 original Obs9.1/Lem9.2 is strictly FUTURE UNEXECUTED; no owner-action blocker prevents closeout.

@@ -1,0 +1,9 @@
+{
+  "session": "S017",
+  "future_session": "S018",
+  "status": "FUTURE_UNEXECUTED",
+  "bytes": 7725,
+  "sha256": "df3e410dbe132e0241fd00226abd422ceb2b3085600abe17e7ec9642f7aa714a",
+  "exact_match": true,
+  "raw_chat_transport_hash_claimed": false
+}
