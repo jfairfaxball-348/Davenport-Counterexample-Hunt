@@ -1303,6 +1303,18 @@
         "SRC-0003"
       ],
       "notes": "New finite incidence / 3-bit affine-rank proof with determinants ±1,±2 in odd characteristic, conditional on classical SOURCE_STATED Olson D1 used to obtain pair-cover and S025 CW extraction. Does NOT disprove >=4 families, stronger p>=7 extraction, generalized Dk bounds or classical rank3 D1 conjecture."
+    },
+    {
+      "id": "CLM-0123",
+      "statement": "For odd prime p>=7, under CLM-0120/0122 and classical Olson rank3 D1 SOURCE_STATED, if a hypothetical no-<=3(p−1)/2 length6p−3 C_p³ sequence contains a zero-sum 3p block Z with EXACTLY FOUR distinct indexed b=(3p−1)/2 zero-sum subsets, their membership signatures in {0,1}^4 occupy at least SIX distinct classes. Four missing-coordinate triple-separation pairs yield mod2 independent distance-three edges (a forest); exactly five classes would imply a spanning tree and invertible 5x5 affine incidence matrix (det odd +/-1 or +/-3), forcing forbidden small zero-sum class.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S027_FOUR_BLOCK_CUBE_FOREST.md",
+      "source_ids": [
+        "SRC-0021",
+        "SRC-0003"
+      ],
+      "notes": "New NECESSARY condition only with exact-four-block hypothesis and SOURCE_STATED Olson D1; does NOT exclude six+ signature classes, four blocks, five+ blocks, p>=7 stronger short extraction, D2<=6p−6, generalized Dk or D1 conjecture. Hand proof only, not formal certification."
     }
   ]
 }

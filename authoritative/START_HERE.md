@@ -8,7 +8,7 @@
 
 S001 bootstrap: repository initialized from empty main via .gitignore initial commit `412f0088aeffb823f1533f5d0809806a6b58afde`. S001 session commit built as one new tree and one commit on `session/S001-bootstrap-frontier`.
 
-Current completed session: S026. The only active continuation is NEW separately owner-invoked S027 in authoritative/NEXT_SESSION_PROMPT.md. S027 is STRICTLY FUTURE UNEXECUTED.
+Current completed session: S027. The only active continuation is NEW separately owner-invoked S028 in authoritative/NEXT_SESSION_PROMPT.md. S028 is STRICTLY FUTURE UNEXECUTED.
 
 S012–S016 independent p7/rank-two/coefficient/collinear/trapezoid results remain preserved. S017 adds ONLY original Reiher Proposition8.1 (CLM-0103), with both η signs, all original determinants, four genuine conditional µ=1 equations, exact strategic equation and printed cancellation 2(1−x−y)=0; Prop5.1 is applied to three DISTINCT ORIGINAL collinear terms, p5 included. See research/S017_REIHER_PROPOSITION_8_1.md.
 
@@ -65,3 +65,9 @@ S025 independently reconstructs definitive original BSP2012 6p−3 odd-prime ran
 S026 proves a new balanced-only incidence obstruction CLM-0122: with classical Olson rank3 D1 source-stated, any 3p zero-sum block in a hypothetical no-<=3(p−1)/2 length 6p−3 sequence has at least FOUR distinct indexed zero-sum b-subsets, b=(3p−1)/2. Proof uses two-deletion pair-cover, three-block bit patterns, and invertible affine incidence matrices (det ±1 or ±2, odd characteristic). This does NOT exclude four or more blocks, does NOT prove the strong p>=7 extraction, and does NOT improve generalized Dk or classic D1. The previous safe recurrence remains M+2 at k0=2p−4; D2<=6p−6 would be sufficient but is unproved. SOURCE_STATED exact historical frontier retained; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 blocked n6=16. Zero hosted checks NOT CI PASS.
 
 See research/S026_BALANCED_ONLY_INCIDENCE.md; new S027 handoff strictly future.
+
+## S027 — 2026-10-12
+
+S027 CLM-0123 proves, relative to SOURCE_STATED classical Olson D1 and S025/S026, that IF exactly four indexed balanced b-zero-sum blocks occur in a hypothetical p>=7 3p zero-sum Z, their four-bit membership pattern must occupy >=6 signature cells. Four Hamming-distance-three coordinate-labelled edges form a forest; five cells would yield invertible det +/-1 or +/-3 and a forbidden small zero-sum class. Six+ cells and >=5 b-block families remain UNRESOLVED. No stronger short extraction or D2<=6p-6, no new D1/Dk numeric frontier theorem. Full n1..30 original values/evidence preserved, Phase1 IN_PROGRESS, CAM-0001 blocked, zero hosted CI PASS.
+
+See research/S027_FOUR_BLOCK_CUBE_FOREST.md and sessions/S027. S028 is FUTURE UNEXECUTED and requires a new owner request.

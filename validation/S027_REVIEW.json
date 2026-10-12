@@ -1,0 +1,11 @@
+{
+  "session": "S027",
+  "verdict": "SCOPED_PROGRAMME_PROVED_WITH_SOURCE_STATED_INPUT",
+  "claim": "CLM-0123",
+  "proof": "four coordinate-labelled distance-three edges; mod2 independent forest; t=5 spanning tree; 0/1 determinant odd and abs<=3; invertible p>=7; short zero-sum incidence cell contradiction",
+  "first_essential_unclosed": "t>=6 cells or >=5 b blocks",
+  "strong_extraction_p_ge_7": "NOT PROVED",
+  "D2_bypass": "NOT PROVED",
+  "rank_three_D1_counterexample": "NONE",
+  "hosted_CI_PASS": false
+}

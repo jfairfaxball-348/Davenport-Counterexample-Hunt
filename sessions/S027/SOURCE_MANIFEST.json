@@ -1,0 +1,19 @@
+{
+  "session": "S027",
+  "primary": "SRC-0021 publisher original BSP2012 printed pp22-24, PDF pages1-3 directly re-inspected",
+  "imported": "SRC-0003 Olson D1(Cp³)=3p-2 SOURCE_STATED, previous CLM-0120 and CLM-0122 programme hand proofs",
+  "new_claim": "CLM-0123 scoped necessary 6+ signatures IF precisely four b blocks",
+  "sheikh": "Royal Holloway original full 137-page PDF clicked again, HTTP403, original Chapter4/Remark4.3.11 unread",
+  "ghst": "Original GHST C53 full author CODE and OUTPUT endpoint inaccessible, not run",
+  "yiu": "Original arxiv2609.04950v1 HTML read; final independent M1 three-disjoint test/log/certificate unauthenticated, M2/M3 different; D2(C5³)=20 SOURCE_STATED",
+  "interval_primary_queries": [
+    15,
+    20,
+    21,
+    28,
+    30
+  ],
+  "new_authenticated_exact_D1_results": 0,
+  "no_openness_claim": true,
+  "source_access_changes": 0
+}

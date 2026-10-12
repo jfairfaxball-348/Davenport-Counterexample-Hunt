@@ -1,0 +1,26 @@
+{
+  "session": "S027",
+  "observed_live_main": "362bb53e39131a134c072cdf69c2a0358b66c1aa",
+  "s026_atomic_commit": "63a58b834e44652db5948bd7d14001d4b4d0ddd5",
+  "s026_commit_parent": "f93b913a5ef289979aead91b5630304191a604cd",
+  "s026_commit_tree": "b511ca2929ada65bc41c0793214a2fcc98b92fee",
+  "s026_merge_parents": [
+    "f93b913a5ef289979aead91b5630304191a604cd",
+    "63a58b834e44652db5948bd7d14001d4b4d0ddd5"
+  ],
+  "s026_merge_tree": "b511ca2929ada65bc41c0793214a2fcc98b92fee",
+  "prs_total": 26,
+  "prs_open": 0,
+  "branches_total": 27,
+  "competing_s027": 0,
+  "rulesets_count": 0,
+  "protected_summary": false,
+  "protection_details": "403 UNKNOWN",
+  "workflow_files_in_tree": 0,
+  "workflow_listing": "connector URL rejected; UNKNOWN",
+  "actions_runs_count": 0,
+  "check_runs_count": 0,
+  "commit_status_contexts_count": 0,
+  "combined_status": "pending no contexts",
+  "no_hosted_CI_PASS": true
+}

@@ -1,0 +1,11 @@
+{
+  "session": "S027",
+  "canonical_source": "authoritative/NEXT_SESSION_PROMPT.md@362bb53e39131a134c072cdf69c2a0358b66c1aa",
+  "canonical_git_blob_sha": "1a58c395f7eeeaba6f0c99484900c1a3465e4003",
+  "input": "sessions/S027/INPUT.md",
+  "canonical_archived_verbatim": true,
+  "owner_invocation": "separate user message transcribed in sessions/S027/OWNER_INVOCATION.md",
+  "raw_chat_sha256": null,
+  "reason_no_raw_digest": "raw chat wire bytes not accessible",
+  "new_session_authorized": true
+}

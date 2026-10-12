@@ -1,4 +1,6 @@
-# Frontier after S026
+# Frontier after S027
+
+# S027 adds CLM-0123: if exactly FOUR balanced b-blocks, there must be at least SIX occupied 4-bit incidence signatures; six+ remains unresolved, NOT a proof of strong extraction or new D1/Dk. Thirty original numeric/source/status/evidence rows unchanged.
 
 # S026 adds CLM-0122: >=4 indexed balanced b-zero-sum blocks are necessary for each 3p zero-sum under a no-short hypothesis (Olson D1 SOURCE_STATED). The four-or-more possibility remains; no new D1 or Dk claim. All 30 numeric/source/status/evidence table rows are unchanged.
 
@@ -159,3 +161,7 @@ One-to-one administrative comparison of n=1..30 EVERY row: 30/30 matched n, grou
 ## S025 full thirty-row mirror audit
 
 Compared **each** row n=1..30 between frontier/frontier.json and this Markdown table for group, D*, reported bound, provisional status and complete evidence list: 30/30, zero discrepancies at S025 entry; S025 changes NO row numeric endpoint, original status, source or evidence class. 25 source-stated exact/trivial; n15 43..45, n20 58..59, n21 61..63, n28 82..83, n30 88..90 intervals. Schmid2011 n6=16 and van Emde Boas exact 2p^a/3·2^a SOURCE_STATED; neither promoted to independently established original D1. Search non-discovery is NOT current openness. All phases and blocked CAM-0001 unchanged. New scoped math CLM-0120/0121 is unrelated to exact composite-rank3 D1 endpoints.
+
+## S027 — independently reconciled all 30 original rows
+
+30/30 row-by-row Markdown-versus-JSON comparisons for n, group, D*, reported bound, provisional status and full ordered evidence list: **ZERO mismatches**, all original rows and JSON row objects unchanged. Historical 25 settled/trivial, five interval cases n15 43..45, n20 58..59, n21 61..63, n28 82..83, n30 88..90. No modern openness conclusion. CLM-0123 concerns balanced short zero sums for prime C_p³, NOT a rank3 classical D1 new theorem. Schmid n6=16, van Emde Boas 2p^a/3*2^a and Yiu remain SOURCE_STATED. Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 blocked n6=16; zero CI runs/checks NOT CI PASS.

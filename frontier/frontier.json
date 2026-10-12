@@ -589,5 +589,26 @@
     "phase3": "NOT_STARTED",
     "CAM": "PROPOSED/NOT_RUNNING/BLOCKED n6=16",
     "hosted_CI_PASS": false
+  },
+  "s027_audit": {
+    "session": "S027",
+    "as_of": "2026-10-12",
+    "claim": "CLM-0123 exactly-four balanced b blocks require >=6 membership pattern classes (conditional on Olson SOURCE_STATED)",
+    "rows_compared": 30,
+    "rows_unchanged": 30,
+    "markdown_json_mismatch_count": 0,
+    "intervals": [
+      15,
+      20,
+      21,
+      28,
+      30
+    ],
+    "settled_or_trivial": 25,
+    "source_access_status_changes": 0,
+    "rank_three_D1_changes": 0,
+    "phase1": "IN_PROGRESS",
+    "campaign": "CAM-0001 PROPOSED/NOT_RUNNING/BLOCKED n6=16",
+    "hosted_ci_pass": false
   }
 }

@@ -99,3 +99,7 @@ S012 closeout: [complete record and FUTURE UNEXECUTED S013 handoff](../sessions/
 [S025 full proof/closeout and complete strictly future UNEXECUTED S026 handoff](../sessions/S025/CLOSEOUT.md).
 
 | S026 | 2026-10-12 | New CLM-0122 symbolic balanced-only indexed pair-cover / triple-incidence obstruction: >=4 distinct b zero-sums; four-or-more case first essential unresolved; no Dk/D1 advancement | COMPLETED proof-first STOP, Phase1 IN_PROGRESS; S027 FUTURE UNEXECUTED |
+
+| S027 | 2026-10-12 | Original BSP2012 symbolic four-cut incidence: exact-four b-blocks force >=6 membership pattern classes via mod2 forest + p>=7 determinant; READ-ONLY source/30-row provenance | CLM-0123 scoped necessary condition, six+ cells unresolved; no D1/Dk result; Phase1 IN_PROGRESS, CAM-0001 BLOCKED; S028 FUTURE UNEXECUTED | session/S027-four-block-incidence-rank-gate |
+
+[S027 complete indexed proof, reviews, archived input, closeout and future S028 handoff](../sessions/S027/CLOSEOUT.md).
