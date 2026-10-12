@@ -128,3 +128,7 @@ Both complete tables remain numerically and evidentially identical; all historic
 ## S018 — full 30-row mirror review (2026-10-12)
 
 All 30 Markdown table rows and JSON rows were reconciled for n, lower/upper bounds, reported values, statuses and evidence classes. Numeric/status/evidence values are unchanged. Five intervals are n=15:43..45, n=20:58..59, n=21:61..63, n=28:82..83, n=30:88..90; bounded S018 primary-query searches did not authenticate exact updates, NOT an assertion of present-day openness. Historical exact Schmid2011 n6=16 and van Emde Boas II/III families remain SOURCE_STATED. Section9 rank-two conic proof does not certify any rank-three frontier row.
+
+## S019 — n1..30 complete numerical/evidence mirror audit
+
+All thirty Markdown/JSON row values, bounds, statuses, evidence classes and original reported values unchanged. Five original intervals n15=43..45,n20=58..59,n21=61..63,n28=82..83,n30=88..90, 25 historical exact/trivial. No bounded read-only source found authenticated new exact changes; this is NOT a proof of current openness. Source-stated Schmid2011 n6=16 and van Emde Boas II/III rank-three 2p^a/3*2^a families retained without claiming independent full proofs. CLM-0106–0108 is rank-two geometry, not a rank-three upgrade.

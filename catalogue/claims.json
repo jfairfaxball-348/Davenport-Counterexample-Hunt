@@ -1109,6 +1109,39 @@
         "SRC-0025"
       ],
       "notes": "All collision partitions, min singleton line pairs, both possible omitted pair types and seven translated conic points proved; printed Observation10.1 is Obs9.1. No Section9 quartics, Lem9.6 or universal Property B proved."
+    },
+    {
+      "id": "CLM-0106",
+      "statement": "Original Reiher Observation9.4 independently hand-proved for n>=5 distinct planar points: n−1 collinear or conic leading-triple dimension at most one.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S019_REIHER_SECTION9_GENERAL_POSITION.md",
+      "source_ids": [
+        "SRC-0025"
+      ],
+      "notes": "Corrected PDF n>=5 vs erroneous text extraction; m>=3 and m=2 cases, affine normalization and factors closed."
+    },
+    {
+      "id": "CLM-0107",
+      "statement": "Original Reiher Observation9.5 independently hand-proved: seven distinct K³ points with >=4-dimensional quadratic-surface leading sextuples have four collinear or six coplanar.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S019_REIHER_SECTION9_GENERAL_POSITION.md",
+      "source_ids": [
+        "SRC-0025"
+      ],
+      "notes": "Proved absence of five-coplanar and three-collinear configurations, forbidden triple coplanarity and final factor-plane contradiction."
+    },
+    {
+      "id": "CLM-0108",
+      "statement": "Original Reiher Lemma9.6 independently hand-proved for char K!=2: full 9.2(g) for four distinct original points implies quartic general position.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S019_REIHER_SECTION9_GENERAL_POSITION.md",
+      "source_ids": [
+        "SRC-0025"
+      ],
+      "notes": "Seven ± pairs, Q_i distinct, parity symmetrization, four independent quadric sextuples, exact 9.4 and 9.5/9.2(g) application; printed references 10.4/10.2(g) are 9.4/9.2(g), NOT Prop10.1."
     }
   ]
 }

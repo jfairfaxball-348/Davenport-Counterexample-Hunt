@@ -1,0 +1,35 @@
+{
+  "session": "S019",
+  "reiher": {
+    "id": "SRC-0025",
+    "url": "https://www.math.uni-rostock.de/math/pub/preprints/preprint/2010/pre10_01.pdf",
+    "pdf_pages": 29,
+    "printed_pages": "20-23",
+    "pdf_zero_based_pages": "19-22",
+    "primary_web_render_and_screenshots_read": true,
+    "fresh_binary_download": false,
+    "download_error": "curl DNS resolution",
+    "fresh_sha256_measured": false,
+    "historical_s017_sha256": "7d94931bcbf8fb4ce77c0ed94206659df74e8cb5543e1615e7dde23e86b994d8",
+    "target": "Observation9.4 Observation9.5 Lemma9.6",
+    "stop_at_lemma9_6": true
+  },
+  "sheikh": "S019 official Royal Holloway PDF HTTP403 Forbidden; full Chapter4 not acquired",
+  "ghst": "S019 original C53.html web access unavailable, full CODE/OUTPUT uninspected, unexecuted",
+  "yiu": "S019 original arXiv2609.04950v1 HTML inspected read-only; independent terminal final M1 three-disjoint predicate implementation/logs/certificates unauthenticated; S013 archive historical",
+  "frontier": {
+    "all30": true,
+    "exact_trivial": 25,
+    "intervals": [
+      15,
+      20,
+      21,
+      28,
+      30
+    ],
+    "new_exact_primary_authenticated": false,
+    "non_discovery_is_not_openness": true
+  },
+  "mathematical_computation": false,
+  "raw_chat_transport_hash_claimed": false
+}

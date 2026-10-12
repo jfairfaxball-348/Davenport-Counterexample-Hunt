@@ -1,0 +1,18 @@
+{
+  "session": "S019",
+  "source": "SRC-0025",
+  "target": "Obs9.4 Obs9.5 Lem9.6",
+  "result": "BOUNDED_ORIGINAL_PROOF_RECONSTRUCTION_CLOSED",
+  "new_claim_ids": [
+    "CLM-0106",
+    "CLM-0107",
+    "CLM-0108"
+  ],
+  "stop_after": "Lemma9.6",
+  "phase1": "IN_PROGRESS",
+  "prop10_1": "UNPROVED",
+  "full_property_b": "UNPROVED",
+  "counterexample": "NONE_CLAIMED",
+  "next_session": "S020 FUTURE UNEXECUTED",
+  "ci_pass": false
+}

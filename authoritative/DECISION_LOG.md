@@ -80,3 +80,6 @@ See research/S017_REIHER_PROPOSITION_8_1.md. Next S018 original Obs9.1/Lem9.2 is
 
 | 2026-10-12 | S018 independently reconstructs original Reiher Obs9.1/Lem9.2 exact seven-alternative geometric classification over char!=2; typo Observation10.1 corrected to Obs9.1, no quartics/Prop10.1 | CLM-0104/0105, SRC-0025, S018 research | LIMITED PROGRAMME_PROVED / Phase1 IN_PROGRESS |
 | 2026-10-12 | Preserve all30 frontier rows, source-provenance access limits, CAM-0001 blocked n6=16; no Phase2/3 or campaign | S018 audit and read-only provenance | NO NUMERICAL SEARCH; NO CI PASS |
+
+| 2026-10-12 | S019 independently closes only original Reiher Obs9.4(n>=5), Obs9.5 and Lem9.6; corrected extractor n>5 and printed 10.4/10.2(g) references | SRC-0025 CLM-0106–0108, S019 research | PROGRAMME_PROVED LIMITED SCOPE, not universal Property B |
+| 2026-10-12 | Preserve 30 frontier original rows and historical Schmid n6=16; source access Sheikh403/C53 inaccessible/Yiu final M1 incomplete; no CI PASS | S019 provenance and mirrors | Phase1 IN_PROGRESS, S020 FUTURE ONLY |
