@@ -75,3 +75,7 @@ S022 independently composes every-prime Property B CLM-0110 with the fully recon
 ## S023 — 2026-10-12
 
 S023 independently audits original definitive BSP2012 pp22–24: CLM-0113 establishes only odd-prime split R=(3p−1)/2 (p7=10); CLM-0114 supplies a symbolic 15-term F3³ counterexample to the UNIVERSAL shorter 3(p−1)/2 block extraction. This does NOT disprove BSP Lem2.3 multiwise bound, p≥7 strengthening, or rank-three Davenport equality. First necessary coefficient premise remains unproved and omitted Lem2.3 induction unattempted by mandated STOP. Thirty D frontier rows unchanged; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 PROPOSED/NOT_RUNNING BLOCKED n6=16, no hosted CI PASS. Phase1 PASS withheld: original BSP Lem2.3 rank-three proof/strong coefficient, BSP2007 complete diagrams and other provenance/source gates remain open. No Phase2/3 advance, rank-three D upgrade or new campaign.
+
+## S024 — 2026-10-12
+
+Phase1 remains IN_PROGRESS. CLM-0115/0116 disprove printed **D_k** all-prime BSP Lem2.3 p2 cases, not rank-three **D_1** equality. CLM-0117 safe recurrence and CLM-0118/0119 conditional weaker bounds leave p≥5/p≥7 short-extraction proof/original strong multiwise coefficient unclosed. Full 30-row D(Cn³) frontier unchanged, 25 exact/trivial and five intervals. CAM-0001 PROPOSED/NOT_RUNNING BLOCKED n6=16; Phases2/3 NOT_STARTED, no campaign or new target. Original historical source access/third-party certificates incomplete; no Phase1 PASS. Admin validators are not mathematical certification or hosted CI (zero checks NOT PASS).

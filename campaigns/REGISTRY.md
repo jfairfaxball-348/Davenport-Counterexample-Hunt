@@ -103,3 +103,7 @@ CAM-0001 stays PROPOSED / NOT RUNNING, activation BLOCKED by published historica
 ### S023 — 2026-10-12
 
 CAM-0001 remains PROPOSED / NOT RUNNING; activation BLOCKED because published Schmid2011 D(C6³)=16 disqualifies inherited length16 counterexample premise. S023 p3 symbolic SHORT-EXTRACTION obstruction is not a rank-three Davenport zero-sumfree candidate and does NOT activate or replace any campaign. No campaign, solver, mathematical computational search, tooling or new target; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED.
+
+### S024 — 2026-10-12: CAM-0001 NOT RUNNING, BLOCKED
+
+Printed BSP2012 **generalized D_k** all-prime inequalities are refuted at p2 by CLM-0115/0116; this neither changes source-stated Schmid2011 D(C6³)=16 nor licenses inherited length16 zero-sumfree search. CAM-0001 still PROPOSED / NOT RUNNING, activation BLOCKED by n6=16; no replacement target/campaign, no Phase2/3, solver, code, candidate or certificate. Phase1 IN_PROGRESS.

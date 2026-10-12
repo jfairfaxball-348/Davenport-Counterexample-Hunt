@@ -877,3 +877,12 @@ CLM-0111: Every prime Property C, original GG1999 Theorem10.7 conditional B⇒C 
 
 - **CLM-0113 · PROGRAMME_PROVED · SOURCE_AUDIT · SRC-0021.** For odd prime p, the elementary length-3p zero-sum split guarantees a nonempty zero-sum part of length≤floor(3p/2)=(3p−1)/2, p7=10; it does **not** prove 3(p−1)/2, p7=9. This is a sharp guarantee of the splitting argument, not an assertion that stronger uniform results fail for p≥7.
 - **CLM-0114 · PROGRAMME_PROVED · SOURCE_AUDIT · SRC-0021.** At p3 the doubled eight-point anisotropic graph {(x,y,x²+y²): (x,y)∈F3²\{0}} minus one position has length15 and no nonempty zero sum of length≤3. This refutes any all-prime stronger **short-extraction** lemma used to justify the printed coefficient, **NOT** BSP Lem2.3 multiwise conclusion and **NOT** the rank-three Davenport conjecture. See full symbolic proof research/S023_BSP_SPLIT_OBSTRUCTION.md. No stronger coefficient or omitted Lem2.3 induction is promoted.
+
+## S024 — CLM-0115–0119: original printed all-prime multiwise counterexamples and safe recurrence
+
+- **CLM-0115 · PROGRAMME_PROVED · SRC-0021**: at p2 k19, printed rank3 upper bound 37.5 contradicts 38-term lower bound from 37 copies of one order-two nonzero element.
+- **CLM-0116 · PROGRAMME_PROVED · SRC-0021**: at p2 d4 k25, printed d≥4 upper 49.5 contradicts 50 lower bound from 49 copies of one order-two nonzero element.
+- **CLM-0117 · PROGRAMME_PROVED · SRC-0021/0015**: appended-term lemma D_(k+1)≤max(D_k+L,A−1) proved with complete two-case argument, then exact k≥2 induction.
+- **CLM-0118/0119 · PROGRAMME_PROVED as explicit CONDITIONAL implications**: weaker L=(3p−1)/2 odd-prime replacement and general rank d bound rely on the source-stated short extraction, not on falsely promoted 3(p−1)/2. p2 extraction unconditional pigeonhole, giving D_k(C2³)≤2k+4 (classical D1 assumed). No original rank3 Lem2.3 strong proof; odd p≥5/p≥7 remain unclosed. See [full symbolic proof](../research/S024_BSP_P2_COUNTEREXAMPLE_RECURRENCE.md).
+
+No rank-three Davenport D(C_n³) value or evidence class changed; result corrects the all-prime multiwise statement, NOT the rank-three conjecture; no novelty claim.

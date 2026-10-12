@@ -89,3 +89,7 @@ S012 closeout: [complete record and FUTURE UNEXECUTED S013 handoff](../sessions/
 | S023 | 2026-10-12 | Definitive BSP2012 short-zero-sum split bound and p3 symbolic failure of stronger extraction; provenance and complete frontier audit | CLM-0113/0114 only; essential multiwise coefficient/omitted rank-three proof UNPROVED; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 BLOCKED | session/S023-bsp-split-obstruction |
 
 [S023 proof, full closeout and strictly future S024 handoff](../sessions/S023/CLOSEOUT.md).
+
+| S024 | 2026-10-12 | Definitive BSP2012 pp22–24 all-prime multiwise p2 counterexamples, complete safe weaker recurrence, read-only source/mirror audit | CLM-0115/0116 disprove published D_k inequalities at p2 k19 and d4 k25; CLM-0117–0119 recurrence/conditional bounds; p≥7 strong proof unclosed; Phase1 IN_PROGRESS, CAM-0001 BLOCKED | session/S024-bsp-p2-counterexample-recurrence |
+
+[S024 full proof/closeout and complete strictly future S025 handoff](../sessions/S024/CLOSEOUT.md).

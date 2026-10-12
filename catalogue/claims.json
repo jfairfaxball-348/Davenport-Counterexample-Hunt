@@ -1211,6 +1211,62 @@
         "SRC-0021"
       ],
       "notes": "Let q=x²+y² anisotropic on F3², T={(x,y,q(x,y)): (x,y)≠0} eight nonzero points. T² has no zero subsums length≤3 (no opposite pairs; triples of distinct graph points yield −q(v)≠0 on affine lines); remove any one index to get 15 terms. Refutes stronger universal auxiliary extraction ONLY, NOT BSP Lem2.3, its p≥7 range, or D(Cn³) conjecture; no numerical search."
+    },
+    {
+      "id": "CLM-0115",
+      "statement": "The published all-prime BSP2012 Lemma2.3 rank-three D_k(C_p^3) upper bound fails at p=2,k=19: D_19(C2³)≥38 while the printed RHS is 37.5.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S024_BSP_P2_COUNTEREXAMPLE_RECURRENCE.md",
+      "source_ids": [
+        "SRC-0021"
+      ],
+      "notes": "Use 37 identical nonzero order-two elements; at most 18 disjoint zero sums. Scoped all-prime multiwise refutation ONLY, no D1 conjecture claim."
+    },
+    {
+      "id": "CLM-0116",
+      "statement": "The published all-prime BSP2012 Lemma2.3 d≥4 bound fails at p=2,d=4,k=25: D_25(C2⁴)≥50 but the printed RHS is 49.5.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S024_BSP_P2_COUNTEREXAMPLE_RECURRENCE.md",
+      "source_ids": [
+        "SRC-0021"
+      ],
+      "notes": "Use 49 identical nonzero order-two elements; correction needs slope at least exponent p for affine bounds valid all k."
+    },
+    {
+      "id": "CLM-0117",
+      "statement": "For any finite abelian G, if every A-term sequence has a nonempty zero sum of length at most L, then D_(k+1)(G) ≤ max(D_k(G)+L,A−1), yielding D_k ≤ max(D_1+(k−1)L,A−1+(k−2)L) for k≥2.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S024_BSP_P2_COUNTEREXAMPLE_RECURRENCE.md",
+      "source_ids": [
+        "SRC-0021",
+        "SRC-0015"
+      ],
+      "notes": "Full indexed appended-completing-term argument and induction; general fact is not claimed novel."
+    },
+    {
+      "id": "CLM-0118",
+      "statement": "For odd p≥3, conditional on the BSP2012 stated A=6p−3 short extraction length L=(3p−1)/2, D_k(C_p³)≤6p−4+(k−2)L for k≥2; D1=3p−2 source-stated.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S024_BSP_P2_COUNTEREXAMPLE_RECURRENCE.md",
+      "source_ids": [
+        "SRC-0021"
+      ],
+      "notes": "PROGRAMME_PROVED implication with SOURCE_STATED odd-prime short-extraction and classical p-group D1 premises. NOT original BSP strong slope or unconditional independently checked short extraction."
+    },
+    {
+      "id": "CLM-0119",
+      "statement": "For any p,d≥3, conditional on short-extraction at A_d=(6p−4)p^(d−3)+1 with integer L_p=floor((3p−1)/2), D_k(C_p^d)≤max{d(p−1)+1+(k−1)L_p, (6p−4)p^(d−3)+(k−2)L_p}, k≥2; p=2 short-extraction unconditional by pigeonhole.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S024_BSP_P2_COUNTEREXAMPLE_RECURRENCE.md",
+      "source_ids": [
+        "SRC-0021"
+      ],
+      "notes": "Independently proved recurrence implication, source-stated p-group D1. The floor equals 2 at p2 and (3p−1)/2 for odd p; p2 d3 bound is 2k+4. Not the publisher's false all-prime Lem2.3."
     }
   ]
 }

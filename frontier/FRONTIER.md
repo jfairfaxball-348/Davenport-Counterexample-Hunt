@@ -149,3 +149,7 @@ Full existing Markdown table's all 30 numeric/status/source/evidence cells and a
 ## S023 complete n1..30 JSON/Markdown reconciliation
 
 All THIRTY original D(Cn³) numerical bounds, provisional status, evidence classes/sources, and n1..30 row objects retained unchanged. 25 exact/trivial SOURCE_STATED/definition rows and intervals n15 43..45, n20 58..59, n21 61..63, n28 82..83, n30 88..90 remain. S023 p3 counterexample refutes a different short-extraction AUXILIARY, not a Davenport zero-sumfree target. S022 eta(C7³)≤116 is not D(C7³). n6=16 and historical 2p^a/3·2^a exact families retain SOURCE_STATED. CAM-0001 blocked n6=16, Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED. No-hit NOT present-day openness. No hosted CI PASS.
+
+## S024 — complete 30-row numeric/status/evidence JSON/Markdown reconciliation
+
+One-to-one administrative comparison of n=1..30 EVERY row: 30/30 matched n, group, D*, reported bound, provisional status, evidence; no cell changed. 25 settled/trivial, five intervals n15=43..45,n20=58..59,n21=61..63,n28=82..83,n30=88..90. S024 refutes two all-prime generalized **D_k** Lem2.3 inequalities at p2, not ANY n-specific classic **D_1**. Schmid2011 n6=16 and van Emde Boas rank-three 2p^a/3·2^a remain SOURCE_STATED; inherited14/17,+5,43/699/5553 quarantined. Bounded primary exact-source no-hit does NOT establish openness. Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 BLOCKED, missing hosted checks NOT CI PASS.

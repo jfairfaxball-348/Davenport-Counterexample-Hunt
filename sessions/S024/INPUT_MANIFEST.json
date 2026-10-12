@@ -1,0 +1,9 @@
+{
+  "session": "S024",
+  "committed_source": "authoritative/NEXT_SESSION_PROMPT.md",
+  "entry_main": "a57c7aaa264951ad2570459c319fcee36509feb6",
+  "committed_handoff_blob": "0bdbc398d5f0122810219dc3f7344814003e3268",
+  "verbatim_committed_handoff": true,
+  "owner_invocation_transcribed": true,
+  "raw_transport_sha256_claimed": false
+}
