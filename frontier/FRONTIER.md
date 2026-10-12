@@ -1,3 +1,7 @@
+# Frontier after S035 — no change to classic rank-three D1 rows
+
+NEW S035 CLM-0138 applies to hypothetical indexed no-short Z with complete m=2p balanced family and p≡1 mod4: exceptional pair count E>=b(b+1)+3 and nonzero triple Psi support W>=ceil([b(b+1)+3]/3), p13 >=128 compared with prior64. This is an indexed NECESSARY support **lower** bound, not proof of existence or contradiction and NOT a classic Davenport D1/Dk theorem. s=+1 p7 >=29 from S034 stays, while p7 >=37 from S033 remains conditional on unproved P. S032 raw projective U>=p²+10p-8 offers no opposing upper bound; m2p and m>=3p open. All original 30 ordered historical JSON and Markdown frontier entries below preserved byte-for-byte. Phase1 IN_PROGRESS, CAM-0001 blocked n6=16, Phase2/3 NOT_STARTED; zero hosted checks NOT PASS.
+
 # Frontier after S032
 
 S031 CLM-0129 proves exact pair-sum Psi moment: for distinct i,j, sum_{k distinct}Psi_ijk=s(lambda_ij-t) mod p. CLM-0130: if m=2p, at least ceil(L(b+1)/6) distinct triple-deletion coefficients are NONZERO, L=(3p+2+3s)/2 (p7 >=24). CLM-0131: GL3-invariant projective product formula, blocking-set vanishing, and a four-index exchange relation. None excludes m=2p or m>=3p; no strong p>=7 extraction, D2<=6p-6, D1/Dk value, indexed lift, candidate or novelty claim. Phase1 IN_PROGRESS, CAM-0001 blocked. These are symbolic conditional indexed necessary conditions, NOT classic rank-three D1 bounds; all original thirty table rows remain byte-for-byte unchanged.

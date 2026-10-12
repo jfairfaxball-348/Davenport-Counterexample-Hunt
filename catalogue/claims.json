@@ -1470,6 +1470,17 @@
         "SRC-0021"
       ],
       "notes": "Proof internal by m2p two-level block incidence, high-low inclusion-exclusion positivity ONLY for s=+1, low-low zero permitted, pair-moment covering; SRC-0021 methodological original provenance not author-attributed theorem. s=-1 not upgraded."
+    },
+    {
+      "id": "CLM-0138",
+      "statement": "Under hypothetical indexed no-short zero-sum Z in Fp^3 with complete b-block family m=2p, p>=13 prime p=1 mod4 (s=-1), b=3t+1, t=(p-1)/2, q=t+1, L=b lows,H=b+1 highs. Mixed low/high deficit D=sum_LH(t-lambda)>=2tL equals 2sum_HH(lambda-2t). High-high lambda lies [2t,T], and is congruent to t mod p ONLY for lambda=T (nu=q); counting LL/LH/HH exceptional pairs gives E>=b(b+1)+3, forcing >=ceil((b(b+1)+3)/3) NONZERO triple Psi deletion coefficients by S031 pair moment. For p13 W>=128 (prior 64), no positivity P used. Necessary bound, no m2p/m>=3p exclusion, no D1/Dk or D2 result.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S035_NEGATIVE_SIGN_HIGH_HIGH_TRANSFER.md",
+      "source_ids": [
+        "SRC-0021"
+      ],
+      "notes": "Internal exact symbolic incidence/defect hand proof and separate same-executor adversarial pass; SRC-0021 primary methodological provenance NOT source of claim; no search, external reviewer or theorem of Davenport equality."
     }
   ]
 }

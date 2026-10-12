@@ -113,3 +113,7 @@ IN_PROGRESS; PASS WITHHELD. CLM-0132 exact sparse projective zero-fibre and exce
 ## S034 Phase-1 gate — 2026-10-12
 
 **IN_PROGRESS; PASS withheld.** CLM-0137 proves unconditional s=+1 mixed high–low codegree positivity and weighted-defect lower bound on Psi triple support (p7 W>=29, previous unconditional24). Low-low zero codegrees and s=-1 mixed zeros remain possible; stronger S033 p7>=37 demands unproved P. No actual-Z projective-cancellation support upper bound, no m2p or m>=3p exclusion, strong short extraction, D2<=6p-6 or rank3 D1/Dk resolution. Original thirty JSON/Markdown rows and original source records/enums preserved. Phases2/3 NOT_STARTED, CAM-0001 PROPOSED/NOT_RUNNING/BLOCKED n6=16; zero hosted checks NOT PASS. S035 FUTURE ONLY.
+
+## S035 Phase-1 gate — 2026-10-12
+
+**IN_PROGRESS; PASS withheld.** CLM-0138 closes s=-1 m2p high-high transfer and establishes an actual indexed-Z-dependent **LOWER** nonzero Psi support: p13 >=128 versus prior64. Neither s=-1 low-high universal positivity nor all-pairs P is assumed; S034 s=+1 p7>=29 unchanged. S032 raw projective capacity U>=p²+10p−8 is not an opposing actual-Z cancellation UPPER bound. No m2p/m>=3p exclusion, p>=7 strong extraction, D2<=6p−6, rank3 D1/Dk resolution, original source promotion, campaign or publication. All original thirty frontier row objects and full ordered Markdown table rows preserved, original 28 source records unchanged. Phase2/3 NOT_STARTED; CAM-0001 PROPOSED/NOT_RUNNING/BLOCKED n6=16; hosted checks absent NOT PASS. S036 FUTURE ONLY.

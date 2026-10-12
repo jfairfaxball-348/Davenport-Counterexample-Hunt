@@ -147,3 +147,7 @@ Conditional CLM-0135 requires unproved pair-positivity; unconditional CLM-0136 i
 ## S034 — no campaign/candidate
 
 CLM-0137 proves only an internal symbolic necessary Psi-support condition on a hypothetical indexed p>=7 Z, not a vector sequence or rank-three D1/Dk theorem/candidate. CAM-0001 stays PROPOSED/NOT_RUNNING with activation BLOCKED by historical SOURCE_STATED Schmid D(C6^3)=16. No new mathematical numerical search, tooling, solver, author code execution, Phase2/3, Lean or Palomar. Original 30 frontier rows preserved; hosted CI absent NOT PASS.
+
+### S035 disposition — 2026-10-12
+
+CAM-0001 stays **PROPOSED / NOT RUNNING / activation BLOCKED** by published source-stated Schmid2011 D(C6³)=16; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED. New S035 CLM-0138 is a hypothetical indexed Psi support lower bound, NOT a search target, solver result, counterexample, new D1/Dk theorem or authorization for the obsolete n6 campaign. No replacement activation.

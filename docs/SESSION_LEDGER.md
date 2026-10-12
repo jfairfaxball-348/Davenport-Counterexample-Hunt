@@ -131,3 +131,7 @@ S012 closeout: [complete record and FUTURE UNEXECUTED S013 handoff](../sessions/
 | S034 | 2026-10-12 | Bounded Phase1 original-source symbolic unconditional mixed-codegree positivity and weighted exceptional-pair counting, separate internal adversarial reconstruction | CLM-0137 s=+1: p7 Psi support W>=29 unconditional under hypothetical m2p Z (formerly 24); no contradiction, no D1/Dk/phase/campaign upgrade, S035 future only | session/S034-mixed-codegree-defect |
 
 [S034 full proof, entry/provenance/validation, precommit closeout and strictly future S035 handoff](../sessions/S034/CLOSEOUT.md).
+
+| S035 | 2026-10-12 | One separately invoked bounded Phase1 original-source symbolic low–high/high–high transfer and critical Psi support gate, with independent internal symbolic adversarial pass | CLM-0138: for s=-1 m2p, E>=b(b+1)+3 and W>=ceil([b(b+1)+3]/3), p13 >=128 (prior64); NO contradiction/D1/Dk/candidate, Phase1 IN_PROGRESS, CAM-0001 blocked; S036 FUTURE UNEXECUTED | session/S035-negative-sign-high-high-defect |
+
+[S035 complete hand-proof, original archival input, provenance, adversarial review, validation, precommit closeout and strictly future S036 handoff](../sessions/S035/CLOSEOUT.md).
