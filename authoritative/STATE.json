@@ -24,13 +24,14 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S025",
-  "recommended_next_session": "S026",
+  "last_completed_session": "S026",
+  "recommended_next_session": "S027",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": null,
   "phase1_target_status": "WITHHELD_NO_REPLACEMENT_CAMPAIGN",
   "open_blockers": [
+    "S026 proves a new balanced-only incidence obstruction CLM-0122: with classical Olson rank3 D1 source-stated, any 3p zero-sum block in a hypothetical no-<=3(p−1)/2 length 6p−3 sequence has at least FOUR distinct indexed zero-sum b-subsets, b=(3p−1)/2. Proof uses two-deletion pair-cover, three-block bit patterns, and invertible affine incidence matrices (det ±1 or ±2, odd characteristic). This does NOT exclude four or more blocks, does NOT prove the strong p>=7 extraction, and does NOT improve generalized Dk or classic D1. The previous safe recurrence remains M+2 at k0=2p−4; D2<=6p−6 would be sufficient but is unproved. SOURCE_STATED exact historical frontier retained; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 blocked n6=16. Zero hosted checks NOT CI PASS.",
     "S025 CLM-0120 independently reconstructs odd-prime C_p³ original 6p−3 Chevalley–Warning p-or-3p zero-sum existence (p3/p5 included); using SOURCE_STATED classical Olson D1, the weaker <=(3p−1)/2 rank3 extraction is now PROGRAMME_PROVED relative to that imported premise. Strong <=3(p−1)/2 p>=7 is UNPROVED internally; all-prime p2 generalized bound remains REFUTED (S024), not classic D1 counterexample. S025 CLM-0121 safe recurrence yields downstream M+2 at k=2p−4, two-position deficiency, not a theorem failure.",
     "S024 CLM-0115/0116 refute PUBLISHED ALL-PRIME BSP2012 Lem2.3 generalized D_k bounds for p2 (rank3 k19; d4 k25) by order-two repetitions. This is NOT a counterexample to D(C_n³)=3n−2. New CLM-0117 recurrence and conditional weaker CLM-0118/0119 do NOT close stronger odd p≥5/p≥7 coefficient, unproved odd-prime short extraction, or omitted original rank3 proof.",
     "S023 CLM-0113 establishes only the odd-prime weaker (3p−1)/2 split (p7=10), while CLM-0114 supplies an explicit 15-term p3 symbolic counterexample to a universally stronger 3(p−1)/2 short-extraction assertion. BSP2012 Lem2.3 rank-three proof is omitted and stronger p≥7 coefficient unproved; these do NOT refute its multiwise statement or Davenport equality.",
@@ -70,5 +71,15 @@
     "downstream_two_position_deficit": true,
     "frontier_change": false,
     "owner_blocker": false
+  },
+  "s026_result": {
+    "claim": "CLM-0122",
+    "balanced_pair_cover": "PROGRAMME_PROVED with SOURCE_STATED Olson D1",
+    "minimum_balanced_b_blocks": 4,
+    "does_not_prove_strong_p_ge_7": true,
+    "does_not_update_generalized_Dk": true,
+    "downstream_gap": 2,
+    "phase1": "IN_PROGRESS",
+    "CI": "NO_HOSTED_CHECKS_NOT_PASS"
   }
 }

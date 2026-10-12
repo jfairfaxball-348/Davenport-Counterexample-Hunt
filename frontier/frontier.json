@@ -567,5 +567,27 @@
     "phase1": "IN_PROGRESS",
     "campaign": "CAM-0001 BLOCKED n6=16",
     "notes": "S025 proved odd prime CW rank3 extraction relative to source-stated Olson; stronger p>=7 and downstream M+2 deficit do not change any D1 value/source evidence class."
+  },
+  "s026_audit": {
+    "session": "S026",
+    "all30_rows_unchanged": true,
+    "rows": 30,
+    "intervals": [
+      15,
+      20,
+      21,
+      28,
+      30
+    ],
+    "exact_source_or_trivial": 25,
+    "claim": "CLM-0122",
+    "new_rank3_D1_exact_value": false,
+    "strong_p_ge7_extraction_proved": false,
+    "Dk_deficit": 2,
+    "phase1": "IN_PROGRESS",
+    "phase2": "NOT_STARTED",
+    "phase3": "NOT_STARTED",
+    "CAM": "PROPOSED/NOT_RUNNING/BLOCKED n6=16",
+    "hosted_CI_PASS": false
   }
 }

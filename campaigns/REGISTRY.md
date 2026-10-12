@@ -111,3 +111,7 @@ Printed BSP2012 **generalized D_k** all-prime inequalities are refuted at p2 by 
 ## S025 administrative non-activation confirmation
 
 CAM-0001 retains original PROPOSED / NOT RUNNING status; activation BLOCKED by SOURCE_STATED exact D(C6³)=16, with obsolete n6 premise. NO Phase2 tooling, Phase3 campaign, solver, orbit count, candidate, certification, target selection or numerical search. New CLM-0120/0121 are symbolic source audits unrelated to campaign activation. All thirty rank-three D1 original source/evidence classes and endpoints preserved.
+
+## S026 administrative non-activation confirmation
+
+CLM-0122 is a bounded symbolic obstruction, NOT a counterexample or search authorization. CAM-0001 remains PROPOSED / NOT RUNNING, activation BLOCKED by SOURCE_STATED Schmid D(C6³)=16, and premise remains obsolete. No replacement target, campaign activation, solver, code execution, enumeration, Phase2/3, Lean or Palomar. Full original n1..30 D1 table rows untouched, Phase1 IN_PROGRESS; missing hosted checks NOT CI PASS.

@@ -39,3 +39,7 @@ CLM-0111 every-prime Property C (S013 conditional B⇒C plus S021 universal B) a
 ## S025 scoped original-primary-source proof addition
 
 CLM-0120 reconstructs the definitive original BSP2012 odd-prime C_p³ length 6p−3 Chevalley–Warning p-or-3p existence, including the complete 5p exclusion and mod-p factor identities. With CLASSICAL Olson D(C_p³)=3p−2 imported SOURCE_STATED, <=(3p−1)/2 short extraction is independently proved for odd primes, thereby discharging S024's rank3 conditional antecedent. S023 p3 stronger <=3(p−1)/2 obstruction still holds, p>=7 stronger case UNPROVED. CLM-0121 yields exact S024 recurrence D_k<=6p−4+(k−2)(3p−1)/2 for k>=2 (relative to Olson) and a two-position M+2 shortfall at downstream k=2p−4. Neither is a novel exact D(C_n³) theorem or a candidate. Source and detailed calculations research/S025_BSP_ODD_PRIME_EXTRACTION.md. All original n1..30 endpoints/evidence unchanged, Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 BLOCKED.
+
+## S026 symbolic incidence extension
+
+CLM-0122 derives, from S025 p-or-3p existence and **SOURCE_STATED classical Olson rank3 D1=3p−2**, the exact balanced-pair-cover and three-cut obstruction: a hypothetical p>=7 no-<=3(p−1)/2 sequence forces >=4 indexed b=(3p−1)/2 zero-sum blocks in each 3p zero-sum Z. It does not eliminate >=4 blocks or prove stronger extraction / original BSP rank3 multiwise bound. The safe downstream M+2 deficit and every n1..30 D1 historical frontier cell remain unchanged. Full argument in research/S026_BALANCED_ONLY_INCIDENCE.md; S027 future only.

@@ -1,0 +1,26 @@
+{
+  "session": "S026",
+  "queried_at_entry_main": "f93b913a5ef289979aead91b5630304191a604cd",
+  "git_ref_main": "f93b913a5ef289979aead91b5630304191a604cd",
+  "s025_git_parents": [
+    "40a45d84357659614ef5411a126efd5db720da6f",
+    "1363679caea45bc0fd0bcdd5b8475813dd1090a1"
+  ],
+  "s025_merge_tree": "15f508e74705cc6736543152ac99bc2158e7e502",
+  "s025_branch_parent": "40a45d84357659614ef5411a126efd5db720da6f",
+  "s025_branch_tree": "15f508e74705cc6736543152ac99bc2158e7e502",
+  "prs_total": 25,
+  "prs_open": 0,
+  "branches_total": 26,
+  "competing_s026": 0,
+  "rulesets_count": 0,
+  "branch_protected_summary": false,
+  "branch_protection_details": "403 UNKNOWN",
+  "workflow_files_in_tree": 0,
+  "workflow_endpoint": "NOT ALLOWED by connector; UNKNOWN",
+  "actions_runs_count": 0,
+  "check_runs_count": 0,
+  "commit_status_contexts_count": 0,
+  "combined_status": "pending, no status contexts",
+  "no_hosted_CI_PASS": true
+}

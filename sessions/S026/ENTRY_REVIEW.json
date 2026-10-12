@@ -1,0 +1,29 @@
+{
+  "session": "S026",
+  "entry_main": "f93b913a5ef289979aead91b5630304191a604cd",
+  "entry_tree": "15f508e74705cc6736543152ac99bc2158e7e502",
+  "prior_s025_branch": "1363679caea45bc0fd0bcdd5b8475813dd1090a1",
+  "prior_s025_parent": "40a45d84357659614ef5411a126efd5db720da6f",
+  "prior_s025_tree": "15f508e74705cc6736543152ac99bc2158e7e502",
+  "prior_pr": 25,
+  "prior_merge": "f93b913a5ef289979aead91b5630304191a604cd",
+  "prior_merge_parents": [
+    "40a45d84357659614ef5411a126efd5db720da6f",
+    "1363679caea45bc0fd0bcdd5b8475813dd1090a1"
+  ],
+  "prior_branch_commits": 1,
+  "open_prs": 0,
+  "prior_prs_1_to_25": "all 25 closed/merged",
+  "competing_s026_records_or_branches_at_entry": 0,
+  "rulesets": [],
+  "main_protected_summary": false,
+  "branch_protection": "HTTP403 Resource not accessible by integration; UNKNOWN details",
+  "workflow_files_recursive_tree": 0,
+  "workflow_listing_endpoint": "fetch rejected; UNKNOWN access",
+  "hosted_actions_runs": 0,
+  "hosted_jobs": "no run to inspect",
+  "hosted_check_runs": 0,
+  "hosted_status_contexts": 0,
+  "combined_status": "pending",
+  "hosted_ci_pass": false
+}

@@ -1,0 +1,20 @@
+{
+  "session": "S026",
+  "principal_primary": "SRC-0021 definitive publisher BSP2012 printed pp22–24/PDF pages1–3",
+  "primary_scope": "PROOF_INSPECTED existing class; no source-access upgrade",
+  "imported": "SRC-0003 classical Olson rank3 D1=3p−2 SOURCE_STATED; not freshly independently proved",
+  "clm": "CLM-0122 PROGRAMME_PROVED scoped incidence theorem",
+  "sheikh": "official full original 137-page PDF inaccessible HTTP403; Chapter4/Remark4.3.11 not authenticated",
+  "ghst": "original C53 code AND output endpoint inaccessible; NOT RUN",
+  "yiu": "arxiv2609.04950v1 HTML original read-only; 98622 and230983 generators NOT independent terminal M1; M2/M3 different tests; final independent M1 unauthenticated",
+  "interval_primary_queries": [
+    15,
+    20,
+    21,
+    28,
+    30
+  ],
+  "no_new_authenticated_exact_values": true,
+  "no_current_openness_inference": true,
+  "source_class_changes": 0
+}
