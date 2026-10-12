@@ -692,5 +692,25 @@
     "phase1": "IN_PROGRESS",
     "campaign": "CAM-0001 BLOCKED n6=16",
     "hosted_ci_pass": false
+  },
+  "s032_audit": {
+    "session": "S032",
+    "original_rows_preserved": 30,
+    "markdown_table_rows_preserved": 30,
+    "intervals_unchanged": [
+      15,
+      20,
+      21,
+      28,
+      30
+    ],
+    "new_D1_value": false,
+    "new_Dk_bound": false,
+    "p7_raw_capacity_minimum": 111,
+    "p7_prior_support_lower": 24,
+    "m2p_excluded": false,
+    "phase1": "IN_PROGRESS",
+    "campaign": "CAM-0001 BLOCKED n6=16",
+    "hosted_ci_pass": false
   }
 }

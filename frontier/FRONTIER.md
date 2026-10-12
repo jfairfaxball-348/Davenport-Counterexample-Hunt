@@ -1,4 +1,4 @@
-# Frontier after S031
+# Frontier after S032
 
 S031 CLM-0129 proves exact pair-sum Psi moment: for distinct i,j, sum_{k distinct}Psi_ijk=s(lambda_ij-t) mod p. CLM-0130: if m=2p, at least ceil(L(b+1)/6) distinct triple-deletion coefficients are NONZERO, L=(3p+2+3s)/2 (p7 >=24). CLM-0131: GL3-invariant projective product formula, blocking-set vanishing, and a four-index exchange relation. None excludes m=2p or m>=3p; no strong p>=7 extraction, D2<=6p-6, D1/Dk value, indexed lift, candidate or novelty claim. Phase1 IN_PROGRESS, CAM-0001 blocked. These are symbolic conditional indexed necessary conditions, NOT classic rank-three D1 bounds; all original thirty table rows remain byte-for-byte unchanged.
 
@@ -179,3 +179,7 @@ Independently re-compared 30 original JSON row objects with ALL 30 Markdown tabl
 ## S029 — all thirty original row objects/table rows conserved
 
 CLM-0125/0126 affects conditional local indexed block counts only, not any D1 endpoint. Preserve all 30 original n/group/D*/bounds/status/ordered-evidence entries, 25 historical exact/trivial and five intervals n15 43..45,n20 58..59,n21 61..63,n28 82..83,n30 88..90. SOURCE_STATED historical Schmid n6=16 and van Emde Boas/Yiu distinctions retained. Bounded source queries did not authenticate a new exact statement, never current openness. CAM-0001 blocked, Phase1 IN_PROGRESS; absent hosted CI is NOT PASS.
+
+## S032: original30 numeric/status/evidence rows preserved
+
+CLM-0132–0134 identify only a symbolic projective incidence NO-GO for coarse Psi support bounds. No new rank3 D1 value, D2 result, candidate or campaign. All original thirty JSON row objects and Markdown n/group/D*/bounds/status/full ORDERED evidence rows remain intact. Historical25 and five intervals n15 43..45,n20 58..59,n21 61..63,n28 82..83,n30 88..90; Schmid n6=16 and van Emde Boas/Yiu SOURCE_STATED. Phase1 IN_PROGRESS, campaign blocked, zero hosted checks NOT CI PASS.

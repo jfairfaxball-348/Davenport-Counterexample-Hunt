@@ -1,0 +1,40 @@
+{
+  "session": "S032",
+  "reviewed": [
+    {
+      "id": "SRC-0021",
+      "access": "PROOF_INSPECTED",
+      "url": "https://pro.univ-lille.fr/fileadmin/user_upload/pages_pros/gautami_bhowmik/Publications/large_exponent.pdf",
+      "observed": "Fresh original publisher offprint 2012 pp22-23 including p23 rendered page; weaker Lem2.1 threshold, unsupported printed stronger inference and rank3 omitted Lem2.3 proof; S032 claims not attributed to authors"
+    },
+    {
+      "id": "SRC-0003",
+      "access": "STATEMENT_INSPECTED",
+      "observed": "Historical Olson D1 not imported by S032 local hyperplane proof"
+    },
+    {
+      "name": "Sheikh2017 full Chapter4",
+      "access": "UNREAD",
+      "observed": "No new full chapter original proof inspected"
+    },
+    {
+      "name": "GHST author C53",
+      "access": "UNREAD",
+      "observed": "Original complete code/output not inspected or run"
+    },
+    {
+      "id": "SRC-0015",
+      "access": "PROOF_INSPECTED historical",
+      "observed": "M1 terminal independent three-disjoint verification unauthenticated; inherited original enum not upgraded"
+    }
+  ],
+  "interval_source_checks": [
+    15,
+    20,
+    21,
+    28,
+    30
+  ],
+  "new_exact_original_authentications": 0,
+  "source_access_enum_changes": 0
+}

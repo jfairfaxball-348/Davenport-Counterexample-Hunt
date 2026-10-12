@@ -126,3 +126,7 @@ See research/S017_REIHER_PROPOSITION_8_1.md. Next S018 original Obs9.1/Lem9.2 is
 | 2026-10-12 | S031 exact pair-sum Psi relation sum_k Psi_ijk=s(lambda_ij-t), including correct distinct-index and complement incidence coefficients | CLM-0129; research/S031_TRIPLE_MOMENTS_AND_PROJECTIVE_EXCHANGE.md | PROGRAMME_PROVED internal; no Psi universal vanishing |
 | 2026-10-12 | Conditional m=2p forces >=ceil(L(b+1)/6) nonzero triple Psi coefficients (p7 >=24); GL3 projective/blocking and four-index exchange proved | CLM-0130/0131; S031 internally adversarially reconstructed | Necessary constraints only; NO m2p contradiction or D2 saving |
 | 2026-10-12 | Preserve 30/30 D1 frontier original rows, historical access classes, blocked CAM-0001, Phase1 IN_PROGRESS; S032 future-only | S031 administrative/source audit | No new D1/Dk theorem, novelty or hosted CI PASS |
+
+| 2026-10-12 | S032 exact light projective zero-fibre triple Psi support and pair-cover capacity, projective point/line incidence deficit plus exact pair moment | CLM-0132/0133, internally reconstructed | PROGRAMME_PROVED scoped necessary conditions |
+| 2026-10-12 | Raw union capacity U>=p²+10p-8 cannot contradict S031 lower (p7 111>24) | CLM-0134 exact algebra and p7 hand substitution | NO-GO for raw counting only; m2p unexcluded |
+| 2026-10-12 | All original30 D1 frontier JSON/Markdown rows, source enums and campaign status preserved; S033 future only | S032 admin/source review | Phase1 IN_PROGRESS; NO D1/Dk theorem, candidate or hosted CI PASS |

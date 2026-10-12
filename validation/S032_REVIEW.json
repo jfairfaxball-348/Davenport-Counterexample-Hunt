@@ -1,0 +1,13 @@
+{
+  "session": "S032",
+  "review_type": "SEPARATE_INTERNAL_SAME_EXECUTOR",
+  "external_review": false,
+  "verified_claims": [
+    "CLM-0132",
+    "CLM-0133",
+    "CLM-0134"
+  ],
+  "scope": "exact sparse zero fibre expansion, incidence moments, raw bound no-go",
+  "first_unproved": "sharp structural/cancellation upper bound for actual indexed Z; m=2p still open",
+  "formal_certificate": false
+}

@@ -1,0 +1,28 @@
+{
+  "session": "S032",
+  "entry_main": "a8d268c9dd6aa98781e08982d8a448b67c72f693",
+  "entry_tree": "9aaf5ae3a6e461aefd5349ee04cc86a77cb8cc75",
+  "prior_branch_commit": "02638aa12c38bd75fd6eb287feaafad20e26105f",
+  "prior_parent": "eed11ce4a6e05515198e48a32ba8cc8165bc375c",
+  "prior_tree": "9aaf5ae3a6e461aefd5349ee04cc86a77cb8cc75",
+  "prior_pr": 31,
+  "prior_merge": "a8d268c9dd6aa98781e08982d8a448b67c72f693",
+  "prior_merge_parents": [
+    "eed11ce4a6e05515198e48a32ba8cc8165bc375c",
+    "02638aa12c38bd75fd6eb287feaafad20e26105f"
+  ],
+  "prior_branch_commits": 1,
+  "prs_total": 31,
+  "prs_all_merged": true,
+  "open_prs": 0,
+  "competing_s032_at_entry": 0,
+  "rulesets": [],
+  "branch_protection": "403 UNKNOWN",
+  "workflow_files": 0,
+  "workflow_listing": "rejected/UNKNOWN",
+  "hosted_runs": 0,
+  "hosted_jobs": 0,
+  "check_runs": 0,
+  "status_contexts": 0,
+  "hosted_ci_pass": false
+}

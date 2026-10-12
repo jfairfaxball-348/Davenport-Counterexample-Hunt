@@ -1,0 +1,13 @@
+# S032 closeout — 2026-10-12 (PRECOMMIT)
+
+**One bounded result:** CLM-0132 exact sparse projective zero-fibre formula for Psi triple deletion, upper-support budget U and exceptional-pair covering bound. CLM-0133 exact incidence deficit sum(3-h_X)=3, second factorial moment and rank-one multiplicity cap. CLM-0134 universal NO-GO: the raw light-hyperplane capacity U >= p²+10p-8, strictly larger than the S031 conditional support lower B, so this simple numeric upper-vs-lower comparison cannot eliminate m=2p. p7 B24, pair lower72, U>=111. Fully symbolic, no instance computation or candidate.
+
+**STOP:** actual overlaps/cancellation and b-block/hyperplane correlation NOT controlled; m=2p or m>=3p not excluded; no strong p>=7 extraction, D2 saving, original omitted rank3 BSP Lem2.3 proof, rank3 Davenport resolution, novelty or publication. Optional Route B not activated. One same-executor separate internal adversarial proof pass, not external/formal certification.
+
+**Entry:** a8d268c9dd6aa98781e08982d8a448b67c72f693 tree 9aaf5ae3a6e461aefd5349ee04cc86a77cb8cc75, S031 atomic commit 02638aa12c38bd75fd6eb287feaafad20e26105f parent eed11ce4a6e05515198e48a32ba8cc8165bc375c tree 9aaf5ae3a6e461aefd5349ee04cc86a77cb8cc75; PR31 ordinary two-parent merge to entry main. All 31 PRs merged; zero open, no competing S032 at entry. Rulesets [], protection 403 UNKNOWN, zero actual workflow files, workflow endpoint rejected UNKNOWN; hosted actions runs/check-runs/status contexts zero; NO CI PASS.
+
+**Source:** original BSP2012 publisher offprint printed pp22–23 inspected fresh incl. p23 visual, strong printed split unsupported by supplied proof and rank3 Lem2.3 proof omitted. Sheikh Chapter4 and GHST full original code/output unread, Yiu independent M1 terminal verification unauthenticated; n15/20/21/28/30 no new original exact statement. Source access categories unchanged.
+
+**Invariants:** original thirty JSON frontier row objects and thirty Markdown n/group/D*/bounds/status/FULL ORDERED evidence rows preserved; historical25 + intervals n15 43..45,n20 58..59,n21 61..63,n28 82..83,n30 88..90. Schmid n6=16 and van Emde Boas/Yiu remain SOURCE_STATED, inherited14/17,+5,43/699/5553 quarantined. Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 PROPOSED/NOT_RUNNING/BLOCKED n6=16.
+
+**Integration contract:** ONE atomic S032 branch commit and actual PR, ordinary non-force two-parent merge; independently check final main. This closeout is PRECOMMIT and DOES NOT invent outgoing SHA/PR. S033 strictly FUTURE UNEXECUTED, needs another explicit owner invocation. No owner/action blocker identified at entry.

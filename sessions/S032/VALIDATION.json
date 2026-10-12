@@ -1,0 +1,22 @@
+{
+  "session": "S032",
+  "entry_main": "a8d268c9dd6aa98781e08982d8a448b67c72f693",
+  "original_frontier_json_rows": 30,
+  "original_frontier_md_rows": 30,
+  "frontier_numeric_and_ordered_evidence_unchanged": true,
+  "source_enums_unchanged": true,
+  "source_json_unchanged": true,
+  "claims_unique": true,
+  "new_claims": [
+    "CLM-0132",
+    "CLM-0133",
+    "CLM-0134"
+  ],
+  "math_review": "SEPARATE_INTERNAL_SAME_EXECUTOR_HAND_PROOF",
+  "formal_proof": false,
+  "mathematical_instance_search": false,
+  "campaign_run": false,
+  "phase1": "IN_PROGRESS",
+  "hosted_ci_pass": false,
+  "no_raw_sha256_invented": true
+}

@@ -392,3 +392,7 @@ SRC-0021 definitive original publisher offprint [Bhowmik–Schlage-Puchta 2012](
 ## S031 read-only provenance (2026-10-12)
 
 Definitive publisher original Bhowmik–Schlage-Puchta 2012 SRC-0021 original pp22–24/p23 image reread. Printed Lemma2.1 weaker (3p-1)/2, subsequent stronger 3(p-1)/2 lacks a shown extra step; rank3 Lemma2.3 proof omitted. New S031 CLM-0129–0131 derive internally from S030, NOT source-authored results. Historical Olson SRC-0003 remains SOURCE_STATED. Sheikh original full thesis Chapter4 unread, GHST C53 FULL author code/output unread and NEVER run, Yiu final M1 independent predicate/log/certificates not authenticated (98622/230983 counts concern generators). Narrow original-exact checks n15/20/21/28/30 did not authenticate new exact theorems; no absence/openness claim. Source JSON access enums/records unchanged.
+
+## S032 primary read-only provenance — 2026-10-12
+
+Bhowmik–Schlage-Puchta 2012 publisher offprint original pp22–23, including freshly visually inspected p23: weaker Lem2.1 vs unsupported stronger 3(p-1)/2 printed inference and omitted rank3 Lem2.3 proof. S032 CLM-0132–0134 are internal deductions and NOT attributed to that article. Sheikh2017 full Chapter4, GHST C53 full code/output remain unread; GHST NEVER RUN; Yiu M1 independent final three-disjoint terminal predicate/log/certificates unauthenticated (98622/230983 only generator counts). Narrow n15/20/21/28/30 no new primary authenticated exact source, no absence/openness inference. All source JSON records/enums unchanged.
