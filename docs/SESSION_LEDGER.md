@@ -151,3 +151,6 @@ S012 closeout: [complete record and FUTURE UNEXECUTED S013 handoff](../sessions/
 | S039 | 2026-10-13 | Sustained A+B+C+D symbolic attack and hostile dependency audit | D2<=5p-3; M+2 comparison bypassed with slackp-3; old S004 route recovered; Psi/strong extraction/global conjecture unresolved; Phase1 IN_PROGRESS | session/S039-multifront-multiwise-repair |
 
 [Full S039 closeout](../sessions/S039/CLOSEOUT.md). S040 future only.
+
+
+| S040 | 2026-10-13 | Intensive symbolic all-rank eta + multiwise + composite obstruction | CLM-0148/0149/0150, published eta bound independently reconstructed without original p7 exception; Dk<=pk+p²-3 large-prime; five sharp bare-subgroup gaps; no composite equality/candidate; Phase1 IN_PROGRESS | session/S040-line-pigeonhole-composite |

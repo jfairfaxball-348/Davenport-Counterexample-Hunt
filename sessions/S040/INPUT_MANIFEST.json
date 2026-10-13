@@ -1,0 +1,10 @@
+{
+  "session": "S040",
+  "canonical_source": "authoritative/NEXT_SESSION_PROMPT.md@ef982dd532cd5f275d24bdddcddf538b05e04447",
+  "canonical_git_blob_sha": "b100bedec8c142c95c1844121f44ca15373271f8",
+  "canonical_archived_verbatim": true,
+  "owner_invocation_file": "sessions/S040/OWNER_INVOCATION.md",
+  "raw_chat_sha256": null,
+  "authenticated_raw_chat_bytes_available": false,
+  "new_session_authorized": true
+}

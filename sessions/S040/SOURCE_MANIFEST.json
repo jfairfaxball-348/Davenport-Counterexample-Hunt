@@ -1,0 +1,18 @@
+{
+  "session": "S040",
+  "original_source_object_count": 28,
+  "original_source_objects_and_enums_unchanged": true,
+  "original_publisher_primary_id": "SRC-0021",
+  "corroboration_url": "https://arxiv.org/pdf/1702.03403",
+  "pages_inspected_in_arxiv": "PDF pages 9-10, section 5",
+  "already_independently_proved_rank2_dependencies": [
+    "CLM-0091",
+    "CLM-0111"
+  ],
+  "uninspected_still": [
+    "Sheikh full Chapter 4",
+    "GHST C53 complete author code/output",
+    "Yiu independent complete final predicate"
+  ],
+  "no_source_status_promotion": true
+}

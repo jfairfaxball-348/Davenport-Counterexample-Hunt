@@ -159,3 +159,8 @@ See research/S017_REIHER_PROPOSITION_8_1.md. Next S018 original Obs9.1/Lem9.2 is
 ## S039 — 2026-10-13
 
 S039 CLM-0142–0144 directly reconstruct prime D1 and prove D2(Cp^3)<=5p-3 for odd primes, then D_k<=5p-3+(k-2)(3p-1)/2. At k0=2p-4, D_k0<=M-(p-3), p7 112<=116 and p13 442<=452: the prior M+2 comparison obstacle is CLOSED independently of strong extraction/Psi. S004/S005 already contained a weaker conditional bypass; this restores that dependency and improves its base one position, with no novelty claim. CLM-0145–0147 add six/seven containment witnesses, matching actual mixed upper capacities, boundary-adjacent all-layer cuts and >=5 vector VALUES. No incompatible upper, m2p/higher exclusion, strong extraction, composite Davenport resolution or candidate. General eta/global induction remain separate. Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 PROPOSED / NOT RUNNING / BLOCKED n6=16; original30 frontier/28 source records preserved; hosted CI ABSENT_NOT_PASS. S040 STRICTLY FUTURE.
+
+
+## S040 decision — 2026-10-13
+
+Reconstructed general p>=7 all-rank eta via maximal projective-line pigeonhole before BSP plane averaging, eliminating p7 Lem5.2 as a REQUIRED premise for this alternative route (CLM-0148). Composed CLM-0149 Dk<=pk+p²-3 for k>=2p-4. Main composite target still unresolved: sharp bare multiwise lifting misses five original intervals by 2/1/2/1/2, conditional on source-stated p3/prime-power bounds (CLM-0150). Prioritise coupled quotient-block structure and decorations in S041; preserve frontier and source records. No Phase1 PASS, Phase2/3 or campaigns, no novelty claim.
