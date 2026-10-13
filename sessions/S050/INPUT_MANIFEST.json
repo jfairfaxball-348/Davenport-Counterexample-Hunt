@@ -1,0 +1,11 @@
+{
+  "session": "S050",
+  "entry_main": "560bf8a06328bc048172f8d905686a62058a2198",
+  "prompt_path": "sessions/S050/INPUT.md",
+  "prompt_blob_sha_at_entry": "97f3b4c85dfa01ac7fb0490389d990d82c156088",
+  "invocation_path": "sessions/S050/OWNER_INVOCATION.md",
+  "owner_invocation_received": "2026-10-13T20:25:00+01:00",
+  "raw_owner_sha256": null,
+  "raw_prompt_archived": true,
+  "git_timestamped_preregistration_pre_math": false
+}

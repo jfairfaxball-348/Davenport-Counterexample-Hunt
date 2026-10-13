@@ -267,3 +267,10 @@ One explicitly owner-invoked symbolic Phase1 session against live merge-main 96f
 | p5 | TWO different selected X labels or all prefix chain sizes force immediate H cancellation | **FALSE** on CLM-0190's two-chain family. Some tests differ but joint totals duplicate; other positions/order/D or q might yet obstruct |
 | Governance | Git PLAN is timestamped BEFORE deduction | **FALSE:** visible plan preceded math, final Git PLAN did not. Original30/28 preserved, no hosted CI PASS |
 
+## S050 — precision traps, 2026-10-13
+1. The four-pair lemma assumes all **nonempty** even-subset sums W\{0} lie in the 5-residue E slab; the six-residue (2,1,1,1) contradiction uses the **empty** even subset only AFTER adjoining a nonempty Fano line. Demanding E(U) for empty J by itself is invalid.
+2. The arbitrary pair must extend to a genuine partition of all eight original positions. Pair matching labels do not produce independent constraints; all 763→127 compression already known.
+3. In the C20 argument, parity-zero sums only allow iota^-1; there is NO CRT C2⊕C10 splitting. The C5×Cm CRT part is separate and legitimate.
+4. The affine inverse family P_t is four examples, NOT a proof for arbitrary support, E empty/λ0, or all six-cap re-strippings.
+5. Third original CRT index failure does NOT eliminate the two original choices that S049 proved prefix-compatible; one obstruction is not full all-index elimination.
+6. PRECOMMIT closeout cannot truthfully assert outgoing branch/PR/merge SHAs; independently verify them externally after integration.

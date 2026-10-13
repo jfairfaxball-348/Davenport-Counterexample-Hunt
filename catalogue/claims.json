@@ -2051,6 +2051,39 @@
         "SRC-0008"
       ],
       "notes": "Exact hand rectangle proof; no general classification or n15 composite equality."
+    },
+    {
+      "id": "CLM-0192",
+      "statement": "For U22=f1^9 f2^9 f3^4 in H=C10³, NO minimally zero C20³ T59 has 22 disjoint pairs giving U, eight arbitrary ORIGINAL points all in ANY one F2³ parity class, and seven remaining singletons representing every nonzero parity vector once. All four-pair partitions force third labels of eight points identical 1 or 11 mod20, then Fano line/cap identities contradict 7=6 mod10. Fixed-core only.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S050_N20_ALL_SAME_PARITY_SLAB_EXCLUSION.md",
+      "source_ids": [
+        "SRC-0023"
+      ],
+      "notes": "Fully symbolic arbitrary-pairing subset-sum lemma plus original-index non-split Fano contradiction; no other U22 cores/profile excluded."
+    },
+    {
+      "id": "CLM-0193",
+      "statement": "For every t∈F5×, P_t=e1³e2³e3³(e1+e2)(e1+t e3) is eleven-term C5³ zero-free and E(P_t)={(0,1,1−t),(0,0,1),(4,1,1),(1,0,1−t)} lies on nonzero affine plane x+y+t^-1 z=t^-1; all-P11 affine inverse remains open.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S050_N15_PARAMETER_INVERSE_FAMILY.md",
+      "source_ids": [
+        "SRC-0008"
+      ],
+      "notes": "Direct symbolic yz-rectangle coverage, four parameters, not a universal inverse."
+    },
+    {
+      "id": "CLM-0194",
+      "statement": "In S049 target A'_k CRT indexed construction (m=3 or4), selecting the THIRD original X index in first f2 pure block with decoration f2−f3 gives new pure decoration f3; with untouched m−1 pure f3 blocks creates an actual nonempty Gzero-sum already at prefix r=1; h=0/f3 original index choices remain prefix-compatible.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S050_P5_THIRD_INDEX_EXCHANGE_FAILURE.md",
+      "source_ids": [
+        "SRC-0015"
+      ],
+      "notes": "One newly incompatible original index; no all-index or full-classification claim."
     }
   ]
 }

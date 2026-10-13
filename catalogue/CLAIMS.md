@@ -1238,3 +1238,20 @@ No composite Davenport value/counterexample or formal/external certification; pr
 - **CLM-0190:** [research/S049_P5_TWO_CHAIN_PREFIX_HOSTILE.md](../research/S049_P5_TWO_CHAIN_PREFIX_HOSTILE.md). TWO real different selected original X labels 0/f3, all r=1..k-2 prefix exchange chains, Δ=-f2≠0, OLD and both NEW complete H=C_m³ k-1 lists zero-free for m3/m4. Some β tests differ, some joint tests duplicate; not all chains/G lift.
 - **CLM-0191:** [research/S049_N15_NEARMAX_EXTENSION_CASE.md](../research/S049_N15_NEARMAX_EXTENSION_CASE.md). P=e1³e2³e3³(e1+e2)(e1+e3) in C5³ zero-free; E(P) precisely four points lying in affine ℓ=sum=1. The full nonzero affine plane is NOT the extension set; universal inverse unresolved.
 No new composite Davenport value, candidate, phase PASS, source access upgrade or novelty; internally reviewed only.
+
+## S050 added programme proofs (INTERNAL, no certification)
+
+### CLM-0192 — PROGRAMME_PROVED
+For U22=f1^9 f2^9 f3^4 in H=C10³, NO minimally zero C20³ T59 has 22 disjoint pairs giving U, eight arbitrary ORIGINAL points all in ANY one F2³ parity class, and seven remaining singletons representing every nonzero parity vector once. All four-pair partitions force third labels of eight points identical 1 or 11 mod20, then Fano line/cap identities contradict 7=6 mod10. Fixed-core only.
+
+Origin: [S050 N20 proof](../research/S050_N20_ALL_SAME_PARITY_SLAB_EXCLUSION.md); context SRC-0023 SOURCE_STATED. All-core C20 conjecture remains open.
+
+### CLM-0193 — PROGRAMME_PROVED
+For every t∈F5×, P_t=e1³e2³e3³(e1+e2)(e1+t e3) is eleven-term C5³ zero-free and E(P_t)={(0,1,1−t),(0,0,1),(4,1,1),(1,0,1−t)} lies on nonzero affine plane x+y+t^-1 z=t^-1; all-P11 affine inverse remains open.
+
+Origin: [S050 N15 proof](../research/S050_N15_PARAMETER_INVERSE_FAMILY.md); context SRC-0008 SOURCE_STATED. Universal inverse unresolved.
+
+### CLM-0194 — PROGRAMME_PROVED
+In S049 target A'_k CRT indexed construction (m=3 or4), selecting the THIRD original X index in first f2 pure block with decoration f2−f3 gives new pure decoration f3; with untouched m−1 pure f3 blocks creates an actual nonempty Gzero-sum already at prefix r=1; h=0/f3 original index choices remain prefix-compatible.
+
+Origin: [S050 CRT proof](../research/S050_P5_THIRD_INDEX_EXCHANGE_FAILURE.md); context SRC-0015 SOURCE_STATED. No all-index elimination.
