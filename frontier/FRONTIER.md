@@ -1,3 +1,7 @@
+# S039 current result — ORIGINAL THIRTY ROWS UNCHANGED
+
+S039 CLM-0142–0144 directly reconstruct prime D1 and prove D2(Cp^3)<=5p-3 for odd primes, then D_k<=5p-3+(k-2)(3p-1)/2. At k0=2p-4, D_k0<=M-(p-3), p7 112<=116 and p13 442<=452: the prior M+2 comparison obstacle is CLOSED independently of strong extraction/Psi. S004/S005 already contained a weaker conditional bypass; this restores that dependency and improves its base one position, with no novelty claim. CLM-0145–0147 add six/seven containment witnesses, matching actual mixed upper capacities, boundary-adjacent all-layer cuts and >=5 vector VALUES. No incompatible upper, m2p/higher exclusion, strong extraction, composite Davenport resolution or candidate. General eta/global induction remain separate. Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 PROPOSED / NOT RUNNING / BLOCKED n6=16; original30 frontier/28 source records preserved; hosted CI ABSENT_NOT_PASS. S040 STRICTLY FUTURE.
+
 # S038 frontier — original thirty rank-three D1 numerical/evidence rows PRESERVED
 
 CLM-0141: hypothetical m=2p low–high indexed pairs ALL have >=3 nonzero Psi witnesses; exact containment gives >=h(p), yielding W>=ceil(3LH/2), p7 W>=156 (previous87) and p13 W>=570 (previous383). These are NECESSARY LOWER support bounds, not rank-three D1/Dk values or a contradiction. Exact thirty original full ordered Markdown frontier table rows below UNCHANGED, corresponding 30 JSON row objects untouched. Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 blocked n6=16; no hosted CI PASS.

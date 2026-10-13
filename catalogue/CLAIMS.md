@@ -954,3 +954,51 @@ Three-index deletion equals the polynomial degree sum and produces explicit Psi(
 ## S038 — CLM-0141 low–high containment forces extra Psi witnesses
 
 **CLM-0141 · PROGRAMME_PROVED scoped (hypothetical Z,m=2p):** Every low–high pair has >=3 active critical Psi third-index witnesses, whether its scalar pair moment vanishes or not. For a low–high pair with lambda=t, the exact inclusion F_low subset F_high yields exactly p additional *distinct* high-only b-blocks and Psi_ijk=s mu_k, where mu_k counts those extra blocks through k. Fixed block sizes imply >=h(p)=min{h:binom(h,floor(h/2))>=p} varying indexed columns/nonzero Psi; h(7)=5,h(13)=6. Since one nonzero triple contains <=2 mixed pairs, **2W>=3LH+(h(p)-3)F**, F=# mixed containment pairs, and **W>=ceil(3LH/2)**: p7 >=156 (previous87), p13 >=570 (previous383). Identical incidence-neighbourhood pairs instead have pointwise Psi=0. These are NECESSARY LOWER support constraints, no opposing actual-Z upper, m2p/m>=3p exclusion, classical D1/Dk or D2 bound, candidate or source upgrade. [Full symbolic argument](../research/S038_MIXED_NEIGHBORHOOD_PSI_WITNESSES.md).
+
+## CLM-0142 — Prime rank-three Davenport proof
+
+Status: **PROGRAMME_PROVED**, exact scope below.
+
+For every PRIME p, D(C_p^3)=3p-2, proved directly by three-coordinate Chevalley-Warning at 3p-2 variables and the standard-basis lower sequence. Source-independent prime theorem; does not authenticate arbitrary p-power original Olson proof or change frozen frontier source statuses.
+
+[Full proof](../research/S039_MULTIWISE_DEFICIT_REMOVED.md). Separate INTERNAL hostile reconstruction in sessions/S039/REVIEW.md; no external/formal certification or novelty claim.
+
+## CLM-0143 — Odd-prime D2 lifted saving
+
+Status: **PROGRAMME_PROVED**, exact scope below.
+
+For every ODD prime p, D_2(C_p^3)<=5p-3. A no-two sequence of this length has no p-zero support and no zero support of length>3p-2, hence four-polynomial CW on the whole sequence and every 4p-3 subset gives 1+X=0 and 4+2X=0, contradiction 2=0 modp. All hypotheses are reconstructed internally. Consequently D2<=6p-6 for p>=5, including p>=7. Upper bound only, no exact D2 assertion or novelty claim.
+
+[Full proof](../research/S039_MULTIWISE_DEFICIT_REMOVED.md). Separate INTERNAL hostile reconstruction in sessions/S039/REVIEW.md; no external/formal certification or novelty claim.
+
+## CLM-0144 — Multiwise deficit removed with weak extraction
+
+Status: **PROGRAMME_PROVED**, exact scope below.
+
+For every odd prime p and k>=2, D_k(C_p^3)<=5p-3+(k-2)(3p-1)/2, by CLM-0143 base plus the internally reconstructed S025 weak extraction with CLM-0142. For p>=7, k0=2p-4 and M=3p^2-4p-3 give D_(k0)<=3p^2-5p=M-(p-3); p7 bound112<=116, p13 bound442<=452. This removes the M+2 deficiency without strong b-1 extraction or any Psi layer. General eta/global composite conclusions still require their separate hypotheses. Restores and strengthens S004/S005 conditional bypass by one position.
+
+[Full proof](../research/S039_MULTIWISE_DEFICIT_REMOVED.md). Separate INTERNAL hostile reconstruction in sessions/S039/REVIEW.md; no external/formal certification or novelty claim.
+
+## CLM-0145 — Contained-pair anti-concentration and mixed-support sandwich
+
+Status: **PROGRAMME_PROVED**, exact scope below.
+
+In hypothetical complete indexed no-short Z, any contained adjacent-degree pair with gap p has >=6 active critical Psi third-index witnesses at p7 and >=7 at p13, by equal-weight/equal-vector-sum rows and three projective directions. For m2p, 2W_mix>=3LH+3F_c atp7 and >=3LH+4F_c atp13, so W>=156+ceil(3F_c/2) and >=570+2F_c. The SAME actual W_mix has upper min(U_mix,T_twins), with exact dual-fibre mixed capacities and same-level twin pair exclusions as proved in origin. No universal inequality makes the upper conflict with the lower; no m2p exclusion. Six/seven-column local row examples show the local thresholds cannot be increased by those row constraints alone; they are not full Z lifts.
+
+[Full proof](../research/S039_GEOMETRY_AND_OBSTRUCTION_DOSSIER.md). Separate INTERNAL hostile reconstruction in sessions/S039/REVIEW.md; no external/formal certification or novelty claim.
+
+## CLM-0146 — All-layer boundary-adjacent cuts
+
+Status: **PROGRAMME_PROVED**, exact scope below.
+
+For hypothetical no-short indexed Z with complete m=kp, n_u=# degree t+up obeys sum n_u=3p and sum u n_u=kb-3t. Pair levels u<=v have max(0,2t+(u+v-k)p)<=lambda<=t+up. EVERY pair at levels0/1 and at levels(k-2)/(k-1) has >=3 projective Psi witness directions; a nonexceptional such pair is contained with exactly p extra blocks. At k3, 2W>=3n1(n0+n2)+(h_star-3)F_adj, h_star6 atp7,7 atp13. Census n0=n2+3 for s+ and n0=n2 for s- leaves extremal-only/middle-only arithmetic escapes; no all-layer elimination or extrapolation to all unequal-level pairs.
+
+[Full proof](../research/S039_GEOMETRY_AND_OBSTRUCTION_DOSSIER.md). Separate INTERNAL hostile reconstruction in sessions/S039/REVIEW.md; no external/formal certification or novelty claim.
+
+## CLM-0147 — All-layer affine span and value-support exclusion
+
+Status: **PROGRAMME_PROVED**, exact scope below.
+
+Every hypothetical no-short zero-sum Z of size3p has linear rank3, affine span dimension3, and >=5 distinct vector VALUES, for all complete m=kp. Rank<=2 contradicts internally proved rank-two eta; an affine plane at nonzero level contradicts a b-block with b=-1/2 modp. Four values with counts1..p-1 have a one-dimensional vector-count kernel generated by total counts whose coordinate sum is0, incompatible with a b-block count of nonzero coordinate sum. This is not an assertion of >=5 projective directions, an exclusion of five-plus values, or a Davenport counterexample.
+
+[Full proof](../research/S039_GEOMETRY_AND_OBSTRUCTION_DOSSIER.md). Separate INTERNAL hostile reconstruction in sessions/S039/REVIEW.md; no external/formal certification or novelty claim.

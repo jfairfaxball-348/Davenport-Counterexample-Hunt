@@ -1,0 +1,40 @@
+{
+  "session": "S039",
+  "date": "2026-10-13",
+  "pinned_main": "99018af95fe5dd35a915cf5171a40aa0bc86a5e0",
+  "entry_tree": "d282f920346b341e86ee5fd8ddc11eda77975b40",
+  "prior_session": "S038",
+  "prior_head": "2f8b2f884a6aa5eb2393836831c40abdb990f116",
+  "prior_head_parent": "50cd0b277aeadaf85ec653c6d0742c367473ce79",
+  "prior_tree": "56d6f8d405e543bb96522a49700686f881a7aee7",
+  "prior_pr": 38,
+  "prior_merge": "18efb0a245d0aa86e04e5ff96f22f219eb82cd6c",
+  "prior_merge_parents": [
+    "50cd0b277aeadaf85ec653c6d0742c367473ce79",
+    "2f8b2f884a6aa5eb2393836831c40abdb990f116"
+  ],
+  "prior_nonforce_two_parent": true,
+  "intervening_pr": 39,
+  "intervening_head": "4a6c1b5012e32914e4b5ff01b6d183bb3549f06c",
+  "intervening_changed_paths": [
+    "authoritative/NEXT_SESSION_PROMPT.md"
+  ],
+  "intervening_is_handoff_only": true,
+  "open_prs": 0,
+  "competing_execution_s039_branches": 0,
+  "s039_session_unused_at_entry": true,
+  "existing_docs_s039_branch": "Handoff-only merged PR39, not execution",
+  "rulesets": [],
+  "branch_protection": "UNKNOWN_HTTP403_RESOURCE_NOT_ACCESSIBLE",
+  "workflow_files": "ABSENT_IN_RECURSIVE_ENTRY_GIT_TREE",
+  "workflow_listing_api": "UNKNOWN_INVALID_ARGUMENT_NOT_ALLOWED_ENDPOINT",
+  "workflow_runs": 0,
+  "workflow_jobs": "NO_RUNS_EXIST",
+  "check_runs": 0,
+  "status_contexts": 0,
+  "hosted_ci": "ABSENT_NOT_PASS",
+  "phase1": "IN_PROGRESS",
+  "campaign": "CAM-0001_PROPOSED_NOT_RUNNING_BLOCKED_N6_16",
+  "original_rows": 30,
+  "original_sources": 28
+}

@@ -193,3 +193,11 @@ S036 vector moment alone permits abstract two parallel weighted terms to cancel.
 ## S038 — zero pair moment is not zero pointwise support
 
 Invalid shortcut: infer Psi_ijk=0 for all k whenever lambda_ij=t (mod p). For low i/high j with m=2p and lambda=t, F_i is strictly contained in F_j with p extra DISTINCT b-blocks; exact algebra gives Psi_ijk=s mu_k, so zero scalar pair-sum can coexist with >=h(p) NONZERO individual critical coefficients. Correct contrast: true identical block neighbourhood *twins* do have pointwise zero Psi. Every low–high pair supports >=3 witnesses, and each triple contains at most 2 mixed edges, forcing W>=ceil(3LH/2), p7 >=156,p13 >=570. Do not count three mixed edges per triple, deduce upper from S032 U lower, assume P, transfer m2p counts to m>=3p or declare a contradiction. No rank3 theorem, source/phase/campaign/CI upgrade.
+
+## S039 — 2026-10-13
+
+S039 CLM-0142–0144 directly reconstruct prime D1 and prove D2(Cp^3)<=5p-3 for odd primes, then D_k<=5p-3+(k-2)(3p-1)/2. At k0=2p-4, D_k0<=M-(p-3), p7 112<=116 and p13 442<=452: the prior M+2 comparison obstacle is CLOSED independently of strong extraction/Psi. S004/S005 already contained a weaker conditional bypass; this restores that dependency and improves its base one position, with no novelty claim. CLM-0145–0147 add six/seven containment witnesses, matching actual mixed upper capacities, boundary-adjacent all-layer cuts and >=5 vector VALUES. No incompatible upper, m2p/higher exclusion, strong extraction, composite Davenport resolution or candidate. General eta/global induction remain separate. Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 PROPOSED / NOT RUNNING / BLOCKED n6=16; original30 frontier/28 source records preserved; hosted CI ABSENT_NOT_PASS. S040 STRICTLY FUTURE.
+
+### S039 dependency-drift correction
+
+The complete claim catalogue must be searched for ALTERNATIVE sufficient routes before declaring a central prerequisite missing. CLM-0068 had a conditional base5p-2 route, despite later repeated M+2 blockers. An inferior recurrence is not a lower bound on the invariant. Current S039 strengthens/restores the bypass; historical records remain unchanged. New geometry bounds continue to be scoped necessary constraints, not fabricated contradictions.

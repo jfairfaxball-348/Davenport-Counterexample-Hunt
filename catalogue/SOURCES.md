@@ -420,3 +420,7 @@ Re-inspected primary SRC-0021 publisher-author offprint printed pp22–24 and pr
 ## S038 direct original-primary provenance — 2026-10-13
 
 Read-only definitive SRC-0021 Bhowmik–Schlage-Puchta publisher-author offprint, printed pp22–24 (printed p23 independently visually checked). The original pp22–23 weak Lem2.1 versus later stronger p23 use remains unresolved, rank-three Lem2.3 proof explicitly omitted. New CLM-0141 is NOT attributed to the original authors. Original 28 source records and access classes UNCHANGED; Sheikh Chapter4 and GHST C53 full original code/output UNREAD (author code NEVER RUN), Yiu independent complete final M1 unauthenticated, M2/M3 distinct. No exact historical frontier source upgrade, no present-day openness inference.
+
+## S039 original-primary and historical provenance audit — 2026-10-13
+
+Definitive SRC-0021 publisher-author offprint printed pp22-24 and p23 image read directly. Weak extraction/stronger unsupported split and omitted rank-three proof remain distinct; new internal D2 proof is not attributed to the source. S004/S005 already contained a sufficient weaker conditional bypass and this is acknowledged. Fresh PRIME D1 CW reconstruction does not authenticate original arbitrary p-group proof or change frozen source objects/access enums. All 28 source objects unchanged. Sheikh fullChapter4 UNREAD; GHST original C53 code/output UNREAD/NEVER RUN; Yiu complete independent final M1 predicate unauthenticated, M2/M3 distinct. No novelty/priority or modern-openness claim.

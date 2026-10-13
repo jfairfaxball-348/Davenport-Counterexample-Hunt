@@ -367,5 +367,13 @@
     "sheikh_ch4": "UNREAD",
     "ghst_original_C53": "UNREAD_NEVER_RUN",
     "yiu_independent_M1": "UNAUTHENTICATED"
+  },
+  "s039_audit": {
+    "original28_objects_preserved": true,
+    "access_enum_changes": 0,
+    "SRC0021_read_only": "Definitive primary PDF pp22-24 and p23 image directly inspected",
+    "historical_Olson_original_p_group_proof_newly_authenticated": false,
+    "novelty_claim": false,
+    "author_code_executed": false
   }
 }

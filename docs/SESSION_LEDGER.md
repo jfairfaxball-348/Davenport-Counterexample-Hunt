@@ -147,3 +147,7 @@ S012 closeout: [complete record and FUTURE UNEXECUTED S013 handoff](../sessions/
 | S038 | 2026-10-13 | One owner-invoked bounded Phase1 original-primary-source symbolic Route A2 low–high complete neighbourhood containment and exact critical Psi coefficients; separate INTERNAL adversarial reconstruction | CLM-0141: all mixed pairs >=3 witnesses; contained mixed pair >=h(p); W>=ceil(3LH/2), hypothetical m2p p7 >=156,p13 >=570. NO contradiction/D1/Dk, Phase1 still IN_PROGRESS, CAM-0001 blocked; S039 FUTURE ONLY | session/S038-low-high-neighborhood-psi |
 
 [S038 complete original symbolic proof, archived prompt, provenance, internal review, validation and strictly future handoff](../sessions/S038/CLOSEOUT.md).
+
+| S039 | 2026-10-13 | Sustained A+B+C+D symbolic attack and hostile dependency audit | D2<=5p-3; M+2 comparison bypassed with slackp-3; old S004 route recovered; Psi/strong extraction/global conjecture unresolved; Phase1 IN_PROGRESS | session/S039-multifront-multiwise-repair |
+
+[Full S039 closeout](../sessions/S039/CLOSEOUT.md). S040 future only.

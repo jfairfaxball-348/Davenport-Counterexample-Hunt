@@ -1,0 +1,11 @@
+{
+  "session": "S039",
+  "canonical_source": "authoritative/NEXT_SESSION_PROMPT.md@99018af95fe5dd35a915cf5171a40aa0bc86a5e0",
+  "canonical_git_blob_sha": "9f0442fceb417519312f97b48797f4325118f11c",
+  "canonical_archived_verbatim": true,
+  "canonical_archive_sha256": "ec3e13e6091f5df73bfd6a02c9162fb056dc3b3f5fe56644a68abd9592bfcab4",
+  "owner_invocation_file": "sessions/S039/OWNER_INVOCATION.md",
+  "raw_chat_sha256": null,
+  "authenticated_raw_chat_bytes_available": false,
+  "new_session_authorized": true
+}

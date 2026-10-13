@@ -827,5 +827,14 @@
     "campaign": "CAM-0001_BLOCKED_N6_16",
     "mathematical_search": false,
     "hosted_CI_pass": false
+  },
+  "s039_audit": {
+    "session": "S039",
+    "original30_rows_preserved": true,
+    "full_ordered_md_rows_preserved": true,
+    "new_prime_D1_proof_changes_frozen_evidence": false,
+    "new_multiwise_theorem": "D2<=5p-3; D_(2p-4)<=M-(p-3)",
+    "composite_D1_endpoint_changes": false,
+    "modern_openness_asserted": false
   }
 }
