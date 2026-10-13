@@ -241,3 +241,6 @@ Original ordered n=1..30 frontier Markdown table rows and original JSON row obje
 ## S046 Phase1 audit — ORIGINAL ordered 30-row frontier table untouched
 
 The original Markdown n1..30 row table and complete ordered-evidence fields remain byte-for-byte unchanged, and all 30 JSON row objects in frontier/frontier.json remain unchanged. New CLM-0176..0180 are mathematical inverse/hostile-scoped findings, NOT new D1 exact values, certified candidate or current literature-open priority evidence. Original n15 43..45, n20 58..59 and other five original conditional intervals retain their old statuses. Original28 source records unchanged. Phase1 IN_PROGRESS; CAM-0001 BLOCKED n6=16; zero hosted checks NOT CI PASS. S047 FUTURE.
+
+## S047 frontier audit — 13 October 2026
+CLM-0181..0184 give scoped n15/n20/p5 indexed inverse/hostile results but NO Davenport numerical bound upgrade and NO length3n−2 zero-sumfree G sequence. Preserve EXACT original30 n1..30 row objects/Markdown table and historical statuses; source-stated C10/D11/D12/p5 UPPER unchanged. Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 BLOCKED. Hosted CI ABSENT_NOT_PASS, protection UNKNOWN.

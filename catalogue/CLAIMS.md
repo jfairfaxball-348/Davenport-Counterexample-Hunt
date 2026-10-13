@@ -1198,3 +1198,29 @@ Category: REDUCTION. Origin: research/S045_P5_ALL_WINDOW_PACKING.md. Sources: no
 **CLM-0180.** For every labelled p5 hostile A_k window, 15 B-only and 60t genuine changing-total two-block tests (target-size A_k': 6 and 30t) are exact indexed Qzero replacements. Their decorated H-union zero-freeness is equivalent to b',p',b'+p' in E(U). Origin: [research/S046_P5_DECORATED_TWO_BLOCK_EXCHANGE.md](../research/S046_P5_DECORATED_TWO_BLOCK_EXCHANGE.md). Conditional local inverse, not a composite result.
 
 All five claims: status PROGRAMME_PROVED means mathematical proofs recorded and SAME EXECUTOR internally reviewed, **not** external proof authentication, Lean, Palomar, certified full candidate, current-priority assertion or hosted CI PASS. No existing CLM or SRC statuses upgraded.
+
+## S047 — CLM-0181..0184 GLOBAL INDEXED INVERSE GATES
+
+## CLM-0181 — PROGRAMME_PROVED (INTERNAL, scoped)
+
+For an n15 hypothetical six-support ternary augmented T44 with nonzero antipodal-free six-cap and counts 3a_v+r_v (remainders 2,2,2,2,2,1), the maximum number of disjoint nonempty quotient-zero blocks on ALL 44 original-plus-one positions is exactly 13. Every quotient-zero 3-subset is monochromatic; there are at most eleven such triples. Fourteen blocks would need at least three of size >=4 and hence >=45 indices; eleven triples plus two residual circuits attain 13.
+
+Category: REDUCTION. Origin: [research/S047_N15_GLOBAL_CAP_AND_INDEX_TRANSFER.md](../research/S047_N15_GLOBAL_CAP_AND_INDEX_TRANSFER.md). Same-executor hostile review only; no actual G counterexample, composite equality proof, source status promotion, formal/external certification or novelty claim.
+
+## CLM-0182 — PROGRAMME_PROVED (INTERNAL, scoped)
+
+In every original-index monochromatic-triplet/residual two-circuit partition of hypothetical n15 T44, swapping a residual index x in a circuit W for an index t in an original same-class monochromatic triple P_j gives the exact conserved H=C5^3 pair-transfer a+delta,w-delta (delta=h(x)-h(t)). Over the unchanged eleven H block decorations U (ten triples plus other residual circuit), resulting 13-block minimality is equivalent to a+delta in E(U), since E(U)=c_U-E(U) and a+w=c_U. Necessary over ALL genuine eligible re-strippings; not sufficient for full G minimality.
+
+Category: REDUCTION. Origin: [research/S047_N15_GLOBAL_CAP_AND_INDEX_TRANSFER.md](../research/S047_N15_GLOBAL_CAP_AND_INDEX_TRANSFER.md). Same-executor hostile review only; no actual G counterexample, composite equality proof, source status promotion, formal/external certification or novelty claim.
+
+## CLM-0183 — PROGRAMME_PROVED (INTERNAL, scoped)
+
+For hypothetical n20 S58, among the original same-parity 26 pairs one class has >=4. Select eight ORIGINAL positions of this class, retain other 22 original H=C10^3 pair decorations U, and write e_ij=iota^{-1}(g_i+g_j). For EVERY nonempty partial matching M on the eight positions, sum_{ij in M} e_ij belongs to E(U). There are 28+210+420+105=763 labelled matchings; all 105 perfect-matching sums coincide. A simultaneous eight-index global matching-complex inverse, with no independent test count or parity-profile elimination asserted.
+
+Category: REDUCTION. Origin: [research/S047_N20_EIGHT_INDEX_MATCHING_COMPLEX.md](../research/S047_N20_EIGHT_INDEX_MATCHING_COMPLEX.md). Same-executor hostile review only; no actual G counterexample, composite equality proof, source status promotion, formal/external certification or novelty claim.
+
+## CLM-0184 — PROGRAMME_PROVED (INTERNAL, scoped)
+
+For indexed target-sized p5 quotient hostile family A_k' (k>=3), choose an ordered chain of r distinct pure X^5 blocks, one X index from each, one residual X and one residual Y index, and one original Z index in B. Replacing B by (B-Z)+X_1+Y and P_i successively by P_i-X_i+X_{i+1}, last P_r-X_r+X_residual gives r+1 pairwise disjoint original-index Q-zero blocks with combined H decoration shifted by h(Y)+h(X_residual)-h(Z). If an actual zero-sumfree G decoration existed, every nonempty subset sum of the r+1 new block H sums would lie in E(U) for the untouched H block sums U. These are 2^(r+1)-1 simultaneous exact tests per labelled chain; 6*5^r*(t)_r labelled chains over t selected pure blocks, not independent values. No G lift or contradiction established.
+
+Category: REDUCTION. Origin: [research/S047_P5_LONG_CHAIN_CRT_EXCHANGE.md](../research/S047_P5_LONG_CHAIN_CRT_EXCHANGE.md). Same-executor hostile review only; no actual G counterexample, composite equality proof, source status promotion, formal/external certification or novelty claim.

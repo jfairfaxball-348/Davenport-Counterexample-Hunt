@@ -242,3 +242,11 @@ One explicitly owner-invoked symbolic Phase1 session against live merge-main 96f
 | S046 | n20 switching two pair decorations imposes an extra combined-sum inverse without checking whether sum changes | **FALSE** under same-parity original re-matching: total a+b is conserved | New individual E(U24) transfer tests, delta may vanish |
 | S046 | A_k length5k+9 is itself the length5k+8 original G target skeleton | **FALSE**: must delete one indexed L-X to get A_k' target length | CLM-0180 tracks A_k AND A_k' separately; no full G lift asserted |
 | S046 | p5 joint two-block replacement always reduces to separate singles | **FALSE** when total changes: must test b',p',b'+p' in E(U) | Genuine changing-total original-index cross-window decorated inverse |
+
+## S047 — 13 October 2026
+| Session | Tempting leap | Corrected theorem/lesson | Status |
+|---|---|---|---|
+| S047 | 14 quotient-zero blocks might be forced globally on n15 six-cap by original re-stripping | FALSE universally: CLM-0181 proves maximum EXACTLY13 on all44 ORIGINAL positions | Global quotient route closed, H inverse remains |
+| S047 | n15 conserved pair re-stripping yields TWO independent new E(U) tests | FALSE: E(U)=c_U-E(U) collapses to one genuine original-index swap membership | CLM-0182 exact scoped transfer |
+| S047 | n20 763 partial matching conditions are independent and imply parity-profile contradiction | NOT JUSTIFIED: labelled constraints overlap and all105 perfect matching totals coincide | CLM-0183 necessary global family, profiles open |
+| S047 | p5 r+1 exchange chain totals are conserved like the n20 hub pencil | FALSE: total changes by h_y+h_q-h_d, requires all 2^(r+1)-1 subset memberships | CLM-0184 no E inverse exclusion yet |

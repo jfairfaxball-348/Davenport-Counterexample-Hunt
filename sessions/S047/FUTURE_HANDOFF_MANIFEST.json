@@ -1,0 +1,11 @@
+{
+  "session": "S047",
+  "next_session": "S048",
+  "future_only": true,
+  "executed": false,
+  "requires_new_owner_invocation": true,
+  "prompt_path": "authoritative/NEXT_SESSION_PROMPT.md",
+  "last_main_after_merge": "TO_VERIFY_AFTER_ACTUAL_MERGE",
+  "outgoing_commit": "PRECOMMIT_UNKNOWN",
+  "outgoing_pr": "PRECOMMIT_UNKNOWN"
+}

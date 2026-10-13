@@ -998,5 +998,23 @@
     "no_new_numerical_D1_result": true,
     "phase1": "IN_PROGRESS",
     "S047": "FUTURE_ONLY"
+  },
+  "s047_audit": {
+    "date": "2026-10-13",
+    "session": "S047",
+    "claims": [
+      "CLM-0181",
+      "CLM-0182",
+      "CLM-0183",
+      "CLM-0184"
+    ],
+    "original_row_count": 30,
+    "original_rows_unchanged": true,
+    "frontier_numeric_status_unchanged": true,
+    "headline_n15": "UNRESOLVED",
+    "headline_n20": "UNRESOLVED",
+    "candidate": false,
+    "phase1": "IN_PROGRESS",
+    "hosted_ci": "ABSENT_NOT_PASS"
   }
 }

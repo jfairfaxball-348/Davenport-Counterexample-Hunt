@@ -24,17 +24,17 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S046",
-  "recommended_next_session": "S047",
+  "last_completed_session": "S047",
+  "recommended_next_session": "S048",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": null,
   "phase1_target_status": "WITHHELD_NO_REPLACEMENT_CAMPAIGN",
   "open_blockers": [
-    "S046 n15: six-cap S045 residual geometric obstruction genuinely survives; S046 provides paraboloid R11 with 3 cuts and local H maximal-minimal decorations simultaneously, but no global original-index 44-term minimal G lift. Need cross-stripping inverse or 14 disjoint Qzero blocks.",
-    "S046 n20: six Fano permutations reduce EXACTLY to nine E(P25) grid cells; all original same-parity pair matchings induce 24-core conserved-sum E transfer tests. Three P26 profiles (0,4),(0,6),(1,7) survive; SOURCE_STATED C10 D28.",
-    "S046 p5: A_k quotient windows still exactly sharp; indexed two-block changes yield 15+60t full /6+30t target-deletion decoration tests with b',p',b'+p' in E(U). Need rule out all genuine maximal H-decorations, not count Q blocks.",
-    "Original C10, ternary D11/D12, p5 historical UPPER remain SOURCE_STATED; 30 frontier rows/28 sources unchanged; Phase1 IN_PROGRESS, CI ABSENT_NOT_PASS, protection UNKNOWN.",
+    "S047 n15: every six-cap 44-point ternary quotient skeleton globally has packing number exactly13, so quotient-only 14-block elimination is IMPOSSIBLE. All global original-index swap admissibility constraints remain unresolved in C5^3.",
+    "S047 n20: eight original positions from class >=4 pairs force all 763 labelled partial-matching extension tests over common C10^3 U22, but these overlap and permit degeneration; parity profiles (0,4),(0,6),(1,7) remain.",
+    "S047 p5: target-sized A_k' r-pure-block changing-total chain requires all nonempty subset sums of r+1 new H decorations in E(U), with 6*5^r*(t)_r labelled chains; no incompatibility proven for H=C3^3/C4^3.",
+    "Original n1..30 frontier row data and 28 source records remain unchanged; historical C10/D11/D12 and p5 upper SOURCE_STATED. Phase1 IN_PROGRESS, hosted CI ABSENT_NOT_PASS, protection UNKNOWN_403.",
     "CAM-0001 PROPOSED NOT_RUNNING BLOCKED by source-stated n6=16; no Phase2/3, campaign or candidate."
   ],
   "gate_ledger": "docs/PHASE_GATE_LEDGER.md",
@@ -514,5 +514,20 @@
     "phase1": "IN_PROGRESS",
     "CI": "ABSENT_NOT_PASS",
     "S047": "FUTURE_UNEXECUTED"
+  },
+  "s047_result": {
+    "claims": [
+      "CLM-0181",
+      "CLM-0182",
+      "CLM-0183",
+      "CLM-0184"
+    ],
+    "n15_global_quotient_packing": 13,
+    "n15_equality": false,
+    "n20_equality": false,
+    "candidate": false,
+    "phase1": "IN_PROGRESS",
+    "s048_authorised": false,
+    "source_access_unchanged": true
   }
 }
