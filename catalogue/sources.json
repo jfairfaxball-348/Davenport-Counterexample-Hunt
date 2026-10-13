@@ -398,5 +398,21 @@
     ],
     "no_code_run": true,
     "no_source_status_promotion": true
+  },
+  "s042_audit": {
+    "session": "S042",
+    "date": "2026-10-13",
+    "original_source_count": 28,
+    "original_source_objects_unchanged": true,
+    "original_access_classes_unchanged": true,
+    "new_authentications": 0,
+    "independent_p5_multiwise_lower_only": true,
+    "source_stated_remaining": [
+      "GHST/BSP η(C5³)<=33",
+      "Yiu D_j(C5³)<=5j+10 upper and finite dependencies",
+      "BSP2007 ternary inverse diagrams and D_j(C3³)",
+      "classical exact D(C10³)=28,D(C6³)=16"
+    ],
+    "author_code_executed": false
   }
 }

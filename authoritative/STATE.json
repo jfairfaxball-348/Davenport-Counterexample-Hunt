@@ -24,18 +24,18 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S041",
-  "recommended_next_session": "S042",
+  "last_completed_session": "S042",
+  "recommended_next_session": "S043",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": null,
   "phase1_target_status": "WITHHELD_NO_REPLACEMENT_CAMPAIGN",
   "open_blockers": [
-    "Direct targets D(C15³)=43 and D(C20³)=58 remain unresolved. Fano 4E(P)∩3E(P) obstruction (n20) and conditional common 28/29-term C5³ critical core (n15,n20,n30) are not excluded universally. An inverse/coupled-lifting theorem is still missing.",
-    "Universal 18-in-primitive-plane saturation for length26 zero-sumfree P⊂C10³ is FALSE (CLM-0154). Character confinement for all eligible P remains unproved.",
-    "Prime-five D_j=5j+10 and η(C5³)<=33 include original/source-stated computational inputs not independently verified. Ternary BSP 44-term inverse remains diagram-dependent SOURCE_STATED, and historical C10/C14/C6 exact literature source classes remain unchanged.",
-    "Strong BSP b-1 splitting and Psi higher layers unresolved, not a necessary premise for S040 prime large-k comparison. GHST original C53 full code/output UNREAD, Sheikh complete Chapter4 UNREAD, Yiu complete independent final-predicate authentication unclosed.",
-    "Original n1..30 five frontier intervals unchanged, CAM-0001 activation blocked n6=16, Phase1 not passed."
+    "n15 D(C15³)=43 and n20 D(C20³)=58 unresolved. Need a genuine coupled CRT inverse/exchange theorem; neither local C5 28/29 core nor broad Fano seven-value necessary conditions alone excludes actual hypothetical sequences.",
+    "S042 Fano corrected: C20³→C2³ with kernel C10³ NON-SPLIT. Discarded '0 or all seven nonzero mod2 extension classes' inference is FALSE. Eligible P26 must have E(P) affinely spanning F2³, but may in abstract have four classes; no universal exclusion.",
+    "S042 explicit p5 A4/A4' exhibit admissible 29/28 LOCAL cores, so size/short-zero/core-only contradiction is FALSE. For genuine n15/n20/n30 need preceding-block H decoration exchange; conditional maximal H saturation alone is insufficient.",
+    "Historic GHST η(C5³)<=33 and Yiu D_j(C5³)<=5j+10 UPPER contain separately unverified finite predicates; BSP2007 ternary 44-term inverse requires original diagrams; historical C10/C6 exact classification remains source-stated.",
+    "Original n1..30 five interval frontiers unchanged, CAM-0001 PROPOSED NOT RUNNING BLOCKED by source-stated n6=16, Phase1 IN_PROGRESS, hosted CI ABSENT_NOT_PASS."
   ],
   "gate_ledger": "docs/PHASE_GATE_LEDGER.md",
   "source_snapshot": "2026-10-12",
@@ -293,7 +293,7 @@
     "owner_blocker": false,
     "historical_dependency_reconciled": "S004 CLM-0068 / S005 sufficient conditional base5p-2 bypass restored and strengthened one position"
   },
-  "current_research_priority": "Hostile reconstruction of S039, general large-prime eta, actual global rank-three induction and next indispensable composite loss; strong Psi extraction is independent, not a prerequisite for the repaired comparison.",
+  "current_research_priority": "S042 valid achievements: NON-SPLIT twisted Fano seven-value edge compatibility and full affine-span necessary for eligible n20 E(P), plus C5³ sharp independent Dk LOWER and real 28/29 local core countermodels; next S043 must defeat actual labelled twisted Fano values for eligible P or supply a decorated overlapping-block CRT exchange theorem. n15 14-value ternary support bound available. No composite equality/counterexample.",
   "s040_result": {
     "claims": [
       "CLM-0148",
@@ -330,5 +330,30 @@
     "original_source_objects_unchanged": 28,
     "s042": "FUTURE_UNEXECUTED",
     "hosted_ci": "ABSENT_NOT_PASS"
+  },
+  "s042_result": {
+    "date": "2026-10-13",
+    "new_claims": [
+      "CLM-0158",
+      "CLM-0159",
+      "CLM-0160",
+      "CLM-0161",
+      "CLM-0162",
+      "CLM-0163"
+    ],
+    "corrected_twisted_fano": true,
+    "naive_parity_fullness_retracted": true,
+    "independent_p5_multiwise_lower": true,
+    "real_local_28_29_cores": true,
+    "maximal_CRT_decorations_conditional": true,
+    "exact_17_plane_character": true,
+    "ternary_n15_support_bound": 14,
+    "n15_resolved": false,
+    "n20_resolved": false,
+    "original_frontier_rows_unchanged": 30,
+    "original_sources_unchanged": 28,
+    "hosted_ci": "ABSENT_NOT_PASS",
+    "phase1": "IN_PROGRESS",
+    "S043": "FUTURE_UNEXECUTED"
   }
 }

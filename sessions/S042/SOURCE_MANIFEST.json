@@ -1,0 +1,15 @@
+{
+  "session": "S042",
+  "original_source_count": 28,
+  "original_source_objects_unchanged": true,
+  "original_access_classes_unchanged": true,
+  "primary_source_records": "read-only inherited scoped original-primary-source proofs; no additional original authentication or outside contact",
+  "conditional_inputs": [
+    "BSP2007 D_j(C3³)=3j+6 and diagram based inverse",
+    "Yiu2026 D_j(C5³)<=5j+10 j>=2, independent finite predicate not checked",
+    "GHST/BSP eta(C5³)<=33 finite dependencies unauthenticated",
+    "classical D(C10³)=28,D(C6³)=16 source-stated"
+  ],
+  "new_public_sources_added": 0,
+  "author_code_executed": false
+}

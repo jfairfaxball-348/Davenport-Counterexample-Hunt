@@ -157,3 +157,7 @@ S012 closeout: [complete record and FUTURE UNEXECUTED S013 handoff](../sessions/
 
 
 | S041 | 2026-10-13 | Sustained direct targets n15/n20 (two checkpoints) | CLM-0151..0157 Fano/extension condition, explicit refutation of universal plane saturation, p5 conditional 28/29 core, total-zero bonus, direct C4 multiwise lower; no exact n15/n20; Phase1 remains open | session/S041-direct-coupled-lifting |
+
+| S042 | 2026-10-13 | Sustained triple-front original-source-aware symbolic n20 twisted Fano, n15 ternary and shared p5 CRT core, full hostile correction | CLM-0158..0163; non-split K4 labelled congruences, affine span of eligible E(P), exact p5 Dk lower and real 28/29 local cores, conditional maximal decorated quotient zero block saturation, 17-plane character, n15 support<=14; n15/n20 unresolved; Phase1 IN_PROGRESS; S043 future only | session/S042-fano-parity-p5-core |
+
+[S042 full provenance, mathematical proofs, rejected claims, validation, review, precommit closeout and S043 future handoff](../sessions/S042/CLOSEOUT.md).

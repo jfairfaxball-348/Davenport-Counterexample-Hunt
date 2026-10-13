@@ -1700,6 +1700,75 @@
         "SRC-0010"
       ],
       "notes": "Programme-internal symbolic deduction; the statement's explicit SOURCE_STATED dependencies stay SOURCE_STATED. No novelty, independent external review, hosted CI PASS, formal verification, mathematical search or composite exact value. Read origin proof for exact scope."
+    },
+    {
+      "id": "CLM-0158",
+      "statement": "For a hypothetical n20 paired Fano quotient, the six residual ORIGINAL C20³ singleton lifts s_ij realize seven H=C10³ Fano triple/crosscut sums t_i,q_split iff T=sum4 t_i=sum3 q=Q and six labelled mod2 congruences bar(t_i+t_j-q_split)=c_ij hold; necessity and exact converse for only the Fano equations, not a zero-sumfree original 58-term lift. Crucial ambient extension C20³→C2³ with kernel C10³ is NON-SPLIT. The incorrect untwisted parity-fullness conclusion is explicitly RETRACTED.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S042_FANO_PARITY_RECONSTRUCTION.md",
+      "source_ids": [
+        "SRC-0016"
+      ],
+      "notes": "Scope: internal symbolic hand proof with same-executor hostile review only; all explicitly conditional historical inputs retain SOURCE_STATED status. No external/formal authentication, novelty, zero-sumfree rank-three counterexample or exact composite equality."
+    },
+    {
+      "id": "CLM-0159",
+      "statement": "Conditioned on the S041 historical D(C10³)=28 source premise, any hypothetical C20³ zero-sumfree 58-sequence has paired P26 for which mod2 E(P) affinely spans the full F2³, hence at least four distinct residue classes. The stronger '0 or all seven nonzero classes' claim is FALSE by an abstract four-class twisted Fano parity model.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S042_FANO_PARITY_RECONSTRUCTION.md",
+      "source_ids": [
+        "SRC-0016"
+      ],
+      "notes": "Scope: internal symbolic hand proof with same-executor hostile review only; all explicitly conditional historical inputs retain SOURCE_STATED status. No external/formal authentication, novelty, zero-sumfree rank-three counterexample or exact composite equality."
+    },
+    {
+      "id": "CLM-0160",
+      "statement": "For every k>=2, indexed A_k=e1^(5k-6)e2^4e3^4(e1+e2)^3(e1+e3)^2(e2+e3)^2 in C5³ has length5k+9, no nonempty zero sum of length<=4, and fewer than k disjoint nonempty zero sums. Thus independently D_k(C5³)>=5k+10 (LOWER only). For k4 the 29-position A4 and a 28-position deletion exhibit both critical local cores and invalidate any pure-core-size exclusion.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S042_P5_CORES_AND_DECORATION.md",
+      "source_ids": [
+        "SRC-0015",
+        "SRC-0024"
+      ],
+      "notes": "Scope: internal symbolic hand proof with same-executor hostile review only; all explicitly conditional historical inputs retain SOURCE_STATED status. No external/formal authentication, novelty, zero-sumfree rank-three counterexample or exact composite equality."
+    },
+    {
+      "id": "CLM-0161",
+      "statement": "Under exact S041 SOURCE_STATED-conditional p5 eta and multiwise premises, a hypothetical n=15,20,30 zero-sumfree target projects into k−1 disjoint C5-zero blocks whose H=C_(n/5)³ decorations are maximal zero-sumfree lengthk−1 and have every H element as subset sum; leftover L is quotient-C5 zero-sumfree with <=12 positions. Residual 28/29 core requires three additional quotient zeros consuming >=16/17 positions. No automatic overlapping-block exchange or composite equality follows.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S042_P5_CORES_AND_DECORATION.md",
+      "source_ids": [
+        "SRC-0015",
+        "SRC-0024",
+        "SRC-0021"
+      ],
+      "notes": "Scope: internal symbolic hand proof with same-executor hostile review only; all explicitly conditional historical inputs retain SOURCE_STATED status. No external/formal authentication, novelty, zero-sumfree rank-three counterexample or exact composite equality."
+    },
+    {
+      "id": "CLM-0162",
+      "statement": "For H=C10³, P=(e1^9 e2^8)*product_{j=1}^9(a_j e1+beta_j e2+e3), exact E(P) is confined to a nonzero affine homomorphism character level and 4E(P)∩3E(P)=empty. If beta_j vary, E consists of two r-level families r=0,1 with b=1 and b=1−sum beta_j; if constant beta, all r occur with b=1+r beta. For arbitrary 9 further quotient generators an exact zero-subset decorated cyclic inverse condition remains, without universal character result.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S042_RECTANGULAR_EXTENSION_AND_TERNARY.md",
+      "source_ids": [
+        "SRC-0016"
+      ],
+      "notes": "Scope: internal symbolic hand proof with same-executor hostile review only; all explicitly conditional historical inputs retain SOURCE_STATED status. No external/formal authentication, novelty, zero-sumfree rank-three counterexample or exact composite equality."
+    },
+    {
+      "id": "CLM-0163",
+      "statement": "Conditional on historical SOURCE_STATED ternary multiwise values D11(C3³)=39,D12(C3³)=42 and D(C5³)=13, a hypothetical n15 43-term zero-sumfree sequence has no zero in ternary projection and no two disjoint opposite pairs; at most one of thirteen unoriented nonzero classes bears both signs with minority count one, so projected support <=14 distinct nonzero values and one is repeated >=4. BSP2007 44-term diagram inverse not reconstructed and n15 remains unresolved.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S042_RECTANGULAR_EXTENSION_AND_TERNARY.md",
+      "source_ids": [
+        "SRC-0008"
+      ],
+      "notes": "Scope: internal symbolic hand proof with same-executor hostile review only; all explicitly conditional historical inputs retain SOURCE_STATED status. No external/formal authentication, novelty, zero-sumfree rank-three counterexample or exact composite equality."
     }
   ]
 }

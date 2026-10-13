@@ -1,0 +1,11 @@
+{
+  "session": "S042",
+  "canonical_source": "authoritative/NEXT_SESSION_PROMPT.md@b9e16bccf6660db05007fafe2392cfc69f25e595",
+  "canonical_git_blob_sha": "48c08e1319e82512e34778b05836f0077dc13589",
+  "canonical_archive_verbatim": true,
+  "owner_invocation_file": "sessions/S042/OWNER_INVOCATION.md",
+  "raw_chat_sha256": null,
+  "authenticated_raw_chat_bytes_available": false,
+  "owner_authorized_S042": true,
+  "detailed_written_plan_before_all_mathematics": false
+}
