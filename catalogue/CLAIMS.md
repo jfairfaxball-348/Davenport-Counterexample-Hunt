@@ -1255,3 +1255,20 @@ Origin: [S050 N15 proof](../research/S050_N15_PARAMETER_INVERSE_FAMILY.md); cont
 In S049 target A'_k CRT indexed construction (m=3 or4), selecting the THIRD original X index in first f2 pure block with decoration f2−f3 gives new pure decoration f3; with untouched m−1 pure f3 blocks creates an actual nonempty Gzero-sum already at prefix r=1; h=0/f3 original index choices remain prefix-compatible.
 
 Origin: [S050 CRT proof](../research/S050_P5_THIRD_INDEX_EXCHANGE_FAILURE.md); context SRC-0015 SOURCE_STATED. No all-index elimination.
+
+## S051 internally proved scoped claims (NO certification)
+
+### CLM-0195 — PROGRAMME_PROVED
+For arbitrary U22 in H=C10³ from 22 original disjoint parity-zero C20 pairs in a hypothetical minimally zero T59 with eight same-parity original indices and seven nonzero parity singleton representatives, let W be all even original-eight subset H sums and K=intersection_{w∈W}(E(U)-w). Necessarily K nonempty and 0∈aff_Z(K), in particular 0∈aff_Z(E(U)∩(E(U)-v)). If φ(E(U))⊆{1,2,3,4,5} in Z10 and φ(v)=4 or6, no such T59 exists; all arbitrary-core classifications remain open.
+
+Origin: [S051 universal indexed Fano proof](../research/S051_GENERAL_FANO_AFFINE_HULL.md). Context SRC-0023 SOURCE_STATED, arbitrary U22/profiles not settled.
+
+### CLM-0196 — PROGRAMME_PROVED
+P=e1³e2³e3²(e1+e3)(e2+e3)(e1+e2+4e3) is eleven-term zero-free in C5³, with six support types and exact nine-point extension set E(P)={(x,y,1):x=0 or y=0}, a union of two lines in nonzero affine plane z=1; universal P11 inverse remains open.
+
+Origin: [S051 nine-point six-support example](../research/S051_C5_E_NINEPOINT.md). Context SRC-0008 SOURCE_STATED; all-P11 nonzero affine inverse still open.
+
+### CLM-0197 — PROGRAMME_PROVED
+For fixed S049/S050 CRT m3/m4 A'_k first f2 pure-block indexed decoration (0,f3,f2−f3,0,0), all FIVE first original-X choices are exactly classified: three h0 and one hf3 pass all selected zero-label continuation prefixes (three duplicate H tests); the one h=f2−f3 fails at r1. This is not all-order/d/q/global G classification.
+
+Origin: [S051 original index census](../research/S051_CRT_ALL_FIVE_CHOICES.md). Context SRC-0015 SOURCE_STATED. No all-index CRT contradiction or G witness.

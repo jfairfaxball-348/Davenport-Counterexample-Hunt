@@ -207,3 +207,6 @@ Proceed Phase1 only. Promote CLM-0189 as scoped PROGRAMME_PROVED original-index 
 
 ## S050 — 2026-10-13
 DECISION: retain Phase1 proof-first symbolic original-index programme. Accept internal programme-proved CLM-0192 (strict universal-eight-point improvement but ONLY special U22), CLM-0193 (four-parameter affine E family, NOT universal) and CLM-0194 (one concrete failed r1 index). Reject any extrapolation to D(C15³)=43, D(C20³)=58, all cores/profiles, certified G witnesses, or global inverse. Preserve original30 frontier row objects and original28 sources. No campaign, source upgrade, CAS/SAT/ILP, search or formalisation. Hand off S051 strictly future.
+
+## S051 — 13 October 2026
+Phase1 only, retain B arbitrary-core Fano affine-hull condition CLM-0195 as necessary but not full core/profile exclusion; retain A six-support E-nine affine example CLM-0196 as positive evidence not universal inverse; retain C complete fixed first-block five-index census CLM-0197 with 3 duplicate passes, one other pass and one genuine failure, not all-index/global CRT. No numerical search, source status promotion, novelty/priority claim, candidate, campaign, Phases2/3 or composite Davenport equality. Original30 rows and28 SRC records exact. S052 future unexecuted.

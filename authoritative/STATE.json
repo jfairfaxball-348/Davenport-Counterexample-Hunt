@@ -24,18 +24,18 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S050",
-  "recommended_next_session": "S051",
+  "last_completed_session": "S051",
+  "recommended_next_session": "S052",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": null,
   "phase1_target_status": "WITHHELD_NO_REPLACEMENT_CAMPAIGN",
   "open_blockers": [
-    "S049 n20 CLM-0189 kills S048's EXACT U22=f1^9 f2^9 f3^4 plus eight gi=G_f3+2di as any full minimal T59 using 7 lines+7 caps; OTHER U22/eight-point/fano profiles (0,4),(0,6),(1,7) UNRESOLVED, no n20 equality.",
-    "S049 n15 CLM-0191 calculates an exact 4-point affine E(P11) but general universal nonzero affine extension-set inverse is UNPROVED; all six-cap shapes/re-strippings and support>=7 unresolved.",
-    "S049 p5 CLM-0190: TWO distinct selected-original-X chains, every prefix r1..k-2, nonzero Δ, OLD and NEW Hzero-free, no all-index global lift or contradiction.",
-    "Original30 frontier row objects/28 sources unchanged; SRC-0008/0015/0023 source-stated dependencies unchanged, CI ABSENT_NOT_PASS and protection UNKNOWN_403, internal-only review.",
-    "CAM-0001 PROPOSED NOT_RUNNING BLOCKED by source-stated n6=16, no certified candidate or advancement to Phase2/3."
+    "S051 CLM-0195: arbitrary U22 indexed Fano necessary 0∈aff_Z(K) proved; NO universal failure of this test for all zero-free U22, 26 hub choices or eligible (0,4)/(0,6)/(1,7) profiles. Conditional φ(E(U))⊆1..5 plus φ(v)=4/6 forbids that indexed completion only.",
+    "S051 CLM-0196: a six-support C5³ P11 has exact 9 extenders in nonzero affine z=1; universal affine inverse including E empty, nonaffine, support≥7 and all six-cap re-strippings still OPEN.",
+    "S051 CLM-0197: fixed m3/m4 CRT first original-X five-label census has four prefix-compatible choices (three H duplicates), one r1 failure; other orders, d/q, B-only, cross-window and full G tests OPEN.",
+    "Original30 frontier row objects/28 sources untouched; SRC-0008/0015/0023 remain background SOURCE_STATED, CI ABSENT_NOT_PASS and branch protection UNKNOWN_403; same-executor INTERNAL only.",
+    "CAM-0001 PROPOSED NOT_RUNNING BLOCKED by historical source-stated n6=16; Phases2/3 NOT_STARTED and no certified candidate."
   ],
   "gate_ledger": "docs/PHASE_GATE_LEDGER.md",
   "source_snapshot": "2026-10-12",
@@ -57,7 +57,10 @@
     "S044 A_k 19-window is sharp at quotient-only level for ALL k>=2; it is not a full composite-group zero-sumfree sequence.",
     "S045 CLM-0172: seven Fano line/cap partner extension values reflect automatic E(P)=(-sum P)-E(P) complement symmetry; they are NOT fourteen independent extra E(P) constraints. Six hub permutations can degenerate if swapped original values coincide.",
     "S045 CLM-0173/0174: support>=6 and the six-class eleven-point cap inverse are necessary for hypothetical augmented C15³ T44 and use internally proved prime D values; do NOT prove a six-cap is impossible or authenticate D11/D12.",
-    "S045 CLM-0175: exact all-window packing sharpness holds only for explicit indexed C5³ A_k quotient family, not arbitrary or decorated composite windows."
+    "S045 CLM-0175: exact all-window packing sharpness holds only for explicit indexed C5³ A_k quotient family, not arbitrary or decorated composite windows.",
+    "S051 affine-hull obstruction applies only to specified minimal T59 22+8+7 indexed partition; K_v affine hull containing0 is necessary NOT sufficient, and φ(E(U)) five-residue slab is NOT established for arbitrary U.",
+    "S051 C5 P11 E nine-point union of lines is still in a nonzero plane; no universal inverse, E nonaffine example, or D(C15³) resolution.",
+    "S051 CRT five-index classification is for one decorated/order/d/q choice; 3 zero-labelled original indices are not 3 independent E tests."
   ],
   "first_interval_requiring_literature_review": 15,
   "owner_action_blockers": [],
@@ -590,5 +593,22 @@
     "protection": "UNKNOWN_403",
     "phase1": "IN_PROGRESS",
     "future": "S051 UNEXECUTED"
+  },
+  "s051_result": {
+    "session": "S051",
+    "CLM_0195": "arbitrary-core necessary Fano integer-affine hull and 5-residue projected v±4 exclusion",
+    "CLM_0196": "eleven-term six-support C5³ zero-free P with exact nine extenders union 2 affine lines",
+    "CLM_0197": "fixed CRT 5 x1 indices: 3+1 pass,1 fails r1; 3 H duplicates",
+    "n15_D1": "UNRESOLVED",
+    "n20_D1": "UNRESOLVED",
+    "candidate": "NONE",
+    "universal_inverse": "UNRESOLVED",
+    "source28_preserved": true,
+    "frontier30_preserved": true,
+    "review": "INTERNAL_ONLY",
+    "hosted_ci": "ABSENT_NOT_PASS",
+    "protection": "UNKNOWN_403",
+    "phase1": "IN_PROGRESS",
+    "future": "S052 UNEXECUTED"
   }
 }
