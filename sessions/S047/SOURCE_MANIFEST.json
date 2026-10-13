@@ -1,0 +1,17 @@
+{
+  "session": "S047",
+  "source_records_at_entry": 28,
+  "source_records_after": 28,
+  "original_records_unchanged": true,
+  "new_primary_pdf_proof_inspections": 0,
+  "original_context": [
+    "SRC-0008",
+    "SRC-0004",
+    "SRC-0005",
+    "SRC-0015",
+    "SRC-0023"
+  ],
+  "access_promotions": 0,
+  "claim_on_new_prior_art": false,
+  "source_proof_statuses": "unchanged; C10 D28 / ternary D11 D12 / p5 upper SOURCE_STATED"
+}

@@ -190,3 +190,6 @@ One explicitly owner-invoked symbolic Phase1 session against live merge-main 96f
 ## S046 — continuing campaign exclusion (2026-10-13)
 
 CAM-0001 stays PROPOSED / NOT RUNNING, activation BLOCKED by source-stated n6=16. The S046 A+B+C session is symbolic Phase1 only: CLM-0176..0180 did NOT conduct numerical mathematical search, orbit enumeration, candidate generation, SAT/ILP/CAS, source author-code execution, Lean, Palomar, or certify an actual G sequence. No change to original campaign scope, no replacement campaign. Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED. S047 needs a NEW explicit owner invocation, not campaign activation.
+
+## S047 campaign exclusion — 13 October 2026
+No Phase2/3 work, no new proposed/activated campaign or original index numerical search. CAM-0001 remains PROPOSED / NOT RUNNING / BLOCKED by historical source-stated n6=16. Four symbolic CLM-0181..0184 are inverse/hostile necessary conditions, not a generated candidate or a completeness-certificate search. Phase1 IN_PROGRESS; S048 requires a new owner instruction.

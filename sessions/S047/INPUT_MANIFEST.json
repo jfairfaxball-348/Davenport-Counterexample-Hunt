@@ -1,0 +1,10 @@
+{
+  "session": "S047",
+  "remote_prompt": "authoritative/NEXT_SESSION_PROMPT.md as observed before S047",
+  "archive": "sessions/S047/INPUT.md",
+  "owner_text": "sessions/S047/OWNER_INVOCATION.md",
+  "entry_main": "df1e024f52516240bd880e55865da98c8eda2747",
+  "raw_owner_chat_sha256": null,
+  "timing_note": "Expanded PLAN not separately timestamped prior to initial informal proofs; original GitHub S047 prompt and visible plan precede.",
+  "prohibited_methods_respected": true
+}

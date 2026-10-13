@@ -1936,6 +1936,46 @@
       "origin": "research/S046_P5_DECORATED_TWO_BLOCK_EXCHANGE.md",
       "source_ids": [],
       "notes": "S046 exact symbolic/internal same-executor hostile review only. Conditional application / local hostile model scoped in proof. No certified composite equality, candidate, novelty or hosted CI PASS."
+    },
+    {
+      "id": "CLM-0181",
+      "statement": "For an n15 hypothetical six-support ternary augmented T44 with nonzero antipodal-free six-cap and counts 3a_v+r_v (remainders 2,2,2,2,2,1), the maximum number of disjoint nonempty quotient-zero blocks on ALL 44 original-plus-one positions is exactly 13. Every quotient-zero 3-subset is monochromatic; there are at most eleven such triples. Fourteen blocks would need at least three of size >=4 and hence >=45 indices; eleven triples plus two residual circuits attain 13.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S047_N15_GLOBAL_CAP_AND_INDEX_TRANSFER.md",
+      "source_ids": [],
+      "notes": "S047 hand proof, same-executor INTERNAL hostile review only; source-stated composite dependencies unchanged; no counterexample, equality proof, external/formal certification or novelty claim."
+    },
+    {
+      "id": "CLM-0182",
+      "statement": "In every original-index monochromatic-triplet/residual two-circuit partition of hypothetical n15 T44, swapping a residual index x in a circuit W for an index t in an original same-class monochromatic triple P_j gives the exact conserved H=C5^3 pair-transfer a+delta,w-delta (delta=h(x)-h(t)). Over the unchanged eleven H block decorations U (ten triples plus other residual circuit), resulting 13-block minimality is equivalent to a+delta in E(U), since E(U)=c_U-E(U) and a+w=c_U. Necessary over ALL genuine eligible re-strippings; not sufficient for full G minimality.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S047_N15_GLOBAL_CAP_AND_INDEX_TRANSFER.md",
+      "source_ids": [],
+      "notes": "S047 hand proof, same-executor INTERNAL hostile review only; source-stated composite dependencies unchanged; no counterexample, equality proof, external/formal certification or novelty claim."
+    },
+    {
+      "id": "CLM-0183",
+      "statement": "For hypothetical n20 S58, among the original same-parity 26 pairs one class has >=4. Select eight ORIGINAL positions of this class, retain other 22 original H=C10^3 pair decorations U, and write e_ij=iota^{-1}(g_i+g_j). For EVERY nonempty partial matching M on the eight positions, sum_{ij in M} e_ij belongs to E(U). There are 28+210+420+105=763 labelled matchings; all 105 perfect-matching sums coincide. A simultaneous eight-index global matching-complex inverse, with no independent test count or parity-profile elimination asserted.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S047_N20_EIGHT_INDEX_MATCHING_COMPLEX.md",
+      "source_ids": [
+        "SRC-0023"
+      ],
+      "notes": "S047 hand proof, same-executor INTERNAL hostile review only; source-stated composite dependencies unchanged; no counterexample, equality proof, external/formal certification or novelty claim."
+    },
+    {
+      "id": "CLM-0184",
+      "statement": "For indexed target-sized p5 quotient hostile family A_k' (k>=3), choose an ordered chain of r distinct pure X^5 blocks, one X index from each, one residual X and one residual Y index, and one original Z index in B. Replacing B by (B-Z)+X_1+Y and P_i successively by P_i-X_i+X_{i+1}, last P_r-X_r+X_residual gives r+1 pairwise disjoint original-index Q-zero blocks with combined H decoration shifted by h(Y)+h(X_residual)-h(Z). If an actual zero-sumfree G decoration existed, every nonempty subset sum of the r+1 new block H sums would lie in E(U) for the untouched H block sums U. These are 2^(r+1)-1 simultaneous exact tests per labelled chain; 6*5^r*(t)_r labelled chains over t selected pure blocks, not independent values. No G lift or contradiction established.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S047_P5_LONG_CHAIN_CRT_EXCHANGE.md",
+      "source_ids": [
+        "SRC-0015"
+      ],
+      "notes": "S047 hand proof, same-executor INTERNAL hostile review only; source-stated composite dependencies unchanged; no counterexample, equality proof, external/formal certification or novelty claim."
     }
   ]
 }

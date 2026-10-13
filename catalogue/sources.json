@@ -426,5 +426,20 @@
     "BSP2007_diagrams": "UNRECONSTRUCTED; not needed only for all-y partition existence",
     "historical_C10": "SOURCE_STATED",
     "no_author_code": true
+  },
+  "s047_audit": {
+    "date": "2026-10-13",
+    "source_record_count": 28,
+    "original_source_objects_unchanged": true,
+    "access_promotions": 0,
+    "primary_context": [
+      "SRC-0008",
+      "SRC-0004",
+      "SRC-0005",
+      "SRC-0023",
+      "SRC-0015"
+    ],
+    "source_status": "UNCHANGED",
+    "new_literature_claims": false
   }
 }
