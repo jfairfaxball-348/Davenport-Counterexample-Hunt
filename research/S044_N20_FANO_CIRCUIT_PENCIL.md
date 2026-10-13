@@ -1,0 +1,25 @@
+# S044 — n20 full minimal parity-circuit and pencil partition theorem
+
+13 October 2026. CLM-0168 and CLM-0171. Conditional on the exact historical D(C10³)=28 SOURCE_STATED (SRC-0023) and the S041 CLM-0151 six-odd C2³ quotient reduction; the rank-three composite endpoint is NOT proved.
+
+Let S be a hypothetical indexed zero-sumfree sequence of 58 terms in C20³. In Q=C2³ its 58 original parities are nonzero and exactly six of the seven nonzero classes have odd multiplicity; denote the omitted class w. Let z=-sum S be a **new** 59th indexed term; modulo2, z=w. The 59-term T=S*z is a minimal zero-sum in G: a proper zero subcollection missing z contradicts S zero-sumfree; one containing z has a nonempty complementary zero subcollection inside S. All seven nonzero Q classes in T therefore have ODD multiplicity, and the quotient sum is0.
+
+## CLM-0168: every 28-block partition is exactly one of two Fano forms
+
+Suppose T is partitioned into 28 nonempty indexed Q-zero blocks. Each block MUST be a minimal Q-zero sequence: if B contains a proper nonempty Q-zero subcollection, then B and its complement split into two nonempty Q-zero blocks; with the other27 blocks there are29 disjoint Q zeros. D(C10³)=28 forces a zero sum from 28 among them, a proper indexed subcollection of T (the 29th block is nonempty), violating minimality. Hence each block has length at most D(C2³)=4 and, as none of the T terms have quotient0, length at least2.
+
+There are 28 blocks, minimum total 56 positions, and T has exactly59. Thus the total size excess above pairs is precisely3. With allowed lengths2,3,4, the ONLY possibilities are (i) 26 pairs, one triple, one quadruple (excess1+2=3); (ii) 25 pairs and three triples (excess1+1+1=3).
+
+In (i), minimal Q pairs use two equal nonzero classes, minimal triples use three DIFFERENT nonzero classes a,b,a+b (a Fano line), and minimal quadruples use four DIFFERENT nonzero classes summing to0, with no zero triple. Since EVERY nonzero class occurs oddly in T, the odd-class incidence of the residual 3+4 terms must be odd in all seven classes. Those seven positions must contain all seven nonzero classes ONCE each. Their line and its complementary four are exactly the Fano line / complementary cap.
+
+In (ii), three minimal Q triples each use a Fano line. The 25 pairs contribute even parity multiplicities, so the nine triple occurrences have ODD multiplicity for each of the seven nonzero classes. They total9, forcing exactly ONE class to appear three times and each of the other six ONCE. This common class lies on every triple, so the three triples are exactly the three Fano lines through one hub point, and these partition the remaining six points in pairs. No other quotient-zero 28-block shapes exist. This is a quotient-only classification and supplies no independent kernel decoration inverse.
+
+For any original y in S, use the internally proved C2³ multiwise D27=57 on the 57 positions S\{y}; choose27 disjoint Q-zero blocks. Their complement in zero-total T contains z,y and is Q-zero, giving a 28-block partition anchored at y. By the preceding minimal-block result, the distinguished block containing z,y is a Q-minimal circuit of length2,3 or4. This existence holds for EVERY original y; no cross-partition H exchange follows.
+
+Hostile parity-only countermodel: let the six odd S classes each initially occur once and add52 further copies of one of those classes (in even increments). Then the 59-position Q multiplicities admit both Fano partition types: 26 pairs plus line/cap; or 25 pairs plus a three-line pencil centred on the heavily repeated class. This is ONLY abstract parity data, not a zero-sumfree G lift. Neither the two partition types nor the S043 exact local K4 realization can be disallowed on parity equations alone.
+
+## CLM-0171: partial improvement inside the (0,4) P26 profile
+
+Let P be zero-sumfree in H=C10³, 26 original indexed positions, and write mod2 zero-class count z=0 and four odd-multiplicity distinct nonzero classes R={a,b,c,d}. Pair all even copies in their own class: (26-4)/2=11 **disjoint** quotient-zero pair blocks. Assume a+b+c=0 in Q, so d is the isolated fourth odd class. The residual original singleton triple (a,b,c) is a twelfth quotient-zero block, with indexed singleton class d remaining. If an extension x had parity d, {d,x} would be a thirteenth disjoint Q-zero block. Since D(C5³)=13 (internal S039), their H-kernel decorations force an actual H zero sum in P*x. Thus d is absent from bar E(P). Similarly any x with parity0 gives a twelfth singleton/pair canonical block, and (a,b,c) gives thirteenth; parity0 is absent. This is independent of historical D(C10³)=28.
+
+If R has no Fano triple, four distinct nonzero vectors in rank3 must sum0 and form an affine cap; those four form a twelfth block, so parity0 remains forbidden. We have NOT excluded any (0,4) subcase or the other two profiles (0,6),(1,7); no all-lifts E(P) inverse, no stronger four-class impossibility, no composite theorem. Existing S043 six-singleton exact K4 hostile realization survives intact.

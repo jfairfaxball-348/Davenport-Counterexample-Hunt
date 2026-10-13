@@ -177,3 +177,8 @@ S042 CLM-0158–0163 internal symbolic proofs: corrected NON-SPLIT n20 twisted F
 S043 CLM-0164–0167 internally narrow eligible n20 Fano P26 quotient mod2 profiles to (z,r)=(0,4),(0,6),(1,7); exactly realise four-class twisted K4 with six original C20 singleton edges but no P26; establish conditional local indexed p5 CRT replacement restriction |B_i|+|L|≤19; obtain n15 every-y anchored 13-block ternary partition of augmented minimal zero T44 using SOURCE_STATED D12(C3³)=42, without BSP2007 diagrams just for existence. No exact D(C15³) or D(C20³), candidate, new numeric frontier or source promotion. Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED; CAM-0001 BLOCKED by source-stated n6=16, hosted checks ABSENT_NOT_PASS. S044 future.
 
 CAM-0001 remains PROPOSED / NOT RUNNING / BLOCKED by published source-stated n6=16; no replacement target activated, no computational mathematical campaign or phase promotion.
+
+
+## S044 audit — 2026-10-13
+
+No numerical/computational mathematical search/candidate/campaign launched. Four internal symbolic CLM-0168..0171 constrain hypothetical n20/n15 quotient partitions and prove p5 local19 sharp. Original n1..30 frontier row records and28 source objects unchanged, no new bound. Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED; CAM-0001 PROPOSED / NOT RUNNING / BLOCKED published SOURCE_STATED n6=16, no replacement target. Hosted CI ABSENT_NOT_PASS; S045 future only.

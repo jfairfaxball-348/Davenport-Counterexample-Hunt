@@ -180,3 +180,8 @@ Corrected a mathematically INVALID early parity lemma: C20³→C2³ kernel C10³
 
 S043 CLM-0164..0167: eligible n20 Fano P26 mod2 profiles only (0,4),(0,6),(1,7); six C20 singleton lifts REALISE exact four-class K4 compatibility without P26; conditional indexed CRT exchange gate |B_i|+|L|≤19 from source-stated p5 D2=20; n15 every-y anchored 13-block augmented partition from source-stated ternary D12=42. No n15/n20 equality or candidate. Source-stated upper/diagram gaps remain, Phase1 IN_PROGRESS, CAM-0001 BLOCKED n6=16, hosted CI ABSENT_NOT_PASS. Original30 frontier rows and original28 sources unchanged; S044 FUTURE.
 Reject four-class *exact* K4 incompatibility as FALSE by CLM-0165; do not reject any surviving P26 profile on local parity alone. S044 prioritises actual E(P) inverse over these three profiles and cross-anchor n15 index-disjoint CRT exchanges. Detailed PLAN registration after preliminary informal mathematical thinking was disclosed; no fully preregistered claim.
+
+
+## S044 decision — 2026-10-13
+
+Preserve the two simultaneous n20 Fano partition shapes and require a C10 decoration inverse: parity alone does NOT remove the three P26 profiles. Strengthen the n15 overlap gate to forbid two disjoint quotient zero pairs anywhere in 44 positions, including z; >=6 minimal ternary triples but still no actual H exchange. Explicit A_k k>=2 realizes B7+L12=19 with no two disjoint p5 zeros: reject universal local18 gate as FALSE. Continue with S045 cross-block/indexed inverse, do not start a search or promote SOURCE_STATED historical inputs. No composite result/candidate, original30 frontier and 28 sources unchanged, Phase1 IN_PROGRESS, CAM-0001 BLOCKED, hosted CI ABSENT_NOT_PASS. Written Git plan archival after informal derivations disclosed.

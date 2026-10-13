@@ -945,5 +945,21 @@
     "phase": "IN_PROGRESS",
     "campaign": "CAM-0001 BLOCKED n6=16",
     "hosted_ci": "ABSENT_NOT_PASS"
+  },
+  "s044_audit": {
+    "date": "2026-10-13",
+    "original_rows_unchanged": true,
+    "original_ordered_markdown_table_unchanged": true,
+    "claim_ids": [
+      "CLM-0168",
+      "CLM-0169",
+      "CLM-0170",
+      "CLM-0171"
+    ],
+    "numeric_frontier_change": false,
+    "n15_interval": "43..45",
+    "n20_interval": "58..59",
+    "phase1": "IN_PROGRESS",
+    "campaign": "BLOCKED"
   }
 }

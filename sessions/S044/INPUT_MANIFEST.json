@@ -1,0 +1,15 @@
+{
+  "session": "S044",
+  "entry_main": "1c092cf6847bbae748ebf416aae7fe0792e4b14c",
+  "canonical_source": "authoritative/NEXT_SESSION_PROMPT.md@1c092cf6847bbae748ebf416aae7fe0792e4b14c",
+  "canonical_git_blob_sha": "fe1f979bb59cec080e2f50c2773bcfb7e7325aa0",
+  "canonical_archive_verbatim": true,
+  "owner_invocation_file": "sessions/S044/OWNER_INVOCATION.md",
+  "raw_chat_sha256": null,
+  "raw_chat_bytes_authenticated": false,
+  "owner_authorized_S044": true,
+  "plan": "sessions/S044/PLAN.md",
+  "initial_A_B_C_intent_preregistered_in_chat_before_mathematics": true,
+  "detailed_plan_archived_only_at_closeout": true,
+  "fully_time_stamped_Git_preregistration_before_math": false
+}

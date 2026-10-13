@@ -165,3 +165,8 @@ S012 closeout: [complete record and FUTURE UNEXECUTED S013 handoff](../sessions/
 | S043 | 2026-10-13 | Sustained symbolic A+B+C n20 parity inverse, exact twisted K4 hostile model, indexed p5 CRT replacement, and n15 every-y anchored 13-block ternary partition | CLM-0164..0167; only three surviving n20 P26 mod2 profiles; four-class local K4 realisable; local replacement gate and anchored ternary partitions, not composite D or candidate; Phase1 IN_PROGRESS; S044 FUTURE | session/S043-parity-profile-and-crt-exchange |
 
 [S043 full proofs, hostile review, validation, precommit closeout](../sessions/S043/CLOSEOUT.md).
+
+
+| S044 | 2026-10-13 | Symbolic n20 augmented Fano pencil / n15 anchored quotient circuits / p5 exact local exchange test | CLM-0168..0171; 28-block Fano line+cap or triple pencil; T44 disjoint opposite pair exclusion and >=6 ternary triples; A_k 7+12=19 sharp core; no n15/n20 equality or candidate; S045 future | session/S044-parity-pencil-and-anchored-circuits |
+
+[S044 research, internal hostile review and precommit closeout](../sessions/S044/CLOSEOUT.md).
