@@ -894,5 +894,32 @@
     ],
     "phase1": "IN_PROGRESS",
     "campaign": "CAM-0001_BLOCKED_N6_16"
+  },
+  "s042_audit": {
+    "session": "S042",
+    "date": "2026-10-13",
+    "all_30_original_rows_unchanged": true,
+    "ordered_markdown_rows_unchanged": true,
+    "source_count_original": 28,
+    "claims_added": [
+      "CLM-0158",
+      "CLM-0159",
+      "CLM-0160",
+      "CLM-0161",
+      "CLM-0162",
+      "CLM-0163"
+    ],
+    "intervals_unchanged": [
+      "15:43..45",
+      "20:58..59",
+      "21:61..63",
+      "28:82..83",
+      "30:88..90"
+    ],
+    "new_rank_three_exact_case": false,
+    "phase1": "IN_PROGRESS",
+    "campaign": "CAM-0001 PROPOSED/NOT_RUNNING/BLOCKED n6=16",
+    "hosted_ci": "ABSENT_NOT_PASS",
+    "invalid_naive_fano_parity_claim": "RETRACTED"
   }
 }

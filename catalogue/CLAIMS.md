@@ -1074,3 +1074,41 @@ Category REDUCTION. Full proof in research/S041_DIRECT_TARGETS_FIRST_CHECKPOINT.
 For all integers k>=2, D_k(C4³)>=4k+8, proved by explicit (4k+7)-term sequence e1^(4k-5)e2³e3³(e1+e2)²(e1+e3)²(e2+e3)². Coordinate totals (4k-1,7,7) and separation of at most two non-pure e1 blocks contradict k disjoint zero sums. Hence D13(C4³)>=60 and the bare mod4 quotient route cannot establish D(C20³)<=58.
 
 Category REDUCTION. Full proof in research/S041_DIRECT_TARGETS_FIRST_CHECKPOINT.md or research/S041_CONTINUATION_AND_DIRECT_CORE.md; applicable primary historical inputs retain source-only standing. INTERNAL same-executor proof, no formal/external verification or novelty determination.
+
+# S042 additional claims (historical 157 unchanged)
+
+## CLM-0158 — PROGRAMME_PROVED (INTERNAL, scoped)
+
+Twisted Fano K4 exact compatibility: in NON-SPLIT C20³→C2³ kernel C10³, four triples t_i and three crosscuts q must satisfy Σt=Σq and six labelled bar(t_i+t_j−q_ij)=c_ij for original six singleton residues c_ij; converse only for the seven Fano equations, NOT full sequence zero-sumfreeness. Naive split parity fullness **RETRACTED**.
+
+Category: REDUCTION. Origin: research/S042_FANO_PARITY_RECONSTRUCTION.md. Original source-stated hypotheses retain their published status. No external/formal independent verification, novelty, exact composite rank-three result or candidate.
+
+## CLM-0159 — PROGRAMME_PROVED (INTERNAL, scoped)
+
+A hypothetical n20 canonical zero-sumfree P26 must have mod2 E(P) affinely spanning F2³, hence >=4 residue classes, conditional on historical D(C10³)=28; abstract four-class twisted models show the stronger seven-class statement FALSE.
+
+Category: REDUCTION. Origin: research/S042_FANO_PARITY_RECONSTRUCTION.md. Original source-stated hypotheses retain their published status. No external/formal independent verification, novelty, exact composite rank-three result or candidate.
+
+## CLM-0160 — PROGRAMME_PROVED (INTERNAL, scoped)
+
+A_k=e1^(5k−6)e2⁴e3⁴(e1+e2)³(e1+e3)²(e2+e3)² gives independent sharp multiwise p5 LOWER Dk(C5³)>=5k+10, no <=4 zero sums; k4 has local 29-core and 28-core deletion, defeating any core-only exclusion. Upper source Yiu remains SOURCE_STATED.
+
+Category: REDUCTION. Origin: research/S042_P5_CORES_AND_DECORATION.md. Original source-stated hypotheses retain their published status. No external/formal independent verification, novelty, exact composite rank-three result or candidate.
+
+## CLM-0161 — PROGRAMME_PROVED (INTERNAL, scoped)
+
+Under source-stated p5 eta/Dj and original k=D(C_m³) assumptions, p5 quotient of hypothetical n15/20/30 admits k−1 disjoint zeros with maximal H zero-sumfree decorations, subset sums all H; unused L quotient-zero-sumfree <=12. Coupled exchange still unproved.
+
+Category: REDUCTION. Origin: research/S042_P5_CORES_AND_DECORATION.md. Original source-stated hypotheses retain their published status. No external/formal independent verification, novelty, exact composite rank-three result or candidate.
+
+## CLM-0162 — PROGRAMME_PROVED (INTERNAL, scoped)
+
+Exact E(P) for a 17-in-primitive-plane rectangle P=e1^9e2^8 ⋅ Π9(a_j e1+β_j e2+e3) lies on an affine nonzero character χ=1, so 4E∩3E empty. Variable nine-term cyclic quotient remains unresolved.
+
+Category: REDUCTION. Origin: research/S042_RECTANGULAR_EXTENSION_AND_TERNARY.md. Original source-stated hypotheses retain their published status. No external/formal independent verification, novelty, exact composite rank-three result or candidate.
+
+## CLM-0163 — PROGRAMME_PROVED (INTERNAL, scoped)
+
+Conditional historical C3³ D11/D12, hypothetical n15 quotient has no zero and no two disjoint opposite pairs, support<=14 nonzero ternary values and one multiplicity>=4; BSP2007 inverse diagram remains SOURCE_STATED.
+
+Category: REDUCTION. Origin: research/S042_RECTANGULAR_EXTENSION_AND_TERNARY.md. Original source-stated hypotheses retain their published status. No external/formal independent verification, novelty, exact composite rank-three result or candidate.
