@@ -1976,6 +1976,48 @@
         "SRC-0015"
       ],
       "notes": "S047 hand proof, same-executor INTERNAL hostile review only; source-stated composite dependencies unchanged; no counterexample, equality proof, external/formal certification or novelty claim."
+    },
+    {
+      "id": "CLM-0185",
+      "statement": "For the S046 six-cap quotient residual R=A²B²C²D²E²U with A+B=E, U+C=A, U+D=B, seven original-index zero-cut families force an incompatibility in C5³ whenever the extension set E(P11) of the fixed eleven stripped triples lies in a NONZERO affine character hyperplane ℓ=λ. This excludes the S046 P11=f1^4 f2^4 f3^3 entire residual decoration family, without assuming duplicate original labels equal. Does not classify every six-cap or all P11.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S048_N15_SEVEN_CIRCUIT_AFFINE_INVERSE.md",
+      "source_ids": [],
+      "notes": "S048 bounded original-index symbolic proof, same-executor INTERNAL hostile review only; source-stated dependencies not upgraded; no full composite equality or G counterexample/novelty claim."
+    },
+    {
+      "id": "CLM-0186",
+      "statement": "For the S047 eight original same-mod2 C20³ positions and fixed 22-pair H=C10³ core U, all 763 partial-matching extension tests depend only on the EVEN vertex subset of a matching. They are exactly equivalent to 127 labelled nonempty even-subset extension tests, with multiplicities 1,3,15,105 by subset sizes 2,4,6,8; NOT 127 necessarily distinct H sums.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S048_N20_EVEN_SUBSET_HOSTILE.md",
+      "source_ids": [
+        "SRC-0023"
+      ],
+      "notes": "S048 bounded original-index symbolic proof, same-executor INTERNAL hostile review only; source-stated dependencies not upgraded; no full composite equality or G counterexample/novelty claim."
+    },
+    {
+      "id": "CLM-0187",
+      "statement": "In the S047 n20 eight-original-point matching subproblem, U22=f1^9 f2^9 f3^4⊂C10³ and eight distinct same-parity original C20 points g_i=G_f3+2d_i with distinct d_i∈span(f1,f2) satisfy ALL 127 even-subset/763 matching extensions; genuine two-dimensional edge transfers need not vanish. Can realise paired-core and six-odd parity census in 58 original positions, but NO full G-zero-sumfreeness or Fano global consistency is claimed.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S048_N20_EVEN_SUBSET_HOSTILE.md",
+      "source_ids": [
+        "SRC-0023"
+      ],
+      "notes": "S048 bounded original-index symbolic proof, same-executor INTERNAL hostile review only; source-stated dependencies not upgraded; no full composite equality or G counterexample/novelty claim."
+    },
+    {
+      "id": "CLM-0188",
+      "statement": "For target-sized p5 skeleton A_k' and H=C_m³ with m=3,k7 or m=4,k10, one maximal r=k-2 original-index changing-total chain admits OLD maximal H-zero-free V=(f1+f2)*f1^(m-2)*f2^(m-1)*f3^(m-1), and NEW maximal zero-free β=f1^(m-1)*f2^(m-1)*f3^(m-1), with nonzero total shift -f2. ALL 63/511 nonempty subset tests of that single chain hold; global all-chains/G-lift not claimed.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S048_P5_MAXIMAL_CHAIN_HOSTILE.md",
+      "source_ids": [
+        "SRC-0015"
+      ],
+      "notes": "S048 bounded original-index symbolic proof, same-executor INTERNAL hostile review only; source-stated dependencies not upgraded; no full composite equality or G counterexample/novelty claim."
     }
   ]
 }

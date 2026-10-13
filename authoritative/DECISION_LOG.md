@@ -198,3 +198,6 @@ NO C15/C20 equality, genuine counterexample, source status change, priority clai
 
 ## S047 decision — 13 October 2026
 The six-cap n15 14-Qzero-block route is decisively CLOSED: full 44-point quotient packing max13 (CLM-0181). Shift to global C5 H extension restrictions across EVERY original re-stripping, single conserved-total E condition (CLM-0182). n20 strengthen from one/two swapped pairs to a fixed U22 with ALL eight-point partial matchings (CLM-0183); 763 labels are not independent and P26 mod2 profiles survive. p5 extend original-index B/P two-block changing-total exchanges to arbitrary r-chain joint E membership (CLM-0184), target-length A_k' only. No composite equality/candidate, source changes, Phase1 PASS, campaign or hosted CI PASS; S048 FUTURE ONLY.
+
+## S048 decision — 13 October 2026
+Proceed with scoped seven-cut C5 affine inverse exclusion CLM-0185, not a universal D15 conclusion. Correct n20 matching-family overcount 763→127 equivalent even subsets and preserve original eight-point hostile CLM-0187. Record the explicit single-chain C3/C4 p5 survivor CLM-0188 rather than falsely concluding that all simultaneous chain tests conflict. Keep the next lead on near-extremal C5^3 extension sets, alternative six-caps and cross-class n20 Fano patterns. No phase promotion; S049 not authorised.

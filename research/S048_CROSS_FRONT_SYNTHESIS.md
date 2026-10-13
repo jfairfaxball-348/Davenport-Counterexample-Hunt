@@ -1,0 +1,10 @@
+# S048 — original-index inverse gate: result and obstruction
+One owner-invoked symbolic Phase1 A+B+C session, 13 October 2026. CLM-0185..0188, internally reviewed only.
+
+A (n15): For the actual S046 six-cap quotient residual R=A²B²C²D²E²U, seven kinds of original-index 4/5/6-zero circuits make an affine extension set impossible: IF E(P11) is contained in {ℓ=λ≠0} in H=C5³, there is NO compatible decoration of all 11 residual original positions. This kills the S046 f1^4 f2^4 f3^3 eleven-triple hostile family for that fixed residual, regardless of individual residual H labels. It does NOT show all zero-free P11 have affine extension sets or classify all six-support caps. A specific previously untested W4 plus two f3 triples gives a proper actual G-zero subset of S046's displayed partial decorated augmented T.
+
+B (n20): The 763 matching labels reduce EXACTLY to 127 even-subset sums. Distinct eight-point original C20 configurations with genuinely nonzero two-dimensional pair changes and U22=f1^9f2^9f3^4 pass all 127 simultaneously, even while realising the six-odd parity census. These tests alone cannot eliminate any of (0,4),(0,6),(1,7). Cross-class parity-code constraints remain essential.
+
+C (p5): For n15 H=C3³ and n20 H=C4³, a fully prescribed original-index H assignment passes every one of the 63/511 nonempty-subset conditions for ONE changed-total maximal chain, with OLD and NEW maximal H-zero-free decorations and nonzero total displacement. It is NOT a full lift and does not meet all global chains.
+
+No D(C15³)=43 or D(C20³)=58 theorem, no length3n-2 zero-sumfree G sequence, no source-status promotion, novelty or global inverse classification. Thirty original frontier rows and 28 original sources preserved. Phase1 remains IN_PROGRESS; CAM-0001 NOT_RUNNING and BLOCKED. Next attack must prove/disprove the C5³ near-max affine-extension inverse (or bypass it), combine ALL six-cap residual types and re-strippings, and cross-pair the n20 parity-code families; pursue multi-chain p5 simultaneous feasibility without counting duplicated constraints.

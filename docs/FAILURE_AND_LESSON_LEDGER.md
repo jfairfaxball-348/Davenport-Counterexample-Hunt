@@ -250,3 +250,10 @@ One explicitly owner-invoked symbolic Phase1 session against live merge-main 96f
 | S047 | n15 conserved pair re-stripping yields TWO independent new E(U) tests | FALSE: E(U)=c_U-E(U) collapses to one genuine original-index swap membership | CLM-0182 exact scoped transfer |
 | S047 | n20 763 partial matching conditions are independent and imply parity-profile contradiction | NOT JUSTIFIED: labelled constraints overlap and all105 perfect matching totals coincide | CLM-0183 necessary global family, profiles open |
 | S047 | p5 r+1 exchange chain totals are conserved like the n20 hub pencil | FALSE: total changes by h_y+h_q-h_d, requires all 2^(r+1)-1 subset memberships | CLM-0184 no E inverse exclusion yet |
+
+## S048 limitations and negative tests — 13 October 2026
+1. CLM-0185 DESTROYS S046's previously presented local C5^3 witness as any full minimal T44 (W4 plus two f3 pure triples are an actual proper zero subset); do NOT imply it refutes all six-support lifts, or that every 11-term zero-free C5^3 P has E(P) in an affine nonzero plane. Seven original-index circuit proof is conditional on both fixed quotient cap R and affine extension-set premise.
+2. CLM-0186 shows MATCHINGS OF THE SAME EVEN VERTEX SUBSET HAVE IDENTICAL H TOTALS. 763 is a matching-label count; correct distinct labelled subset expressions=127, not 763 or 127 necessarily distinct values.
+3. CLM-0187 exhibits eight distinct same-parity original C20 points and nonzero two-dimensional pair exchanges passing all 127 constraints. Matching-only H inverse cannot force exclusion; extending to 58-position six-odd parity bookkeeping does NOT certify G-zero-sumfreeness or all Fano patterns.
+4. CLM-0188 shows one full r=t chain's 63/511 nonempty E tests may all hold despite Δ≠0; global all-index/all-chain impossibility remains open, and fixed chosen selected positions are NOT an exhaustive family.
+5. Written preregistration was composed after informal mathematical deductions. No false claim of Git-timestamped A+B+C preregistration before proof; raw owner-chat SHA unknown. Review INTERNAL only, hosted CI ABSENT_NOT_PASS.

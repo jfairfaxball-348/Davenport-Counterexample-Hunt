@@ -193,3 +193,6 @@ CAM-0001 stays PROPOSED / NOT RUNNING, activation BLOCKED by source-stated n6=16
 
 ## S047 campaign exclusion — 13 October 2026
 No Phase2/3 work, no new proposed/activated campaign or original index numerical search. CAM-0001 remains PROPOSED / NOT RUNNING / BLOCKED by historical source-stated n6=16. Four symbolic CLM-0181..0184 are inverse/hostile necessary conditions, not a generated candidate or a completeness-certificate search. Phase1 IN_PROGRESS; S048 requires a new owner instruction.
+
+## S048 campaign non-activation — 13 October 2026
+CAM-0001 remains PROPOSED / NOT_RUNNING / BLOCKED (source-stated historical n6=16). S048 is purely symbolic Phase1: no computational mathematics search, solver, candidate, orbit enumeration, historical code, Lean or Palomar. No changes to allowed campaign scope, gates, or budgets.
