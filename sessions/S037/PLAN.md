@@ -1,0 +1,3 @@
+# S037 preregistered Route A
+
+A1 FIRST: exploit S036 two-witness vector pair cancellation alongside S031 four-index coefficient exchange and original vector-direction multiplicities to derive an actual-Z-dependent geometry/support restriction. STOP after first substantial scoped proof or essential gap. A2 high-high equality and A3 higher-layer degree census only if A1 fails before STOP; optional Route B D2<=6p−6 needs independent preregistration and is NOT activated. Check both signs, p7/p13, complements, pair-cover OR, indexed multiplicities, scalar/vector/star/global Psi, GL3 and projective cancellation. No mathematical numerical/computational search, CAS, solvers, original author code, Lean/Palomar, Phase2/3, publication or S038.

@@ -155,3 +155,7 @@ CAM-0001 stays **PROPOSED / NOT RUNNING / activation BLOCKED** by published sour
 ### S036 disposition — 2026-10-12
 
 CAM-0001 **PROPOSED / NOT RUNNING / activation BLOCKED** by historical SOURCE_STATED Schmid D(C6³)=16. S036 CLM-0139 is conditional symbolic vector-weighted coefficient support (m2p p7 W>=58, p13 W>=256), not a vector sequence, new D1/Dk value, counterexample, search/candidate or alternative campaign. No numerical mathematical/computational search, solver, author code, Lean, Palomar, publication or Phase2/3. Phase1 IN_PROGRESS, original30 frontier entries and 28 sources unchanged; absent hosted checks NOT PASS.
+
+## S037 nonactivation — 2026-10-13
+
+CAM-0001 still PROPOSED/NOT_RUNNING/BLOCKED by SOURCE_STATED n6=16. CLM-0140 is a hypothetical-Z symbolic necessary Psi support bound (m2p p7 W>=87, p13 W>=383), not a candidate, rank3 Davenport D1/Dk value, search permission or replacement campaign. Phase1 IN_PROGRESS, Phase2/3 NOT_STARTED; no numerical mathematical/computational search, original author code, solver, Lean/Palomar or hosted CI PASS.

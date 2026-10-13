@@ -327,5 +327,25 @@
       28,
       30
     ]
+  },
+  "s037_audit": {
+    "session": "S037",
+    "date": "2026-10-13",
+    "original_source_records_unchanged": true,
+    "source_enums_unchanged": true,
+    "reviewed_original": "SRC-0021 original author publisher offprint printed pp22–24, printed p23 image re-inspected; stronger split and omitted rank3 Lem2.3 unproved; CLM internal",
+    "new_exact_authentications": 0,
+    "unread": [
+      "Sheikh2017 full Chapter4",
+      "GHST original C53 code/output never run",
+      "Yiu independent complete final M1 test"
+    ],
+    "interval_rows_unchanged": [
+      15,
+      20,
+      21,
+      28,
+      30
+    ]
   }
 }

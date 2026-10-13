@@ -412,3 +412,7 @@ SRC-0021 was freshly re-read at printed pp22–24 of the definitive 2012 origina
 ## S036 direct original-primary-source audit — 2026-10-12
 
 Freshly inspected definitive BSP2012 original publisher-author offprint SRC-0021 printed pp22–24 and directly examined printed p23 image. Lem2.1 weaker <=(3p−1)/2 than a later stronger <=3(p−1)/2 step, rank3 Lem2.3 proof omitted; no new source proof authenticated. CLM-0139 is purely programme-internal indexed-vector algebra, not original author claim. Original 28 source objects/access enums unchanged; Sheikh2017 full Chapter4 and GHST C53 original full code/output UNREAD and NEVER RUN, Yiu final independent complete M1 authentication absent (M2/M3 separate). Historical intervals not promoted; non-discovery not current openness.
+
+## S037 original-primary provenance audit — 2026-10-13
+
+Re-inspected primary SRC-0021 publisher-author offprint printed pp22–24 and printed p23 image. Original Lem2.1 states weaker <=(3p−1)/2, stronger <=3(p−1)/2 appears on p23 without independently supplied full proof, rank3 Lem2.3 proof omitted. CLM-0140 is programme-internal polynomial algebra, NOT authors' claim. All original 28 source objects/access enums unchanged. Sheikh2017 full Chapter4, GHST original C53 code/output UNREAD (NEVER RUN), Yiu complete independently authenticated final M1 unavailable; M2/M3 separate. No source-stated exact rank-three values or five historical conditional intervals upgraded.

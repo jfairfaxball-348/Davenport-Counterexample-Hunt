@@ -1,3 +1,6 @@
+# S037 current authority — 2026-10-13
+
+S037 CLM-0140 exact parallel-fibre polynomial coefficient exchange plus S036 vector moment forces >=3 distinct projective active witness directions for any nonempty pair Psi support; exceptional pairs W>=E, at hypothetical m2p p7 W>=87,p13 W>=383. NECESSARY LOWER, no actual-Z upper or m2p/m>=3p contradiction, no D1/Dk/D2 theorem/candidate. Phase1 IN_PROGRESS, Phase2/3 NOT_STARTED, CAM-0001 blocked n6=16; original30 frontier/28 sources untouched; hosted CI absent NOT PASS. Only future S038 separately owner-authorised. Older 'current' labels below have historical session cutoffs; this supersedes them.
 # Authority order
 
 1. AGENTS.md and this file.

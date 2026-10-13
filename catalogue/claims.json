@@ -1492,6 +1492,17 @@
         "SRC-0021"
       ],
       "notes": "New programme-internal symbolic indexed block-sum theorem, SRC-0021 original methods provenance NOT authorship; separate INTERNAL adversarial sign/index check, p7/p13 hand tests; no search, external review, formalisation or CI pass."
+    },
+    {
+      "id": "CLM-0140",
+      "statement": "For p>=7 hypothetical indexed no-short zero-sum Z in Fp^3 with complete m=kp>=2p b-block family, fixed pair i,j and eligible z_l=c z_k parallel, the exact critical three-deletion polynomial coefficient obeys Psi_ijk=c Psi_ijl and Psi_ijk z_k=Psi_ijl z_l. Thus each active projective third-index fibre contributes the same nonzero weighted vector at n_d<=p-1 positions; S036 vector pair moment forces >=3 distinct active projective directions for EVERY nonempty pair support. If exactly three witnesses their vectors span rank two and three projective points are collinear. Every exceptional pair λ_ij not congruent t mod p needs >=3 nonzero Psi triples, so 3E<=3W and W>=E. Under hypothetical m2p p7 W>=87 (prior58) and p13 W>=383 (prior256). Necessary lower bounds, no projective upper, m2p/m>=3p contradiction, strong extraction, rank-three D1/Dk/D2 theorem or candidate.",
+      "category": "SOURCE_AUDIT",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S037_PROJECTIVE_WITNESS_DIRECTION_RIGIDITY.md",
+      "source_ids": [
+        "SRC-0021"
+      ],
+      "notes": "PROGRAMME-INTERNAL exact coefficient exchange and vector moment with no-short projective multiplicity cap; original SRC-0021 methodological provenance only, NOT attributed source theorem. Separate INTERNAL adversarial reconstruction, no numerical search/solver, external or formal verification."
     }
   ]
 }
