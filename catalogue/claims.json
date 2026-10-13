@@ -1503,6 +1503,17 @@
         "SRC-0021"
       ],
       "notes": "PROGRAMME-INTERNAL exact coefficient exchange and vector moment with no-short projective multiplicity cap; original SRC-0021 methodological provenance only, NOT attributed source theorem. Separate INTERNAL adversarial reconstruction, no numerical search/solver, external or formal verification."
+    },
+    {
+      "id": "CLM-0141",
+      "statement": "For p>=7 hypothetical indexed no-short zero-sum Z with complete m=2p b-zero-sum blocks and low/high counts L,H, EVERY low-high pair has >=3 active third-index critical Psi witnesses. If low i high j have lambda_ij=t, containment F_i subset F_j leaves p DISTINCT additional high-only indexed equal-weight blocks; Psi_ijk=s mu_k where mu_k counts those extra blocks through k. Hence >=h(p)=min{h:binom(h,floor(h/2))>=p} active witnesses (h7=5,h13=6), including mixed pairs whose scalar Psi moment vanishes. If F=# mixed containment pairs and W=# nonzero unordered Psi triples, 2W>=3LH+(h(p)-3)F; thus W>=ceil(3LH/2), p7 W>=156 (prior87) and p13 W>=570 (prior383). Identical neighbourhood twin pairs have Psi_ijk identically 0. Necessary support lower only; no actual-Z opposing upper, m2p/higher exclusion, rank3 D1/Dk/D2 result or candidate.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S038_MIXED_NEIGHBORHOOD_PSI_WITNESSES.md",
+      "source_ids": [
+        "SRC-0021"
+      ],
+      "notes": "PROGRAMME-INTERNAL symbolic complete-family proof, source SRC-0021 only primary historical methodology, NOT claimed source authorship; internal adversarial check only, no numeric mathematical search, external certification or CI."
     }
   ]
 }

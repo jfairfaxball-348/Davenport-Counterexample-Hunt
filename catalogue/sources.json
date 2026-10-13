@@ -347,5 +347,25 @@
       28,
       30
     ]
+  },
+  "s038_audit": {
+    "date": "2026-10-13",
+    "source_id": "SRC-0021",
+    "primary_original_offprint_read_only": true,
+    "printed_pages": [
+      22,
+      23,
+      24
+    ],
+    "printed_p23_visual_inspected": true,
+    "original_rank3_lemma23_proof": "OMITTED",
+    "original_weak_vs_strong_extraction_gap": "UNRESOLVED",
+    "new_programme_claim": "CLM-0141",
+    "new_original_authentications": 0,
+    "original_source_records_unchanged": true,
+    "access_enum_unchanged": true,
+    "sheikh_ch4": "UNREAD",
+    "ghst_original_C53": "UNREAD_NEVER_RUN",
+    "yiu_independent_M1": "UNAUTHENTICATED"
   }
 }

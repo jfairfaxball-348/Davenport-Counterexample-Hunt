@@ -143,3 +143,7 @@ S012 closeout: [complete record and FUTURE UNEXECUTED S013 handoff](../sessions/
 | S037 | 2026-10-13 | One owner-authorised Phase1 original-source symbolic Route A1 parallel-fibre Psi exchange + vector moment; separate INTERNAL adversarial pass | CLM-0140 >=3 distinct active projective witness directions, W>=E, hypothetical m2p p7 W>=87,p13>=383. NO m2p/m>=3p exclusion, rank3 D1/Dk/D2, candidate or Phase1 PASS; CAM-0001 blocked, S038 future | session/S037-projective-witness-directions |
 
 [S037 complete hand-proof, input, provenance, review, validation and strictly future S038 handoff](../sessions/S037/CLOSEOUT.md).
+
+| S038 | 2026-10-13 | One owner-invoked bounded Phase1 original-primary-source symbolic Route A2 low–high complete neighbourhood containment and exact critical Psi coefficients; separate INTERNAL adversarial reconstruction | CLM-0141: all mixed pairs >=3 witnesses; contained mixed pair >=h(p); W>=ceil(3LH/2), hypothetical m2p p7 >=156,p13 >=570. NO contradiction/D1/Dk, Phase1 still IN_PROGRESS, CAM-0001 blocked; S039 FUTURE ONLY | session/S038-low-high-neighborhood-psi |
+
+[S038 complete original symbolic proof, archived prompt, provenance, internal review, validation and strictly future handoff](../sessions/S038/CLOSEOUT.md).

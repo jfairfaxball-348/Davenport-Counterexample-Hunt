@@ -1,0 +1,32 @@
+{
+  "session": "S038",
+  "date": "2026-10-13",
+  "pinned_main": "50cd0b277aeadaf85ec653c6d0742c367473ce79",
+  "prior_session": "S037",
+  "prior_head": "6496a8a3840cadfc16f483d6145a976f484fcd1a",
+  "prior_head_parent": "6168aa6578836dc0a8b95cf0dded8cb797d949ba",
+  "prior_tree": "d98f8cfa2a97cd365b4c082866aa5bb1443f0848",
+  "prior_pr": 37,
+  "prior_merge": "50cd0b277aeadaf85ec653c6d0742c367473ce79",
+  "prior_merge_parents": [
+    "6168aa6578836dc0a8b95cf0dded8cb797d949ba",
+    "6496a8a3840cadfc16f483d6145a976f484fcd1a"
+  ],
+  "prior_nonforce_two_parent": true,
+  "open_prs": 0,
+  "competing_s038_branch_count": 0,
+  "competing_s038_pr_count": 0,
+  "competing_s038_session_directory": false,
+  "rulesets": [],
+  "branch_protection": "UNKNOWN_API_403",
+  "workflow_files": "ABSENT_DIRECTORY_404",
+  "workflow_runs": 0,
+  "check_runs": 0,
+  "status_contexts": 0,
+  "hosted_ci": "ABSENT_NOT_PASS",
+  "phase1": "IN_PROGRESS",
+  "campaign": "CAM-0001_BLOCKED_N6_16",
+  "original_rows": 30,
+  "original_sources": 28,
+  "archived_prompt_blob": "1b98fa4fae91d8d428bd8a84decd61a130dda614"
+}

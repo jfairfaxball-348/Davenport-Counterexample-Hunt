@@ -1,0 +1,33 @@
+{
+  "session": "S038",
+  "reviewed": [
+    {
+      "id": "SRC-0021",
+      "access": "PROOF_INSPECTED existing",
+      "url": "https://pro.univ-lille.fr/fileadmin/user_upload/pages_pros/gautami_bhowmik/Publications/large_exponent.pdf",
+      "observed": "Original author publisher-offprint printed pp22-24 and visually printed p23: weak Lem2.1 vs stronger p23 gap, omitted rank3 Lem2.3 proof; no new claim attributed to authors."
+    },
+    {
+      "name": "Sheikh full Chapter4",
+      "access": "UNREAD"
+    },
+    {
+      "name": "GHST C53 original code/output",
+      "access": "UNREAD_NEVER_RUN"
+    },
+    {
+      "id": "SRC-0015",
+      "access": "PROOF_INSPECTED existing; Yiu complete independent M1 final predicate UNAUTHENTICATED"
+    }
+  ],
+  "interval_source_checks": [
+    15,
+    20,
+    21,
+    28,
+    30
+  ],
+  "new_exact_original_authentications": 0,
+  "source_access_enum_changes": 0,
+  "original_source_records_unchanged": true
+}
