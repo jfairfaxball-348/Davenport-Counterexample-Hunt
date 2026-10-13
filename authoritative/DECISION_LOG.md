@@ -164,3 +164,10 @@ S039 CLM-0142–0144 directly reconstruct prime D1 and prove D2(Cp^3)<=5p-3 for 
 ## S040 decision — 2026-10-13
 
 Reconstructed general p>=7 all-rank eta via maximal projective-line pigeonhole before BSP plane averaging, eliminating p7 Lem5.2 as a REQUIRED premise for this alternative route (CLM-0148). Composed CLM-0149 Dk<=pk+p²-3 for k>=2p-4. Main composite target still unresolved: sharp bare multiwise lifting misses five original intervals by 2/1/2/1/2, conditional on source-stated p3/prime-power bounds (CLM-0150). Prioritise coupled quotient-block structure and decorations in S041; preserve frontier and source records. No Phase1 PASS, Phase2/3 or campaigns, no novelty claim.
+
+
+## S041 decision — 2026-10-13
+
+S041 direct n15/n20 sustained mathematics: seven new scoped CLM-0151..0157. Exact F2³ six-odd-class borderline inverse, 26-pair Fano seven-extension relation and primitive-plane exclusion for actual hypothetical n20 candidates; explicit non-saturating zero-sumfree P26 refutes universal plane saturation while its extension set lies on a nonzero character level. Independently proved general zero-total bonus lemma, forcing nonzero small-prime projected totals at all five historical interval cases. Conditional Yiu/GHST p5 inputs reduce n15/n20/n30 to the SAME 28/29-term C5³ core after 3/6/12 blocks; no <=3 quotient zero and no two disjoint four-zero blocks. An explicit C4³ sequence independently proves Dk>=4k+8 and forbids a bare mod4 shortcut. NO exact composite equality or counterexample. Original 30 frontier rows and 28 source records unchanged; Phase1 IN_PROGRESS, CI ABSENT_NOT_PASS. S042 FUTURE only.
+
+Select two core S042 routes: (i) coupled CRT prime-five 28/29 core for n15/n20, and (ii) n20 Fano seven-extension/character classification. Reject universal 18-plane saturation explicitly (CLM-0154); reject bare mod4 quotient target D13(C4³)<=58 with explicit lower CLM-0157. Keep source/proof status distinct and preserve frozen frontier.

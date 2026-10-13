@@ -870,5 +870,29 @@
       "CLM-0150"
     ],
     "phase": "IN_PROGRESS"
+  },
+  "s041_audit": {
+    "date": "2026-10-13",
+    "original_thirty_row_objects_unchanged": true,
+    "original_ordered_md_table_rows_unchanged": true,
+    "original_source_record_count_unchanged": 28,
+    "intervals_unchanged": [
+      15,
+      20,
+      21,
+      28,
+      30
+    ],
+    "derived_results_only": [
+      "CLM-0151",
+      "CLM-0152",
+      "CLM-0153",
+      "CLM-0154",
+      "CLM-0155",
+      "CLM-0156",
+      "CLM-0157"
+    ],
+    "phase1": "IN_PROGRESS",
+    "campaign": "CAM-0001_BLOCKED_N6_16"
   }
 }

@@ -1,0 +1,24 @@
+{
+  "session": "S041",
+  "entry_main": "ee62c53447ed8112e9cb24fc46cdc673ceb00e85",
+  "entry_tree": "2779228e0e70b97926a6fbc3efa506992991de01",
+  "prior_head": "37b948c97f9bd203730136291bf94fc39b0af7e5",
+  "prior_head_parent": "ef982dd532cd5f275d24bdddcddf538b05e04447",
+  "prior_head_tree": "2779228e0e70b97926a6fbc3efa506992991de01",
+  "prior_pr": 41,
+  "prior_merge": "ee62c53447ed8112e9cb24fc46cdc673ceb00e85",
+  "prior_merge_parents": [
+    "ef982dd532cd5f275d24bdddcddf538b05e04447",
+    "37b948c97f9bd203730136291bf94fc39b0af7e5"
+  ],
+  "observed_main_at_closeout_entry": "ee62c53447ed8112e9cb24fc46cdc673ceb00e85",
+  "competing_S041_branches": 0,
+  "open_prs": 0,
+  "workflow_runs": 0,
+  "workflow_list_api": "UNKNOWN_INACCESSIBLE",
+  "status_contexts": "NOT_CLAIMED_PASSED",
+  "branch_protection": false,
+  "rulesets": "NOT_RECHECKED_S041",
+  "phase1": "IN_PROGRESS",
+  "owner_invocation": "initial mathematics-only user authorisation, followed by explicit continuation and normal closeout request"
+}

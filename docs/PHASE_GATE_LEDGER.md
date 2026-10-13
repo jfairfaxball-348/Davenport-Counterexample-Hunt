@@ -136,3 +136,6 @@ S039 CLM-0142–0144 directly reconstruct prime D1 and prove D2(Cp^3)<=5p-3 for 
 
 
 S040 (2026-10-13): Phase1 remains IN_PROGRESS, no PASS. CLM-0148 independently reconstructs published all-rank p>=7 eta numerical inequality via projective-line pigeonhole and internally proved rank-two facts, bypassing the original p7 Lem5.2. CLM-0149 rank-three large-k bound pk+p²-3. CLM-0150 shows exact bare-lifting loss 2/1/2/1/2 for five frozen interval cases, conditional on source-stated p3/prime-power inputs. No candidate or equalities for composite n, no source-priority certification. Original30 frontier rows and 28 source records unchanged. Phases2/3 NOT_STARTED, CAM-0001 PROPOSED NOT RUNNING BLOCKED n6=16, hosted CI absent NOT PASS.
+
+
+S041 (2026-10-13): Phase1 IN_PROGRESS PASS withheld. New internal CLM-0151..0157 clarify quotient inverse constraints and common n15/n20/n30 conditional p5 28/29 core but no composite equality/counterexample. Yiu/GHST and full BSP2007 diagram proof remain SOURCE_STATED. Exact bare mod4 shortcut refuted by explicit C4 lower. Original 30 frontier entries and 28 sources unchanged. Phases2/3 NOT_STARTED, CAM-0001 BLOCKED n6=16. Hosted CI ABSENT_NOT_PASS; same executor internal validation only.

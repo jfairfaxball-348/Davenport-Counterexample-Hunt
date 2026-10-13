@@ -1,0 +1,11 @@
+{
+  "session": "S041",
+  "canonical_source": "authoritative/NEXT_SESSION_PROMPT.md@ee62c53447ed8112e9cb24fc46cdc673ceb00e85",
+  "canonical_git_blob_sha": "5de8bca0f4848bfa3a3da370eb761abaacba1a6b",
+  "canonical_archive_verbatim": true,
+  "owner_invocations_file": "sessions/S041/OWNER_INVOCATION.md",
+  "raw_chat_sha256": null,
+  "authenticated_raw_chat_bytes_available": false,
+  "owner_authorized_S041": true,
+  "owner_later_authorized_normal_closeout": true
+}

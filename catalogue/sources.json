@@ -383,5 +383,20 @@
     "primary_original": "SRC-0021 publisher offprint as authenticated in S039",
     "corroborative_original_author_arxiv": "https://arxiv.org/pdf/1702.03403",
     "scope": "all-rank eta proof reconstructed using existing rank-two inputs; original p7 Lem5.2 no longer logically required; no new standalone original-source status promotion"
+  },
+  "s041_audit": {
+    "date": "2026-10-13",
+    "original_source_objects_unchanged": true,
+    "original_access_statuses_unchanged": true,
+    "original_source_count": 28,
+    "independently_inspected_original": "Bhowmik--Schlage-Puchta 2007 Rostock PDF original Proposition8/Lemma2 text + page-image",
+    "source_stated_still": [
+      "BSP2007 complete diagram-based inverse classification",
+      "Yiu2026 computational Dk(C5³)=5k+10",
+      "GHST/BSP eta(C5³)<=33",
+      "C10/C14/C6 classical exact historical statements"
+    ],
+    "no_code_run": true,
+    "no_source_status_promotion": true
   }
 }
