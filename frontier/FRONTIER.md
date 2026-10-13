@@ -244,3 +244,6 @@ The original Markdown n1..30 row table and complete ordered-evidence fields rema
 
 ## S047 frontier audit — 13 October 2026
 CLM-0181..0184 give scoped n15/n20/p5 indexed inverse/hostile results but NO Davenport numerical bound upgrade and NO length3n−2 zero-sumfree G sequence. Preserve EXACT original30 n1..30 row objects/Markdown table and historical statuses; source-stated C10/D11/D12/p5 UPPER unchanged. Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 BLOCKED. Hosted CI ABSENT_NOT_PASS, protection UNKNOWN.
+
+## S048 frontier audit — 13 October 2026
+**ZERO changes to original n=1..30 rows (all 30 preserved).** CLM-0185 proves a scoped n15 six-cap affine C5 inverse exclusion, not D15 exact. CLM-0186/0187 collapse n20 matching 763 labels to 127 even subsets and exhibit an eight-distinct-original-point nondegenerate hostile family passing all 127, not D20 exact. CLM-0188 exhibits ONE changed-total maximal p5 CRT chain with full 63/511 subset constraints met, not a full G lift. Phase1 IN_PROGRESS; no numeric theorem, candidate, campaign, CI PASS or source promotion.

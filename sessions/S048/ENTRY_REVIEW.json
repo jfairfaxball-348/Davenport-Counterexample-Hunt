@@ -1,0 +1,27 @@
+{
+  "session": "S048",
+  "entry_main": "a2ef3fb2d5ba732dfb88a84db9975d1126187393",
+  "entry_tree": "c0ebcde03ba59a6056587ef18270875ebeb6bf89",
+  "previous_session": "S047",
+  "previous_atomic_branch_commit": "430268e12718a2343a854025c85b71cbf3769f79",
+  "previous_branch_sole_parent": "df1e024f52516240bd880e55865da98c8eda2747",
+  "previous_branch_tree": "c0ebcde03ba59a6056587ef18270875ebeb6bf89",
+  "previous_pr": 48,
+  "previous_merge_sha": "a2ef3fb2d5ba732dfb88a84db9975d1126187393",
+  "previous_merge_parents": [
+    "df1e024f52516240bd880e55865da98c8eda2747",
+    "430268e12718a2343a854025c85b71cbf3769f79"
+  ],
+  "open_pr_at_entry": 0,
+  "competing_S048_branches_at_entry": 0,
+  "repository_branches_observed_at_entry": 49,
+  "rulesets": 0,
+  "protection": "UNKNOWN_403",
+  "workflow_files": 0,
+  "workflow_runs": 0,
+  "check_runs": 0,
+  "status_contexts": 0,
+  "hosted_ci": "ABSENT_NOT_PASS",
+  "frontier_rows": 30,
+  "sources": 28
+}
