@@ -24,8 +24,8 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S049",
-  "recommended_next_session": "S050",
+  "last_completed_session": "S050",
+  "recommended_next_session": "S051",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": null,
@@ -573,5 +573,22 @@
     "phase1": "IN_PROGRESS",
     "CI": "ABSENT_NOT_PASS",
     "S050": "FUTURE_UNEXECUTED"
+  },
+  "s050_result": {
+    "session": "S050",
+    "CLM_0192": "ALL arbitrary same-parity eight original C20 points excluded for special U22 f1^9 f2^9 f3^4 via four-pair subset-sum and Fano incidence",
+    "CLM_0193": "all t=1..4 exact four-point affine E for specified C5³ P11 family",
+    "CLM_0194": "third original X index f2-f3 fails CRT already r=1; two choices remain",
+    "n15_D1": "UNRESOLVED",
+    "n20_D1": "UNRESOLVED",
+    "candidate": "NONE",
+    "universal_inverse": "UNRESOLVED",
+    "source28_preserved": true,
+    "frontier30_preserved": true,
+    "review": "INTERNAL_ONLY",
+    "hosted_ci": "ABSENT_NOT_PASS",
+    "protection": "UNKNOWN_403",
+    "phase1": "IN_PROGRESS",
+    "future": "S051 UNEXECUTED"
   }
 }

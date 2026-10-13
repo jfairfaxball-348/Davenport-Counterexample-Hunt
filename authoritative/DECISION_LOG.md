@@ -204,3 +204,6 @@ Proceed with scoped seven-cut C5 affine inverse exclusion CLM-0185, not a univer
 
 ## S049 — 13 October 2026
 Proceed Phase1 only. Promote CLM-0189 as scoped PROGRAMME_PROVED original-index cross-class exclusion of S048 n20 hostile completion, not n20 global exact value; CLM-0190 as exact two-chain/all-prefix p5 hostile, not all indices; CLM-0191 as exact n15 four-point affine example, not universal nearmax inverse. Preserve source status, all30 frontier original objects, all28 source records and CAM-0001 block. Future S050 aggressive general Fano and C5 inverse; execute only by new owner invocation.
+
+## S050 — 2026-10-13
+DECISION: retain Phase1 proof-first symbolic original-index programme. Accept internal programme-proved CLM-0192 (strict universal-eight-point improvement but ONLY special U22), CLM-0193 (four-parameter affine E family, NOT universal) and CLM-0194 (one concrete failed r1 index). Reject any extrapolation to D(C15³)=43, D(C20³)=58, all cores/profiles, certified G witnesses, or global inverse. Preserve original30 frontier row objects and original28 sources. No campaign, source upgrade, CAS/SAT/ILP, search or formalisation. Hand off S051 strictly future.

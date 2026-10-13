@@ -199,3 +199,6 @@ CAM-0001 remains PROPOSED / NOT_RUNNING / BLOCKED (source-stated historical n6=1
 
 ## S049 — 13 October 2026
 No campaign launched, no mathematical numerical/computational search, candidate/orbit generation, CAS/SAT/ILP, historical program, Lean/Palomar, Phase2/3 or publication. CAM-0001 remains PROPOSED / NOT RUNNING / BLOCKED by source-stated n6=16. CLM-0189/0190/0191 are symbolic scoped work only, no certified zero-sumfree sequence. S050 FUTURE ONLY.
+
+## S050 no-campaign attestation — 2026-10-13
+CAM-0001 remains PROPOSED / NOT_RUNNING / BLOCKED by n6=16 historical source-stated value. S050 was Phase1 symbolic proof/provenance ONLY. No candidate generation, numerical search, CAS/SAT/ILP, brute-force pairs, orbit enumeration, historical author code, Lean, Palomar or campaign activation.
