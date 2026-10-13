@@ -1,0 +1,12 @@
+# S043 — Anchored 13-block ternary inverse bypass at n15
+13 October 2026. CLM-0167. An exact, indexed conditional theorem independent of the UNRECONSTRUCTED BSP2007 Proposition8 diagrams.
+
+Premise (SOURCE_STATED original BSP2007 formula): D12(C3^3)=3*12+6=42. The independent prime theorem S039 CLM-0142 gives D(C5^3)=13.
+
+Suppose S is any 43-index zero-sumfree sequence in C15^3. Put z=−sum_G(S) on ONE NEW indexed position, T=S*z. T has44 original-plus-new indices, sum_G T=0, and is MINIMAL zero-sum: S has no nonempty zero sum, while a proper nonempty zero subcollection containing z would have a nonempty complementary zero subset contained entirely in S.
+
+**Anchored lemma.** For EVERY original index y in S, the 42-element indexed sequence S\{y} contains12 mutually index-disjoint nonempty C3³-quotient-zero blocks by the stated D12=42. Let B* be their complement in the 44-position T. Both distinguished indices z and y belong to B*. Since total ternary sum of T=0, B* is also a quotient-zero block. Consequently T admits a partition into THIRTEEN disjoint nonempty ternary zero blocks with z and ANY prescribed original y together in the same (distinguished) block. No 44-term inverse/extremiser diagram, zero-total multiwise theorem, or extra arithmetic assumption is needed.
+
+Apply the CRT map C15³≅C3³⊕C5³ to each block. Their 13 H=C5³ decorations sum to0, and NO proper nonempty subcollection sums to0: otherwise its ORIGINAL indexed union is a proper nonempty zero subset of T, contradicting minimality. Hence the 13 decorations form a MINIMAL zero-sum sequence of maximal length D(H)=13. The other 12 decorations, all represented by Q-zero blocks entirely in S, form a zero-sumfree length12 H sequence, and their subset sums are ALL of H (otherwise append the negative of a missing subset sum and violate D(H)=13). This holds for EVERY prescribed y and every selected 12-block extraction.
+
+**What is NOT proved.** Across different anchors y these full partitions overlap arbitrarily; their 12 H decorations cannot be spliced or cancelled without an index-disjoint cross-partition exchange lemma. The maximal minimal zero-sum classification in C5³ is not independently reconstructed. A 13-block partition by itself does not yield a proper zero-sum subset of T. The theorem bypasses the BSP2007 44-term diagram just for partition existence, NOT for the final CRT inverse. D12=42 remains SOURCE_STATED, not independently authenticated.

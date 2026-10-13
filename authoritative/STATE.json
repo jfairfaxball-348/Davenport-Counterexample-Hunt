@@ -24,16 +24,16 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S042",
-  "recommended_next_session": "S043",
+  "last_completed_session": "S043",
+  "recommended_next_session": "S044",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": null,
   "phase1_target_status": "WITHHELD_NO_REPLACEMENT_CAMPAIGN",
   "open_blockers": [
-    "n15 D(C15³)=43 and n20 D(C20³)=58 unresolved. Need a genuine coupled CRT inverse/exchange theorem; neither local C5 28/29 core nor broad Fano seven-value necessary conditions alone excludes actual hypothetical sequences.",
-    "S042 Fano corrected: C20³→C2³ with kernel C10³ NON-SPLIT. Discarded '0 or all seven nonzero mod2 extension classes' inference is FALSE. Eligible P26 must have E(P) affinely spanning F2³, but may in abstract have four classes; no universal exclusion.",
-    "S042 explicit p5 A4/A4' exhibit admissible 29/28 LOCAL cores, so size/short-zero/core-only contradiction is FALSE. For genuine n15/n20/n30 need preceding-block H decoration exchange; conditional maximal H saturation alone is insufficient.",
+    "S043 surviving n20 P26 parity profiles (0,4),(0,6),(1,7) need exact E(P) inverse and all original lifts.",
+    "S043 n15 for-every-y 13 ternary quotient-block partition requires indexed CRT exchange between overlapping anchor partitions.",
+    "S043 n15/20/30 one-block extension window does not force disjoint cross-block exchange; source-stated p5 upper remains unauthenticated.",
     "Historic GHST η(C5³)<=33 and Yiu D_j(C5³)<=5j+10 UPPER contain separately unverified finite predicates; BSP2007 ternary 44-term inverse requires original diagrams; historical C10/C6 exact classification remains source-stated.",
     "Original n1..30 five interval frontiers unchanged, CAM-0001 PROPOSED NOT RUNNING BLOCKED by source-stated n6=16, Phase1 IN_PROGRESS, hosted CI ABSENT_NOT_PASS."
   ],
@@ -48,7 +48,10 @@
     "S040 eta proof uses global projective line occupancy N>2(pR+1) before plane averaging; original exceptional p7 Lem5.2 is not required for this independent route. This does not prove a new or sharper published eta numerical bound.",
     "S040 exact bare subgroup gaps 2/1/2/1/2 are method-specific and use SOURCE_STATED p3 Dk/prime-power inputs; they do NOT imply the conjecture fails or upgrade original frontier evidence.",
     "S041 CLM-0156 is a mathematically proved conditional implication relying on SOURCE_STATED Yiu Dk(C5³) and η(C5³), not an unconditional independent proof of those source inputs.",
-    "S041 explicit rank-three C4 multiwise lower D_k>=4k+8 independently rules out bare mod4 D13<=58 and DOES NOT constitute C20³ Davenport counterexample."
+    "S041 explicit rank-three C4 multiwise lower D_k>=4k+8 independently rules out bare mod4 D13<=58 and DOES NOT constitute C20³ Davenport counterexample.",
+    "S043 exact four-class K4 local singleton realisation is NOT full P26 or zero-sumfree S58.",
+    "S043 all-y n15 partition bypasses BSP2007 inverse diagrams for PARTITION EXISTENCE only; ternary D12=42 stays SOURCE_STATED.",
+    "S043 detailed written plan Git blob created after preliminary informal mathematical reasoning, before full formal proof writing."
   ],
   "first_interval_requiring_literature_review": 15,
   "owner_action_blockers": [],
@@ -355,5 +358,34 @@
     "hosted_ci": "ABSENT_NOT_PASS",
     "phase1": "IN_PROGRESS",
     "S043": "FUTURE_UNEXECUTED"
+  },
+  "s043_result": {
+    "claims": [
+      "CLM-0164",
+      "CLM-0165",
+      "CLM-0166",
+      "CLM-0167"
+    ],
+    "eligible_P26_profiles": [
+      [
+        0,
+        4
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        1,
+        7
+      ]
+    ],
+    "exact_four_class_K4_singleton_model": true,
+    "anchored_n15_13partitions": true,
+    "CRT_exchange_window": true,
+    "n15_resolved": false,
+    "n20_resolved": false,
+    "phase1": "IN_PROGRESS",
+    "S044_executed": false
   }
 }

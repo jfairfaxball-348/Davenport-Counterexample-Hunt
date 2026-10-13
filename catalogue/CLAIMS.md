@@ -1112,3 +1112,27 @@ Category: REDUCTION. Origin: research/S042_RECTANGULAR_EXTENSION_AND_TERNARY.md.
 Conditional historical C3³ D11/D12, hypothetical n15 quotient has no zero and no two disjoint opposite pairs, support<=14 nonzero ternary values and one multiplicity>=4; BSP2007 inverse diagram remains SOURCE_STATED.
 
 Category: REDUCTION. Origin: research/S042_RECTANGULAR_EXTENSION_AND_TERNARY.md. Original source-stated hypotheses retain their published status. No external/formal independent verification, novelty, exact composite rank-three result or candidate.
+
+## CLM-0164 — PROGRAMME_PROVED (INTERNAL, scoped)
+
+For P a zero-sumfree indexed length26 sequence in C10³, writing z=#mod2-zero positions and r=#nonzero mod2 residue values of odd indexed multiplicity, if E(P) mod2 affinely spans F2³ then (z,r) is one of (0,4),(0,6),(1,7). Thirteen disjoint mod2 zeros contradict internally proved D(C5³)=13. Necessary only for canonical n20 Fano P.
+
+Category: REDUCTION. Origin: research/S043_FANO_PARITY_PROFILE_INVERSE.md. Sources: none needed for purely local proof. Explicitly conditional original-source premises remain SOURCE_STATED; no composite equality, candidate, novelty or external/formal certification.
+
+## CLM-0165 — PROGRAMME_PROVED (INTERNAL, scoped)
+
+Four exact C10-valued Fano star targets and three equal cut targets satisfy all six twisted congruences and Σ4t=Σ3q, realised explicitly by SIX original C20 singleton edge lifts; four mod2 classes span F2³. Does not construct a P26 or S58.
+
+Category: REDUCTION. Origin: research/S043_EXACT_FOUR_CLASS_K4_HOSTILE.md. Sources: none needed for purely local proof. Explicitly conditional original-source premises remain SOURCE_STATED; no composite equality, candidate, novelty or external/formal certification.
+
+## CLM-0166 — PROGRAMME_PROVED (INTERNAL, scoped)
+
+For k-1 disjoint C5-zero quotient blocks B_i and residual L, any quotient-zero indexed replacement W⊂B_i∪L has H decoration in E(V\{v_i}); any two such disjoint replacements are forbidden; pair sums from E(V\{v_i}) lie in −Σ(V\{v_i}). Conditionally on source-stated D2(C5³)=20, |B_i|+|L|≤19. No global CRT exchange.
+
+Category: REDUCTION. Origin: research/S043_COUPLED_CRT_EXCHANGE.md. Sources: SRC-0015. Explicitly conditional original-source premises remain SOURCE_STATED; no composite equality, candidate, novelty or external/formal certification.
+
+## CLM-0167 — PROGRAMME_PROVED (INTERNAL, scoped)
+
+Conditional on source-stated D12(C3³)=42, a hypothetical 43-position zero-sumfree S in C15³ augmented to minimal zero-sum T44 admits for EVERY original y a thirteen-block quotient-zero partition with appended z and y in the same block. Thirteen C5 decorations form minimal zero-sum length13; other twelve maximal zero-sumfree and saturate subset sums. No need for BSP diagrams solely for partition existence.
+
+Category: REDUCTION. Origin: research/S043_TERNARY_ANCHORED_PARTITIONS.md. Sources: SRC-0008. Explicitly conditional original-source premises remain SOURCE_STATED; no composite equality, candidate, novelty or external/formal certification.

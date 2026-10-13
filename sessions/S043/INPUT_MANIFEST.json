@@ -1,0 +1,13 @@
+{
+  "session": "S043",
+  "canonical_source": "authoritative/NEXT_SESSION_PROMPT.md@cafb1a1ef036021947cd2372eb8f3273ecffcc66",
+  "canonical_git_blob_sha": "92c1f8c50db79b008bf205a1d7fe28705e03334a",
+  "canonical_archive_verbatim": true,
+  "owner_invocation_file": "sessions/S043/OWNER_INVOCATION.md",
+  "raw_chat_sha256": null,
+  "raw_chat_bytes_authenticated": false,
+  "owner_authorized_S043": true,
+  "detailed_plan_blob": "0b2440fdba5ce54d34196e128bbc2490f8eeaed9",
+  "plan_before_formal_dossier": true,
+  "plan_before_all_informal_mathematical_reasoning": false
+}

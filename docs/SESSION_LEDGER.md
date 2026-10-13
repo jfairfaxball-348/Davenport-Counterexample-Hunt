@@ -161,3 +161,7 @@ S012 closeout: [complete record and FUTURE UNEXECUTED S013 handoff](../sessions/
 | S042 | 2026-10-13 | Sustained triple-front original-source-aware symbolic n20 twisted Fano, n15 ternary and shared p5 CRT core, full hostile correction | CLM-0158..0163; non-split K4 labelled congruences, affine span of eligible E(P), exact p5 Dk lower and real 28/29 local cores, conditional maximal decorated quotient zero block saturation, 17-plane character, n15 support<=14; n15/n20 unresolved; Phase1 IN_PROGRESS; S043 future only | session/S042-fano-parity-p5-core |
 
 [S042 full provenance, mathematical proofs, rejected claims, validation, review, precommit closeout and S043 future handoff](../sessions/S042/CLOSEOUT.md).
+
+| S043 | 2026-10-13 | Sustained symbolic A+B+C n20 parity inverse, exact twisted K4 hostile model, indexed p5 CRT replacement, and n15 every-y anchored 13-block ternary partition | CLM-0164..0167; only three surviving n20 P26 mod2 profiles; four-class local K4 realisable; local replacement gate and anchored ternary partitions, not composite D or candidate; Phase1 IN_PROGRESS; S044 FUTURE | session/S043-parity-profile-and-crt-exchange |
+
+[S043 full proofs, hostile review, validation, precommit closeout](../sessions/S043/CLOSEOUT.md).

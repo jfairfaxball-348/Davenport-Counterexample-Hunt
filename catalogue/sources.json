@@ -414,5 +414,17 @@
       "classical exact D(C10³)=28,D(C6³)=16"
     ],
     "author_code_executed": false
+  },
+  "s043_audit": {
+    "session": "S043",
+    "date": "2026-10-13",
+    "original_28_sources_and_access_unchanged": true,
+    "authentications": 0,
+    "ternary_D12_42": "SOURCE_STATED BSP2007 SRC-0008",
+    "p5_D1_13": "PROGRAMME_PROVED S039",
+    "p5_D2_20": "SOURCE_STATED Yiu upper predicate unauthenticated",
+    "BSP2007_diagrams": "UNRECONSTRUCTED; not needed only for all-y partition existence",
+    "historical_C10": "SOURCE_STATED",
+    "no_author_code": true
   }
 }

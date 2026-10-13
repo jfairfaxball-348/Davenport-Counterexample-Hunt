@@ -1,0 +1,10 @@
+{
+  "session_closed": "S043",
+  "future_session": "S044",
+  "future_prompt": "authoritative/NEXT_SESSION_PROMPT.md",
+  "execution": "STRICTLY_FUTURE_UNEXECUTED",
+  "requires_new_owner_invocation": true,
+  "owner_blocker": false,
+  "entry_main_of_S043": "cafb1a1ef036021947cd2372eb8f3273ecffcc66",
+  "outgoing_sha": "UNKNOWN_UNTIL_ACTUAL_GIT_MERGE"
+}
