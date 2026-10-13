@@ -1,0 +1,11 @@
+{
+  "session": "S046",
+  "status": "LOCAL_DOCUMENT_CONSISTENCY_ONLY",
+  "not_hosted_ci": true,
+  "original_frontier_rows": 30,
+  "original_sources": 28,
+  "new_claim_count": 5,
+  "total_claims": 180,
+  "phase1": "IN_PROGRESS",
+  "S047": "FUTURE_ONLY"
+}

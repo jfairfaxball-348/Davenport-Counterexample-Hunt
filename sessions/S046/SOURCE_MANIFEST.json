@@ -1,0 +1,25 @@
+{
+  "session": "S046",
+  "sources": [
+    "SRC-0008",
+    "SRC-0023"
+  ],
+  "source_objects": 28,
+  "source_objects_unchanged": true,
+  "access_levels_unchanged": true,
+  "internal_dependencies": [
+    "CLM-0142",
+    "CLM-0160",
+    "CLM-0172",
+    "CLM-0173",
+    "CLM-0174",
+    "CLM-0175"
+  ],
+  "source_stated_dependencies": [
+    "D(C10^3)=28",
+    "D11/D12(C3^3)",
+    "p5 historical multiwise upper"
+  ],
+  "new_sources": 0,
+  "source_promotions": 0
+}

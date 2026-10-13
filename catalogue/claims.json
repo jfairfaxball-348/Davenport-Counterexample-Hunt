@@ -1887,6 +1887,55 @@
       "origin": "research/S045_P5_ALL_WINDOW_PACKING.md",
       "source_ids": [],
       "notes": "S045 original indexed symbolic mathematics, internally hostile reviewed only. Genuine composite equality, source authentication, candidate and novelty NOT claimed."
+    },
+    {
+      "id": "CLM-0176",
+      "statement": "There exist six distinct nonzero pairwise non-antipodal affine-cap points A,B,C,D,E,U in C3^3 satisfying U=A+B+C+D+E. The 11 indexed residual R=A²B²C²D²E²U has no quotient zero of size<=3 and has THREE explicit different minimal 4+7 circuit decompositions. A six-cap quotient boundary is therefore not geometrically impossible; no full 44-term G lift is certified.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S046_N15_DECORATED_SIX_CAP.md",
+      "source_ids": [],
+      "notes": "S046 exact symbolic/internal same-executor hostile review only. Conditional application / local hostile model scoped in proof. No certified composite equality, candidate, novelty or hosted CI PASS."
+    },
+    {
+      "id": "CLM-0177",
+      "statement": "For an n15 hypothetical 13-block canonical H=C5³ completion with eleven original monochromatic triples P11 and two residual circuits summing to c=-sum P, the full H sequence is minimal-zero iff the first residual H sum belongs to E(P). The S046 paraboloid model admits an explicit P=f1^4f2^4f3^3 and individual residual H decorations satisfying this condition for three different cuts; this is a partial H model, not a G zero-sumfree sequence.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S046_N15_DECORATED_SIX_CAP.md",
+      "source_ids": [],
+      "notes": "S046 exact symbolic/internal same-executor hostile review only. Conditional application / local hostile model scoped in proof. No certified composite equality, candidate, novelty or hosted CI PASS."
+    },
+    {
+      "id": "CLM-0178",
+      "statement": "For any indexed H-zero-sumfree P and three decorations x,y,z with x+y+z=-sum P, their completion is H-minimal-zero iff x,y,z are each in E(P). Consequently all SIX n20 indexed C20 Fano hub permutations for fixed 25 pair decorations are simultaneously critical iff all NINE grid entries across three hub positions and three lines lie in E(P25). No independent pairwise joint critical-extension constraint remains under fixed sum.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S046_N20_HUB_GRID_AND_PAIR_SWITCH.md",
+      "source_ids": [
+        "SRC-0023"
+      ],
+      "notes": "S046 exact symbolic/internal same-executor hostile review only. Conditional application / local hostile model scoped in proof. No certified composite equality, candidate, novelty or hosted CI PASS."
+    },
+    {
+      "id": "CLM-0179",
+      "statement": "For an actual hypothetical C20³ zero-sumfree original S58, every original-index same-parity matching of the non-singleton terms yields H=C10³ zero-sumfree 26 pair decorations. Exchanging partners of two same-class original G pairs changes H decorations (a,b) to (a+delta,b-delta) with conserved total; the new 26-term sequence is zero-sumfree iff both changed decorations belong to E(U24). At least one original parity class has four pairs; deltas may all be zero. Necessary conditional inverse only.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S046_N20_HUB_GRID_AND_PAIR_SWITCH.md",
+      "source_ids": [
+        "SRC-0023"
+      ],
+      "notes": "S046 exact symbolic/internal same-executor hostile review only. Conditional application / local hostile model scoped in proof. No certified composite equality, candidate, novelty or hosted CI PASS."
+    },
+    {
+      "id": "CLM-0180",
+      "statement": "For p5 sharp original-index A_k B7+L12+t pure windows there are 15 labelled single-B quotient-zero exchanges and 60t disjoint TWO-block changing-total B/P exchanges; target-length A_k'=A_k minus one original L e1 has 6 and 30t respectively. For every actual G-zero-sumfree decoration, each changing-total exchange of two blocks with H decorations b',p' must satisfy b',p',b'+p' in E(U) for the unchanged other block decorations U, an exact iff criterion for zero avoidance using unions of those intact new blocks. No full composite lift or contradiction.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S046_P5_DECORATED_TWO_BLOCK_EXCHANGE.md",
+      "source_ids": [],
+      "notes": "S046 exact symbolic/internal same-executor hostile review only. Conditional application / local hostile model scoped in proof. No certified composite equality, candidate, novelty or hosted CI PASS."
     }
   ]
 }
