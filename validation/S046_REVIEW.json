@@ -1,0 +1,14 @@
+{
+  "session": "S046",
+  "review": "INTERNAL_SAME_EXECUTOR",
+  "claims": [
+    "CLM-0176",
+    "CLM-0177",
+    "CLM-0178",
+    "CLM-0179",
+    "CLM-0180"
+  ],
+  "external_or_formal_review": false,
+  "composite_D_equals_Dstar_proved": false,
+  "counterexample_certified": false
+}

@@ -1184,3 +1184,17 @@ Category: REDUCTION. Origin: research/S045_N15_SIX_CLASS_RESIDUE_CORE.md. Source
 For S042 A_k in C5³ (k>=2), letting W_t be S044 B7+L12 together with any t of k-2 indexed pure five-zero blocks, the exact maximum number of mutually disjoint nonempty C5³ zero blocks in W_t (length19+5t) is t+1 for all 0<=t<=k-2. Thus all one-, two-, three- and higher-block local quotient-only packing barriers are simultaneously sharp; not a full composite candidate or an upper bound.
 
 Category: REDUCTION. Origin: research/S045_P5_ALL_WINDOW_PACKING.md. Sources: no source-stated multiwise premise for the local theorem. Same-executor hostile review only; no full candidate, rank3 composite endpoint, external/formal certificate or novelty assertion.
+
+## S046 — CLM-0176 through CLM-0180 (PROGRAMME_PROVED, INTERNAL/SCOPED)
+
+**CLM-0176.** There exists a nonzero antipodal-free six-cap over F3^3 with U=sum(A..E). Anisotropic paraboloid proof, R11=A²B²C²D²E²U and THREE explicit minimal (4,7) cuts. Origin: [research/S046_N15_DECORATED_SIX_CAP.md](../research/S046_N15_DECORATED_SIX_CAP.md). Does NOT supply a G zero-sumfree candidate.
+
+**CLM-0177.** Conserved-total two-circuit H=C5^3 completion is minimal-zero iff h(W) lies in E(P11), and all three CLM-0176 cuts admit a single exact local H decoration with P=f1^4f2^4f3^3. Origin: same S046 n15 proof. Not a global G lift or composite theorem.
+
+**CLM-0178.** For fixed total -sum P, an H minimal-zero triple completion is E(P) membership for EACH of its three entries, and n20 ALL SIX hub permutations are E(P25) membership for NINE exact indexed non-split grid cells. Source: SRC-0023 SOURCE_STATED dependency of composite setup only. Origin: [research/S046_N20_HUB_GRID_AND_PAIR_SWITCH.md](../research/S046_N20_HUB_GRID_AND_PAIR_SWITCH.md).
+
+**CLM-0179.** ALL same-original-parity C20 matchings are necessary; changing partners of two original pairs changes their H sums by opposite delta and yields a zero-sumfree H pair sequence exactly when both new entries belong to E(U24). Source: SRC-0023 SOURCE_STATED conditional n20 setup, no profile ruled out. Origin: S046 n20 proof.
+
+**CLM-0180.** For every labelled p5 hostile A_k window, 15 B-only and 60t genuine changing-total two-block tests (target-size A_k': 6 and 30t) are exact indexed Qzero replacements. Their decorated H-union zero-freeness is equivalent to b',p',b'+p' in E(U). Origin: [research/S046_P5_DECORATED_TWO_BLOCK_EXCHANGE.md](../research/S046_P5_DECORATED_TWO_BLOCK_EXCHANGE.md). Conditional local inverse, not a composite result.
+
+All five claims: status PROGRAMME_PROVED means mathematical proofs recorded and SAME EXECUTOR internally reviewed, **not** external proof authentication, Lean, Palomar, certified full candidate, current-priority assertion or hosted CI PASS. No existing CLM or SRC statuses upgraded.

@@ -237,3 +237,7 @@ CLM-0168–0171 establish only conditional quotient-circuit/anchored-pair reduct
 ## S045 Phase1 audit — 2026-10-13
 
 Original ordered n=1..30 frontier Markdown table rows and original JSON row objects/status/evidence stay UNCHANGED. CLM-0172..0175 establish additional necessary n20 Fano pencil and n15 six-class CRT inverse constraints and exact local p5 saturation, but no new D(C15³) or D(C20³) numerical bound, equality or candidate, no literature source promotion. Phase1 IN_PROGRESS; CAM-0001 BLOCKED n6=16; absent hosted CI is NOT PASS; S046 FUTURE.
+
+## S046 Phase1 audit — ORIGINAL ordered 30-row frontier table untouched
+
+The original Markdown n1..30 row table and complete ordered-evidence fields remain byte-for-byte unchanged, and all 30 JSON row objects in frontier/frontier.json remain unchanged. New CLM-0176..0180 are mathematical inverse/hostile-scoped findings, NOT new D1 exact values, certified candidate or current literature-open priority evidence. Original n15 43..45, n20 58..59 and other five original conditional intervals retain their old statuses. Original28 source records unchanged. Phase1 IN_PROGRESS; CAM-0001 BLOCKED n6=16; zero hosted checks NOT CI PASS. S047 FUTURE.

@@ -24,18 +24,18 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S045",
-  "recommended_next_session": "S046",
+  "last_completed_session": "S046",
+  "recommended_next_session": "S047",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": null,
   "phase1_target_status": "WITHHELD_NO_REPLACEMENT_CAMPAIGN",
   "open_blockers": [
-    "S045 n20: all 26 original parity-pair hub choices each impose six labelled non-split C20 pencil critical-triple constraints on P25; seven line/cap partitions and P26 profiles (0,4),(0,6),(1,7) all survive. SOURCE_STATED C10 endpoint retained.",
-    "S045 n15: independent D(C3³)=7/D(C5³)=13 strips T44 quotient support to >=6; at exactly six, 11-term (2,2,2,2,2,1) cap residue is zero-pair/triple free and splits as 4+7 or5+6. Missing decorated H exchange.",
-    "S045 C5³ A_k windows B7+L12+t pure five-blocks have EXACT packing number t+1, so quotient-only 2-/3-block remedies cannot resolve the composite CRT lift.",
-    "Original C10, ternary D11/D12 and p5 historical UPPER input continue SOURCE_STATED; Phase1 IN_PROGRESS; original30 frontier rows and 28 sources unchanged; hosted CI ABSENT_NOT_PASS; protection UNKNOWN.",
-    "CAM-0001 proposed/not running/block n6=16; no Phase2/3, campaign or candidate."
+    "S046 n15: six-cap S045 residual geometric obstruction genuinely survives; S046 provides paraboloid R11 with 3 cuts and local H maximal-minimal decorations simultaneously, but no global original-index 44-term minimal G lift. Need cross-stripping inverse or 14 disjoint Qzero blocks.",
+    "S046 n20: six Fano permutations reduce EXACTLY to nine E(P25) grid cells; all original same-parity pair matchings induce 24-core conserved-sum E transfer tests. Three P26 profiles (0,4),(0,6),(1,7) survive; SOURCE_STATED C10 D28.",
+    "S046 p5: A_k quotient windows still exactly sharp; indexed two-block changes yield 15+60t full /6+30t target-deletion decoration tests with b',p',b'+p' in E(U). Need rule out all genuine maximal H-decorations, not count Q blocks.",
+    "Original C10, ternary D11/D12, p5 historical UPPER remain SOURCE_STATED; 30 frontier rows/28 sources unchanged; Phase1 IN_PROGRESS, CI ABSENT_NOT_PASS, protection UNKNOWN.",
+    "CAM-0001 PROPOSED NOT_RUNNING BLOCKED by source-stated n6=16; no Phase2/3, campaign or candidate."
   ],
   "gate_ledger": "docs/PHASE_GATE_LEDGER.md",
   "source_snapshot": "2026-10-12",
@@ -301,7 +301,7 @@
     "owner_blocker": false,
     "historical_dependency_reconciled": "S004 CLM-0068 / S005 sufficient conditional base5p-2 bypass restored and strengthened one position"
   },
-  "current_research_priority": "S046: attack decorated six-class ternary 11-core 4+7/5+6 exchange AND 26×6 indexed Fano pencil joint critical extensions; do not retry universally false quotient-only multi-block packing saving.",
+  "current_research_priority": "S047: coupled original-index changing-total CRT E(U) inverse, global six-cap 44-index re-stripping versus n20 all matching grids. Do not retry geometric six-cap nonexistence or independent joint Fano two-extensions.",
   "s040_result": {
     "claims": [
       "CLM-0148",
@@ -474,5 +474,45 @@
     "CI": "ABSENT_NOT_PASS",
     "phase1": "IN_PROGRESS",
     "S046": "FUTURE_UNEXECUTED"
+  },
+  "s046_result": {
+    "claim_ids": [
+      "CLM-0176",
+      "CLM-0177",
+      "CLM-0178",
+      "CLM-0179",
+      "CLM-0180"
+    ],
+    "n15_six_cap_explicit": true,
+    "n15_three_4_7_decompositions": true,
+    "n15_local_H_hostile_three_cuts": true,
+    "n20_grid_memberships": 9,
+    "n20_original_matching_pair_switch": true,
+    "n20_remaining_profiles": [
+      [
+        0,
+        4
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        1,
+        7
+      ]
+    ],
+    "p5_full_Ak_single_B_tests": 15,
+    "p5_full_Ak_two_block_per_pure": 60,
+    "p5_target_Ak_prime_single_B_tests": 6,
+    "p5_target_Ak_prime_two_block_per_pure": 30,
+    "composite_n15_proved": false,
+    "composite_n20_proved": false,
+    "counterexample": false,
+    "frontier_row_objects_unchanged": true,
+    "source_records_unchanged": true,
+    "phase1": "IN_PROGRESS",
+    "CI": "ABSENT_NOT_PASS",
+    "S047": "FUTURE_UNEXECUTED"
   }
 }

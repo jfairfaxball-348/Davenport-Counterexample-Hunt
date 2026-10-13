@@ -231,3 +231,14 @@ The complete claim catalogue must be searched for ALTERNATIVE sufficient routes 
 ## S045 — 13 October 2026
 
 One explicitly owner-invoked symbolic Phase1 session against live merge-main 96f731120ac1a61892104604c1280cb99fdd3c0c. CLM-0172 all 26 indexed parity-pair hubs × six non-split pencil assignments (plus complement-symmetry hostile correction); CLM-0173 n15 quotient support>=6 and six-class residual short-free cap (no historical D11/D12 required); CLM-0174 canonical 11 mono-triples plus two 4+7/5+6 mixed quotient circuits (H minimal but not cancelled); CLM-0175 A_k exact all t local packing saturation. No D(C15³) or D(C20³) equality, candidate, source promotion, hosted CI PASS, novelty or Phase1 PASS. Original 30 frontier row objects/table and 28 source objects unchanged. CAM-0001 PROPOSED/NOT_RUNNING/BLOCKED n6=16. Same-executor mathematical review INTERNAL. S046 strictly FUTURE, UNEXECUTED.
+
+## S046 — 13 October 2026
+
+| Session | Tempting inference tested | Corrected verdict | Required replacement |
+|---|---|---|---|
+| S046 | No nonzero antipodal-free ternary six-cap with U=sum five can exist | **FALSE**: CLM-0176 explicit anisotropic F3 paraboloid six points and three short-zero-free 4+7 cuts | Global T44 original-index repartition or actual C5-decorated cancellation, not geometric elimination |
+| S046 | Three different residual 4+7 decompositions automatically contradict C5 maximal minimality | **FALSE** locally: CLM-0177 gives one explicit H decoration compatible with all three E(P11) tests | Force a G-zero from cross-mono-triple index transfers or prove a global no-14 packing inverse |
+| S046 | n20 hub 'joint two extension' conditions beyond all singles are independently stronger when total is fixed | **FALSE**: CLM-0178 shows triple minimal completion iff each decoration in E(P25); six permutations iff nine cells in E | Test genuinely coupled ALL original matchings and singleton choices (CLM-0179) |
+| S046 | n20 switching two pair decorations imposes an extra combined-sum inverse without checking whether sum changes | **FALSE** under same-parity original re-matching: total a+b is conserved | New individual E(U24) transfer tests, delta may vanish |
+| S046 | A_k length5k+9 is itself the length5k+8 original G target skeleton | **FALSE**: must delete one indexed L-X to get A_k' target length | CLM-0180 tracks A_k AND A_k' separately; no full G lift asserted |
+| S046 | p5 joint two-block replacement always reduces to separate singles | **FALSE** when total changes: must test b',p',b'+p' in E(U) | Genuine changing-total original-index cross-window decorated inverse |

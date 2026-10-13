@@ -1,0 +1,10 @@
+# S046 — cross-front synthesis: conserved-sum inverse versus changing-sum inverse
+
+The A/B/C symbolic attacks separate two different types of exchange that earlier quotient obstructions had conflated.
+
+* CONSERVED TOTAL: If a fixed zero-sumfree H sequence P has c=-sum P, then a two-block completion (x,c-x) is minimal zero-sum exactly when x in E(P); a three-block completion (x,y,z) with x+y+z=c is minimal zero-sum exactly when x,y,z each lie in E(P). This is why n15's residual two-cut and n20's six-permutation critical triples reduce to ONE-POINT membership tests and cannot yield additional 'joint' contradictions by counting proper subcollections. CLM-0177/0178.
+* CHANGING TOTAL: In zero-sumfree H sequence U, replacing TWO disjoint quotient-zero blocks by new H decorations x,y is allowable at the level of unions of those blocks exactly when x,y,x+y all lie in E(U). The third membership is genuinely new unless x+y is a conserved old pair sum; the p5 B/P two-block swap changes the pair total by h_y+h_q-h_d and consequently requires a fresh test. CLM-0180. Conversely an n20 re-matching is a conserved-sum pair switch, so its test reduces to the first two memberships, CLM-0179.
+
+The hostile n15 six-cap exists by a fully symbolic anisotropic quadratic surface, including three alternative 4+7 circuits. A local H maximal-minimal decoration satisfies all three cuts, proving that just these partitions do NOT force cancellation. The n20 inverse remains conditional on SOURCE_STATED D(C10^3)=28 and no P26 profile is excluded. The p5 windows retain their sharp quotient packing but now impose labelled changing-total H constraints conditional on a real lift. Together they identify the missing new mathematics: a **coupled extension-set inverse using original-index compatibility across changing-total CRT replacements**. This is not a new theorem about D(C15^3), D(C20^3), or a global inverse classification.
+
+Scientific status: Phase1 IN_PROGRESS, no counterexample, no source-access promotion, no novel-priority verification, no math numeric/computational search or formal certificate. INTERNAL same-executor review only.
