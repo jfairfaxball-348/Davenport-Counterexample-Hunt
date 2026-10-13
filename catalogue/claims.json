@@ -1809,6 +1809,46 @@
         "SRC-0008"
       ],
       "notes": "Scoped same-executor internal symbolic proof. Conditional historical inputs remain SOURCE_STATED. No composite endpoint, candidate, priority claim or formal/external certification."
+    },
+    {
+      "id": "CLM-0168",
+      "statement": "Conditional on source-stated D(C10^3)=28 and the S041 six-odd parity reduction, every partition of the augmented minimal-zero n20 T59 into 28 C2^3-zero blocks is either 26 equal-class pairs plus a Fano line/complement, or 25 pairs plus a pencil of three Fano triples sharing one hub class. All blocks are C2^3-minimal; each original index admits an anchored quotient partition with z in the same 2-,3-,or4-block.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S044_N20_FANO_CIRCUIT_PENCIL.md",
+      "source_ids": [
+        "SRC-0023"
+      ],
+      "notes": "One S044 internal same-executor symbolic argument; explicitly conditional where source-stated. Necessary/local only, no composite equality, no candidate, no novelty or hosted certification."
+    },
+    {
+      "id": "CLM-0169",
+      "statement": "Conditional on source-stated D11(C3^3)=39 and internally proved D(C5^3)=13, the augmented hypothetical n15 T44 has NO two disjoint C3^3-zero pairs even when one uses the appended z. Every 13-block ternary-zero partition consists of minimal zero-sum blocks of lengths2..7, has at most one pair, and has at least six triples (at least eight if pair-free).",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S044_N15_ANCHORED_PAIR_EXCLUSION.md",
+      "source_ids": [
+        "SRC-0008"
+      ],
+      "notes": "One S044 internal same-executor symbolic argument; explicitly conditional where source-stated. Necessary/local only, no composite equality, no candidate, no novelty or hosted certification."
+    },
+    {
+      "id": "CLM-0170",
+      "statement": "For every k>=2 the S042 A_k C5^3 critical lower-bound family has a concrete partition into k-2 pure e1^5 zeros plus a seven-term zero B=e1^2(e1+e2)^3e2^2, leaving L=e1^2e2^2e3^4(e1+e3)^2(e2+e3)^2 of length12 and no nonempty zero sum. B union L has length19 and no two disjoint C5^3 zeros: one-block 19 window is sharp at quotient level, not a composite lift.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S044_P5_EXACT_CRITICAL_WINDOW.md",
+      "source_ids": [],
+      "notes": "One S044 internal same-executor symbolic argument; explicitly conditional where source-stated. Necessary/local only, no composite equality, no candidate, no novelty or hosted certification."
+    },
+    {
+      "id": "CLM-0171",
+      "statement": "For a zero-sumfree indexed P26 in C10^3 with parity (z,r)=(0,4), if the four odd-multiplicity nonzero quotient residual classes consist of one Fano zero triple plus an isolated fourth class d, then E(P) contains no extension in parity class d or0. The independent four-class cap configuration excludes parity0 but does not yield the isolated-class exclusion. No full n20 profile is ruled out.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S044_N20_FANO_CIRCUIT_PENCIL.md",
+      "source_ids": [],
+      "notes": "One S044 internal same-executor symbolic argument; explicitly conditional where source-stated. Necessary/local only, no composite equality, no candidate, no novelty or hosted certification."
     }
   ]
 }

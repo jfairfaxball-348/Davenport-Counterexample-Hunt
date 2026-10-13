@@ -149,3 +149,8 @@ S042 CLM-0158–0163 internal symbolic proofs: corrected NON-SPLIT n20 twisted F
 S043 CLM-0164–0167 internally narrow eligible n20 Fano P26 quotient mod2 profiles to (z,r)=(0,4),(0,6),(1,7); exactly realise four-class twisted K4 with six original C20 singleton edges but no P26; establish conditional local indexed p5 CRT replacement restriction |B_i|+|L|≤19; obtain n15 every-y anchored 13-block ternary partition of augmented minimal zero T44 using SOURCE_STATED D12(C3³)=42, without BSP2007 diagrams just for existence. No exact D(C15³) or D(C20³), candidate, new numeric frontier or source promotion. Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED; CAM-0001 BLOCKED by source-stated n6=16, hosted checks ABSENT_NOT_PASS. S044 future.
 
 Phase1 PASS WITHHELD. Same-executor INTERNAL hostile review only. No independent finite p5 upper or ternary D12 authentication, no CI PASS, no Phase2/3 promotion, no numerical search/campaign.
+
+
+## S044 — 2026-10-13
+
+Internal CLM-0168..0171: all augmented n20 28-block quotient partitions have one of two Fano circuit shapes (conditional historic D(C10³)=28); n15 T44 no two disjoint ternary pairs anywhere and >=6 ternary triple quotient blocks (conditional original D11/D12); sharp p5 B7+L12=19 quotient countermodel rules out universal <=18 improvement. All three S043 n20 P26 parity profiles survive. NO n15/n20 Davenport equality, length3n-2 candidate, new source authentication, Phase1 PASS or numerical search. Original 30 frontier rows/table and original28 sources intact. Phase1 IN_PROGRESS; Phases2/3 NOT_STARTED; CAM-0001 BLOCKED n6=16. Hosted CI ABSENT_NOT_PASS, protection UNKNOWN; reviews INTERNAL. S045 future only.

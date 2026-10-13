@@ -1,0 +1,18 @@
+{
+  "session": "S044",
+  "original_source_objects": 28,
+  "objects_and_access_unchanged": true,
+  "new_primary_sources": 0,
+  "new_original_proof_authentications": 0,
+  "source_reliance": {
+    "D_C10_28": "SOURCE_STATED original 1969 SRC-0023",
+    "D11_C3_39": "SOURCE_STATED BSP2007 SRC-0008",
+    "D12_C3_42": "SOURCE_STATED BSP2007 SRC-0008",
+    "D1_C5_13": "PROGRAMME_PROVED S039 CLM-0142",
+    "D2_C5_20_upper": "SOURCE_STATED Yiu SRC-0015",
+    "A_k_lower": "PROGRAMME_PROVED S042 CLM-0160"
+  },
+  "primary_source_provenance": "S004/005 and SRC-0008 original proof limitations retained; no new direct proof authentication",
+  "historical_author_code_executed": false,
+  "outside_contact": false
+}

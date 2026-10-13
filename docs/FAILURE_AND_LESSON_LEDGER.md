@@ -222,3 +222,8 @@ The complete claim catalogue must be searched for ALTERNATIVE sufficient routes 
 | S043 | Full BSP2007 44-term diagram inverse required to show 13 zero quotient blocks in augmented T44 | **FALSE necessity**: CLM-0167 with only SOURCE_STATED ternary D12=42 gives an anchored 13-partition for EVERY original y. | Diagram classification might still be required for CROSS-anchor CRT cancellation; bypass is scoped to existence. |
 | S043 | Maximal H decoration subset-sum saturation automatically absorbs leftover/overlapping Q positions | **INVALID** unless a new indexed Q-zero replacement is shown. | CLM-0166 E(V_i) condition and conditional |B_i|+|L|≤19; no forced exchange. |
 | S043 | Claim of fully preregistered written plan before every thought | Inaccurate: informal Fano residue exploration began before Git plan blob; formal dossier prepared afterwards. | Explicit caveat in PLAN, INPUT_MANIFEST, validation, closeout. |
+
+
+| S044 | Exclude n20 by assuming every maximal C2³ partition is canonical 26 pairs+Fano triple/quad | FALSE: the equally valid 25 pairs+3 Fano triples pencil arises from odd parity incidence, and quotient multiplicities admit it. | CLM-0168 exactly enumerates both, no full H inverse. |
+| S044 | Count <=2 disjoint ternary zero pairs in augmented T44 and stop at >=4 triples | TOO WEAK: zero-total complement of TWO pairs has40 indices, reserve1 and apply D11=39 to obtain14 quotient blocks, impossible. | CLM-0169 strengthens to at most ONE and >=6 minimal triples (conditional D11). |
+| S044 | Strengthen all p5 local |B|+|L|<=19 to <=18 to force CRT cancellation | FALSE: CLM-0170 exact A_k B7+L12 length19 has no two disjoint Qzeros. | Require cross-block H-decoration or other indexed inverse. |

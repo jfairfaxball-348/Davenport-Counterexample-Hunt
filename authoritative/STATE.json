@@ -24,18 +24,18 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S043",
-  "recommended_next_session": "S044",
+  "last_completed_session": "S044",
+  "recommended_next_session": "S045",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": null,
   "phase1_target_status": "WITHHELD_NO_REPLACEMENT_CAMPAIGN",
   "open_blockers": [
-    "S043 surviving n20 P26 parity profiles (0,4),(0,6),(1,7) need exact E(P) inverse and all original lifts.",
-    "S043 n15 for-every-y 13 ternary quotient-block partition requires indexed CRT exchange between overlapping anchor partitions.",
-    "S043 n15/20/30 one-block extension window does not force disjoint cross-block exchange; source-stated p5 upper remains unauthenticated.",
-    "Historic GHST η(C5³)<=33 and Yiu D_j(C5³)<=5j+10 UPPER contain separately unverified finite predicates; BSP2007 ternary 44-term inverse requires original diagrams; historical C10/C6 exact classification remains source-stated.",
-    "Original n1..30 five interval frontiers unchanged, CAM-0001 PROPOSED NOT RUNNING BLOCKED by source-stated n6=16, Phase1 IN_PROGRESS, hosted CI ABSENT_NOT_PASS."
+    "S044 n20 T59 minimal quotient partitions have precisely Fano line+cap or three-triple Fano pencil shapes; all 3 S043 P26 parity profiles (0,4),(0,6),(1,7) survive without full H inverse.",
+    "S044 n15 T44 no two disjoint ternary opposite pairs anywhere (including appended z) and >=6 minimal zero triples per 13-partition, but no index-disjoint H(C5³) cross-anchor exchange.",
+    "S044 A_k explicit 7+12=19 one-block critical window is sharp at p5 quotient level, refuting universal bound18; actual cross-block decorations still missing.",
+    "Historic original-source D(C10³)=28, D11/D12(C3³), Yiu p5 upper/eta finite and BSP2007 inverse diagrams remain SOURCE_STATED not independently authenticated.",
+    "Original30 frontier rows intact; CAM-0001 remains PROPOSED NOT_RUNNING BLOCKED n6=16; Phase1 IN_PROGRESS, CI ABSENT_NOT_PASS."
   ],
   "gate_ledger": "docs/PHASE_GATE_LEDGER.md",
   "source_snapshot": "2026-10-12",
@@ -51,7 +51,9 @@
     "S041 explicit rank-three C4 multiwise lower D_k>=4k+8 independently rules out bare mod4 D13<=58 and DOES NOT constitute C20³ Davenport counterexample.",
     "S043 exact four-class K4 local singleton realisation is NOT full P26 or zero-sumfree S58.",
     "S043 all-y n15 partition bypasses BSP2007 inverse diagrams for PARTITION EXISTENCE only; ternary D12=42 stays SOURCE_STATED.",
-    "S043 detailed written plan Git blob created after preliminary informal mathematical reasoning, before full formal proof writing."
+    "S043 detailed written plan Git blob created after preliminary informal mathematical reasoning, before full formal proof writing.",
+    "S044 n15 at-most-one disjoint ternary pair applies to FULL augmented T44, but is conditional on SOURCE_STATED D11(C3³)=39; >=6 partition triples alone does not force zero H decoration.",
+    "S044 A_k 19-window is sharp at quotient-only level for ALL k>=2; it is not a full composite-group zero-sumfree sequence."
   ],
   "first_interval_requiring_literature_review": 15,
   "owner_action_blockers": [],
@@ -296,7 +298,7 @@
     "owner_blocker": false,
     "historical_dependency_reconciled": "S004 CLM-0068 / S005 sufficient conditional base5p-2 bypass restored and strengthened one position"
   },
-  "current_research_priority": "S042 valid achievements: NON-SPLIT twisted Fano seven-value edge compatibility and full affine-span necessary for eligible n20 E(P), plus C5³ sharp independent Dk LOWER and real 28/29 local core countermodels; next S043 must defeat actual labelled twisted Fano values for eligible P or supply a decorated overlapping-block CRT exchange theorem. n15 14-value ternary support bound available. No composite equality/counterexample.",
+  "current_research_priority": "S045: genuine indexed n20 Fano pencil C10 H inverse or n15 anchored triple/pair CRT exchange, not quotient-only counting or 19->18 local bound",
   "s040_result": {
     "claims": [
       "CLM-0148",
@@ -387,5 +389,40 @@
     "n20_resolved": false,
     "phase1": "IN_PROGRESS",
     "S044_executed": false
+  },
+  "s044_result": {
+    "claims": [
+      "CLM-0168",
+      "CLM-0169",
+      "CLM-0170",
+      "CLM-0171"
+    ],
+    "n20_partition_shapes": [
+      "26pairs+Fano3+Fano4",
+      "25pairs+three-Fano3-pencil"
+    ],
+    "n20_surviving_P26_profiles": [
+      [
+        0,
+        4
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        1,
+        7
+      ]
+    ],
+    "n15_max_disjoint_ternary_zero_pairs_in_T44": 1,
+    "n15_min_ternary_triples_per_13_partition": 6,
+    "p5_critical_B_len": 7,
+    "p5_critical_L_len": 12,
+    "local_19_sharp": true,
+    "n15_resolved": false,
+    "n20_resolved": false,
+    "phase1": "IN_PROGRESS",
+    "S045_executed": false
   }
 }

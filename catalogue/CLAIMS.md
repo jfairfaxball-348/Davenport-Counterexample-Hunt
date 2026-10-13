@@ -1136,3 +1136,27 @@ Category: REDUCTION. Origin: research/S043_COUPLED_CRT_EXCHANGE.md. Sources: SRC
 Conditional on source-stated D12(C3³)=42, a hypothetical 43-position zero-sumfree S in C15³ augmented to minimal zero-sum T44 admits for EVERY original y a thirteen-block quotient-zero partition with appended z and y in the same block. Thirteen C5 decorations form minimal zero-sum length13; other twelve maximal zero-sumfree and saturate subset sums. No need for BSP diagrams solely for partition existence.
 
 Category: REDUCTION. Origin: research/S043_TERNARY_ANCHORED_PARTITIONS.md. Sources: SRC-0008. Explicitly conditional original-source premises remain SOURCE_STATED; no composite equality, candidate, novelty or external/formal certification.
+
+## CLM-0168 — PROGRAMME_PROVED (INTERNAL, scoped)
+
+Conditional on source-stated D(C10^3)=28 and the S041 six-odd parity reduction, every partition of the augmented minimal-zero n20 T59 into 28 C2^3-zero blocks is either 26 equal-class pairs plus a Fano line/complement, or 25 pairs plus a pencil of three Fano triples sharing one hub class. All blocks are C2^3-minimal; each original index admits an anchored quotient partition with z in the same 2-,3-,or4-block.
+
+Category: REDUCTION. Origin: research/S044_N20_FANO_CIRCUIT_PENCIL.md. Sources: SRC-0023. Historical assumptions retain SOURCE_STATED classifications, no rank3 composite result, candidate, novelty or formal/external certification.
+
+## CLM-0169 — PROGRAMME_PROVED (INTERNAL, scoped)
+
+Conditional on source-stated D11(C3^3)=39 and internally proved D(C5^3)=13, the augmented hypothetical n15 T44 has NO two disjoint C3^3-zero pairs even when one uses the appended z. Every 13-block ternary-zero partition consists of minimal zero-sum blocks of lengths2..7, has at most one pair, and has at least six triples (at least eight if pair-free).
+
+Category: REDUCTION. Origin: research/S044_N15_ANCHORED_PAIR_EXCLUSION.md. Sources: SRC-0008. Historical assumptions retain SOURCE_STATED classifications, no rank3 composite result, candidate, novelty or formal/external certification.
+
+## CLM-0170 — PROGRAMME_PROVED (INTERNAL, scoped)
+
+For every k>=2 the S042 A_k C5^3 critical lower-bound family has a concrete partition into k-2 pure e1^5 zeros plus a seven-term zero B=e1^2(e1+e2)^3e2^2, leaving L=e1^2e2^2e3^4(e1+e3)^2(e2+e3)^2 of length12 and no nonempty zero sum. B union L has length19 and no two disjoint C5^3 zeros: one-block 19 window is sharp at quotient level, not a composite lift.
+
+Category: REDUCTION. Origin: research/S044_P5_EXACT_CRITICAL_WINDOW.md. Sources: none required for independent local statement. Historical assumptions retain SOURCE_STATED classifications, no rank3 composite result, candidate, novelty or formal/external certification.
+
+## CLM-0171 — PROGRAMME_PROVED (INTERNAL, scoped)
+
+For a zero-sumfree indexed P26 in C10^3 with parity (z,r)=(0,4), if the four odd-multiplicity nonzero quotient residual classes consist of one Fano zero triple plus an isolated fourth class d, then E(P) contains no extension in parity class d or0. The independent four-class cap configuration excludes parity0 but does not yield the isolated-class exclusion. No full n20 profile is ruled out.
+
+Category: REDUCTION. Origin: research/S044_N20_FANO_CIRCUIT_PENCIL.md. Sources: none required for independent local statement. Historical assumptions retain SOURCE_STATED classifications, no rank3 composite result, candidate, novelty or formal/external certification.

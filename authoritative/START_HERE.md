@@ -145,3 +145,8 @@ CLM-0137 uses the m2p high/low incidence census to prove, when s=+1, high–low 
 ## S036 — vector-weighted Psi rigidity (2026-10-12)
 
 **CLM-0139:** Exact Σ_(k≠i,j) z_k Psi_ijk=0 for ALL complete indexed m=kp>=2p hypothetical no-short Z. Pair scalar moment gives >=2 nonzero critical Psi witnesses for every exceptional pair; exactly two entail parallel third-index vectors. **2E<=3W**. When m=2p, p7 W>=58 (prior29), p13 W>=256 (prior128), no universal positivity P. No actual-Z projective upper bound, m2p/m>=3p exclusion, D1/Dk theorem/counterexample, strong p>=7 extraction, D2 saving, search/candidate or novelty claim. Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 BLOCKED n6=16; original30 numerical rows and 28 source records preserved; zero hosted checks ≠ CI PASS. [Research](../research/S036_VECTOR_WEIGHTED_PSI_PAIR_MOMENT.md). S037 strictly FUTURE ONLY.
+
+
+## S044 — 2026-10-13
+
+CLM-0168..0171: n20 augmented T59 28-block parity partitions are exactly Fano line/quad or three-triple Fano pencil (under source-stated D(C10³)=28); one (0,4) Fano line+isolate P26 extension parity class newly excluded but none of three n20 profiles eliminated. n15 T44 has no two disjoint C3³-opposite pairs even involving z and every 13-block quotient partition has >=6 minimal ternary zero triples (D11/D12 source-stated). Explicit A_k partition k-2 pure5 blocks, B7 and L12 makes p5 local 19 threshold sharp; a proposed <=18 upgrade is false. No new composite D1 equality/counterexample, no source promotion, mathematical search or hosted CI PASS. Phase1 IN_PROGRESS, CAM-0001 blocked; S045 FUTURE ONLY. See research/S044_* and sessions/S044/CLOSEOUT.md.
