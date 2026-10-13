@@ -1160,3 +1160,27 @@ Category: REDUCTION. Origin: research/S044_P5_EXACT_CRITICAL_WINDOW.md. Sources:
 For a zero-sumfree indexed P26 in C10^3 with parity (z,r)=(0,4), if the four odd-multiplicity nonzero quotient residual classes consist of one Fano zero triple plus an isolated fourth class d, then E(P) contains no extension in parity class d or0. The independent four-class cap configuration excludes parity0 but does not yield the isolated-class exclusion. No full n20 profile is ruled out.
 
 Category: REDUCTION. Origin: research/S044_N20_FANO_CIRCUIT_PENCIL.md. Sources: none required for independent local statement. Historical assumptions retain SOURCE_STATED classifications, no rank3 composite result, candidate, novelty or formal/external certification.
+
+## CLM-0172 — PROGRAMME_PROVED (INTERNAL, scoped)
+
+Conditional on the S041 six-odd n20 parity profile (historical D(C10^3)=28 SOURCE_STATED), every canonical 26 original parity-pair choice yields seven indexed Fano line/cap partitions and, for EACH of 26 broken pairs, SIX labelled three-line-pencil partitions into25 pairs+3 triples; their exact non-split C20/2G C10 kernel decorations are simultaneously maximal minimal zero-sum. In each pencil P25 plus any two of the three decorations is zero-sumfree; hub transpositions impose opposite δ shifts. Necessary inverse only.
+
+Category: REDUCTION. Origin: research/S045_N20_SIMULTANEOUS_PENCIL_INVERSE.md. Sources: SRC-0023 SOURCE_STATED dependency preserved. Same-executor hostile review only; no full candidate, rank3 composite endpoint, external/formal certificate or novelty assertion.
+
+## CLM-0173 — PROGRAMME_PROVED (INTERNAL, scoped)
+
+For hypothetical n15 augmented minimal-zero T44, internally proved D(C3³)=7 and D(C5³)=13 alone force quotient C3³ support >=6. If support=6, after disjoint triple stripping the residual is exactly 11 indexed positions with multiplicities (2,2,2,2,2,1), no quotient zero subcollection of size<=3; its six distinct Q classes form a cap with no antipodal pair and singleton u equal to the sum of other five values. No source-stated D11/D12 used; necessary, not existence.
+
+Category: REDUCTION. Origin: research/S045_N15_SIX_CLASS_RESIDUE_CORE.md. Sources: no source-stated multiwise premise for the local theorem. Same-executor hostile review only; no full candidate, rank3 composite endpoint, external/formal certificate or novelty assertion.
+
+## CLM-0174 — PROGRAMME_PROVED (INTERNAL, scoped)
+
+Under the hypothetical n15 T44 exactly-six-support boundary, its 11 quotient-zero residual after eleven original-index monochromatic triples necessarily splits into two Q-minimal zero circuits of lengths (4,7) or (5,6). Hence all 44 original-plus-one indices have a canonical 13-block zero-quotient partition whose C5³ decorations form maximal minimal zero-sum length13. No disjoint decorated exchange or D(C15³)=43 proof.
+
+Category: REDUCTION. Origin: research/S045_N15_SIX_CLASS_RESIDUE_CORE.md. Sources: no source-stated multiwise premise for the local theorem. Same-executor hostile review only; no full candidate, rank3 composite endpoint, external/formal certificate or novelty assertion.
+
+## CLM-0175 — PROGRAMME_PROVED (INTERNAL, scoped)
+
+For S042 A_k in C5³ (k>=2), letting W_t be S044 B7+L12 together with any t of k-2 indexed pure five-zero blocks, the exact maximum number of mutually disjoint nonempty C5³ zero blocks in W_t (length19+5t) is t+1 for all 0<=t<=k-2. Thus all one-, two-, three- and higher-block local quotient-only packing barriers are simultaneously sharp; not a full composite candidate or an upper bound.
+
+Category: REDUCTION. Origin: research/S045_P5_ALL_WINDOW_PACKING.md. Sources: no source-stated multiwise premise for the local theorem. Same-executor hostile review only; no full candidate, rank3 composite endpoint, external/formal certificate or novelty assertion.

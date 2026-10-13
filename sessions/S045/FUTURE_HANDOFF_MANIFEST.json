@@ -1,0 +1,8 @@
+{
+  "prepared_in_session": "S045",
+  "next_session": "S046",
+  "next_prompt_path": "authoritative/NEXT_SESSION_PROMPT.md",
+  "status": "FUTURE_UNEXECUTED",
+  "requires_fresh_owner_invocation": true,
+  "S046_executed": false
+}

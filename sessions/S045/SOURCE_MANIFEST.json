@@ -1,0 +1,17 @@
+{
+  "session": "S045",
+  "source_ids": [
+    "SRC-0008",
+    "SRC-0023"
+  ],
+  "source_records_before": 28,
+  "source_records_after": 28,
+  "source_records_unchanged": true,
+  "source_dependency_S042_Ak": "CLM-0160 PROGRAMME_PROVED",
+  "source_dependency_prime": "CLM-0142 PROGRAMME_PROVED",
+  "historical_C10_D": "SOURCE_STATED",
+  "historical_ternary_D11_D12": "SOURCE_STATED and NOT USED in CLM-0173/0174",
+  "historical_p5_upper": "SOURCE_STATED and NOT USED in CLM-0175",
+  "new_original_sources": 0,
+  "proof_authentication_upgrades": 0
+}

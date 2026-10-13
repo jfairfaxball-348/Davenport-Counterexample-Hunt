@@ -24,18 +24,18 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S044",
-  "recommended_next_session": "S045",
+  "last_completed_session": "S045",
+  "recommended_next_session": "S046",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": null,
   "phase1_target_status": "WITHHELD_NO_REPLACEMENT_CAMPAIGN",
   "open_blockers": [
-    "S044 n20 T59 minimal quotient partitions have precisely Fano line+cap or three-triple Fano pencil shapes; all 3 S043 P26 parity profiles (0,4),(0,6),(1,7) survive without full H inverse.",
-    "S044 n15 T44 no two disjoint ternary opposite pairs anywhere (including appended z) and >=6 minimal zero triples per 13-partition, but no index-disjoint H(C5³) cross-anchor exchange.",
-    "S044 A_k explicit 7+12=19 one-block critical window is sharp at p5 quotient level, refuting universal bound18; actual cross-block decorations still missing.",
-    "Historic original-source D(C10³)=28, D11/D12(C3³), Yiu p5 upper/eta finite and BSP2007 inverse diagrams remain SOURCE_STATED not independently authenticated.",
-    "Original30 frontier rows intact; CAM-0001 remains PROPOSED NOT_RUNNING BLOCKED n6=16; Phase1 IN_PROGRESS, CI ABSENT_NOT_PASS."
+    "S045 n20: all 26 original parity-pair hub choices each impose six labelled non-split C20 pencil critical-triple constraints on P25; seven line/cap partitions and P26 profiles (0,4),(0,6),(1,7) all survive. SOURCE_STATED C10 endpoint retained.",
+    "S045 n15: independent D(C3³)=7/D(C5³)=13 strips T44 quotient support to >=6; at exactly six, 11-term (2,2,2,2,2,1) cap residue is zero-pair/triple free and splits as 4+7 or5+6. Missing decorated H exchange.",
+    "S045 C5³ A_k windows B7+L12+t pure five-blocks have EXACT packing number t+1, so quotient-only 2-/3-block remedies cannot resolve the composite CRT lift.",
+    "Original C10, ternary D11/D12 and p5 historical UPPER input continue SOURCE_STATED; Phase1 IN_PROGRESS; original30 frontier rows and 28 sources unchanged; hosted CI ABSENT_NOT_PASS; protection UNKNOWN.",
+    "CAM-0001 proposed/not running/block n6=16; no Phase2/3, campaign or candidate."
   ],
   "gate_ledger": "docs/PHASE_GATE_LEDGER.md",
   "source_snapshot": "2026-10-12",
@@ -53,7 +53,10 @@
     "S043 all-y n15 partition bypasses BSP2007 inverse diagrams for PARTITION EXISTENCE only; ternary D12=42 stays SOURCE_STATED.",
     "S043 detailed written plan Git blob created after preliminary informal mathematical reasoning, before full formal proof writing.",
     "S044 n15 at-most-one disjoint ternary pair applies to FULL augmented T44, but is conditional on SOURCE_STATED D11(C3³)=39; >=6 partition triples alone does not force zero H decoration.",
-    "S044 A_k 19-window is sharp at quotient-only level for ALL k>=2; it is not a full composite-group zero-sumfree sequence."
+    "S044 A_k 19-window is sharp at quotient-only level for ALL k>=2; it is not a full composite-group zero-sumfree sequence.",
+    "S045 CLM-0172: seven Fano line/cap partner extension values reflect automatic E(P)=(-sum P)-E(P) complement symmetry; they are NOT fourteen independent extra E(P) constraints. Six hub permutations can degenerate if swapped original values coincide.",
+    "S045 CLM-0173/0174: support>=6 and the six-class eleven-point cap inverse are necessary for hypothetical augmented C15³ T44 and use internally proved prime D values; do NOT prove a six-cap is impossible or authenticate D11/D12.",
+    "S045 CLM-0175: exact all-window packing sharpness holds only for explicit indexed C5³ A_k quotient family, not arbitrary or decorated composite windows."
   ],
   "first_interval_requiring_literature_review": 15,
   "owner_action_blockers": [],
@@ -298,7 +301,7 @@
     "owner_blocker": false,
     "historical_dependency_reconciled": "S004 CLM-0068 / S005 sufficient conditional base5p-2 bypass restored and strengthened one position"
   },
-  "current_research_priority": "S045: genuine indexed n20 Fano pencil C10 H inverse or n15 anchored triple/pair CRT exchange, not quotient-only counting or 19->18 local bound",
+  "current_research_priority": "S046: attack decorated six-class ternary 11-core 4+7/5+6 exchange AND 26×6 indexed Fano pencil joint critical extensions; do not retry universally false quotient-only multi-block packing saving.",
   "s040_result": {
     "claims": [
       "CLM-0148",
@@ -424,5 +427,52 @@
     "n20_resolved": false,
     "phase1": "IN_PROGRESS",
     "S045_executed": false
+  },
+  "s045_result": {
+    "claims": [
+      "CLM-0172",
+      "CLM-0173",
+      "CLM-0174",
+      "CLM-0175"
+    ],
+    "n15_quotient_support_lower": 6,
+    "n15_six_class_residual_length": 11,
+    "n15_six_class_residues": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      1
+    ],
+    "n15_residual_circuits": [
+      "4+7",
+      "5+6"
+    ],
+    "n20_all_original_pair_choices": 26,
+    "n20_assignments_per_hub": 6,
+    "n20_profiles_remaining": [
+      [
+        0,
+        4
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        1,
+        7
+      ]
+    ],
+    "p5_exact_packing": "max_Qzero_blocks(W_t)=t+1; |W_t|=19+5t",
+    "D15_exact": false,
+    "D20_exact": false,
+    "counterexample": false,
+    "source_records_changed": false,
+    "original_frontier_rows_changed": false,
+    "CI": "ABSENT_NOT_PASS",
+    "phase1": "IN_PROGRESS",
+    "S046": "FUTURE_UNEXECUTED"
   }
 }

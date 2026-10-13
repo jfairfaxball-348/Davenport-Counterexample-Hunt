@@ -961,5 +961,25 @@
     "n20_interval": "58..59",
     "phase1": "IN_PROGRESS",
     "campaign": "BLOCKED"
+  },
+  "s045_audit": {
+    "session": "S045",
+    "date": "2026-10-13",
+    "claim_ids": [
+      "CLM-0172",
+      "CLM-0173",
+      "CLM-0174",
+      "CLM-0175"
+    ],
+    "original_rows_unchanged": true,
+    "numerical_bounds_unchanged": true,
+    "sources_unchanged": true,
+    "n15_support_lower": 6,
+    "n15_six_class_core": "11 positions; five doubles and one singleton; no Qzero <=3",
+    "n20_full_hub_permutations": "26 broken pairs × six assignments",
+    "p5_all_windows": "exact t+1 zero blocks",
+    "no_composite_resolution": true,
+    "no_campaign": true,
+    "hosted_CI": "ABSENT_NOT_PASS"
   }
 }
