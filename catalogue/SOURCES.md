@@ -416,3 +416,7 @@ Freshly inspected definitive BSP2012 original publisher-author offprint SRC-0021
 ## S037 original-primary provenance audit — 2026-10-13
 
 Re-inspected primary SRC-0021 publisher-author offprint printed pp22–24 and printed p23 image. Original Lem2.1 states weaker <=(3p−1)/2, stronger <=3(p−1)/2 appears on p23 without independently supplied full proof, rank3 Lem2.3 proof omitted. CLM-0140 is programme-internal polynomial algebra, NOT authors' claim. All original 28 source objects/access enums unchanged. Sheikh2017 full Chapter4, GHST original C53 code/output UNREAD (NEVER RUN), Yiu complete independently authenticated final M1 unavailable; M2/M3 separate. No source-stated exact rank-three values or five historical conditional intervals upgraded.
+
+## S038 direct original-primary provenance — 2026-10-13
+
+Read-only definitive SRC-0021 Bhowmik–Schlage-Puchta publisher-author offprint, printed pp22–24 (printed p23 independently visually checked). The original pp22–23 weak Lem2.1 versus later stronger p23 use remains unresolved, rank-three Lem2.3 proof explicitly omitted. New CLM-0141 is NOT attributed to the original authors. Original 28 source records and access classes UNCHANGED; Sheikh Chapter4 and GHST C53 full original code/output UNREAD (author code NEVER RUN), Yiu independent complete final M1 unauthenticated, M2/M3 distinct. No exact historical frontier source upgrade, no present-day openness inference.

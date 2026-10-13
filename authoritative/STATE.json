@@ -24,13 +24,14 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S037",
-  "recommended_next_session": "S038",
+  "last_completed_session": "S038",
+  "recommended_next_session": "S039",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": null,
   "phase1_target_status": "WITHHELD_NO_REPLACEMENT_CAMPAIGN",
   "open_blockers": [
+    "S038 CLM-0141: every low-high pair in hypothetical m=2p no-short indexed Z has >=3 nonzero critical Psi third-index witnesses; mixed containment lambda=t yields p distinct additional high-only b-blocks, exact Psi=s mu and >=h(p) varying columns (h7=5,h13=6). Thus 2W>=3LH+(h(p)-3)F and W>=ceil(3LH/2): p7 W>=156 (previous87), p13 W>=570 (previous383). Twin-neighborhood pairs have Psi identically zero. NECESSARY LOWER only; NO actual-Z upper, m2p/m>=3p contradiction, strong extraction, D2/D1/Dk theorem, candidate, Phase1 PASS or campaign. S039 FUTURE ONLY.",
     "S037 CLM-0140 exact Psi parallel-fibre exchange + S036 vector moment and no-short c_d<=p−1 forces >=3 DISTINCT projective witness directions on every nonempty pair support; W>=E on exceptional pairs. Hypothetical m2p p7 W>=87,p13 W>=383. NO actual-Z upper, m2p/m>=3p exclusion, strong extraction, D2/D1/Dk result, candidate, Phase1 PASS or campaign. S038 FUTURE ONLY.",
     "S036 CLM-0139: exact vector-weighted Psi pair moment for every complete m=kp>=2p forces at least TWO distinct nonzero triple witnesses per exceptional pair and 2E<=3W. Under hypothetical m2p p7 W>=58 (prior29), p13 W>=256 (prior128); exactly two witnesses force parallel z_k. No universal P. NO actual-Z projective cancellation UPPER bound, m2p/m>=3p contradiction, D1/Dk/D2 result, candidate or campaign. Phase1 IN_PROGRESS, no hosted CI PASS; S037 FUTURE ONLY.",
     "S035 CLM-0138: for s=-1 (p≡1 mod4), m=2p hypothetical indexed Z forces high-high transfer D=2ΣHH(lambda-2t) with D>=2tL and E>=b(b+1)+3 exceptional pairs, W>=ceil((b(b+1)+3)/3) nonzero Psi triples; p13 W>=128 versus prior64. NO actual-Z-dependent projective UPPER bound or contradiction, m2p/m>=3p OPEN. S034 p7 >=29 remains, S033 p7 37 CONDITIONAL on P. S036 FUTURE ONLY; Phase1 IN_PROGRESS, CAM-0001 blocked, absent CI ≠ PASS.",
@@ -54,6 +55,7 @@
   "gate_ledger": "docs/PHASE_GATE_LEDGER.md",
   "source_snapshot": "2026-10-12",
   "warnings": [
+    "S038: scalar pair moment vanishes for mixed lambda=t but individual critical Psi need NOT vanish; exact containment gives Psi=s mu on p distinct extra blocks and >=h(p) nonzero witnesses. Mixed pair capacity of a triple is TWO not three. W>=156/570 is a LOWER support bound, not a contradiction; original30 rows and 28 source classes unchanged, hosted checks absent NOT PASS.",
     "S036 vector coefficient cancellation gives ONLY a lower Psi support bound. At exactly two witnesses projectively parallel vectors are permitted, and S032 U>=111/291 are lower bounds for a raw-capacity quantity, NOT a projective support upper restriction. Source and original30 frontier unchanged.",
     "S035 negative-sign high-high transfer is a scoped support LOWER bound, not m2p exclusion; substituting D's minimum separately in E_HH would be invalid, only combined positive-slope inequality permits it. No mathematical search, primary-source upgrade or hosted CI PASS.",
     "S033 adversarial audit caught invalid unconditional inference lambda_ij>=1 from S030's OR pair-cover. Refined support theorem is explicitly conditional P and must never replace S031 unconditional bound. All original30 frontier rows, source enums and campaigns preserved.",

@@ -808,5 +808,24 @@
     "phase1": "IN_PROGRESS",
     "campaign": "CAM-0001 BLOCKED n6=16",
     "hosted_ci_pass": false
+  },
+  "s038_audit": {
+    "date": "2026-10-13",
+    "new_claim": "CLM-0141",
+    "status": "PROGRAMME_PROVED_SCOPED",
+    "conditional_on": "hypothetical no-short indexed Z with m=2p",
+    "p7_min_W": 156,
+    "p13_min_W": 570,
+    "old_p7_min_W": 87,
+    "old_p13_min_W": 383,
+    "new_rank3_D1_or_Dk_theorem": false,
+    "original_rows_unchanged": true,
+    "source_records_unchanged": true,
+    "phase1": "IN_PROGRESS",
+    "phase2": "NOT_STARTED",
+    "phase3": "NOT_STARTED",
+    "campaign": "CAM-0001_BLOCKED_N6_16",
+    "mathematical_search": false,
+    "hosted_CI_pass": false
   }
 }

@@ -125,3 +125,7 @@ IN_PROGRESS; PASS WITHHELD. CLM-0132 exact sparse projective zero-fibre and exce
 ## S037 Phase1 review — 2026-10-13
 
 **IN_PROGRESS, PASS withheld.** CLM-0140 actual critical Psi parallel-direction theorem gives >=3 witnesses/exceptional pair, W>=E, conditional m2p p7 W>=87, p13>=383. NO actual-Z projective support UPPER, m2p/m>=3p exclusion, rank3 D1/Dk/D2, p>=7 strong extraction or candidate. Original30 frontier JSON/MD rows and source28 records/enums unchanged, BSP rank3 Lem2.3 omission and Sheikh/GHST/Yiu provenance gaps persist. Phase2/3 NOT_STARTED, CAM-0001 PROPOSED/NOT_RUNNING/BLOCKED n6=16. No hosted CI checks means ABSENT_NOT_PASS.
+
+## S038 — 2026-10-13
+
+Phase1 **IN_PROGRESS**, PASS withheld. CLM-0141 is a new original-programme NECESSARY critical Psi witness-support lower bound on hypothetical m=2p Z (p7 W>=156,p13 W>=570), not m2p exclusion or classical D1/Dk/D2. Higher m>=3p, genuine actual-Z upper, strong BSP extraction and source provenance gaps remain OPEN. Thirty original JSON/Markdown frontier rows and original 28 source access categories unchanged. Phases2/3 NOT_STARTED, Phase4 OWNER_GATED, CAM-0001 PROPOSED/NOT_RUNNING/BLOCKED n6=16. No hosted workflows/checks = ABSENT_NOT_PASS; internal symbolic reconstruction is NOT external independent or formal proof.

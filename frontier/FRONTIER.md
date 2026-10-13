@@ -1,3 +1,7 @@
+# S038 frontier — original thirty rank-three D1 numerical/evidence rows PRESERVED
+
+CLM-0141: hypothetical m=2p low–high indexed pairs ALL have >=3 nonzero Psi witnesses; exact containment gives >=h(p), yielding W>=ceil(3LH/2), p7 W>=156 (previous87) and p13 W>=570 (previous383). These are NECESSARY LOWER support bounds, not rank-three D1/Dk values or a contradiction. Exact thirty original full ordered Markdown frontier table rows below UNCHANGED, corresponding 30 JSON row objects untouched. Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 blocked n6=16; no hosted CI PASS.
+
 # S037 frontier — original thirty rank-three classical D1 numerical/evidence rows EXACTLY preserved
 
 NEW CLM-0140 actual critical Psi projective parallel-fibre exchange: every nonempty pair Psi support uses >=3 distinct projective directions; exceptional pairs need >=3 witnesses => W>=E. HYPOTHETICAL m2p p7 W>=87 and p13 W>=383, NECESSARY LOWER support, not rank3 D1/Dk numerical/candidate/contradiction. Original THIRTY ordered Markdown n/group/D*/bounds/status/fully ordered evidence table rows below preserved byte-for-byte, all thirty JSON frontier ROW OBJECTS unchanged. Historical 25 settled/trivial, intervals n15 43..45,n20 58..59,n21 61..63,n28 82..83,n30 88..90, source-stated Schmid n6=16 and van Emde Boas/Yiu retained. Phase1 IN_PROGRESS, CAM-0001 BLOCKED; missing hosted CI NOT PASS.

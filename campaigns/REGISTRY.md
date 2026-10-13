@@ -159,3 +159,7 @@ CAM-0001 **PROPOSED / NOT RUNNING / activation BLOCKED** by historical SOURCE_ST
 ## S037 nonactivation — 2026-10-13
 
 CAM-0001 still PROPOSED/NOT_RUNNING/BLOCKED by SOURCE_STATED n6=16. CLM-0140 is a hypothetical-Z symbolic necessary Psi support bound (m2p p7 W>=87, p13 W>=383), not a candidate, rank3 Davenport D1/Dk value, search permission or replacement campaign. Phase1 IN_PROGRESS, Phase2/3 NOT_STARTED; no numerical mathematical/computational search, original author code, solver, Lean/Palomar or hosted CI PASS.
+
+## S038 nonactivation — 2026-10-13
+
+CAM-0001 remains PROPOSED / NOT RUNNING / activation BLOCKED by historical SOURCE_STATED n6=16. CLM-0141 is a hypothetical indexed m=2p critical Psi witness necessary lower bound, p7 W>=156,p13 W>=570, NOT a zero-sumfree assignment, new rank3 D1/Dk theorem, candidate, solver result, campaign target or search permission. Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED; original30 frontier rows and 28 source records unchanged. No numerical mathematical/computational search, author code, Lean/Palomar, publication, or hosted CI PASS.

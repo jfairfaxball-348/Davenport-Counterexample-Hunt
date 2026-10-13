@@ -1,3 +1,7 @@
+# S038 current authority — 2026-10-13
+
+**S038 CLM-0141** proves each low–high pair in hypothetical no-short indexed Z with complete m=2p b-blocks has >=3 distinct active critical Psi third-index witnesses, including pairs with lambda=t (zero scalar pair moment). For these containment pairs, exact Psi=s mu and p distinct additional high-only indexed blocks force >=h(p) nonzero witnesses, h7=5,h13=6. Mixed-edge incidence gives W>=ceil(3LH/2): **p7 >=156, p13 >=570**, necessary lower bounds ONLY. Identical neighbourhood twin pairs have Psi identically zero. NO opposing actual-Z upper, m2p/m>=3p exclusion, strong extraction, D2/D1/Dk theorem, counterexample, candidate or Phase1 PASS. Original 30 frontier rows/28 sources intact, CAM-0001 blocked n6=16, hosted CI absent. S039 STRICTLY FUTURE on a NEW owner invocation; past embedded 'current' sections are historical snapshots and superseded by this header.
+
 # S037 current authority — 2026-10-13
 
 S037 CLM-0140 exact parallel-fibre polynomial coefficient exchange plus S036 vector moment forces >=3 distinct projective active witness directions for any nonempty pair Psi support; exceptional pairs W>=E, at hypothetical m2p p7 W>=87,p13 W>=383. NECESSARY LOWER, no actual-Z upper or m2p/m>=3p contradiction, no D1/Dk/D2 theorem/candidate. Phase1 IN_PROGRESS, Phase2/3 NOT_STARTED, CAM-0001 blocked n6=16; original30 frontier/28 sources untouched; hosted CI absent NOT PASS. Only future S038 separately owner-authorised. Older 'current' labels below have historical session cutoffs; this supersedes them.
