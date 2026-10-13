@@ -1,0 +1,15 @@
+{
+  "session": "S052",
+  "review": "INTERNAL_ONLY",
+  "same_executor": true,
+  "claims": [
+    "CLM-0198",
+    "CLM-0199",
+    "CLM-0200"
+  ],
+  "evidence": "sessions/S052/REVIEW.md",
+  "hosted_ci": "ABSENT_NOT_PASS",
+  "formal_verification": false,
+  "n15_resolved": false,
+  "n20_resolved": false
+}

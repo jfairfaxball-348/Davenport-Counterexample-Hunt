@@ -210,3 +210,6 @@ DECISION: retain Phase1 proof-first symbolic original-index programme. Accept in
 
 ## S051 — 13 October 2026
 Phase1 only, retain B arbitrary-core Fano affine-hull condition CLM-0195 as necessary but not full core/profile exclusion; retain A six-support E-nine affine example CLM-0196 as positive evidence not universal inverse; retain C complete fixed first-block five-index census CLM-0197 with 3 duplicate passes, one other pass and one genuine failure, not all-index/global CRT. No numerical search, source status promotion, novelty/priority claim, candidate, campaign, Phases2/3 or composite Davenport equality. Original30 rows and28 SRC records exact. S052 future unexecuted.
+
+## S052 — 13 October 2026
+Accept CLM-0198 (coherent common-K Fano parity-span NECESSARY), CLM-0199 (six-support four-E C5 local affirmative example), CLM-0200 (special CRT 30 labelled d/q/first-X tests; six failures) as INTERNALLY reasoned PROGRAMME_PROVED, not D(C15³)/D(C20³) equalities, novel priority or candidate. Prior S042 πE(P26) span theorem explicitly retained. Original30/28 intact; no source access promotions, numerical search, Phase2/3, campaigns or CI PASS. S053 FUTURE ONLY.

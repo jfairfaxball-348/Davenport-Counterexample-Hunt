@@ -282,3 +282,11 @@ One explicitly owner-invoked symbolic Phase1 session against live merge-main 96f
 4. **INVALID:** Five original CRT indices equal five independent H tests. Three original X positions have h=0, hence duplicate decoration constraints; one label fails r1, so even four passes do NOT provide a full zero-free G lift.
 5. No full-T E(U) properness test; cap+8+allpairs max56<59. Non-split C20 doubling iota only applied to parity-zero sums. No CAS, numerical mathematical search or external review.
 6. Git prereg before proof is FALSE, visible plan preceded work. Never present absent hosted checks as CI success; 403 protection remains UNKNOWN.
+
+## S052 hostile lessons — 13 October 2026
+1. Do NOT relabel S042 CLM-0159's affine-full π(E(P26)) as new. S052 CLM-0198 strengthens to the intersection K across 128 original even-index shifts and derives the coherent 4-line moment. No universal U22 contradiction follows.
+2. In the four-line identity, original s_r is ODD parity; derive equality of the FOUR even line decorations modulo10 from iota(ΣhL)=2Σs_r, then reduce modulo2. Do NOT individually divide s_r in H or split C20 as C2⊕C10.
+3. Reflection K=hV−K uses BOTH E(U)=c−E(U) and W=v−W; it is NOT h→−h except if hV=0. Parity six-residue lower bound depends on π(hV)≠0, not just T minimality.
+4. Hand-checked C5 third coordinate must share SAME indicator c in x/y boxes; the four missing Σ coordinates cannot be guessed by Cartesian product independent choices. S052 second P11 remains affine and is not a universal inverse.
+5. CRT d0 choices have Δ=0; a claim that ALL 30 labelled choices genuinely change total is false. Four passing first-X indices per d/q are not four independent H values (three labels0); duplicate q and d values also repeat. P* must be FIRST in this proof; other placements, cross-window and B-only untested.
+6. One-atomic-commit PRECOMMIT closeout cannot report outgoing refs; no hosted CI means ABSENT_NOT_PASS. Internal hostile check is not independent review or formal certification.

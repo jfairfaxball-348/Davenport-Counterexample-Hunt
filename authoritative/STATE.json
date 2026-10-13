@@ -24,18 +24,18 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S051",
-  "recommended_next_session": "S052",
+  "last_completed_session": "S052",
+  "recommended_next_session": "S053",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": null,
   "phase1_target_status": "WITHHELD_NO_REPLACEMENT_CAMPAIGN",
   "open_blockers": [
-    "S051 CLM-0195: arbitrary U22 indexed Fano necessary 0∈aff_Z(K) proved; NO universal failure of this test for all zero-free U22, 26 hub choices or eligible (0,4)/(0,6)/(1,7) profiles. Conditional φ(E(U))⊆1..5 plus φ(v)=4/6 forbids that indexed completion only.",
-    "S051 CLM-0196: a six-support C5³ P11 has exact 9 extenders in nonzero affine z=1; universal affine inverse including E empty, nonaffine, support≥7 and all six-cap re-strippings still OPEN.",
-    "S051 CLM-0197: fixed m3/m4 CRT first original-X five-label census has four prefix-compatible choices (three H duplicates), one r1 failure; other orders, d/q, B-only, cross-window and full G tests OPEN.",
-    "Original30 frontier row objects/28 sources untouched; SRC-0008/0015/0023 remain background SOURCE_STATED, CI ABSENT_NOT_PASS and branch protection UNKNOWN_403; same-executor INTERNAL only.",
-    "CAM-0001 PROPOSED NOT_RUNNING BLOCKED by historical source-stated n6=16; Phases2/3 NOT_STARTED and no certified candidate."
+    "S052 CLM-0198: necessary fully spanning π(K) for common arbitrary-U22 Fano kernel; ≥4/≥6 parity residues conditional πhV. No universal exclusion of all U22, simultaneous 26 hubs/profiles or mixed-index zeros.",
+    "S052 CLM-0199: another six-support C5³ zero-free P11 has E precisely four points in nonzero affine x+y+2z=1; universal P11 inverse, E empty/nonaffine/zero fibre, support>=7 and all six-cap re-strippings remain OPEN.",
+    "S052 CLM-0200: chosen decorated first-P* CRT all3 d×2 q×5 x1 labelled cases (24 local passes, six fail), with all downstream zero-selected pure orderings; not all-index, full G lift or composite equality.",
+    "Original30 frontier row objects/28 SRC original records unchanged, SOURCE_STATED C10/ternary/p5 inputs not promoted; zero hosted checks ABSENT_NOT_PASS; protection UNKNOWN_403; INTERNAL review only.",
+    "CAM-0001 PROPOSED NOT_RUNNING BLOCKED by historical source-stated n6=16; Phase1 IN_PROGRESS; Phases2/3 NOT_STARTED and no certified candidate."
   ],
   "gate_ledger": "docs/PHASE_GATE_LEDGER.md",
   "source_snapshot": "2026-10-12",
@@ -60,7 +60,10 @@
     "S045 CLM-0175: exact all-window packing sharpness holds only for explicit indexed C5³ A_k quotient family, not arbitrary or decorated composite windows.",
     "S051 affine-hull obstruction applies only to specified minimal T59 22+8+7 indexed partition; K_v affine hull containing0 is necessary NOT sufficient, and φ(E(U)) five-residue slab is NOT established for arbitrary U.",
     "S051 C5 P11 E nine-point union of lines is still in a nonzero plane; no universal inverse, E nonaffine example, or D(C15³) resolution.",
-    "S051 CRT five-index classification is for one decorated/order/d/q choice; 3 zero-labelled original indices are not 3 independent E tests."
+    "S051 CRT five-index classification is for one decorated/order/d/q choice; 3 zero-labelled original indices are not 3 independent E tests.",
+    "S052 πK affine-full is a strengthening from S042 πE(P26) full (NOT first parity-span theorem). 4πK=Q and cardinality 4/6 are necessary, not a universal no-go; use correct iota then mod10 then mod2.",
+    "S052 CRT 24 passes are 30 ORIGINAL labelled fixed-family choices (with duplicate H outcomes), not independent tests or a zero-free G lift. d0 choices have Δ=0; d=f2 choices Δ=−f2.",
+    "S052 C5 P11 four-point E nonzero plane does not prove universal E affine inverse or n15 equality."
   ],
   "first_interval_requiring_literature_review": 15,
   "owner_action_blockers": [],
@@ -610,5 +613,21 @@
     "protection": "UNKNOWN_403",
     "phase1": "IN_PROGRESS",
     "future": "S052 UNEXECUTED"
+  },
+  "s052_result": {
+    "session": "S052",
+    "CLM_0198": "common K full affine F2 parity rank, coherent four-line Fano tensor, K=hV-K and ≥4/≥6 parity residue threshold",
+    "CLM_0199": "six-support C5³ P11 exact 4 affine extenders",
+    "CLM_0200": "fixed first-P* decorated m3/m4 3d×2q×5x1 census 24 pass6 fail for all zero-selected continuation prefixes",
+    "n15_D1": "UNRESOLVED",
+    "n20_D1": "UNRESOLVED",
+    "candidate": "NONE",
+    "source28_preserved": true,
+    "frontier30_preserved": true,
+    "phase1": "IN_PROGRESS",
+    "review": "INTERNAL_ONLY",
+    "hosted_ci": "ABSENT_NOT_PASS",
+    "protection": "UNKNOWN_403",
+    "future": "S053 UNEXECUTED"
   }
 }

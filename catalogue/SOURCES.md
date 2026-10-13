@@ -449,3 +449,6 @@ Exactly the 28 original source objects and all access levels preserved; no fresh
 
 ## S051 provenance — 13 October 2026
 Original ordered 28 SRC source objects and every access class unchanged; no original primary paper proof freshly inspected and no status promotion. CLM-0195/0196/0197 are independent symbolic/internal original-index deductions, using SRC-0023/0008/0015 respectively as CONTEXT only. C10 rank-three D28, ternary D11/D12 and p5 UPPER stay SOURCE_STATED, no present-day priority or novelty inference.
+
+## S052 source audit — 13 October 2026
+Original 28 SRC objects and every access class unchanged. Context only: SRC-0008 C5³, SRC-0015 p5 multiwise, SRC-0023 C10/n20 literature. No original primary proof newly inspected, no source promotion, no novel priority claim. Three internal symbolic CLM-0198..0200 only.

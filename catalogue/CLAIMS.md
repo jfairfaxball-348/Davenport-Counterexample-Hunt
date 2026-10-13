@@ -1272,3 +1272,20 @@ Origin: [S051 nine-point six-support example](../research/S051_C5_E_NINEPOINT.md
 For fixed S049/S050 CRT m3/m4 A'_k first f2 pure-block indexed decoration (0,f3,f2−f3,0,0), all FIVE first original-X choices are exactly classified: three h0 and one hf3 pass all selected zero-label continuation prefixes (three duplicate H tests); the one h=f2−f3 fails at r1. This is not all-order/d/q/global G classification.
 
 Origin: [S051 original index census](../research/S051_CRT_ALL_FIVE_CHOICES.md). Context SRC-0015 SOURCE_STATED. No all-index CRT contradiction or G witness.
+
+## S052 internally proved symbolic scoped claims — no certification
+
+### CLM-0198 — PROGRAMME_PROVED
+For every genuine indexed T59 of specified 22-pair + eight equal-parity originals + seven Fano singletons, common even-subset kernel K has 4π(K)=F2³, aff_F2 π(K)=F2³ and coherent Σ_L π(hL)⊗ℓL=I. Reflection K=hV−K requires at least four parity residues, or six when πhV≠0. Necessity only, not D(C20³)=58.
+
+Origin: [S052 full common-kernel parity proof](../research/S052_FANO_COMMON_KERNEL_PARITY.md). Source context SRC-0023 SOURCE_STATED, S042 earlier full-span theorem for larger E(P26) retained.
+
+### CLM-0199 — PROGRAMME_PROVED
+Six-support P=e1³e2³e3²(e1+e3)(e2+e3)(e1+e2) is C5³ zero-free and E(P)={(0,4,1),(4,0,1),(0,1,0),(1,0,0)}, nonzero fibre x+y+2z=1. NOT an all-P11 inverse.
+
+Origin: [S052 exact box proof](../research/S052_C5_FOURPOINT_SIXSUPPORT.md). SRC-0008 context SOURCE_STATED.
+
+### CLM-0200 — PROGRAMME_PROVED
+For one fixed m3/m4 CRT A'_k decorated family with designated first P*, all three original Z d indices, both original residual Y q indices, all five original first X indices and all downstream pure-block orders of zero-labelled selections: 24/30 labelled triples pass ALL selected chain prefixes, six fail by m disjoint f3 H blocks. Δ either zero or −f2 depending on d; many duplicates; NOT full G-zero-free.
+
+Origin: [S052 enlarged indexed census](../research/S052_CRT_SIX_DQ_CENSUS.md). SRC-0015 context SOURCE_STATED.

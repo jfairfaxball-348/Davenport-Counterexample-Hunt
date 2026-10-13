@@ -2117,6 +2117,39 @@
         "SRC-0015"
       ],
       "notes": "Original indexed 3+1+1 census for fixed chain; one failure inherited from S050 with complete distinct-label accounting."
+    },
+    {
+      "id": "CLM-0198",
+      "statement": "In every hypothetical indexed C20³ T59 partition U22 + eight equal-parity originals + seven singleton nonzero mod2 classes, the common even-subset Fano extension kernel K must have π(K) affinely spanning F2³; indeed for each nonzero parity q, the sum of the four line-kernel values avoiding q has mod2 parity q, and seven coherent line choices obey the tensor identity Σ_L π(h_L)⊗ℓ_L=I₃. K is exactly reflection-symmetric about h_V=-ΣU-v. Consequently |π(K)|>=4 if π(h_V)=0 and >=6 if π(h_V)≠0. Necessary only; not a universal C20 contradiction.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S052_FANO_COMMON_KERNEL_PARITY.md",
+      "source_ids": [
+        "SRC-0023"
+      ],
+      "notes": "Original-index 4-line incidence, no C2×C10 split, all even 8-index shifts simultaneously; sharper than S042 affine-span of E(P26). Internal only."
+    },
+    {
+      "id": "CLM-0199",
+      "statement": "The six-support eleven-term P=e1³e2³e3²(e1+e3)(e2+e3)(e1+e2) is zero-sumfree in C5³ and has exactly four extension points {(0,4,1),(4,0,1),(0,1,0),(1,0,0)}, lying in the nonzero affine fibre x+y+2z=1. This is not a universal P11 inverse.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S052_C5_FOURPOINT_SIXSUPPORT.md",
+      "source_ids": [
+        "SRC-0008"
+      ],
+      "notes": "Direct index box intervals and complement check; distinct from S051 last mixed term e1+e2+4e3; no mathematical computer search."
+    },
+    {
+      "id": "CLM-0200",
+      "statement": "In one fixed m=3/4 CRT A'_k decorated family with three original Z labels (f2,0,0), two original residual Y labels (0,0), first distinguished X⁵ labels (0,f3,f2−f3,0,0), and arbitrary orders of remaining pure blocks with selected zero-labelled original X positions, all 3×2×5=30 first-position d/q/X labelled choices are classified on every chain prefix: 24 are locally block-zero-free and six (those with h_X=f2−f3) fail by m disjoint f3 blocks. The d label0 choices have Δ=0 whereas the d label f2 choices have Δ=−f2; this is neither all orderings nor a G zero-free lift.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S052_CRT_SIX_DQ_CENSUS.md",
+      "source_ids": [
+        "SRC-0015"
+      ],
+      "notes": "Original labels (duplicates distinguished), P* first only, all other selectable X labels zero, all remaining pure-block orders; 30 labels not 30 independent H tests."
     }
   ]
 }
