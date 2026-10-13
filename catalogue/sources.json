@@ -375,5 +375,13 @@
     "historical_Olson_original_p_group_proof_newly_authenticated": false,
     "novelty_claim": false,
     "author_code_executed": false
+  },
+  "s040_audit": {
+    "date": "2026-10-13",
+    "original_source_objects_unchanged": 28,
+    "original_access_statuses_unchanged": true,
+    "primary_original": "SRC-0021 publisher offprint as authenticated in S039",
+    "corroborative_original_author_arxiv": "https://arxiv.org/pdf/1702.03403",
+    "scope": "all-rank eta proof reconstructed using existing rank-two inputs; original p7 Lem5.2 no longer logically required; no new standalone original-source status promotion"
   }
 }

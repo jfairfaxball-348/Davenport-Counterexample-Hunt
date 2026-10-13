@@ -24,18 +24,17 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S039",
-  "recommended_next_session": "S040",
+  "last_completed_session": "S040",
+  "recommended_next_session": "S041",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": null,
   "phase1_target_status": "WITHHELD_NO_REPLACEMENT_CAMPAIGN",
   "open_blockers": [
-    "General p>=7 eta(C_p^3)<=3p^2-4p-3 and actual global composite induction still require complete independent reconstruction; p7 eta<=116 is already CLM-0112. D2 saving and multiwise comparison are NOW proved CLM-0143/0144 and are not blockers.",
-    "Strong b-1 short extraction and exact original BSP2012 omitted rank-three Lem2.3 remain unproved, but neither is required for the repaired S039 weak-coefficient route.",
-    "Psi m2p and higher-layer no-short configurations not eliminated; actual mixed support sandwich has no universally conflicting upper. Gap2p containment can cancel at variable columns; completeness-sensitive obstruction remains.",
-    "Original BSP2007 auxiliary/Sheikh Chapter4, GHST C53 code-output, Yiu complete independent M1 final predicate and historical prime-power/composite proof provenance remain unclosed; no source access upgrade.",
-    "Original five D1 intervals unchanged; no source-authenticated exact new composite theorem or present-day openness determination. CAM-0001 remains blocked by source-stated n6=16."
+    "Rank-three composite equality D(C_n³)=3n-2 remains UNRESOLVED. The exact bare quotient/multiwise induction misses existing n15/20/21/28/30 frontiers by 2/1/2/1/2 even under sharp p2 and SOURCE_STATED p3/p5 formulae. Coupled CRT block/decorated-sum argument or other genuinely stronger global method required.",
+    "Original strong BSP b-1 split/Lemma2.3 exact coefficient unproved and Psi complete-family m2p/higher layer obstruction unresolved, but NOT prerequisites for S039-S040 corrected route.",
+    "Original p3/p5 small-prime multiwise and historical prime-power/composite source proof provenance remains partial; GHST original C53 code/output UNREAD, Sheikh full Chapter4 UNREAD, Yiu complete independent M1 predicate UNAUTHENTICATED.",
+    "Five n<=30 original intervals remain exactly n15 43..45, n20 58..59, n21 61..63, n28 82..83, n30 88..90; cannot infer presently open cases or counterexample. CAM-0001 blocked n6=16."
   ],
   "gate_ledger": "docs/PHASE_GATE_LEDGER.md",
   "source_snapshot": "2026-10-12",
@@ -44,7 +43,9 @@
     "D2<=5p-3 is an odd-prime upper bound, not exact D2, not an all-prime p2 theorem, and not a novel-priority claim. CLM-0142 proves prime D1 only, not original arbitrary p-group source proof.",
     "General eta and composite Davenport equality do not follow from the new multiwise inequality alone. Strong extraction/Psi elimination remain unresolved independently.",
     "Contained-pair six/seven witness results require actual p-gap containment; local countermodels are not complete Z or Davenport candidates. Values versus projective directions remain distinct.",
-    "Missing hosted CI is ABSENT_NOT_PASS; same-executor review is INTERNAL, not external or formal certification."
+    "Missing hosted CI is ABSENT_NOT_PASS; same-executor review is INTERNAL, not external or formal certification.",
+    "S040 eta proof uses global projective line occupancy N>2(pR+1) before plane averaging; original exceptional p7 Lem5.2 is not required for this independent route. This does not prove a new or sharper published eta numerical bound.",
+    "S040 exact bare subgroup gaps 2/1/2/1/2 are method-specific and use SOURCE_STATED p3 Dk/prime-power inputs; they do NOT imply the conjecture fails or upgrade original frontier evidence."
   ],
   "first_interval_requiring_literature_review": 15,
   "owner_action_blockers": [],
@@ -289,5 +290,20 @@
     "owner_blocker": false,
     "historical_dependency_reconciled": "S004 CLM-0068 / S005 sufficient conditional base5p-2 bypass restored and strengthened one position"
   },
-  "current_research_priority": "Hostile reconstruction of S039, general large-prime eta, actual global rank-three induction and next indispensable composite loss; strong Psi extraction is independent, not a prerequisite for the repaired comparison."
+  "current_research_priority": "Hostile reconstruction of S039, general large-prime eta, actual global rank-three induction and next indispensable composite loss; strong Psi extraction is independent, not a prerequisite for the repaired comparison.",
+  "s040_result": {
+    "claims": [
+      "CLM-0148",
+      "CLM-0149",
+      "CLM-0150"
+    ],
+    "eta_all_d_p_ge_7": "PROGRAMME_PROVED_RELATIVE_TO_ALREADY_PROVED_RANK_TWO",
+    "large_k_rank3_bound": "D_k<=pk+p^2-3 for k>=2p-4",
+    "original_p7_lemma_needed": false,
+    "composite_conjecture_resolved": false,
+    "interval_rows_changed": false,
+    "phase1": "IN_PROGRESS",
+    "hosted_ci": "ABSENT_NOT_PASS",
+    "s041": "FUTURE_UNEXECUTED"
+  }
 }

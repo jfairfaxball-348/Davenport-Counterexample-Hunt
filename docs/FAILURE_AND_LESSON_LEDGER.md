@@ -201,3 +201,8 @@ S039 CLM-0142–0144 directly reconstruct prime D1 and prove D2(Cp^3)<=5p-3 for 
 ### S039 dependency-drift correction
 
 The complete claim catalogue must be searched for ALTERNATIVE sufficient routes before declaring a central prerequisite missing. CLM-0068 had a conditional base5p-2 route, despite later repeated M+2 blockers. An inferior recurrence is not a lower bound on the invariant. Current S039 strengthens/restores the bypass; historical records remain unchanged. New geometry bounds continue to be scoped necessary constraints, not fabricated contradictions.
+
+
+| S040 | BSP general eta p7 exceptional proof apparently needed | Original proof proceeds to Lem5.2, but counting all pR+1 projective lines first forces m>=3 because N-2(pR+1)=(p-7)R+2>0, eliminating the m<=2 branch entirely | CLM-0148 proves numerical eta bound without Lem5.2, using already reconstructed rank-two Property C; do not claim new eta upper or priority |
+| S040 | Hope improved large-prime Dk alone resolves composites | Dk<=pk+p²-3 at k=3m-2 still overshoots by p²-2p-1 for p>=7; sharp exact p2 and source-stated p3/p5 multiwise estimates miss the five n<=30 intervals by 1/2 | Coupled CRT lifting, not bare Dk, is central next; zero counterexample/equality claims |
+| S040 | Governance sequence | Formal full preregistration document was reconstructed after initial analysis, though a high-level portfolio was announced to owner before mathematics | Disclose timing honestly; future S041 must fully preregister before any mathematics; no invented earlier manifest hash |

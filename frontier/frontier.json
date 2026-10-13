@@ -836,5 +836,39 @@
     "new_multiwise_theorem": "D2<=5p-3; D_(2p-4)<=M-(p-3)",
     "composite_D1_endpoint_changes": false,
     "modern_openness_asserted": false
+  },
+  "s040_audit": {
+    "date": "2026-10-13",
+    "original_thirty_rows_unchanged": true,
+    "original_order_unchanged": true,
+    "n15_20_21_28_30_no_change": true,
+    "conditional_bare_lifting_gaps": [
+      {
+        "n": 15,
+        "gap": 2
+      },
+      {
+        "n": 20,
+        "gap": 1
+      },
+      {
+        "n": 21,
+        "gap": 2
+      },
+      {
+        "n": 28,
+        "gap": 1
+      },
+      {
+        "n": 30,
+        "gap": 2
+      }
+    ],
+    "claim_ids": [
+      "CLM-0148",
+      "CLM-0149",
+      "CLM-0150"
+    ],
+    "phase": "IN_PROGRESS"
   }
 }

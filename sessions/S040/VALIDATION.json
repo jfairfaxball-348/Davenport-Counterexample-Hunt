@@ -1,0 +1,32 @@
+{
+  "session": "S040",
+  "date": "2026-10-13",
+  "entry_main": "ef982dd532cd5f275d24bdddcddf538b05e04447",
+  "original_frontier_json_rows": 30,
+  "original_frontier_json_row_objects_unchanged": true,
+  "original_frontier_md_table_rows_unchanged": true,
+  "original_source_records": 28,
+  "original_source_objects_and_access_unchanged": true,
+  "previous_claim_count": 147,
+  "new_claims": [
+    "CLM-0148",
+    "CLM-0149",
+    "CLM-0150"
+  ],
+  "new_total_claim_count": 150,
+  "claim_ids_unique": true,
+  "rank_d_eta_proved": true,
+  "original_p7_lemma_required": false,
+  "rank3_large_k_bound": "D_k<=pk+p²-3 k>=2p-4",
+  "composite_conjecture_resolved": false,
+  "composite_exact_new_frontier": false,
+  "math_review": "INTERNAL_SAME_EXECUTOR_ONLY",
+  "novelty_determined": false,
+  "numerical_mathematics_search": false,
+  "hosted_ci": "ABSENT_NOT_PASS",
+  "phase1": "IN_PROGRESS",
+  "detailed_plan_preregistered_before_analysis": false,
+  "canonical_prompt_git_blob_sha": "b100bedec8c142c95c1844121f44ca15373271f8",
+  "raw_owner_chat_sha256": null,
+  "s041_future_unexecuted": true
+}
