@@ -440,3 +440,6 @@ Original28 ordered source records and access/proof statuses unchanged, no source
 
 ## S048 source audit — 13 October 2026
 Original 28 SRC records and access enumerations unchanged. Internal mathematical sequel to S045–S047; original contexts SRC-0008, SRC-0015 and SRC-0023 retained without any access/proof-status promotion. Historical C10 D28, ternary D11/D12 and p5 multiwise upper remain SOURCE_STATED. No new primary proof inspected, no novelty claim.
+
+## S049 original-source provenance audit — 2026-10-13
+All original 28 source records/access statuses untouched. S049 only uses existing SRC-0008 (n15 historical ternary), SRC-0015 (p5 block bounds) and SRC-0023 (C10³ parity context) as CONTEXT: its CLM-0189/0190/0191 proofs are symbolic primary-source-aware internal deductions. Historical D(C10³)=28, ternary D11/D12 and finite p5 upper continue SOURCE_STATED; no new primary PDF proof inspected or novelty claim.

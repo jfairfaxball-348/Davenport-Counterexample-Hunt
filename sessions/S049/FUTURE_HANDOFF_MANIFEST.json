@@ -1,0 +1,9 @@
+{
+  "session": "S049",
+  "next": "S050",
+  "prompt_path": "authoritative/NEXT_SESSION_PROMPT.md",
+  "execution": "FUTURE_UNEXECUTED",
+  "owner_invocation_required": true,
+  "entry_main": "a04d4129cf6f17b6e4f2f98ebadb08aff9053b58",
+  "closeout": "PRECOMMIT outgoing refs intentionally absent"
+}

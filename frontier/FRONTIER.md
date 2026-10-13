@@ -247,3 +247,6 @@ CLM-0181..0184 give scoped n15/n20/p5 indexed inverse/hostile results but NO Dav
 
 ## S048 frontier audit — 13 October 2026
 **ZERO changes to original n=1..30 rows (all 30 preserved).** CLM-0185 proves a scoped n15 six-cap affine C5 inverse exclusion, not D15 exact. CLM-0186/0187 collapse n20 matching 763 labels to 127 even subsets and exhibit an eight-distinct-original-point nondegenerate hostile family passing all 127, not D20 exact. CLM-0188 exhibits ONE changed-total maximal p5 CRT chain with full 63/511 subset constraints met, not a full G lift. Phase1 IN_PROGRESS; no numeric theorem, candidate, campaign, CI PASS or source promotion.
+
+## S049 audit — original frontier preserved
+S049 CLM-0189 excludes a narrow n20 hostile completion, CLM-0190 extends p5 two-chain countermodel, CLM-0191 computes an n15 affine E(P11) example. NONE changes any n1..30 numeric/evidence row or resolves a composite target; all original 30 ordered frontier rows remain unchanged. Phase1 IN_PROGRESS, next S050 future-only, original 28 sources unchanged and CAM-0001 blocked.

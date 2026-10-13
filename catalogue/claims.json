@@ -2018,6 +2018,39 @@
         "SRC-0015"
       ],
       "notes": "S048 bounded original-index symbolic proof, same-executor INTERNAL hostile review only; source-stated dependencies not upgraded; no full composite equality or G counterexample/novelty claim."
+    },
+    {
+      "id": "CLM-0189",
+      "statement": "In a hypothetical minimally-zero 59-index C20³ augmented sequence with 22 parity-pair H=C10³ decorations U22=f1^9 f2^9 f3^4, eight other original points gi=G_f3+2di (di∈span(f1,f2)) and the remaining seven singletons in all seven nonzero F2³ parity classes, no choice of singleton original lifts is compatible: all seven Fano lines and their complementary caps C require h_C,h_C+v_all∈E(U22), forcing third(h_C)=1. Then third(h_all)=2 by complements, while seven line sums=3h_all gives7=6 mod10, impossible. Genuine proper original-index subsets; only this specified U22/eight-point family, no global n20 theorem.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S049_N20_FANO_CODEWORD_EXCLUSION.md",
+      "source_ids": [
+        "SRC-0023"
+      ],
+      "notes": "S049 symbolic original-index internal proof, no composite Davenport equality/candidate/priority claim, D(C10³)=28 remains SOURCE_STATED."
+    },
+    {
+      "id": "CLM-0190",
+      "statement": "For exact target A_k' length 5k+8, H=C3³ (k7) or C4³ (k10), a single honest original-index decoration supports TWO maximal ordered chains differing at selected first f2 pure-block X point H=0 versus H=f3; every prefix r=1..k-2 yields full OLD and both NEW k-1 H-block lists zero-sumfree, with Δ=-f2≠0. The new individual beta decorations genuinely differ but some subset tests duplicate; other choices and all-index Gzero-free remain open.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S049_P5_TWO_CHAIN_PREFIX_HOSTILE.md",
+      "source_ids": [
+        "SRC-0015"
+      ],
+      "notes": "Internal symbolic same-executor review only; not full G sequence, no computational search."
+    },
+    {
+      "id": "CLM-0191",
+      "statement": "The eleven-term P=e1^3 e2^3 e3^3(e1+e2)(e1+e3) in C5³ is zero-sumfree and E(P) is exactly {(0,1,0),(0,0,1),(4,1,1),(1,0,0)}⊂{x+y+z=1}, strictly smaller than the 25-point nonzero affine hyperplane. This exact example neither proves nor disproves the universal 11-term affine inverse.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S049_N15_NEARMAX_EXTENSION_CASE.md",
+      "source_ids": [
+        "SRC-0008"
+      ],
+      "notes": "Exact hand rectangle proof; no general classification or n15 composite equality."
     }
   ]
 }

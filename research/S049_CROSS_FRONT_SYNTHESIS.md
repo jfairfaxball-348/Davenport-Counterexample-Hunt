@@ -1,0 +1,10 @@
+# S049 — cross-front synthesis and gate
+One explicit owner-invoked 13 October 2026 Phase1 symbolic session. Three INTERNALLY proved SCOPED results CLM-0189..0191.
+
+**B (new main advance):** CLM-0189 gives a genuine indexed original C20 cross-parity obstruction. Pair-core U22=f1⁹f2⁹f3⁴ and eight selected same-parity original gi=G_f3+2di cannot be embedded in a minimally zero augmented T59 with seven singleton representatives of the nonzero parity classes. For each of 7 Fano lines and 7 complementary caps, two proper indexed G-subset extension tests force third H coordinate1. Complement pairs imply total singleton third2, while each singleton lies on 3 lines: 7=3·2=6 in Z10, impossible. This **kills S048 CLM-0187 as a full candidate**, not the global n20 problem or other U cores.
+
+**C:** CLM-0190 constructs two honestly distinct, different-H-label original selected-index CRT changing-total chains (choice0 versus f3 in the first pure f2 block), each surviving ALL prefix lengths r=1..k-2 in the target-sized A_k', for H=C3³ or C4³. OLD and both NEW entire k-1 H block sets are zero-free, Δ=-f2≠0; some tests duplicate but two individual β values differ. Other chains, other original points and full G zero-free remain open.
+
+**A:** CLM-0191 supplies exact hand enumeration for length11 C5³ zero-free P=e1³e2³e3³(e1+e2)(e1+e3); its extension set has exactly four values contained in ℓ=sum=1, not a full hyperplane. Neither proves nor disproves that EVERY P11 with nonempty E admits a nonzero affine character; broad six-cap re-strippings and >=7 support also remain open.
+
+No D(C15³)=43 / D(C20³)=58 proof, no certified 43/58-term zero-free sequence, source priority upgrade, novelty, computational mathematics, CAS/SAT/ILP, Lean/Palomar or campaign. Original 30 frontier rows and 28 source records preserved; source-stated C10 D28, ternary D11/D12, p5 upper unchanged. Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 BLOCKED; CI ABSENT_NOT_PASS; branch protection UNKNOWN_403. All proofs reviewed only by same executor.
