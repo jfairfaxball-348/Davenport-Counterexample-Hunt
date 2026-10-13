@@ -257,3 +257,13 @@ One explicitly owner-invoked symbolic Phase1 session against live merge-main 96f
 3. CLM-0187 exhibits eight distinct same-parity original C20 points and nonzero two-dimensional pair exchanges passing all 127 constraints. Matching-only H inverse cannot force exclusion; extending to 58-position six-odd parity bookkeeping does NOT certify G-zero-sumfreeness or all Fano patterns.
 4. CLM-0188 shows one full r=t chain's 63/511 nonempty E tests may all hold despite Δ≠0; global all-index/all-chain impossibility remains open, and fixed chosen selected positions are NOT an exhaustive family.
 5. Written preregistration was composed after informal mathematical deductions. No false claim of Git-timestamped A+B+C preregistration before proof; raw owner-chat SHA unknown. Review INTERNAL only, hosted CI ABSENT_NOT_PASS.
+
+## S049 — 13 October 2026
+| Front | Tempting inference | Proper outcome / correction |
+|---|---|---|
+| n20 | S048's 127 even-subset hostile is compatible with all seven other parity singleton representatives | **FALSE for that exact U22:** CLM-0189 Fano-line/cap indexed cross-class tests contradict 7=6 mod10; do not falsely conclude all n20 cores excluded |
+| n20 | Full-set membership for all 7 singletons + all8 points + all22 pairs is forbidden | **INVALID:** that is the WHOLE 59-point T and total-zero is allowed. CLM-0189 uses only proper size<=56 line/cap subsets |
+| n15 | E(P11) inside an affine plane means E(P11) equals the entire plane | **FALSE:** CLM-0191 has exactly four extenders; general affine containment still OPEN |
+| p5 | TWO different selected X labels or all prefix chain sizes force immediate H cancellation | **FALSE** on CLM-0190's two-chain family. Some tests differ but joint totals duplicate; other positions/order/D or q might yet obstruct |
+| Governance | Git PLAN is timestamped BEFORE deduction | **FALSE:** visible plan preceded math, final Git PLAN did not. Original30/28 preserved, no hosted CI PASS |
+

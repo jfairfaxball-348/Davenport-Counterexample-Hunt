@@ -1,0 +1,13 @@
+{
+  "session": "S049",
+  "entry_main": "a04d4129cf6f17b6e4f2f98ebadb08aff9053b58",
+  "remote_prompt": "authoritative/NEXT_SESSION_PROMPT.md at entry main a04d4129cf6f17b6e4f2f98ebadb08aff9053b58",
+  "remote_prompt_blob_sha": "7579cdcbfba3dd80083ea25d8b9321dfd349fc2b",
+  "archive": "sessions/S049/INPUT.md",
+  "owner_invocation": "sessions/S049/OWNER_INVOCATION.md",
+  "raw_owner_chat_sha256": null,
+  "visible_plan_prior_to_deduction": true,
+  "Git_preregistration_pre_math": false,
+  "timing_note": "Visible plan and original prompt read before proof. In-Git PLAN created after informal mathematical deductions; no earlier Git timestamp claimed.",
+  "prohibited_methods_respected": true
+}

@@ -1036,5 +1036,22 @@
     "n20_matches": "763_LABELS_TO_127_EVEN_SUBSETS; HOSTILE_ALL_PASS",
     "p5_maximal_chain": "HOSTILE_ONE_CHAIN_NONZERO_DELTA",
     "ci": "ABSENT_NOT_PASS"
+  },
+  "s049_audit": {
+    "session": "S049",
+    "new_claims": [
+      "CLM-0189",
+      "CLM-0190",
+      "CLM-0191"
+    ],
+    "original_rows_preserved": true,
+    "unchanged_numeric_frontier": true,
+    "n15_resolved": false,
+    "n20_resolved": false,
+    "candidate": false,
+    "phase1": "IN_PROGRESS",
+    "CI": "ABSENT_NOT_PASS",
+    "source_records": 28,
+    "campaign": "CAM-0001 BLOCKED"
   }
 }
