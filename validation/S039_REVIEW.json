@@ -1,0 +1,17 @@
+{
+  "session": "S039",
+  "kind": "INTERNAL_SYMBOLIC_SAME_EXECUTOR",
+  "proofs": [
+    "CLM-0142",
+    "CLM-0143",
+    "CLM-0144",
+    "CLM-0145",
+    "CLM-0146",
+    "CLM-0147"
+  ],
+  "verdict": "PASS_WITH_EXPLICIT_SCOPE",
+  "review": "sessions/S039/REVIEW.md",
+  "external_review": false,
+  "formal_certification": false,
+  "hosted_ci_pass": false
+}

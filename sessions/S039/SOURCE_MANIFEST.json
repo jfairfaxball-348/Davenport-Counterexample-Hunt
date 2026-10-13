@@ -1,0 +1,33 @@
+{
+  "session": "S039",
+  "reviewed": [
+    {
+      "id": "SRC-0021",
+      "access": "PROOF_INSPECTED existing",
+      "url": "https://pro.univ-lille.fr/fileadmin/user_upload/pages_pros/gautami_bhowmik/Publications/large_exponent.pdf",
+      "observed": "Fresh original primary PDF text pp22-24 and p23 image; weak extraction/stronger gap/omitted rank3 proof not upgraded"
+    },
+    {
+      "name": "Olson original arbitrary p-group proof",
+      "newly_authenticated": false,
+      "note": "Prime statement independently reconstructed internally, source record not changed"
+    },
+    {
+      "name": "Sheikh full Chapter4",
+      "access": "UNREAD"
+    },
+    {
+      "name": "GHST C53 original complete code/output",
+      "access": "UNREAD_NEVER_RUN"
+    },
+    {
+      "id": "SRC-0015",
+      "note": "Existing source access unchanged; independent complete final M1 predicate unauthenticated, M2/M3 separate"
+    }
+  ],
+  "new_source_records": 0,
+  "source_access_enum_changes": 0,
+  "source_objects_unchanged": true,
+  "author_code_executed": false,
+  "novelty_or_priority_claim": false
+}

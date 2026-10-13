@@ -1,0 +1,21 @@
+# S039 preregistered sustained portfolio
+
+Entry main 99018af95fe5dd35a915cf5171a40aa0bc86a5e0. S038 reconciliation and PR39 handoff-only intervention completed before writing; S039 unused, no open PR or competing execution branch, Phase1 IN_PROGRESS. Symbolic mathematics only; no instance search, CAS, solver, campaign, author code, formalisation or external contact.
+
+A1: derive an actual-Z support upper from light dual fibres, including multiplicity-sensitive mixed-edge capacity and finite-field cancellation. A2: combine four-index coefficient exchange with the mixed-pair incidence demands; test whether linear dependence gives forbidden binary zero sums. An upper must count the same quantity as its lower; test h0/h1 fibres and boundary values before accepting it.
+
+B1: analyse twins and strict containment jointly across the complete b-block incidence matrix. Use zero row sums and row differences; test any claim turning signed dependencies into 0/1 dependencies in reverse. B2: exploit distinct equal-weight rows as an affine code, with minimum trade size, repeated-vector swaps and rank-three restrictions; then feed usable constraints into A. Do not stop at a support lemma.
+
+C1: derive higher-layer codegree intervals, level census and level-gap containments for all k>=3. C2: attempt an elimination of k3 extreme levels via jointly nested neighbourhoods, then test whether m2p support conclusions generalise or fail through modular cancellation. Record exact obstruction if no reduction closes.
+
+D1: independently attempt D2<=6p-6 using a minimal zero block and a zero-sumfree remainder, then two/three-polynomial deletion or group algebra. D2: derive the exact conditional extension criterion and propagate a legitimate D2 saving through the S025 recurrence, testing every maximum and base case. Inspect original SRC-0021 pp22-24 read-only; never import its omitted proof.
+
+All four fronts will be attempted; at least one A+B or B+C synthesis and one independent D endpoint test required. For each front: first try strongest candidate implication, reconstruct hostile reverse direction, retain only proved statement, and make one distinct follow-up attack. Stop after these registered paths are exhausted with explicit residual dependencies, or after a complete endpoint with hostile validation; no first-lemma stop. Sanity checks both signs p7/p13, b versus b+1, indexed multiplicities, field versus integer arithmetic, all four-index exclusions, GL3 covariance, scalar/vector/star moments. Same-executor INTERNAL review, not external certification. Future S040 only.
+
+## Tactical update after first independent D attack
+
+The four-polynomial p-multiple zero-sum argument first gives D2<=5p-2. Rather than stopping, test the next shorter length by lifting the CW congruence from 4p-3 to 5p-3; this is a materially different counting step. Also reconstruct the exact prime rank-three D1 premise directly by three-polynomial CW so the new result does not depend on an unreconstructed historical proof. Continue all A/B/C targets despite a D endpoint. Later test 5p-4 to locate the first failed extension. B local equal-sum anti-concentration will be tested jointly with the three-direction condition, and C extreme-adjacent cuts with complete degree census, then feed them into A's genuinely counted upper.
+
+## Final portfolio outcomes
+
+All A/B/C/D attempted and composed. D strengthened the initial5p-2 base to5p-3 and repaired the downstream comparison with slackp-3, independently reconstructing prime D1. Next-shorter5p-4 lift failed at zero coefficients; no optimality assertion. A+B yielded equal-sum row refinement, matching mixed upper/lower quantities and local reverse tests; no universal conflicting capacity. B+C yielded >=5 VALUES and all-layer boundary-adjacent cuts, with explicit k3 escape censuses and failed elimination routes. Historical CLM-0068 conditional bypass was recovered; current dependency graph corrected rather than falsely declaring that bypass newly discovered. Full details in SUBPROBLEM_LEDGER and both research dossiers. Separate INTERNAL hostile reconstruction passed within scope; no external or formal review. Numbered S040 was only prepared, not executed.

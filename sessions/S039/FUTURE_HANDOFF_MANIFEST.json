@@ -1,0 +1,8 @@
+{
+  "session": "S040",
+  "status": "FUTURE_UNEXECUTED",
+  "path": "authoritative/NEXT_SESSION_PROMPT.md",
+  "bytes": 10721,
+  "sha256": "d3eb078f523fb2d9e2c9fe053a7469860f279ce6e54dae633f0cc68e85a74319",
+  "embedded_in": "sessions/S039/CLOSEOUT.md"
+}
