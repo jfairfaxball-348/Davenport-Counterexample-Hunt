@@ -1,0 +1,6 @@
+# S052 execution plan and chronology — 13 October 2026
+VISIBLE initial plan communicated to owner BEFORE mathematical work: read live authoritative prompt/repository, reconcile S051, attack main arbitrary-U22 Fano affine obstruction; then C5³ universal inverse and CRT original-index choices; closeout with accurate claims. Planned permitted work: original-index symbolic hand proofs with hostile consistency checks and direct previously inspected source context, Phase1 only. Stop after one S052; no future S053 execution, no computational mathematical search, CAS/SAT/ILP, Lean/Palomar, campaigns or publication.
+
+The visible pre-math plan precedes proofs; this **committed Git PLAN was authored AFTER the proofs**. Hence Git-timestamped preregistration before proofs = FALSE, not misleadingly true.
+
+Methods completed: four-nonincident-line parity Fano incidence and E/W complement symmetry; a second eleven-term C5 index-box argument; original CRT H-block coordinate proofs for three d and two q labels in one fixed decorated family. Stopping rule: write only fully justified scoped results; leave original global D15/D20 headline unresolved if no universal contradiction/certified original-index lift.

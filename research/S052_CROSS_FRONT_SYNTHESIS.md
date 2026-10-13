@@ -1,0 +1,10 @@
+# S052 — cross-front synthesis and non-closure
+13 October 2026. Exactly one fresh owner-invoked symbolic Phase1 session under entry main fe648adb3416348762cea40147299400429d8f70.
+
+**B lead CLM-0198:** for the exact original-index 22-pair +8 original same-parity +7 Fano-singleton T59, the intersection kernel K across ALL even-index subsets is not merely integer-affine-through-zero (S051): π(K) must affinely span all F2³; all seven nonzero q appear as sums of four COHERENT Fano line values in K; Σ_L π(h_L)⊗ℓ_L=I. Reflection K=hV−K forces >=4 parity residues if πhV=0 and >=6 otherwise. Still not a universal impossibility of arbitrary U22 or the surviving three profiles.
+
+**A CLM-0199:** another genuinely different six-support C5³ length11 zero-free P has exact four extenders in nonzero affine fibre x+y+2z=1. Universal all-P11 inverse remains open, as do the all-original-index six-cap transfers and E empty/zero-fibre/nonaffine tests.
+
+**C CLM-0200:** expand the fixed A'_k decoration to all 3 original d and 2 original q choices and any ordering of the remaining pure blocks, with the distinguished P* first and later selected zeros. Of 30 labelled first-X d/q choices, 24 pass all selected chain prefixes, six fail; duplicate H tests are explicit; some Δ=0, some Δ=−f2. NOT global original-index CRT exclusion, not a G candidate.
+
+**Headline unchanged:** neither D(C15³)=43 nor D(C20³)=58 proved, no genuine zero-sumfree original length43/58 composite witness or certification, no historical source proof inspection or new priority assertion. SOURCE_STATED C10/ternary/p5 inputs retain original access classes. Original 30 ordered frontier row objects and original 28 SRC objects untouched; claims 197→200; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 BLOCKED. Hosted CI ABSENT_NOT_PASS, same-executor proof check INTERNAL ONLY.

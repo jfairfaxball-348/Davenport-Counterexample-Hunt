@@ -1,0 +1,12 @@
+{
+  "session": "S052",
+  "entry_main": "fe648adb3416348762cea40147299400429d8f70",
+  "prompt_path": "sessions/S052/INPUT.md",
+  "prompt_blob_sha_at_entry": "cb4eb8f452317eac0786b22d94bb4c41297ad84a",
+  "invocation_path": "sessions/S052/OWNER_INVOCATION.md",
+  "raw_owner_sha256": "822ea2e41516ebdf07062f7a111d917cae966ea21e2d14cd1b10f1a8ff79830f",
+  "raw_owner_sha_format": "UTF-8 visible message, no terminal newline",
+  "raw_prompt_archived": true,
+  "git_timestamped_preregistration_pre_math": false,
+  "visible_upfront_plan": true
+}

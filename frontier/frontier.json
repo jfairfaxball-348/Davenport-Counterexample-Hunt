@@ -1077,5 +1077,22 @@
     "phase1": "IN_PROGRESS",
     "campaign": "CAM-0001 NOT_RUNNING BLOCKED",
     "hosted_ci": "ABSENT_NOT_PASS"
+  },
+  "s052_audit": {
+    "date": "2026-10-13",
+    "original30_row_objects_unchanged": true,
+    "new_exact_value": null,
+    "new_upper_bound": null,
+    "n15_resolved": false,
+    "n20_resolved": false,
+    "source_records_preserved": 28,
+    "claims": [
+      "CLM-0198",
+      "CLM-0199",
+      "CLM-0200"
+    ],
+    "phase1": "IN_PROGRESS",
+    "campaign": "CAM-0001 PROPOSED NOT_RUNNING BLOCKED",
+    "hosted_ci": "ABSENT_NOT_PASS"
   }
 }
