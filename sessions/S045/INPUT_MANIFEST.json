@@ -1,0 +1,10 @@
+{
+  "session": "S045",
+  "source": "authoritative/NEXT_SESSION_PROMPT.md on entry main",
+  "source_git_blob_sha": "175b182faac474e2ff1f768c6dc3256cd428ad09",
+  "archived_path": "sessions/S045/INPUT.md",
+  "owner_invocation_path": "sessions/S045/OWNER_INVOCATION.md",
+  "raw_chat_sha256": null,
+  "reason": "No byte-level raw chat hash; the Github prompt bytes are captured as file content, with original blob SHA preserved.",
+  "entry_main": "96f731120ac1a61892104604c1280cb99fdd3c0c"
+}
