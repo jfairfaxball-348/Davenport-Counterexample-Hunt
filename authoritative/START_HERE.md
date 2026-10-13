@@ -1,3 +1,9 @@
+# S043 CURRENT AUTHORITY — 2026-10-13
+
+S043 CLM-0164..0167: eligible n20 Fano P26 mod2 profiles only (0,4),(0,6),(1,7); six C20 singleton lifts REALISE exact four-class K4 compatibility without P26; conditional indexed CRT exchange gate |B_i|+|L|≤19 from source-stated p5 D2=20; n15 every-y anchored 13-block augmented partition from source-stated ternary D12=42. No n15/n20 equality or candidate. Source-stated upper/diagram gaps remain, Phase1 IN_PROGRESS, CAM-0001 BLOCKED n6=16, hosted CI ABSENT_NOT_PASS. Original30 frontier rows and original28 sources unchanged; S044 FUTURE.
+
+Four rigorous but scoped INTERNAL research dossiers and hostile review in research/S043_* and sessions/S043. Older dated current labels below are HISTORICAL; the next session S044 requires one NEW invocation and is UNEXECUTED.
+
 # S042 current authority — 2026-10-13
 
 Six new scoped internal CLM-0158..0163: CORRECTED NON-SPLIT twisted Fano K4 six-edge congruences and necessary full affine span of E(P) mod2 for a hypothetical n20 canonical P26 (the naive '0 or seven nonzero classes' conclusion was **RETRACTED**, not a theorem); independent sharp p5 generalized Davenport **LOWER** Dk(C5³)>=5k+10 and explicit local 28/29 critical cores; SOURCE_STATED-conditional maximal CRT zero-sumfree kernel decorations saturate all H subset sums while leftover L<=12; exact 17-plane rectangle E(P) character exclusion; SOURCE_STATED-conditional n15 ternary projected support<=14. None proves D(C15³)=43, D(C20³)=58 or a 3n−2 counterexample. Original 30 frontier JSON row objects and full ordered Markdown table rows and original 28 source records unchanged. Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, CAM-0001 PROPOSED/NOT_RUNNING/BLOCKED n6=16, hosted CI ABSENT_NOT_PASS. See all S042 research papers and INTERNAL hostile review. S043 is STRICTLY FUTURE, UNEXECUTED, requires new owner invocation. Older dated "current" summaries below are historical snapshots.

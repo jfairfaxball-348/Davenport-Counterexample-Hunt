@@ -921,5 +921,29 @@
     "campaign": "CAM-0001 PROPOSED/NOT_RUNNING/BLOCKED n6=16",
     "hosted_ci": "ABSENT_NOT_PASS",
     "invalid_naive_fano_parity_claim": "RETRACTED"
+  },
+  "s043_audit": {
+    "session": "S043",
+    "date": "2026-10-13",
+    "original30_row_objects_unchanged": true,
+    "original_ordered_markdown_table_rows_unchanged": true,
+    "original28_sources_unchanged": true,
+    "new_claim_ids": [
+      "CLM-0164",
+      "CLM-0165",
+      "CLM-0166",
+      "CLM-0167"
+    ],
+    "exact_n15_n20": false,
+    "intervals_unchanged": [
+      15,
+      20,
+      21,
+      28,
+      30
+    ],
+    "phase": "IN_PROGRESS",
+    "campaign": "CAM-0001 BLOCKED n6=16",
+    "hosted_ci": "ABSENT_NOT_PASS"
   }
 }

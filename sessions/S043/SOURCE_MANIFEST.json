@@ -1,0 +1,16 @@
+{
+  "session": "S043",
+  "original_source_objects": 28,
+  "objects_and_access_unchanged": true,
+  "source_reliance": {
+    "n15_ternary_D12_42": "SOURCE_STATED BSP2007 SRC-0008",
+    "p5_D1_13": "PROGRAMME_PROVED S039 CLM-0142",
+    "p5_D2_20": "SOURCE_STATED Yiu general upper (independent finite predicate NOT authenticated)",
+    "eta_C5_33": "SOURCE_STATED",
+    "historical_D_C10_28": "SOURCE_STATED"
+  },
+  "new_original_proof_authentications": 0,
+  "author_code_executed": false,
+  "external_contacts": false,
+  "source_scope": "Existing original-primary-source provenance files read, historical finite checks and full diagram inverse still unverified"
+}

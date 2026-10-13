@@ -428,3 +428,9 @@ Definitive SRC-0021 publisher-author offprint printed pp22-24 and p23 image read
 ## S042 original-primary-source scoped provenance (no access upgrade)
 
 28 original SRC-0001..SRC-0028 objects and access enum unchanged. The S042 hand proofs use original-primary-source claims already inspected in S004/S005/S041 and programme-proved prime/linear algebra; no additional original source copied, authenticated, or author code executed. BSP2007 complete ternary 44-term extremal diagrams, Yiu2026 final independent C5³ multiwise upper predicate and GHST/BSP η(C5³)<=33 finite proofs still SOURCE_STATED (independent finite output not inspected). S042's independently proved lower Dk(C5³)>=5k+10 is NOT an authentication of Yiu's upper. Historical D(C10³)=28,D(C6³)=16 and original 30 frontier intervals unchanged. No new external contact, latest exact values or present-day openness claim.
+
+## S043 source-provenance audit (no access upgrade) — 2026-10-13
+
+S043 CLM-0164..0167: eligible n20 Fano P26 mod2 profiles only (0,4),(0,6),(1,7); six C20 singleton lifts REALISE exact four-class K4 compatibility without P26; conditional indexed CRT exchange gate |B_i|+|L|≤19 from source-stated p5 D2=20; n15 every-y anchored 13-block augmented partition from source-stated ternary D12=42. No n15/n20 equality or candidate. Source-stated upper/diagram gaps remain, Phase1 IN_PROGRESS, CAM-0001 BLOCKED n6=16, hosted CI ABSENT_NOT_PASS. Original30 frontier rows and original28 sources unchanged; S044 FUTURE.
+
+No new source record or original access-class change. S043 anchored partition uses BSP2007 D12(C3³)=42 only SOURCE_STATED; does NOT claim full diagram reconstruction. Local CRT |B_i|+|L|≤19 uses Yiu D2(C5³)=20 SOURCE_STATED and unauthenticated finite predicate. Exact prime D(C5³)=13 is internally proved S039. Original 28 source objects/access preserved, no third-party contact or historical code execution.
