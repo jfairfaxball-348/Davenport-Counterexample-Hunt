@@ -2084,6 +2084,39 @@
         "SRC-0015"
       ],
       "notes": "One newly incompatible original index; no all-index or full-classification claim."
+    },
+    {
+      "id": "CLM-0195",
+      "statement": "For arbitrary U22 in H=C10³ from 22 original disjoint parity-zero C20 pairs in a hypothetical minimally zero T59 with eight same-parity original indices and seven nonzero parity singleton representatives, let W be all even original-eight subset H sums and K=intersection_{w∈W}(E(U)-w). Necessarily K nonempty and 0∈aff_Z(K), in particular 0∈aff_Z(E(U)∩(E(U)-v)). If φ(E(U))⊆{1,2,3,4,5} in Z10 and φ(v)=4 or6, no such T59 exists; all arbitrary-core classifications remain open.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S051_GENERAL_FANO_AFFINE_HULL.md",
+      "source_ids": [
+        "SRC-0023"
+      ],
+      "notes": "Direct original-index Fano integer-affine identity; necessary arbitrary-core test only, no C20 equality."
+    },
+    {
+      "id": "CLM-0196",
+      "statement": "P=e1³e2³e3²(e1+e3)(e2+e3)(e1+e2+4e3) is eleven-term zero-free in C5³, with six support types and exact nine-point extension set E(P)={(x,y,1):x=0 or y=0}, a union of two lines in nonzero affine plane z=1; universal P11 inverse remains open.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S051_C5_E_NINEPOINT.md",
+      "source_ids": [
+        "SRC-0008"
+      ],
+      "notes": "Hand coordinate and 5×5 residue-interval coverage; not a composite case or inverse theorem."
+    },
+    {
+      "id": "CLM-0197",
+      "statement": "For fixed S049/S050 CRT m3/m4 A'_k first f2 pure-block indexed decoration (0,f3,f2−f3,0,0), all FIVE first original-X choices are exactly classified: three h0 and one hf3 pass all selected zero-label continuation prefixes (three duplicate H tests); the one h=f2−f3 fails at r1. This is not all-order/d/q/global G classification.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S051_CRT_ALL_FIVE_CHOICES.md",
+      "source_ids": [
+        "SRC-0015"
+      ],
+      "notes": "Original indexed 3+1+1 census for fixed chain; one failure inherited from S050 with complete distinct-label accounting."
     }
   ]
 }

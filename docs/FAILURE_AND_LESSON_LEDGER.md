@@ -274,3 +274,11 @@ One explicitly owner-invoked symbolic Phase1 session against live merge-main 96f
 4. The affine inverse family P_t is four examples, NOT a proof for arbitrary support, E empty/λ0, or all six-cap re-strippings.
 5. Third original CRT index failure does NOT eliminate the two original choices that S049 proved prefix-compatible; one obstruction is not full all-index elimination.
 6. PRECOMMIT closeout cannot truthfully assert outgoing branch/PR/merge SHAs; independently verify them externally after integration.
+
+## S051 precision traps — 13 October 2026
+1. **INVALID:** K_v=E(U)∩(E(U)-v) is automatically a nonzero affine coset for every zero-free U22. S051 only proves 0∈aff_Z(K_v) NECESSARY; arbitrary-core K may generate H and pass it. The five-residue corollary REQUIRES φ(E(U))⊆{1,..,5} and φ(v)=4 or6.
+2. **INVALID:** Fourteen Fano codewords impose fourteen independent conditions. They obey h_L+h_cap=hV and ∑seven h_L=3hV; the integer-affine identity uses coefficient sum ONE, not an independent-rank count.
+3. **INVALID:** E(P11) with 9 elements is nonaffine. Its two lines are within the NONZERO affine plane z=1; universal inverse and all six-cap re-strippings remain unproved.
+4. **INVALID:** Five original CRT indices equal five independent H tests. Three original X positions have h=0, hence duplicate decoration constraints; one label fails r1, so even four passes do NOT provide a full zero-free G lift.
+5. No full-T E(U) properness test; cap+8+allpairs max56<59. Non-split C20 doubling iota only applied to parity-zero sums. No CAS, numerical mathematical search or external review.
+6. Git prereg before proof is FALSE, visible plan preceded work. Never present absent hosted checks as CI success; 403 protection remains UNKNOWN.
