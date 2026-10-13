@@ -24,17 +24,18 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S040",
-  "recommended_next_session": "S041",
+  "last_completed_session": "S041",
+  "recommended_next_session": "S042",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": null,
   "phase1_target_status": "WITHHELD_NO_REPLACEMENT_CAMPAIGN",
   "open_blockers": [
-    "Rank-three composite equality D(C_n³)=3n-2 remains UNRESOLVED. The exact bare quotient/multiwise induction misses existing n15/20/21/28/30 frontiers by 2/1/2/1/2 even under sharp p2 and SOURCE_STATED p3/p5 formulae. Coupled CRT block/decorated-sum argument or other genuinely stronger global method required.",
-    "Original strong BSP b-1 split/Lemma2.3 exact coefficient unproved and Psi complete-family m2p/higher layer obstruction unresolved, but NOT prerequisites for S039-S040 corrected route.",
-    "Original p3/p5 small-prime multiwise and historical prime-power/composite source proof provenance remains partial; GHST original C53 code/output UNREAD, Sheikh full Chapter4 UNREAD, Yiu complete independent M1 predicate UNAUTHENTICATED.",
-    "Five n<=30 original intervals remain exactly n15 43..45, n20 58..59, n21 61..63, n28 82..83, n30 88..90; cannot infer presently open cases or counterexample. CAM-0001 blocked n6=16."
+    "Direct targets D(C15³)=43 and D(C20³)=58 remain unresolved. Fano 4E(P)∩3E(P) obstruction (n20) and conditional common 28/29-term C5³ critical core (n15,n20,n30) are not excluded universally. An inverse/coupled-lifting theorem is still missing.",
+    "Universal 18-in-primitive-plane saturation for length26 zero-sumfree P⊂C10³ is FALSE (CLM-0154). Character confinement for all eligible P remains unproved.",
+    "Prime-five D_j=5j+10 and η(C5³)<=33 include original/source-stated computational inputs not independently verified. Ternary BSP 44-term inverse remains diagram-dependent SOURCE_STATED, and historical C10/C14/C6 exact literature source classes remain unchanged.",
+    "Strong BSP b-1 splitting and Psi higher layers unresolved, not a necessary premise for S040 prime large-k comparison. GHST original C53 full code/output UNREAD, Sheikh complete Chapter4 UNREAD, Yiu complete independent final-predicate authentication unclosed.",
+    "Original n1..30 five frontier intervals unchanged, CAM-0001 activation blocked n6=16, Phase1 not passed."
   ],
   "gate_ledger": "docs/PHASE_GATE_LEDGER.md",
   "source_snapshot": "2026-10-12",
@@ -45,7 +46,9 @@
     "Contained-pair six/seven witness results require actual p-gap containment; local countermodels are not complete Z or Davenport candidates. Values versus projective directions remain distinct.",
     "Missing hosted CI is ABSENT_NOT_PASS; same-executor review is INTERNAL, not external or formal certification.",
     "S040 eta proof uses global projective line occupancy N>2(pR+1) before plane averaging; original exceptional p7 Lem5.2 is not required for this independent route. This does not prove a new or sharper published eta numerical bound.",
-    "S040 exact bare subgroup gaps 2/1/2/1/2 are method-specific and use SOURCE_STATED p3 Dk/prime-power inputs; they do NOT imply the conjecture fails or upgrade original frontier evidence."
+    "S040 exact bare subgroup gaps 2/1/2/1/2 are method-specific and use SOURCE_STATED p3 Dk/prime-power inputs; they do NOT imply the conjecture fails or upgrade original frontier evidence.",
+    "S041 CLM-0156 is a mathematically proved conditional implication relying on SOURCE_STATED Yiu Dk(C5³) and η(C5³), not an unconditional independent proof of those source inputs.",
+    "S041 explicit rank-three C4 multiwise lower D_k>=4k+8 independently rules out bare mod4 D13<=58 and DOES NOT constitute C20³ Davenport counterexample."
   ],
   "first_interval_requiring_literature_review": 15,
   "owner_action_blockers": [],
@@ -305,5 +308,27 @@
     "phase1": "IN_PROGRESS",
     "hosted_ci": "ABSENT_NOT_PASS",
     "s041": "FUTURE_UNEXECUTED"
+  },
+  "s041_result": {
+    "claim_ids": [
+      "CLM-0151",
+      "CLM-0152",
+      "CLM-0153",
+      "CLM-0154",
+      "CLM-0155",
+      "CLM-0156",
+      "CLM-0157"
+    ],
+    "direct_n15_resolved": false,
+    "direct_n20_resolved": false,
+    "phase1": "IN_PROGRESS",
+    "common_p5_core": "28_OR_29_CONDITIONAL_SOURCE_INPUTS",
+    "fano_barrier": "NECESSARY_NOT_SUFFICIENT",
+    "c4_lower": "INTERNAL_PROVED_Dk>=4k+8",
+    "universal_plane_saturation": "REFUTED_BY_EXPLICIT_P26",
+    "original_frontier_rows_unchanged": 30,
+    "original_source_objects_unchanged": 28,
+    "s042": "FUTURE_UNEXECUTED",
+    "hosted_ci": "ABSENT_NOT_PASS"
   }
 }

@@ -1,0 +1,33 @@
+{
+  "session": "S041",
+  "entry_main": "ee62c53447ed8112e9cb24fc46cdc673ceb00e85",
+  "old_claims": 150,
+  "new_claim_ids": [
+    "CLM-0151",
+    "CLM-0152",
+    "CLM-0153",
+    "CLM-0154",
+    "CLM-0155",
+    "CLM-0156",
+    "CLM-0157"
+  ],
+  "expected_total_claims": 157,
+  "unique_claim_ids": true,
+  "original_frontier_rows": 30,
+  "original_frontier_objects_unchanged": true,
+  "original_frontier_markdown_row_text_unchanged": true,
+  "original_source_objects_unchanged": 28,
+  "hosted_ci": "ABSENT_NOT_PASS",
+  "math_review": "SAME_EXECUTOR_INTERNAL",
+  "p5_core": "CONDITIONAL_SOURCE_STATED",
+  "fano_extension": "NECESSARY_ONLY",
+  "explicit_c4_lower": "PROGRAMME_PROVED_INTERNAL",
+  "composite_n15_resolved": false,
+  "composite_n20_resolved": false,
+  "math_search": false,
+  "author_code": false,
+  "novelty_claim": false,
+  "raw_chat_sha256": null,
+  "full_plan_preregistered_before_work": false,
+  "S042_executed": false
+}

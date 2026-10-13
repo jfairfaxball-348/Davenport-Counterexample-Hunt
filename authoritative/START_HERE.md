@@ -1,3 +1,9 @@
+# S041 CURRENT AUTHORITY — 2026-10-13
+
+S041 direct n15/n20 sustained mathematics: seven new scoped CLM-0151..0157. Exact F2³ six-odd-class borderline inverse, 26-pair Fano seven-extension relation and primitive-plane exclusion for actual hypothetical n20 candidates; explicit non-saturating zero-sumfree P26 refutes universal plane saturation while its extension set lies on a nonzero character level. Independently proved general zero-total bonus lemma, forcing nonzero small-prime projected totals at all five historical interval cases. Conditional Yiu/GHST p5 inputs reduce n15/n20/n30 to the SAME 28/29-term C5³ core after 3/6/12 blocks; no <=3 quotient zero and no two disjoint four-zero blocks. An explicit C4³ sequence independently proves Dk>=4k+8 and forbids a bare mod4 shortcut. NO exact composite equality or counterexample. Original 30 frontier rows and 28 source records unchanged; Phase1 IN_PROGRESS, CI ABSENT_NOT_PASS. S042 FUTURE only.
+
+See both S041 research dossiers and new future-only S042 handoff. Older dated 'current' statements below are historical snapshots.
+
 # S040 CURRENT AUTHORITY — 2026-10-13
 
 S040 CLM-0148 independently reconstructs published eta(Cp^d)<=(3p-7)(1+p+...+p^(d-2))+4 for p>=7,d>=3 using only rank-two eta and Property C, with line-pigeonhole N>2(pR+1), eliminating reliance on exceptional original p7 Lem5.2. CLM-0149 then proves Dk(Cp³)<=pk+p²-3 for k>=2p-4 from S039. CLM-0150 identifies exactly the sharp bare-lifting gaps 2/1/2/1/2 for n15/20/21/28/30, NOT improved frontier values. Original 30 frontier rows and 28 source records unchanged; Phase1 IN_PROGRESS, no candidate/composite equality, Phases2/3 NOT_STARTED, CAM-0001 blocked, no hosted CI PASS. S041 STRICTLY FUTURE.

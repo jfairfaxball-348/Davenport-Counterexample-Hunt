@@ -154,3 +154,6 @@ S012 closeout: [complete record and FUTURE UNEXECUTED S013 handoff](../sessions/
 
 
 | S040 | 2026-10-13 | Intensive symbolic all-rank eta + multiwise + composite obstruction | CLM-0148/0149/0150, published eta bound independently reconstructed without original p7 exception; Dk<=pk+p²-3 large-prime; five sharp bare-subgroup gaps; no composite equality/candidate; Phase1 IN_PROGRESS | session/S040-line-pigeonhole-composite |
+
+
+| S041 | 2026-10-13 | Sustained direct targets n15/n20 (two checkpoints) | CLM-0151..0157 Fano/extension condition, explicit refutation of universal plane saturation, p5 conditional 28/29 core, total-zero bonus, direct C4 multiwise lower; no exact n15/n20; Phase1 remains open | session/S041-direct-coupled-lifting |

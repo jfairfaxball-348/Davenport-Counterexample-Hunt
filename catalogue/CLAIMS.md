@@ -1029,3 +1029,48 @@ The bare subgroup inequality D(C_pm³)<=D_(3m-2)(C_p³), assuming D(C_m³)=3m-2,
 Category: REDUCTION. Origin: research/S040_COMPOSITE_OBSTRUCTION.md. Sources: SRC-0008, SRC-0016, SRC-0015.
 
 Programme-proved conditional arithmetic and method-specific gap only. Exact p2 Dk CLM-0048 programme-proved; p3/p5 formulas and m10/m14 inputs retain historical SOURCE_STATED classifications. No new frontier row, current openness determination or conjecture resolution.
+
+
+# S041 additional claims (older 150 entries preserved)
+
+## CLM-0151 — PROGRAMME_PROVED
+
+For each k>=2, 2k+2 indexed vectors in C2³ have <k disjoint nonempty zero sums iff zero is absent and precisely six of the seven nonzero vector values have odd multiplicity. Standard equal-pair extraction and dependency of four residual distinct values gives equivalence; six odd classes have nonzero total and k disjoint blocks would cover all positions.
+
+Category REDUCTION. Full proof in research/S041_DIRECT_TARGETS_FIRST_CHECKPOINT.md or research/S041_CONTINUATION_AND_DIRECT_CORE.md; applicable primary historical inputs retain source-only standing. INTERNAL same-executor proof, no formal/external verification or novelty determination.
+
+## CLM-0152 — PROGRAMME_PROVED
+
+For a hypothetical zero-sumfree S58 in C20³ (relative to SOURCE_STATED D(C10³)=28), canonical parity pairing produces zero-sumfree P26 in C10³. Four Fano triples and three complementary quadruples yield seven extensions in E(P) obeying four-sum=three-sum, hence 4E(P)∩3E(P) nonempty. If P contains 18 positions in a primitive rank-two direct summand K, cyclic rank-one quotient and D(C10²)=19 force E(P) into one nonzero quotient class, contradicting Fano identity; so each K holds <=17 positions.
+
+Category REDUCTION. Full proof in research/S041_DIRECT_TARGETS_FIRST_CHECKPOINT.md or research/S041_CONTINUATION_AND_DIRECT_CORE.md; applicable primary historical inputs retain source-only standing. INTERNAL same-executor proof, no formal/external verification or novelty determination.
+
+## CLM-0153 — PROGRAMME_PROVED
+
+For all n>=2, a 3n-2-term zero-sumfree sequence in Cn³ cannot be supported on e1,e2,e3 forming a basis together with one extra value v. An index choice 1<=x<=d for x copies of v and coordinatewise residues -xv_i meets all basis multiplicity bounds by a union bound on at most d-1 forbidden x.
+
+Category REDUCTION. Full proof in research/S041_DIRECT_TARGETS_FIRST_CHECKPOINT.md or research/S041_CONTINUATION_AND_DIRECT_CORE.md; applicable primary historical inputs retain source-only standing. INTERNAL same-executor proof, no formal/external verification or novelty determination.
+
+## CLM-0154 — PROGRAMME_PROVED
+
+For every m>=3, P_m=e1^(m-2)e2^(m-2)e3^(m-2)(e1+e2)(e1+e3) is zero-sumfree of length3m-4 in Cm³, with EXACT admissible extensions E(P_m)={e1,e2,e3,-e1+e2+e3}; all lie in χ(x)=x1+x2+x3=1, so 4E∩3E empty. For m10 P26 has at most17 positions in any primitive direct-summand C10² plane, disproving universal plane saturation, NOT the candidate-specific Fano plane exclusion.
+
+Category REDUCTION. Full proof in research/S041_DIRECT_TARGETS_FIRST_CHECKPOINT.md or research/S041_CONTINUATION_AND_DIRECT_CORE.md; applicable primary historical inputs retain source-only standing. INTERNAL same-executor proof, no formal/external verification or novelty determination.
+
+## CLM-0155 — PROGRAMME_PROVED
+
+Every total-zero sequence U in an arbitrary finite abelian group G with |U|>=D_(k-1)(G)+1 (k>=2) has k disjoint nonempty zero-sum index subsets, by reserving one index and taking the zero-sum complement after k-1 extracted blocks. Consequently each five historical composite candidate requires NONZERO total in its designated prime quotient; n15/20/30 additionally have nonzero C5³ totals conditional on source-stated Yiu D_j(C5³) and existing small kernel Davenport inputs.
+
+Category REDUCTION. Full proof in research/S041_DIRECT_TARGETS_FIRST_CHECKPOINT.md or research/S041_CONTINUATION_AND_DIRECT_CORE.md; applicable primary historical inputs retain source-only standing. INTERNAL same-executor proof, no formal/external verification or novelty determination.
+
+## CLM-0156 — PROGRAMME_PROVED
+
+Conditional on SOURCE_STATED D_j(C5³)=5j+10 (j>=2), η(C5³)<=33, and D(C_m³)=3m-2 for m∈{3,4,6}: a hypothetical zero-sumfree length(15m-2) S over C_(5m)³ projects to C5³ with NO zero-sum of length<=3 and no two disjoint 4-zeros. Extract k-4 disjoint 4/5 zero blocks (k=3m-2) leaving 28 or29 indices, <4 disjoint further zeros; 29-core has no 4-zero. Cases n15,n20,n30 extract3,6,12 blocks. This is a conditional reduction, NOT a forbidden core theorem.
+
+Category REDUCTION. Full proof in research/S041_DIRECT_TARGETS_FIRST_CHECKPOINT.md or research/S041_CONTINUATION_AND_DIRECT_CORE.md; applicable primary historical inputs retain source-only standing. INTERNAL same-executor proof, no formal/external verification or novelty determination.
+
+## CLM-0157 — PROGRAMME_PROVED
+
+For all integers k>=2, D_k(C4³)>=4k+8, proved by explicit (4k+7)-term sequence e1^(4k-5)e2³e3³(e1+e2)²(e1+e3)²(e2+e3)². Coordinate totals (4k-1,7,7) and separation of at most two non-pure e1 blocks contradict k disjoint zero sums. Hence D13(C4³)>=60 and the bare mod4 quotient route cannot establish D(C20³)<=58.
+
+Category REDUCTION. Full proof in research/S041_DIRECT_TARGETS_FIRST_CHECKPOINT.md or research/S041_CONTINUATION_AND_DIRECT_CORE.md; applicable primary historical inputs retain source-only standing. INTERNAL same-executor proof, no formal/external verification or novelty determination.
