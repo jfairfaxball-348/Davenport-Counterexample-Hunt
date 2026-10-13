@@ -1,0 +1,28 @@
+{
+  "session": "S037",
+  "entry_main": "6168aa6578836dc0a8b95cf0dded8cb797d949ba",
+  "entry_tree": "7ccfd574b32127708287aa0a7fe2e11381c74e2c",
+  "prior_branch_commit": "4c2940f05a716edf6b4fd07d4394d97373d0ab85",
+  "prior_parent": "af4a4a41b26c8ecb45bad431253976cc1cb7303b",
+  "prior_tree": "7ccfd574b32127708287aa0a7fe2e11381c74e2c",
+  "prior_pr": 36,
+  "prior_merge": "6168aa6578836dc0a8b95cf0dded8cb797d949ba",
+  "prior_merge_parents": [
+    "af4a4a41b26c8ecb45bad431253976cc1cb7303b",
+    "4c2940f05a716edf6b4fd07d4394d97373d0ab85"
+  ],
+  "prior_branch_commits": 1,
+  "open_prs": 0,
+  "competing_s037": 0,
+  "rulesets": [],
+  "branch_protection": "403 UNKNOWN inaccessible",
+  "branch_summary_protected": false,
+  "workflow_files": 0,
+  "workflow_listing": "/actions/workflows rejected INVALID_ARGUMENT; .github/workflows 404",
+  "hosted_runs": 0,
+  "hosted_jobs": 0,
+  "check_runs": 0,
+  "status_contexts": 0,
+  "hosted_ci_pass": false,
+  "combined_status": "0 contexts ABSENT_NOT_PASS"
+}

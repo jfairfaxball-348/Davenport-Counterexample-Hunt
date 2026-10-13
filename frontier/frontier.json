@@ -786,5 +786,27 @@
     "phase1": "IN_PROGRESS",
     "campaign": "CAM-0001 BLOCKED n6=16",
     "hosted_ci_pass": false
+  },
+  "s037_audit": {
+    "session": "S037",
+    "date": "2026-10-13",
+    "original30_row_objects_unchanged": true,
+    "full_markdown_ordered_table_rows_unchanged": true,
+    "rows": 30,
+    "historical_settled_or_trivial": 25,
+    "intervals": [
+      15,
+      20,
+      21,
+      28,
+      30
+    ],
+    "rank3_D1_Dk_theorem": false,
+    "claim": "CLM-0140",
+    "p7_W_min": 87,
+    "p13_W_min": 383,
+    "phase1": "IN_PROGRESS",
+    "campaign": "CAM-0001 BLOCKED n6=16",
+    "hosted_ci_pass": false
   }
 }

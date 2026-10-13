@@ -1,0 +1,38 @@
+{
+  "session": "S037",
+  "reviewed": [
+    {
+      "id": "SRC-0021",
+      "access": "PROOF_INSPECTED existing",
+      "url": "https://pro.univ-lille.fr/fileadmin/user_upload/pages_pros/gautami_bhowmik/Publications/large_exponent.pdf",
+      "observed": "Original printed pp22-24 and direct printed p23 visual; weak Lem2.1/stronger p23 passage; rank3 Lem2.3 omitted. New programme-internal claim NOT authorship."
+    },
+    {
+      "id": "SRC-0003",
+      "access": "STATEMENT_INSPECTED unchanged"
+    },
+    {
+      "name": "Sheikh full Chapter4",
+      "access": "UNREAD"
+    },
+    {
+      "name": "GHST C53 original code/output",
+      "access": "UNREAD_NEVER_RUN"
+    },
+    {
+      "id": "SRC-0015",
+      "access": "PROOF_INSPECTED existing",
+      "observed": "Yiu independent final M1 authentication absent; M2/M3 separate"
+    }
+  ],
+  "interval_source_checks": [
+    15,
+    20,
+    21,
+    28,
+    30
+  ],
+  "new_exact_original_authentications": 0,
+  "source_access_enum_changes": 0,
+  "original_source_records_unchanged": true
+}
