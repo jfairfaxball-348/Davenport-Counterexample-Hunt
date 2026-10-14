@@ -1,0 +1,11 @@
+{
+  "session": "S066",
+  "owner_invocation": "FRESH_EXPLICIT",
+  "base_main": "694d61f2a52fde2d50d9fd8a370dff9e9cd0c40f",
+  "base_tree": "72e118a8e9fd07cb3f92b8fe9a41c142b682c49b",
+  "authoritative_prompt_path": "authoritative/NEXT_SESSION_PROMPT.md",
+  "prior_claims": 234,
+  "prior_sources": 28,
+  "phase": 1,
+  "mathematical_numerical_search_authorized": false
+}

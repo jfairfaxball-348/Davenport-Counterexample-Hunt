@@ -237,3 +237,10 @@ Owner-invoked substantial symbolic original-index C20³; entry main 9c19776958e3
 | S064 | 2026-10-14 | ALL-m ORIGINAL non-q pair-twist mask-cover rigidity and genuine full-G carry | CLM-0230 8-full-or-12 for all m (exact12 three-mask common cosets); CLM-0231 conditional original 5d carry law; NO actual S060-gate survivor or global D20 theorem; Phase1 IN_PROGRESS | session/S064-all-mask-twelve-cover-rigidity |
 
 [S064 proof](../research/S064_ALL_MASK_TWELVE_COVER_RIGIDITY.md) · [closeout](../sessions/S064/CLOSEOUT.md) · S065 FUTURE/UNEXECUTED. Original28/30 objects preserved, claims231, SRC-0008/0015/0023 SOURCE_STATED, CI ABSENT_NOT_PASS.
+
+
+| S065 | 2026-10-14 | Actual mask E(U\\I), full-pair order2 toggles, triple XOR | CLM-0232–0234; S066 later proves hypothesised rank3 fullpair directions impossible for U22; no D20 theorem | session/S065-original-mask-two-torsion-triple-xor |
+
+| S066 | 2026-10-14 | Projection-zero packing, critical S065 rank3 correction, original split endpoint torsion symmetry | CLM-0235 self-contained r3 exclusion; CLM-0236 conditional SRC-0029 D2 r2 exclusion; CLM-0237 genuine endpoint directions/exact12 L; no full8/exact12/≥13 contradiction, no real S060 survivor, Phase1 IN_PROGRESS | session/S066-projection-packing-and-endpoint-torsion |
+
+[S066 proof](../research/S066_PROJECTION_PACKING_AND_ENDPOINT_TORSION.md) · [PRECOMMIT closeout](../sessions/S066/CLOSEOUT.md) · S067 FUTURE/UNEXECUTED. Sources28→29 abstract only, original28 JSON objects and frontier30 immutable rows preserved; hosted CI ABSENT_NOT_PASS.

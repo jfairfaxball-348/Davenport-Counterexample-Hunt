@@ -1,3 +1,6 @@
+# Current S066 outcome — 14 October 2026
+**Phase 1 remains in progress.** The [S066 original-index projection packing and endpoint torsion session](research/S066_PROJECTION_PACKING_AND_ENDPOINT_TORSION.md) proves the previously pursued 3-independent-full-pair-order2 U22 route impossible, finds an additional genuine split-endpoint torsion stabiliser, and retains ALL full8/exact12/13+ original Fano witness obligations as open. New SRC-0029 is abstract-only SOURCE_STATED; no C20³ Davenport equality/counterexample claimed. [Next S067 handover](authoritative/NEXT_SESSION_PROMPT.md) is FUTURE only.
+
 # Rank-three Davenport counterexample hunt
 
 Goal: test the conjecture $D(C_n^3)=3n-2$ by source-first reduction theory and eventually certified computation. An explicit zero-sumfree sequence of length $3n-2$ would refute equality. **No counterexample is claimed.**

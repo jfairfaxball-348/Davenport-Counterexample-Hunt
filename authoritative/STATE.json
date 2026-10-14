@@ -24,13 +24,14 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S065",
-  "recommended_next_session": "S066",
+  "last_completed_session": "S066",
+  "recommended_next_session": "S067",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": null,
   "phase1_target_status": "WITHHELD_NO_REPLACEMENT_CAMPAIGN",
   "open_blockers": [
+    "S066 CLM-0235: r=3 order-two U terms are IMPOSSIBLE for any zero-sumfree length22 U in C10³ (self-contained D(C5³)=13); S065's rank3 exact12 sufficient-condition and full8 three-unsplit-block gadget CANNOT occur in the actual canonical U22. CLM-0236: SOURCE-STATED external D2(C5³)=20, if accepted, excludes r=2 as well (total U order2 count≤1), NOT independently verified. CLM-0237: actual endpoint difference b_i-a_i=10d_i gives D_M stabiliser for i∈M and extra exact12 common L requirement; no Fano-forced directions or original XOR collision. Full8/≥12, all 26 hubs and alternate profiles remain OPEN; no D20 theorem.",
     "S065 CLM-0232–0234: exact genuine non-q mask E(U\\\\I) gate; actual order2 UNSPLIT original pair toggles force D_M subgroup-coset invariance; exact12 common L must contain EVERY non-q order2 U-pair direction, so rank3 excludes exact12; new triple-witness full-G XOR obstruction needs an ACTUAL weighted-intersection equality. No theorem forces rank3, no full8/≥13 elimination, no actual labelled full-S060-gate survivor, no D(C20³)=58.",
     "S064 CLM-0231: actual cross-mask equality12 original torsion witnesses with full-G intersection ≡5d mod10 must have d∈L; 5Q intersection is NOT automatic. Full8/≥12 cases still need TRUE original witness-carry contradiction, or a labelled original full S060 q-gate nonminimal G59 survivor. No universal C20 D58 proof.",
     "S064 CLM-0230: for ALL m non-q original split masks, full pair-twist failure without a single full D_M=Q needs ≥12 distinct (M,v), and equality12 forces exactly three masks A,B,A△B with aligned four-point Q-cosets of a common order4 L; no other mask dangers. This is a rigorous abstract covering theorem, NOT actual witnessed original S060 configuration.",
@@ -55,6 +56,7 @@
   "gate_ledger": "docs/PHASE_GATE_LEDGER.md",
   "source_snapshot": "2026-10-12",
   "warnings": [
+    "S066 CORRECTION: S065's hypothetical three independent non-q full-pair u_i=5e_i are IMPOSSIBLE in U22 zero-free; do not present rank3 absence as unknown or the full8 three-unsplit-block gadget as real canonical. Conditional D2(C5³)=20 (SRC-0029 SOURCE_STATED) forbids even two U22 order2 terms; only endpoint-order2 mechanism can replenish rank3 toggles without contradicting this. Original Fano/weighted intersections not solved.",
     "S065 conditional exact12 exclusion requires THREE INDEPENDENT order-two H pair sums u_i=5e_i whose ORIGINAL pairs have t_i≠q. This has NOT been proved necessary in arbitrary U22. In exact12 L absorbs ALL existing non-q such directions; do not extrapolate to q pairs, arbitrary H pair terms, full8 or ≥13. Original triple-XOR zero is forbidden ONLY for nonempty proper XOR, not empty/full.",
     "S064 all-m ≥12 non-full covering upgrade supersedes S063's merely ≥9 alternative; EXACT12 is forced two-dimensional in ORIGINAL MASK vectors, not parity classes or arbitrary coefficient subspace. Abstract sharpness does NOT construct a real indexed G59. CLM-0231 intersection-carry conclusion requires actual 5Q-valued original overlap.",
     "S063 larger pair-twist gauge changes the scope of S061/S062: C_sigma=Q/0 in C0 is invariant only across the ORIGINAL-PAIR-FIXED 64 singleton lifts, NOT after changing original non-q pair members. Mask conditions D_M use full G[2] reference sums and true original nonempty proper subsets; abstract four-pair eight-mask counterpattern is not a real C20³ model.",
@@ -328,7 +330,7 @@
     "owner_blocker": false,
     "historical_dependency_reconciled": "S004 CLM-0068 / S005 sufficient conditional base5p-2 bypass restored and strengthened one position"
   },
-  "current_research_priority": "S066 FUTURE: use exact ORIGINAL masked E(U\\\\I) membership to force or refute S065 non-q 2-torsion rank3 and force a genuinely witnessed full8/equality12/13+ original support collision (including triple-XOR), or construct a full S060 gate-passing labelled nonminimal G59.",
+  "current_research_priority": "S067 FUTURE: attack FULL8 and ≥12 original D_M witness collisions using every genuine E(U\\\\I), SAME-c four Fano, mixed g and new split-ENDPOINT order2 directions. Do not attempt S065 vacuous rank3 complete-pair u_i condition. Separately source-audit D2(C5³)=20 if needed; no source promotion.",
   "s040_result": {
     "claims": [
       "CLM-0148",
@@ -891,5 +893,29 @@
     "frontier_rows_unchanged": 30,
     "review": "INTERNAL_SAME_EXECUTOR",
     "hosted_ci": "ABSENT_NOT_PASS"
+  },
+  "s066_result": {
+    "claims": [
+      "CLM-0235",
+      "CLM-0236",
+      "CLM-0237"
+    ],
+    "source_added": "SRC-0029_ABSTRACT_ONLY",
+    "self_contained_projection_packing": true,
+    "self_contained_D_C5_cube_13": true,
+    "rank3_order2_U22": "IMPOSSIBLE",
+    "rank2_order2_U22": "IMPOSSIBLE_CONDITIONAL_SOURCE_STATED_D2",
+    "endpoint_order2_split_swap": "PROVED",
+    "all_original_Fano_gates_checked_universally": false,
+    "forced_original_collision": false,
+    "genuine_S060_hostile_G59": false,
+    "D_C20_3_equals_58": false,
+    "G58_zero_free_candidate": false,
+    "phase1": "IN_PROGRESS",
+    "next": "S067_FUTURE_UNEXECUTED",
+    "review": "INTERNAL_SAME_EXECUTOR",
+    "hosted_ci": "ABSENT_NOT_PASS",
+    "original28_sources_preserved": true,
+    "original30_frontier_preserved": true
   }
 }

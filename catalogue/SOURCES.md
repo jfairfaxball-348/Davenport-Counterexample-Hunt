@@ -486,3 +486,12 @@ ZERO new original source observations or access promotions; all original 28 sour
 
 ## S065 original source preservation — 14 October 2026
 Exactly the original28 source JSON records UNCHANGED; no new source research or access promotion. Historical SRC-0008, SRC-0015 (including its unauthenticated computation D3(C5³)=25), SRC-0023 stay SOURCE_STATED. S065 CLM-0232–0234 are conditional internal original-index algebra, not new literature certificates, priority/novelty claims, or a verified full C20 theorem. S066 FUTURE.
+
+
+## SRC-0029 — Sze Chun Yiu, The fourth generalized Davenport constant of C_5^3
+
+Year: 2026. Access: **ABSTRACT_INSPECTED** (2026-10-14).
+
+[ArXiv abstract](https://arxiv.org/abs/2609.04950)
+
+The dated abstract states D_k(C5³)=5k+10 for k≥2, hence D2(C5³)=20, and reports machine-assisted D3=25/D4=30. S066 did NOT inspect/reproduce independent numerical certificates or promote this to a programme-proved source theorem. CLM-0236 is explicitly CONDITIONAL on this external SOURCE_STATED value. All first28 original source JSON records remain unchanged; SRC-0008/0015/0023 retain their historical evidence statuses.

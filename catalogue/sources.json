@@ -259,6 +259,15 @@
       "access": "PROOF_INSPECTED",
       "accessed": "2026-10-11",
       "notes": "Original GG1999 Ga4 bibliography and journal volume listing/DOI10.4064/cm-72-2-251-268 authenticate original18-page PDF. Lemmas5–7 pp253–255 inspected; Lem7 supplies large proper zero block conditional on D(H⊕Cn²), at H=Cp,n=p imports rank-three p-group identity. General proof not independently certified; exact rank-two required consequence independently proved CLM-0091."
+    },
+    {
+      "id": "SRC-0029",
+      "title": "Sze Chun Yiu, The fourth generalized Davenport constant of C_5^3",
+      "year": "2026",
+      "url": "https://arxiv.org/abs/2609.04950",
+      "access": "ABSTRACT_INSPECTED",
+      "accessed": "2026-10-14",
+      "notes": "ArXiv abstract dated 2026-09-04 states D_k(C5³)=5k+10 for every k>=2, including D2=20 and machine-assisted D3=25, D4=30. Abstract-only observation, no independent proof/computation/cold rerun. Used solely as SOURCE_STATED conditional premise for CLM-0236; does not promote historical SRC-0015 or old sources."
     }
   ],
   "s033_audit": {
@@ -603,5 +612,16 @@
     ],
     "new_external_proof_inspection": false,
     "review": "INTERNAL_SAME_EXECUTOR"
+  },
+  "s066_audit": {
+    "original_source_records_preserved": 28,
+    "new_abstract_only": "SRC-0029",
+    "access_promotions": 0,
+    "existing_historical_statements_unchanged": [
+      "SRC-0008",
+      "SRC-0015",
+      "SRC-0023"
+    ],
+    "review": "INTERNAL"
   }
 }

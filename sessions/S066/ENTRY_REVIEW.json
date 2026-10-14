@@ -1,0 +1,28 @@
+{
+  "session": "S066",
+  "entry_main": "694d61f2a52fde2d50d9fd8a370dff9e9cd0c40f",
+  "entry_tree": "72e118a8e9fd07cb3f92b8fe9a41c142b682c49b",
+  "previous_session": "S065",
+  "previous_authored_commit": "f07ef52c32e0494b8eec63d3845051f348f22014",
+  "previous_authored_parent": "c5988336624bc0e8af3837cb4f3506add3b1c69e",
+  "previous_authored_tree": "72e118a8e9fd07cb3f92b8fe9a41c142b682c49b",
+  "previous_pr": 67,
+  "previous_merge": "694d61f2a52fde2d50d9fd8a370dff9e9cd0c40f",
+  "previous_merge_parents": [
+    "c5988336624bc0e8af3837cb4f3506add3b1c69e",
+    "f07ef52c32e0494b8eec63d3845051f348f22014"
+  ],
+  "previous_postmerge_tree": "72e118a8e9fd07cb3f92b8fe9a41c142b682c49b",
+  "entry_open_prs": 0,
+  "competing_S066_branches": 0,
+  "workflow_files": "NOT_IN_TREE",
+  "hosted_runs": 0,
+  "hosted_check_runs": 0,
+  "hosted_status_contexts": 0,
+  "rulesets": 0,
+  "protection": "UNKNOWN_403",
+  "hosted_ci": "ABSENT_NOT_PASS",
+  "review": "INTERNAL_SAME_EXECUTOR",
+  "fresh_owner_invocation": true,
+  "raw_owner_sha256": "NOT_ASSERTED"
+}

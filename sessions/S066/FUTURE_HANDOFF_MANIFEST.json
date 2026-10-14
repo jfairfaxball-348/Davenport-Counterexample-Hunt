@@ -1,0 +1,7 @@
+{
+  "session": "S066",
+  "next_session": "S067",
+  "next_status": "FUTURE_UNEXECUTED",
+  "new_explicit_owner_invocation_required": true,
+  "next_prompt": "authoritative/NEXT_SESSION_PROMPT.md"
+}

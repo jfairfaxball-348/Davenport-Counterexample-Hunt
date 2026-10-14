@@ -1,0 +1,25 @@
+{
+  "session": "S066",
+  "source_prompt_blob_sha": "168ee9e7a422fb5d16a65b85fa865623a5fe83ca",
+  "prior_research": [
+    "research/S052_FANO_COMMON_KERNEL_PARITY.md",
+    "research/S060_TRANSVERSAL_FOUR_POINT_AND_Q_SPLIT_INVERSE.md",
+    "research/S061_SINGLETON_FIBRE_TORSION_TRIANGLE.md",
+    "research/S062_TORSION_WITNESS_CLOSURE_AND_DENSITY.md",
+    "research/S063_ORIGINAL_SPLIT_MASK_GAUGE_AND_COVER.md",
+    "research/S064_ALL_MASK_TWELVE_COVER_RIGIDITY.md",
+    "research/S065_TRUE_MASK_TORSION_TOGGLES_AND_TRIPLE_XOR.md"
+  ],
+  "new_sources": [
+    "SRC-0029"
+  ],
+  "external_access": "ABSTRACT_INSPECTED_ONLY",
+  "source_stated_unchanged": [
+    "SRC-0008",
+    "SRC-0015",
+    "SRC-0023"
+  ],
+  "access_promotions": 0,
+  "original28_source_objects_preserved": true,
+  "original30_frontier_rows_preserved": true
+}

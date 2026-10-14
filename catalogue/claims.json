@@ -2483,6 +2483,35 @@
       "origin": "research/S065_TRUE_MASK_TORSION_TOGGLES_AND_TRIPLE_XOR.md",
       "source_ids": [],
       "notes": "INTERNAL exact full G three-original-subset XOR/carry condition; exceptional X empty/full excluded; not a realised contradiction."
+    },
+    {
+      "id": "CLM-0235",
+      "statement": "For zero-sumfree indexed U in C10³, if r independent original order-two terms are removed, their residual projections to C5³ have at most 3−r mutually disjoint nonempty zero-sum indexed blocks: 4−r blocks have dependent sums in the residual F2^(3−r) quotient and can be cancelled using the r terms. An independent group-algebra proof establishes D(C5³)=13; hence r=3 forces |U|≤15 and is IMPOSSIBLE for zero-sumfree U22. Therefore S065's rank3 full-pair condition is vacuous in the actual canonical U22 fibre; it does not eliminate other full8 mechanisms.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S066_PROJECTION_PACKING_AND_ENDPOINT_TORSION.md",
+      "source_ids": [],
+      "notes": "S066 INTERNAL elementary projection-packing theorem and group algebra; no dependency on source-stated computational D3; retroactively tightens applicability, not validity, of CLM-0233."
+    },
+    {
+      "id": "CLM-0236",
+      "statement": "CONDITIONAL on the externally SOURCE_STATED value D2(C5³)=20 (SRC-0029 ABSTRACT_INSPECTED, not independently certified): a zero-sumfree U22 in C10³ cannot contain two independent order-two full pair terms. Removing them leaves 20 projected terms with two disjoint nonempty zero-sum blocks, contradicting CLM-0235's r2 bound of at most one. Therefore at most ONE U22 pair sum of order2 exists under this stated premise, whether q or non-q. External D2 exactness is not PROGRAMME_PROVED.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S066_PROJECTION_PACKING_AND_ENDPOINT_TORSION.md",
+      "source_ids": [
+        "SRC-0029"
+      ],
+      "notes": "Only the CONDITIONAL implication is internally proved. D2=20 is a reported arXiv abstract statement. No promotion of SRC-0015 D3=25, SRC-0008 or SRC-0023."
+    },
+    {
+      "id": "CLM-0237",
+      "statement": "In any actual S060-compatible canonical ORIGINAL C20³ T59, if b_i−a_i=10d_i for a non-q original pair i split by mask M, swapping the selected original endpoint preserves M and changes its full G torsion reference sum by 10d_i. Together with S065's UNSPLIT fullpair order2 toggles, D_M is invariant under W_M spanned by outside-M u_i=5e_i and inside-M endpoint d_i. If dim W_M=3, D_M is empty or full Q. In an actual exact12 A,B,A△B affine-common-L cover every non-q fullpair order2 direction and each such endpoint d_i for i∈A∪B lies in L; three independent AVAILABLE directions exclude exact12. No endpoint directions or original collision shown necessary.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S066_PROJECTION_PACKING_AND_ENDPOINT_TORSION.md",
+      "source_ids": [],
+      "notes": "Full original endpoints, original masks and proper subsets; conditional actual data and no synthetic edges. Rank3 complete-pair mechanism excluded by CLM-0235, endpoint mechanism not excluded."
     }
   ]
 }
