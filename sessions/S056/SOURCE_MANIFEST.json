@@ -1,0 +1,15 @@
+{
+  "session": "S056",
+  "source_count_original": 28,
+  "source_original_objects_untouched": true,
+  "frontier_count_original": 30,
+  "frontier_original_objects_untouched": true,
+  "context_sources": [
+    "SRC-0023",
+    "SRC-0008",
+    "SRC-0015"
+  ],
+  "new_primary_proof_inspection": false,
+  "access_promotions": [],
+  "note": "CLM-0210/0211 are internal symbolic only; no external current novelty claim."
+}

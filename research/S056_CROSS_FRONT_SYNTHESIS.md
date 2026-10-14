@@ -1,0 +1,10 @@
+# S056 — direct-target synthesis and bounded hostile gates
+14 October 2026; Phase1 SYMBOLIC only. Source policy remains unchanged.
+
+**B FIRST.** CLM-0210 derives the exact eight-original-g additive-potential form h_jk=w+d_j+d_k for all 28 pair edges and its ALL-4096 original one-sided one-split β_i(C,ε)+floor(|J|/2)w+Σ_J d_j gates. This makes four-cycle matching constraints ACTUALLY value-coupled rather than treating 735 labelled matchings as independent. CLM-0211 proves the Fano incidence N is invertible modulo5 with explicit inverse 3Nᵀ−J, allowing arbitrary seven mod5 line values despite fixed original C20→C2 parities; prior S052 mod2 pencil/tensor coherence remains. Together these identify exactly where a genuine mixed-primary maximal-H28 inverse is needed: mod5 Fano freedom is not by itself a contradiction, matching totals alone do not change, and no inverse profile is excluded for every U22.
+
+**A SECOND.** For actual P=(e1^4,e2^4,e3^3) of length11 in F5³, indexed subset sums are the box {0,...,4}²×{0,...,3}; hence E(P)=F5²×{1}. Here c=−ΣP=(1,1,2), d=c/2=(3,3,1), and E−d is the linear plane z=0. This is a genuine eleven-index calibration consistent with proposed affine inverse, NOT a support≥7 case nor a proof for arbitrary P11. The nonempty universal inverse, empty E issue and six-cap re-strippings remain untouched by the B proof.
+
+**C THIRD.** The fixed S052 CRT 3d×2q×5 selected first-X census cannot be extended to B-only/mixed later original P* windows by relabelling: their H-block sums and Δ shifts need fresh original-index identities. No all-window pass/fail and no new local numeric census are claimed in S056.
+
+**Stop:** no zero-sumfree G43/G58 candidate, no D(C15³)=43/D(C20³)=58 original universal proof, no SOURCE_STATED promotion, numerical/computational mathematical search, CAS/SAT/ILP, orbit/candidate enumeration, historical code, Lean/Palomar, novelty campaign, manuscript or contact. Original30 frontier, original28 SRC objects, Phase1 IN_PROGRESS, CAM-0001 BLOCKED. Review INTERNAL only; hosted CI ABSENT_NOT_PASS; protection UNKNOWN403.
