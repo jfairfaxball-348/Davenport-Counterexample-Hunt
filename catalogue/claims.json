@@ -2375,6 +2375,24 @@
       "origin": "research/S060_TRANSVERSAL_FOUR_POINT_AND_Q_SPLIT_INVERSE.md",
       "source_ids": [],
       "notes": "Full mod10 and mod2 original lift iff; mod5 determinant ±4, CRT kernel 2^6. No universal arbitrary-U exclusion, no G58 candidate. INTERNAL."
+    },
+    {
+      "id": "CLM-0223",
+      "statement": "For any feasible four S060 q-avoiding original Fano H values with fixed six-singleton q-coset totals and other canonical C20³ original values, the exact 64 singleton labelled lifts are X_i,Y_i shifted together by 10eta_i in G for eta1+eta2+eta3=0 in Q. For EVERY parity-even nonempty proper original-index subset Z, writing I(Z) for all split original pairs and sigma(Z)=[sum_{i in I}t_i] in K=Q/<q>, its G sum across a lift changes by exactly 10ell_eta(sigma(Z)) for a unique linear map ell_eta:K→Q. This covers mixed non-q multi-splits; sigma0 includes cancelling non-q splits and is invariant across the 64 lifts.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S061_SINGLETON_FIBRE_TORSION_TRIANGLE.md",
+      "source_ids": [],
+      "notes": "Direct conditional original-index linear-fibre proof; all 64 label maps, actual G parity before doubling; INTERNAL, no universal incompatibility."
+    },
+    {
+      "id": "CLM-0224",
+      "statement": "For an actual S060-feasible four-line original C20 singleton fibre with fixed total-zero other data and reference lift T0, let C_sigma⊆Q be precisely reference order-two G subtotal labels v for nonempty proper parity-even original-index subsets Z with split quotient sigma and sum_G(Z;0)=10v. Non-torsion subset sums cannot turn zero under the 64 lifts. An originally minimal total-zero 59-index lift exists among the 64 IFF 0∉C_0 and (Q\\C_[r3])∩[(Q\\C_[r1])+(Q\\C_[r2])]!=empty. Thus all non-q and mixed multi-splits collapse to one exact three-class additive triangle; q-only S060 F_* does not clear C0. Additionally S060's four-Fano sum/parity feasibility equals existence of a SAME base parity c with mod5 target in the sum of four corresponding parity-fibre mod5 projections of F_*. These are exact conditional reductions, NOT universal emptiness or a zero-free C20³ sequence.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S061_SINGLETON_FIBRE_TORSION_TRIANGLE.md",
+      "source_ids": [],
+      "notes": "Torsion danger + 3-class linked Q additive gate; verified actual complementary original labels, fixed total0 and CRT parity. INTERNAL; no G58 counterexample."
     }
   ]
 }

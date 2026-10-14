@@ -1,0 +1,3 @@
+# S061 exact incoming owner invocation — normalised visible representation
+User requested: "run next session [https://github.com/jfairfaxball-348/Davenport-Counterexample-Hunt/blob/main/authoritative/NEXT_SESSION_PROMPT.md](https://github.com/jfairfaxball-348/Davenport-Counterexample-Hunt/blob/main/authoritative/NEXT_SESSION_PROMPT.md)"
+The authoritative prompt at entry was S061 (blob 2bb5c28471ecedec640a1aa7b07961b6d06de878), on entry main 98fe8a13e44b2cf41cd51fa509b59efe5e7ed653. The owner invocation is represented, not claimed as a byte-for-byte raw chat archive; NO raw invocation SHA256 is asserted. Fresh user invocation authorises S061 but not S062.

@@ -231,3 +231,6 @@ No mathematical numerical/computational search, solver/CAS/SAT/ILP, orbit or can
 
 ## S059 — 14 October 2026
 NO campaign activation. CLM-0219/0220 exact group-theoretic proof and symbolic original G countermodel to a matching-only inference, NOT generation of a zero-free G58 candidate or numerical/computational mathematical search. No SAT/ILP, CAS, orbit enumeration, historical author code, Lean/Palomar. CAM-0001 remains PROPOSED NOT_RUNNING BLOCKED (historical n6=16), Phase1 IN_PROGRESS, Phase2/3 NOT_STARTED.
+
+## S061 — 14 October 2026
+No numerical mathematical search, historical author code, CAS/SAT/ILP, orbit/candidate generation, Lean, Palomar, certification or campaign activity. The C20³ four-Fano 64-lift reduction and ternary torsion obstruction are purely symbolic, not a new candidate/certification. CAM-0001 stays PROPOSED NOT_RUNNING BLOCKED; Phase1 IN_PROGRESS, Phase2/3 NOT_STARTED.
