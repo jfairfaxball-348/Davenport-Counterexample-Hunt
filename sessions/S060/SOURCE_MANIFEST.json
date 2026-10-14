@@ -1,0 +1,19 @@
+{
+  "session": "S060",
+  "source_count_original": 28,
+  "source_original_objects_untouched": true,
+  "frontier_count_original": 30,
+  "frontier_original_objects_untouched": true,
+  "context_sources": [
+    "SRC-0008",
+    "SRC-0015",
+    "SRC-0023"
+  ],
+  "source_D3_C5_cubed_25": "SOURCE_STATED historical original computational premises unauthenticated",
+  "source_D1_C5_cubed_13": "SOURCE_STATED",
+  "source_D_C10_cubed_28": "SOURCE_STATED",
+  "claims_new_mathematics_source_independent": true,
+  "new_primary_proof_inspection": false,
+  "access_promotions": [],
+  "new_sources": []
+}
