@@ -297,3 +297,10 @@ One explicitly owner-invoked symbolic Phase1 session against live merge-main 96f
 3. **Source boundary:** q=0 exclusion relies on SOURCE_STATED D(C10³)=28; C5 two-extender gate relies on SOURCE_STATED D(C5³)=13. No original proof promotion.
 4. **C5 inverse gap:** E+E disjoint E and midpoint reflection alone allow abstract affine-full extension sets; cannot claim nonzero fibre/inverse for actual arbitrary P11.
 5. **No CRT breakthrough:** S052 24 local first-P* passes cannot be called global, original B-only/cross-window unresolved.
+
+## S054 lessons — 14 October 2026
+1. **Extremal rather than contradictory:** seven Fano line/cap partitions and105 original eight-g perfect matchings give 735 labelled 28-block H atoms, not 735 independent values. D(C10³)=28 permits minimal zero-sum *length28*, so no headline theorem from equality.
+2. **True one-split exclusion:** a parity-zero original pair member permits splitting one of the 22 zero H pair blocks, producing29 disjoint H blocks; D(H)=28 forces proper G zero-sum. This conditional result rules out t_i=0 ORIGINAL lifts, NOT arbitrary U22 or t_i≠0.
+3. **Hostile escape:** every H22 core can be lifted with a_i=e1,b_i=2u_i−e1 (common nonzero parity); one-split parity budget alone cannot close full inverse.
+4. **C5 actual atoms:** arbitrary P11 with nonempty E(P) admits real P*x*(c−x) minimal H13, but does not force E affine hyperplane, exclude empty E or settle six-cap re-strippings.
+5. **CI/chronology:** zero hosted checks ABSENT_NOT_PASS, protection403 UNKNOWN, same-executor INTERNAL; Git prereg before proof FALSE, raw owner input SHA not fabricated, S055 not executed.

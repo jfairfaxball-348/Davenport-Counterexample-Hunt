@@ -1,0 +1,12 @@
+{
+  "session": "S054",
+  "entry_main": "081ebf8a2cbf1ca812dfda1abfb1c4455dc225bc",
+  "prompt_path": "sessions/S054/INPUT.md",
+  "prompt_blob_sha_at_entry": "5a67bf0d9e760e422226b743fa7c7ac8f8650e07",
+  "invocation_path": "sessions/S054/OWNER_INVOCATION.md",
+  "owner_presentation_normalised": true,
+  "raw_owner_sha256": null,
+  "raw_owner_sha_claimed": false,
+  "git_timestamped_preregistration_pre_math": false,
+  "visible_upfront_plan": true
+}

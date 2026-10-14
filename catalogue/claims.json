@@ -2194,6 +2194,39 @@
         "SRC-0008"
       ],
       "notes": "SOURCE-DEPENDENT p-group D=13; abstract set E is not asserted attainable. Universal zero-free P11 affine inverse unresolved."
+    },
+    {
+      "id": "CLM-0205",
+      "statement": "Conditional on SOURCE_STATED D(C10³)=28, any hypothetical minimally zero-sum ORIGINAL-index C20³ T59 in the 22 even pairs+eight equal q originals+seven Fano singleton parity classes setup induces, for each of seven Fano line/cap partitions and 105 perfect matchings of the eight g indices, a 28-block C10³ minimally zero-sum extremal atom. General quotient-zero block-budget k<=D(H) proved. 735 labelled partitions not independent H values and no global contradiction.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S054_EXTREMAL_BLOCK_BUDGET_AND_PAIR_PARITY.md",
+      "source_ids": [
+        "SRC-0023"
+      ],
+      "notes": "Conditional on source-stated C10³ D=28; all original-index non-split group constraints retained. INTERNAL only."
+    },
+    {
+      "id": "CLM-0206",
+      "statement": "Under CLM-0205 SOURCE_STATED D(C10³)=28 assumptions, every original pair (a_i,b_i) in the specified T59 must have nonzero common mod2 parity: a zero-parity pair splits the 28-block quotient-zero partition into 29 H blocks; any 28 force a proper zero subset. Re-proves q=0 exclusion through 32 H blocks. Does NOT eliminate arbitrary U22 (which has nonzero-parity lifts) or any nonzero pair-split.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S054_EXTREMAL_BLOCK_BUDGET_AND_PAIR_PARITY.md",
+      "source_ids": [
+        "SRC-0023"
+      ],
+      "notes": "Genuine class of one-split ORIGINAL parity-zero lifts excluded; SOURCE_STATED D28, not universal all-U/all-hub or D20 proof."
+    },
+    {
+      "id": "CLM-0207",
+      "statement": "For any actual indexed zero-sumfree P11 in C5³, with c=-sum P and E(P) extension set, every x in E has y=c-x in E and the 13-term indexed sequence P*x*y is minimally zero-sum; proof via complement of P and E membership, including indexed x=y case. SOURCE_STATED D(C5³)=13 makes it extremal but is not required for minimality. Does NOT prove universal E affine inverse or n15 equality.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S054_C5_COMPLEMENTARY_ATOMS.md",
+      "source_ids": [
+        "SRC-0008"
+      ],
+      "notes": "Actual arbitrary indexed P11, not abstract E; empty E vacuous, six-cap re-strips not eliminated. Internal symbolic."
     }
   ]
 }

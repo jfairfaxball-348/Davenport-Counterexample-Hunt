@@ -1,0 +1,9 @@
+# S054 SAME-EXECUTOR hostile proof review — INTERNAL ONLY
+
+1. Count 22+4+2=28 zero-parity blocks exactly; Fano line and complement both quotient-zero because xor of all seven nonzero Q elements=0. Any eight equal q originals yield four disjoint parity-zero pairs, regardless q. Perfect matchings count 105 for *labelled indices*; Fano choices 7. These counts do NOT imply independent H values, stronger inverse or existence of any T.
+2. In the zero-pair-member contradiction, π(a_i)=π(b_i)=0 follows from π(a_i+b_i)=0. Splitting that block into two makes 29 H blocks. Pick ANY 28, apply conditional SOURCE_STATED D(C10³)=28; the resulting nonempty zero-sum union misses an original block, so it is proper T. Even if the omitted block has H sum 0, T would already fail; no loophole.
+3. When t_i≠0, individually selected a_i and b_i cannot form H singleton blocks. The same proof does NOT exclude the important cases. Explicit choice a_i=e1, b_i=2u_i−e1 is available for ANY H sequence U and retains nonzero same parity, so this gate eliminates original lifts only, not U-class.
+4. For q=0, 22+8+2=32 zero parity blocks gives original-index reproving S053's exclusion; dependence on SOURCE_STATED D(H)=28 is NOT removed.
+5. Complement x↔c−x in C5 E(P) holds by swapping subset complement of the eleven ORIGINAL P indices. P+x+(c−x) total0. If both added terms included, B subset P must sum σ; complement P\B zero forces B ALL P. Handles x=c/2 as two indexed equal values. No false universal E-affine inverse.
+6. Every 28-block atom is MINIMAL-zero-sum in H, not a zero-free 28-term H sequence. In particular D(H)=28 is compatible with exactly such an atom, so the 735 descriptions alone are NOT a C20 contradiction.
+7. S053 outsider 4,094 tests and mixed 2,048 tests unchanged, all original nonzero pair-switch cases and hub pencils remain OPEN. No actual n15/n20 G zero-free candidate. No external or formal review, no source proof promotion or novelty/priority.
