@@ -51,7 +51,7 @@ Then X has NO non-q split pair, has EXACTLY q-split set J_X, and selects the TRU
   |J_X|+|R_X|≡0 (mod 2),
 and hence the exact full-G identity is
   sum_G(X)=2[ x_{epsilon_X} + iota^{-1}(sum_{i∈J_X}gamma_i+sum_G R_X) + sum_{i∈B_X}u_i ].
-The S060 condition x_{epsilon_X}∈F_{J_X,gamma}⊆F_* excludes zero for every such X, unless X is empty/full; in fact X contains three singleton Fano positions, so is nonempty proper.
+The S060 condition x_{epsilon_X}∈F_*⊆F_{J_X,gamma} excludes zero for every such X, unless X is empty/full; in fact X contains three singleton Fano positions, so is nonempty proper.
 
 Simultaneously put v_P∈Q with sum_G(Z_P)=10v_P and let H_AB=Z_A∩Z_B, H_AC=Z_A∩Z_C, H_BC=Z_B∩Z_C, K=Z_A∩Z_B∩Z_C (all ORIGINAL positions). The exact weighted-overlap formula is
   sum_G(X)=10(v_A+v_B+v_C)
