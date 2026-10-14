@@ -1,0 +1,11 @@
+# S067 hostile proof review — 14 October 2026
+
+**INTERNAL SAME_EXECUTOR**; not peer-review, external/hosted CI, numerical computation, formal verification or a certified negative result.
+
+CLM-0238: examined the slice restriction carefully: each quotient mask has at most two preimages B,B+A, and any outside-span individual condition hits exactly 1/8 of every fibre of fixed theta(A),theta(B). Distinctness of original witnesses is not assumed. For the singleton-only case, an exact12 quotient cover is impossible because each quotient mask receives at most two values, versus four required. The m2 base proof audits all permitted 3/4/5 complement sizes at total≥11, including the (3,3,5) excluded case. The conclusion is a twelve **subcover**, NOT actual equality D=coset if N=13.
+
+CLM-0239: the 2+6+6 example is **ABSTRACT ONLY**. Irredundancy is proved by an explicit point uniquely hit by each of its 14 forbidden values. For m2 N=14 the complete allowable-set size types are (2,2,6),(2,3,5),(2,4,4),(3,3,4); the latter two contain 12 subcovers, the second is impossible, and the first yields parallel 2-point cosets. No broader m≥3 N14 classification is claimed.
+
+CLM-0240: true original endpoint-swaps only when b_i−a_i is EXACTLY 10d_i in full G and original mask M contains i. Two independent d_i in m2 stabilise D_C under the 4-subgroup; 6+6+2 always gives |D_C|=2 or6 and is excluded. A 12 subcover inside actual D_C forces its common L equal this subgroup, but does **not** impose equality12 carry restrictions on singleton D sets of size6. Budget≤14 and independent differences are conditional, not proven for arbitrary U22.
+
+E(U\\I), q-hub original matchings, all original g and Fano multi-splits, SAME-c four-value sum and Delta, true full-G intersections and complements were held as explicit constraints, NOT checked for existence across arbitrary U22. The S059 local matching model fails the true Fano slab and no 59-label G59 passing all q-only gates was produced. FULL8, 15+ and noncanonical profiles OPEN. Source D2(C5³)=20 remains SRC-0029 ABSTRACT_ONLY SOURCE_STATED; no independent source proof verified or source status promoted. No zero-free G58, D20 equality, phase PASS or campaign.

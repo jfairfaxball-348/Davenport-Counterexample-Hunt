@@ -1,0 +1,16 @@
+{
+  "session": "S067",
+  "sources_at_entry": 29,
+  "sources_at_exit": 29,
+  "original_first28_source_records": "PRESERVED_UNMODIFIED",
+  "sources_file": "UNCHANGED",
+  "critical_source_claims": [
+    "SRC-0008_SOURCE_STATED",
+    "SRC-0015_SOURCE_STATED",
+    "SRC-0023_SOURCE_STATED",
+    "SRC-0029_ABSTRACT_INSPECTED_D2_NOT_INDEPENDENTLY_VERIFIED"
+  ],
+  "new_source_ids": [],
+  "source_promotions": [],
+  "frontier_original30": "UNCHANGED"
+}
