@@ -290,3 +290,10 @@ One explicitly owner-invoked symbolic Phase1 session against live merge-main 96f
 4. Hand-checked C5 third coordinate must share SAME indicator c in x/y boxes; the four missing Σ coordinates cannot be guessed by Cartesian product independent choices. S052 second P11 remains affine and is not a universal inverse.
 5. CRT d0 choices have Δ=0; a claim that ALL 30 labelled choices genuinely change total is false. Four passing first-X indices per d/q are not four independent H values (three labels0); duplicate q and d values also repeat. P* must be FIRST in this proof; other placements, cross-window and B-only untested.
 6. One-atomic-commit PRECOMMIT closeout cannot report outgoing refs; no hosted CI means ABSENT_NOT_PASS. Internal hostile check is not independent review or formal certification.
+
+## S053 lessons — 14 October 2026
+1. **Selected Fano tests are not a complete outsider-shadow:** full count 4,096 parity-zero outsider labels, 4,094 proper tests and 2,047 complement pairs; 2,048 mixed odd-J/XORq original subsets cannot be silently dropped. Even complete outsider shadow says NOTHING about split-pair I≠∅ without E(U\I) verification.
+2. **Parity-only/coherent tensor ceilings:** actual C20 singleton lifts attain 4 and 6 residue line/cap sets; a universal contradiction needs E(U) common-shift or true pair-switch structure, not stronger unsupported cardinality.
+3. **Source boundary:** q=0 exclusion relies on SOURCE_STATED D(C10³)=28; C5 two-extender gate relies on SOURCE_STATED D(C5³)=13. No original proof promotion.
+4. **C5 inverse gap:** E+E disjoint E and midpoint reflection alone allow abstract affine-full extension sets; cannot claim nonzero fibre/inverse for actual arbitrary P11.
+5. **No CRT breakthrough:** S052 24 local first-P* passes cannot be called global, original B-only/cross-window unresolved.
