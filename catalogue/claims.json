@@ -2337,6 +2337,26 @@
       "origin": "research/S058_C15_B_ONLY_FIRST_FAILURE.md",
       "source_ids": [],
       "notes": "Genuine six original-index necessary scalar restriction; not full all-chain or G witness; INTERNAL symbolic."
+    },
+    {
+      "id": "CLM-0219",
+      "statement": "In the canonical hypothetical original C20^3 T59 profile with eight q≠0 g indices, the seven distinct Fano singleton indices decompose uniquely relative to q into four disjoint q-parity superblocks (singleton q and three coset pairs). Splitting any m original pairs whose member parity equals q yields N=12+2m disjoint q-parity supervertices and 22−m other H pair blocks; every matching gives a 28-block H minimal zero-sum sequence. The simultaneous minimality of ALL (N−1)!! matching H28 sequences is EXACTLY equivalent, given total T sum zero, to H-zero-freeness of the unsplit core and membership of every proper nonempty EVEN supervertex subset sum in E(U^(m)). At m0, matching tests are 2046 of the 4094 proper outsider parity-zero indexed tests; the other 2048 are transversals; 3 of 7 Fano lines are pseudo-pair unions and 4 are transversals (315 vs420 of 735 old Fano partitions). These matching constraints are necessary not globally sufficient.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S059_Q_HUB_TRANSVERSAL_AND_MATCHING_NO_GO.md",
+      "source_ids": [
+        "SRC-0023"
+      ],
+      "notes": "Direct exact symbolic group proof. D(H)=28 SOURCE_STATED required only to call induced minimal length28 H sequences extremal. No universal nonzero pair-profile exclusion. INTERNAL."
+    },
+    {
+      "id": "CLM-0220",
+      "statement": "For every m=0,1,2,3 a fully explicit original-index total-zero G=C20^3 59-position collection has all 22 original pair member parities nonzero, eight g parities q=e3, and a canonical 12+2m q-hub representation in which ALL (11+2m)!! perfect-matchings induce the genuine H=C10^3 minimally zero-sum atom e1^9 e2^9 e3^9(e1+e2+e3). Nonetheless the real original Fano transversal line e1,e2,e1+e2 together with nine e2 original pairs forms a proper 21-index G-zero subset (also e1 and s_e1 form a 2-index zero). Thus even complete source-independently verified matching H28 atom compatibility, shared edge values and nonzero t_i do NOT imply full original-index compatibility. This is a hostile countermodel to the restricted inference, NOT a Davenport counterexample or a minimal T59.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S059_Q_HUB_TRANSVERSAL_AND_MATCHING_NO_GO.md",
+      "source_ids": [],
+      "notes": "Actual indexed symbolic G countermodel to matching-only inference, NOT a zero-free G58 candidate. Full mod20 proof and explicit proper G zero subsets. INTERNAL."
     }
   ]
 }

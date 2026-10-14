@@ -1,0 +1,30 @@
+{
+  "session": "S059",
+  "entry_main": "485c9cc24b408bbfa65001ba59baa3bd89b15e99",
+  "post_s058_steering_merge": "485c9cc24b408bbfa65001ba59baa3bd89b15e99",
+  "post_s058_steering_parents": [
+    "b63d28c7e40f7cde497f36eccfb6fa40b7c53c26",
+    "35a798837c058b18081fe9eceb2b737e4dcd8d95"
+  ],
+  "previous_session": "S058",
+  "previous_authored_commit": "66f408e979541818ceec7835d8b5fba6d5bc1b51",
+  "previous_authored_parent": "05851bb5f52a069f774f9ccabde7be8e21b9a20c",
+  "previous_authored_tree": "7c494aab5daa538f2569f004d96885200c1b9d6e",
+  "previous_pr": 59,
+  "previous_merge": "b63d28c7e40f7cde497f36eccfb6fa40b7c53c26",
+  "recent_steering_pr": 60,
+  "open_prs": 0,
+  "s059_session_record_at_entry": false,
+  "s059_competing_session_branches": 0,
+  "existing_steering_branch": "steering/S059-decisive-n20-bridge",
+  "workflow_files": 0,
+  "hosted_runs": 0,
+  "hosted_jobs": 0,
+  "check_runs": 0,
+  "status_contexts": 0,
+  "CI": "ABSENT_NOT_PASS",
+  "rulesets": 0,
+  "branch_protection": "UNKNOWN_403",
+  "review": "INTERNAL_ONLY",
+  "no_intervening_main_change_observed": true
+}

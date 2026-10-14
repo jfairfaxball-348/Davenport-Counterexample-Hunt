@@ -1,0 +1,26 @@
+{
+  "session": "S059",
+  "entry_main": "485c9cc24b408bbfa65001ba59baa3bd89b15e99",
+  "original28_source_objects_unchanged": true,
+  "original30_frontier_row_objects_unchanged": true,
+  "claim_count_from": 218,
+  "claim_count_to": 220,
+  "new_claims": [
+    "CLM-0219",
+    "CLM-0220"
+  ],
+  "mathematics": "INTERNAL_SYMBOLIC_THEOREM_AND_ACTUAL_NONMINIMAL_G59_HOSTILE_COUNTERMODEL",
+  "headline_resolved": false,
+  "actual_original_G_zero_free_candidate": false,
+  "actual_original_G_total_zero_nonminimal_model": true,
+  "canonical_universal_exclusion": false,
+  "no_mathematical_computational_search": true,
+  "source_status_promotions": 0,
+  "phase1": "IN_PROGRESS",
+  "campaign": "CAM-0001 BLOCKED",
+  "CI": "ABSENT_NOT_PASS",
+  "branch_protection": "UNKNOWN_403",
+  "git_prior_math_preregistration": false,
+  "raw_owner_hash_claimed": false,
+  "outgoing_git_refs": "ONLY VERIFY POSTCOMMIT; NOT IN PRECOMMIT ARTIFACT"
+}
