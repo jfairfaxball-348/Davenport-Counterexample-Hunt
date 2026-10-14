@@ -247,3 +247,6 @@ Pure Phase1 exact symbolic group/linear-algebra proof; no mathematical numerical
 
 ## S065 campaign hold — 14 October 2026
 No numerical mathematical/computational search, SAT/ILP/CAS, orbit or candidate generation, author code, Lean, Palomar, campaign launch or Phase2/3 activity. New CLM-0232/0233/0234 exact original C20³ formulas proved symbolically; conditional rank3 toggle exclusion is NOT a new computation, global C20 result, or a certified G58. CAM-0001 PROPOSED/NOT_RUNNING/BLOCKED remains unchanged; Phase1 IN_PROGRESS, S066 FUTURE.
+
+## S067 campaign non-activation — 14 October 2026
+Only symbolic finite-group and covering proofs CLM-0238–0240; NO numerical mathematical search, generated candidates, orbit enumeration, CAS/SAT/ILP, historical author code, Lean, Palomar, certified negative, campaign activation or tooling. CAM-0001 remains PROPOSED / NOT_RUNNING / BLOCKED by source-stated published n6=16. Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, Phase4 OWNER_GATED; S068 requires separate owner request.

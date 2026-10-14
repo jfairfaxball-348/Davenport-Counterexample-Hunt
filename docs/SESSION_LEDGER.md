@@ -244,3 +244,7 @@ Owner-invoked substantial symbolic original-index C20³; entry main 9c19776958e3
 | S066 | 2026-10-14 | Projection-zero packing, critical S065 rank3 correction, original split endpoint torsion symmetry | CLM-0235 self-contained r3 exclusion; CLM-0236 conditional SRC-0029 D2 r2 exclusion; CLM-0237 genuine endpoint directions/exact12 L; no full8/exact12/≥13 contradiction, no real S060 survivor, Phase1 IN_PROGRESS | session/S066-projection-packing-and-endpoint-torsion |
 
 [S066 proof](../research/S066_PROJECTION_PACKING_AND_ENDPOINT_TORSION.md) · [PRECOMMIT closeout](../sessions/S066/CLOSEOUT.md) · S067 FUTURE/UNEXECUTED. Sources28→29 abstract only, original28 JSON objects and frontier30 immutable rows preserved; hosted CI ABSENT_NOT_PASS.
+
+| S067 | 2026-10-14 | All-m 13 cylinder collapse; sharp m2 irredundant 14; original two-endpoint torsion audit | CLM-0238–0240; full8/exact12/≥15, true Fano witness and D20 theorem OPEN; Phase1 IN_PROGRESS | session/S067-thirteen-cover-and-fourteen-boundary |
+
+[S067 proof](../research/S067_THIRTEEN_COVER_AND_FOURTEEN_BOUNDARY.md) · [PRECOMMIT closeout](../sessions/S067/CLOSEOUT.md) · S068 FUTURE/UNEXECUTED. Claims240, sources29 unchanged, original30 frontier rows unchanged. Hosted CI ABSENT_NOT_PASS.
