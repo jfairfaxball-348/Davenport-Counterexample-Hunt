@@ -1,0 +1,19 @@
+{
+  "session": "S059",
+  "source_count_original": 28,
+  "source_original_objects_untouched": true,
+  "frontier_count_original": 30,
+  "frontier_original_objects_untouched": true,
+  "context_sources": [
+    "SRC-0008",
+    "SRC-0015",
+    "SRC-0023"
+  ],
+  "source_D3_C5_cubed_25": "SOURCE_STATED historical author computational premises unauthenticated",
+  "source_D1_C5_cubed_13": "SOURCE_STATED",
+  "source_D_C10_cubed_28": "SOURCE_STATED",
+  "new_primary_proof_inspection": false,
+  "access_promotions": [],
+  "new_sources": [],
+  "note": "CLM-0219/0220 source-independent group/atom algebra; calling H28 maximum extremal remains conditional on SOURCE_STATED D(H)=28. No source promotion."
+}
