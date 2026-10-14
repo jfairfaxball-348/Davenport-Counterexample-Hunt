@@ -1,0 +1,31 @@
+{
+  "session": "S064",
+  "entry_main": "b4f79d52be8b3f0e7608af330ea640d9711cf3a1",
+  "entry_tree": "c4accdfc2be267c3d1f312435c959abce4dc1381",
+  "previous_session": "S063",
+  "previous_authored_commit": "5ab3b250ff3c716be35172031f092c1335433ee0",
+  "previous_authored_parent": "9c19776958e347366cde32925d30af35b6d65d1b",
+  "previous_authored_tree": "c4accdfc2be267c3d1f312435c959abce4dc1381",
+  "previous_pr": 65,
+  "previous_merge": "b4f79d52be8b3f0e7608af330ea640d9711cf3a1",
+  "previous_merge_parents": [
+    "9c19776958e347366cde32925d30af35b6d65d1b",
+    "5ab3b250ff3c716be35172031f092c1335433ee0"
+  ],
+  "previous_postmerge_tree": "c4accdfc2be267c3d1f312435c959abce4dc1381",
+  "entry_open_prs": 0,
+  "competing_S064_branches": 0,
+  "competing_S064_records": 0,
+  "workflow_files": "NOT_IN_TREE",
+  "hosted_runs": 0,
+  "hosted_jobs": 0,
+  "check_runs": 0,
+  "status_contexts": 0,
+  "rulesets": 0,
+  "protection": "UNKNOWN_403",
+  "hosted_ci": "ABSENT_NOT_PASS",
+  "review": "INTERNAL_SAME_EXECUTOR",
+  "git_prior_math_preregistration": false,
+  "visible_upfront_plan": true,
+  "raw_owner_sha256": "NOT_ASSERTED"
+}

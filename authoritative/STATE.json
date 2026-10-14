@@ -24,13 +24,15 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S063",
-  "recommended_next_session": "S064",
+  "last_completed_session": "S064",
+  "recommended_next_session": "S065",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": null,
   "phase1_target_status": "WITHHELD_NO_REPLACEMENT_CAMPAIGN",
   "open_blockers": [
+    "S064 CLM-0231: actual cross-mask equality12 original torsion witnesses with full-G intersection ≡5d mod10 must have d∈L; 5Q intersection is NOT automatic. Full8/≥12 cases still need TRUE original witness-carry contradiction, or a labelled original full S060 q-gate nonminimal G59 survivor. No universal C20 D58 proof.",
+    "S064 CLM-0230: for ALL m non-q original split masks, full pair-twist failure without a single full D_M=Q needs ≥12 distinct (M,v), and equality12 forces exactly three masks A,B,A△B with aligned four-point Q-cosets of a common order4 L; no other mask dangers. This is a rigorous abstract covering theorem, NOT actual witnessed original S060 configuration.",
     "S063 CLM-0227/0228/0229: on actual S060-compatible canonical C20³ fixed four-Fano data, both original members of EACH non-q pair can independently shift by order-two 10theta_i while preserving pair sums, total, all q matchings/F_*; S061 singleton 64-lift action is gauge-redundant for zero-subset predicates. Exact original split-mask D_M obstruction across 8^m pair twists; full failure needs ≥8 distinct (M,v) conditions, equality8 forces full one-mask D_M=Q, otherwise ≥9. For m=1 full D1 or minimal twist; m=2 exact full-or-12 three-mask triangle. Need force ORIGINAL supports/intersection carries into contradiction or find real S060-gate passing nonminimal G59. Fixed C_sigma full is not enough to block all pair twists.",
     "S062 CLM-0225/0226: in S061 actual fixed-Fano 64-lift canonical C20³ fibre, if 0∉C0 then failure needs one full nonzero C_sigma=Q (eight actual reference torsion values), OR ≥12 distinct forbidden values over three proper classes; threshold12 forces COMMON four-point affine coset pattern. Actual original XOR/intersection carry can force invariant C0 zero or third-class witness values, but no arbitrary-U22 theorem establishes the required support intersections. Need all original q-gate E(U\\I), non-q multisplits, mixed odd g and full-H/common-parity-coupled Fano values.",
     "S060 CLM-0221/0222: full ORIGINAL q-parity-pair split family (including multi-splits) and 2048 outsider transversal tests has exact four-Fano-value F_* gate plus full modulo10 sum and three modulo2 difference constraints; no universal arbitrary-U22 emptiness proof. ALL non-q t_i pair splits and three-hub/alternate profiles still open. S059 fixed hostile fibre specially excluded by old S050/S051-style slab.",
@@ -52,6 +54,7 @@
   "gate_ledger": "docs/PHASE_GATE_LEDGER.md",
   "source_snapshot": "2026-10-12",
   "warnings": [
+    "S064 all-m ≥12 non-full covering upgrade supersedes S063's merely ≥9 alternative; EXACT12 is forced two-dimensional in ORIGINAL MASK vectors, not parity classes or arbitrary coefficient subspace. Abstract sharpness does NOT construct a real indexed G59. CLM-0231 intersection-carry conclusion requires actual 5Q-valued original overlap.",
     "S063 larger pair-twist gauge changes the scope of S061/S062: C_sigma=Q/0 in C0 is invariant only across the ORIGINAL-PAIR-FIXED 64 singleton lifts, NOT after changing original non-q pair members. Mask conditions D_M use full G[2] reference sums and true original nonempty proper subsets; abstract four-pair eight-mask counterpattern is not a real C20³ model.",
     "S048 seven-circuit n15 result is restricted to S046 fixed six-cap R AND to E(P11) contained in a NONZERO affine character hyperplane; never infer a universal P11 inverse or n15 equality. S048 n20 127 labelled even subsets need not yield 127 independent values. S048 one maximal CRT chain hostile is not global.",
     "S004/S005 CLM-0068 already had a sufficient conditional base5p-2 bypass; subsequent M+2 claims were for an inferior upper recurrence. Preserve historical records but do not propagate the obsolete D2 prerequisite.",
@@ -850,5 +853,19 @@
     "hosted_ci": "ABSENT_NOT_PASS",
     "protection": "UNKNOWN_403",
     "next": "S063_FUTURE_UNEXECUTED"
+  },
+  "s064_result": {
+    "claims": [
+      "CLM-0230",
+      "CLM-0231"
+    ],
+    "all_m_no_full_cover_min_distinct_mask_values": 12,
+    "all_m_exact12": "three mask rank2 affine aligned 4-cosets",
+    "full_mask_exception": 8,
+    "actual_original_carry_collision_proved": false,
+    "actual_full_gate_survivor": false,
+    "D_C20_3_equals58_proved": false,
+    "phase1": "IN_PROGRESS",
+    "next": "S065 FUTURE"
   }
 }

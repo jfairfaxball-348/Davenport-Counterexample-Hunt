@@ -2438,6 +2438,24 @@
       "origin": "research/S063_ORIGINAL_SPLIT_MASK_GAUGE_AND_COVER.md",
       "source_ids": [],
       "notes": "INTERNAL conditional m1/m2/actual-indexed XOR lemmas and clearly abstract hostile covering example; missing genuine carry forcing and actual survivor."
+    },
+    {
+      "id": "CLM-0230",
+      "statement": "For the exact S063 original non-q split-mask pair-twist cover in Q^m with Q=F2³, for EVERY m≥1 a complete cylinder cover with no full mask D_M=Q requires at least12 distinct (M,v) conditions (improving the former ≥9 for m≥3). At equality12 ALL supported masks lie on a two-dimensional F2 mask plane A,B,A△B, precisely four forbidden Q values per mask, all three Q four-point affine cosets of one common order-four subgroup L, D_(A△B)=D_A+D_B, and every other D_M empty. Inductive proof restricts to a nonforbidden A fibre, forces eight conditions across B/B△A, then at most three outside-plane cylinders cannot cover an uncovered plane fibre; rank-two mask support is conclusion, not assumption. Abstract 4+4+4 is sharp but NOT a labelled actual G59 model. Genuine S060 data with 0∉D_empty either has a full eight mask, ≥12 witnesses or a minimally zero-sum legal pair-twist CONDITIONAL on initial data feasibility.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S064_ALL_MASK_TWELVE_COVER_RIGIDITY.md",
+      "source_ids": [],
+      "notes": "INTERNAL exact finite-linear-algebra all-m sharp 8-full-or-12 theorem and equality-mask rigidity; no real G59 construction or universal n20 contradiction."
+    },
+    {
+      "id": "CLM-0231",
+      "statement": "Assume actual S060-compatible labelled original G=C20³ total-zero T59 exhibits exactly12 non-full covering (M,v) conditions. Then there are three masks A,B,C=A△B with D_A=a+L,D_B=b+L,D_C=a+b+L for one four-point subgroup L⊆Q. Two ORIGINAL torsion witnesses Z,Z' of distinct supported masks have proper nonempty symmetric difference, and if their ACTUAL full-G intersection sum is congruent to 5d mod10, then d MUST belong to L, since the XOR torsion value v+w+d lies in the third D coset and v+w already does. A cross-mask overlap with 5d and d outside L would refute equality12, but no such overlap was forced or realised. Exactly12 requires ≥24 original subset/complement witnesses, a full8 mask ≥16. No actual S060-gate survivor or Davenport theorem.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S064_ALL_MASK_TWELVE_COVER_RIGIDITY.md",
+      "source_ids": [],
+      "notes": "INTERNAL conditional real ORIGINAL support/carry restriction with explicit 5Q hypothesis, true proper XOR, and complement bounds; equality12 might or might not occur."
     }
   ]
 }

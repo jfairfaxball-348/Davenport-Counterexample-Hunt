@@ -287,3 +287,6 @@ All original30 frontier row objects, settled/sandwiched/unknown status boundarie
 
 ## S062 — 14 October 2026
 All 30 original n=1..30 ordered frontier rows and ordered JSON row objects UNCHANGED. CLM-0225/0226 only conditionally restrict 64 original n20 singleton-lift torsion witnesses; they do NOT establish D(C20³)=58, G58 zero-free witness, a universal U22 obstruction or a stronger bound. Source original28 objects unchanged; Phase1 IN_PROGRESS, CAM-0001 BLOCKED, CI ABSENT_NOT_PASS. S063 FUTURE.
+
+## S064 frontier preservation — 2026-10-14
+All 30 original ordered n=1..30 numeric frontier Markdown rows and 30 source JSON frontier row objects unchanged. S064 CLM-0230 strengthens only conditional ORIGINAL C20³ non-q pair mask gauge obstruction to full8 or ≥12; CLM-0231 conditional real original 5d overlap law. NO numerical D(C20³) upper/lower improvement, D(C20³)=58 equality, length58 G zero-free candidate, actual full-S060-gate model, certified counterexample, source status or Phase change. Historical original28 SRC unchanged and SOURCE_STATED where applicable; CI ABSENT_NOT_PASS, CAM-0001 BLOCKED, S065 FUTURE.

@@ -1,0 +1,24 @@
+{
+  "session": "S064",
+  "source_prompt_sha": "a10c3b8714cfbde5f0e28d2a258ec2fef3bd48d1",
+  "prior_research": [
+    "research/S052_FANO_COMMON_KERNEL_PARITY.md",
+    "research/S056_EDGE_POTENTIAL_AND_SPLIT_FIBRES.md",
+    "research/S057_FANO_FULL_MOD10_REALISATION.md",
+    "research/S058_COMMON_THREE_BASIS_SWITCH.md",
+    "research/S059_Q_HUB_TRANSVERSAL_AND_MATCHING_NO_GO.md",
+    "research/S060_TRANSVERSAL_FOUR_POINT_AND_Q_SPLIT_INVERSE.md",
+    "research/S061_SINGLETON_FIBRE_TORSION_TRIANGLE.md",
+    "research/S062_TORSION_WITNESS_CLOSURE_AND_DENSITY.md",
+    "research/S063_ORIGINAL_SPLIT_MASK_GAUGE_AND_COVER.md"
+  ],
+  "source_stated_unchanged": [
+    "SRC-0008",
+    "SRC-0015",
+    "SRC-0023"
+  ],
+  "new_sources": 0,
+  "access_promotions": 0,
+  "original28_source_objects_preserved": true,
+  "original30_frontier_rows_preserved": true
+}
