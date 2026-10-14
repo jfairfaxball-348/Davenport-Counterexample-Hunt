@@ -2593,6 +2593,15 @@
       "origin": "research/S069_CROSS_STRATUM_FANO_SUPPORT_AND_CARRY.md",
       "source_ids": [],
       "notes": "Refines CLM-0234 with exact even Fano and E(U\\J) original labels. The equality/collision is NOT forced by danger-cover counts or current q-gate premises."
+    },
+    {
+      "id": "CLM-0247",
+      "statement": "For three TRUE labelled q-coset Fano singleton differences k_i=Y_i-X_i in C20^3 (each quotient parity q), the four even-weight Fano H values have the SAME C5^3 projection if and only if k_i≡5q modulo10 for all i, equivalently 2k_i=10q in the ORIGINAL full group for every i. Writing k_i=5q+10η_i with η_i∈F2³ gives genuine Delta_ij=q+η_i+η_j, Delta_12+Delta_13+Delta_23=q, and common projected colour lambda(x_epsilon)=4lambda(C) from the exact four-Fano sum C. Does not force this equal-double condition, rank-three Delta, or a real original masked torsion witness.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S069_CROSS_STRATUM_FANO_SUPPORT_AND_CARRY.md",
+      "source_ids": [],
+      "notes": "Internally proved full-original C20 singleton difference/order-four inverse. Conditional criterion not universal S060 q-gate implication."
     }
   ]
 }
