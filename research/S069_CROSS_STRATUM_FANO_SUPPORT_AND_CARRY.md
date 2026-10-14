@@ -65,7 +65,27 @@ Under the assumed S060 gate this equality is IMPOSSIBLE. This is CLM-0234's weig
 
 **Practical gap:** This transport identifies precisely which q-only Fano E(U\J_X) gate a hypothesised triple-overlap collision would violate. But mere existence of three danger masks / a 12-cover / rank3 Delta does **NOT** force the equality W=10(v_A+v_B+v_C). One must prove an ACTUAL coincidence of original overlaps/carries for witnesses across DIFFERENT non-q masks. Those witnesses cannot be replaced by arbitrary abstract (M,v) colours or freely chosen H terms.
 
-## 5. Exhaustive symbolic attack on the requested bridge: what failed
+## 5. CLM-0247 — True same-projection Fano quartet IFF three synchronised order-four singleton swaps
+
+**Theorem (full-G original singleton inverse).** Let k_i=Y_i−X_i∈G for i=1,2,3, so pi(k_i)=q. The following conditions are **equivalent**, with NO assumption about U or any split witness:
+
+1. The four true EVEN Fano H values x_000,x_110,x_101,x_011 have the SAME projection in C5^3 under lambda.
+2. For each i=1,2,3, the full original difference satisfies k_i≡5q (mod 10), componentwise (view q via its canonical {0,1}^3 representatives).
+3. For each i=1,2,3, **2k_i=10q in G**: all three original singleton swaps are order-four roots of the same nonzero order-two element 10q.
+
+If these conditions hold, there are UNIQUE eta_i∈Q with k_i=5q+10eta_i in G, and the ACTUAL parity difference data have the explicit form
+  Delta_ij = q+eta_i+eta_j  (ij=12,13,23).
+In particular Delta_12+Delta_13+Delta_23=q≠0, and the common projected H Fano value is forced:
+  lambda(x_000)=lambda(x_110)=lambda(x_101)=lambda(x_011)=4 lambda(C)
+in C5^3 (4 is the inverse of 4 mod5). Rank(Delta) can be 1,2 or3; rank3 is NOT automatic.
+
+**Proof.** The even-Fano transversal L_ij changes X_i,X_j to Y_i,Y_j, so in FULL G
+  2(x_ij−x_000)=k_i+k_j .
+Equal mod5 H projections mean x_ij−x_000∈ker(lambda)=5Q, equivalently k_i+k_j∈10Q, equivalently k_i+k_j≡0 mod10 for all three pairs (12),(13),(23). Hence in (Z/10)^3, k_1≡−k_2≡−k_3 while k_2≡−k_3; subtracting gives 2k_i≡0 mod10 and all three k_i have the same mod10 class h with 2h=0. Thus h∈{0,5}^3. But pi(k_i)=pi(Y_i)+pi(X_i)=(r_i+q)+r_i=q, and reduction mod10 preserves parity. Therefore h=5q, proving (1)⇒(2). Condition (2) is equivalent to k_i=5q+10eta_i for unique eta_i∈Q in C20^3; doubling gives 2k_i=10q, and every solution of 2k_i=10q has precisely that form, proving (2)⇔(3). Conversely (2) makes each k_i+k_j a multiple of10 in G and hence each x_ij−x_000 a multiple of5 in H, proving (1). Finally k_i+k_j=10(q+eta_i+eta_j) in G, so x_ij−x_000=5(q+eta_i+eta_j) in H and its rho is Delta_ij=q+eta_i+eta_j. Summing over pairs gives q. The full TRUE Fano sum x_000+x_110+x_101+x_011=C reduces mod5 to 4lambda(x_000)=lambda(C), so lambda(x_000)=4lambda(C). QED.
+
+**Consequences and limitations.** S068's shared-projection hypothesis is not an unspecified equality of four independently chosen residues: it requires THREE original singleton differences to have the same exact double 10q, and the common projected colour is the unique 4lambda(C). This is a sharp **original-index order-four** feasibility test for every attempted CLM-0242 support-sharing quartet. However no S060 q-only matching/F_* premise proved here forces 2(Y_i−X_i)=10q, nor do these equations force Delta rank3 or one genuine M-split witness at that projected colour. There is no contradiction from the synchronised singleton swaps alone. Future proof attempts can attack this concrete triple of equal-double equations directly rather than a free mod5-colour diagram.
+
+## 6. Exhaustive symbolic attack on the requested bridge: what failed
 
 1. **Force four SAME-c Fano values.** CLM-0222 allows all mod5 four-tuples satisfying only the full sum C; parity differences impose conditions modulo2, not modulo5. S060's F_* restrictions are strong but no arbitrary-U22 proof here forces lambda(x_000)=lambda(x_110)=lambda(x_101)=lambda(x_011). Without it CLM-0242 cannot be used universally. Even if it holds and a common-shift witness exists, CLM-0244 proves that XORs of any even number of witnesses at fixed full I are q-hub protected; the intended contradiction must use masks/supports that genuinely cross this stratum.
 2. **Full8.** A three-dimensional set of projected-zero ORIGINAL U blocks monochromatically disjoint from a true witness would realise full D_M=Q by CLM-0245, while CLM-0244 proves its raw even XOR immune. That does not construct such compatible blocks in an S060-gated T59. Conversely CLM-0241's locked endpoint differences do not force these block compatibilities or preclude different-orbit danger values. FULL8 remains open.
@@ -74,12 +94,12 @@ Under the assumed S060 gate this equality is IMPOSSIBLE. This is CLM-0234's weig
 5. **Hostile 59 labels.** The S059 concrete 22+8+7 model passes matching atoms but its four true Fano sum C conflicts with the projected slab F_*, as S060 already proved. Adjusting only order-two non-q pair gauge preserves the failing q-gate. The S066 three local split endpoint gadgets are NOT 59 original positions and their U22 compatibility is unproved. A complete labelled 59-position total-zero q-gate survivor, all outsider transversals, all q multi-splits, every full-G four-Fano equation and first non-q zero/complement, was **NOT** obtained. No nonminimal survivor is asserted, and no minimal G59/G58 result is inferred.
 6. **Unexamined profiles.** Nothing here handles all 26 hubs/three-hub alignments or alternate parity profiles P26 (0,4),(0,6),(1,7). No SOURCE_STATED SRC-0008/0015/0023/0029 status changes, and no claim of an independent externally checked source proof.
 
-## 6. Most precise unsolved bridge and next useful target
+## 7. Most precise unsolved bridge and next useful target
 
 The real contradiction sought is the following: starting from ALL true S060 q-hub atoms, all indexed F_* membership, C and Delta constraints, 22 genuinely zero-free U sums and original total0, establish a *forced* triangle of ACTUAL original non-q torsion witnesses Z_A,Z_B,Z_{A△B} with overlap carry W exactly equal to 10(v_A+v_B+v_C), or establish a different explicit proper ORIGINAL zero. CLM-0246 would immediately turn that into the exact F_{J_X,gamma} failure, including original q multi-splits and mixed odd g. **No proof forces such a triangle.** In particular moving among even-Fano witnesses at one fixed complete-pair split stratum I is provably unable to force a new zero (CLM-0244). The positive-looking CLM-0245 F2 fibres need witness-compatible original disjoint projected-zero supports and do not force any cross-mask intersection.
 
 The next session should seek *nontrivial cross-I overlap rigidity* (different non-q masks with A△B△C=0, or differing q-split J) that establishes W equality from exact G-valued data; alternatively an independently verifiable 59-label S060-gate hostile configuration. It must allow a sustained multiroute attack, not another abstract cover-count update. Phase1 remains IN_PROGRESS, no G58 counterexample and no D(C20³)=58 theorem.
 
-## 7. Integrity and boundary
+## 8. Integrity and boundary
 
-CLM-0244–0246 are internal symbolic original-index statements and do not upgrade old external source facts. Claims 243→246; all 29 SRC records including the first28 unchanged; all 30 original frontier row objects unchanged. CAM-0001 remains PROPOSED / NOT_RUNNING / BLOCKED by historical n6=16; no new campaign, certificate, formal check or third-party review. Hosted workflow/run/status observations are absent and NOT PASS. The write workflow and postmerge verification (if completed) are recorded separately; do not treat this precommit mathematical proof as evidence of a published SHA.
+CLM-0244–0247 are internal symbolic original-index statements and do not upgrade old external source facts. Claims 243→247; all 29 SRC records including the first28 unchanged; all 30 original frontier row objects unchanged. CAM-0001 remains PROPOSED / NOT_RUNNING / BLOCKED by historical n6=16; no new campaign, certificate, formal check or third-party review. Hosted workflow/run/status observations are absent and NOT PASS. The write workflow and postmerge verification (if completed) are recorded separately; do not treat this precommit mathematical proof as evidence of a published SHA.
