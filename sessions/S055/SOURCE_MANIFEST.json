@@ -1,0 +1,16 @@
+{
+  "session": "S055",
+  "source_ids": [
+    "SRC-0023",
+    "SRC-0008",
+    "SRC-0015"
+  ],
+  "source_records_before": 28,
+  "source_records_after": 28,
+  "original_source_objects_unchanged": true,
+  "source_status_promotions": 0,
+  "new_primary_original_proof_inspections": 0,
+  "historical_D_C10_3_28": "SOURCE_STATED",
+  "historical_D_C5_3_13": "SOURCE_STATED",
+  "priority_or_novelty_claim": false
+}
