@@ -1,0 +1,24 @@
+{
+  "session": "S060",
+  "entry_main": "d2c0c30a69856fed2a885d299a87d68198937f4d",
+  "claims_before": 220,
+  "claims_after": 222,
+  "new_claims": [
+    "CLM-0221",
+    "CLM-0222"
+  ],
+  "original28_source_objects_unchanged": true,
+  "original30_frontier_row_objects_unchanged": true,
+  "source_status_promotions": 0,
+  "mathematics": "EXACT_ORIGINAL_Q_SPLIT_TRANSVERSAL_EQUIVALENCE_AND_SIX_SINGLETON_FIBRE",
+  "all_q_split_indexed_reduction_exact": true,
+  "arbitrary_U22_universal_exclusion": false,
+  "global_C20_D58_proved": false,
+  "original_G58_zero_free_candidate": false,
+  "mathematical_numerical_search": false,
+  "hosted_ci": "ABSENT_NOT_PASS",
+  "protection": "UNKNOWN_403",
+  "review": "INTERNAL_ONLY",
+  "branch": "session/S060-original-transversal-four-point-inverse",
+  "precommit_outgoing_refs": "NOT_KNOWN_BEFORE_COMMIT"
+}

@@ -2357,6 +2357,24 @@
       "origin": "research/S059_Q_HUB_TRANSVERSAL_AND_MATCHING_NO_GO.md",
       "source_ids": [],
       "notes": "Actual indexed symbolic G countermodel to matching-only inference, NOT a zero-free G58 candidate. Full mod20 proof and explicit proper G zero subsets. INTERNAL."
+    },
+    {
+      "id": "CLM-0221",
+      "statement": "For the conditional original C20³ 59-index canonical profile, let q≠0 be eight g parity, P_q the original 22 pairs with parity t_i=q, and U_I the unsplit H pair core for I⊆P_q. For each selection of one original member alpha_i from every i∈I, the 256 genuinely labelled shifts B_{I,alpha}=iota⁻¹(sum alpha_i+delta s_q+sum g_J), delta+|J|≡|I|(mod2), give F_{I,alpha}=∩_{b∈B}(E(U_I)−b). Let F_* intersect all I/alpha. With total T=0 and U zero-free, absence of any proper original G zero subset splitting only q-parity original pairs is EQUIVALENT to all S059 12+2|I| disjoint q-supervertex perfect matchings giving minimal 28-block H atoms for every I AND all four actual q-avoiding Fano line H values belonging simultaneously to F_*. The remaining 2048 outsider transversal tests reduce by complement to four sets of 256 shifts at I=empty; all one/multi-q-split transversals are covered with original E(U_I), and t_i≠q remains unresolved.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S060_TRANSVERSAL_FOUR_POINT_AND_Q_SPLIT_INVERSE.md",
+      "source_ids": [],
+      "notes": "Exact source-independent symbolic equivalence on conditional canonical original 22+8+7 profile; NO proof the F_* gate is empty for arbitrary U, NO D20 equality. INTERNAL."
+    },
+    {
+      "id": "CLM-0222",
+      "statement": "Fix q-coset original group totals V_i (parity q), their individual named singleton parities r_i,r_i+q (r3=r1+r2), and all other canonical original C20 values. A four-tuple of q-avoiding Fano line H values x0,x12,x13,x23 comes from SIX genuine singleton original values X_i,Y_i summing to V_i IFF x0+x12+x13+x23=overline(V1+V2+V3) in H and rho(xij−x0)=rho(iota⁻¹(Vi+Vj))+r_i+r_j in Q for ij=12,13,23. The affine lift map H³→H⁴ has mod5 rank3, mod2 rank1, exact fibre2^6 per feasible four-tuple. Combining with CLM-0221 gives an exact original q-split-only feasibility test; full 4F_* containment alone is insufficient. Applied to S059 fixed hostile values U=e1⁹e2⁹e3³(e1+e2+e3), all g=S=Vi=e3, the five-shift E slab demands four line third coordinates1 but the original sum identity demands total3 mod10, proving every fixed-group-total lift has an explicit proper ORIGINAL transversal-plus-pairs zero. This is special-core overlap with S050/S051, NOT universal.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S060_TRANSVERSAL_FOUR_POINT_AND_Q_SPLIT_INVERSE.md",
+      "source_ids": [],
+      "notes": "Full mod10 and mod2 original lift iff; mod5 determinant ±4, CRT kernel 2^6. No universal arbitrary-U exclusion, no G58 candidate. INTERNAL."
     }
   ]
 }
