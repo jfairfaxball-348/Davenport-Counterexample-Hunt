@@ -1,0 +1,29 @@
+{
+  "session": "S063",
+  "entry_main": "9c19776958e347366cde32925d30af35b6d65d1b",
+  "previous_session": "S062",
+  "previous_authored_commit": "6803ce2663f440cf3391b35202d9484fa5e2474b",
+  "previous_authored_parent": "fb0903af12e800bedcc19888441ff0655eb7af2c",
+  "previous_authored_tree": "01e2a7af3464998e54731dbc378668859926c4c1",
+  "previous_pr": 64,
+  "previous_merge": "9c19776958e347366cde32925d30af35b6d65d1b",
+  "previous_merge_parents": [
+    "fb0903af12e800bedcc19888441ff0655eb7af2c",
+    "6803ce2663f440cf3391b35202d9484fa5e2474b"
+  ],
+  "previous_postmerge_tree": "01e2a7af3464998e54731dbc378668859926c4c1",
+  "entry_open_prs": 0,
+  "competing_S063_branches": 0,
+  "competing_S063_records": 0,
+  "workflow_files": "NOT_IN_TREE",
+  "hosted_runs": 0,
+  "hosted_jobs": 0,
+  "check_runs": 0,
+  "status_contexts": 0,
+  "rulesets": 0,
+  "protection": "UNKNOWN_403",
+  "ci": "ABSENT_NOT_PASS",
+  "review": "INTERNAL_SAME_EXECUTOR",
+  "git_prior_math_preregistration": false,
+  "visible_upfront_plan": true
+}

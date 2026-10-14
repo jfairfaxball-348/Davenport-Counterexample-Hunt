@@ -24,13 +24,14 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S062",
-  "recommended_next_session": "S063",
+  "last_completed_session": "S063",
+  "recommended_next_session": "S064",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": null,
   "phase1_target_status": "WITHHELD_NO_REPLACEMENT_CAMPAIGN",
   "open_blockers": [
+    "S063 CLM-0227/0228/0229: on actual S060-compatible canonical C20³ fixed four-Fano data, both original members of EACH non-q pair can independently shift by order-two 10theta_i while preserving pair sums, total, all q matchings/F_*; S061 singleton 64-lift action is gauge-redundant for zero-subset predicates. Exact original split-mask D_M obstruction across 8^m pair twists; full failure needs ≥8 distinct (M,v) conditions, equality8 forces full one-mask D_M=Q, otherwise ≥9. For m=1 full D1 or minimal twist; m=2 exact full-or-12 three-mask triangle. Need force ORIGINAL supports/intersection carries into contradiction or find real S060-gate passing nonminimal G59. Fixed C_sigma full is not enough to block all pair twists.",
     "S062 CLM-0225/0226: in S061 actual fixed-Fano 64-lift canonical C20³ fibre, if 0∉C0 then failure needs one full nonzero C_sigma=Q (eight actual reference torsion values), OR ≥12 distinct forbidden values over three proper classes; threshold12 forces COMMON four-point affine coset pattern. Actual original XOR/intersection carry can force invariant C0 zero or third-class witness values, but no arbitrary-U22 theorem establishes the required support intersections. Need all original q-gate E(U\\I), non-q multisplits, mixed odd g and full-H/common-parity-coupled Fano values.",
     "S060 CLM-0221/0222: full ORIGINAL q-parity-pair split family (including multi-splits) and 2048 outsider transversal tests has exact four-Fano-value F_* gate plus full modulo10 sum and three modulo2 difference constraints; no universal arbitrary-U22 emptiness proof. ALL non-q t_i pair splits and three-hub/alternate profiles still open. S059 fixed hostile fibre specially excluded by old S050/S051-style slab.",
     "S059 CLM-0219/0220: all 10,395 twelve-q-hub matching H28 atoms (135,135 after one q-pair split; m≤3 family) are simultaneously realisable with original total-zero/nonzero t_i yet a PROPER original Fano transversal zero sum; matching-only inversion provably INSUFFICIENT. Need 2,048 original q-transversal outsider parity-zero cases plus all 4,096 per-pair one-sided and multi-pair split cases; 420 of the old 735 Fano partitions are transversal.",
@@ -51,6 +52,7 @@
   "gate_ledger": "docs/PHASE_GATE_LEDGER.md",
   "source_snapshot": "2026-10-12",
   "warnings": [
+    "S063 larger pair-twist gauge changes the scope of S061/S062: C_sigma=Q/0 in C0 is invariant only across the ORIGINAL-PAIR-FIXED 64 singleton lifts, NOT after changing original non-q pair members. Mask conditions D_M use full G[2] reference sums and true original nonempty proper subsets; abstract four-pair eight-mask counterpattern is not a real C20³ model.",
     "S048 seven-circuit n15 result is restricted to S046 fixed six-cap R AND to E(P11) contained in a NONZERO affine character hyperplane; never infer a universal P11 inverse or n15 equality. S048 n20 127 labelled even subsets need not yield 127 independent values. S048 one maximal CRT chain hostile is not global.",
     "S004/S005 CLM-0068 already had a sufficient conditional base5p-2 bypass; subsequent M+2 claims were for an inferior upper recurrence. Preserve historical records but do not propagate the obsolete D2 prerequisite.",
     "D2<=5p-3 is an odd-prime upper bound, not exact D2, not an all-prime p2 theorem, and not a novel-priority claim. CLM-0142 proves prime D1 only, not original arbitrary p-group source proof.",
