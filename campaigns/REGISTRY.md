@@ -250,3 +250,6 @@ No numerical mathematical/computational search, SAT/ILP/CAS, orbit or candidate 
 
 ## S067 campaign non-activation — 14 October 2026
 Only symbolic finite-group and covering proofs CLM-0238–0240; NO numerical mathematical search, generated candidates, orbit enumeration, CAS/SAT/ILP, historical author code, Lean, Palomar, certified negative, campaign activation or tooling. CAM-0001 remains PROPOSED / NOT_RUNNING / BLOCKED by source-stated published n6=16. Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, Phase4 OWNER_GATED; S068 requires separate owner request.
+
+## S068 campaign non-activation — 14 October 2026
+Pure Phase1 symbolic full-G original index proofs CLM-0241–0243. No mathematical numerical search, CAS/SAT/ILP, generated orbit/candidate models, historic author's code, Lean/Palomar, certificate, campaign launch or tooling. CAM-0001 remains PROPOSED / NOT_RUNNING / BLOCKED by historical n6=16; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, Phase4 OWNER_GATED. S069 requires a fresh owner request.
