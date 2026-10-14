@@ -1,0 +1,19 @@
+{
+  "session": "S062",
+  "prior_primary_research": [
+    "research/S059_Q_HUB_TRANSVERSAL_AND_MATCHING_NO_GO.md",
+    "research/S060_TRANSVERSAL_FOUR_POINT_AND_Q_SPLIT_INVERSE.md",
+    "research/S061_SINGLETON_FIBRE_TORSION_TRIANGLE.md",
+    "research/S041_DIRECT_TARGETS_FIRST_CHECKPOINT.md",
+    "research/S043_FANO_PARITY_PROFILE_INVERSE.md"
+  ],
+  "source_stated_unchanged": [
+    "SRC-0008",
+    "SRC-0015",
+    "SRC-0023"
+  ],
+  "new_sources": 0,
+  "access_promotions": 0,
+  "original28_source_objects_preserved": true,
+  "original30_frontier_rows_preserved": true
+}

@@ -234,3 +234,7 @@ NO campaign activation. CLM-0219/0220 exact group-theoretic proof and symbolic o
 
 ## S061 — 14 October 2026
 No numerical mathematical search, historical author code, CAS/SAT/ILP, orbit/candidate generation, Lean, Palomar, certification or campaign activity. The C20³ four-Fano 64-lift reduction and ternary torsion obstruction are purely symbolic, not a new candidate/certification. CAM-0001 stays PROPOSED NOT_RUNNING BLOCKED; Phase1 IN_PROGRESS, Phase2/3 NOT_STARTED.
+
+
+## S062 — 14 October 2026
+CAM-0001 PROPOSED / NOT_RUNNING / BLOCKED (historical source-stated n6=16). S062 was symbolic original-index C20³ proofs only, no numeric/computational mathematical search, CAS/SAT/ILP, orbit/candidate generation, Lean/Palomar, author-code execution, new campaign, Phase2/3 or certification. S063 FUTURE.

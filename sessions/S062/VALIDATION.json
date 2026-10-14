@@ -1,0 +1,24 @@
+{
+  "session": "S062",
+  "entry_main": "fb0903af12e800bedcc19888441ff0655eb7af2c",
+  "claims_before": 224,
+  "claims_after": 226,
+  "new_claims": [
+    "CLM-0225",
+    "CLM-0226"
+  ],
+  "original28_source_objects_unchanged": true,
+  "original30_frontier_row_objects_unchanged": true,
+  "source_status_promotions": 0,
+  "mathematics": "SHARP_TORSION_8_FULL_OR_12_DISTRIBUTED_AND_ACTUAL_INDEXED_XOR_CLOSURE",
+  "universal_arbitrary_U22_exclusion": false,
+  "indexed_S060_surviving_hostile_model": false,
+  "global_C20_D58_proved": false,
+  "original_G58_zero_free_candidate": false,
+  "mathematical_numerical_search": false,
+  "hosted_ci": "ABSENT_NOT_PASS",
+  "protection": "UNKNOWN_403",
+  "review": "INTERNAL_SAME_EXECUTOR",
+  "branch": "session/S062-torsion-witness-closure",
+  "precommit_outgoing_refs": "NOT_KNOWN_BEFORE_COMMIT"
+}

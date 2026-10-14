@@ -2393,6 +2393,24 @@
       "origin": "research/S061_SINGLETON_FIBRE_TORSION_TRIANGLE.md",
       "source_ids": [],
       "notes": "Torsion danger + 3-class linked Q additive gate; verified actual complementary original labels, fixed total0 and CRT parity. INTERNAL; no G58 counterexample."
+    },
+    {
+      "id": "CLM-0225",
+      "statement": "For a fixed S061 actual canonical original C20³ 64-lift four-Fano fibre with 0∉C0, if all64 lifts are nonminimal, then either one nonzero split quotient torsion danger class C_i=Q (all8 values) or the three proper C_i contain together ≥12 distinct torsion danger values. At equality12, the corresponding allowed sets B_i=Q\\C_i each have size4 and are cosets of ONE common order4 subgroup of Q with B3 the opposite coset to B1+B2. Abstract sharpness pattern is NOT an actual indexed G59 model; no arbitrary-U22 obstruction is proved.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S062_TORSION_WITNESS_CLOSURE_AND_DENSITY.md",
+      "source_ids": [],
+      "notes": "INTERNAL symbolic sharp linked three-class obstruction capacity; explicitly separate exceptional full class."
+    },
+    {
+      "id": "CLM-0226",
+      "statement": "For actual parity-even original indexed reference G=C20³ proper subset torsion witnesses Z,Z' with split classes sigma,tau and G sums10v,10w, their symmetric difference D has split class sigma+tau and full G sum 10(v+w)-2sum_G(Z∩Z'); if original intersection≡5d mod10 and D nonempty proper then v+w+d belongs to C_(sigma+tau). Disjoint proper-union witnesses have d=0; same-class same-v disjoint noncomplements force 0∈C0. S060 q-split clearance implies any sigma0 proper G-zero must split ≥2 non-q original pairs. Original complement/full and identical/empty exceptions retained.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S062_TORSION_WITNESS_CLOSURE_AND_DENSITY.md",
+      "source_ids": [],
+      "notes": "INTERNAL source-independent indexed full-G intersection-carry proof; no forced collision for arbitrary genuine witness supports."
     }
   ]
 }

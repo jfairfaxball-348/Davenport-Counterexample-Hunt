@@ -590,5 +590,18 @@
       "CLM-0224"
     ],
     "review": "INTERNAL"
+  },
+  "s062_audit": {
+    "date": "2026-10-14",
+    "original28_source_objects_unchanged": true,
+    "new_sources": 0,
+    "source_promotions": 0,
+    "source_stated_0008_0015_0023_preserved": true,
+    "claims": [
+      "CLM-0225",
+      "CLM-0226"
+    ],
+    "new_external_proof_inspection": false,
+    "review": "INTERNAL_SAME_EXECUTOR"
   }
 }
