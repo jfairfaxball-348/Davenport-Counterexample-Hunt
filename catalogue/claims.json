@@ -2265,6 +2265,35 @@
       "origin": "research/S056_FANO_MOD5_INVERSION.md",
       "source_ids": [],
       "notes": "Field-linear proof; SOURCE_STATED C10 D28 not used; S052 mod2 pencil constraints explicitly preserved. Internal symbolic."
+    },
+    {
+      "id": "CLM-0212",
+      "statement": "For the seven original indexed Fano singleton values s_r in C20³ with prescribed individual quotient parities r, any desired FULL seven H=C10³ line sums y_L are simultaneously attainable IF AND ONLY IF the S052 coherent mod2 tensor sum_L (y_L mod2)⊗ell_L equals I_Q. The mod5 incidence is freely solvable; the mod2 incidence has rank4 per coordinate and the tensor kernel is exactly its image. Every admissible full line tuple has exactly 2^9 original indexed singleton lifts. This IFF is solely for the singleton subsystem, not the U22/g/H28 zero-freeness gates.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S057_FANO_FULL_MOD10_REALISATION.md",
+      "source_ids": [],
+      "notes": "Original non-split C20→C2 exact lift; S052 necessary tensor prior, S057 sufficiency and fibre count new; internal symbolic."
+    },
+    {
+      "id": "CLM-0213",
+      "statement": "CONDITIONAL on historical SOURCE_STATED D3(C5³)=25 and D1(C5³)=13: for EVERY 28-term indexed minimally zero-sum A in C10³ and ANY three deleted indices, the remaining25 contain three disjoint mod5-zero blocks whose H sums form a binary basis of ker(C10³→C5³). Their complementary residual (containing deleted indices) has no proper nonempty mod5-zero subset and at most13 indices; if 13 it is a minimal C5³ atom. Bound sharp via e1^9 e2^9 e3^9(e1+e2+e3). Applies to each 735 original C20 H28 block partition independently, not across switches.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S057_EXTREMAL_ATOM_KERNEL_BASIS.md",
+      "source_ids": [
+        "SRC-0015"
+      ],
+      "notes": "Conditional theorem proof INTERNAL. D3(C5³)=25 SOURCE_STATED/author computation unauthenticated; SOURCE_STATED D(H)=28 needed for C20 partition application."
+    },
+    {
+      "id": "CLM-0214",
+      "statement": "For any indexed minimal zero-sum atom A in C10³, four disjoint nonempty C5³-projection-zero index blocks can exist only if they cover ALL of A, and their C2³-kernel block sums form a length4 minimal binary circuit a,b,c,a+b+c with a,b,c linearly independent. In particular no proper subset contains four such disjoint projected-zero blocks. This is necessary only; no global G profile eliminated.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S057_FOUR_BLOCK_SHADOW_DICHOTOMY.md",
+      "source_ids": [],
+      "notes": "Elementary D(C2³)=4 and original atom minimality, source-independent; internal symbolic."
     }
   ]
 }

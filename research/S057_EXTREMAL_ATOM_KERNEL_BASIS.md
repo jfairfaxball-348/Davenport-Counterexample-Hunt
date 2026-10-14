@@ -1,0 +1,20 @@
+# S057 — three-deletion kernel-basis and residual inverse for C10³ 28-atoms (CLM-0213)
+14 October 2026. A genuine projection-sensitive necessary theorem, explicitly CONDITIONAL on the historical SOURCE_STATED multiwise D_3(C5³)=25 (SRC-0015; original computational premises not independently checked). The 1-wise D(C5³)=13 is historical SOURCE_STATED/elsewhere internally proved. All H block indices are distinct original labels.
+
+Let H=C10³ and let A=(a1,...,a28) be ANY indexed MINIMAL zero-sum sequence in H. Write rho:H→C5³ for coordinate reduction mod5 and K=ker rho={0,5}³, identified with F2³ via 5v↔v.
+
+**Theorem.** For EVERY set Z of THREE distinct indices of A there exist THREE pairwise index-disjoint, nonempty index blocks B1,B2,B3 in A\Z with rho(sum B_j)=0 and with their H block sums k_j=sum B_j in K forming an F2 BASIS of K. If R is the complementary indexed subsequence of A outside B1∪B2∪B3 (and therefore contains all three Z indices), rho(R) contains NO proper nonempty zero-sum subsequence. Consequently |R|≤13; if |R|=13, rho(R) is a minimally zero-sum length13 C5³ atom. The numerical residual bound is SHARP.
+
+Proof. A\Z has 25 original H positions. D_3(C5³)=25 guarantees three pairwise disjoint nonempty rho-zero-sum index subsets B_j of these 25, regardless of multiplicities. The H sums k_j lie in K. If any nonempty selection of k_j summed to zero, the union of corresponding B_j would be a nonempty H-zero-sum subset omitting Z, hence a PROPER subset of the atom A, contradiction. Three vectors of order-two group K with NO nonempty zero-sum are linearly independent and therefore a basis.
+
+If an indexed proper nonempty subcollection C of R had rho(sum C)=0, then sum C∈K. The basis k_j supplies a unique subset I⊆{1,2,3} with sum_{j∈I} k_j = -sum C (the minus sign is immaterial in K). The union C∪(∪_{j∈I}B_j) would be nonempty and H-zero-sum yet PROPER in A, because C omits at least one R index. Contradiction. Thus rho(R) has no proper nonempty zero subset. If |R|≥14, D(C5³)=13 applied to any 13 of its original indices forces a proper nonempty rho-zero subset, contradiction. Hence |R|≤13. If |R|=13, the same D bound forces a rho-zero subset, which must be all R; minimality follows.
+
+Sharp example. With standard H basis e1,e2,e3, take
+    A=e1^9 e2^9 e3^9 (e1+e2+e3),
+of length28. Without the final term, a zero subsum requires selecting 0 or10 copies of each basis term, but at most9 are available; with the final term it requires selecting all nine copies of EACH e_i. Thus A is a genuine H28 minimal atom. Choose Bj as five separate original copies of e_j. Then k_j=5e_j form the binary basis and
+    R=e1^4 e2^4 e3^4 (e1+e2+e3)
+is a C5³ minimally zero-sum sequence of length13. So no universal bound ≤12 can replace13 for arbitrary H28 atoms.
+
+**Application to S054/S055.** In the hypothetical C20 T59, EVERY one of the 735 original Fano line/cap × eight-g matching 28-block partitions gives an indexed H28 atom conditional on SOURCE_STATED D(H)=28. The theorem therefore applies to ANY THREE deleted H blocks of EACH matching and Fano line partition. Each extracted B_j is a union of entire ORIGINAL indexed parity-zero G blocks; its original G sum lies in 10G and the three resulting order-two values form a basis. This is a new testable inverse OBLIGATION, NOT a contradiction or exclusion of any nonzero t_i profile.
+
+**Reverse audit.** The B_j cannot be taken independent across different four-cycle-switched matchings; source D3=25 remains SOURCE_STATED (SRC-0015 computational dependencies unverified); minimality of the H28 atom is required; no counterfeit direct product G=C2³⊕H is used; duplicates remain original distinct positions. The sharp example explicitly blocks an unjustified stronger residual cutoff. INTERNAL only, no CAS/solver/exhaustive search.

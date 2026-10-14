@@ -1330,3 +1330,10 @@ All 28 original eight-g pair H values are jointly h_jk=w+d_j+d_k with π_H(w)=q;
 
 ### CLM-0211 — PROGRAMME_PROVED
 Seven Fano ORIGINAL singleton H line block values modulo5 may be prescribed arbitrarily even fixing each singleton's original C20→C2 parity: Fano incidence N has inverse 3Nᵀ−J modulo5. FULL mod10 line constraints and simultaneous maximal H28 atoms remain unresolved; S052 parity tensor is prior. [Proof](../research/S056_FANO_MOD5_INVERSION.md).
+
+## S057 — 14 October 2026
+- **CLM-0212 [PROGRAMME_PROVED; INTERNAL]** Exact complete ORIGINAL C20 seven-Fano-line H mod10 lift **iff** S052 mod2 tensor equals identity; all mod5 independently realizable, modulo2 rank4 per coordinate, 2^9 distinct singleton lifts per admissible H line tuple. Only isolated seven original singleton subsystem. Proof: research/S057_FANO_FULL_MOD10_REALISATION.md.
+- **CLM-0213 [PROGRAMME_PROVED conditional; INTERNAL]** Using SOURCE_STATED SRC-0015 D3(C5³)=25 and D1(C5³)=13, every 28-term H=C10³ atom after ANY 3 original H indices removed yields a 3-block mod5-zero K=C2³ basis and residual ≤13 with no proper projected zero subset. Sharp canonical H28 example. No arbitrary U22 profile exclusion. Proof: research/S057_EXTREMAL_ATOM_KERNEL_BASIS.md.
+- **CLM-0214 [PROGRAMME_PROVED; INTERNAL]** Four disjoint mod5-zero blocks of any C10³ minimal atom must cover ALL original H indices; kernel sums form binary 4-circuit; cannot use them on a proper subset. Proof: research/S057_FOUR_BLOCK_SHADOW_DICHOTOMY.md.
+
+NO new D(C15³)=43 or D(C20³)=58 theorem, no 43/58-term ORIGINAL zero-free G candidate or certification; same executor only. Original 211 claims retained unmodified; catalogue now 214 unique IDs.
