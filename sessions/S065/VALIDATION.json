@@ -1,0 +1,29 @@
+{
+  "session": "S065",
+  "entry_main": "c5988336624bc0e8af3837cb4f3506add3b1c69e",
+  "claims_before": 231,
+  "claims_after": 234,
+  "new_claims": [
+    "CLM-0232",
+    "CLM-0233",
+    "CLM-0234"
+  ],
+  "original28_source_objects_unchanged": true,
+  "original30_frontier_row_objects_unchanged": true,
+  "source_status_promotions": 0,
+  "original_mask_E_gate": "EXACT_IFF",
+  "nonq_order2_pair_cosets": "EXACT",
+  "rank3_12_exclusion": "CONDITIONAL",
+  "triple_XOR": "EXACT_CARRY_NOT_FORCED",
+  "forced_rank3": false,
+  "universal_arbitrary_U22_exclusion": false,
+  "indexed_S060_surviving_hostile_model": false,
+  "global_C20_D58_proved": false,
+  "original_G58_zero_free_candidate": false,
+  "mathematical_numerical_search": false,
+  "hosted_ci": "ABSENT_NOT_PASS",
+  "protection": "UNKNOWN_403",
+  "review": "INTERNAL_SAME_EXECUTOR",
+  "branch": "session/S065-original-mask-two-torsion-triple-xor",
+  "precommit_outgoing_refs": "NOT_KNOWN_BEFORE_COMMIT"
+}

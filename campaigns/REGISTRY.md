@@ -244,3 +244,6 @@ NONE activated or added. CLM-0227–0229 original non-q pair torsion gauge and m
 
 ## S064 non-activation — 2026-10-14
 Pure Phase1 exact symbolic group/linear-algebra proof; no mathematical numerical/computational search, SAT/ILP/CAS, orbit/candidate enumeration, historical author's code, Lean, Palomar or new campaign. CAM-0001 stays PROPOSED / NOT RUNNING / BLOCKED by historical n6=16. No phase change, new G58 candidate, certificate or proof of D(C20³)=58. S065 FUTURE.
+
+## S065 campaign hold — 14 October 2026
+No numerical mathematical/computational search, SAT/ILP/CAS, orbit or candidate generation, author code, Lean, Palomar, campaign launch or Phase2/3 activity. New CLM-0232/0233/0234 exact original C20³ formulas proved symbolically; conditional rank3 toggle exclusion is NOT a new computation, global C20 result, or a certified G58. CAM-0001 PROPOSED/NOT_RUNNING/BLOCKED remains unchanged; Phase1 IN_PROGRESS, S066 FUTURE.

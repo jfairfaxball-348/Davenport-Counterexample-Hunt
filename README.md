@@ -2,7 +2,7 @@
 
 Goal: test the conjecture $D(C_n^3)=3n-2$ by source-first reduction theory and eventually certified computation. An explicit zero-sumfree sequence of length $3n-2$ would refute equality. **No counterexample is claimed.**
 
-Current completed session: **S029**. Indexed deletion counts now eliminate every exactly-four balanced family and force at least 2p blocks; arbitrary larger families remain unresolved. [Full proof](research/S029_INDEXED_CW_BLOCK_MULTIPLICITY.md). Older numbered summaries below are historical at their session cutoffs.
+Current completed session: **S065** (earlier S029 result described below remains historical). Indexed deletion counts now eliminate every exactly-four balanced family and force at least 2p blocks; arbitrary larger families remain unresolved. [Full proof](research/S029_INDEXED_CW_BLOCK_MULTIPLICITY.md). Older numbered summaries below are historical at their session cutoffs.
 
 S004 corrected the frontier: **D(C6³)=16 is already a published exact result**, and classical 1969 families settle several other inherited interval entries. CAM-0001 remains **PROPOSED / NOT RUNNING**, with its premise obsolete and activation blocked. Phase 1 is **IN_PROGRESS**; Phases 2 and 3 have not started. No replacement tooling target is selected.
 
@@ -25,3 +25,6 @@ S058 (14 October 2026): a source-conditional common three-block C2³ kernel basi
 
 ## S064 latest mathematical checkpoint — 14 October 2026
 [S064 all-mask twelve-cover proof](research/S064_ALL_MASK_TWELVE_COVER_RIGIDITY.md) (CLM-0230/0231): all permissible independent non-q pair torsion twists can fail only with a full eight-value original split mask or at least **twelve** distinct genuine mask/value witnesses; equality12 forces three rank-two masks with common affine cosets. This is a rigorous conditional covering result, not a full original-index incompatibility proof. Actual U22, four true SAME-c Fano H values, q-split E(U\I), 5d overlap carry, and three-hub/P26 alternatives are still unresolved. No D(C20³)=58 theorem or G58 zero-free candidate, 231 claims, Phase1 IN_PROGRESS; [S065 handover](authoritative/NEXT_SESSION_PROMPT.md) is FUTURE ONLY.
+
+## S065 latest mathematical checkpoint — 14 October 2026
+[Exact original mask E(U\\I), non-q order-two pair-toggle symmetry and triple original XOR](research/S065_TRUE_MASK_TORSION_TOGGLES_AND_TRIPLE_XOR.md) (CLM-0232–0234): genuine order2 original full-pair block sums force D_M union-of-cosets restrictions. In any exact12 three-mask obstruction EVERY non-q order2 pair direction must lie in common rank2 L; therefore THREE independent such directions exclude exact12. Their existence is NOT proved in arbitrary U22. Triple-XOR gives a direct real intersection collision test without individual 5Q pair overlap. Full8 and ≥13, arbitrary U22/Fano and 26-hub/three-hub/P26 remain unresolved; no G58 candidate or D20=58 theorem. Phase1 IN_PROGRESS, 234 claims; S066 handover FUTURE only.

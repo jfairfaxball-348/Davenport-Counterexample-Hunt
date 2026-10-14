@@ -1,0 +1,2 @@
+# S065 plan (owner-visible before mathematics)
+1. Audit remote S064 two-parent merge/main/claims/source/frontier/check governance. 2. Reconstruct genuine non-q mask constraints using ALL original indices and E(U\\I). 3. Attack full8/equality12 with real complete-pair 2-torsion toggles, and the three-witness XOR overlap route. 4. Hostile audit small m and 13+ coverage, distinguish conditional lemmas from universal proof. 5. Sync ledgers/review, precommit closeout, future S066 handover, atomic session branch/PR/ordinary merge, independently verify remote postmerge.
