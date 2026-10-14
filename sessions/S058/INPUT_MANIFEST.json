@@ -1,0 +1,11 @@
+{
+  "session": "S058",
+  "entry_main": "05851bb5f52a069f774f9ccabde7be8e21b9a20c",
+  "prompt_path": "authoritative/NEXT_SESSION_PROMPT.md",
+  "prompt_blob_sha_at_entry": "d061a60d563de1e8bc41b746c7437658f29b9d8a",
+  "owner_presentation_normalised": "run next session https://github.com/jfairfaxball-348/Davenport-Counterexample-Hunt/blob/main/authoritative/NEXT_SESSION_PROMPT.md",
+  "raw_owner_sha256": null,
+  "raw_owner_sha_claimed": false,
+  "git_timestamped_preregistration_pre_math": false,
+  "visible_upfront_plan": true
+}

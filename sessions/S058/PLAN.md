@@ -1,0 +1,6 @@
+# S058 retrospective plan and stopping rule
+Visible owner-facing plan was delivered before mathematics; this Git plan is written AFTER preliminary reasoning and is NOT falsely timestamped as prior mathematical Git preregistration. Entry LIVE main 05851bb5f52a069f774f9ccabde7be8e21b9a20c; one session, Phase1 only, no numerical/computational mathematical search or third-party certification.
+1. B: use S057 three-deletion triple basis to find a basis SHARED across all three quartet matching switches; tighten every residual projected block into a minimal C5 atom, couple to actual P≤11 extender sets. Try nonzero t_i universal profile elimination; if it fails, exhibit the first missing inverse implication and a hostile model.
+2. A: actual P11 affine-span inverse attack, including support≥7 and six-cap restrictions; separate any purely abstract countermodel from an actual indexed P.
+3. C: derive B-only original C15 CRT Δ and explicit initial failing conditions, without mislabelling fixed passing windows.
+Stop upon completed internal symbolic proofs and explicit uncovered cases; reconcile all ledgers, one atomic authored branch commit, PR and ordinary two-parent merge if permitted. S059 future only.

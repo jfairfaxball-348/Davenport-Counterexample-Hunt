@@ -20,3 +20,5 @@ S029 CLM-0125/0126: elementary indexed Chevalley–Warning deletion counts force
 
 
 S057 (14 October 2026): exact FULL original seven-Fano-line lift iff inherited binary tensor; conditional 3-deletion kernel-basis/residual≤13 theorem for maximal C10³ atoms; four-block shadow packing dichotomy. D(C15³)=43 and D(C20³)=58 remain open; Phase1 active, S058 future. See authoritative/START_HERE.md and research/S057_*.
+
+S058 (14 October 2026): a source-conditional common three-block C2³ kernel basis is now available across ALL THREE original quartet-switched maximal C10³ atoms simultaneously, leaving one C5³ projected zero-free residue of length≤11 with three atom completions. An actual P11 inverse and full original-index mixed-primary contradiction remain missing; C15 B-only first-character restriction is exact but does not reject S052 fixed decoration. No 43/58 equality, original G witness, certification or mathematical search. Phase1 IN_PROGRESS; S059 FUTURE. See [S058 results](research/S058_CROSS_FRONT_SYNTHESIS.md).
