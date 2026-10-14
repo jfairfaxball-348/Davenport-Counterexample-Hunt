@@ -2247,6 +2247,24 @@
       "origin": "research/S055_ORIGINAL_ONE_SPLIT_COMPLEMENT.md",
       "source_ids": [],
       "notes": "Exact original-index symbolic duality; 90,112 labelled one-sided conditions across22 pairs, not independent H values. INTERNAL only."
+    },
+    {
+      "id": "CLM-0210",
+      "statement": "In the specified C20 original eight-g equal-nonzero-quotient subsystem, every H pair-block value is h_jk=w+d_j+d_k with w=g1 mod10, d_j=iota^{-1}(g_j-g1), d1=0, πH(w)=q; all four-cycle matching sums coincide. Every one-sided nonzero t_i split test admits the exact two-layer 4096-label β_i(C,ε)+((|J|−ε)/2)w+Σ_J d_j membership normal form in E(U\\{i}); all 2048 mixed odd-J tests included. No universal elimination.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S056_EDGE_POTENTIAL_AND_SPLIT_FIBRES.md",
+      "source_ids": [],
+      "notes": "Symbolic original G=C20 to Q=C2 and iota:H=C10 to 2G; no splitting of G, no inverse theorem, INTERNAL only."
+    },
+    {
+      "id": "CLM-0211",
+      "statement": "For seven ORIGINAL C20 Fano singleton parities r, any arbitrary seven prescribed mod5 H line sums h_L are attainable by choosing original singleton mod5 residues: Fano incidence N is invertible mod5 with N^{-1}=3N^T−J; CRT simultaneously enforces each fixed original mod2 parity. This does not prescribe full mod10 H line values or imply extremal H atom consistency.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S056_FANO_MOD5_INVERSION.md",
+      "source_ids": [],
+      "notes": "Field-linear proof; SOURCE_STATED C10 D28 not used; S052 mod2 pencil constraints explicitly preserved. Internal symbolic."
     }
   ]
 }

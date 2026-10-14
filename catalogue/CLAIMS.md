@@ -1322,3 +1322,11 @@ Given S054's hypothetical T59 with all 59 original terms in nonzero Q parity and
 
 ### CLM-0209 — PROGRAMME_PROVED (logical reduction)
 For each original pair i and 4096 outsider subsets A with πΣA=t_i, z_a(A)+z_b(X\A)=c+u_i, the reflection centre of E(U\{i}); hence all 8192 indexed a/b one-split obligations reduce exactly to 4096 one-sided membership obligations. This is not their elimination or an all-split criterion alone. [Proof](../research/S055_ORIGINAL_ONE_SPLIT_COMPLEMENT.md).
+
+## S056 original-index value-sensitive normal forms (INTERNAL ONLY)
+
+### CLM-0210 — PROGRAMME_PROVED
+All 28 original eight-g pair H values are jointly h_jk=w+d_j+d_k with π_H(w)=q; 4-cycle and all-match total identities follow. All 4096 indexed one-sided nonzero t_i split extension tests per i admit exact two-layer β_i(C,ε)+((|J|−ε)/2)w+Σ_J d_j form; 2048 mixed odd-J cases included. No inverse universal elimination. [Proof](../research/S056_EDGE_POTENTIAL_AND_SPLIT_FIBRES.md).
+
+### CLM-0211 — PROGRAMME_PROVED
+Seven Fano ORIGINAL singleton H line block values modulo5 may be prescribed arbitrarily even fixing each singleton's original C20→C2 parity: Fano incidence N has inverse 3Nᵀ−J modulo5. FULL mod10 line constraints and simultaneous maximal H28 atoms remain unresolved; S052 parity tensor is prior. [Proof](../research/S056_FANO_MOD5_INVERSION.md).

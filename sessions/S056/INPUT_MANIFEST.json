@@ -1,0 +1,11 @@
+{
+  "session": "S056",
+  "entry_main": "fa3c052a596a2750b3c311a98d95971080d7b40b",
+  "prompt_path": "sessions/S056/INPUT.md",
+  "prompt_blob_sha_at_entry": "7915c6766d6172f49e1137cab5af0591c8178978",
+  "owner_presentation_normalised": true,
+  "raw_owner_sha256": null,
+  "raw_owner_sha_claimed": false,
+  "git_timestamped_preregistration_pre_math": false,
+  "visible_upfront_plan": true
+}

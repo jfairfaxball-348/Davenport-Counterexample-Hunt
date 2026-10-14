@@ -1,0 +1,2 @@
+# S056 owner invocation as observed
+14 October 2026. User supplied a GitHub link and requested: `run session [https://github.com/jfairfaxball-348/Davenport-Counterexample-Hunt/blob/main/authoritative/NEXT_SESSION_PROMPT.md]`. This is a NORMALISED visible presentation, not raw backend user bytes; no raw-owner SHA256 asserted. The exact available repository prompt text at entry is in INPUT.md, live blob SHA 7915c6766d6172f49e1137cab5af0591c8178978.

@@ -311,3 +311,10 @@ One explicitly owner-invoked symbolic Phase1 session against live merge-main 96f
 3. **Split fibre duality:** z_a(A)+z_b(X\A)=c+u_i; extension reflection is E(U\{i}), not E(U). 8192→4096 paired labelled tests is a lossless reduction, not independent values and not elimination.
 4. **Actual P11 E empty:** c≠0 means c∉span(∅); nonempty affine inverse still OPEN; abstract affine-full F is not a real P.
 5. **Provenance/limits:** fixed CRT label passes not universal; Phase1 remains open, SRC source statuses unchanged, no G witness, no hosted CI PASS, internal review and no pre-math Git preregistration.
+
+## S056 lessons — 14 October 2026
+1. Do not treat 28 g-edge H values from 8 original equal-parity g positions as independent: h_jk=w+d_j+d_k, every four-cycle switch preserves matched sum. This is a value normal form, not a new atom inverse or contradiction.
+2. Full one-split I={i} constraints require both even/odd J and ALL 16 parity-compatible Fano C indices per parity: 4096 one-sided labels per i, including 2048 mixed odd-J. Formula (4) does not justify dropping multi-splits or duplicate H values.
+3. Seven Fano line H labels mod5 are freely assignable through explicit 7×7 incidence inverse; any impossibility must use more than Fano-only mod5, particularly modulo2 coherence plus actual H28 atom structure and other original-index tests.
+4. C5 e1^4e2^4e3^3 actual P11 has E a plane, only calibration, not a full-span counterexample or general support≥7 inverse. Later CRT all-index windows not computed.
+5. No endpoint/candidate/source advancement, no hosted CI, protection 403 UNKNOWN; same-executor internal proof audit, Git prereg before proof FALSE.

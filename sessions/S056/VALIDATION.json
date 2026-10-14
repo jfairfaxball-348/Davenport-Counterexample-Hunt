@@ -1,0 +1,15 @@
+{
+  "session": "S056",
+  "entry_main": "fa3c052a596a2750b3c311a98d95971080d7b40b",
+  "source_original28_unchanged": true,
+  "frontier_original30_unchanged": true,
+  "claim_ids_from": 209,
+  "claim_ids_to": 211,
+  "json_parsed_locally": true,
+  "mathematics": "INTERNAL_SYMBOLIC_PROOF_AND_REVIEW",
+  "published_original_G_candidate": false,
+  "headline_resolved": false,
+  "CI": "ABSENT_NOT_PASS",
+  "protection": "UNKNOWN_403",
+  "remote_write_evidence": "TO_BE_OBSERVED_AFTER_COMMIT; NO OUTGOING SHA PRECLAIMED"
+}
