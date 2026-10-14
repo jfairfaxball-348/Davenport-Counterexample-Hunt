@@ -1,3 +1,6 @@
+# S065 FRONTIER PRESERVATION — 2026-10-14
+All original30 n=1..30 numeric frontier table rows and original30 JSON row objects are untouched. CLM-0232–0234 add exact ACTUAL C20 original-mask E(U\\I) / order2-block / triple-XOR conditional relations; independent non-q order2 rank3 excludes exact12 ONLY IF such rank3 exists. No new D(C20³) bound or D20=58 equality, original zero-free G58, full-gate hostile G59, literature/source promotion, Phase1 PASS or hosted CI PASS. SRC original28 unchanged; three-hub/P26 gates open, CAM-0001 BLOCKED, S066 FUTURE.
+
 # S063 FRONTIER AUDIT — 2026-10-14
 No numerical/evidence frontier value changed: preserve ALL ORIGINAL 30 Markdown table rows and original30 JSON row objects without alteration. CLM-0227–0229 are conditional original-n20 split-mask gauge/cover lemmas only; D(C20³)=58 NOT proved and G58 zero-free candidate NONE. Original28 source objects untouched, SRC-0008/0015/0023 SOURCE_STATED, Phase1 IN_PROGRESS, CAM-0001 BLOCKED. Three-hub and P26 (0,4),(0,6),(1,7) remain. No mathematical search/CI PASS or outside certification; S064 future.
 

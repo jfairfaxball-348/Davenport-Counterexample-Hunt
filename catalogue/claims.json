@@ -2456,6 +2456,33 @@
       "origin": "research/S064_ALL_MASK_TWELVE_COVER_RIGIDITY.md",
       "source_ids": [],
       "notes": "INTERNAL conditional real ORIGINAL support/carry restriction with explicit 5Q hypothesis, true proper XOR, and complement bounds; equality12 might or might not occur."
+    },
+    {
+      "id": "CLM-0232",
+      "statement": "In any truly S060-compatible canonical labelled total-zero C20³ T59, a genuine original non-q split-mask danger v∈D_M for nonempty M holds iff one chooses q split indices J, one actual member of every index in I=M∪J, a genuine quotient-parity-balancing subset of the eight g and seven original singleton outsiders, and a subset B of unsplit original pairs, with iota^-1(selected single originals+outsiders)+sum_B u_i=5v in C10³. Equivalently b+5v is outside E(U\\\\I). Conversely every such choice produces an actual proper original torsion witness; complement gives the paired witness. No real-data existence inferred.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S065_TRUE_MASK_TORSION_TOGGLES_AND_TRIPLE_XOR.md",
+      "source_ids": [],
+      "notes": "INTERNAL exact original E extension characterization for every non-q mask; q-only/genuine four-Fano gates and all label constraints preserved."
+    },
+    {
+      "id": "CLM-0233",
+      "statement": "For any nonempty original non-q split mask M, if an unsplit original non-q pair i outside M has u_i=5e_i of order2 in H, toggling BOTH its original members changes the actual torsion witness value by e_i without changing M. Thus D_M is a union of cosets of span{e_i:i outside M among non-q order2 pairs}; if rank3 and nonempty then D_M=Q. In an ACTUAL S064 exact12 three-mask common L configuration, each such e_i must lie in L because at least one of A,B,A△B omits i. Therefore three independent non-q order2 u_i forbid exact12, forcing full8 or ≥13 in an all-gauge failure. U22 zero-free makes all order2 U terms independent (at most3). These are conditional and do not establish such 3 directions exist.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S065_TRUE_MASK_TORSION_TOGGLES_AND_TRIPLE_XOR.md",
+      "source_ids": [],
+      "notes": "INTERNAL exact genuinely indexed toggle and conditional exact12 elimination; rank3 not known mandatory, full-eight may be generated without pairwise XOR zero."
+    },
+    {
+      "id": "CLM-0234",
+      "statement": "For three actual original G=C20³ torsion witnesses Z_A,Z_B,Z_C with non-q split masks A,B,C=A△B and sums10v_A,10v_B,10v_C, their triple symmetric difference X has NO non-q split pairs, and sum_G(X)=10(v_A+v_B+v_C)−2(sum of three pairwise ORIGINAL intersection sums)+4(original triple-intersection sum). If X is nonempty proper, S060 forbids this full-G expression being zero, independently of whether any individual pairwise intersection is 5Q mod10. At an exact12 common-coset cover v_A+v_B+v_C lies in L; a matching weighted-overlap sum would give a genuine q-only zero. No such overlap equality was forced or observed.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S065_TRUE_MASK_TORSION_TOGGLES_AND_TRIPLE_XOR.md",
+      "source_ids": [],
+      "notes": "INTERNAL exact full G three-original-subset XOR/carry condition; exceptional X empty/full excluded; not a realised contradiction."
     }
   ]
 }
