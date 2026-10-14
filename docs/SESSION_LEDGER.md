@@ -252,3 +252,7 @@ Owner-invoked substantial symbolic original-index C20³; entry main 9c19776958e3
 | S068 | 2026-10-14 | True same-Fano original shifted support, endpoint 10-torsion parity and exact single-orbit XOR audit | CLM-0241–0243 conditional original-index reductions, no FULL8/high-budget/no original G59 bridge, Phase1 IN_PROGRESS | session/S068-original-fano-fibre-and-xor-barrier |
 
 [S068 proof](../research/S068_ORIGINAL_FANO_FIBRE_AND_XOR_BARRIER.md) · [PRECOMMIT closeout](../sessions/S068/CLOSEOUT.md) · S069 FUTURE/UNEXECUTED. Claims243; source29/frontier30 unchanged, CI ABSENT_NOT_PASS.
+
+| S069 | 2026-10-14 | True original cross-Fano same-I XOR regrouping; compatible projected U-zero-block torsion fibre; exact even-Fano three-mask carry index transport | CLM-0244–0246 INTERNAL; no forced original overlap W, full G59 gate survivor or D20 theorem; Phase1 IN_PROGRESS | session/S069-original-cross-stratum-support-barrier |
+
+[S069 proof](../research/S069_CROSS_STRATUM_FANO_SUPPORT_AND_CARRY.md) · [PRECOMMIT closeout](../sessions/S069/CLOSEOUT.md) · [hostile review](../sessions/S069/REVIEW.md) · S070 FUTURE/UNEXECUTED. Claims246, sources29 unchanged and original30 frontier immutable. CI ABSENT_NOT_PASS. Connector limits prevented one atomic authored branch commit; disclosure in closeout.
