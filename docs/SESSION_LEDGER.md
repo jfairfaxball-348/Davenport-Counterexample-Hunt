@@ -248,3 +248,7 @@ Owner-invoked substantial symbolic original-index C20³; entry main 9c19776958e3
 | S067 | 2026-10-14 | All-m 13 cylinder collapse; sharp m2 irredundant 14; original two-endpoint torsion audit | CLM-0238–0240; full8/exact12/≥15, true Fano witness and D20 theorem OPEN; Phase1 IN_PROGRESS | session/S067-thirteen-cover-and-fourteen-boundary |
 
 [S067 proof](../research/S067_THIRTEEN_COVER_AND_FOURTEEN_BOUNDARY.md) · [PRECOMMIT closeout](../sessions/S067/CLOSEOUT.md) · S068 FUTURE/UNEXECUTED. Claims240, sources29 unchanged, original30 frontier rows unchanged. Hosted CI ABSENT_NOT_PASS.
+
+| S068 | 2026-10-14 | True same-Fano original shifted support, endpoint 10-torsion parity and exact single-orbit XOR audit | CLM-0241–0243 conditional original-index reductions, no FULL8/high-budget/no original G59 bridge, Phase1 IN_PROGRESS | session/S068-original-fano-fibre-and-xor-barrier |
+
+[S068 proof](../research/S068_ORIGINAL_FANO_FIBRE_AND_XOR_BARRIER.md) · [PRECOMMIT closeout](../sessions/S068/CLOSEOUT.md) · S069 FUTURE/UNEXECUTED. Claims243; source29/frontier30 unchanged, CI ABSENT_NOT_PASS.

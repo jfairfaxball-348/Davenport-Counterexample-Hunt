@@ -2539,6 +2539,33 @@
       "origin": "research/S067_THIRTEEN_COVER_AND_FOURTEEN_BOUNDARY.md",
       "source_ids": [],
       "notes": "S067 internally proved conditional original endpoint invariance + abstract m2 low-budget classification; full8/large dangers/exact12 carry still open."
+    },
+    {
+      "id": "CLM-0241",
+      "statement": "For any actual original equal-parity pair with a+b=2u and split-endpoint torsion b−a=10d in C20³, d=rho(u)+t is forced by its complete-pair H sum and quotient parity. The condition is exactly lambda(a mod10)=lambda(u); disjoint mod5-zero original U-index blocks have independent F2³ torsion colours, equal to sums(t_i+d_i) when formed entirely from endpoint-torsion pairs.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S068_ORIGINAL_FANO_FIBRE_AND_XOR_BARRIER.md",
+      "source_ids": [],
+      "notes": "S068 original mod20 proof and self-contained disjoint-projection-block zero-free argument. Conditional applicability: no endpoint-torsion pairs or blocks forced."
+    },
+    {
+      "id": "CLM-0242",
+      "statement": "For one ACTUAL non-q split mask M, fixed original I=M∪J, selected alpha, outsiders R0 among g and s_q, and unsplit B, if the four genuine even Fano H values have the same mod5 projection and any one corresponding proper original subtotal is in 10Q, all four are true D_M witnesses with torsion colours v0,v0+Delta12,v0+Delta13,v0+Delta23. In an exact12 aligned rank2 cover these differences lie in L; if rank Delta=3, each supported 12-subcover mask with such a quartet needs at least one extra danger, yielding N>=12+s for s supported masks.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S068_ORIGINAL_FANO_FIBRE_AND_XOR_BARRIER.md",
+      "source_ids": [],
+      "notes": "Exact full original index construction/complement and Fano sum and parity. Conditional on projected congruence plus real shared shift witness, NOT forced by S060."
+    },
+    {
+      "id": "CLM-0243",
+      "statement": "Every odd-cardinality original XOR from a single split-endpoint swap orbit retains that same non-q split mask M; every even-cardinality original XOR is empty or precisely a union of complete original pairs in U, whose sum is nonzero when nonempty because U22 is zero-sumfree. Hence no within-one-orbit arbitrary-order XOR can provide a proper q-only zero even if three endpoint torsion directions realise full D_M=Q; every affine 2-plane of four orbit witnesses XORs to empty.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S068_ORIGINAL_FANO_FIBRE_AND_XOR_BARRIER.md",
+      "source_ids": [],
+      "notes": "Fully indexed parity proof. A hostile limitation of internal-orbit collision arguments, NOT an actual full-gate G59 model or universal full8 feasibility."
     }
   ]
 }

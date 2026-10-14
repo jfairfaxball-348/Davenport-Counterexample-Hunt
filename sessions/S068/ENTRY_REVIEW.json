@@ -1,0 +1,27 @@
+{
+  "session": "S068",
+  "entry_main": "e5da5f9850544e54af88785568b58f26246f027c",
+  "entry_tree": "e7bf36cf3d3a2e2f0eac4d2f2fc0aa4ce33cf272",
+  "previous_session": "S067",
+  "previous_pr": 69,
+  "previous_authored_commit": "17bf5448970ce848facc552fa50797f08ffa232d",
+  "previous_authored_parent": "8f15bcc026152143837d9f99acd88d002de2082e",
+  "previous_merge": "e5da5f9850544e54af88785568b58f26246f027c",
+  "previous_merge_parents": [
+    "8f15bcc026152143837d9f99acd88d002de2082e",
+    "17bf5448970ce848facc552fa50797f08ffa232d"
+  ],
+  "previous_postmerge_tree": "e7bf36cf3d3a2e2f0eac4d2f2fc0aa4ce33cf272",
+  "entry_open_prs": 0,
+  "competing_S068_branch": "NONE_OBSERVED",
+  "workflow_files": "NOT_IN_TREE",
+  "hosted_runs": 0,
+  "hosted_check_runs": 0,
+  "hosted_status_contexts": 0,
+  "rulesets": 0,
+  "protection": "UNKNOWN_403_PREVIOUS_AND_CURRENT_FETCH_FAILED",
+  "hosted_ci": "ABSENT_NOT_PASS",
+  "review": "INTERNAL_SAME_EXECUTOR",
+  "fresh_owner_invocation": true,
+  "raw_owner_sha256": "NOT_ASSERTED"
+}
