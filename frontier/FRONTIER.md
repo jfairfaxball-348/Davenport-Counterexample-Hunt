@@ -277,3 +277,6 @@ CLM-0212 exact mod10 seven-Fano-line singleton lift criterion; CLM-0213 source-c
 
 ## S058 — 14 October 2026
 CLM-0215/0216 sharpen projected four-atom atomicity and extract ONE shared binary kernel basis across each ORIGINAL quartet's three H28 matching atoms (conditionally on historical SRC-0015 D3=25); common projected core length≤11 still no universal contradiction. CLM-0217 abstract no-go is NOT an actual P11, and CLM-0218 C15 r0 B-only character failure does NOT affect fixed S052 passing decoration. No D(C15³)=43 or D(C20³)=58 proof, original G43/G58 candidate, or improved numerical bound. Original30 ordered frontier JSON row objects and historical Markdown rows UNCHANGED; 28 original sources unchanged, Phase1 IN_PROGRESS, CI ABSENT_NOT_PASS, campaign blocked.
+
+## S061 frontier preservation — 14 October 2026
+All original30 frontier row objects, settled/sandwiched/unknown status boundaries and numerical bounds preserved. CLM-0223/0224 conditionally reduce canonical n20 original singleton-lift ambiguity (64→order-two triangle) and S060 four-tuple mod5 pattern; they do NOT establish n20 equality, new upper/lower bound or zero-free G58 candidate. Phase1 IN_PROGRESS, no Phase2/3, source28 intact, CAM-0001 BLOCKED, CI ABSENT_NOT_PASS. S062 FUTURE.

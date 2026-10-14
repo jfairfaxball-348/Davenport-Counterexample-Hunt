@@ -24,8 +24,8 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S060",
-  "recommended_next_session": "S061",
+  "last_completed_session": "S061",
+  "recommended_next_session": "S062",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": null,
@@ -802,5 +802,28 @@
     "CI": "ABSENT_NOT_PASS",
     "review": "INTERNAL",
     "next": "S061 FUTURE_UNEXECUTED"
+  },
+  "s061_result": {
+    "date": "2026-10-14",
+    "claims": [
+      "CLM-0223",
+      "CLM-0224"
+    ],
+    "sixty_four_original_singleton_fibre": "EXACT_LINEAR_K_TO_Q",
+    "reference_torsion_triangle": "EXACT_FULL_ORIGINAL_INDEX_IFF_NOT_UNIVERSAL",
+    "four_fano_C5_fibre_gate": "EXACT_NOT_UNIVERSAL",
+    "arbitrary_U22_obstruction": "OPEN",
+    "noncanonical_profile_exhaustion": "OPEN",
+    "C20_D58": "UNPROVED",
+    "original_G58_zero_free_candidate": false,
+    "original30_frontier_objects_preserved": true,
+    "original28_source_objects_preserved": true,
+    "phase1": "IN_PROGRESS",
+    "campaign": "CAM-0001_BLOCKED",
+    "source_status_change": false,
+    "review": "INTERNAL_SAME_EXECUTOR",
+    "hosted_ci": "ABSENT_NOT_PASS",
+    "protection": "UNKNOWN_403",
+    "next": "S062_FUTURE_UNEXECUTED"
   }
 }

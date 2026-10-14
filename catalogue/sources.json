@@ -578,5 +578,17 @@
       "CLM-0220"
     ],
     "primary_proof_newly_inspected": false
+  },
+  "s061_audit": {
+    "date": "2026-10-14",
+    "original28_source_objects_unchanged": true,
+    "new_sources": 0,
+    "source_promotions": 0,
+    "source_stated_0008_0015_0023_preserved": true,
+    "claims": [
+      "CLM-0223",
+      "CLM-0224"
+    ],
+    "review": "INTERNAL"
   }
 }
