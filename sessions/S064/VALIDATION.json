@@ -1,0 +1,24 @@
+{
+  "session": "S064",
+  "entry_main": "b4f79d52be8b3f0e7608af330ea640d9711cf3a1",
+  "claims_before": 229,
+  "claims_after": 231,
+  "new_claims": [
+    "CLM-0230",
+    "CLM-0231"
+  ],
+  "original28_source_objects_unchanged": true,
+  "original30_frontier_row_objects_unchanged": true,
+  "source_status_promotions": 0,
+  "mathematics": "ALL_M_TWELVE_COVER_AND_EXACT_EQUALITY_CARRY",
+  "universal_arbitrary_U22_exclusion": false,
+  "indexed_S060_surviving_hostile_model": false,
+  "global_C20_D58_proved": false,
+  "original_G58_zero_free_candidate": false,
+  "mathematical_numerical_search": false,
+  "hosted_ci": "ABSENT_NOT_PASS",
+  "protection": "UNKNOWN_403",
+  "review": "INTERNAL_SAME_EXECUTOR",
+  "branch": "session/S064-all-mask-twelve-cover-rigidity",
+  "precommit_outgoing_refs": "NOT_KNOWN_BEFORE_COMMIT"
+}

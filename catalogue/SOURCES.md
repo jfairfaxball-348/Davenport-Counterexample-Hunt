@@ -480,3 +480,6 @@ No new source claim/primary proof inspection/access promotion. Exactly 28 origin
 
 ## S063 status preservation — 2026-10-14
 No new primary source, access promotion or source-status update in this original-index symbolic session. Original28 catalogue source JSON objects retained EXACT; SRC-0008/0015/0023 remain SOURCE_STATED, particularly historical unauthenticated D3(C5³)=25. CLM-0227–0229 are programme-internal group algebra, not external certified numerical results. S064 future only.
+
+## S064 source provenance — 2026-10-14
+ZERO new original source observations or access promotions; all original 28 source JSON objects remain UNTOUCHED. SRC-0008/0015/0023 remain SOURCE_STATED, SRC-0015 historical D3(C5^3)=25 computational conditions not independently authenticated. CLM-0230 all-m finite covering and CLM-0231 conditional ORIGINAL index/carry lemmas are direct INTERNAL mathematical proofs, not external priority or independent numerical source certification. S065 FUTURE.
