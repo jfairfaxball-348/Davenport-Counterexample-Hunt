@@ -1,0 +1,11 @@
+{
+  "session": "S062",
+  "entry_main": "fb0903af12e800bedcc19888441ff0655eb7af2c",
+  "prompt_path": "authoritative/NEXT_SESSION_PROMPT.md",
+  "prompt_blob_sha_at_entry": "922d3093bb1d3aae9e6ee4dd2391a8d50a695d64",
+  "owner_presentation_normalised": true,
+  "raw_owner_sha256": null,
+  "raw_owner_sha_claimed": false,
+  "git_timestamped_preregistration_pre_math": false,
+  "visible_upfront_plan": true
+}

@@ -1360,3 +1360,9 @@ Original220 claims retained, catalogue now222 unique IDs; original28 sources and
 - **CLM-0223 [PROGRAMME_PROVED; INTERNAL]** On an actual S060 four-Fano tuple's 64 original singleton lifts, every even-parity proper ORIGINAL subset sum changes by 10ell(sigma), where ell:Q/<q>→Q and sigma is the original split-pair parity sum modulo <q>. Class sigma0 includes mixed cancelling NON-q original splits. [Proof](../research/S061_SINGLETON_FIBRE_TORSION_TRIANGLE.md).
 - **CLM-0224 [PROGRAMME_PROVED; INTERNAL]** Full original minimality across all64 lifts iff 0∉C0 and B3∩(B1+B2) nonempty for exactly defined original indexed reference torsion witnesses C_sigma; only reference G[2] subtotals are lift-dangerous. Also exact C5³ four-parity-fibre Minkowski version of S060's F_* affine gate. [Proof](../research/S061_SINGLETON_FIBRE_TORSION_TRIANGLE.md).
 Original222 claims retained; 224 unique claims now. No arbitrary-U22 impossibility, global D20 result, G58 candidate or SOURCE_STATED promotion; original28 source/30 frontier objects preserved.
+
+
+## S062 — 14 October 2026
+- **CLM-0225 [PROGRAMME_PROVED; INTERNAL]** A fixed feasible four-Fano original 64-lift failure with 0∉C0 requires a full eight-value danger class OR ≥12 distributed danger values; at equality the B_i are aligned cosets of a common order-four subgroup. Abstract cosets are NOT a G59 survivor. [Proof](../research/S062_TORSION_WITNESS_CLOSURE_AND_DENSITY.md).
+- **CLM-0226 [PROGRAMME_PROVED; INTERNAL]** True ORIGINAL-index symmetric-difference torsion witnesses compose with the exact full G intersection carry; disjoint equal-colour/equal-value noncomplement subsets force invariant C0=0; cross-colour disjoint witnesses fill a third class. [Proof](../research/S062_TORSION_WITNESS_CLOSURE_AND_DENSITY.md).
+224 historical claims retained, 226 now. Original28 sources and30 frontier untouched; no Davenport endpoint or external certification.

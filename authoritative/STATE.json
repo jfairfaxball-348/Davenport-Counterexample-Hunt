@@ -24,13 +24,14 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S061",
-  "recommended_next_session": "S062",
+  "last_completed_session": "S062",
+  "recommended_next_session": "S063",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": null,
   "phase1_target_status": "WITHHELD_NO_REPLACEMENT_CAMPAIGN",
   "open_blockers": [
+    "S062 CLM-0225/0226: in S061 actual fixed-Fano 64-lift canonical C20³ fibre, if 0∉C0 then failure needs one full nonzero C_sigma=Q (eight actual reference torsion values), OR ≥12 distinct forbidden values over three proper classes; threshold12 forces COMMON four-point affine coset pattern. Actual original XOR/intersection carry can force invariant C0 zero or third-class witness values, but no arbitrary-U22 theorem establishes the required support intersections. Need all original q-gate E(U\\I), non-q multisplits, mixed odd g and full-H/common-parity-coupled Fano values.",
     "S060 CLM-0221/0222: full ORIGINAL q-parity-pair split family (including multi-splits) and 2048 outsider transversal tests has exact four-Fano-value F_* gate plus full modulo10 sum and three modulo2 difference constraints; no universal arbitrary-U22 emptiness proof. ALL non-q t_i pair splits and three-hub/alternate profiles still open. S059 fixed hostile fibre specially excluded by old S050/S051-style slab.",
     "S059 CLM-0219/0220: all 10,395 twelve-q-hub matching H28 atoms (135,135 after one q-pair split; m≤3 family) are simultaneously realisable with original total-zero/nonzero t_i yet a PROPER original Fano transversal zero sum; matching-only inversion provably INSUFFICIENT. Need 2,048 original q-transversal outsider parity-zero cases plus all 4,096 per-pair one-sided and multi-pair split cases; 420 of the old 735 Fano partitions are transversal.",
     "S058 CLM-0216 source-conditional SAME common 25-index three-block K basis across all THREE switched quartet H28 atoms, leaving actual C5 projected core C of length1..11 and three complementary pairs; no every-U22 nonzero t_i elimination.",
@@ -320,7 +321,7 @@
     "owner_blocker": false,
     "historical_dependency_reconciled": "S004 CLM-0068 / S005 sufficient conditional base5p-2 bypass restored and strengthened one position"
   },
-  "current_research_priority": "S060 future: C20 full ORIGINAL q-transversal 2048 outsider tests and one/multi-split bridge beyond q-hub matching saturation. No canonical or global D20 equality proved.",
+  "current_research_priority": "S063 FUTURE: force the S062 8-full-or-12-affine-torsion witness patterns into ORIGINAL index-support collision/carries from all S060 q-gates and non-q pair splits.",
   "s040_result": {
     "claims": [
       "CLM-0148",
@@ -825,5 +826,27 @@
     "hosted_ci": "ABSENT_NOT_PASS",
     "protection": "UNKNOWN_403",
     "next": "S062_FUTURE_UNEXECUTED"
+  },
+  "s062_result": {
+    "date": "2026-10-14",
+    "claims": [
+      "CLM-0225",
+      "CLM-0226"
+    ],
+    "torsion_failure": "FULL_CLASS_8_OR_DISTRIBUTED_MIN12",
+    "equality": "COMMON_AFFINE_HYPERPLANE",
+    "indexed_witness_composition": "EXACT_FULL_G_INTERSECTION_CARRY",
+    "universal_U22_exclusion": "OPEN",
+    "indexed_S060_gate_survivor": false,
+    "D_C20_cubed_58": "UNPROVED",
+    "G58_zero_free_candidate": false,
+    "original30_frontier_objects_preserved": true,
+    "original28_source_objects_preserved": true,
+    "phase1": "IN_PROGRESS",
+    "campaign": "CAM-0001_BLOCKED",
+    "review": "INTERNAL_SAME_EXECUTOR",
+    "hosted_ci": "ABSENT_NOT_PASS",
+    "protection": "UNKNOWN_403",
+    "next": "S063_FUTURE_UNEXECUTED"
   }
 }
