@@ -1289,3 +1289,17 @@ Origin: [S052 exact box proof](../research/S052_C5_FOURPOINT_SIXSUPPORT.md). SRC
 For one fixed m3/m4 CRT A'_k decorated family with designated first P*, all three original Z d indices, both original residual Y q indices, all five original first X indices and all downstream pure-block orders of zero-labelled selections: 24/30 labelled triples pass ALL selected chain prefixes, six fail by m disjoint f3 H blocks. Δ either zero or −f2 depending on d; many duplicates; NOT full G-zero-free.
 
 Origin: [S052 enlarged indexed census](../research/S052_CRT_SIX_DQ_CENSUS.md). SRC-0015 context SOURCE_STATED.
+
+## S053 original-index conditional proofs (INTERNAL ONLY)
+
+### CLM-0201 — PROGRAMME_PROVED
+Complete **4,094** proper parity-zero outsider subsets (2,047 complement pairs), including **2,048 odd-J / XORq** cases; exact necessary and sufficient E(U) shadow for whole-pair-respecting subsets and all-split E(U\I) hierarchy. Logical reduction only; no D20 proof. [Full proof](../research/S053_FULL_INDEXED_SHADOW_AND_SWITCHES.md).
+
+### CLM-0202 — PROGRAMME_PROVED, SOURCE-DEPENDENT
+Common parity q=0 impossible under the historical SOURCE_STATED D(C10³)=28, via 30 H-blocks. No excluded nonzero q or all-hub claim. [Proof](../research/S053_FULL_INDEXED_SHADOW_AND_SWITCHES.md).
+
+### CLM-0203 — PROGRAMME_PROVED
+Coherent four/six S052 Fano parity thresholds attained by seven actual C20³ singleton original lifts; this does NOT realize the common extension K or T59. [Exact lifts](../research/S053_FANO_PARITY_SHARPNESS.md).
+
+### CLM-0204 — PROGRAMME_PROVED, SOURCE-DEPENDENT
+For arbitrary C5³ zero-free P11, E(P) is sum-free (E+E disjoint E) assuming SOURCE_STATED D(C5³)=13; reflected midpoint F=E−c/2 satisfies c/2∉3F, and P*(c/2)^2 is minimal zero sum iff c/2∈E. Abstract fully spanning F shows these axioms alone do not prove full inverse. [Proof](../research/S053_C5_TWO_EXTENSION_GATE.md).

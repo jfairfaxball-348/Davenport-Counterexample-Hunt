@@ -2150,6 +2150,50 @@
         "SRC-0015"
       ],
       "notes": "Original labels (duplicates distinguished), P* first only, all other selectable X labels zero, all remaining pure-block orders; 30 labels not 30 independent H tests."
+    },
+    {
+      "id": "CLM-0201",
+      "statement": "For a hypothetical indexed C20³ minimal zero-sum T59 with 22 parity-zero original pairs U and 15 original outsiders X (eight same-parity g plus seven nonzero Fano singleton classes), the quotient-zero outsiders comprise exactly 4096 binary indexed subsets; excluding empty/full gives 4094 proper tests in 2047 complement pairs. Membership h_A∈E(U) for all those A plus U zero-free and total-zero is necessary and sufficient for no proper zero subset RESPECTING all 22 fixed pairs. All originally split-pair subsets are exactly characterised by z_{I,ε,A}∈E(U\\I) for I nonempty, with genuine parity matching; this is a logical reduction, NOT elimination of those conditions.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S053_FULL_INDEXED_SHADOW_AND_SWITCHES.md",
+      "source_ids": [
+        "SRC-0023"
+      ],
+      "notes": "4094 labels not independent H values; 2048 mixed odd-J parity-matched C subsets. Includes empty/full outsider exception, pair switch I≠0 E(U\\I), full original-index iff criterion; internally checked only."
+    },
+    {
+      "id": "CLM-0202",
+      "statement": "Conditional on SOURCE_STATED D(C10³)=28, in the fixed 22-pair + eight equal-parity originals + seven nonzero Fano singleton partition of hypothetical T59, the common parity q of the eight originals cannot be zero: their eight singleton H values plus 22 U values form 30 H blocks and hence a proper nonempty zero-sum subset.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S053_FULL_INDEXED_SHADOW_AND_SWITCHES.md",
+      "source_ids": [
+        "SRC-0023"
+      ],
+      "notes": "Proof conditional on independently unproved-in-session original C10³ D=28 source statement. Excludes only q=0; no arbitrary-profile/all-hub universal claim."
+    },
+    {
+      "id": "CLM-0203",
+      "statement": "Both S052 coherent Fano line/cap projection lower bounds 4 (πhV=0) and 6 (πhV≠0) are attained by genuine seven indexed C20³ singleton lifts: canonical s_r=r gives four line/cap parity residues, while altering s111 to (3,1,1) gives exactly six, satisfying exact ΣhL=3hV and all Fano moment equations. This DOES NOT realize any common K(E(U),W), eight g, 22 U or full T59.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S053_FANO_PARITY_SHARPNESS.md",
+      "source_ids": [
+        "SRC-0023"
+      ],
+      "notes": "Explicit hand-checked original G singleton values; sharp only for coherent local seven-index parity/moment constraints, NOT K or G zero-sumfree."
+    },
+    {
+      "id": "CLM-0204",
+      "statement": "Conditional on SOURCE_STATED D(C5³)=13, for every indexed zero-free P11 in C5³, its extension set E is sum-free in additive sense (E+E)∩E=∅. With c=−ΣP,d=c/2,F=E−d=−F, this is exactly d∉3F. P*d*d is minimal zero-sum iff d∈E. Abstract symmetric full-span F={±e1,±e2,±e3}, d=(2,2,2) shows symmetry plus d∉3F alone cannot prove the sought universal actual P11 inverse.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S053_C5_TWO_EXTENSION_GATE.md",
+      "source_ids": [
+        "SRC-0008"
+      ],
+      "notes": "SOURCE-DEPENDENT p-group D=13; abstract set E is not asserted attainable. Universal zero-free P11 affine inverse unresolved."
     }
   ]
 }

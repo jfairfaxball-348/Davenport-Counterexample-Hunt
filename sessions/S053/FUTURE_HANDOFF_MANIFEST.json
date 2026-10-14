@@ -1,0 +1,9 @@
+{
+  "session": "S053",
+  "future_session": "S054",
+  "status": "FUTURE_UNEXECUTED",
+  "path": "authoritative/NEXT_SESSION_PROMPT.md",
+  "new_owner_invocation_required": true,
+  "phase1_only": true,
+  "entry_main": "5eec0e9aa75a8fd37bb8cbe4e86d6d18cfbed20e"
+}

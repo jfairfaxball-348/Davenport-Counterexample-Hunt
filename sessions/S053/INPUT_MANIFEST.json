@@ -1,0 +1,12 @@
+{
+  "session": "S053",
+  "entry_main": "5eec0e9aa75a8fd37bb8cbe4e86d6d18cfbed20e",
+  "prompt_path": "sessions/S053/INPUT.md",
+  "prompt_blob_sha_at_entry": "43425dc92d1ca86fbe90bb8c820e26813aedf22e",
+  "invocation_path": "sessions/S053/OWNER_INVOCATION.md",
+  "raw_owner_sha256": "3bda4dc97d24e3bc74a910aedd3d5fbb8f5a2b1baf6dbc8009726a0597d067fc",
+  "raw_owner_sha_format": "UTF8_EXACT_NO_TERMINAL_NEWLINE",
+  "raw_prompt_archived": true,
+  "git_timestamped_preregistration_pre_math": false,
+  "visible_upfront_plan": true
+}
