@@ -1,0 +1,9 @@
+# S054 cross-front result and boundaries — 14 October 2026
+
+**B priority achieved partially, not the headline:** CLM-0205 proves that 735 labelled Fano-line/g-matching partitions of any putative original T59 yield simultaneous extremal 28-term *minimal zero-sum* C10³ atoms (SOURCE_STATED D=28). CLM-0206 excludes all original parity-zero members of the 22 pairs by splitting one pair into 29 parity-zero blocks, forcing a proper zero-sum subsequence. Along with S053 q=0 exclusion, every one of the 59 original terms in this canonical profile must have nonzero mod2 parity. Yet any abstract U22 admits nonzero-parity pair lifts; arbitrary U22, nonzero q, the 26 hub pencils, all 4094 outsider shadow value constraints and all nonzero one-/multi-pair switches remain OPEN.
+
+**A exact supplementary theorem:** CLM-0207 proves for ANY actual C5³ P11 and x∈E(P), P*x*(c−x) is length13 minimally zero sum, giving genuine extremal atoms whenever E(P) is nonempty. Does not settle the proposed universal affine inverse; E empty, zero-only fibres, ≥7-support and every six-cap re-stripping remain OPEN.
+
+**C:** S052 24/30 fixed first-P* local passes and six failures remain unchanged; no original-index universal CRT repair/exclusion, B-only and cross-window tests still OPEN. In particular fixed failures prove only that fixed decoration invalid; they are not a global C15 construction theorem.
+
+No D(C20³)=58 / D(C15³)=43 proof and no 58/43 original G zero-free sequence. Original 30 frontier row objects and 28 source objects unchanged. No campaign, numerical mathematical search, solver, candidate generation, primary source promotion, novelty, Lean, Palomar or publication. Phase1 IN_PROGRESS; CAM-0001 BLOCKED; CI ABSENT_NOT_PASS and protection UNKNOWN_403. Same-executor proof review is INTERNAL ONLY.

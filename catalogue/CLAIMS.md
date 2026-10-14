@@ -1303,3 +1303,14 @@ Coherent four/six S052 Fano parity thresholds attained by seven actual C20³ sin
 
 ### CLM-0204 — PROGRAMME_PROVED, SOURCE-DEPENDENT
 For arbitrary C5³ zero-free P11, E(P) is sum-free (E+E disjoint E) assuming SOURCE_STATED D(C5³)=13; reflected midpoint F=E−c/2 satisfies c/2∉3F, and P*(c/2)^2 is minimal zero sum iff c/2∈E. Abstract fully spanning F shows these axioms alone do not prove full inverse. [Proof](../research/S053_C5_TWO_EXTENSION_GATE.md).
+
+## S054 original-index symbolic results (INTERNAL)
+
+### CLM-0205 — PROGRAMME_PROVED / source-dependent
+Seven Fano lines ×105 perfect matchings of eight equal-parity original g terms give 735 labelled partitions into 22+4+2=28 quotient-zero H blocks. Each induces an **extremal minimally zero-sum** C10³ 28-atom under SOURCE_STATED D=28, not independent H values. [Proof](../research/S054_EXTREMAL_BLOCK_BUDGET_AND_PAIR_PARITY.md).
+
+### CLM-0206 — PROGRAMME_PROVED / source-dependent
+If any of 22 pair members has parity zero, split that ORIGINAL pair in any 28-block partition, yielding 29 H blocks and a proper original zero subset under SOURCE_STATED D(C10³)=28. Thus all pair-member parities nonzero. q=0 reproved via32 blocks. No arbitrary U22 exclusion: every U lifts with a_i=e1,b_i=2u_i−e1. [Proof](../research/S054_EXTREMAL_BLOCK_BUDGET_AND_PAIR_PARITY.md).
+
+### CLM-0207 — PROGRAMME_PROVED
+For all indexed zero-free C5³ P11 and x∈E(P), P*x*(c−x) is minimally zero sum length13 (actual H atom, not abstract extender set). The historical SOURCE_STATED D(C5³)=13 makes it extremal but is not needed for minimality. Universal E affine inverse remains OPEN. [Proof](../research/S054_C5_COMPLEMENTARY_ATOMS.md).

@@ -1,0 +1,12 @@
+{
+  "session": "S054",
+  "original_source_count": 28,
+  "original_source_records_unchanged": true,
+  "new_original_primary_source_proofs_inspected": 0,
+  "context_ids": [
+    "SRC-0008",
+    "SRC-0023"
+  ],
+  "access_promotions": 0,
+  "status": "SOURCE_STATED C10 D28 and C5 D13 not re-proved; INTERNAL original-index symbolic proofs only"
+}
