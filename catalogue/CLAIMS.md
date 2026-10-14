@@ -1314,3 +1314,11 @@ If any of 22 pair members has parity zero, split that ORIGINAL pair in any 28-bl
 
 ### CLM-0207 — PROGRAMME_PROVED
 For all indexed zero-free C5³ P11 and x∈E(P), P*x*(c−x) is minimally zero sum length13 (actual H atom, not abstract extender set). The historical SOURCE_STATED D(C5³)=13 makes it extremal but is not needed for minimality. Universal E affine inverse remains OPEN. [Proof](../research/S054_C5_COMPLEMENTARY_ATOMS.md).
+
+## S055 original-index symbolic results (INTERNAL ONLY)
+
+### CLM-0208 — PROGRAMME_PROVED (quotient parity theorem; conditional original profile)
+Given S054's hypothetical T59 with all 59 original terms in nonzero Q parity and odd count in every seven nonzero class, every 28-block original-index quotient-zero partition is exactly line+complementary cap+26 equal-parity pairs OR three concurrent Fano line triples+25 pairs. No 29-block full partition and no 28-block partition of ANY proper original subset exists. This saturates only the **disjoint-block D(H)=28 cardinality route**, not the H VALUE inverse. [Proof](../research/S055_FANO_PARITY_BLOCK_SATURATION.md).
+
+### CLM-0209 — PROGRAMME_PROVED (logical reduction)
+For each original pair i and 4096 outsider subsets A with πΣA=t_i, z_a(A)+z_b(X\A)=c+u_i, the reflection centre of E(U\{i}); hence all 8192 indexed a/b one-split obligations reduce exactly to 4096 one-sided membership obligations. This is not their elimination or an all-split criterion alone. [Proof](../research/S055_ORIGINAL_ONE_SPLIT_COMPLEMENT.md).

@@ -1,0 +1,24 @@
+{
+  "session": "S055",
+  "entry_main": "a4516b05a0dc4ecf5896cc95035dcb0b2702826e",
+  "previous": "S054",
+  "previous_branch_commit": "220359c9d6a43ac1ec1de369d013b9d074bfc6c2",
+  "previous_pr": 55,
+  "previous_merge_commit": "a4516b05a0dc4ecf5896cc95035dcb0b2702826e",
+  "previous_merge_parents": [
+    "081ebf8a2cbf1ca812dfda1abfb1c4455dc225bc",
+    "220359c9d6a43ac1ec1de369d013b9d074bfc6c2"
+  ],
+  "previous_merge_tree": "4d040b00ce8339243d71a67d679179771947dc60",
+  "open_prs": 0,
+  "S055_branch_found": false,
+  "S055_session_found": false,
+  "workflow_files": 0,
+  "hosted_runs": 0,
+  "check_runs": 0,
+  "status_contexts": 0,
+  "hosted_ci": "ABSENT_NOT_PASS",
+  "rulesets": 0,
+  "branch_protection": "UNKNOWN_403",
+  "independent_external_review": false
+}

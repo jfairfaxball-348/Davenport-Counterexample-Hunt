@@ -304,3 +304,10 @@ One explicitly owner-invoked symbolic Phase1 session against live merge-main 96f
 3. **Hostile escape:** every H22 core can be lifted with a_i=e1,b_i=2u_i−e1 (common nonzero parity); one-split parity budget alone cannot close full inverse.
 4. **C5 actual atoms:** arbitrary P11 with nonempty E(P) admits real P*x*(c−x) minimal H13, but does not force E affine hyperplane, exclude empty E or settle six-cap re-strippings.
 5. **CI/chronology:** zero hosted checks ABSENT_NOT_PASS, protection403 UNKNOWN, same-executor INTERNAL; Git prereg before proof FALSE, raw owner input SHA not fabricated, S055 not executed.
+
+## S055 lessons — 14 October 2026
+1. **Sharp 28-block parity ceiling:** once all original quotient parities are nonzero and all seven class counts odd, 28 full zero-parity blocks require line/cap or 3 concurrent lines; NO 29 full /28 proper blocks possible. Another bare D(C10³)=28 block-count attempt cannot kill this case. This does NOT exclude value-sensitive extremal atom inverses.
+2. **Three-hub genuine indices:** three Fano lines share a parity CLASS but require three distinct original positions with that parity; do not reuse one index three times.
+3. **Split fibre duality:** z_a(A)+z_b(X\A)=c+u_i; extension reflection is E(U\{i}), not E(U). 8192→4096 paired labelled tests is a lossless reduction, not independent values and not elimination.
+4. **Actual P11 E empty:** c≠0 means c∉span(∅); nonempty affine inverse still OPEN; abstract affine-full F is not a real P.
+5. **Provenance/limits:** fixed CRT label passes not universal; Phase1 remains open, SRC source statuses unchanged, no G witness, no hosted CI PASS, internal review and no pre-math Git preregistration.

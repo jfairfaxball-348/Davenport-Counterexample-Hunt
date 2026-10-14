@@ -2227,6 +2227,26 @@
         "SRC-0008"
       ],
       "notes": "Actual arbitrary indexed P11, not abstract E; empty E vacuous, six-cap re-strips not eliminated. Internal symbolic."
+    },
+    {
+      "id": "CLM-0208",
+      "statement": "For the specified S054 T59 quotient profile with all 59 original nonzero mod2 parities and odd counts in all seven nonzero Q classes, every 28-block quotient-zero full partition has precisely 26 pairs plus one Fano line/cap or 25 pairs plus three concurrent Fano line triples; no full 29-block partition and no PROPER original-index subset with 28 blocks is possible. Hence only the disjoint-block cardinality D(C10³)=28 route is saturated, not value-sensitive maximal-atom inverses.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S055_FANO_PARITY_BLOCK_SATURATION.md",
+      "source_ids": [
+        "SRC-0023"
+      ],
+      "notes": "Quotient combinatorial theorem internal only; conditional profile inherited from source-dependent S054; this theorem itself does not use the D28 numerical value. No D20 proof."
+    },
+    {
+      "id": "CLM-0209",
+      "statement": "For each ORIGINAL pair i in the specified C20 T59 setup, the 8192 labelled single-split a_i/b_i outsider subset conditions over the 4096 quotient-matched A are paired by z_a(A)+z_b(X\\A)=c+u_i and the exact extension-set reflection E(U\\{i})=(c+u_i)-E(U\\{i}); equivalently 4096 one-sided conditions per i. Not a nonzero-parity split elimination or all-multisplit sufficiency.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S055_ORIGINAL_ONE_SPLIT_COMPLEMENT.md",
+      "source_ids": [],
+      "notes": "Exact original-index symbolic duality; 90,112 labelled one-sided conditions across22 pairs, not independent H values. INTERNAL only."
     }
   ]
 }
