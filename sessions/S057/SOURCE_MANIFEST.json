@@ -1,0 +1,17 @@
+{
+  "session": "S057",
+  "source_count_original": 28,
+  "source_original_objects_untouched": true,
+  "frontier_count_original": 30,
+  "frontier_original_objects_untouched": true,
+  "context_sources": [
+    "SRC-0015",
+    "SRC-0023",
+    "SRC-0008"
+  ],
+  "source_bound_D3_C5_cubed_25": "SOURCE_STATED; author computational premises NOT independent certification",
+  "new_primary_proof_inspection": false,
+  "access_promotions": [],
+  "new_sources": [],
+  "note": "CLM-0212 pure algebraic exact iff; CLM-0213 uses D3 C5 bound source-stated; CLM-0214 elementary binary packing."
+}

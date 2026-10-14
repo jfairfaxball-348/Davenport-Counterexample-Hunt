@@ -1,0 +1,21 @@
+{
+  "session": "S057",
+  "entry_main": "3706e3a26d685905679d8f51156124152a73db37",
+  "source_original28_unchanged": true,
+  "frontier_original30_unchanged": true,
+  "claim_ids_from": 211,
+  "claim_ids_to": 214,
+  "json_parsed_locally": true,
+  "mathematics": "INTERNAL_SYMBOLIC_PROOF_AND_HOSTILE_REVIEW",
+  "new_claims": [
+    "CLM-0212",
+    "CLM-0213",
+    "CLM-0214"
+  ],
+  "source_bound_D3_C5_cubed_25": "SOURCE_STATED",
+  "headline_resolved": false,
+  "published_original_G_candidate": false,
+  "CI": "ABSENT_NOT_PASS",
+  "protection": "UNKNOWN_403",
+  "remote_write_evidence": "TO_BE_OBSERVED_AFTER_COMMIT; NO OUTGOING SHA PRECLAIMED"
+}

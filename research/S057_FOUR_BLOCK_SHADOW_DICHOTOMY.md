@@ -1,0 +1,10 @@
+# S057 — four disjoint C5-zero blocks in a C10 atom (CLM-0214)
+14 October 2026, exact symbolic restriction independent of D_3 and of maximality length except ambient H=C10³. Let A be an indexed minimally zero-sum H=C10³ atom of length28; rho:H→C5³ and K=ker rho≈C2³.
+
+**Packing dichotomy.** If four nonempty pairwise disjoint ORIGINAL-H-index blocks B1,...,B4 each have rho(sum Bj)=0, their union MUST equal ALL 28 indices. Moreover their kernel sums k_j∈K constitute a minimally zero-sum four-term sequence in K, so after reordering k1=a,k2=b,k3=c,k4=a+b+c with a,b,c a binary basis. In particular NO PROPER subset of A admits a packing into four disjoint nonempty C5-zero blocks.
+
+Proof. Every k_j lies in K. The binary rank-three Davenport constant is D(C2³)=4 (elementary: four elements of an F2³ group have a dependent nonempty subfamily; three independent basis elements show sharpness). Thus four k_j contain a nonempty zero-sum subfamily. Its original block union is an H-zero-sum subset of the atom, hence must be all of A. This forces the four blocks to cover A and forces ONLY the sum of all four k_j to vanish; any proper kernel subfamily zero would be a proper H-zero subset. The first three are independent, and k4=a+b+c.
+
+The converse is NOT asserted: having four kernel values in this pattern does not create a partition or a C20 witness. Three-block extraction from CLM-0213 is consistent because the fourth C5-zero block is not guaranteed by D_4(C5³)=30 > 28. The theorem applies separately to the 735 H28 atoms and other hub-derived atoms IF those atoms actually exist. It does not solve any 4096 one-split or 2048 mixed odd-J conditions and does not rule out any C20 quotient profile.
+
+Hostile check: a four-block packing whose union is all indices is permitted and must not be falsely excluded by D(C2³)=4. All blocks are disjoint indexed groups; coincident values remain separate. INTERNAL exact symbolic.

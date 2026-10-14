@@ -17,3 +17,6 @@ S012 complete hand proof CLM-0084–0087 closes BSP2012 Lem5.2, including actual
 ## S029 current result
 
 S029 CLM-0125/0126: elementary indexed Chevalley–Warning deletion counts force the complete number m of balanced b-zero-sum blocks to be a positive multiple of p and m>=2p, with 2r_i=m+(-1)^b mod p. At m=2p there is an exact two-degree census. Therefore EVERY exactly-four indexed family is impossible, independently of signature count. An arbitrary S028 no-short six-cell lift is NOT ruled out: it must create at least 2p-4 additional partial-cell b-blocks. First essential gap is m>=2p indexed families. Strong extraction and D2<=6p-6 remain UNPROVED; no rank-three D1/Dk numerical update, no novelty claim. See [indexed deletion proof](research/S029_INDEXED_CW_BLOCK_MULTIPLICITY.md). Phase1 remains IN_PROGRESS and the [S030 handoff](authoritative/NEXT_SESSION_PROMPT.md) is strictly future, unexecuted.
+
+
+S057 (14 October 2026): exact FULL original seven-Fano-line lift iff inherited binary tensor; conditional 3-deletion kernel-basis/residual≤13 theorem for maximal C10³ atoms; four-block shadow packing dichotomy. D(C15³)=43 and D(C20³)=58 remain open; Phase1 active, S058 future. See authoritative/START_HERE.md and research/S057_*.
