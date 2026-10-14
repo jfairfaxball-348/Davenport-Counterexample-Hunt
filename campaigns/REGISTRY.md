@@ -253,3 +253,8 @@ Only symbolic finite-group and covering proofs CLM-0238–0240; NO numerical mat
 
 ## S068 campaign non-activation — 14 October 2026
 Pure Phase1 symbolic full-G original index proofs CLM-0241–0243. No mathematical numerical search, CAS/SAT/ILP, generated orbit/candidate models, historic author's code, Lean/Palomar, certificate, campaign launch or tooling. CAM-0001 remains PROPOSED / NOT_RUNNING / BLOCKED by historical n6=16; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, Phase4 OWNER_GATED. S069 requires a fresh owner request.
+
+## S069 campaign non-activation — 14 October 2026
+Only symbolic genuine original-index C20³ group/Fano proofs CLM-0244–0247. No numerical mathematical search, generated candidates/orbits, CAS/SAT/ILP, author code, Lean/Palomar, formal certificate, campaign or Phase2/3 activity. CAM-0001 remains PROPOSED / NOT RUNNING / BLOCKED by source-stated n6=16; Phase1 IN_PROGRESS, Phase4 OWNER_GATED. No fully gated 59 original model or G58/D20 result. S070 FUTURE/UNEXECUTED.
+
+S069 CLM-0247 additional verified symbolic condition: TRUE four Fano projections agree mod5 IFF all three actual original singleton differences k_i=Y_i−X_i obey 2k_i=10q in C20³. This implies Delta12+Delta13+Delta23=q and common projected colour 4lambda(C), but is NOT forced by all S060 q gates, nor a contradiction or G59/G58 claim. Four new internal claims CLM-0244–0247, total 247; original sources29/frontier30 unchanged.

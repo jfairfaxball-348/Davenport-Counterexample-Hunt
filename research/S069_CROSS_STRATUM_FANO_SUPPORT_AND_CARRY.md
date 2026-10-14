@@ -1,0 +1,105 @@
+# S069 — Original cross-stratum XOR code, projected-zero block fibres, and the exact Fano-triangle carry
+
+14 October 2026. Owner-invoked, extended **symbolic Phase-1** investigation. INTERNAL SAME_EXECUTOR only; no mathematical numerical search, CAS/SAT/ILP, generated candidate/orbit enumeration, historical author code, Lean/Palomar, campaign, certificate, manuscript, publication or contact. This is not a proof of D(C20^3)=58, an S060-gated 59-label hostile example, or a zero-sumfree 58-label counterexample. The canonical 22+8+7 profile is source-conditional and not all 26 hub / alternate P26 profiles.
+
+## 1. Live entry and true original objects
+
+Entry main 50eec46e26067ab5225c85ef95086676013ead52 is the published S068 PR#70 merge. Its authored parent is e389070870eafcb6ef8b4751f8b1e4fc7d89e0ff, whose base was e5da5f9850544e54af88785568b58f26246f027c. No open PR or S069 competing branch at entry; repository has no observed PR-triggered workflow runs or combined status contexts (ABSENT_NOT_PASS). Protection remains UNKNOWN, not a pass. The parent/tree assertion is inherited from S068 closeout and the published merge; available commit connector supplies commit SHA but not its parent array/tree, so a fresh independent parent/tree API check is **NOT CLAIMED**.
+
+Let G=C20^3, H=C10^3, Q=F2^3, with genuine isomorphism iota:H→2G, iota(h)=2h, rho:H→Q, lambda:H→C5^3. Do NOT identify G with Q⊕H. Assume a labelled total-zero original T with 22 pairs (a_i,b_i), each pi(a_i)=pi(b_i)=t_i≠0, true u_i=iota^{-1}(a_i+b_i), U=(u_i) zero-sumfree, eight original q-parity g_j, and original seven singletons s_r (r∈Q\{0}). Let q≠0, S=s_q, and for k=1,2,3 let X_k=s_{r_k},Y_k=s_{r_k+q}, V_k=X_k+Y_k, with r_1+r_2+r_3=0. The four even-weight Fano transversals L_epsilon select one of X_k,Y_k in each coset pair, with epsilon∈{000,110,101,011}; x_epsilon=iota^{-1}(sum_G L_epsilon). Their actual full-H sum C and mod2 Delta constraints are those of CLM-0222, not four arbitrary free values.
+
+Assume **all** S060 q-only gates pass: every 12-q-supervertex H matching atom, all q-selected one/multi-splits with every E(U\I), all original g/S shifts (including odd g), true four x_epsilon in the same F_*, their sum/Delta constraints, and all proper-original complements. Put N={i:t_i≠q}. A *split set* I(Z) consists of ALL original pair indices where Z contains exactly one endpoint; its *non-q mask* is M(Z)=I(Z)∩N. For each nonempty M⊆N, D_M is the actual set of v such that some nonempty proper ORIGINAL Z has sum_G Z=10v and M(Z)=M. No assumption that any S060-feasible canonical T exists is made.
+
+A *Fano-transversal witness* means that on each {X_k,Y_k} the ORIGINAL Z contains exactly one index, and Z has genuine sum in G[2]. To name it, fix I=I(Z), selected endpoint alpha_i for i∈I, a full-pair index set B⊆[22]\I, a set R of original g_j and s_q, and a transversal epsilon. Then
+  Z = alpha(I) ∪ fullpairs(B) ∪ R ∪ L_epsilon.
+For even epsilon the H sum is x_epsilon + w, where
+  w=iota^{-1}(sum_G alpha(I)+sum_G R)+sum_{i∈B}u_i
+whenever the first term has even quotient parity. The full sum is 2(x_epsilon+w) in G. These are ORIGINAL index sets; E(U\I) is indispensable.
+
+## 2. CLM-0244 — Fixed-full-split-set even-XOR code is already q-hub protected
+
+**Theorem (all Fano transversals, all selected endpoints, all R and B).** Take k≥1 actual torsion Fano-transversal witnesses Z_1,...,Z_k, not necessarily having the same even Fano line or the same selected endpoints, g/S indices or B. Assume their **entire** split set I(Z_h)=I is the SAME for every h. Form the original index-set symmetric difference X=Z_1△...△Z_k.
+
+(a) If k is EVEN, X consists exactly of a union of full ORIGINAL pair blocks {a_i,b_i} (for some i∈[22]) and a union of the disjoint original q-supervertices S,V_1,V_2,V_3,g_1,...,g_8. The number of selected q-supervertices is even. In particular, the S060 **unsplit q-hub matching atom** already forces sum_G(X)≠0 whenever X is nonempty proper.
+
+(b) If k is ODD, I(X)=I, and X selects precisely one of X_j,Y_j for each j=1,2,3. In particular M(X)=I∩N. No odd-XOR contradiction with a non-q mask can be deduced from the q-only gate.
+
+**Proof.** For every original pair i∈I, each witness contains exactly one of a_i,b_i, so the two endpoint indicator bits have XOR-sum equal to k mod2. For i∉I every witness contains both or neither; the XOR contains both or neither. Likewise for each original Fano coset pair {X_j,Y_j}, every witness has one endpoint, so the endpoint bits after XOR sum to k mod2. For even k, every pair, including each Fano coset pair, is either entirely included or entirely omitted. The remaining original outsider indices s_q,g_j are separate q-supervertices. Since each witness has quotient-zero sum, their XOR has quotient-zero sum, and each selected q-supervertex has quotient q, so an even number of q-supervertices is selected. Any even selection of the 12 q-supervertices, together with its even complement, extends to one of S059/S060's perfect matchings. In that matching X is a subcollection of genuine H blocks (the chosen q edges and selected unsplit full pair blocks), so a zero sum for proper nonempty X contradicts that H atom. Empty and all-T are the mandatory allowed exceptions. For odd k exactly one member of each i∈I and each Fano coset pair survives, while the others remain full or absent. QED.
+
+**Stricter stress test:** The four TRUE SAME-I/alpha/R/B Fano witnesses of CLM-0242, if they exist, have XOR **empty** (each Fano singleton appears twice; all fixed rest appears four times). Pairwise XORs are the two WHOLE coset-pair supervertices V_i,V_j, whose H sum is prohibited from vanishing by the already assumed q hub. Allowing DIFFERENT B, R and selected endpoints while keeping the full split set I does not help: every even XOR remains grouped and already protected. Thus S068's internal endpoint-orbit obstruction is a special case of this broader real original-index code, and **no raw same-I even-XOR of four Fano witnesses can supply the sought new contradiction**, regardless of rank(Delta) or equality of lambda(x_epsilon). This is a strategy obstruction, NOT a feasibility proof for FULL8.
+
+## 3. CLM-0245 — Genuine disjoint projected-zero U blocks amplify one non-q witness
+
+**Theorem (correctly anchored full-pair support).** Fix a real proper original torsion Fano-transversal witness Z with nonempty non-q mask M, complete split set I, and sum_G(Z)=10v. Let K_1,...,K_r be pairwise disjoint nonempty ORIGINAL U-index sets **outside I**, each satisfying lambda(sum_{i∈K_j}u_i)=0. Require, for EACH j, that Z includes **all** full original pairs of K_j or **none** (monochromatic full-pair membership on each K_j; the choice may differ across j).
+
+Write sum_{i∈K_j}u_i=5d_j∈H, d_j∈Q. Then d_1,...,d_r are linearly independent, r≤3; toggling inclusion of the whole original full-pair block K_j for any selected j yields 2^r genuine proper original torsion witnesses of the SAME complete split set I and same Fano epsilon, with distinct sums
+  10(v+sum_{j∈J}d_j), J⊆[r].
+Consequently v+span(d_1,...,d_r)⊆D_M, and if r=3, D_M=Q (the full-eight danger), **without three impossible order-two individual u_i**. For r=2, this gives a four-point affine danger coset from one true witness; under an EXACT12 D_M=a+L it forces span(d_1,d_2)=L.
+
+**Proof.** The sum of each K_j in H is 5d_j since ker(lambda)=5Q. If a nonempty sum of their independent-block colours vanished in Q, the disjoint union of the corresponding nonempty ORIGINAL U blocks would be an actual U-zero subset, contrary to zero-freeness. Hence independence and r≤3. Because K_j avoids I and is entirely full or absent in Z, changing its full-pair membership changes the original G subtotal by +2sum_{K_j}u_i or -2sum_{K_j}u_i. Both are exactly 10d_j in G, since the latter has order two. All changes on disjoint K_j commute; no pair becomes split; other chosen original outsiders and Fano ε are unchanged. Nonempty M makes every toggled Z nonempty proper. Independence makes all 2^r torsion values different. The exact12 direction conclusion follows because an affine two-plane contained in another four-point affine plane must have the same direction. QED.
+
+**Necessary limit / hostile false shortcut.** Merely finding disjoint C5-zero blocks in U is NOT enough to apply the theorem to *arbitrary* masked witnesses. If K_j meets I, toggling both endpoints at a split pair merely exchanges selected members, with difference b_i−a_i that need not lie in G[2]. If K_j lies outside I but Z selects SOME and not ALL full pairs of K_j, the change in H is sum_{K_j}u_i−2sum_{K_j∩B}u_i, whose C5 projection need not vanish; the torsion lift can fail. Thus any future use of the historical SOURCE_STATED D_2(C5^3)=20 to force two disjoint projected-zero blocks MUST ALSO prove they avoid a real I and have monochromatic B occupancy. This support compatibility is the actual new obstacle. Two independent blocks with no common compatible reference witness prove no four-point D_M.
+
+**Relation to CLM-0244.** The 2^r witnesses generated here all lie in the same full-I Fano-transversal stratum, so the preceding theorem says their even-order XOR cannot produce a new q-only zero. For r≥1 a two-witness XOR is exactly a union of the toggled whole U-blocks, with nonzero H sum; at r=3 the full8 colour orbit therefore passes every *internal* raw-XOR attempt. No real S060-gate survivor follows.
+
+## 4. CLM-0246 — THREE different non-q masks: exact labelled Fano q-gate and carry identity
+
+**Theorem (actual triangle-to-q-Fano transport).** Take three genuine torsion witnesses Z_A,Z_B,Z_C, each using an EVEN original Fano transversal L_{epsilon_P} (epsilon_P∈{000,110,101,011}), and non-q masks A,B,C with C=A△B. They may have different full split sets I_P=M_P∪J_P, chosen original endpoints, q-outsider g/S sets, and unsplit full-pair B_P. Let X=Z_A△Z_B△Z_C, and set
+  J_X=J_A△J_B△J_C ⊆ P_q,
+  epsilon_X=epsilon_A⊕epsilon_B⊕epsilon_C ∈{000,110,101,011}.
+Then X has NO non-q split pair, has EXACTLY q-split set J_X, and selects the TRUE original Fano transversal L_{epsilon_X}. Let gamma be the actual selected endpoints at q-split indices J_X; R_X the actual XOR of selected g_j/s_q indices; and B_X the actual indices of complete original pairs remaining in X. All four are determined by original membership bits, with B_X⊆[22]\J_X. The original parity equation gives
+  |J_X|+|R_X|≡0 (mod 2),
+and hence the exact full-G identity is
+  sum_G(X)=2[ x_{epsilon_X} + iota^{-1}(sum_{i∈J_X}gamma_i+sum_G R_X) + sum_{i∈B_X}u_i ].
+The S060 condition x_{epsilon_X}∈F_*⊆F_{J_X,gamma} excludes zero for every such X, unless X is empty/full; in fact X contains three singleton Fano positions, so is nonempty proper.
+
+Simultaneously put v_P∈Q with sum_G(Z_P)=10v_P and let H_AB=Z_A∩Z_B, H_AC=Z_A∩Z_C, H_BC=Z_B∩Z_C, K=Z_A∩Z_B∩Z_C (all ORIGINAL positions). The exact weighted-overlap formula is
+  sum_G(X)=10(v_A+v_B+v_C)
+             −2(sum_G H_AB+sum_G H_AC+sum_G H_BC)
+             +4sum_G K.
+Therefore, writing W=2(sum H_pairs)−4sum K, a *sufficient* and *necessary* equality for this particular q-Fano XOR to vanish is
+  W=10(v_A+v_B+v_C) in G.
+Under the assumed S060 gate this equality is IMPOSSIBLE. This is CLM-0234's weighted-carry criterion sharpened to the actual even-Fano epsilon_X, q-selected split set J_X, original gamma/R_X/B_X and the precise E(U\J_X) that would be violated; no arbitrary new Fano x value is introduced.
+
+**Proof.** For any original non-q pair i, XOR of three split-status bits has indicator 1 exactly when i∈A△B△C=∅, so X takes both endpoints or none. For a q pair the split-status XOR is 1 exactly for J_X; membership bits specify gamma_i. In each singleton q-coset pair each Z_P takes exactly one endpoint, so the odd XOR also takes exactly one, with epsilon bit the XOR of the three original choices. Even Fano weights form the two-dimensional F2-subspace of F2³, hence epsilon_X stays even. On g and s_q, membership XOR is the actual R_X. Original quotient parity of X equals the sum of three zero parities, and epsilon_X's Fano triple has quotient zero, while q split endpoints and g/S have quotient q; thus |J_X|+|R_X| is even. Summing true pair blocks in G gives the displayed exact 2H identity. Because three original Fano positions are included and the complementary other three are excluded, X is automatically nonempty proper. Membership identity 1_{A△B△C}=1_A+1_B+1_C−2(1_AB+1_AC+1_BC)+4 1_K gives the second formula in G. The q-only equivalence CLM-0221 then prohibits its zero. QED.
+
+**Practical gap:** This transport identifies precisely which q-only Fano E(U\J_X) gate a hypothesised triple-overlap collision would violate. But mere existence of three danger masks / a 12-cover / rank3 Delta does **NOT** force the equality W=10(v_A+v_B+v_C). One must prove an ACTUAL coincidence of original overlaps/carries for witnesses across DIFFERENT non-q masks. Those witnesses cannot be replaced by arbitrary abstract (M,v) colours or freely chosen H terms.
+
+## 5. CLM-0247 — True same-projection Fano quartet IFF three synchronised order-four singleton swaps
+
+**Theorem (full-G original singleton inverse).** Let k_i=Y_i−X_i∈G for i=1,2,3, so pi(k_i)=q. The following conditions are **equivalent**, with NO assumption about U or any split witness:
+
+1. The four true EVEN Fano H values x_000,x_110,x_101,x_011 have the SAME projection in C5^3 under lambda.
+2. For each i=1,2,3, the full original difference satisfies k_i≡5q (mod 10), componentwise (view q via its canonical {0,1}^3 representatives).
+3. For each i=1,2,3, **2k_i=10q in G**: all three original singleton swaps are order-four roots of the same nonzero order-two element 10q.
+
+If these conditions hold, there are UNIQUE eta_i∈Q with k_i=5q+10eta_i in G, and the ACTUAL parity difference data have the explicit form
+  Delta_ij = q+eta_i+eta_j  (ij=12,13,23).
+In particular Delta_12+Delta_13+Delta_23=q≠0, and the common projected H Fano value is forced:
+  lambda(x_000)=lambda(x_110)=lambda(x_101)=lambda(x_011)=4 lambda(C)
+in C5^3 (4 is the inverse of 4 mod5). Rank(Delta) can be 1,2 or3; rank3 is NOT automatic.
+
+**Proof.** The even-Fano transversal L_ij changes X_i,X_j to Y_i,Y_j, so in FULL G
+  2(x_ij−x_000)=k_i+k_j .
+Equal mod5 H projections mean x_ij−x_000∈ker(lambda)=5Q, equivalently k_i+k_j∈10Q, equivalently k_i+k_j≡0 mod10 for all three pairs (12),(13),(23). Hence in (Z/10)^3, k_1≡−k_2≡−k_3 while k_2≡−k_3; subtracting gives 2k_i≡0 mod10 and all three k_i have the same mod10 class h with 2h=0. Thus h∈{0,5}^3. But pi(k_i)=pi(Y_i)+pi(X_i)=(r_i+q)+r_i=q, and reduction mod10 preserves parity. Therefore h=5q, proving (1)⇒(2). Condition (2) is equivalent to k_i=5q+10eta_i for unique eta_i∈Q in C20^3; doubling gives 2k_i=10q, and every solution of 2k_i=10q has precisely that form, proving (2)⇔(3). Conversely (2) makes each k_i+k_j a multiple of10 in G and hence each x_ij−x_000 a multiple of5 in H, proving (1). Finally k_i+k_j=10(q+eta_i+eta_j) in G, so x_ij−x_000=5(q+eta_i+eta_j) in H and its rho is Delta_ij=q+eta_i+eta_j. Summing over pairs gives q. The full TRUE Fano sum x_000+x_110+x_101+x_011=C reduces mod5 to 4lambda(x_000)=lambda(C), so lambda(x_000)=4lambda(C). QED.
+
+**Consequences and limitations.** S068's shared-projection hypothesis is not an unspecified equality of four independently chosen residues: it requires THREE original singleton differences to have the same exact double 10q, and the common projected colour is the unique 4lambda(C). This is a sharp **original-index order-four** feasibility test for every attempted CLM-0242 support-sharing quartet. However no S060 q-only matching/F_* premise proved here forces 2(Y_i−X_i)=10q, nor do these equations force Delta rank3 or one genuine M-split witness at that projected colour. There is no contradiction from the synchronised singleton swaps alone. Future proof attempts can attack this concrete triple of equal-double equations directly rather than a free mod5-colour diagram.
+
+## 6. Exhaustive symbolic attack on the requested bridge: what failed
+
+1. **Force four SAME-c Fano values.** CLM-0222 allows all mod5 four-tuples satisfying only the full sum C; parity differences impose conditions modulo2, not modulo5. S060's F_* restrictions are strong but no arbitrary-U22 proof here forces lambda(x_000)=lambda(x_110)=lambda(x_101)=lambda(x_011). Without it CLM-0242 cannot be used universally. Even if it holds and a common-shift witness exists, CLM-0244 proves that XORs of any even number of witnesses at fixed full I are q-hub protected; the intended contradiction must use masks/supports that genuinely cross this stratum.
+2. **Full8.** A three-dimensional set of projected-zero ORIGINAL U blocks monochromatically disjoint from a true witness would realise full D_M=Q by CLM-0245, while CLM-0244 proves its raw even XOR immune. That does not construct such compatible blocks in an S060-gated T59. Conversely CLM-0241's locked endpoint differences do not force these block compatibilities or preclude different-orbit danger values. FULL8 remains open.
+3. **Exact12/augmented13/14 and ≥15.** An EXACT12 D_M=a+L cannot include CLM-0245's r=3 orbit, and any r=2 anchored orbit must have direction L. At augmented13/14 larger D_M this direction conclusion applies only to a contained exact four-coset, not to the whole set; at ≥15 no low-budget argument covers all possibilities. No actual triple of A,B,A△B witnesses was shown to satisfy the weighted equality in §4. Thus the forbidden shared-carry equation remains unforced.
+4. **All indices, complement and q multi-splits.** CLM-0246 retains the ORIGINAL gamma endpoints and J_X, B_X and true even Fano ε_X. It handles q-selected original multi-splits via E(U\J_X) and odd g choices via R_X. Their complements are legitimate but do not generate the requisite carry; original G total0 makes a zero-subset and its complement equivalent only AFTER a zero is shown.
+5. **Hostile 59 labels.** The S059 concrete 22+8+7 model passes matching atoms but its four true Fano sum C conflicts with the projected slab F_*, as S060 already proved. Adjusting only order-two non-q pair gauge preserves the failing q-gate. The S066 three local split endpoint gadgets are NOT 59 original positions and their U22 compatibility is unproved. A complete labelled 59-position total-zero q-gate survivor, all outsider transversals, all q multi-splits, every full-G four-Fano equation and first non-q zero/complement, was **NOT** obtained. No nonminimal survivor is asserted, and no minimal G59/G58 result is inferred.
+6. **Unexamined profiles.** Nothing here handles all 26 hubs/three-hub alignments or alternate parity profiles P26 (0,4),(0,6),(1,7). No SOURCE_STATED SRC-0008/0015/0023/0029 status changes, and no claim of an independent externally checked source proof.
+
+## 7. Most precise unsolved bridge and next useful target
+
+The real contradiction sought is the following: starting from ALL true S060 q-hub atoms, all indexed F_* membership, C and Delta constraints, 22 genuinely zero-free U sums and original total0, establish a *forced* triangle of ACTUAL original non-q torsion witnesses Z_A,Z_B,Z_{A△B} with overlap carry W exactly equal to 10(v_A+v_B+v_C), or establish a different explicit proper ORIGINAL zero. CLM-0246 would immediately turn that into the exact F_{J_X,gamma} failure, including original q multi-splits and mixed odd g. **No proof forces such a triangle.** In particular moving among even-Fano witnesses at one fixed complete-pair split stratum I is provably unable to force a new zero (CLM-0244). The positive-looking CLM-0245 F2 fibres need witness-compatible original disjoint projected-zero supports and do not force any cross-mask intersection.
+
+The next session should seek *nontrivial cross-I overlap rigidity* (different non-q masks with A△B△C=0, or differing q-split J) that establishes W equality from exact G-valued data; alternatively an independently verifiable 59-label S060-gate hostile configuration. It must allow a sustained multiroute attack, not another abstract cover-count update. Phase1 remains IN_PROGRESS, no G58 counterexample and no D(C20³)=58 theorem.
+
+## 8. Integrity and boundary
+
+CLM-0244–0247 are internal symbolic original-index statements and do not upgrade old external source facts. Claims 243→247; all 29 SRC records including the first28 unchanged; all 30 original frontier row objects unchanged. CAM-0001 remains PROPOSED / NOT_RUNNING / BLOCKED by historical n6=16; no new campaign, certificate, formal check or third-party review. Hosted workflow/run/status observations are absent and NOT PASS. The write workflow and postmerge verification (if completed) are recorded separately; do not treat this precommit mathematical proof as evidence of a published SHA.

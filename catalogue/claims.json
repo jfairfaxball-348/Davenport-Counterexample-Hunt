@@ -2566,6 +2566,42 @@
       "origin": "research/S068_ORIGINAL_FANO_FIBRE_AND_XOR_BARRIER.md",
       "source_ids": [],
       "notes": "Fully indexed parity proof. A hostile limitation of internal-orbit collision arguments, NOT an actual full-gate G59 model or universal full8 feasibility."
+    },
+    {
+      "id": "CLM-0244",
+      "statement": "For any even number of original torsion Fano-transversal witnesses all splitting exactly the SAME full original pair-index set I (even if their selected endpoints, g/S sets, Fano lines and complete-pair blocks differ), the original index XOR consists only of complete original pairs and an EVEN number of whole q-supervertices S,V1,V2,V3,g1..g8. An actual unsplit q-hub matching atom already forbids it from being a proper nonempty zero. An odd number retains precisely the split set I and a genuine Fano transversal.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S069_CROSS_STRATUM_FANO_SUPPORT_AND_CARRY.md",
+      "source_ids": [],
+      "notes": "Any EVEN-weight Fano shared-witness quartet at one complete-split stratum is already protected; full8 cannot be excluded by same-I raw XOR."
+    },
+    {
+      "id": "CLM-0245",
+      "statement": "If a genuine non-q torsion Fano witness has split set I and r pairwise disjoint projected-mod5-zero original U blocks K_j outside I, each monochromatically all selected or all unselected as complete original pairs, toggling each whole K_j yields 2^r same-I original torsion witnesses with independent colours v+span(d_j), where sum(K_j u)=5d_j. Necessarily r<=3; r=3 forces full D_M=Q, and r=2 inside an exact four-coset D_M fixes its direction plane.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S069_CROSS_STRATUM_FANO_SUPPORT_AND_CARRY.md",
+      "source_ids": [],
+      "notes": "The additional ORIGINAL monochromatic support and index-disjointness assumptions are essential, not implied by D2(C5³)=20 or S060. This does not produce a fully feasible 59-label witness."
+    },
+    {
+      "id": "CLM-0246",
+      "statement": "Three actual even-Fano torsion witnesses with non-q masks A,B,C=A△B have an original symmetric difference with no non-q splits, q split mask J_A△J_B△J_C, precisely the even original Fano transversal epsilon_A⊕epsilon_B⊕epsilon_C, and explicit selected q endpoints/g-S/fullpair labels. Its sum equals 2(x_epsilon+b_(J,gamma,R)+sum_(B)u) and also 10(sum v)−2(sum pairwise intersections)+4(sum triple intersection); zero is exactly the weighted-overlap carry equality and violates the corresponding true F_(J,gamma) gate.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S069_CROSS_STRATUM_FANO_SUPPORT_AND_CARRY.md",
+      "source_ids": [],
+      "notes": "Refines CLM-0234 with exact even Fano and E(U\\J) original labels. The equality/collision is NOT forced by danger-cover counts or current q-gate premises."
+    },
+    {
+      "id": "CLM-0247",
+      "statement": "For three TRUE labelled q-coset Fano singleton differences k_i=Y_i-X_i in C20^3 (each quotient parity q), the four even-weight Fano H values have the SAME C5^3 projection if and only if k_i≡5q modulo10 for all i, equivalently 2k_i=10q in the ORIGINAL full group for every i. Writing k_i=5q+10η_i with η_i∈F2³ gives genuine Delta_ij=q+η_i+η_j, Delta_12+Delta_13+Delta_23=q, and common projected colour lambda(x_epsilon)=4lambda(C) from the exact four-Fano sum C. Does not force this equal-double condition, rank-three Delta, or a real original masked torsion witness.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S069_CROSS_STRATUM_FANO_SUPPORT_AND_CARRY.md",
+      "source_ids": [],
+      "notes": "Internally proved full-original C20 singleton difference/order-four inverse. Conditional criterion not universal S060 q-gate implication."
     }
   ]
 }

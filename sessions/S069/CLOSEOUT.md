@@ -1,0 +1,18 @@
+# S069 PRECOMMIT closeout — 14 October 2026
+
+**Owner invocation:** the S069 URL was an explicit request to RUN exactly S069. Entry live main 50eec46e26067ab5225c85ef95086676013ead52 (S068 PR#70 merged), no open PRs or existing S069 branch, observed combined status contexts=[] and PR-triggered workflow runs=[] (**CI ABSENT_NOT_PASS**). The connector did not expose a fresh parent/tree mapping; do not claim independently verified root-tree equality, nor claim protection PASS (UNKNOWN). Read S068 S060 S063 S065 S067 and authorities, claim/source/phase/failure ledgers.
+
+**Substantial INTERNAL original-index result:** research/S069_CROSS_STRATUM_FANO_SUPPORT_AND_CARRY.md gives three scoped proofs:
+- CLM-0244 (same complete original split set I): every even Fano-transversal XOR regroups into original q-hub vertices and complete original pairs, whose proper zero is ALREADY excluded by matching atoms. This extends the endpoint-orbit no-go and closes naive same-I four-Fano XOR arguments.
+- CLM-0245 (actual compatible original supports): disjoint mod5-zero original U blocks, entirely outside I and individually wholly selected/omitted by the true reference witness, give r≤3 independent torsion directions and a genuine 2^r-value D_M affine fibre; r3 would give full8. This is not forced by U22 or source-stated D2.
+- CLM-0246 (different non-q split masks): for three TRUE even-Fano torsion witnesses A,B,C=A△B, the original XOR has exact even epsilon_X, q selected J_X, gamma/R_X/B_X and q-only F_{J_X,gamma} gate; weighted overlap equality W=10(v_A+v_B+v_C) is precisely its impossible proper-zero carry. **No proof forces this equality from S060.**
+
+**Unresolved:** No universal cross-I overlap equality, no guaranteed shared projected Fano support, no elimination of full8 or exact12/13/14/15+ genuine covers, no full 59 labelled S060-gated hostile total-zero model and first non-q proper zero/complement, no minimal G59 or zero-free G58, no D(C20³)=58 theorem. Canonical profile is source-conditional; three-hub, 26 hub choices and P26 alternatives remain open.
+
+**Integrity:** claims243→247, all 29 sources unchanged (first28 original source objects unchanged), original30 frontier row objects untouched. Phase1 IN_PROGRESS; Phases2/3 NOT_STARTED; Phase4 OWNER_GATED; CAM-0001 PROPOSED / NOT_RUNNING / BLOCKED. No mathematical numerical search, CAS/SAT/ILP, candidate/orbit enumeration, historical author code, Lean, Palomar, certificate, paper/outreach. Review INTERNAL SAME_EXECUTOR. Hosted CI ABSENT_NOT_PASS/protection UNKNOWN.
+
+**Branch workflow deviation:** GitHub's available connector provides file-content writes, but no usable Git root tree SHA; create_tree rejected base_commit_SHA as INVALID TREE. Therefore all session changes are staged as sequential commits on one session branch instead of exactly one atomic authored commit. Ordinary two-parent nonforce PR merge is preferred. This exception is transparent; do not claim an atomic authored commit. Actual outgoing PR/main SHA and postmerge parent/tree verification are not asserted PRECOMMIT.
+
+**Handover:** full S070 prompt at authoritative/NEXT_SESSION_PROMPT.md. S070 is FUTURE/UNEXECUTED until the owner next invokes it. S069 ends after its PR/merge and state check.
+
+**Further genuine Fano support inverse (CLM-0247):** Four actual even-Fano H projections coincide mod5 exactly when every original singleton swap k_i=Y_i−X_i has double 2k_i=10q in full C20³ (all three order-four roots of the same torsion element). Then true Delta_ij=q+eta_i+eta_j, Delta12+Delta13+Delta23=q and the common C5 projection is 4lambda(C). Nothing proved S060 forces these swaps, and no actual non-q shared support follows. Claims total now 247 (four new), not 246.
