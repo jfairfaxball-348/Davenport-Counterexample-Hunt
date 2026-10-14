@@ -6,4 +6,6 @@
 4. Explore compatible disjoint projected-zero original U blocks as a legitimate r≤3 torsion amplification mechanism, keeping split-index avoidance and monochromatic original full-pair support explicit (CLM-0245).
 5. Derive a full-G indexed triangle XOR with different non-q masks A,B,A△B; identify actual epsilon_X, q split J_X, original selected endpoints, mixed g, B_X and E(U\\J_X), and exact weighted-overlap zero criterion (CLM-0246).
 6. Attempt to force the overlap equality or build 59 fully labelled hostile q-gate data. Record failure rigorously; no G58/D20 inference, no numerical candidate search.
-7. Synchronise claims 243→246, 29 sources unchanged, original30 frontier unchanged, all ledgers/state and closeout; issue full S070 future-only prompt, one PR; CI absence is NOT PASS.
+7. Synchronise claims 243→247, 29 sources unchanged, original30 frontier unchanged, all ledgers/state and closeout; issue full S070 future-only prompt, one PR; CI absence is NOT PASS.
+
+8. Strengthen SAME mod5 Fano support to a full-G original singleton order-four criterion k_i=Y_i-X_i, 2k_i=10q (CLM-0247), and record that it remains unforced.
