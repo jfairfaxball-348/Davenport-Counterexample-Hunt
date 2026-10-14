@@ -1,0 +1,2 @@
+# S063 input — owner invocation, 2026-10-14
+Execute live authoritative/NEXT_SESSION_PROMPT.md S063 once. Entry remote main 9c19776958e347366cde32925d30af35b6d65d1b, S062 PR #64 merged ordinarily with parents fb0903af12e800bedcc19888441ff0655eb7af2c and 6803ce2663f440cf3391b35202d9484fa5e2474b. The S062 authored sole-parent commit is 6803ce... based on fb0903..., tree 01e2a7af3464998e54731dbc378668859926c4c1. No other open PR or competing S063 branch observed. Deep original-index symbolic work only, no CAS/search/etc.

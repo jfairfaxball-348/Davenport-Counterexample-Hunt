@@ -2411,6 +2411,33 @@
       "origin": "research/S062_TORSION_WITNESS_CLOSURE_AND_DENSITY.md",
       "source_ids": [],
       "notes": "INTERNAL source-independent indexed full-G intersection-carry proof; no forced collision for arbitrary genuine witness supports."
+    },
+    {
+      "id": "CLM-0227",
+      "statement": "For fixed actual canonical S060 q-only-compatible original C20³ T59, shifting BOTH members of every original non-q parity pair i by independent 10theta_i preserves its exact G sum, quotient, total, all U22, all q-only matchings/E(U\\\\I) and true four-Fano F_* values. On any parity-even original subset Z the shift is 10 sum_{i in M(Z)}theta_i. The S061 64 singleton order-two lifts, combined with these pair shifts, induce precisely the same proper-zero-subset test patterns as pair shifts alone via phi_i=theta_i+ell([t_i]); physical labelled sequences need not coincide. Conditional original-index torsion subfibre, not all label lifts or a global n20 theorem.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S063_ORIGINAL_SPLIT_MASK_GAUGE_AND_COVER.md",
+      "source_ids": [],
+      "notes": "INTERNAL source-independent exact full-G order-two original-pair gauge; retains 0-split-class exception when pair labels held fixed."
+    },
+    {
+      "id": "CLM-0228",
+      "statement": "With genuine original-index non-q split masks M and reference G[2] subtotal witness sets D_M, a minimal original total-zero T59 exists in the independent 8^m non-q pair-twist subfibre iff 0∉D_empty and some theta_i in Q satisfy sum_{i in M}theta_i∉D_M for all nonempty M. Actual S060 q-only gate proves 0∉D_empty. If all twists fail, at least8 distinct (M,v) cylinders are necessary; exactly8 can cover only if one nonzero D_M=Q and all other D_N empty. Without full D_M at least9 needed. Distinct nonzero masks define intersecting codim3 cylinders.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S063_ORIGINAL_SPLIT_MASK_GAUGE_AND_COVER.md",
+      "source_ids": [],
+      "notes": "INTERNAL exact original-mask finite covering theorem; NOT an actual cover proof or global Davenport endpoint."
+    },
+    {
+      "id": "CLM-0229",
+      "statement": "For S063 original non-q pair twist masks, m=1 yields exact dichotomy: full eight-torsion-value D_{1}=Q or some twisted minimal T59; m=2 yields exact B_{1}+B_{2} intersect B_{12} iff and transfers S062 full-eight-or-at-least-twelve rigidity to these THREE MASK sets even if their old split-parity sigma labels coincide. For two original torsion witnesses, M(Z△Z')=M(Z)△M(Z') and full-G sum=10(v+w)-2sum_G(Z∩Z'); same mask, proper symmetric difference and intersection≡5(v+w) mod10 violate S060 q-only clearance. An ABSTRACT eight odd-mask example with C_sigma=Q but pair-gauge survivor refutes aggregating full C_sigma into a universal obstruction; NOT a real S060-compatible original G59 model.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S063_ORIGINAL_SPLIT_MASK_GAUGE_AND_COVER.md",
+      "source_ids": [],
+      "notes": "INTERNAL conditional m1/m2/actual-indexed XOR lemmas and clearly abstract hostile covering example; missing genuine carry forcing and actual survivor."
     }
   ]
 }

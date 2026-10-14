@@ -1,0 +1,25 @@
+{
+  "session": "S063",
+  "entry_main": "9c19776958e347366cde32925d30af35b6d65d1b",
+  "claims_before": 226,
+  "claims_after": 229,
+  "new_claims": [
+    "CLM-0227",
+    "CLM-0228",
+    "CLM-0229"
+  ],
+  "original28_source_objects_unchanged": true,
+  "original30_frontier_row_objects_unchanged": true,
+  "source_status_promotions": 0,
+  "mathematics": "EXACT_ORIGINAL_NON_Q_SPLIT_MASK_TORSION_GAUGE_AND_8_COVER_THRESHOLD",
+  "universal_arbitrary_U22_exclusion": false,
+  "indexed_S060_surviving_hostile_model": false,
+  "global_C20_D58_proved": false,
+  "original_G58_zero_free_candidate": false,
+  "mathematical_numerical_search": false,
+  "hosted_ci": "ABSENT_NOT_PASS",
+  "protection": "UNKNOWN_403",
+  "review": "INTERNAL_SAME_EXECUTOR",
+  "branch": "session/S063-original-mask-torsion-gauge",
+  "precommit_outgoing_refs": "NOT_KNOWN_BEFORE_COMMIT"
+}

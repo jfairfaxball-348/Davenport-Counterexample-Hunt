@@ -238,3 +238,6 @@ No numerical mathematical search, historical author code, CAS/SAT/ILP, orbit/can
 
 ## S062 — 14 October 2026
 CAM-0001 PROPOSED / NOT_RUNNING / BLOCKED (historical source-stated n6=16). S062 was symbolic original-index C20³ proofs only, no numeric/computational mathematical search, CAS/SAT/ILP, orbit/candidate generation, Lean/Palomar, author-code execution, new campaign, Phase2/3 or certification. S063 FUTURE.
+
+## S063 campaign disposition — 2026-10-14
+NONE activated or added. CLM-0227–0229 original non-q pair torsion gauge and mask-cover conditions are Phase1 symbolic mathematics, NOT a numerical/computational search or proposed solver campaign. CAM-0001 remains PROPOSED / NOT_RUNNING / BLOCKED by historical n6=16; Phases2/3 NOT_STARTED, Phase4 OWNER_GATED, no candidate or certificate. Original28 source objects,30 frontier rows and provenance preserved. S064 FUTURE, not executed.
