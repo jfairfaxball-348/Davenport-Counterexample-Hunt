@@ -2294,6 +2294,49 @@
       "origin": "research/S057_FOUR_BLOCK_SHADOW_DICHOTOMY.md",
       "source_ids": [],
       "notes": "Elementary D(C2³)=4 and original atom minimality, source-independent; internal symbolic."
+    },
+    {
+      "id": "CLM-0215",
+      "statement": "In any indexed minimal zero-sum H=C10³ atom admitting a four-block partition into disjoint mod5-zero blocks, each of the FOUR projected blocks is a minimally zero-sum C5³ atom: the other three K=C2³ kernel sums are a basis and cancel any proper projected-zero subblock. Conditional on SOURCE_STATED D3(C5³)=25, S057 three-deletion basis extraction therefore yields a full four-atom projected partition in which any prescribed triple of original H positions cohabits in one projected atom; each block length≤13 conditional on D(C5³)=13.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S058_COMMON_THREE_BASIS_SWITCH.md",
+      "source_ids": [
+        "SRC-0015",
+        "SRC-0008"
+      ],
+      "notes": "Four-block atomicity elementary conditional on existence; triple-cohabitation uses source-stated D3. INTERNAL only; does not classify arbitrary H28 atoms."
+    },
+    {
+      "id": "CLM-0216",
+      "statement": "For any quartet of distinct ORIGINAL eight-g indices in the conditional C20 T59 Fano line/cap matching setup, its THREE perfect matching H28 atoms share exactly26 indexed H blocks. After removing any chosen common index z, SOURCE_STATED D3(C5³)=25 supplies a SINGLE three-block projected-zero basis inside the same25 H positions, valid across ALL THREE switched atoms. The common residual C contains z, has length1..11, projects zero-sumfree, and each of the three matched edge-pairs makes rho(C) into a C5³ minimal zero-sum atom; all six edge occurrences are E(C) members in three complementary pairs. For |C|=11, SOURCE_STATED D(C5³)=13 forces every noncomplement cross-pair sum to be represented by a proper (possibly empty) indexed C subset. Does not eliminate every U22/nonzero t_i.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S058_COMMON_THREE_BASIS_SWITCH.md",
+      "source_ids": [
+        "SRC-0015",
+        "SRC-0008",
+        "SRC-0023"
+      ],
+      "notes": "Conditional historical source premises; 1470 original labelled matching triads, common basis only WITHIN triad; no synthetic overlapping edge combination treated as original disjoint G positions. INTERNAL."
+    },
+    {
+      "id": "CLM-0217",
+      "statement": "For a hypothetical actual 11-term common switch residue C⊂C5³, IF the unproved universal inverse c∉span(E(C)-c/2) held, then its quartet of mod5 outsider potential values d_i,d_j,d_k,d_l would be affinely dependent: the three centered switched edge deviations span exactly the differences d_i-d_l,d_j-d_l,d_k-d_l. Moreover the old S053 abstract E_abs=m+{±e1,±e2,±e3}, m=(2,2,2), satisfies complement symmetry and E+E avoiding E and ALSO can be represented by exact mod5 three-switch edge potentials, while violating the proposed span condition. This ABSTRACT algebraic no-go is not an actual E(P) or a G counterexample.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S058_ACTUAL_P11_INVERSE_AND_ABSTRACT_NO_GO.md",
+      "source_ids": [],
+      "notes": "Exact conditional implication plus explicit symbolic abstract countermodel; actual P11 inverse remains OPEN. INTERNAL."
+    },
+    {
+      "id": "CLM-0218",
+      "statement": "In the original-index C15 CRT target-sized A'_k skeleton (and analogous m=4 case), six B-only quotient-zero exchanges B'=(B\\{d})∪{y,q} for each of three original Z indices d and two original residual Y indices q have Δ=h(y)+h(q)-h(d) and require b+Δ∈E(P) where P denotes untouched original pure-block H totals. For saturated P=f1^(m-2)f2^(m-1)f3^(m-1), b=f1+f2, E(P) is exactly the f1-character slab phi=1; hence all six require phi(h_d)=phi(h_y)+phi(h_q), forcing constant phi among the three d and two q separately. Failure constructs an explicit proper original G zero subset. S052 fixed decoration passes all, so no G43 resolution.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S058_C15_B_ONLY_FIRST_FAILURE.md",
+      "source_ids": [],
+      "notes": "Genuine six original-index necessary scalar restriction; not full all-chain or G witness; INTERNAL symbolic."
     }
   ]
 }

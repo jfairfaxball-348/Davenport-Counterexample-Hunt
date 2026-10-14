@@ -1,0 +1,27 @@
+{
+  "session": "S058",
+  "entry_main": "05851bb5f52a069f774f9ccabde7be8e21b9a20c",
+  "previous_session": "S057",
+  "previous_authored_commit": "b9436bdf7ac3d089d928b6f859c00a9426cb463f",
+  "previous_authored_parent": "3706e3a26d685905679d8f51156124152a73db37",
+  "previous_authored_tree": "48df2a8b49896a9cbc622728a1664177490d1dfc",
+  "previous_pr": 58,
+  "previous_merge": "05851bb5f52a069f774f9ccabde7be8e21b9a20c",
+  "previous_merge_parents": [
+    "3706e3a26d685905679d8f51156124152a73db37",
+    "b9436bdf7ac3d089d928b6f859c00a9426cb463f"
+  ],
+  "open_prs": 0,
+  "s058_branches_at_entry": 0,
+  "s058_record_at_entry": false,
+  "workflow_files": 0,
+  "hosted_runs": 0,
+  "hosted_jobs": 0,
+  "check_runs": 0,
+  "status_contexts": 0,
+  "CI": "ABSENT_NOT_PASS",
+  "rulesets": 0,
+  "branch_protection": "UNKNOWN_403",
+  "review": "INTERNAL_ONLY",
+  "no_intervening_main_change_observed": true
+}

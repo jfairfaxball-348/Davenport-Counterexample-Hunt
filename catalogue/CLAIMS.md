@@ -1337,3 +1337,10 @@ Seven Fano ORIGINAL singleton H line block values modulo5 may be prescribed arbi
 - **CLM-0214 [PROGRAMME_PROVED; INTERNAL]** Four disjoint mod5-zero blocks of any C10³ minimal atom must cover ALL original H indices; kernel sums form binary 4-circuit; cannot use them on a proper subset. Proof: research/S057_FOUR_BLOCK_SHADOW_DICHOTOMY.md.
 
 NO new D(C15³)=43 or D(C20³)=58 theorem, no 43/58-term ORIGINAL zero-free G candidate or certification; same executor only. Original 211 claims retained unmodified; catalogue now 214 unique IDs.
+
+## S058 — 14 October 2026
+- **CLM-0215 [PROGRAMME_PROVED; INTERNAL; SRC-0015 conditional for existence]** Four projected zero blocks in a minimal H atom are each C5³ atoms; source-conditional three-deletion extraction gives any-three-index projected atom cohabitation. [Proof](../research/S058_COMMON_THREE_BASIS_SWITCH.md).
+- **CLM-0216 [PROGRAMME_PROVED; INTERNAL; source conditional]** All THREE original quartet switched H28 atoms share ONE binary-kernel basis extracted in 25 common indexed H terms; common projected C length1..11 has three complementary edge completion pairs; 11-term cross-pair obligations. No universal nonzero t_i elimination. [Proof](../research/S058_COMMON_THREE_BASIS_SWITCH.md).
+- **CLM-0217 [PROGRAMME_PROVED algebraic/conditional; INTERNAL]** Conditional actual-P11 affine-span inverse would force quartet mod5 affine dependence when a common C11 exists; abstract S053 hostile F ALSO satisfies exact switched-edge mod5 potential relations. **NOT** an actual P11 inverse or G counterexample. [Proof](../research/S058_ACTUAL_P11_INVERSE_AND_ABSTRACT_NO_GO.md).
+- **CLM-0218 [PROGRAMME_PROVED; INTERNAL]** Six original-index C15 B-only Δ gates force f1-character rigidity and give an explicit original zero subset on any failed gate, while S052 fixed decoration survives. [Proof](../research/S058_C15_B_ONLY_FIRST_FAILURE.md).
+Original 214 claims retained; now 218 unique IDs. No composite equality or zero-free original G candidate, numerical frontier or source promotion.
