@@ -1,3 +1,9 @@
+# S079 CURRENT AUTHORITY — 15 October 2026
+
+[Full S079 proof](../research/S079_Q_SLAB_RIGIDITY_AND_FANO_NO_GO.md) CLM-0276–0277: six-block all-proper-subsum scalar rigidity across ALL actual q-supervertex matchings, then four SAME ORIGINAL Fano triples and even-g shifts contradict the true total 4 vs3 under five-slab φ(E(U))⊆{1,..,5},φ(−ΣU)=6. Entire S059 and S078 fixed H core families eliminated for ANY original lift; unrestricted U22 remains OPEN. No original full q-gated T59/G58/D(C20³)=58, signed K occupancy or proof of conjecture. Claims277, sources29/frontier30 immutable, Phase1 IN_PROGRESS, CI ABSENT_NOT_PASS. [S079 closeout](../sessions/S079/CLOSEOUT.md), [review](../sessions/S079/REVIEW.md); [S080 prompt](NEXT_SESSION_PROMPT.md) FUTURE ONLY.
+
+---
+
 # S078 CURRENT AUTHORITY — 15 October 2026
 
 [Full S078 original-index proof](../research/S078_EXACT_FANO_PARITY_AND_PARTIAL_ORIGINAL_MODEL.md) CLM-0272–0275: exact original mod20 Fano quartet iff rho(sum x)=q, projected zero-free R+v+(c−v) atom iff v∈E, R11 28 formal pair conditions AUTOMATIC (not independent), and an all-59-original-index total-zero PARTIAL model with true W26 and four H28 atoms that FAILS mandatory S060: g1,g3+nine original full e1-pairs sum20e1=0. NO all-q-gated T59, G58, D(C20³)=58 or signed K occupancy. FULL8/exact12/13+/26 hubs/P26 OPEN. D3 historical SOURCE_STATED unauthenticated, claims275/source29/frontier30 preserved, Phase1 IN_PROGRESS CAM-0001 BLOCKED, CI ABSENT_NOT_PASS. [Closeout](../sessions/S078/CLOSEOUT.md), [review](../sessions/S078/REVIEW.md). S079 FUTURE/UNEXECUTED with fresh owner invocation.

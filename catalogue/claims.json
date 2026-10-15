@@ -2858,6 +2858,24 @@
       "origin": "research/S078_EXACT_FANO_PARITY_AND_PARTIAL_ORIGINAL_MODEL.md",
       "source_ids": [],
       "notes": "S078 INTERNAL scoped symbolic original-index proof; no global Davenport result, no independent certification."
+    },
+    {
+      "id": "CLM-0276",
+      "statement": "Six b1,..,b6 in C10 with sum6 and every nonempty PROPER indexed subsum in {1,..,5} necessarily all equal1. For EVERY perfect matching of the 12 genuine disjoint ORIGINAL q-supervertices of total-zero canonical T59 with φ(E(U))⊆{1,..,5},φ(−sumU)=6, this forces the scalar of all six actual pair H sums1, whence all twelve genuine original q-supervertices have a single F:G→C20 value a∈{1,11}.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S079_Q_SLAB_RIGIDITY_AND_FANO_NO_GO.md",
+      "source_ids": [],
+      "notes": "INTERNAL S079; self-contained six-block/proper-atom ORIGINAL-index proof. Canonical source-conditional setup, not global result."
+    },
+    {
+      "id": "CLM-0277",
+      "statement": "Five-slab ORIGINAL S060 q-only exclusion: a canonical actual total-zero G59 with H-zero-free U22 and φ(E(U))⊆{1,..,5},φ(−sumU)=6 cannot pass q-only gate. All matching rigidity forces every q-supervertex F scalar a=1 or11; four genuine coupled Fano triple plus even-g original shifts give each φ(x)=1 and sum4 while true six singleton double count gives sum3 mod10. A literal original proper zero follows with actual q grouped subset OR real Fano triple+even g+whole original indexed pairs. Applies to ALL original lifts of S059 U=e1^9e2^9e3^3(e1+e2+e3) and S078 U=e1^9e2^9e3^4, not arbitrary U22; no G58/D20.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S079_Q_SLAB_RIGIDITY_AND_FANO_NO_GO.md",
+      "source_ids": [],
+      "notes": "INTERNAL S079; exact original index support and coupled Fano, source-independent within stated original profile; no independent certification."
     }
   ]
 }
