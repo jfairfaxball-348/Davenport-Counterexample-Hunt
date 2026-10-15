@@ -2665,6 +2665,33 @@
       "origin": "research/S071_QUOTIENT_SINGLETON_STRATA_AND_MIXED_TRIANGLES.md",
       "source_ids": [],
       "notes": "S071 genuine original-index XOR quotient dichotomy; no forced zero sum / G58 candidate; internal same-executor only."
+    },
+    {
+      "id": "CLM-0255",
+      "statement": "In genuine source-conditional S064 EXACT12 original G[2] danger cosets A,B,C=A△B, either one of the 16 zero-colour actual witness triangles has original singleton XOR signature111 (true proper Fano), or each of 12 supported colours has a unique actual singleton type and all three status functions are affine on common L with SAME linear part chi and constants beta_A+beta_B+beta_C=1. Any type ambiguity forces a proper Fano XOR. This does NOT force full zero, mod5 carry or canonical G59 existence.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S072_AFFINE_SINGLETON_TRIANGLE_RIGIDITY.md",
+      "source_ids": [],
+      "notes": "S072 internal original-index conditional proof, source-conditional canonical/exact12 scope; no forced zero or G58/D20 result. Same-executor review only."
+    },
+    {
+      "id": "CLM-0256",
+      "statement": "Under CLM-0255 all-grouped/no-Fano alternative, the common affine singleton-support character chi annihilates W_A+W_B+W_C of S066 genuine ORIGINAL split endpoint order-two differences and unsplit order-two complete pair toggles. If these original stabilisers span L, chi=0; constant odd-beta status remains possible. In m2 with two independent available endpoint directions, colour-zero-preserving endpoint-switch-only operations cannot alter majority pair split agreement.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S072_AFFINE_SINGLETON_TRIANGLE_RIGIDITY.md",
+      "source_ids": [],
+      "notes": "S072 internal original-index conditional proof, source-conditional canonical/exact12 scope; no forced zero or G58/D20 result. Same-executor review only."
+    },
+    {
+      "id": "CLM-0257",
+      "statement": "In m=2 genuine S064 exact12 three nonempty masks are {1},{2},{1,2}; every three-witness original majority non-q mask E is a subset {1,2}, hence empty or one of these 3. A genuinely new fourth non-q mask is impossible, so the torsion-majority fourth-mask strategy cannot resolve m2; for any proper colour-zero XOR, a torsion majority already directly contradicts q-only gate.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S072_AFFINE_SINGLETON_TRIANGLE_RIGIDITY.md",
+      "source_ids": [],
+      "notes": "S072 internal original-index conditional proof, source-conditional canonical/exact12 scope; no forced zero or G58/D20 result. Same-executor review only."
     }
   ]
 }

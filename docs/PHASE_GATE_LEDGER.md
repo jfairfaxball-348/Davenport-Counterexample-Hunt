@@ -247,3 +247,7 @@ S069 CLM-0247 additional verified symbolic condition: TRUE four Fano projections
 
 ## S071 Phase1 gate — 15 October 2026
 **HOLD IN_PROGRESS / NO PASS.** CLM-0252–0254 original parity signature establishes all true non-q-mask G[2] witnesses occupy two complementary singleton-split strata; all-Fano triple of A,B,A△B is IMPOSSIBLE for m≤2, but mixed one-/two-split witnesses are not eliminated. Every true cross-mask XOR becomes grouped000 or Fano111, yet exact12 colour-zero does not force a proper projected-zero/even-majority triangle. FULL8, exact12, enlarged13/14/≥15, all 26 hubs, three-hub and P26 alternatives OPEN. Claims254, source29/frontier30 unchanged, Phase2/3 NOT_STARTED, Phase4 OWNER_GATED, CAM-0001 BLOCKED, CI ABSENT_NOT_PASS, protection UNKNOWN403. No G58/D20 result.
+
+## S072 Phase1 gate — 15 October 2026
+
+**HOLD IN_PROGRESS / NO PASS.** CLM-0255–0257 prove conditional original exact12 sixteen-triangle affine-type rigidity, genuine-stabiliser annihilator and m2 impossibility of a new fourth majority non-q mask. They do NOT eliminate all-grouped constant-type original supports, enforce full-G weighted/projection carry, exclude FULL8/12/13+/26 hubs/P26, or build a full 59-label original hostile example. Claims257, 29 sources and original30 frontier immutable by writes, Phase2/3 NOT_STARTED, Phase4 OWNER_GATED, CAM-0001 blocked, CI ABSENT_NOT_PASS, protection UNKNOWN, INTERNAL same-executor review; no G58 zero-free candidate or D20 proof.

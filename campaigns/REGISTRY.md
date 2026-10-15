@@ -267,3 +267,6 @@ Only symbolic original-index C20³ group proofs CLM-0248–0251; no mathematical
 
 ## S071 campaign non-activation — 15 October 2026
 Only symbolic actual-original quotient and XOR proofs CLM-0252–0254; NO numerical mathematical search, CAS/SAT/ILP, generated candidate/orbit enumeration, historic author code, Lean/Palomar, formal certificate or outreach. CAM-0001 stays PROPOSED/NOT_RUNNING/BLOCKED. Phase1 IN_PROGRESS; Phases2/3 NOT_STARTED; Phase4 OWNER_GATED. S072 FUTURE/UNEXECUTED.
+
+## S072 campaign non-activation — 15 October 2026
+Only original-index symbolic exact12 affine-support and majority-mask proofs CLM-0255–0257. No numerical mathematical search, candidate/orbit generation, CAS/SAT/ILP, historical author code, Lean/Palomar, certificate, campaign/tooling/Phase2/3 launch, publication or contact. CAM-0001 PROPOSED / NOT_RUNNING / BLOCKED by source-stated n6=16. Phase1 IN_PROGRESS; S073 requires new owner instruction.

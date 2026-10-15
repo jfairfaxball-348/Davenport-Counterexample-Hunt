@@ -1,0 +1,8 @@
+# S072 analytic plan and entry reconciliation
+
+Owner "Run next session" authorises exactly S072, no S073. Live observed main `e12392ed55e00be4710315f9f781b695d9b215b7`, S071 authored `2ffdd605f369d57702097657727a27129c783d46`, merged PR#73 ordinary GitHub merge, S071 PR body reports authored root tree `6e39000c089144e7517708f2199e0c678ffa4ec0`; because prior branch was based on unchanged main, that head-tree is the expected merged tree, **not independently fetched via raw /git/commits** (connector does not expose raw git tree/parent). Do not conflate SHA of commit and SHA of tree. Main at branch start matched expected in recent-commit search; no open PR and no S072 branch found. Status contexts[] and PR-triggered Actions runs[] for S071 authored and merge commits, which means ABSENT_NOT_PASS; protection/rulesets not newly read, prior 403 UNKNOWN.
+
+1. Read authority and S060/S065/S066/S069/S070/S071 original-index proof chain, claim JSON count254, source JSON count29, existing source/frontier ledgers. Do not manufacture an original candidate.
+2. Exhaust *symbolically* the sixteen exact12 zero-colour triangles via actual singleton-status witness fibres, prove finite affine-rigidity dichotomy; challenge every type ambiguity and grouped-X branch.
+3. Apply only genuinely available original endpoint/full-pair stabilisers; separate m2 majority route; attack true mod5/even K forcing and record proof failure.
+4. Append new conditional proofs/claims and all ledgers, internal review and full future S073 prompt, one authored tree/commit on one isolated branch, PR ordinary merge only if main unchanged.

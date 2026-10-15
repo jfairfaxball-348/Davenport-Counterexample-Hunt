@@ -268,3 +268,7 @@ S069 CLM-0247 additional verified symbolic condition: TRUE four Fano projections
 | S071 | 2026-10-15 | Exact true original 3-coset split quotient, all-Fano mask kernel m2 no-go, mixed-original q-only XOR dichotomy | CLM-0252–0254 INTERNAL; m2 Fano triangle impossible as target, not exact12 eliminated; Phase1 IN_PROGRESS | session/S071-quotient-mixed-triangle |
 
 [S071 proof](../research/S071_QUOTIENT_SINGLETON_STRATA_AND_MIXED_TRIANGLES.md) · [PRECOMMIT closeout](../sessions/S071/CLOSEOUT.md) · [hostile review](../sessions/S071/REVIEW.md) · S072 FUTURE/UNEXECUTED. Claims254, sources29/original frontier30 unchanged. CI ABSENT_NOT_PASS.
+
+| S072 | 2026-10-15 | Sixteen REAL exact12 mixed-support zero-colour triangles; affine uniqueness/no-Fano rigidity, stabiliser annihilator and m2 majority fourth-mask dead end | CLM-0255–0257 INTERNAL; no true full-G zero/hostile 59 model/D20 theorem; Phase1 IN_PROGRESS | session/S072-mixed-affine-support-rigidity |
+
+[S072 proof](../research/S072_AFFINE_SINGLETON_TRIANGLE_RIGIDITY.md) · [PRECOMMIT closeout](../sessions/S072/CLOSEOUT.md) · [hostile review](../sessions/S072/REVIEW.md) · S073 FUTURE/UNEXECUTED. Claims257, sources29/frontier30 unchanged, CI ABSENT_NOT_PASS.
