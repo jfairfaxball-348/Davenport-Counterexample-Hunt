@@ -1,0 +1,3 @@
+# S074 invocation — 15 October 2026
+
+Owner's latest instruction in the Davenport project: **“run the next session”**. This explicitly authorises EXACTLY S074 by reference to the live authoritative/NEXT_SESSION_PROMPT.md on merged main 0fe98a25377e3319b0bcdebe35a174f7bf06f525. That archived live incoming S074 prompt had SHA blob b04d653367b37b92899573ea3fd00c48f5b0bf97. The owner's chat instruction is not claimed as a complete byte-for-byte dump or hashed chat transcript. Refer to [the immutable incoming prompt](https://github.com/jfairfaxball-348/Davenport-Counterexample-Hunt/blob/0fe98a25377e3319b0bcdebe35a174f7bf06f525/authoritative/NEXT_SESSION_PROMPT.md). S075 is future only.

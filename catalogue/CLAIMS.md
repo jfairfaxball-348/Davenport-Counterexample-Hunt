@@ -1449,3 +1449,12 @@ Claims254→257, sources29/original30 frontier unchanged, Phase1 IN_PROGRESS, FU
 - **CLM-0259 [PROGRAMME_PROVED; INTERNAL; CONDITIONAL NO-FANO EXACT12]** For a same-mask pair of genuine torsion witnesses of DIFFERENT colours z_P+u,z_P+u', their actual XOR is automatically proper q-only (empty/full impossible by distinct colours/complement-total0), with h_X=chi(u+u')111 and sum_G X=10(u+u')−2sum_G(original intersection). If chi nonzero, each of three masks mandates FOUR genuine original Fano *pair tests*, twelve in all (not necessarily distinct X), all passing S060 q-only no-zero gate. Chi0 leaves all same-mask pairs grouped. Neither case forces zero or kills exact12.
 
 Claims257→259, source29/original frontier30 records unmodified, Phase1 IN_PROGRESS, FULL8/exact12/13+/26 hubs/three-hub/P26 and original carry OPEN; no full-gated G59, G58 counterexample, D20 theorem, external review or hosted CI PASS. S074 FUTURE/UNEXECUTED.
+
+
+## S074 — 15 October 2026: SAME original Fano switch 5Q fibres
+
+- **CLM-0260 [PROGRAMME_PROVED; INTERNAL; CONDITIONAL EXACT12 NO-FANO]** Original T_eps plus actual full-pair toggles provide exact signed 22-term H status-switch increments; K_eps(Z)∩5Q lies in {5e:e∈L,chi(e)=1}: EMPTY for chi0, at most TWO distinct points if chi!=0. Full original 59-label/genuine witness and complement used; no forced collision.
+- **CLM-0261 [PROGRAMME_PROVED; INTERNAL]** Full mod5 indexed subset-sum coverage from unsplit actual U outside one supported mask P eliminates the constant chi0 branch. Explicit H-zero-free U8/7/7 has that *conditional* property after ≤2 deletions; no all-S060 label survivor. Zero-free H length≥20 has projected span≥2 by elementary four-block argument; mere rank does not force saturation.
+- **CLM-0262 [PROGRAMME_PROVED; INTERNAL]** Four signed original Fano switch bases necessarily obey SAME-six-singleton signed C/Delta; not four free projected values, no guarantee of any mod5 cancellation.
+
+Claims259→262, source29/frontier original30 untouched; Phase1 IN_PROGRESS, all FULL8/12/13+/hubs/P26 open; no G58 or D20 theorem; CI ABSENT_NOT_PASS. [S074 proof](../research/S074_SIGNED_ORIGINAL_FANO_SWITCH_FIBRES.md). S075 FUTURE.

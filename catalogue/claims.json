@@ -2710,6 +2710,33 @@
       "origin": "research/S073_MIXED_ORIGINAL_EXTENSION_AND_PAIR_FANO.md",
       "source_ids": [],
       "notes": "S073 INTERNAL conditional exact12 + no-Fano-three-mask alternative; new same-mask Fano consequence, inherits S064 overlap and S072 affine facts without priority claims; no D20/G58 proof."
+    },
+    {
+      "id": "CLM-0260",
+      "statement": "For each ACTUAL mixed-mask G[2] witness Z in source-conditional original C20^3 T59 and any of FOUR even original Fano singleton triples T_eps, toggling T_eps plus any subset of the 22 ORIGINAL full pairs gives exact sum 10v+2(tau_eps(Z)+sum_B w_i(Z)), where all w_i use the true original +/- pair endpoints (split differences need NOT have order two). In S064 exact12 S072 NO-FANO unique affine status branch, the genuine signed 5Q slice K_eps(Z) is contained in {5e:e in L,chi(e)=1}; empty if chi=0, at most 2 distinct torsion points if chi!=0. It is a necessary conditional same-original-data exclusion, not a universal collision.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S074_SIGNED_ORIGINAL_FANO_SWITCH_FIBRES.md",
+      "source_ids": [],
+      "notes": "S074 INTERNAL exact original-label signed XOR calculation; source-conditional canonical and exact12/no-Fano assumptions; no global existence or Davenport result."
+    },
+    {
+      "id": "CLM-0261",
+      "statement": "If for any supported nonempty exact12 mask P the indexed unsplit actual pair-sum sequence U outside P has FULL C5^3 modulo5 subset-sum coverage, then its original Fano status-switch slice is nonempty and S072 no-Fano chi=0 is impossible. The H-zero-free U=e1^8 e2^7 e3^7 satisfies this sufficient cover after deleting any <=2 terms, but is NOT a full 59-original-label S060 passing model. A self-contained four-block packing proof also gives projected mod5 rank at least2 for any >=20-term H=C10^3 zero-free U; span>=2 does NOT imply full coverage.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S074_SIGNED_ORIGINAL_FANO_SWITCH_FIBRES.md",
+      "source_ids": [],
+      "notes": "S074 INTERNAL conditional saturation theorem plus explicit H-only sequence and independent 20-term rank argument; no universal U22 saturation."
+    },
+    {
+      "id": "CLM-0262",
+      "statement": "For each actual original mixed-mask witness Z, the four signed even-Fano switch bases tau_eps(Z) come from the SAME signed six original singleton values (+/- X_i,+/- Y_i), whose pair sums tilde V_i have parity q. They necessarily satisfy sum of four tau=coordinatewise mod10 reduction of sum tilde V_i and rho(tau_ij-tau_000)=rho(iota^-1(tilde V_i+tilde V_j))+r_i+r_j. Thus four 5Q switch tests are C/Delta-coupled and not independent; equations alone do not force any slice nonempty.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S074_SIGNED_ORIGINAL_FANO_SWITCH_FIBRES.md",
+      "source_ids": [],
+      "notes": "S074 INTERNAL reuse of S060 four-transversal algebra with actual original signed endpoint intersections; NOT a new existence of a four-Fano data set."
     }
   ]
 }

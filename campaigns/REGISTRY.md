@@ -274,3 +274,8 @@ Only original-index symbolic exact12 affine-support and majority-mask proofs CLM
 
 ## S073 campaign non-activation — 15 October 2026
 Only symbolic actual-original G/H extension-gate and within-mask Fano XOR proofs CLM-0258–0259. No mathematical numerical search, CAS/SAT/ILP, candidate or orbit enumeration, historical author code, Lean/Palomar, verification campaign/certificate, publication or contact. CAM-0001 remains PROPOSED / NOT RUNNING / BLOCKED by source-stated n6=16; Phase1 IN_PROGRESS, Phase2/3 NOT_STARTED, Phase4 OWNER_GATED. S074 FUTURE/UNEXECUTED.
+
+
+## S074 campaign non-activation — 15 October 2026
+
+Only symbolic original C20^3 signed Fano switch/indexed mod5 fibre and same-original C/Delta proofs CLM-0260–0262. NO mathematical numerical search, CAS/SAT/ILP, generated orbit/candidate, historic author code, Lean/Palomar, verification certificate, campaign/tooling, publication or contact. CAM-0001 remains PROPOSED/NOT_RUNNING/BLOCKED by source-stated historical n6=16; Phase1 IN_PROGRESS, Phase2/3 NOT_STARTED, Phase4 OWNER_GATED. S075 FUTURE/UNEXECUTED.
