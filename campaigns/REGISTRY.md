@@ -307,3 +307,7 @@ Only INTERNAL symbolic five-colour group-projection proofs and an explicit param
 
 ## S081 no campaign activation — 15 October 2026
 INTERNAL symbolic original-index modular and torsion-fibre proof, plus a deliberately FAILED exact labelled 59-index total-zero model. This is NOT numerical candidate generation or a certified survivor. No mathematical numerical search, orbit computation, CAS/SAT/ILP, historical code, Lean/Palomar, source upgrade or publication. CAM-0001 remains PROPOSED NOT_RUNNING BLOCKED (n6 published value), 29 source/30 original frontier unchanged, Phase1 IN_PROGRESS. S082 FUTURE.
+
+
+## S082 no campaign activation — 15 October 2026
+Exact symbolic finite-field original-index q-supervertex proofs CLM-0286–0289, with a stated algebraic 30-index ZERO in the previously FAILED S081 model. No mathematical numerical search, generated candidate/orbits, CAS/SAT/ILP, source promotion, historical author code, Lean/Palomar, independent certification or publication. CAM-0001 PROPOSED/NOT_RUNNING/BLOCKED, 29 original source records/30 frontier rows unchanged, Phase1 IN_PROGRESS, hosted CI ABSENT_NOT_PASS. S083 FUTURE.

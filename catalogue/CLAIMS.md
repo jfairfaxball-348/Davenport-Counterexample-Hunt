@@ -1525,3 +1525,13 @@ Claims277→281; original source29/frontier30 objects untouched. Phase1 IN_PROGR
 - **CLM-0285 [PROGRAMME_PROVED; INTERNAL; CANONICAL AXIAL]** 2h and4h cannot both belong to E(U*), so any six-edge true q-supervertex matching cannot have four identical H completion block values; literal proper original zero otherwise.
 
 281→285 claims; 29 original sources/30 frontier objects unchanged, Phase1 IN_PROGRESS, no G58 or D(C20³)=58, full Fano/2048/splits/non-q/exact12/hubs/P26 OPEN; CI ABSENT_NOT_PASS, review SAME_EXECUTOR, S082 FUTURE.
+
+
+## S082 — 15 October 2026: genuine axial q nine-fibre exclusion
+
+- **CLM-0286 [PROGRAMME_PROVED; INTERNAL; CANONICAL AXIAL]** Exact pure repeated projected 2k q-sum E5 slab necessary test gives uniform first-failure multiplicity cap m<=2k-1; y3=0 implies m<=5, a=(1,3,1) cap3, b=(1,0,0) cap1. [Full proof](../research/S082_AXIAL_THREE_VECTOR_CROSS_AND_NINE_FIBRE_EXCLUSION.md).
+- **CLM-0287 [PROGRAMME_PROVED; INTERNAL]** Three indexed vectors in F5² necessarily have a nonempty subset sum OUTSIDE the two affine coordinate lines x1=1 or x2=1, by an elementary case split.
+- **CLM-0288 [PROGRAMME_PROVED; INTERNAL; ORIGINAL q]** In actual axial total-zero T59, every half-projected fibre of the 12 disjoint original q-supervertex groups has multiplicity <=8. Nine repeated y plus ANY three outsiders force a REAL proper ORIGINAL G20 zero via exact mod5 slab, cross lemma, parity-matched subsets and complete U pair cancellation; no rank/torsion restriction.
+- **CLM-0289 [PROGRAMME_PROVED; INTERNAL; EXPLICIT FAILED MODEL]** S081's partial actual G59 model has a smaller **30-original-index** proper zero: V1+V2+8 full e1 pairs+5 full e3 pairs, where V1,V2 are four ACTUAL singleton originals. No globally minimality claim.
+
+Claims285→289, source29/frontier30 untouched. Not complete m0 q impossibility, S060 outsider/split/mixed gates OPEN, rank-three Davenport D20 UNPROVED, Phase1 IN_PROGRESS, CI ABSENT_NOT_PASS, SAME_EXECUTOR. S083 FUTURE only.
