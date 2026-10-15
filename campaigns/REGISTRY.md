@@ -270,3 +270,7 @@ Only symbolic actual-original quotient and XOR proofs CLM-0252–0254; NO numeri
 
 ## S072 campaign non-activation — 15 October 2026
 Only original-index symbolic exact12 affine-support and majority-mask proofs CLM-0255–0257. No numerical mathematical search, candidate/orbit generation, CAS/SAT/ILP, historical author code, Lean/Palomar, certificate, campaign/tooling/Phase2/3 launch, publication or contact. CAM-0001 PROPOSED / NOT_RUNNING / BLOCKED by source-stated n6=16. Phase1 IN_PROGRESS; S073 requires new owner instruction.
+
+
+## S073 campaign non-activation — 15 October 2026
+Only symbolic actual-original G/H extension-gate and within-mask Fano XOR proofs CLM-0258–0259. No mathematical numerical search, CAS/SAT/ILP, candidate or orbit enumeration, historical author code, Lean/Palomar, verification campaign/certificate, publication or contact. CAM-0001 remains PROPOSED / NOT RUNNING / BLOCKED by source-stated n6=16; Phase1 IN_PROGRESS, Phase2/3 NOT_STARTED, Phase4 OWNER_GATED. S074 FUTURE/UNEXECUTED.
