@@ -1,0 +1,40 @@
+{
+  "session": "S080",
+  "date": "2026-10-15",
+  "entry_main": "a24b40bf03910ca80dc783238414a3dc9793bd38",
+  "entry_true_git_root_tree": "c9bbca5b436f82ad2c2feab2ea6a7a116cec7c9c",
+  "previous_s079_authored_head": "362272e59c955bce5acff9ce93f7627d6cf9bbc0",
+  "previous_s079_authored_parents": [
+    "a57fe97fd7a79cefc1275c70b87ac7e39618b8b2"
+  ],
+  "previous_s079_ordinary_merge_parents": [
+    "a57fe97fd7a79cefc1275c70b87ac7e39618b8b2",
+    "362272e59c955bce5acff9ce93f7627d6cf9bbc0"
+  ],
+  "entry_open_PRs": 0,
+  "actions_runs": 0,
+  "combined_status_contexts": 0,
+  "hosted_CI": "ABSENT_NOT_PASS",
+  "rulesets": 0,
+  "protection": "UNKNOWN_403",
+  "claims_before": 277,
+  "claims_after": 281,
+  "source_objects_before_after": [
+    29,
+    29
+  ],
+  "frontier_rows_before_after": [
+    30,
+    30
+  ],
+  "exact_original_five_colour_exclusion": "INTERNAL_PROOF",
+  "axial_H_broad_spectrum_no_global_sieve": "INTERNAL_PROOF",
+  "full_q_gated_T59": false,
+  "mixed_signed_carry_forced": false,
+  "G58": false,
+  "D20_eq58": false,
+  "mathematical_numerical_search": false,
+  "independent_certification": false,
+  "phase1": "IN_PROGRESS",
+  "S081": "FUTURE_UNEXECUTED"
+}

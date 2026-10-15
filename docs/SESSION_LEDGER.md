@@ -305,3 +305,7 @@ CLM-0272–0275 genuine original Fano quartet parity iff, E atom converse, P11 f
 
 ## S079 — 15 October 2026
 CLM-0276–0277 [proof](../research/S079_Q_SLAB_RIGIDITY_AND_FANO_NO_GO.md), [closeout](../sessions/S079/CLOSEOUT.md), [review](../sessions/S079/REVIEW.md): six real q-supervertex matching scalar rigidity, exact genuine four-Fano/even-g sum contradiction, all original lifts of S059/S078 slab H cores excluded. No unrestricted original T59/G58/D20; 277 claims, source29/frontier30 unchanged; Phase1 IN_PROGRESS, CI ABSENT_NOT_PASS, S080 FUTURE. Branch session/S079-six-block-slab-fano-rigidity.
+
+
+## S080 — 15 October 2026
+CLM-0278–0281 [S080 proof](../research/S080_FIVE_COLOUR_QUOTIENT_RIGIDITY_AND_AXIAL_ESCAPE.md): sharp five-scalar growth and all-original six-block rigidity with 0∉φ(E), |φ(E)|≤5; actual four original Fano triples force 4b=3b, excluding ALL original canonical lifts of diagonal t1..6 αβ cores. New axial U*=e1^8e2^8e3^6 has φ(E)=φ(H) for every φ and is the honest first spectral escape, NOT an original full-gated T59. [Review](../sessions/S080/REVIEW.md), [closeout](../sessions/S080/CLOSEOUT.md). Claims281/source29/frontier30 unchanged, G58 and D20 OPEN, Phase1 IN_PROGRESS, CI ABSENT_NOT_PASS; S081 FUTURE only. Branch `session/S080-five-colour-spectrum-axial-escape`.

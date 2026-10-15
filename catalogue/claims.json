@@ -2876,6 +2876,42 @@
       "origin": "research/S079_Q_SLAB_RIGIDITY_AND_FANO_NO_GO.md",
       "source_ids": [],
       "notes": "INTERNAL S079; exact original index support and coupled Fano, source-independent within stated original profile; no independent certification."
+    },
+    {
+      "id": "CLM-0278",
+      "statement": "Zero-sumfree indexed five-term sequence in any finite abelian group has at least six subset sums; if two terms are unequal at least seven. Thus six C10 scalars with ALL nonempty proper subsums in a zero-avoiding A of size≤5 necessarily have |A|=5, ALL six scalars equal the SAME C10 unit b, A={b,2b,3b,4b,5b}, and full scalar total6b automatically. No preset scalar total.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S080_FIVE_COLOUR_QUOTIENT_RIGIDITY_AND_AXIAL_ESCAPE.md",
+      "source_ids": [],
+      "notes": "S080 INTERNAL SAME_EXECUTOR, symbolic exact original indices where relevant, source-conditional canonical profile; NOT global G58 or D(C20³)=58, not independently certified."
+    },
+    {
+      "id": "CLM-0279",
+      "statement": "Original 22+8+7 total-zero C20³ canonical T59 with H-zero-free U22 and any φ:H→C10 such that 0∉φ(E(U)), |φ(E(U))|≤5 must have a LITERAL nonempty proper original q-only G zero: arbitrary genuine q-supervertex matchings force common unit b, 12 true F values a=b or b+10, and 4 coupled original Fano triples plus 0,2,4,6,8 genuine g shifts force 4b=3b contradiction. Neither total φ(-sum U)=6 nor a fixed five-residue interval is assumed.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S080_FIVE_COLOUR_QUOTIENT_RIGIDITY_AND_AXIAL_ESCAPE.md",
+      "source_ids": [],
+      "notes": "S080 INTERNAL SAME_EXECUTOR, symbolic exact original indices where relevant, source-conditional canonical profile; NOT global G58 or D(C20³)=58, not independently certified."
+    },
+    {
+      "id": "CLM-0280",
+      "statement": "For ALL α,β∈C10 and t=1,...,6, the genuine indexed length22 H-zero-free U=e1^9e2^9e3^3(αe1+βe2+t e3) has φ3(E(U)) respectively {1,2,3,4,5},{1,2,3,4},{1,2,3},{1,2},{1,6},{5,6}, each ≤5 excluding0. Therefore NO canonical fully q-gated original G59 total-zero lift for any such U, including t2/3/4 outside S079 total6 hypothesis; invertible H changes covered.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S080_FIVE_COLOUR_QUOTIENT_RIGIDITY_AND_AXIAL_ESCAPE.md",
+      "source_ids": [],
+      "notes": "S080 INTERNAL SAME_EXECUTOR, symbolic exact original indices where relevant, source-conditional canonical profile; NOT global G58 or D(C20³)=58, not independently certified."
+    },
+    {
+      "id": "CLM-0281",
+      "statement": "Axial H-zero-free length22 U=e1^8e2^8e3^6 has E(U)={h:h1=1 or h2=1 or h3∈{1,2,3}}, and for EVERY φ:H→C10, φ(E(U))=φ(H) containing0: any two coefficients attaining the min 2- and 5-adic valuations generate image, use remaining fixed-coordinate hyperplane. Thus no universal thin-character argument can handle arbitrary U22; NOT a full S060 original survivor.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S080_FIVE_COLOUR_QUOTIENT_RIGIDITY_AND_AXIAL_ESCAPE.md",
+      "source_ids": [],
+      "notes": "S080 INTERNAL SAME_EXECUTOR, symbolic exact original indices where relevant, source-conditional canonical profile; NOT global G58 or D(C20³)=58, not independently certified."
     }
   ]
 }

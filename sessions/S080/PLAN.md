@@ -1,0 +1,3 @@
+# S080 registered plan and execution
+
+Read pinned main/tree, S079 authored and two-parent merge, open PR/CI/rules/protection, protocol/authority/277 claims/29 sources/30 frontier, S060 and S063–S079 exact original-index proofs. Attack unrestricted canonical U22 by dropping arbitrary S079 φ(c)=6 and fixed half-slab assumptions; prove exact character criterion with full original q-supervertex and same-six Fano support; extend to entire diagonal core family; seek an honest hostile zero-free U22 outside character sieve and audit exact remaining S060 q and signed non-q obstacles. Stop without claiming original survivor if no full one. Document review/ledgers/validation, one atomic authored Git tree PR ordinary merge, queue full S081 future.

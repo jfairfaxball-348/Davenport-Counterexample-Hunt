@@ -406,3 +406,7 @@ Actual full-mod20 Fano quartet values are realisable iff rho(sum x)=q and any ev
 
 ## S079 — valid special core elimination, unrestricted failure
 Positive: every original q matching, proper group subsum, genuine even Fano/even-g original shift produces a nonempty proper original zero for any five-slab E(U) and required full total6; both S059/S078 U core families excluded irrespective actual outsiders. Missing: proof arbitrary U22 admits the slab, or an unrestricted q-only impossibility or occupied SAME-Z signed non-q fibre. No illegal full-six-block E requirement, no fictitious G=Q⊕H, no fake 28 independent P11 formal cross-pairs. No global G58/D20, Phase1 IN_PROGRESS, CI ABSENT_NOT_PASS.
+
+
+## S080 — zero-free E in H does NOT imply zero-avoiding cyclic character image
+Strong positive: proper scalar subsums in a five-colour zero-avoiding φ(E) force ALL six genuine H matching blocks to share one C10 unit b, without fixing φ(-sumU); original true Fano quadruple then contradicts 4b=3b. But H extension set E(U) excluding H-zero does NOT imply any scalar φ(E(U)) excludes0. The exact zero-free axial U*=e1^8e2^8e3^6 has full image φ(E)=φ(H) for EVERY character by its three full H-coordinate hyperplanes. Do not infer global arbitrary-U22 no-go or full S060 gate survivor from either side. Proper full T exclusion, true original singleton quartet and literal indexed cancellation were audited. Mixed signed K, q E(U\\I), FULL8/exact12/13+/all26 hubs/P26 and D20 remain OPEN. Internal review, no mathematical search or CI PASS.
