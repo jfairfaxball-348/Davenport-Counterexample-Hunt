@@ -1,0 +1,3 @@
+# S086 INPUT — 15 October 2026
+
+Direct owner "Run next session" authorises exactly S086; follow-up "Continue" directs completion of S086, NOT S087. Entry real main `257e2bc0eb2e996925ed8a47441734d28f1a8489`, true root tree `88c84e07a936b7b0ce7fcfb2949fa466db6317ba`, S085 authored 203edfe2e38e2bd4c71de7383c97ea634e5f59f1; ordinary S085 merge parents ea404fd2971a213ffb6398eb5fa8ad68abfaafce + authored. No entry open PR; Actions0/status0 ABSENT_NOT_PASS, rulesets0, protection403 UNKNOWN. Original 29 source records and 30 frontier rows checked, unchanged. S060 original-gate and S081–S085 research read. No mathematical computation, external certification, source promotions, new campaign or author code.

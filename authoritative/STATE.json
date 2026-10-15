@@ -24,13 +24,14 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S085",
-  "recommended_next_session": "S086",
+  "last_completed_session": "S086",
+  "recommended_next_session": "S087",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": null,
   "phase1_target_status": "WITHHELD_NO_REPLACEMENT_CAMPAIGN",
   "open_blockers": [
+    "S086 two-layer sevenfold canonical axial original q gate excludes ONLY horizontal v=(0,0) at t3; v!=(0,0) (24 projected values), all <=6 general fibre spectra, full genuine H/Fano/q-split/non-q signed original gates, arbitrary U22/P26, G58/D20 remain OPEN. Sixfold horizontal v=0 rules out t1/4, not t2/3.",
     "S085 sevenfold axial U* q projection: only t=3 with seven identical REAL group third coordinates1 or11 mod20 and five outsider residual horizontal multiplicity<=3 remains; no universal sevenfold nor six-or-fewer no-go; all actual S060 Fano/q-split/non-q gates remain OPEN.",
     "S084 CLM-0293–0295: source-conditional canonical axial U*=e1^8e2^8e3^6 ORIGINAL total-zero T59 cannot avoid proper q-only original zero if any half-projected q-group value repeats EIGHT times; S082/S083/S084 entirely eliminate eightfold outsider residuals, giving max fibre<=7. ALL twelve-label spectra with max fibre<=7 remain UNCLASSIFIED, plus true H E/Fano/2048/q splits/non-q signed/full masks/26 hubs/other U22 and D(C20^3)=58. Phase1 IN_PROGRESS CAM-0001 BLOCKED, claims295/source29/frontier30, SAME_EXECUTOR, hosted CI ABSENT_NOT_PASS.",
     "S082 CLM-0286–0289: stronger exact axial U*=8/8/6 E5 2k slab capacity; self-contained C5² three-vector affine cross lemma implies NO nine of twelve true original q groups share ANY half-projected mod5 value, regardless of other three original q groups/rank/torsion, with literal proper original indexed cancellation and full-set exception. S081 9a/3b projected zero-free partial G59 has already a 30-index literal q-only zero V1+V2+8e1+5e3 full pairs, correcting the older 32 as the first reported explicit witness. Max-fibre<=8 distributions, all proper E5 subsets, actual H E, genuine coupled Fano 2048 outsiders, q split E(U\\I), signed non-q K, FULL8/exact12/13+/26 hubs/P26, arbitrary U22 and D20 remain OPEN; Phase1 IN_PROGRESS CAM-0001 BLOCKED CI ABSENT_NOT_PASS.",
@@ -357,7 +358,7 @@
     "owner_blocker": false,
     "historical_dependency_reconciled": "S004 CLM-0068 / S005 sufficient conditional base5p-2 bypass restored and strengthened one position"
   },
-  "current_research_priority": "S086: analytically kill the exact sevenfold t=3 same-actual-third (1 or 11 mod20) canonical axial original q case with five outsider residual multiplicity<=3 using full H E and actual original indexed supports; then sixfold two-missing-odd-residue outsider spectra, without numerical search or false Fano/split promotion.",
+  "current_research_priority": "S087: analytically eliminate all sevenfold t3 nonzero horizontal fibre v via exact both-layer sizes1..4 five-outsider cross hypergraph (e-total1,W=(2,2)-3v), true torsion and original endpoints, then sixfold zero-horizontal t2/3 exceptional odd supports; preserve full12 exemption.",
   "s040_result": {
     "claims": [
       "CLM-0148",
@@ -1334,5 +1335,32 @@
     "CI": "ABSENT_NOT_PASS",
     "review": "INTERNAL_SAME_EXECUTOR",
     "next": "S086_FUTURE_UNEXECUTED"
+  },
+  "s086_result": {
+    "date": "2026-10-15",
+    "entry_main": "257e2bc0eb2e996925ed8a47441734d28f1a8489",
+    "entry_true_git_root_tree": "88c84e07a936b7b0ce7fcfb2949fa466db6317ba",
+    "claims": [
+      "CLM-0300",
+      "CLM-0301",
+      "CLM-0302",
+      "CLM-0303"
+    ],
+    "sevenfold_t_only": 3,
+    "sevenfold_horiz_origin_excluded": true,
+    "sevenfold_nonzero_horiz_open": true,
+    "sixfold_horiz_origin_t1_t4_excluded": true,
+    "sixfold_horiz_origin_t2_t3_open": true,
+    "full_s060_gate": false,
+    "G58_zero_sumfree": false,
+    "D_C20_3_eq58": false,
+    "claims_total": 303,
+    "original_sources29_untouched": true,
+    "frontier_original30_untouched": true,
+    "phase1": "IN_PROGRESS",
+    "campaign": "CAM-0001_BLOCKED",
+    "CI": "ABSENT_NOT_PASS",
+    "review": "INTERNAL_SAME_EXECUTOR",
+    "next": "S087_FUTURE_UNEXECUTED"
   }
 }

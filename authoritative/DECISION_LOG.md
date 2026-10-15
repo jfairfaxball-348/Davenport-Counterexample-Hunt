@@ -336,3 +336,8 @@ Owner direct invocation exactly S079 on prior merged a57fe97fd7a79cefc1275c70b87
 ## S085 / 2026-10-15 — accept four narrow analytic necessary claims; no phase promotion
 
 Decision: accept CLM-0296–0299 `PROGRAMME_PROVED` only within source-conditional canonical actual 59-index axial q-only zero-avoidance. New genuine mod20 sevenfold restriction: t=3 and common original third 1/11; five outsiders residual max multiplicity3; sixfold escape formula only. Explicit selected original q group labels and full U*-pair endpoints complete every forced zero. REJECT promotion to sevenfold no-go, universal 12-q impossibility, full S060, G58 or D(C20³)=58. Freeze 29 sources and 30 original frontier rows. Phase1 stays IN_PROGRESS, CAM-0001 BLOCKED, no new campaign. Entry `ea404fd2971a213ffb6398eb5fa8ad68abfaafce`; S086 is future, unexecuted.
+
+
+## S086 / 2026-10-15 — accept four narrow two-layer original-q necessary claims, HOLD phase
+
+Accept CLM-0300–0303 PROGRAMME_PROVED only for the source-conditional canonical axial actual-original indexed q-only avoidance: full proper third0 AND fourth4 projections; v=0 sevenfold excluded; v=0 sixfold t1/4 excluded; remaining cross intersection geometry explicit. Refuse promotion to all sevenfold/no12-q, actual H/Fano/2048/q splits/non-q mixed, G58/D(C20³)=58. Original source29/frontier30 unchanged, Phase1 IN_PROGRESS, CAM-0001 BLOCKED, hosted CI ABSENT_NOT_PASS, review INTERNAL SAME_EXECUTOR. S087 FUTURE only.
