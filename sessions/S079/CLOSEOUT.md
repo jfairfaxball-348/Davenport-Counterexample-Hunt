@@ -1,0 +1,9 @@
+# S079 PRECOMMIT closeout — 15 October 2026
+
+Owner literal "run the next session" authorised ONLY S079 on S078 merged main `a57fe97fd7a79cefc1275c70b87ac7e39618b8b2` and TRUE root tree `3a487b18a89a97e4a1d6b2f757cddfa4017d5ca1`. S078 authored head `e9fe97f5a951e0a6860b9756e8d567814208bcef` has ONE parent; ordinary prior S078 merge has parents `3ae9cf4fb8e8af35229259e2cfb89973e56ed900` and `e9fe97f5a951e0a6860b9756e8d567814208bcef`. Entry open PR0, Actions runs0, combined status contexts0 **ABSENT_NOT_PASS**, rulesets0, branch protection403 **UNKNOWN**.
+
+[Proof](../../research/S079_Q_SLAB_RIGIDITY_AND_FANO_NO_GO.md) and [hostile review](REVIEW.md): **CLM-0276–0277** internally prove six-block q-supervertex rigidity and a genuine same-original four-Fano obstruction for every H-zero-free U22 with φ(E(U)) in {1,..,5} and φ(−sum U)=6. This eliminates **ALL original assignments** for S059 and S078 fixed U22 core classes (unlike prior fixed partial models). Exact indexed original forbidden zero forms are given; no mathematical numerical search performed.
+
+No elimination of arbitrary U22, no universally signed non-q K occupation, no full S060-compatible original T59, G58 or D(C20³)=58. FULL8/exact12/13/14/≥15, q m1/m2/m≥3, all26 hubs/three-hub/P26, original non-q overlap/carry remain OPEN. Historical SRC-0015 D3 unauthenticated SOURCE_STATED; source29/frontier original30 unchanged, claims275→277. Phase1 IN_PROGRESS, CAM-0001 PROPOSED/NOT_RUNNING/BLOCKED, CI ABSENT_NOT_PASS; no CAS/SAT/ILP/orbits/candidates, Lean/Palomar, external correspondence/publication, certification. INTERNAL SAME_EXECUTOR only.
+
+This is a PRECOMMIT file and cannot assert its own unknown authored/PR/merge SHA. Independently verify GitHub commit/tree/parents/status after ordinary merge. [S080 FUTURE ONLY](../../authoritative/NEXT_SESSION_PROMPT.md).

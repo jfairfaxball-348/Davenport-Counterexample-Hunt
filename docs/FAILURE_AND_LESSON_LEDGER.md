@@ -402,3 +402,7 @@ The COMMON W26 U-pair/four-real-g-pair indexed H sequence is zero-free. SOURCE_S
 
 ## S078 — projected formal constraints are NOT substitutes for original labelled outsider constraints
 Actual full-mod20 Fano quartet values are realisable iff rho(sum x)=q and any even singleton total can be prescribed, but F_* still depends on the SAME original individual labels and all q subset shifts. Projected R+v+(c−v) atom iff v∈E(R); ALL S077 28 formal R11 cross-pair tests are AUTOMATIC under D(C5³)=13, not independent mathematical barriers or true disjoint original sums. Explicit total-zero fully 59-original-index partial model has U22/W26 H-zero-free and four actual H28 atoms, yet two true g plus nine COMPLETE original U e1-pairs sum0 in G. It fails S060 m0; never claim it passes the 2048 outsider gates. Signed original K remains unknown, FULL8/12+/26 hubs/P26 open, no G58/D20 and no CI PASS.
+
+
+## S079 — valid special core elimination, unrestricted failure
+Positive: every original q matching, proper group subsum, genuine even Fano/even-g original shift produces a nonempty proper original zero for any five-slab E(U) and required full total6; both S059/S078 U core families excluded irrespective actual outsiders. Missing: proof arbitrary U22 admits the slab, or an unrestricted q-only impossibility or occupied SAME-Z signed non-q fibre. No illegal full-six-block E requirement, no fictitious G=Q⊕H, no fake 28 independent P11 formal cross-pairs. No global G58/D20, Phase1 IN_PROGRESS, CI ABSENT_NOT_PASS.

@@ -1498,3 +1498,10 @@ Proof [S078](../research/S078_EXACT_FANO_PARITY_AND_PARTIAL_ORIGINAL_MODEL.md). 
 ### CLM-0275 — PROGRAMME_PROVED (INTERNAL)
 Fully original-labelled total-zero 59-position C20³ PARTIAL model: 22 pairs with H sums e1^9e2^9e3^4, eight q=e1 outsiders 4e1+4(2e3-e1), seven original singletons Xi=(e2,e3,-e2+e3),Yi=Xi+5e1,s_q=7e1+2e2. Genuine W26=e1^9e2^9e3^8 H-zero-free, three original disjoint 5e_i kernel basis blocks, R11=e1^4e2^4e3^3 and all four genuine 28-term H Fano completion atoms; BUT actual original g1+g3+nine full e1 pairs sum20e1=0, violating S060 m0 outsider gate. NOT full S060-gated T59, G58 or D(C20³)=58.
 Proof [S078](../research/S078_EXACT_FANO_PARITY_AND_PARTIAL_ORIGINAL_MODEL.md). NOT global rank-three resolution.
+
+
+### CLM-0276 — PROGRAMME_PROVED (INTERNAL)
+Six C10 scalars sum6 with every proper nonempty indexed subsum in {1,..,5} must all equal1. Original all-q-perfect-matching consequence: 12 original q-supervertex F values all equal1 or11 mod20. [Proof S079](../research/S079_Q_SLAB_RIGIDITY_AND_FANO_NO_GO.md). No universal D(C20³) result.
+
+### CLM-0277 — PROGRAMME_PROVED (INTERNAL)
+Five-slab E(U) condition φ(E(U))⊆{1,..,5},φ(−sumU)=6 is incompatible with ANY total-zero canonical original 59-position S060 q-only survivor; genuine original four Fano triples force total4 vs3. An indexed proper original zero is extracted. Entire S059/S078 fixed U cores eliminated for all lifts; unrestricted U remains OPEN. [Proof S079](../research/S079_Q_SLAB_RIGIDITY_AND_FANO_NO_GO.md).
