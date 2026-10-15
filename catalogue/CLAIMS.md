@@ -1505,3 +1505,13 @@ Six C10 scalars sum6 with every proper nonempty indexed subsum in {1,..,5} must 
 
 ### CLM-0277 — PROGRAMME_PROVED (INTERNAL)
 Five-slab E(U) condition φ(E(U))⊆{1,..,5},φ(−sumU)=6 is incompatible with ANY total-zero canonical original 59-position S060 q-only survivor; genuine original four Fano triples force total4 vs3. An indexed proper original zero is extracted. Entire S059/S078 fixed U cores eliminated for all lifts; unrestricted U remains OPEN. [Proof S079](../research/S079_Q_SLAB_RIGIDITY_AND_FANO_NO_GO.md).
+
+
+## S080 — 15 October 2026: five-colour no-total constraint and actual original Fano contradiction
+
+- **CLM-0278 [PROGRAMME_PROVED; INTERNAL]** Finite-group subset-sum growth: five zero-sumfree scalars with at most six indexed sums must be equal. Six C10 blocks whose every nonempty proper subsum lies in a zero-avoiding A with |A|≤5 must ALL equal one unit b, A={b,2b,3b,4b,5b}, with full total6b automatically; no S079 full-total assumption. [Complete proof](../research/S080_FIVE_COLOUR_QUOTIENT_RIGIDITY_AND_AXIAL_ESCAPE.md).
+- **CLM-0279 [PROGRAMME_PROVED; INTERNAL; CANONICAL ORIGINAL CONDITION]** Any character φ:H→C10 with 0∉φ(E(U22)), |φ(E)|≤5 forces a literal proper ORIGINAL q-only G20 zero in hypothetical canonical total-zero G59 via ALL original q matchings and genuine four Fano/even-g coupling; no fixed interval, no φ(−sumU)=6 hypothesis.
+- **CLM-0280 [PROGRAMME_PROVED; INTERNAL]** Every α,β∈C10 and t=1,..,6 diagonal U22=e1^9e2^9e3^3(αe1+βe2+t e3) is H-zero-free but has an at-most-five zero-avoiding cyclic character image E, ruling out ALL original canonical lifts for these cores (not all U22).
+- **CLM-0281 [PROGRAMME_PROVED; INTERNAL; H-ONLY LIMIT]** U*=e1^8e2^8e3^6 is H-zero-free and E={h1=1 or h2=1 or h3∈{1,2,3}}; EVERY C10 character φ has φ(E)=φ(H), including0, so the thin-character method cannot address this genuine broad-spectrum core. U* is NOT a full S060 original-index survivor.
+
+Claims277→281; original source29/frontier30 objects untouched. Phase1 IN_PROGRESS; G58, D(C20³)=58, FULL8/exact12/13+/all26 hubs, non-q signed carry OPEN; SRC-0015 D3 SOURCE_STATED unauthenticated; no computation/Lean/Palomar, CI ABSENT_NOT_PASS. S081 FUTURE ONLY.

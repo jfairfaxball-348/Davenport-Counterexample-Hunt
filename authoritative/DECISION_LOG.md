@@ -316,3 +316,6 @@ Exactly S078 invoked on S077 main 3ae9cf4fb8e8af35229259e2cfb89973e56ed900 tree 
 
 ## S079 decision — 15 October 2026
 Owner direct invocation exactly S079 on prior merged a57fe97fd7a79cefc1275c70b87ac7e39618b8b2 TRUE tree 3a487b18a89a97e4a1d6b2f757cddfa4017d5ca1. CLM-0276–0277 proved INTERNAL source-independent six-block all-proper-subsum rigidity and real four-Fano outsider contradiction for every H core obeying five-slab character condition; S059/S078 whole H-core families now excluded for any original lift, not global U22. No full q-gated T59, mixed signed bridge, G58 or D(C20³)=58. Claims277, source29/frontier30 untouched, Phase1 IN_PROGRESS, CAM-0001 BLOCKED, hosted CI ABSENT_NOT_PASS, protection403 UNKNOWN. S080 FUTURE only.
+
+
+| 2026-10-15 | S080 five-colour cyclic quotient obstruction PROVED INTERNAL: no prescribed φ(−sumU)=6; all diagonal U αβt1..6 eliminated; U* axial is rigorous full-character-spectrum H escape (NOT full G59). Keep Phase1 IN_PROGRESS, claims281/source29/frontier30; no numerical search or candidate; S081 FUTURE ONLY | [S080 proof](../research/S080_FIVE_COLOUR_QUOTIENT_RIGIDITY_AND_AXIAL_ESCAPE.md), [review](../sessions/S080/REVIEW.md) | GATE HELD / INTERNAL SAME_EXECUTOR |

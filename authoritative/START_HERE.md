@@ -1,3 +1,9 @@
+# S080 CURRENT AUTHORITY — 15 October 2026
+
+[Full S080 original-index proof](../research/S080_FIVE_COLOUR_QUOTIENT_RIGIDITY_AND_AXIAL_ESCAPE.md) CLM-0278–0281: a six-block scalar matching rigidity theorem now requires NO preset total and works for ANY zero-avoiding ≤5-value C10 image φ(E(U)); every canonical actual G59 with this property contains a LITERAL proper original q-only zero by genuine twelve q supervertices and four SAME-SINGLETON Fano/even-g shifts. All diagonal U=e1^9e2^9e3^3(αe1+βe2+t e3), t=1..6, excluded for every original lift, beyond S079 special slabs. **Important rigorous LIMIT:** U*=e1^8e2^8e3^6 is H-zero-free and has φ(E)=φ(H) for EVERY character, so the character sieve does NOT eliminate arbitrary U22 and U* is NOT a complete original S060 survivor. No fully q-gated G59, G58, D(C20³)=58 or signed non-q full-G carry. 281 claims, sources29, original frontier30 unchanged; Phase1 IN_PROGRESS, CAM-0001 BLOCKED, hosted CI ABSENT_NOT_PASS; SRC-0015 D3 SOURCE_STATED unauthenticated. [Review](../sessions/S080/REVIEW.md) · [closeout](../sessions/S080/CLOSEOUT.md); [S081 next prompt](NEXT_SESSION_PROMPT.md) FUTURE ONLY.
+
+---
+
 # S079 CURRENT AUTHORITY — 15 October 2026
 
 [Full S079 proof](../research/S079_Q_SLAB_RIGIDITY_AND_FANO_NO_GO.md) CLM-0276–0277: six-block all-proper-subsum scalar rigidity across ALL actual q-supervertex matchings, then four SAME ORIGINAL Fano triples and even-g shifts contradict the true total 4 vs3 under five-slab φ(E(U))⊆{1,..,5},φ(−ΣU)=6. Entire S059 and S078 fixed H core families eliminated for ANY original lift; unrestricted U22 remains OPEN. No original full q-gated T59/G58/D(C20³)=58, signed K occupancy or proof of conjecture. Claims277, sources29/frontier30 immutable, Phase1 IN_PROGRESS, CI ABSENT_NOT_PASS. [S079 closeout](../sessions/S079/CLOSEOUT.md), [review](../sessions/S079/REVIEW.md); [S080 prompt](NEXT_SESSION_PROMPT.md) FUTURE ONLY.

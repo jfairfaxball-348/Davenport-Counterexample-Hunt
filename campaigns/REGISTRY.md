@@ -299,3 +299,7 @@ Only symbolic exact original C20³ parity/zero-free sequence mathematics and exp
 
 ## S079 no activation — 15 October 2026
 Only original-index symbolic group arguments CLM-0276–0277; no mathematical numerical search, generated candidate/orbits, CAS/SAT/ILP, historic code, Lean/Palomar, independent certification, publication or outreach. CAM-0001 remains PROPOSED/NOT_RUNNING/BLOCKED, Phase1 IN_PROGRESS, claims277/source29/frontier30 unchanged, hosted CI ABSENT_NOT_PASS. S080 FUTURE only.
+
+
+## S080 campaign non-activation — 15 October 2026
+Only INTERNAL symbolic five-colour group-projection proofs and an explicit parametric H-core zero-free algebraic family/axial obstruction, NOT generated numerical candidates or a search. No mathematical numerical search, orbits, SAT/ILP/CAS, source promotion, historical author code, Lean/Palomar, certified counterexample, tooling, correspondence or publication. CAM-0001 remains PROPOSED/NOT_RUNNING/BLOCKED; 29 sources/30 frontier rows unchanged; Phase1 IN_PROGRESS, Phase2/3 NOT_STARTED; G58 and D20 OPEN. S081 FUTURE only.
