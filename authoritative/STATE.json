@@ -24,13 +24,14 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S080",
-  "recommended_next_session": "S081",
+  "last_completed_session": "S081",
+  "recommended_next_session": "S082",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": null,
   "phase1_target_status": "WITHHELD_NO_REPLACEMENT_CAMPAIGN",
   "open_blockers": [
+    "S081 CLM-0282–0285: axial U*=e1^8e2^8e3^6 E5 projects onto EVERY proper F5³ quotient but excludes0; every proper even real q-supervertex mod5 zero forces literal indexed G20 zero using five real U pairs per nonzero order2 coordinate, so projected rank≤1 of all12 impossible. Rank2 nine a=(1,3,1), three b=(1,0,0) has projected zero-free parity shadow and genuine 59-original total-zero PARTIAL dataset but fails q gate at g1,g2+8e1+4e2+3e3 full pairs (32 original indices); ANY nine-a torsion lift fails at fibre capacity FOUR (t2,t3). Four identical H blocks in q matching impossible (2h/4h). No universal U* or arbitrary U22 proof, fully S060 q-gated T59, signed non-q K, FULL8/exact12/13+/26 hubs/P26, G58 or D20 equality. Phase1 IN_PROGRESS, CI ABSENT_NOT_PASS.",
     "S080 CLM-0278–0281: any H22 U with some C10 character φ whose E(U) image has ≤5 residues and omits0 CANNOT lift to a q-only-compatible canonical original total-zero G59; no φ(−sumU)=6 assumption. Diagonal U=e1^9e2^9e3^3(αe1+βe2+t e3), t=1..6, all original lifts excluded. BUT axial H-zero-free U*=e1^8e2^8e3^6 has φ(E)=φ(H) for every character, showing true broad-spectrum escape from THIS METHOD. No fully S060-gated original model, signed non-q K occupancy, full8/exact12/13+/26 hubs/P26, G58 or D20 theorem. Phase1 IN_PROGRESS, CI ABSENT_NOT_PASS.",
     "S079 CLM-0276–0277: exact original all-matching q-supervertex 6-block scalar lemma and FOUR coupled original Fano/even g shifts exclude any canonical U22 with φ(E(U))⊆{1,..,5},φ(−ΣU)=6, eliminating ALL original S059 and S078 fixed H core lifts. No unconditional arbitrary U22 bridge or true non-q signed occupancy, FULL8/exact12/13+/26 hubs/P26 remain OPEN; no full S060 compatible T59/G58/D20; Phase1 IN_PROGRESS CI ABSENT_NOT_PASS.",
     "S078 CLM-0272–0275: actual-original six-singleton quartet iff rho(Σx)=q; projected R+v+(c−v) atom iff E membership, R11 formal28 pair tests automatic, so these are NOT independent restrictions. Fully 59-original total-zero partial model with U22/W26 zero-free, common R11 and all four H28 atoms FAILS mandatory S060: g1,g3+9 full original e1-pairs sum20e1=0. Need actual ALL 2048 outsiders, true E(U\\I), 26 q-hubs, genuine signed non-q mixed transfer. FULL8/exact12/13+/P26 OPEN; no G58/D(C20³)=58, Phase1 IN_PROGRESS, CI ABSENT_NOT_PASS.",
@@ -70,6 +71,7 @@
   "gate_ledger": "docs/PHASE_GATE_LEDGER.md",
   "source_snapshot": "2026-10-12",
   "warnings": [
+    "S081: pi5(E(U*)) omitting0 does NOT mean its image under ANY proper linear quotient omits0: EVERY nonzero-kernel quotient is saturated. Zero-free 9a+3b C2×C5² *projected* shadow has an actual total-zero 59-label lift but that literal lift FAILS q-only, and EVERY 9a lift fails by a 4-colour original torsion-fibre bound. Do not mistake projected zero avoidance for all 2048 outsider/Fano/split gates or a G58.",
     "S080 φ(E(U)) image zero-avoiding is an ESSENTIAL hypothesis: H E(U) itself always avoids0 but φ(E(U)) may include0. U*=e1^8e2^8e3^6 has full φ(E) for EVERY φ. Do not promote character sieve to arbitrary U or infer a fully gated original survivor. Six-block scalar 0-free property only for scalar projection; full six H atom is excluded from E. S079 scalar-total6 hypothesis is now superseded for the broadened class.",
     "S078: genuine Fano x-only parity condition does not imply S060 F_* feasibility because all actual original singleton positions remain coupled. All 28 formal R11 cross-pair equations follow automatically from D(C5³)=13; never treat as independent. Fully indexed original 59 partial model fails a proper 20-original-position zero; not fully gated.",
     "S074: mod5 spanning rank>=2 for length20 H zero-free does NOT imply mod5 subset-sum coverage; signed pair w_i at genuinely split indexes is (other-selected)/2, not +/−u_i and not generally 5Q torsion; signed four tau share ORIGINAL six singleton C/Delta. 0/2 fibre bound holds ONLY under actual exact12 S072 no-Fano affine unique status, not generic FULL8/13+ or a claim that K_eps nonempty.",

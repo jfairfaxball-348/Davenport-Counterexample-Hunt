@@ -2912,6 +2912,42 @@
       "origin": "research/S080_FIVE_COLOUR_QUOTIENT_RIGIDITY_AND_AXIAL_ESCAPE.md",
       "source_ids": [],
       "notes": "S080 INTERNAL SAME_EXECUTOR, symbolic exact original indices where relevant, source-conditional canonical profile; NOT global G58 or D(C20³)=58, not independently certified."
+    },
+    {
+      "id": "CLM-0282",
+      "statement": "For the exact axial U*=e1^8e2^8e3^6, pi5(E)={x1=1 OR x2=1 OR x3 in1..3}, excludes origin yet maps onto every proper F5³ linear quotient; any proper even original q-supervertex subcollection with full mod5 sum zero has an ACTUAL C20³ zero complement formed from five original U pairs for each nonzero coordinate.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S081_AXIAL_ORIGINAL_PROJECTION_AND_TORSION_FIBRE.md",
+      "source_ids": [],
+      "notes": "S081 INTERNAL SAME_EXECUTOR, self-contained exact scoped original-index proofs; broad-spectrum U* full S060 gate NOT proved; failed partial G59 model NOT a candidate; no independent certification or D20 theorem."
+    },
+    {
+      "id": "CLM-0283",
+      "statement": "The twelve actual original q-supervertices in any canonical axial U* q-only survivor have half-reduced mod5 values spanning F5-rank at least2. If they lie in rank≤1, ten indexed (parity1,line-value) C10 elements yield a nonempty even projected-zero proper q-group support and a literal indexed original G-zero. Rank2 is not excluded by this theorem.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S081_AXIAL_ORIGINAL_PROJECTION_AND_TORSION_FIBRE.md",
+      "source_ids": [],
+      "notes": "S081 INTERNAL SAME_EXECUTOR, self-contained exact scoped original-index proofs; broad-spectrum U* full S060 gate NOT proved; failed partial G59 model NOT a candidate; no independent certification or D20 theorem."
+    },
+    {
+      "id": "CLM-0284",
+      "statement": "Rank-two projected parity shadow nine a=(1,3,1) and three b=(1,0,0), total c=(2,2,4), has NO nonempty even projected zero; a genuine literal total-zero 59-original G20 dataset with U*=8/8/6 and 9 A=(2,6,7), 2 B=(2,0,5), B'=(2,10,15) exists but FAILS real q-only at g1,g2+8e1 pairs+4e2 pairs+3e3 pairs. Every original 10-torsion lift of nine-a shadow fails: for fixed q, q-group a-fibre has at most four distinct (t2,t3), otherwise a proper actual zero. Partial projected model is NOT a full original survivor.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S081_AXIAL_ORIGINAL_PROJECTION_AND_TORSION_FIBRE.md",
+      "source_ids": [],
+      "notes": "S081 INTERNAL SAME_EXECUTOR, self-contained exact scoped original-index proofs; broad-spectrum U* full S060 gate NOT proved; failed partial G59 model NOT a candidate; no independent certification or D20 theorem."
+    },
+    {
+      "id": "CLM-0285",
+      "statement": "In axial U* E={h1=1 or h2=1 or h3 in1..3}, no h can satisfy both 2h in E and4h in E. Therefore a genuine matching of the twelve disjoint original q-supervertex groups into six even-H blocks cannot contain four identical block H values; if it does two or four actual matched blocks plus real full U pairs give a proper original G zero.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S081_AXIAL_ORIGINAL_PROJECTION_AND_TORSION_FIBRE.md",
+      "source_ids": [],
+      "notes": "S081 INTERNAL SAME_EXECUTOR, self-contained exact scoped original-index proofs; broad-spectrum U* full S060 gate NOT proved; failed partial G59 model NOT a candidate; no independent certification or D20 theorem."
     }
   ]
 }
