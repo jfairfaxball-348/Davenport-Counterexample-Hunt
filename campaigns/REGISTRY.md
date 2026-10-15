@@ -279,3 +279,7 @@ Only symbolic actual-original G/H extension-gate and within-mask Fano XOR proofs
 ## S074 campaign non-activation — 15 October 2026
 
 Only symbolic original C20^3 signed Fano switch/indexed mod5 fibre and same-original C/Delta proofs CLM-0260–0262. NO mathematical numerical search, CAS/SAT/ILP, generated orbit/candidate, historic author code, Lean/Palomar, verification certificate, campaign/tooling, publication or contact. CAM-0001 remains PROPOSED/NOT_RUNNING/BLOCKED by source-stated historical n6=16; Phase1 IN_PROGRESS, Phase2/3 NOT_STARTED, Phase4 OWNER_GATED. S075 FUTURE/UNEXECUTED.
+
+
+## S075 campaign invariant — 2026-10-15
+No numerical mathematical search, orbit generation, campaign activation, candidate generation, historical author code, CAS/SAT/ILP, Lean or Palomar; CAM-0001 remains BLOCKED. Symbolic zero-free H core proof and exact subset-sum set are NOT a computational search. Phase1 IN_PROGRESS. S076 future only.

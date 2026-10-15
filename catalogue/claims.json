@@ -2737,6 +2737,42 @@
       "origin": "research/S074_SIGNED_ORIGINAL_FANO_SWITCH_FIBRES.md",
       "source_ids": [],
       "notes": "S074 INTERNAL reuse of S060 four-transversal algebra with actual original signed endpoint intersections; NOT a new existence of a four-Fano data set."
+    },
+    {
+      "id": "CLM-0263",
+      "statement": "Explicit H=C10³ zero-sumfree indexed U=e1^9 e2^9 e3^3(e1+5e3), length22, has Sigma(U)=C10² x {0,1,2,3,5,6,7,8}, E(U)=C10² x {1,6}, so projected C5³ subset sums miss third layer4 despite spanning rank3; deleting terms does not restore coverage. This is H-only, not S060-gated G59.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S075_OUTSIDER_SCHUR_CUBE_AND_COLLECTIVE_SWITCH.md",
+      "source_ids": [],
+      "notes": "S075 INTERNAL original-index symbolic proof, conditional scope; no G58 or D20 proof."
+    },
+    {
+      "id": "CLM-0264",
+      "statement": "Four true same-q ORIGINAL outsider g labels of any S060 q-only-passing original T59 force b12,b34,b12+b34 ALL in E(U), and eight g grouped into four disjoint original pairs force all 15 nonempty four-pair indexed subsums in E(U). Therefore E(U) cannot be sum-free or project into a nonzero affine hyperplane in C5³. In particular CLM-0263's nonsaturating U is EXCLUDED by S060 q-only.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S075_OUTSIDER_SCHUR_CUBE_AND_COLLECTIVE_SWITCH.md",
+      "source_ids": [],
+      "notes": "S075 INTERNAL original-index symbolic proof, conditional scope; no G58 or D20 proof."
+    },
+    {
+      "id": "CLM-0265",
+      "statement": "At an occupied TRUE original signed Fano fibre K_eps(Z), swapping selected signed full-pair index i and unselected j with equal mod5 signed increment yields torsion difference d=(w_j−w_i)/5 in L∩kerchi for S072 exact12 no-Fano; if chi nonzero all such differences at that fibre lie in one line. This does not force occupancy.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S075_OUTSIDER_SCHUR_CUBE_AND_COLLECTIVE_SWITCH.md",
+      "source_ids": [],
+      "notes": "S075 INTERNAL original-index symbolic proof, conditional scope; no G58 or D20 proof."
+    },
+    {
+      "id": "CLM-0266",
+      "statement": "Nine identical order10 original pair sums at UNSPLIT indices of an actual mixed witness Z give signed ±u indexed subset sums covering whole cyclic <u> and an actual same-status five-pair torsion return. Two disjoint independent nine-blocks yield >=4 points in every occupied 5Q signed Fano slice, contradicting S074 no-Fano exact12 <=2; conditional on blocks being truly unsplit and slice occupied.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S075_OUTSIDER_SCHUR_CUBE_AND_COLLECTIVE_SWITCH.md",
+      "source_ids": [],
+      "notes": "S075 INTERNAL original-index symbolic proof, conditional scope; no G58 or D20 proof."
     }
   ]
 }

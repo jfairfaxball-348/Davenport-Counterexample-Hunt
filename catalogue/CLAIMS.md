@@ -1458,3 +1458,11 @@ Claims257→259, source29/original frontier30 records unmodified, Phase1 IN_PROG
 - **CLM-0262 [PROGRAMME_PROVED; INTERNAL]** Four signed original Fano switch bases necessarily obey SAME-six-singleton signed C/Delta; not four free projected values, no guarantee of any mod5 cancellation.
 
 Claims259→262, source29/frontier original30 untouched; Phase1 IN_PROGRESS, all FULL8/12/13+/hubs/P26 open; no G58 or D20 theorem; CI ABSENT_NOT_PASS. [S074 proof](../research/S074_SIGNED_ORIGINAL_FANO_SWITCH_FIBRES.md). S075 FUTURE.
+
+
+## S075 — 15 October 2026: original eight-g extension cube and signed full-pair exchanges
+- **CLM-0263 [PROGRAMME_PROVED; INTERNAL]** Zero-free U=e1^9 e2^9 e3^3(e1+5e3) has exact Sigma=C10²×{0,1,2,3,5,6,7,8} and E=C10²×{1,6}; rank3 mod5 does NOT imply saturation, even at length22.
+- **CLM-0264 [PROGRAMME_PROVED; INTERNAL; CONDITIONAL ORIGINAL S060]** Four true g outsider labels force the Schur triple b12,b34,b12+b34∈E(U), and all eight g force a real four-pair indexed subset-sum cube. Hence CLM-0263's nonsaturating U and every sum-free E(U)/nonzero-affine-hyperplane projected E(U) are EXCLUDED from full q-only-gated G59.
+- **CLM-0265 [PROGRAMME_PROVED; INTERNAL; CONDITIONAL EXACT12]** Equal projected signed pair exchange at OCCUPIED K_eps(Z) must have d∈L∩kerchi, one line if chi!=0. Occupancy NOT forced.
+- **CLM-0266 [PROGRAMME_PROVED; INTERNAL; CONDITIONAL EXACT12]** Nine identical unsplit order10 original pair sums give full signed cyclic subset-sum and actual five-pair collective order2 same-status return. TWO independent nine-blocks give ≥4 5Q values in any occupied signed fibre, contrary to S074 at-most2.
+Claims262→266, sources29/frontier30 immutable, Phase1 IN_PROGRESS, no full original zero, G58, D20 theorem or CI PASS. [Full proof](../research/S075_OUTSIDER_SCHUR_CUBE_AND_COLLECTIVE_SWITCH.md). S076 future only.
