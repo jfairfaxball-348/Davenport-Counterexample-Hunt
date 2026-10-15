@@ -1479,3 +1479,22 @@ No universal signed fibre occupancy, original zero, full S060 G59, G58 or D20 re
 - **CLM-0270 [PROGRAMME_PROVED; INTERNAL; SOURCE-STATED D3 CONDITIONAL]** ALL FOUR real even-Fano original three-singleton plus complementary four-singleton H blocks complete the SAME W26 to true 28-term minimal H atoms; same three-pack residual R obeys 1≤|R|≤11 and ALL four coupled projected x/y completions are minimal projected C5³ atoms with x,y∈E5(R), pair sum c_R. Exact original S060 C/Delta required, no independent line choices.
 - **CLM-0271 [PROGRAMME_PROVED; INTERNAL SCOPED]** At |R|=11 eight FORMAL x/y completion slots satisfy two-slot additive tests; a fully explicit LOCAL labelled six-original-singleton +eight-real-g Fano C/Delta configuration has NO five-block same-index 5Q projected cancellation, despite every scalar f kernel hit. NOT a fully gated T59, signed K occupancy, G58 or D20 theorem.
 Claims268→271, sources29/original frontier30 unchanged, SRC-0015 D3 SOURCE_STATED not promoted, Phase1 IN_PROGRESS, CI ABSENT_NOT_PASS. S078 FUTURE ONLY.
+
+
+## S078 — CLM-0272–0275, 15 October 2026
+
+### CLM-0272 — PROGRAMME_PROVED (INTERNAL)
+Exact full ORIGINAL C20³ realisability: prescribed four even Fano H values x000,x110,x101,x011 arise from actual six quotient-prescribed singleton indices iff rho(sum four x)=q; a seventh actual parity-q singleton can prescribe any seven-singleton even H total. Construct G mod20 differences D_i and true X_i/Y_i. Necessarily q belongs to 4rho(F_*) for S060 but this is NOT sufficient for all S060 actual-index gates.
+Proof [S078](../research/S078_EXACT_FANO_PARITY_AND_PARTIAL_ORIGINAL_MODEL.md). NOT global rank-three resolution.
+
+### CLM-0273 — PROGRAMME_PROVED (INTERNAL)
+For an indexed zero-sumfree R in any abelian V, c=-sum R, E(R)=V\(-Sigma R) is c-symmetric, and the formal total-zero R+v+(c-v) is an atom iff v∈E(R). Thus the S077 four shared projected Fano completion atoms give no extra inter-epsilon constraint beyond common E membership and genuine original x/y complement identities.
+Proof [S078](../research/S078_EXACT_FANO_PARITY_AND_PARTIAL_ORIGINAL_MODEL.md). NOT global rank-three resolution.
+
+### CLM-0274 — PROGRAMME_PROVED (INTERNAL)
+For |R|=11 in V=C5³ and established D(V)=13, ANY two formal extender slots v,w∈E(R) satisfy -(v+w)∈Sigma(R), proper R representation if v+w differs from -sum R. Therefore all 28 S077 eight-formal-slot cross-pair tests are automatic, not independent restrictions or literal original disjoint unions.
+Proof [S078](../research/S078_EXACT_FANO_PARITY_AND_PARTIAL_ORIGINAL_MODEL.md). NOT global rank-three resolution.
+
+### CLM-0275 — PROGRAMME_PROVED (INTERNAL)
+Fully original-labelled total-zero 59-position C20³ PARTIAL model: 22 pairs with H sums e1^9e2^9e3^4, eight q=e1 outsiders 4e1+4(2e3-e1), seven original singletons Xi=(e2,e3,-e2+e3),Yi=Xi+5e1,s_q=7e1+2e2. Genuine W26=e1^9e2^9e3^8 H-zero-free, three original disjoint 5e_i kernel basis blocks, R11=e1^4e2^4e3^3 and all four genuine 28-term H Fano completion atoms; BUT actual original g1+g3+nine full e1 pairs sum20e1=0, violating S060 m0 outsider gate. NOT full S060-gated T59, G58 or D(C20³)=58.
+Proof [S078](../research/S078_EXACT_FANO_PARITY_AND_PARTIAL_ORIGINAL_MODEL.md). NOT global rank-three resolution.

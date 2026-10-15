@@ -297,3 +297,7 @@ S069 CLM-0247 additional verified symbolic condition: TRUE four Fano projections
 | S077 | 2026-10-15 | Four REAL original Fano three/four singleton completions of SAME U22+4g W26; triple 5Q rank3 common packing and residual≤11, P11 pair test, explicit Fano vector no-go | CLM-0269–0271 INTERNAL / SRC-0015 D3 conditional; no original zero/G58/D20; Phase1 IN_PROGRESS | session/S077-common-fano-rank-three-packing |
 
 [S077 full proof](../research/S077_COMMON_FANO_RANK_THREE_PACKING.md) · [PRECOMMIT closeout](../sessions/S077/CLOSEOUT.md) · [review](../sessions/S077/REVIEW.md). Claims271, sources29/original30 frontier unchanged; CI ABSENT_NOT_PASS; S078 FUTURE ONLY.
+
+
+## S078 — 15 October 2026
+CLM-0272–0275 genuine original Fano quartet parity iff, E atom converse, P11 formal28 redundancy, explicit total-zero complete 59-original-labelled partial model with four true H28 atoms but forbidden q-only original zero. [Proof](../research/S078_EXACT_FANO_PARITY_AND_PARTIAL_ORIGINAL_MODEL.md); [closeout](../sessions/S078/CLOSEOUT.md). No all-gated G59/G58/D20; Phase1 IN_PROGRESS, claims275 source29/original frontier30 fixed, CI ABSENT_NOT_PASS. S079 future.

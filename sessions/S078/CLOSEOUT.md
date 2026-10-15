@@ -1,0 +1,9 @@
+# S078 PRECOMMIT closeout — 15 October 2026
+
+Owner direct `run the next session` authorises precisely S078, from S077 merge main `3ae9cf4fb8e8af35229259e2cfb89973e56ed900` and true root tree `dbda4ef62734067a4240bf2fb93bf08e25c5de1b`, two-parent prior merge. Entry open PR count 0, hosted Actions 0 runs, combined status 0 contexts CI **ABSENT_NOT_PASS**, rulesets empty, branch protection API 403 **UNKNOWN_ACCESS**. Historial D3(C5³)=25 SRC-0015 stays SOURCE_STATED/unauthenticated.
+
+[Complete S078 original-index proof](../../research/S078_EXACT_FANO_PARITY_AND_PARTIAL_ORIGINAL_MODEL.md), [hostile review](REVIEW.md). Four internal CLM-0272–0275: exact C20 original Fano quartet mod20 iff rho(Σx)=q, arbitrary even seven-singleton total; projected E-complement atom converse; 28 formal R11 cross-pair tests automatic not independent; full 59-labelled original total-zero PARTIAL model with actual 22+8+7 original positions, true U22/W26 zero-free, three disjoint 5Q basis blocks, common R11 and four genuine H28 atom completions, but a literal proper 20-original-index zero g1+g3+9 full original e1-pairs violates even S060 m0 gate. NO FULL S060-gated T59, signed K forced occupancy, G58 zero-free, D(C20³)=58 proof or general rank-three resolution.
+
+FULL8/exact12/13/14/≥15, m0/1/2/≥3, all 26 q hubs, three-hub/P26 (0,4),(0,6),(1,7) and original non-q signed carry OPEN. Claims271→275, original source29/frontier30 objects UNCHANGED. Phase1 IN_PROGRESS; CAM-0001 PROPOSED/NOT_RUNNING/BLOCKED; no mathematical numerical search, CAS/SAT/ILP, generated candidates/orbits, historical author code, Lean/Palomar, certification, publication or contact. INTERNAL SAME_EXECUTOR only.
+
+This PRECOMMIT file cannot declare its own authored/PR/merge SHA. Verify the live GitHub commit/tree/parents/checks after ordinary PR merge. [S079 complete handover](../../authoritative/NEXT_SESSION_PROMPT.md) FUTURE/UNEXECUTED only.
