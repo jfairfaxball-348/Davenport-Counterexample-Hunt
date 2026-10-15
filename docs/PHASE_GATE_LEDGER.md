@@ -243,3 +243,7 @@ S069 CLM-0247 additional verified symbolic condition: TRUE four Fano projections
 ## S070 Phase1 gate — 15 October 2026
 
 **HOLD IN_PROGRESS / NO PASS.** CLM-0248–0251 prove true original-index majority weighted carry, genuinely attainable zero-colour triple in exact12 (without Fano/proper XOR guarantee), conditional order-four parity escape and a possible fourth majority mask, plus no-gauge-adjustment. All required universal forcing, FULL8/exact12/aug13/14/≥15 case closures and genuine 59-label q-gate hostile construction absent. No D(C20³)=58, no G58 zero-free example, no source promotion. Claims251, source29/frontier30 unchanged. Phase2/3 NOT_STARTED, campaign NOT_RUNNING, CI ABSENT_NOT_PASS, protection UNKNOWN.
+
+
+## S071 Phase1 gate — 15 October 2026
+**HOLD IN_PROGRESS / NO PASS.** CLM-0252–0254 original parity signature establishes all true non-q-mask G[2] witnesses occupy two complementary singleton-split strata; all-Fano triple of A,B,A△B is IMPOSSIBLE for m≤2, but mixed one-/two-split witnesses are not eliminated. Every true cross-mask XOR becomes grouped000 or Fano111, yet exact12 colour-zero does not force a proper projected-zero/even-majority triangle. FULL8, exact12, enlarged13/14/≥15, all 26 hubs, three-hub and P26 alternatives OPEN. Claims254, source29/frontier30 unchanged, Phase2/3 NOT_STARTED, Phase4 OWNER_GATED, CAM-0001 BLOCKED, CI ABSENT_NOT_PASS, protection UNKNOWN403. No G58/D20 result.

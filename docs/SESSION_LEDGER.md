@@ -263,3 +263,8 @@ S069 CLM-0247 additional verified symbolic condition: TRUE four Fano projections
 | S070 | 2026-10-15 | True original majority-support carry, guaranteed exact12 zero-colour witness selection, order-four escape, fourth-mask and Fano majority geometry, pair-gauge invariance | CLM-0248–0251 INTERNAL; no forced proper projected-zero/even-majority triangle or fully q-gated 59 labels; Phase1 IN_PROGRESS | session/S070-original-majority-carry |
 
 [S070 proof](../research/S070_MAJORITY_ZERO_COLOUR_TRIANGLE.md) · [PRECOMMIT closeout](../sessions/S070/CLOSEOUT.md) · [hostile review](../sessions/S070/REVIEW.md) · S071 FUTURE/UNEXECUTED. Claims251, source29/original frontier30 unaltered, CI ABSENT_NOT_PASS.
+
+
+| S071 | 2026-10-15 | Exact true original 3-coset split quotient, all-Fano mask kernel m2 no-go, mixed-original q-only XOR dichotomy | CLM-0252–0254 INTERNAL; m2 Fano triangle impossible as target, not exact12 eliminated; Phase1 IN_PROGRESS | session/S071-quotient-mixed-triangle |
+
+[S071 proof](../research/S071_QUOTIENT_SINGLETON_STRATA_AND_MIXED_TRIANGLES.md) · [PRECOMMIT closeout](../sessions/S071/CLOSEOUT.md) · [hostile review](../sessions/S071/REVIEW.md) · S072 FUTURE/UNEXECUTED. Claims254, sources29/original frontier30 unchanged. CI ABSENT_NOT_PASS.

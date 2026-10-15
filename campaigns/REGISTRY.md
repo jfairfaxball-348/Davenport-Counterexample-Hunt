@@ -263,3 +263,7 @@ S069 CLM-0247 additional verified symbolic condition: TRUE four Fano projections
 ## S070 campaign non-activation — 15 October 2026
 
 Only symbolic original-index C20³ group proofs CLM-0248–0251; no mathematical numerical search, CAS/SAT/ILP, generated candidate/orbit enumeration, historical author code, Lean/Palomar, certificate or outreach. CAM-0001 PROPOSED/NOT_RUNNING/BLOCKED by source-stated n6=16; no new campaign or Phase2/3 authorisation. Phase1 IN_PROGRESS; S071 future-only.
+
+
+## S071 campaign non-activation — 15 October 2026
+Only symbolic actual-original quotient and XOR proofs CLM-0252–0254; NO numerical mathematical search, CAS/SAT/ILP, generated candidate/orbit enumeration, historic author code, Lean/Palomar, formal certificate or outreach. CAM-0001 stays PROPOSED/NOT_RUNNING/BLOCKED. Phase1 IN_PROGRESS; Phases2/3 NOT_STARTED; Phase4 OWNER_GATED. S072 FUTURE/UNEXECUTED.
