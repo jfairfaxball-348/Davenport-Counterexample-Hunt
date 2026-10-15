@@ -1,0 +1,3 @@
+# S074 bounded pre-registered symbolic work
+
+Target CLM-0258/0259 SAME-original mixed Fano status-switch criterion, chi0 priority; seek forcing exact projected-zero 5Q switch or genuine obstruction, retain all q/S060 original index identities. Read live main S073 and authoritative chain; no mathematical numerical search/CAS/SAT/ILP/Lean/certificates/campaign/contact. Allow multiple substantial mathematically new objects without one-object cap. On failure, clearly report why no general signed-fibre cover follows from zero-free U22; do not claim C20 or rank-three theorem. Exactly S074; write all governance and full future S075.

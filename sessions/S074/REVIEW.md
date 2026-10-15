@@ -1,0 +1,10 @@
+# S074 adversarial INTERNAL mathematical review — 15 October 2026
+
+1. The toggled q-only set D=T_eps plus ORIGINAL full pairs has no non-q split even when Z does; the XOR retains mask P≠empty and is automatically proper. H base is legitimate because every even Fano T_eps and each entire original pair are even in G; no false G≅Q⊕H splitting.
+2. w_i(Z) for an ORIGINAL split i is (b_i−a_i)/2 or its negative **as an element of H via iota**. This exists for same-parity endpoints, but need NOT be order-two. Thus S066's strong b_i−a_i=10d requirement has NOT been assumed.
+3. Mod5-zero in H is exactly H[2]=5Q. The resulting opposite-status subset is ACTUAL torsion, so exact12 forces e∈L; affine *unique* status forces chi(e)=1. chi0 thus excludes any point, chi!=0 allows precisely a two-element coset as an UPPER bound. No claim all two are attained.
+4. The signed subset-sum saturated condition on U outside P ignores split-pair increments deliberately; it is sufficient, not necessary. Individual sign reversals only translate the mod5 subset-sum set, preserving full-group coverage. The example U8/7/7 is zero-free in H, but **not** a completed S060 original-labelled model.
+5. The rank≥2 projected support lemma requires at least 20 actual zero-free terms; four disjoint C5-line projected-zero blocks yield a dependent four-tuple in F2³, hence true U-zero. Span≥2 must never be upgraded to full mod5 subset-sum coverage.
+6. Four tau_eps signed original singleton bases obey shared C/Delta with the SAME six signed original X/Y values, not independently chosen F_* values. These are signed *switch bases*, not a new unconstrained four-Fano lift.
+7. FAILED: no universal proof that U22 zero-free + S060 implies projected saturation or >2 points in any signed slice; no projected-zero majority/even K forced, no actual 59-label all-q-gated survivor, no G58 and no D(C20³)=58.
+8. No numerical mathematical search, generated candidates, CAS/SAT/ILP, Lean/Palomar, external independent referee, hosted CI pass or source promotion. Claims ONLY conditional internal original-index theorems CLM-0260–0262; Phase1 IN_PROGRESS. All 26 hubs/P26/full8/13+ remain OPEN.
