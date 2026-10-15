@@ -1,3 +1,7 @@
+# Current S083 checkpoint — 15 October 2026
+
+**Phase 1 IN_PROGRESS; rank-three Davenport unresolved.** [S083 rigorous original-index necessary eightfold q outsider constraints](research/S083_EIGHT_FIBRE_OUTSIDER_ESCAPE_AND_CLUSTER_EXCLUSION.md) (CLM-0290–0292) exclude three equal or 2+2 residual outsider cosets in any eightfold projected q group fibre for canonical source-conditional U*=e1^8e2^8e3^6. Only residual 2+1+1/four-distinct survive these **necessary** tests, while max-fibre<=7 remains open. Every S083 excluded pattern constructs a proper actual indexed G20 zero; this is **NOT** a universal twelve-q no-go, full S060-gated 59-original survivor, zero-free G58, or D(C20³)=58 theorem. [Hostile internal review](sessions/S083/REVIEW.md), [full future S084 prompt](authoritative/NEXT_SESSION_PROMPT.md). Claims292, original source29/frontier30 unchanged, CAM-0001 BLOCKED, CI ABSENT_NOT_PASS.
+
 # Current S067 outcome — 14 October 2026
 **Phase 1 IN_PROGRESS.** [S067 all-m 13 collapse / irredundant 14-cover and true m2 endpoint restriction](research/S067_THIRTEEN_COVER_AND_FOURTEEN_BOUNDARY.md) proves (CLM-0238–0240): no genuinely new irredundant 13-condition non-full gauge cover, but an abstract 14-condition 2+6+6 cover survives; two real independent endpoint-torsion directions forbid that new case only in m2 with danger≤14. No full8, ≥15, four SAME-c original Fano coupling or 26-hub proof, no zero-free G58 and no D(C20³)=58 theorem. [S068 handover](authoritative/NEXT_SESSION_PROMPT.md) is FUTURE only.
 

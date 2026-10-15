@@ -2984,6 +2984,33 @@
       "origin": "research/S082_AXIAL_THREE_VECTOR_CROSS_AND_NINE_FIBRE_EXCLUSION.md",
       "source_ids": [],
       "notes": "S082 INTERNAL SAME_EXECUTOR literal indexed correction; S081 32-index witness remains valid; rank2 projected shadow never a full-gated candidate."
+    },
+    {
+      "id": "CLM-0290",
+      "statement": "For canonical axial U*=e1^8e2^8e3^6 with 12 real original q-supervertices and 8 repeated half-projections y third t!=0, define four outsider w_i=b_i-(b_i3/t)y horizontal. Each pair w_i+w_j and their total W lies in affine cross C={x=1 or y=1}; every outsider singleton/triple J with w_J outside C forces sum_J b_i3=t. In particular total outsider third=4-3t, and w_i and W-w_i cannot BOTH be outside C. Violations select r=0,2,4,6,8 or r=1,3,5,7 genuinely disjoint q-original groups with third-projection0 and a real indexed U full-pair completion to a proper original G20 zero; full12 selection is excluded by c5 third4.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S083_EIGHT_FIBRE_OUTSIDER_ESCAPE_AND_CLUSTER_EXCLUSION.md",
+      "source_ids": [],
+      "notes": "S083 INTERNAL SAME_EXECUTOR symbolic original-index necessary canonical axial m0 q-only proof; no mathematical search/independent certification. Not full S060 gated T59, no G58 or D(C20^3)=58 proof."
+    },
+    {
+      "id": "CLM-0291",
+      "statement": "For an axial original-q-only compatible total-zero canonical T59 with eight repeated q half-projections, the remaining four outsider residual w_i in P/<y> cannot include any three equal values. A complete algebraic w in/out cross split using even outsider pairs/four-total, odd singleton/triple escape and full third identity forces a proper actual original G20 zero. Eliminates 4 and3+1 residual multiplicity independent of H torsion and outsider q label roles.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S083_EIGHT_FIBRE_OUTSIDER_ESCAPE_AND_CLUSTER_EXCLUSION.md",
+      "source_ids": [],
+      "notes": "S083 INTERNAL SAME_EXECUTOR symbolic original-index necessary canonical axial m0 q-only proof; no mathematical search/independent certification. Not full S060 gated T59, no G58 or D(C20^3)=58 proof."
+    },
+    {
+      "id": "CLM-0292",
+      "statement": "In the same eightfold canonical axial original q-only situation, outsider horizontal residual pattern u,u,v,v is impossible: pair and quartet tests imply u+v=(1,3) or(3,1), and 2u,2v in C force u=(3,a),v=(3,3-a) up to exchange of coordinates; a=0,3,4 forces three bad outsiders with third3t, a=1,2 forces a -t/t triple clash. Every failure gives a proper actual original G20 zero via indexed full U pairs. Eightfold outsider residual patterns only 2+1+1 or four distinct remain NECESSARILY (not sufficient).",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S083_EIGHT_FIBRE_OUTSIDER_ESCAPE_AND_CLUSTER_EXCLUSION.md",
+      "source_ids": [],
+      "notes": "S083 INTERNAL SAME_EXECUTOR symbolic original-index necessary canonical axial m0 q-only proof; no mathematical search/independent certification. Not full S060 gated T59, no G58 or D(C20^3)=58 proof."
     }
   ]
 }
