@@ -24,13 +24,14 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S077",
-  "recommended_next_session": "S078",
+  "last_completed_session": "S078",
+  "recommended_next_session": "S079",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": null,
   "phase1_target_status": "WITHHELD_NO_REPLACEMENT_CAMPAIGN",
   "open_blockers": [
+    "S078 CLM-0272–0275: actual-original six-singleton quartet iff rho(Σx)=q; projected R+v+(c−v) atom iff E membership, R11 formal28 pair tests automatic, so these are NOT independent restrictions. Fully 59-original total-zero partial model with U22/W26 zero-free, common R11 and all four H28 atoms FAILS mandatory S060: g1,g3+9 full original e1-pairs sum20e1=0. Need actual ALL 2048 outsiders, true E(U\\I), 26 q-hubs, genuine signed non-q mixed transfer. FULL8/exact12/13+/P26 OPEN; no G58/D(C20³)=58, Phase1 IN_PROGRESS, CI ABSENT_NOT_PASS.",
     "S077 CLM-0269–0271: conditional SOURCE_STATED SRC-0015 D3(C5³)=25 threefold REAL W26 projection-zero extraction yields 3 independent NONZERO original order2 sums, and ALL FOUR genuine original Fano three+four singleton completions share the SAME projected zero-free residual R of size <=11. At |R|=11 eight FORMAL projected completion slots satisfy pairwise additive tests; exact ORIGINAL local six-singleton/eight-g C/Delta example STILL avoids five-block vector cancellation. NO universal R inverse, original full zero, signed K occupancy, fully S060-gated T59, G58 or D(C20³)=58; FULL8/exact12/13+/all26 hubs/P26 original carries OPEN; Phase1 IN_PROGRESS, CI ABSENT_NOT_PASS.",
     "S076 CLM-0267–0268: five DISJOINT original q-even outsider blocks (4 g pairs+TRUE Fano triple) force E(U) to meet every mod5 linear hyperplane kernel, with >=6 projective directions if 0 absent; all-q original q split I with 6+m genuine paired q pseudovertices forces E(U\\\\I)∩kerψ whenever 6+m>D(quotient), specifically C5² m>=4 and C5³ m>=8. This is a SCALAR kernel / nonzero q-only torsion necessity, NOT a 5Q signed Fano occupancy, actual zero, full 59 model, G58 or D20 theorem. FULL8/exact12/13+/all26 hubs/P26 and original overlap carry OPEN; Phase1 IN_PROGRESS, CI ABSENT_NOT_PASS.",
     "S075 CLM-0263–0266: length22 H-zero-free nonsaturating U=e1^9e2^9e3^3(e1+5e3) EXISTS but is EXCLUDED by original S060 4-q-outsider Schur triple in E(U)=C10²×{1,6}. Any S060-gated G59 forces 4-pair 8-g subset-sum cube in E(U), excluding sum-free / nonzero affine projected-layer E. Equal projected original signed Fano exchanges at occupied fibre restricted to L∩kerchi; two disjoint UNSPLIT independent nine-blocks force >=4 5Q points if occupied. Universal occupied fibre, exact12/full8/13+/26 hubs/P26, original carry, full-gated T59, G58 and D(C20³)=58 OPEN; Phase1 IN_PROGRESS; CI ABSENT_NOT_PASS.",
@@ -67,6 +68,7 @@
   "gate_ledger": "docs/PHASE_GATE_LEDGER.md",
   "source_snapshot": "2026-10-12",
   "warnings": [
+    "S078: genuine Fano x-only parity condition does not imply S060 F_* feasibility because all actual original singleton positions remain coupled. All 28 formal R11 cross-pair equations follow automatically from D(C5³)=13; never treat as independent. Fully indexed original 59 partial model fails a proper 20-original-position zero; not fully gated.",
     "S074: mod5 spanning rank>=2 for length20 H zero-free does NOT imply mod5 subset-sum coverage; signed pair w_i at genuinely split indexes is (other-selected)/2, not +/−u_i and not generally 5Q torsion; signed four tau share ORIGINAL six singleton C/Delta. 0/2 fibre bound holds ONLY under actual exact12 S072 no-Fano affine unique status, not generic FULL8/13+ or a claim that K_eps nonempty.",
     "S073: twelve Fano pair TESTS when affine chi!=0 are neither twelve distinct original subsets nor forced zeros. Same-mask different torsion colours force proper XOR; this does NOT generalise to three-mask grouped XOR. Exact mixed fibre 5Q gate is an identity not original model feasibility. No proof of chi0 exclusion or original mod5-majority-even carry.",
     "S070 zero-colour triangle actual D-mask selection DOES NOT mean all three witnesses are even Fano or XOR proper. Never assert numerical G58. Order-four escape is valid. Correct git root tree via /git/commits/<main sha> is 943cc6d203087c62ab5bcc039dadd9d155acae0e, not main commit sha.",
@@ -1132,5 +1134,31 @@
     "CI": "ABSENT_NOT_PASS",
     "review": "INTERNAL_SAME_EXECUTOR",
     "next": "S078_FUTURE_UNEXECUTED"
+  },
+  "s078_result": {
+    "date": "2026-10-15",
+    "claims": [
+      "CLM-0272",
+      "CLM-0273",
+      "CLM-0274",
+      "CLM-0275"
+    ],
+    "entry_main": "3ae9cf4fb8e8af35229259e2cfb89973e56ed900",
+    "entry_true_git_root_tree": "dbda4ef62734067a4240bf2fb93bf08e25c5de1b",
+    "exact_original_quartet_iff": "PROVED",
+    "projected_complement_atom_iff": "PROVED",
+    "formal28_independent": false,
+    "fully_original_59_partial_model": true,
+    "all_four_H28_atoms": true,
+    "first_original_zero": "g1_g3_nine_full_e1_pairs",
+    "full_S060_gate": false,
+    "G58_zero_free": false,
+    "D_C20cube_equals58": false,
+    "source_objects_unchanged": 29,
+    "frontier_rows_unchanged": 30,
+    "claims_total": 275,
+    "phase1": "IN_PROGRESS",
+    "CI": "ABSENT_NOT_PASS",
+    "next": "S079_FUTURE_UNEXECUTED"
   }
 }

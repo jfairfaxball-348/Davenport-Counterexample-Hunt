@@ -2822,6 +2822,42 @@
       "origin": "research/S077_COMMON_FANO_RANK_THREE_PACKING.md",
       "source_ids": [],
       "notes": "S077 INTERNAL sharp residual formal cross-pair implication and fully explicit *local* true original Fano C/Delta five-block no-go; no global model/result."
+    },
+    {
+      "id": "CLM-0272",
+      "statement": "Exact full ORIGINAL C20³ realisability: prescribed four even Fano H values x000,x110,x101,x011 arise from actual six quotient-prescribed singleton indices iff rho(sum four x)=q; a seventh actual parity-q singleton can prescribe any seven-singleton even H total. Construct G mod20 differences D_i and true X_i/Y_i. Necessarily q belongs to 4rho(F_*) for S060 but this is NOT sufficient for all S060 actual-index gates.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S078_EXACT_FANO_PARITY_AND_PARTIAL_ORIGINAL_MODEL.md",
+      "source_ids": [],
+      "notes": "S078 INTERNAL scoped symbolic original-index proof; no global Davenport result, no independent certification."
+    },
+    {
+      "id": "CLM-0273",
+      "statement": "For an indexed zero-sumfree R in any abelian V, c=-sum R, E(R)=V\\(-Sigma R) is c-symmetric, and the formal total-zero R+v+(c-v) is an atom iff v∈E(R). Thus the S077 four shared projected Fano completion atoms give no extra inter-epsilon constraint beyond common E membership and genuine original x/y complement identities.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S078_EXACT_FANO_PARITY_AND_PARTIAL_ORIGINAL_MODEL.md",
+      "source_ids": [],
+      "notes": "S078 INTERNAL scoped symbolic original-index proof; no global Davenport result, no independent certification."
+    },
+    {
+      "id": "CLM-0274",
+      "statement": "For |R|=11 in V=C5³ and established D(V)=13, ANY two formal extender slots v,w∈E(R) satisfy -(v+w)∈Sigma(R), proper R representation if v+w differs from -sum R. Therefore all 28 S077 eight-formal-slot cross-pair tests are automatic, not independent restrictions or literal original disjoint unions.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S078_EXACT_FANO_PARITY_AND_PARTIAL_ORIGINAL_MODEL.md",
+      "source_ids": [],
+      "notes": "S078 INTERNAL scoped symbolic original-index proof; no global Davenport result, no independent certification."
+    },
+    {
+      "id": "CLM-0275",
+      "statement": "Fully original-labelled total-zero 59-position C20³ PARTIAL model: 22 pairs with H sums e1^9e2^9e3^4, eight q=e1 outsiders 4e1+4(2e3-e1), seven original singletons Xi=(e2,e3,-e2+e3),Yi=Xi+5e1,s_q=7e1+2e2. Genuine W26=e1^9e2^9e3^8 H-zero-free, three original disjoint 5e_i kernel basis blocks, R11=e1^4e2^4e3^3 and all four genuine 28-term H Fano completion atoms; BUT actual original g1+g3+nine full e1 pairs sum20e1=0, violating S060 m0 outsider gate. NOT full S060-gated T59, G58 or D(C20³)=58.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S078_EXACT_FANO_PARITY_AND_PARTIAL_ORIGINAL_MODEL.md",
+      "source_ids": [],
+      "notes": "S078 INTERNAL scoped symbolic original-index proof; no global Davenport result, no independent certification."
     }
   ]
 }
