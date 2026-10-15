@@ -1,0 +1,45 @@
+{
+  "session": "S081",
+  "date": "2026-10-15",
+  "entry_main": "c456d91f39bf4bfb74a71e16ab78d29f682ac2ca",
+  "entry_true_git_root_tree": "7e34573938310422a709b4d03c413345f2ccd294",
+  "previous_s080_authored_head": "a98bd42fdd9a382e0003991753aecbf74f3127ef",
+  "previous_s080_authored_parents": [
+    "a24b40bf03910ca80dc783238414a3dc9793bd38"
+  ],
+  "previous_s080_merge_main": "c456d91f39bf4bfb74a71e16ab78d29f682ac2ca",
+  "previous_s080_ordinary_merge_parents": [
+    "a24b40bf03910ca80dc783238414a3dc9793bd38",
+    "a98bd42fdd9a382e0003991753aecbf74f3127ef"
+  ],
+  "entry_open_PRS": 0,
+  "entry_actions_runs": 0,
+  "entry_combined_status_contexts": 0,
+  "hosted_CI": "ABSENT_NOT_PASS",
+  "rulesets": 0,
+  "protection": "UNKNOWN_403",
+  "claims_before": 281,
+  "claims_after": 285,
+  "source_objects_before_after": [
+    29,
+    29
+  ],
+  "frontier_rows_before_after": [
+    30,
+    30
+  ],
+  "axial_mod5_projection": "INTERNAL_PROVED",
+  "original_rank_one_exclusion": "INTERNAL_PROVED",
+  "projected_rank_two_zero_free_shadow": "INTERNAL_PROVED",
+  "rank_two_original_59_total_zero": "PARTIAL_ONLY_WITH_LITERAL_Q_ZERO",
+  "a_fibre_max4": "INTERNAL_PROVED",
+  "matching_repetition_four_no_go": "INTERNAL_PROVED",
+  "full_q_gated_T59": false,
+  "mixed_signed_carry_forced": false,
+  "G58": false,
+  "D20_eq58": false,
+  "mathematical_numerical_search": false,
+  "independent_certification": false,
+  "phase1": "IN_PROGRESS",
+  "next_S082": "FUTURE_UNEXECUTED"
+}

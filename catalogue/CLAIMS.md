@@ -1515,3 +1515,13 @@ Five-slab E(U) condition φ(E(U))⊆{1,..,5},φ(−sumU)=6 is incompatible with 
 - **CLM-0281 [PROGRAMME_PROVED; INTERNAL; H-ONLY LIMIT]** U*=e1^8e2^8e3^6 is H-zero-free and E={h1=1 or h2=1 or h3∈{1,2,3}}; EVERY C10 character φ has φ(E)=φ(H), including0, so the thin-character method cannot address this genuine broad-spectrum core. U* is NOT a full S060 original-index survivor.
 
 Claims277→281; original source29/frontier30 objects untouched. Phase1 IN_PROGRESS; G58, D(C20³)=58, FULL8/exact12/13+/all26 hubs, non-q signed carry OPEN; SRC-0015 D3 SOURCE_STATED unauthenticated; no computation/Lean/Palomar, CI ABSENT_NOT_PASS. S081 FUTURE ONLY.
+
+
+## S081 — 15 October 2026: axial original rank-one cut, rank-two failed model, torsion-fibre packing
+
+- **CLM-0282 [PROGRAMME_PROVED; INTERNAL; CANONICAL AXIAL]** Exact E5 of U*=8/8/6 avoids0 but saturates EVERY proper C5³ quotient; any proper even genuine original q-group support with projected sum0 supplies a literal G20 zero using five available full U pairs per order2 coordinate. [Full proof](../research/S081_AXIAL_ORIGINAL_PROJECTION_AND_TORSION_FIBRE.md).
+- **CLM-0283 [PROGRAMME_PROVED; INTERNAL; CANONICAL AXIAL]** All twelve actual q-supervertex half-projections cannot lie in an F5 line, using a 10-index C2×C5 pigeonhole zero and actual original support completion. Does NOT rule out rank2/3.
+- **CLM-0284 [PROGRAMME_PROVED; INTERNAL; EXPLICIT FAILURE]** Rank-two projected nine a+three b can avoid all even projected zeros and have a complete labelled 59-original total-zero C20³ representation, but MUST fail the true q gate; explicit 32-original g1+g2+8/4/3 full-pair zero. ANY nine-a torsion lift fails due four-colour (t2,t3) original fibre cap. No fully S060-gated survivor.
+- **CLM-0285 [PROGRAMME_PROVED; INTERNAL; CANONICAL AXIAL]** 2h and4h cannot both belong to E(U*), so any six-edge true q-supervertex matching cannot have four identical H completion block values; literal proper original zero otherwise.
+
+281→285 claims; 29 original sources/30 frontier objects unchanged, Phase1 IN_PROGRESS, no G58 or D(C20³)=58, full Fano/2048/splits/non-q/exact12/hubs/P26 OPEN; CI ABSENT_NOT_PASS, review SAME_EXECUTOR, S082 FUTURE.

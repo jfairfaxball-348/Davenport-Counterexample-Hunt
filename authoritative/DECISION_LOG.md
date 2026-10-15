@@ -319,3 +319,6 @@ Owner direct invocation exactly S079 on prior merged a57fe97fd7a79cefc1275c70b87
 
 
 | 2026-10-15 | S080 five-colour cyclic quotient obstruction PROVED INTERNAL: no prescribed φ(−sumU)=6; all diagonal U αβt1..6 eliminated; U* axial is rigorous full-character-spectrum H escape (NOT full G59). Keep Phase1 IN_PROGRESS, claims281/source29/frontier30; no numerical search or candidate; S081 FUTURE ONLY | [S080 proof](../research/S080_FIVE_COLOUR_QUOTIENT_RIGIDITY_AND_AXIAL_ESCAPE.md), [review](../sessions/S080/REVIEW.md) | GATE HELD / INTERNAL SAME_EXECUTOR |
+
+
+| 2026-10-15 | S081 axial U* exact original mod5 rank-one cut and universal proper-quotient E5 saturation; genuine 9a+3b rank-two projected zero-free but 59-index total-zero model FAILS q-only via g1,g2+8/4/3 original pairs; all nine-a 10-torsion lifts excluded by four-fibre cap; no four equal H matching blocks. Phase1 HOLD, 285 claims/source29/frontier30, no G58/D20 theorem; S082 FUTURE | [S081 proof](../research/S081_AXIAL_ORIGINAL_PROJECTION_AND_TORSION_FIBRE.md) and [review](../sessions/S081/REVIEW.md) | INTERNAL SAME_EXECUTOR / GATE HELD |

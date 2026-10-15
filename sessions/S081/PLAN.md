@@ -1,0 +1,3 @@
+# S081 plan and actual scope — 15 October 2026
+
+Attack exact broad-spectrum axial U*=8/8/6 directly on actual original q-supervertices. Derive FULL mod5 E shadow and quotient saturation; prove rank-one q-original impossibility with literal original U-pair cancellation; challenge rank-two projected parity zero-free spectra by building original total-zero labelled 59-index data and try every real H q extension; extract precise torsion-fibre capacity and matching multiplicity no-go. Audit Fano 2048 outsider/splits, non-q signed K, FULL8/exact12/13+/26 hubs, source/phase/campaign. Record hostile same-executor review and PRECOMMIT closeout; queue full S082, not run. No numerical math search, CAS, SAT, or certification. Single root tree authored commit PR ordinary merge.

@@ -303,3 +303,7 @@ Only original-index symbolic group arguments CLM-0276–0277; no mathematical nu
 
 ## S080 campaign non-activation — 15 October 2026
 Only INTERNAL symbolic five-colour group-projection proofs and an explicit parametric H-core zero-free algebraic family/axial obstruction, NOT generated numerical candidates or a search. No mathematical numerical search, orbits, SAT/ILP/CAS, source promotion, historical author code, Lean/Palomar, certified counterexample, tooling, correspondence or publication. CAM-0001 remains PROPOSED/NOT_RUNNING/BLOCKED; 29 sources/30 frontier rows unchanged; Phase1 IN_PROGRESS, Phase2/3 NOT_STARTED; G58 and D20 OPEN. S081 FUTURE only.
+
+
+## S081 no campaign activation — 15 October 2026
+INTERNAL symbolic original-index modular and torsion-fibre proof, plus a deliberately FAILED exact labelled 59-index total-zero model. This is NOT numerical candidate generation or a certified survivor. No mathematical numerical search, orbit computation, CAS/SAT/ILP, historical code, Lean/Palomar, source upgrade or publication. CAM-0001 remains PROPOSED NOT_RUNNING BLOCKED (n6 published value), 29 source/30 original frontier unchanged, Phase1 IN_PROGRESS. S082 FUTURE.

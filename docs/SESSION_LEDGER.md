@@ -309,3 +309,7 @@ CLM-0276–0277 [proof](../research/S079_Q_SLAB_RIGIDITY_AND_FANO_NO_GO.md), [cl
 
 ## S080 — 15 October 2026
 CLM-0278–0281 [S080 proof](../research/S080_FIVE_COLOUR_QUOTIENT_RIGIDITY_AND_AXIAL_ESCAPE.md): sharp five-scalar growth and all-original six-block rigidity with 0∉φ(E), |φ(E)|≤5; actual four original Fano triples force 4b=3b, excluding ALL original canonical lifts of diagonal t1..6 αβ cores. New axial U*=e1^8e2^8e3^6 has φ(E)=φ(H) for every φ and is the honest first spectral escape, NOT an original full-gated T59. [Review](../sessions/S080/REVIEW.md), [closeout](../sessions/S080/CLOSEOUT.md). Claims281/source29/frontier30 unchanged, G58 and D20 OPEN, Phase1 IN_PROGRESS, CI ABSENT_NOT_PASS; S081 FUTURE only. Branch `session/S080-five-colour-spectrum-axial-escape`.
+
+
+## S081 — 15 October 2026
+CLM-0282–0285 [full original-index axial proof](../research/S081_AXIAL_ORIGINAL_PROJECTION_AND_TORSION_FIBRE.md), [review](../sessions/S081/REVIEW.md), [closeout](../sessions/S081/CLOSEOUT.md): mod5 E5 avoids0 but saturates any proper quotient; original 12-supervertex mod5 rank≤1 impossible; genuine 59-original-index total-zero lift of sharp rank-two projected 9a+3b zero-free shadow fails actual q gate at g1,g2+8/4/3 complete pairs; any nine-a original torsion lift exceeds at-most-four fibre cap; any q matching forbids four equal H blocks. No universal U* or D20 result. Claims285, source29/frontier30 fixed, Phase1 IN_PROGRESS, CAM-0001 BLOCKED, CI ABSENT_NOT_PASS; S082 FUTURE. Branch session/S081-axial-projection-original-fibre-cut.
