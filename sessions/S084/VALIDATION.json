@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "session": "S084",
+  "date": "2026-10-15",
+  "entry_main": "4bc7b957ff3cedc979388debcb8ac97c4549e224",
+  "entry_true_root_tree": "fd6114cd4bd31ef99c64031254ca0fd86a9d8862",
+  "s083_merge_parents": [
+    "092806b528c5da36b11d666fb7719d6c989c8393",
+    "3a71b5c0ee8acab35c5c26985deeca2735092f87"
+  ],
+  "precommit": true,
+  "math_review": "INTERNAL_SAME_EXECUTOR_SYMBOLIC",
+  "math_numerical_search": "NOT_PERFORMED",
+  "source_count_preserved": 29,
+  "frontier_original_rows_preserved": 30,
+  "claims_before": 292,
+  "claims_after": 295,
+  "new_claim_ids": [
+    "CLM-0293",
+    "CLM-0294",
+    "CLM-0295"
+  ],
+  "eight_fibre_residual_2_1_1": "ELIMINATED_CONDITIONAL_ORIGINAL_Q",
+  "eight_fibre_residual_four_distinct": "ELIMINATED_CONDITIONAL_ORIGINAL_Q",
+  "axial_halfprojection_max_fibre": 7,
+  "proper_original_index_completion": "PROVED_CONDITIONAL_AXIAL",
+  "universal_twelve_q_no_go": false,
+  "full_s060_gate": false,
+  "G58_zero_sumfree": false,
+  "D_C20_3_eq_58": false,
+  "phase1": "IN_PROGRESS",
+  "campaign": "CAM-0001_BLOCKED",
+  "entry_open_prs": 0,
+  "hosted_actions_runs": 0,
+  "combined_status_contexts": 0,
+  "ci": "ABSENT_NOT_PASS",
+  "rulesets": 0,
+  "main_protection": "UNKNOWN_403",
+  "next": "S085_FUTURE_UNEXECUTED"
+}

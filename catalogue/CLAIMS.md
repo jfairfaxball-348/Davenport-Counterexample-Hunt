@@ -1544,3 +1544,12 @@ Claims285→289, source29/frontier30 untouched. Not complete m0 q impossibility,
 - **CLM-0292 [PROGRAMME_PROVED; INTERNAL]** The four outsiders also cannot split into two doubled cosets of span(y). Full five-case F5 symbolic proof. Thus eightfold residual possibilities left **2+1+1 or four distinct**, still only NECESSARY and neither fully S060-gated survivor nor universal no-go.
 
 Claims289→292, source29/frontier original30 untouched; Phase1 IN_PROGRESS, CAM-0001 BLOCKED, no G58 or D20 theorem, CI ABSENT_NOT_PASS, SAME_EXECUTOR. [S083 review](../sessions/S083/REVIEW.md); S084 FUTURE only.
+
+
+## S084 — 15 October 2026: complete eightfold axial outsider residual elimination
+
+- **CLM-0293 [PROGRAMME_PROVED; INTERNAL; ORIGINAL AXIAL q-only]** An eightfold half-projected true q group fibre cannot leave four horizontal outsiders in multiplicity 2+1+1. All a∈F5 possibilities in u=(3,a), h=v+z are contradicted by the six true outsider pair cross memberships, quartet and actual odd third escape constraints. [Complete original-index proof](../research/S084_AXIAL_EIGHT_FIBRE_COMPLETE_EXCLUSION.md).
+- **CLM-0294 [PROGRAMME_PROVED; INTERNAL]** Four **distinct** outsider residuals likewise impossible: all six pair memberships and quartet force W=(1,2) up to swapping horizontal axes, hence all residual second coordinates3 and distinct first coordinates {0,1,2,3}; the actual w=(2,3) has complementary triple residual W-w=(4,4), both outside cross, violating true total third4.
+- **CLM-0295 [PROGRAMME_PROVED; INTERNAL]** Combining S082 no ninefold, S083 no repeated outsider patterns 4/3+1/2+2 and S084 no 2+1+1/all-distinct yields **maximum projected axial q half-value fibre ≤7** for any q-only-zero-avoiding actual canonical U*=8/8/6 original 59-position total-zero T. Every eightfold failure yields proper actual original G20 indices by the real U* complete-pair completion rule.
+
+Claims292→295; source29/frontier30 UNCHANGED; all twelve-q spectra with max-fibre≤7 and full true H/Fano/split/mixed constraints remain OPEN. This is NOT a G58/D(C20^3)=58 proof or candidate; Phase1 IN_PROGRESS/CAM-0001 BLOCKED/CI ABSENT_NOT_PASS; [S084 hostile review](../sessions/S084/REVIEW.md). **S085 FUTURE ONLY**.

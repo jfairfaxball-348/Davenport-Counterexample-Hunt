@@ -1,0 +1,3 @@
+# S084 INPUT — 15 October 2026
+
+Owner instruction: "Run next session" in the Davenport-Counterexample-Hunt project invokes S084 directly, but not S085. Prior S083 is genuinely merged at 4bc7b957ff3cedc979388debcb8ac97c4549e224; true root tree fd6114cd4bd31ef99c64031254ca0fd86a9d8862; S083 merge parents 092806b528c5da36b11d666fb7719d6c989c8393 and 3a71b5c0ee8acab35c5c26985deeca2735092f87. [Entry authoritative handoff](https://github.com/jfairfaxball-348/Davenport-Counterexample-Hunt/blob/4bc7b957ff3cedc979388debcb8ac97c4549e224/authoritative/NEXT_SESSION_PROMPT.md). Entry open PRs0, hosted Actions runs0, combined status contexts0 ABSENT_NOT_PASS, rulesets0, protection 403 UNKNOWN. No unverifiable owner-prompt hash claimed.

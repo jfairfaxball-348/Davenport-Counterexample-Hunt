@@ -315,3 +315,8 @@ Exact symbolic finite-field original-index q-supervertex proofs CLM-0286–0289,
 
 ## S083 no campaign activation — 15 October 2026
 Only symbolic necessary even/odd original q projection/finite-field residual-coset proofs CLM-0290–0292, not numerical mathematical search, orbit/candidate generation, historical author code, SAT/CAS/ILP, Lean, Palomar, independent certification, source upgrade, outreach or publication. CAM-0001 stays PROPOSED / NOT_RUNNING / BLOCKED by source-stated n6=16. Phase1 IN_PROGRESS no PASS, Phase2/3 NOT_STARTED, Phase4 OWNER_GATED, original sources29/frontier30 unchanged, hosted CI ABSENT_NOT_PASS. S084 FUTURE only.
+
+
+## S084 no campaign activation — 15 October 2026
+
+INTERNAL symbolic canonical axial q-only original-index proofs CLM-0293–0295 exclude all eightfold projected q half-fibres, giving max multiplicity≤7. No numerical mathematical search, generated model/orbits, CAS/SAT/ILP, historical author code, Lean, Palomar, external certification, source promotion, correspondence or publication. CAM-0001 remains PROPOSED / NOT_RUNNING / BLOCKED by n6 historical published value. Phase1 IN_PROGRESS no PASS, Phase2/3 NOT_STARTED, Phase4 OWNER_GATED, original source29/frontier30 preserved, hosted CI ABSENT_NOT_PASS, S085 FUTURE.
