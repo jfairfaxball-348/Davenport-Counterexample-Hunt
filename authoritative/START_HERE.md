@@ -1,3 +1,7 @@
+# S085 CURRENT AUTHORITY — 15 October 2026
+
+[True original axial sevenfold torsion and five-outsider obstruction](../research/S085_SEVEN_FIBRE_TORSION_AND_SIX_ESCAPE.md), CLM-0296–0299: in the canonical source-conditional actual 59-original total-zero U*=8/8/6 setting, any projected q half-value repeated SEVEN times must have third-coordinate **3 mod5** and all seven true modulo20 original q-group third coordinates are the SAME (1 or11). Among its five horizontal outsider residuals, no value can occur four times. Six-repeat nonzero t outsider escape formula also established, NOT elimination. This tightens S084's max fibre≤7 but does NOT eliminate surviving sevenfold t3 or any <=6 spectra. Genuine proper original-index zero completions are explicit whenever a necessary condition fails. Claims299; source29/frontier original30 preserved; Phase1 IN_PROGRESS, CAM-0001 BLOCKED, CI ABSENT_NOT_PASS, INTERNAL SAME_EXECUTOR. No full q/Fano/split/mixed universal proof, G58 or D(C20³)=58. [S085 hostile review](../sessions/S085/REVIEW.md), [future S086 prompt](NEXT_SESSION_PROMPT.md).
+
 # S084 CURRENT AUTHORITY — 15 October 2026
 
 # S084 current checkpoint — 15 October 2026

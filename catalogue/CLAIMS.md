@@ -1553,3 +1553,13 @@ Claims289→292, source29/frontier original30 untouched; Phase1 IN_PROGRESS, CAM
 - **CLM-0295 [PROGRAMME_PROVED; INTERNAL]** Combining S082 no ninefold, S083 no repeated outsider patterns 4/3+1/2+2 and S084 no 2+1+1/all-distinct yields **maximum projected axial q half-value fibre ≤7** for any q-only-zero-avoiding actual canonical U*=8/8/6 original 59-position total-zero T. Every eightfold failure yields proper actual original G20 indices by the real U* complete-pair completion rule.
 
 Claims292→295; source29/frontier30 UNCHANGED; all twelve-q spectra with max-fibre≤7 and full true H/Fano/split/mixed constraints remain OPEN. This is NOT a G58/D(C20^3)=58 proof or candidate; Phase1 IN_PROGRESS/CAM-0001 BLOCKED/CI ABSENT_NOT_PASS; [S084 hostile review](../sessions/S084/REVIEW.md). **S085 FUTURE ONLY**.
+
+
+## S085 — 15 October 2026: sevenfold actual-torsion rigidity and outsider cross
+
+- **CLM-0296 [PROGRAMME_PROVED; INTERNAL; NECESSARY ORIGINAL q]** Seven projected repeats y=(a,b,t) demand t!=0; five outsiders obey parity-exact residual rules: even outsider support outside C forces normalised third sum2, odd outsider support outside C forces1. All-five third sum is 4/t-2, so at t=3 the all-five case has an automatic missing-r escape and W need NOT lie in C. True original witness completion is explicit. [Full proof](../research/S085_SEVEN_FIBRE_TORSION_AND_SIX_ESCAPE.md).
+- **CLM-0297 [PROGRAMME_PROVED; INTERNAL; TRUE H TORSION]** Seven-repeat actual original q groups cannot have t=1,2,4 by four-group binary XOR, two-group ≤4 colours and six-group/paired torsion cuts, respectively. Only t=3 remains, with the SAME actual third coordinate 1 or11 modulo20 on all seven original q groups.
+- **CLM-0298 [PROGRAMME_PROVED; INTERNAL; FIVE OUTSIDERS]** Four outsider horizontal residuals cannot coincide; a five-point affine line meets C in at most two positions while the actual mixed singleton-to-quintuple escape tables require at least three. Residual multiplicity ≤3 (NOT global sevenfold exclusion).
+- **CLM-0299 [PROGRAMME_PROVED; INTERNAL; SIXFOLD SIEVE]** Six projected repeats cannot have t=0; for nonzero t an even outsider sum outside C requires e=2, while odd outside C requires e in {1,3}; this is only a necessary sixfold test.
+
+Claims295→299, original source29 and frontier30 objects unchanged, Phase1 IN_PROGRESS/CAM-0001 BLOCKED, CI ABSENT_NOT_PASS, hostile SAME_EXECUTOR. No all-q no-go, true full H Fano/split/mixed survivor, original G58 or D(C20³)=58. [S085 review](../sessions/S085/REVIEW.md). **S086 FUTURE ONLY.**

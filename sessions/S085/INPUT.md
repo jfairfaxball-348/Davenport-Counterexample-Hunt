@@ -1,0 +1,3 @@
+# S085 INPUT — 15 October 2026
+
+Owner direct invocation "Run next session" authorises S085, not S086. Read the genuine merged S084 main `ea404fd2971a213ffb6398eb5fa8ad68abfaafce`, true root Git tree `7d7415d81b4c2bc3a57aa06b7627f5b68399b47b`, S084 authored `a4b209e2478e9bccd7868400d13a324e04e9f279`, S084 ordinary two-parent merge from `4bc7b957ff3cedc979388debcb8ac97c4549e224` plus that authored commit. Entry open PR0, hosted Actions runs0, combined status contexts0 ABSENT_NOT_PASS, rulesets0, protection403 UNKNOWN. [Exact inherited S085 prompt](https://github.com/jfairfaxball-348/Davenport-Counterexample-Hunt/blob/ea404fd2971a213ffb6398eb5fa8ad68abfaafce/authoritative/NEXT_SESSION_PROMPT.md). No unverifiable mathematical computations or certificates claimed.

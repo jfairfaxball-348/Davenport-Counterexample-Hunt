@@ -3038,6 +3038,42 @@
       "origin": "research/S084_AXIAL_EIGHT_FIBRE_COMPLETE_EXCLUSION.md",
       "source_ids": [],
       "notes": "S084 INTERNAL SAME_EXECUTOR conditional axial necessary obstruction only; <=7 projected spectra, all H/Fano/2048/q-split/non-q signed, arbitrary U22 and D20 remain OPEN; sources29/frontier30 unaffected."
+    },
+    {
+      "id": "CLM-0296",
+      "statement": "In canonical actual G=C20^3 total-zero 59-original axial U*=e1^8 e2^8 e3^6 with seven identical half-projected true q groups y=(a,b,t) and five outsider groups, t=0 impossible by pure 2/4/6 projected supports; for t!=0 put w_i=b_i,h-(d_i/t)(a,b), e_i=d_i/t in F5. If nonempty outsider J has w_J outside C={x1=1 or x2=1}, then e_J=2 for even |J|=2,4 and e_J=1 for odd |J|=1,3,5, or a physically parity-matched r among seven repeated ORIGINAL q groups gives proper G zero after completing indexed full U* original pairs. Sum e_i=4/t-2, so t3 gives sum e_i=1 and imposes NO W-in-C condition for all-five outsiders.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S085_SEVEN_FIBRE_TORSION_AND_SIX_ESCAPE.md",
+      "source_ids": [],
+      "notes": "S085 INTERNAL SAME_EXECUTOR symbolic necessary indexed q-only projection; full12 exception checked; no independent verification."
+    },
+    {
+      "id": "CLM-0297",
+      "statement": "Under the same actual canonical axial original q-only no-proper-zero hypothesis, if seven genuine q supervertices share half-projection y=(a,b,t) in F5^3, then t=3. t=1 excluded by a four-index zero-XOR among seven binary horizontal torsion colours (dimension≤2); t=2 by at most four pairwise-different horizontal colours at the pair E gate; t=4 by one-coordinate seven six-deletion XOR contradiction or, if both horizontal y=1, equal third torsion from pair gate and invalid fourfold H third6. For t=3 an unrescued size r=2,4 or6 pure-repeat H third test forces all seven 10-torsion third bits identical, so all seven ACTUAL original q-group third coordinates equal1 or all11 modulo20.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S085_SEVEN_FIBRE_TORSION_AND_SIX_ESCAPE.md",
+      "source_ids": [],
+      "notes": "S085 INTERNAL SAME_EXECUTOR; uses true modulo20 original q group values and full H E, only pure-repeat original indexed supports. Does not eliminate t3."
+    },
+    {
+      "id": "CLM-0298",
+      "statement": "For seven projected-equal actual canonical axial q groups and five outsider groups, four outsider horizontal residuals cannot coincide. If four residuals u lie in C, their genuine pair/triple/quad escape requirements contradict each other. If u outside C, their third normalisations all1 force 3u,4u in C, yielding u=(2,4) or(4,2); then for fifth outsider v at least three of the five true subset residuals v+k u (k=0..4) must lie in C, while a nonzero-slope affine five-point line hits the two affine coordinate cross lines at most twice. Every failure produces a literal proper ORIGINAL indexed G zero with full U* pair endpoints. Therefore residual outsider multiplicity <=3, not a sevenfold no-go.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S085_SEVEN_FIBRE_TORSION_AND_SIX_ESCAPE.md",
+      "source_ids": [],
+      "notes": "S085 INTERNAL SAME_EXECUTOR necessary original q-only obstruction; no computer enumeration or lift model."
+    },
+    {
+      "id": "CLM-0299",
+      "statement": "For six projected-equal actual canonical axial q groups, t=0 is impossible by pure 2/4/6 supports; if t!=0 and six outsider residual horizontal vectors w_i and normalised thirds e_i are defined, then w_J outside C for a nonempty even outsider support J implies e_J=2, while for odd J it implies e_J in {1,3}, since physically available repeated counts are {0,2,4,6} even and {1,3,5} odd. The outsider total e=4/t-1. Any violation yields a proper original G zero by true group selection and indexed U* pairs; the full12 third4 exception is respected. These are necessary, not sixfold exclusion.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S085_SEVEN_FIBRE_TORSION_AND_SIX_ESCAPE.md",
+      "source_ids": [],
+      "notes": "S085 INTERNAL SAME_EXECUTOR six-repeat analytic forward gate only; sixfold configurations remain OPEN."
     }
   ]
 }
