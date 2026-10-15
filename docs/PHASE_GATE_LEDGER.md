@@ -297,3 +297,8 @@ S069 CLM-0247 additional verified symbolic condition: TRUE four Fano projections
 
 ## S083 Phase1 gate — 15 October 2026
 **HOLD IN_PROGRESS, NO PASS.** In real original axial T59 with U*=e1^8e2^8e3^6, CLM-0290 exact eightfold projected third/parity outsider escape and CLM-0291/0292 rule out three coincident outsider cosets and 2+2, with true proper G20 original pair-completion witnesses. E5 necessity is NOT sufficiency: eightfold 2+1+1/four-distinct, all<=7, true H torsion E, four SAME-original Fano/2048, q endpoint E(U\\I), mixed signed K, full8/exact12/13+/all26 hubs/P26 remain open. No G58 or D20; claims292/source29/frontier30, phases2/3 NOT_STARTED, Phase4 OWNER_GATED, CAM-0001 BLOCKED, hosted CI ABSENT_NOT_PASS, INTERNAL SAME_EXECUTOR, S084 FUTURE.
+
+
+## S084 Phase1 gate — 15 October 2026
+
+**HOLD IN_PROGRESS, NO PASS.** CLM-0293–0295 eliminate eightfold outsider residual partitions 2+1+1 and four-distinct using exactly the original S083 cross/odd escape calculus and physically real full-pair U* cancellation. Combined with S082/S083, canonical axial U*=e1^8e2^8e3^6 q-only-compatible twelve actual q groups must have projected half-value max multiplicity≤7. However max7-and-below projected twelve-group spectra with true c5 sum (2,2,4), full E(U*) torsion, SAME-six ORIGINAL Fano quartet/2048, q E(U\\I), non-q signed witnesses, all 26 hubs/P26 and arbitrary U22 remain OPEN. No 59-gate survivor, G58 candidate or D(C20^3)=58. Claims295, sources29, original frontier30 unchanged; Phase2/3 NOT_STARTED, Phase4 OWNER_GATED, CAM-0001 BLOCKED, hosted CI ABSENT_NOT_PASS, INTERNAL SAME_EXECUTOR, S085 FUTURE.

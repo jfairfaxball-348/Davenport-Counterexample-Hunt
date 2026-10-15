@@ -321,3 +321,8 @@ CLM-0286–0289 [original-index axial proof](../research/S082_AXIAL_THREE_VECTOR
 
 ## S083 — 15 October 2026
 CLM-0290–0292 [complete original eightfold proof](../research/S083_EIGHT_FIBRE_OUTSIDER_ESCAPE_AND_CLUSTER_EXCLUSION.md), [review](../sessions/S083/REVIEW.md), [PRECOMMIT closeout](../sessions/S083/CLOSEOUT.md): exact even/odd projected third-cancellation outsider gate and literal proper G20 original U-pair completions exclude outsider coset patterns 4/3+1/2+2 for any eightfold repeated q projection. Remaining 2+1+1/four-distinct and all<=7 spectra unproved, no fully S060-gated T59/G58/D20 equality. Phase1 IN_PROGRESS claims292, source29/frontier30 unchanged, CAM-0001 BLOCKED, CI ABSENT_NOT_PASS; S084 FUTURE. Branch session/S083-eight-fibre-outsider-rigidity.
+
+
+## S084 — 15 October 2026
+
+CLM-0293–0295 [complete original-index axial eightfold exclusion](../research/S084_AXIAL_EIGHT_FIBRE_COMPLETE_EXCLUSION.md), [hostile SAME_EXECUTOR review](../sessions/S084/REVIEW.md), [PRECOMMIT closeout](../sessions/S084/CLOSEOUT.md). S083's last two eightfold residual patterns 2+1+1 and all-distinct each violate exact necessary original outsider cross/third escape gates. **No projected half-value fibre of eight or more can occur** in a q-only-zero-free axial canonical original T59; any violation has explicit proper original index-set-form zero via real disjoint q groups and complete U* pairs. Full projected max7 spectra, actual H/Fano/2048/q-splits/mixed/26 hubs and arbitrary U22 unproved; no G58 or D20 equality. Claims295/source29/frontier30 unchanged, Phase1 IN_PROGRESS, CAM-0001 BLOCKED, hosted CI ABSENT_NOT_PASS, S085 future. Branch session/S084-axial-eight-fibre-complete-exclusion.

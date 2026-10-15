@@ -3011,6 +3011,33 @@
       "origin": "research/S083_EIGHT_FIBRE_OUTSIDER_ESCAPE_AND_CLUSTER_EXCLUSION.md",
       "source_ids": [],
       "notes": "S083 INTERNAL SAME_EXECUTOR symbolic original-index necessary canonical axial m0 q-only proof; no mathematical search/independent certification. Not full S060 gated T59, no G58 or D(C20^3)=58 proof."
+    },
+    {
+      "id": "CLM-0293",
+      "statement": "In an actual source-conditional total-zero canonical C20^3 59-original axial U*=e1^8 e2^8 e3^6 configuration with eight equal half-projected q-group values and no proper q-only original zero, the remaining four horizontal residuals cannot have multiplicity pattern 2+1+1. A complete hand F5 case analysis of u,u,v,z, 2u in the cross, pair/quartet cross and S083 odd missing-residue third tests yields contradiction in every a in F5; violating tests give literal proper G zeros using both original members of indexed U* pairs.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S084_AXIAL_EIGHT_FIBRE_COMPLETE_EXCLUSION.md",
+      "source_ids": [],
+      "notes": "S084 INTERNAL SAME_EXECUTOR symbolic original-index necessary axial q-only proof. No numerical search/independent certificate. Not full m0 twelve-q no-go, Fano/q-split/mixed G58 or D(C20^3)=58."
+    },
+    {
+      "id": "CLM-0294",
+      "statement": "In the same eightfold actual original axial q-group setting, the four outsider residual vectors cannot all be distinct. Pair/complement cross conditions and W in the cross force W=(1,2) up to coordinate swap and all four residual seconds=3; their four distinct first coordinates must be {0,1,2,3}, so w=(2,3) and W-w=(4,4) are both outside the cross, impossible under the actual total third4 odd singleton/triple missing-residue rule. A forced forbidden third-zero even support produces a genuine proper original-index G20 zero.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S084_AXIAL_EIGHT_FIBRE_COMPLETE_EXCLUSION.md",
+      "source_ids": [],
+      "notes": "S084 INTERNAL SAME_EXECUTOR, symbolic. Repeated x pigeonhole at W2!=2 checks all possibilities; no numerical search. Only necessary canonical axial original q-only scope."
+    },
+    {
+      "id": "CLM-0295",
+      "statement": "For canonical source-conditional actual 59-original G=C20^3 total-zero T with axial H pair core U*=e1^8e2^8e3^6, every true q-only-compatible twelve disjoint original q-supervertex half-projection spectrum in C5^3 has fibre multiplicity at most SEVEN: S082 excludes >=9, S083 excludes eightfold residual patterns 4/3+1/2+2, S084 excludes 2+1+1/all-distinct. Any eightfold projected fibre yields an actual proper original G zero via true labelled q supports plus selected complete indexed U* original pairs.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S084_AXIAL_EIGHT_FIBRE_COMPLETE_EXCLUSION.md",
+      "source_ids": [],
+      "notes": "S084 INTERNAL SAME_EXECUTOR conditional axial necessary obstruction only; <=7 projected spectra, all H/Fano/2048/q-split/non-q signed, arbitrary U22 and D20 remain OPEN; sources29/frontier30 unaffected."
     }
   ]
 }
