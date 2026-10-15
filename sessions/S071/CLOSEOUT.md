@@ -1,0 +1,11 @@
+# S071 — PRECOMMIT closeout (15 October 2026)
+
+**Authority and entry:** owner invoked "Run next session" in Davenport project, live main 7373c4810b8f873d603abf2fdd1e97371ee6b53d, actual root git TREE 27e3fceecc1ff4144ef7939d1bcb56d3f4f98438, previous S070 ordinary two-parent PR#72 merge (parents dae8d0a934e423be327e5e018fe76fc7d4ec5c1c and ce3fe7df2681f1cc290b7fff92c5f0887e39648a). No open PR. Combined statuses[], check runs[], actions[] all ABSENT_NOT_PASS; branch protection403 UNKNOWN; rulesets []. One future S072 prompt written but S072 NOT executed.
+
+**Mathematics:** [detailed S071 proof](../../research/S071_QUOTIENT_SINGLETON_STRATA_AND_MIXED_TRIANGLES.md) CLM-0252–0254. Exact all-original singleton signature quotient Phi(M)=R(h), only two status patterns per mask; sharp Fano mask kernel forces **m2 all-three-Fano triangle IMPOSSIBLE** even when abstract exact12 genuine torsion witnesses exist (these must be MIXED singleton supports); and true cross-mask XOR always grouped h000 or Fano h111, with only h111 automatically proper. This is a real support-selection obstruction, not a proof that exact12 cannot occur.
+
+**Direct proof mission verdict:** NO forced lambda_G(sum X)=0, pi(sum K)=0, majority fourth-mask torsion, proper grouped X, global FULL8/13+/26-hub contradiction, fully labelled true S060-gated 59-term hostile sequence, 58-term zero-sumfree witness, or D(C20³)=58 proof. The missing bridge is a mixed singleton *support-type switching and mod5 carry* theorem. Three even-Fano representatives cannot be assumed in m2.
+
+**Governance:** claims251→254 in JSON/MD, all29 sources and immutable30 original frontier JSON rows untouched. Phase1 IN_PROGRESS; Phase2/3 NOT_STARTED; Phase4 OWNER_GATED; CAM-0001 BLOCKED/NOT_RUNNING. No numerical mathematical search, generated models, source upgrade, CAS/SAT/ILP, historical code, Lean/Palomar, certificate or external correspondence. Review INTERNAL SAME_EXECUTOR; CI ABSENT_NOT_PASS and protection UNKNOWN403. Git root/tree branch authored atomic commit and ordinary two-parent merge to be verified separately; this PRECOMMIT file does not invent post-merge SHA or checks.
+
+**Next:** FULL S072 future-only prompt in authoritative/NEXT_SESSION_PROMPT.md. Distinct owner instruction required to execute S072.

@@ -2638,6 +2638,33 @@
       "origin": "research/S070_MAJORITY_ZERO_COLOUR_TRIANGLE.md",
       "source_ids": [],
       "notes": "S070 INTERNAL same-executor original-index finite-group proof; scoped conditional canonical G59/S060 hypotheses, not a universal n20 theorem or numerical candidate."
+    },
+    {
+      "id": "CLM-0252",
+      "statement": "For any actual original C20^3 canonical subset Z, its non-q split mask M and original three-singleton-coset split signature h satisfy [pi(sum Z)] mod<q> = Phi(M)+R(h) in Q/<q>, where Phi(M)=sum_(i in M)[t_i] and R(h)=sum h_j[r_j]. An actual G[2] witness forces Phi(M)=R(h), with exactly two possible h differing by111; Phi=0 permits grouped000 or all-split Fano111, nonzero Phi requires one-split/two-split mixed singleton patterns. Exact quotient necessity, not full mod5 existence.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S071_QUOTIENT_SINGLETON_STRATA_AND_MIXED_TRIANGLES.md",
+      "source_ids": [],
+      "notes": "S071 internal actual-original parity proof; no fully gated canonical model, universal C20 theorem, or numerical search."
+    },
+    {
+      "id": "CLM-0253",
+      "statement": "True G[2] witnesses selecting one original singleton of each of the three q-coset pairs (Fano transversals) require non-q mask M in ker(Phi). Every non-q t_i has nonzero quotient class in Q/<q>; hence dim ker(Phi)=m-rank(Phi). A,B,A△B all Fano-compatible needs dim>=2; IMPOSSIBLE for m<=2. In m2 distinct t classes no nonempty Fano-compatible masks; same classes allow only {1,2}. For m3 a Fano-mask triangle is parity-admissible only if all three classes coincide, with 2-element masks. Equivalently the three class multiplicity parities on M must all match. This bars the all-even-Fano selection route, NOT actual exact12.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S071_QUOTIENT_SINGLETON_STRATA_AND_MIXED_TRIANGLES.md",
+      "source_ids": [],
+      "notes": "S071 actual quotient kernel theorem, m2 strong structural no-go for S071 specific bridge; full original G59 feasibility and mod5 carry remain unproved."
+    },
+    {
+      "id": "CLM-0254",
+      "statement": "For ANY true G[2] witness triple of non-q masks A,B,C=A△B, including mixed singleton-supported witnesses, original XOR X has no non-q splits and original singleton coset-pair split signature h_X=h_A⊕h_B⊕h_C is necessarily 000 or111. h_X=000 is grouped and subject to q-hub matching original gate if X proper; h_X=111 is a genuine original singleton Fano transversal, automatically proper and subject to S060 q-split E(U\\J_X) gate (odd epsilon by complement). Colour-zero exact12 does not force branch111 or lambda(sum X)=0 or pi(sum majority K)=0; complement preserves h and cannot select the branch.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S071_QUOTIENT_SINGLETON_STRATA_AND_MIXED_TRIANGLES.md",
+      "source_ids": [],
+      "notes": "S071 genuine original-index XOR quotient dichotomy; no forced zero sum / G58 candidate; internal same-executor only."
     }
   ]
 }

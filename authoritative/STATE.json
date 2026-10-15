@@ -24,13 +24,14 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S070",
-  "recommended_next_session": "S071",
+  "last_completed_session": "S071",
+  "recommended_next_session": "S072",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": null,
   "phase1_target_status": "WITHHELD_NO_REPLACEMENT_CAMPAIGN",
   "open_blockers": [
+    "S071 CLM-0252–0254: ACTUAL singleton-coset split quotient signature Phi(M)=R(h) is mandatory for any G[2] non-q-mask witness. Fano support iff Phi(M)=0; for m<=2 a THREE-mask A,B,A△B all-Fano original triangle is IMPOSSIBLE, and in m2 distinct [t_i] all nonempty masks demand one/two mixed singleton patterns. Any true cross-mask XOR has singleton split signature 000 grouped or111 transversal (proper), but zero-colour selection does NOT force 111, C5-zero XOR or even majority. Fully original mixed-support carry remains OPEN; FULL8/12+/26 hubs/P26 not solved, no G58 or D20 theorem.",
     "S070 CLM-0248–0251: exact ORIGINAL cross-mask weighted W=2sum majority K; genuine exact12 D_A=a+L,D_B=b+L,D_C=a+b+L permits actual zero-colour vA+vB+vC=0 witness selection BUT neither proper Fano XOR nor projected C5-zero and even majority is forced. For any proper zero-colour q-only X, mod5-zero X demands a nonzero order-two X and odd order-four K; even K would give a forbidden zero. Torsion majority with new non-q mask E would contradict exact12 but is not forced. Fixed triangle W is invariant under non-q 10theta paired gauge. FULL8, exact12, 13/14/15+, all 26 hubs and P26 unresolved; no G59 hostile fully q-gated or D20 proof.",
     "S069 CLM-0244–0247: same-full-I even Fano-XOR q-hub regrouping; anchored projected-zero U block fibre requires disjointness/monochromatic pair selection; cross-non-q-mask even Fano triangle transports to exact original q-only E(U\\\\J_X) but its weighted carry W equality is NOT forced. New CLM-0247: coincident four-Fano mod5 projections IFF all three genuine singleton swaps k_i=Y_i−X_i satisfy 2k_i=10q in C20³, then Delta12+Delta13+Delta23=q and common mod5 colour=4lambda(C), but S060 does NOT force these order-four equations. No universal FULL8/12+/large-cover conflict or fully q-gated hostile G59; alternate P26 and 26 hubs remain open.",
     "S068 CLM-0241–0243: true original split endpoint 10d direction fixed by rho(u)+t; genuine same-I/alpha/R0/B Fano shared C5 projection plus one torsion witness forces four TRUE D_M values with differences Delta, and rank3 Delta requires ≥one extra danger per supported aligned12 subcover mask (N>=12+s); BUT S060 does not force common projection/support/rank3 or danger budget. All even-order XORs within one full8 endpoint-flip orbit are empty or NONZERO complete-U pair unions, so this collision route is provably futile. Need CROSS-orbit/mask true original carries or full 59-label q-gated hostile construction. Full8, exact12/13/14/15+, all hubs/P26 remain OPEN; no D20 proof/G58.",
@@ -338,7 +339,7 @@
     "owner_blocker": false,
     "historical_dependency_reconciled": "S004 CLM-0068 / S005 sufficient conditional base5p-2 bypass restored and strengthened one position"
   },
-  "current_research_priority": "S069: force a TRUE cross-I non-q triangular original overlap W=10(v_A+v_B+v_C) with A△B△C=0 and exact q-Fano epsilon_X, J_X, gamma, R_X, E(U\\\\J_X), or provide ALL 59 labelled total-zero S060 q-only-gate hostile values and first non-q proper zero/complement. Same-I even XOR is q-hub protected; projected-zero block fibres require split-disjoint monochromatic B compatibility. Full8/12+/15+ and all profiles OPEN. Explicitly test CLM-0247 original order-four singleton swap equations without assuming they are forced.",
+  "current_research_priority": "S072: true mixed-singleton quotient strata / zero-colour original XOR h=111 and full mod5/majority parity carry; full8/12+/26 hubs remain.",
   "s040_result": {
     "claims": [
       "CLM-0148",
@@ -1002,5 +1003,28 @@
     "frontier_rows_unchanged": 30,
     "CI": "ABSENT_NOT_PASS",
     "review": "INTERNAL_SAME_EXECUTOR"
+  },
+  "s071_result": {
+    "date": "2026-10-15",
+    "claims": [
+      "CLM-0252",
+      "CLM-0253",
+      "CLM-0254"
+    ],
+    "quotient_signature": "PROVED_ORIGINAL",
+    "fano_kernel": "PROVED_M_LE_2_NO_TRIANGLE",
+    "mixed_xor_dichotomy": "PROVED_GROUPED_OR_FANO",
+    "m2_mixed_signatures": "EXACT_NECESSARY_PARITY",
+    "full_g59_hostile_model": false,
+    "full_G_zero_forced": false,
+    "global_D_C20_cube_equals58": false,
+    "G58_zero_sumfree_candidate": false,
+    "claims_total": 254,
+    "sources_unchanged": 29,
+    "original_frontier_rows_unchanged": 30,
+    "phase1": "IN_PROGRESS",
+    "hosted_ci": "ABSENT_NOT_PASS",
+    "review": "INTERNAL_SAME_EXECUTOR",
+    "next": "S072 FUTURE_UNEXECUTED"
   }
 }

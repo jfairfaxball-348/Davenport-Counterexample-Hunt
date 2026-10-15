@@ -1424,3 +1424,12 @@ Claims243→247; source records29 unchanged, first28 objects and original30 fron
 - **CLM-0251 [PROGRAMME_PROVED; INTERNAL]** Original non-q 10θ double-endpoint gauge preserves every fixed triangle carry and zero-colour sum; gauge tuning does NOT force equality.
 
 Claims247→251, source records29 and original30 frontier rows unchanged, no fully S060-gated total-zero hostile G59, no G58 zero-free example, no D(C20³)=58 theorem, Phase1 IN_PROGRESS and CI ABSENT_NOT_PASS. The missing proof is now forcing a proper ACTUAL zero-colour cross-mask triangle with projected-zero XOR and majority-even parity (or a real torsion majority fourth mask), not merely selecting formal danger colours.
+
+
+## S071 — 15 October 2026: exact mixed-singleton signature and m2 three-Fano impossibility
+
+- **CLM-0252 [PROGRAMME_PROVED; INTERNAL]** Every actual original subset Z has quotient signature [pi(sum Z)] mod<q>=Phi(M(Z))+R(h(Z)). True torsion forces Phi=R; for each mask there are EXACTLY two possible three-coset singleton split signatures (grouped/Fano when Phi=0, one-vs-two mixed when Phi≠0). Full [proof](../research/S071_QUOTIENT_SINGLETON_STRATA_AND_MIXED_TRIANGLES.md).
+- **CLM-0253 [PROGRAMME_PROVED; INTERNAL]** Fano-supported non-q torsion witness mask M must lie in ker(Phi). Since each non-q [t_i] is nonzero, three independent nonempty masks A,B,A△B cannot all have Fano witnesses when m≤2. m3 is possible at parity level only when all [t_i] coincide. In m2 exact12, singleton masks cannot have original Fano torsion witnesses. NOT an exact12 elimination.
+- **CLM-0254 [PROGRAMME_PROVED; INTERNAL]** Any three true torsion witnesses of masks A,B,A△B, including mixed original singleton selections, have q-only original XOR X with singleton signature 000 (grouped) or111 (true Fano, automatically proper). S060 protects any proper zero of either kind; exact12 zero-colour does NOT force Fano branch, lambda_G(sum X)=0 or even majority. Full original-index proof above.
+
+Claims251→254. All29 source objects and original30 frontier row objects unchanged; no SOURCE_STATED promotion. No full q-gated original hostile G59, G58 zero-free example, D(C20³)=58 proof, Phase1 PASS or hosted CI PASS. S072 FUTURE/UNEXECUTED.
