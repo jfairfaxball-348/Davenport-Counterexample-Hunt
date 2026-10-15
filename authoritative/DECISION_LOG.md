@@ -325,3 +325,6 @@ Owner direct invocation exactly S079 on prior merged a57fe97fd7a79cefc1275c70b87
 
 
 | 2026-10-15 | S082 original axial E5 slab 2k test and F5² three-vector cross lemma establish universal nine-same-projection q-group no-go for any original torsion lift/outsider triple; real proper original zero is obtained and full support excluded by c5 third4. S081 partial 59 dataset has 30-index explicit original zero, improving earlier 32. Still NO universal 12-q no-go, S060/Fano/split/mixed bridge, G58/D20; Phase1 HOLD claims289/source29/frontier30, no mathematical search/CI PASS; S083 FUTURE ONLY | [S082 proof](../research/S082_AXIAL_THREE_VECTOR_CROSS_AND_NINE_FIBRE_EXCLUSION.md), [hostile review](../sessions/S082/REVIEW.md) | GATE HELD / INTERNAL SAME_EXECUTOR |
+
+
+| 2026-10-15 | S083 actual eightfold axial original q group outsider horizontal escape calculus CLM-0290 and exact 3+1/4 and 2+2 residual coset exclusions CLM-0291–0292; remaining eightfold 2+1+1/four-distinct and <=7 fibres UNRESOLVED. No universal m0 no-go, real Fano/2048/q-split/mixed proof, G58 or D20 theorem. Phase1 HOLD 292 claims/source29/frontier30, no search/CI PASS. S084 FUTURE ONLY | [S083 complete original-index proof](../research/S083_EIGHT_FIBRE_OUTSIDER_ESCAPE_AND_CLUSTER_EXCLUSION.md), [hostile review](../sessions/S083/REVIEW.md) | GATE HELD / INTERNAL SAME_EXECUTOR |

@@ -1535,3 +1535,12 @@ Claims277→281; original source29/frontier30 objects untouched. Phase1 IN_PROGR
 - **CLM-0289 [PROGRAMME_PROVED; INTERNAL; EXPLICIT FAILED MODEL]** S081's partial actual G59 model has a smaller **30-original-index** proper zero: V1+V2+8 full e1 pairs+5 full e3 pairs, where V1,V2 are four ACTUAL singleton originals. No globally minimality claim.
 
 Claims285→289, source29/frontier30 untouched. Not complete m0 q impossibility, S060 outsider/split/mixed gates OPEN, rank-three Davenport D20 UNPROVED, Phase1 IN_PROGRESS, CI ABSENT_NOT_PASS, SAME_EXECUTOR. S083 FUTURE only.
+
+
+## S083 — 15 October 2026: eightfold outsider residual rigidity
+
+- **CLM-0290 [PROGRAMME_PROVED; INTERNAL; NECESSARY ORIGINAL AXIAL]** Exact parity-matched r of eight repeat q groups: six horizontal outsider pair sums and quartet sum must belong to affine F5² cross, while each odd outsider singleton/triple sum outside cross can escape third-zero only if its actual third sum equals t. Complementary odd witnesses cannot both escape by the full c5 third4 identity. Actual indexed full U-pair cancellation supplies literal proper original G zeros. [Full proof](../research/S083_EIGHT_FIBRE_OUTSIDER_ESCAPE_AND_CLUSTER_EXCLUSION.md).
+- **CLM-0291 [PROGRAMME_PROVED; INTERNAL]** In any eightfold projected q fibre, three outsiders in one coset of span(y) cannot occur, including four equal residuals. Complete in/out-cross odd/even proof, arbitrary original mod20 lifts.
+- **CLM-0292 [PROGRAMME_PROVED; INTERNAL]** The four outsiders also cannot split into two doubled cosets of span(y). Full five-case F5 symbolic proof. Thus eightfold residual possibilities left **2+1+1 or four distinct**, still only NECESSARY and neither fully S060-gated survivor nor universal no-go.
+
+Claims289→292, source29/frontier original30 untouched; Phase1 IN_PROGRESS, CAM-0001 BLOCKED, no G58 or D20 theorem, CI ABSENT_NOT_PASS, SAME_EXECUTOR. [S083 review](../sessions/S083/REVIEW.md); S084 FUTURE only.

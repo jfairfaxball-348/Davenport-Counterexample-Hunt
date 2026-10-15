@@ -24,8 +24,8 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S082",
-  "recommended_next_session": "S083",
+  "last_completed_session": "S083",
+  "recommended_next_session": "S084",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": null,
@@ -355,7 +355,7 @@
     "owner_blocker": false,
     "historical_dependency_reconciled": "S004 CLM-0068 / S005 sufficient conditional base5p-2 bypass restored and strengthened one position"
   },
-  "current_research_priority": "S078: directly resolve S077 same-index four ORIGINAL Fano P<=11 common-residual inverse together with S060 original q one/multisplits and signed actual mixed-non-q Fano fibres; no numerical search, no source D3 certification, no independent Fano slot fabrication.",
+  "current_research_priority": "S084: resolve eightfold axial q outsider residual multiplicities 2+1+1 and all-distinct (S083 CLM-0290 escape calculus), then max-fibre<=7, true original S060 Fano/split/mixed gates; avoid projected-only survivor claims.",
   "s040_result": {
     "claims": [
       "CLM-0148",
@@ -1237,5 +1237,39 @@
     "sources": 29,
     "frontier_original": 30,
     "hosted_CI": "ABSENT_NOT_PASS"
+  },
+  "s083_result": {
+    "date": "2026-10-15",
+    "entry_main": "092806b528c5da36b11d666fb7719d6c989c8393",
+    "entry_true_git_root_tree": "96011577de55d5424dee9680deaa64f52216b11d",
+    "claims": [
+      "CLM-0290",
+      "CLM-0291",
+      "CLM-0292"
+    ],
+    "proof": "research/S083_EIGHT_FIBRE_OUTSIDER_ESCAPE_AND_CLUSTER_EXCLUSION.md",
+    "eight_fibre_residual_forbidden": [
+      "4",
+      "3+1",
+      "2+2"
+    ],
+    "eight_fibre_residual_open": [
+      "2+1+1",
+      "1+1+1+1"
+    ],
+    "seven_or_less_open": true,
+    "all_m0_q_gate": "UNRESOLVED",
+    "full_S060_gate": "UNRESOLVED",
+    "zero_free_G58": false,
+    "D_C20_3_eq58": false,
+    "source_objects_unchanged": 29,
+    "frontier_original_rows_unchanged": 30,
+    "claims_total": 292,
+    "phase1": "IN_PROGRESS",
+    "CAM": "CAM-0001_BLOCKED",
+    "review": "INTERNAL_SAME_EXECUTOR",
+    "CI": "ABSENT_NOT_PASS",
+    "protection": "UNKNOWN_403",
+    "next": "S084_FUTURE_UNEXECUTED"
   }
 }

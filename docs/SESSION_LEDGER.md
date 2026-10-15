@@ -317,3 +317,7 @@ CLM-0282–0285 [full original-index axial proof](../research/S081_AXIAL_ORIGINA
 
 ## S082 — 15 October 2026
 CLM-0286–0289 [original-index axial proof](../research/S082_AXIAL_THREE_VECTOR_CROSS_AND_NINE_FIBRE_EXCLUSION.md), [review](../sessions/S082/REVIEW.md), [closeout](../sessions/S082/CLOSEOUT.md): exact E5 repeated 2k sum test, F5² cross lemma, ANY 9 of 12 identical projected original q groups impossible via constructive proper G20 zero and full-set exception, all other 3 values/torsion arbitrary. S081 partial model has smaller 30 ORIGINAL index zero V1+V2+8e1+5e3 full pairs. NOT full 12-q no-go or S060 survivor. Claims289/source29/frontier30 unchanged, Phase1 IN_PROGRESS/CAM blocked/CI ABSENT_NOT_PASS. S083 future only; branch `session/S082-axial-three-vector-cross-fibre-no-go`.
+
+
+## S083 — 15 October 2026
+CLM-0290–0292 [complete original eightfold proof](../research/S083_EIGHT_FIBRE_OUTSIDER_ESCAPE_AND_CLUSTER_EXCLUSION.md), [review](../sessions/S083/REVIEW.md), [PRECOMMIT closeout](../sessions/S083/CLOSEOUT.md): exact even/odd projected third-cancellation outsider gate and literal proper G20 original U-pair completions exclude outsider coset patterns 4/3+1/2+2 for any eightfold repeated q projection. Remaining 2+1+1/four-distinct and all<=7 spectra unproved, no fully S060-gated T59/G58/D20 equality. Phase1 IN_PROGRESS claims292, source29/frontier30 unchanged, CAM-0001 BLOCKED, CI ABSENT_NOT_PASS; S084 FUTURE. Branch session/S083-eight-fibre-outsider-rigidity.
