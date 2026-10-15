@@ -2791,6 +2791,37 @@
       "origin": "research/S076_OUTSIDER_HYPERPLANE_AND_Q_SPLIT_QUOTIENT.md",
       "source_ids": [],
       "notes": "S076 INTERNAL proper-atom exception and original q multi-split quotient theorem; uses established classical D(C5²)=9 and programme prime D(C5³)=13, no source proof promotion."
+    },
+    {
+      "id": "CLM-0269",
+      "statement": "For any full-original S060-gated source-conditional C20³ T59 and any true pairing of its eight q-g outsiders, W26=22 indexed full original pair H blocks plus four genuine two-g H blocks is H-zero-sumfree. CONDITIONAL on historically SOURCE_STATED SRC-0015 D3(C5³)=25, for any prescribed W index z, three index-disjoint nonempty lambda-zero W subsets exist among the other 25; their ACTUAL nonzero 5Q H sums form a full independent F2³ basis. Their common residual R containing z is projected-zero-sumfree. No signed Fano K occupancy or original zero follows.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S077_COMMON_FANO_RANK_THREE_PACKING.md",
+      "source_ids": [
+        "SRC-0015"
+      ],
+      "notes": "S077 INTERNAL source-conditional original W26 threefold projected packing; D3 numerical premise SOURCE_STATED and unauthenticated, only implication proved."
+    },
+    {
+      "id": "CLM-0270",
+      "statement": "For the SAME W26 triple-packing and its residual R, all FOUR ACTUAL parity-even Fano three-singleton transversals x_eps and their genuine complementary four-singleton blocks y_eps form minimally zero-sum projected sequences lambda(R),lambda(x_eps),lambda(y_eps); hence 1<=|R|<=11, lambda(x_eps),lambda(y_eps) lie in SAME E5(R), and each pair sums -lambda(sum R). The four x_eps ALSO satisfy their original same-six-singleton full H C and mod2 Delta equations. Packing existence relies SOURCE_STATED D3(C5³)=25, while the four-completion implication is direct original-index proof. No universal inverse impossibility is claimed.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S077_COMMON_FANO_RANK_THREE_PACKING.md",
+      "source_ids": [
+        "SRC-0015"
+      ],
+      "notes": "S077 INTERNAL SAME-original Fano quartet projected residual <=11; proper original block proof, historical D3 premise not source-certified."
+    },
+    {
+      "id": "CLM-0271",
+      "statement": "At the |R|=11 boundary of CLM-0270, any two distinct FORMAL completion occurrences among eight projected x_eps/y_eps values satisfy -(v+w) in indexed Sigma5(R), proper representation if v+w differs from c_R; cross-eps positions are NOT disjoint real singleton originals. Explicit ORIGINAL singleton values X1=e2,X2=e3,X3=-e2+e3,Yi=Xi+5e1 and eight g=e1 in G=C20³ have all four coupled TRUE even Fano projected values e3, four g-pair projected values e1, and NO nonempty five-block mod5-vector-zero subset, despite S076 scalar hyperplane conditions for every f. This local data is not an all-S060-gated original G59.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S077_COMMON_FANO_RANK_THREE_PACKING.md",
+      "source_ids": [],
+      "notes": "S077 INTERNAL sharp residual formal cross-pair implication and fully explicit *local* true original Fano C/Delta five-block no-go; no global model/result."
     }
   ]
 }
