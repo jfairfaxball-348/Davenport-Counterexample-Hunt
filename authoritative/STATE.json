@@ -24,13 +24,14 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S072",
-  "recommended_next_session": "S073",
+  "last_completed_session": "S073",
+  "recommended_next_session": "S074",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": null,
   "phase1_target_status": "WITHHELD_NO_REPLACEMENT_CAMPAIGN",
   "open_blockers": [
+    "S073 CLM-0258/0259: true all-original non-q split D_M^h exactly requires 5Q membership in mixed q-split/alpha/outsider/indexed-U H extension; under exact12 no-Fano affine chi nonzero, same-mask different-colour XORs force TWELVE original proper q-only Fano pair tests, not zero sums. chi0 four-colour same-status 5Q fibres and full original pair/triple overlap carry remain OPEN. No labelled full S060-gated G59, G58 zero-free sequence or D(C20^3)=58; full8/exact12/13+/26 hubs/P26 unresolved, Phase1 IN_PROGRESS, CI ABSENT_NOT_PASS.",
     "S072 CLM-0255–0257: genuine exact12 sixteen zero-colour original witness triangles either have at least one actual proper Fano XOR (NOT necessarily zero), OR all 12 supported colours have UNIQUE singleton type governed by common affine chi on L with beta sum1; chi annihilates genuine original endpoint/full-pair stabiliser W_A+W_B+W_C, but chi=0 odd constant types are still a formal escape. In m=2, majority E can NEVER be new fourth non-q mask. Neither original mod5 majority carry nor parity-even, proper grouped-X, FULL8/13+/all 26 hubs/P26 or full S060-gated hostile 59 labels proved. NO D(C20³)=58/G58; Phase1 IN_PROGRESS, CI ABSENT_NOT_PASS.",
     "S071 CLM-0252–0254: ACTUAL singleton-coset split quotient signature Phi(M)=R(h) is mandatory for any G[2] non-q-mask witness. Fano support iff Phi(M)=0; for m<=2 a THREE-mask A,B,A△B all-Fano original triangle is IMPOSSIBLE, and in m2 distinct [t_i] all nonempty masks demand one/two mixed singleton patterns. Any true cross-mask XOR has singleton split signature 000 grouped or111 transversal (proper), but zero-colour selection does NOT force 111, C5-zero XOR or even majority. Fully original mixed-support carry remains OPEN; FULL8/12+/26 hubs/P26 not solved, no G58 or D20 theorem.",
     "S070 CLM-0248–0251: exact ORIGINAL cross-mask weighted W=2sum majority K; genuine exact12 D_A=a+L,D_B=b+L,D_C=a+b+L permits actual zero-colour vA+vB+vC=0 witness selection BUT neither proper Fano XOR nor projected C5-zero and even majority is forced. For any proper zero-colour q-only X, mod5-zero X demands a nonzero order-two X and odd order-four K; even K would give a forbidden zero. Torsion majority with new non-q mask E would contradict exact12 but is not forced. Fixed triangle W is invariant under non-q 10theta paired gauge. FULL8, exact12, 13/14/15+, all 26 hubs and P26 unresolved; no G59 hostile fully q-gated or D20 proof.",
@@ -62,6 +63,7 @@
   "gate_ledger": "docs/PHASE_GATE_LEDGER.md",
   "source_snapshot": "2026-10-12",
   "warnings": [
+    "S073: twelve Fano pair TESTS when affine chi!=0 are neither twelve distinct original subsets nor forced zeros. Same-mask different torsion colours force proper XOR; this does NOT generalise to three-mask grouped XOR. Exact mixed fibre 5Q gate is an identity not original model feasibility. No proof of chi0 exclusion or original mod5-majority-even carry.",
     "S070 zero-colour triangle actual D-mask selection DOES NOT mean all three witnesses are even Fano or XOR proper. Never assert numerical G58. Order-four escape is valid. Correct git root tree via /git/commits/<main sha> is 943cc6d203087c62ab5bcc039dadd9d155acae0e, not main commit sha.",
     "S069 CLM-0247: true SAME projected Fano colours are equivalent to three order-four original singleton swaps with identical double 10q. This sharpens a conditional criterion only, NOT a forced S060 implication, and rank3 Delta remains unforced.",
     "S069: do not attempt a same-I even Fano-original XOR contradiction—it is already excluded by q-hub matching. Do not toggle a C5-zero U block when it meets a split index or has mixed fullpair membership; the changed original subtotal may leave G[2]. CLM-0246 exact E(U\\\\J_X) carry is a conditional test, not a forced collision. Tooling writes on one branch use separate file commits because the connector did not expose a root tree SHA, deviating from single-atomic-authored-commit ideal; CI ABSENT_NOT_PASS.",
@@ -1051,5 +1053,27 @@
     "branch_protection": "UNKNOWN_NOT_RECHECKED",
     "review": "INTERNAL_SAME_EXECUTOR",
     "next": "S073 FUTURE_UNEXECUTED"
+  },
+  "s073_result": {
+    "date": "2026-10-15",
+    "claims": [
+      "CLM-0258",
+      "CLM-0259"
+    ],
+    "all_mixed_original_non_q_gate": "EXACT_SYMBOLIC_5Q_PARITY",
+    "same_mask_fano_pair_tests_if_chi_nonzero": 12,
+    "chi_zero_constant_unsupported": false,
+    "chi_zero_case_eliminated": false,
+    "global_original_zero_forced": false,
+    "full_s060_gated_G59": false,
+    "G58_candidate": false,
+    "D_C20_cube_equals58": false,
+    "claims_total": 259,
+    "sources_unchanged": 29,
+    "frontier_original30_unchanged": true,
+    "phase1": "IN_PROGRESS",
+    "CI": "ABSENT_NOT_PASS",
+    "review": "INTERNAL_SAME_EXECUTOR",
+    "next": "S074 FUTURE_UNEXECUTED"
   }
 }

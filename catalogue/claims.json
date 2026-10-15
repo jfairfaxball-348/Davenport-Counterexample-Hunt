@@ -2692,6 +2692,24 @@
       "origin": "research/S072_AFFINE_SINGLETON_TRIANGLE_RIGIDITY.md",
       "source_ids": [],
       "notes": "S072 internal original-index conditional proof, source-conditional canonical/exact12 scope; no forced zero or G58/D20 result. Same-executor review only."
+    },
+    {
+      "id": "CLM-0258",
+      "statement": "For an actual source-conditional canonical total-zero C20^3 T59, each nonempty non-q original split mask M and three-singleton-coset signature h has exact danger fibre D_M^h={v in Q:5v in A_Mh}, where A_Mh is union over actual q split I, original alpha choices, seven singleton/eight g outsider labels with status h and parity-even original base c, of iota^-1(c)+ indexed subset sums Sigma(U outside M union I). Equivalently D_M^h consists of parity rho of projected-mod5-zero elements in that actual original H extension union. Phi(M)=R(h) is necessary; M nonempty automatically makes witnesses proper. No feasible original 59 configuration or numeric theorem asserted.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S073_MIXED_ORIGINAL_EXTENSION_AND_PAIR_FANO.md",
+      "source_ids": [],
+      "notes": "S073 INTERNAL exact original-label symbolic lemma; source-conditional canonical 22+8+7 model, NOT computational claim, S060 q-only gate not replaced."
+    },
+    {
+      "id": "CLM-0259",
+      "statement": "Under genuine exact12 three-mask original dangers and S072 no-Fano-triangle affine status branch, ANY two actual same-mask torsion witnesses with DISTINCT colours have a proper q-only ORIGINAL symmetric difference (empty/full impossible by distinct order2 colours and total-zero complement), singleton signature chi(d)111, and full-G sum 10d-2sum(original intersection) for d difference of colours. If chi!=0 each of three masks requires FOUR pairwise true original Fano XOR tests, twelve labelled pair tests total, all NONZERO by S060; they need not be distinct XORs or contradictory. Chi0 leaves same-mask pair XORs grouped; overlap carry remains unforced.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S073_MIXED_ORIGINAL_EXTENSION_AND_PAIR_FANO.md",
+      "source_ids": [],
+      "notes": "S073 INTERNAL conditional exact12 + no-Fano-three-mask alternative; new same-mask Fano consequence, inherits S064 overlap and S072 affine facts without priority claims; no D20/G58 proof."
     }
   ]
 }

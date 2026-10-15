@@ -272,3 +272,8 @@ S069 CLM-0247 additional verified symbolic condition: TRUE four Fano projections
 | S072 | 2026-10-15 | Sixteen REAL exact12 mixed-support zero-colour triangles; affine uniqueness/no-Fano rigidity, stabiliser annihilator and m2 majority fourth-mask dead end | CLM-0255–0257 INTERNAL; no true full-G zero/hostile 59 model/D20 theorem; Phase1 IN_PROGRESS | session/S072-mixed-affine-support-rigidity |
 
 [S072 proof](../research/S072_AFFINE_SINGLETON_TRIANGLE_RIGIDITY.md) · [PRECOMMIT closeout](../sessions/S072/CLOSEOUT.md) · [hostile review](../sessions/S072/REVIEW.md) · S073 FUTURE/UNEXECUTED. Claims257, sources29/frontier30 unchanged, CI ABSENT_NOT_PASS.
+
+
+| S073 | 2026-10-15 | Exact original mixed non-q mask all-q split/outsider U-index 5Q extension gate; no-Fano affine SAME-mask pairwise proper XOR / 12 Fano-pair tests | CLM-0258–0259 INTERNAL; no forced G-zero or fully gated G59; Phase1 IN_PROGRESS | session/S073-mixed-extension-fibre-gates |
+
+[S073 full symbolic proof](../research/S073_MIXED_ORIGINAL_EXTENSION_AND_PAIR_FANO.md) · [PRECOMMIT closeout](../sessions/S073/CLOSEOUT.md) · [hostile review](../sessions/S073/REVIEW.md). Claims259, sources29/frontier original30 unchanged; CI ABSENT_NOT_PASS; S074 FUTURE/UNEXECUTED.

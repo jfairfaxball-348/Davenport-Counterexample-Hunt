@@ -251,3 +251,8 @@ S069 CLM-0247 additional verified symbolic condition: TRUE four Fano projections
 ## S072 Phase1 gate — 15 October 2026
 
 **HOLD IN_PROGRESS / NO PASS.** CLM-0255–0257 prove conditional original exact12 sixteen-triangle affine-type rigidity, genuine-stabiliser annihilator and m2 impossibility of a new fourth majority non-q mask. They do NOT eliminate all-grouped constant-type original supports, enforce full-G weighted/projection carry, exclude FULL8/12/13+/26 hubs/P26, or build a full 59-label original hostile example. Claims257, 29 sources and original30 frontier immutable by writes, Phase2/3 NOT_STARTED, Phase4 OWNER_GATED, CAM-0001 blocked, CI ABSENT_NOT_PASS, protection UNKNOWN, INTERNAL same-executor review; no G58 zero-free candidate or D20 proof.
+
+
+## S073 Phase1 gate — 15 October 2026
+
+**HOLD IN_PROGRESS, NOT PASS.** CLM-0258 is a complete conditional actual original-index D_M^h↔5Q H-extension formula, including every q one/multisplit, original outsiders, indexed unsplit U blocks. CLM-0259 forces twelve TRUE original Fano *pair tests* if exact12's no-Fano-triangle common affine character chi is nonzero, but **does not** make any of their sums zero or exclude chi0. S060 four actual Fano C/Delta and mixed-index weighted intersections uncombined; full8, exact12, augmented13/14/15+, 26 hubs/three-hub/P26 remain OPEN. Claims259, source29/original frontier30 objects intact, no zero-free G58, D20 theorem or full G59 hostile. Phase2/3 NOT_STARTED, Phase4 OWNER_GATED, CAM-0001 BLOCKED, CI ABSENT_NOT_PASS; hostile review INTERNAL SAME_EXECUTOR.

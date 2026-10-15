@@ -1441,3 +1441,11 @@ Claims251→254. All29 source objects and original30 frontier row objects unchan
 - **CLM-0257 [PROGRAMME_PROVED; INTERNAL]** For m2 exact12, every non-q majority split mask is empty or one of A,B,C, so a fourth non-q majority mask is impossible. The fourth-mask target should be dropped in m2, not claimed as a Davenport theorem.
 
 Claims254→257, sources29/original30 frontier unchanged, Phase1 IN_PROGRESS, FULL8/exact12/13+/26 hubs and original-G mod5 carry OPEN; CI ABSENT_NOT_PASS, S073 strictly future.
+
+
+## S073 — 15 October 2026: exact mixed-mask full original H gate and within-mask proper Fano differences
+
+- **CLM-0258 [PROGRAMME_PROVED; INTERNAL; CONDITIONALLY CANONICAL G59]** For every nonempty non-q original pair split mask M and singleton status h, define A_{M,h} by actual ORIGINAL chosen split endpoints on M∪I for every q split I, actual outsider original g/S/singleton subset with status h and even total base, plus indexed H subset sums from the unsplit U\\(M∪I). Then EXACTLY D_M^h={v∈Q:5v∈A_{M,h}}={rho(w):w∈A_{M,h},lambda(w)=0}. Original properness automatic for M≠empty; Phi(M)=R(h) necessary. Full proof: [S073](../research/S073_MIXED_ORIGINAL_EXTENSION_AND_PAIR_FANO.md). No numerical existence claim.
+- **CLM-0259 [PROGRAMME_PROVED; INTERNAL; CONDITIONAL NO-FANO EXACT12]** For a same-mask pair of genuine torsion witnesses of DIFFERENT colours z_P+u,z_P+u', their actual XOR is automatically proper q-only (empty/full impossible by distinct colours/complement-total0), with h_X=chi(u+u')111 and sum_G X=10(u+u')−2sum_G(original intersection). If chi nonzero, each of three masks mandates FOUR genuine original Fano *pair tests*, twelve in all (not necessarily distinct X), all passing S060 q-only no-zero gate. Chi0 leaves all same-mask pairs grouped. Neither case forces zero or kills exact12.
+
+Claims257→259, source29/original frontier30 records unmodified, Phase1 IN_PROGRESS, FULL8/exact12/13+/26 hubs/three-hub/P26 and original carry OPEN; no full-gated G59, G58 counterexample, D20 theorem, external review or hosted CI PASS. S074 FUTURE/UNEXECUTED.
