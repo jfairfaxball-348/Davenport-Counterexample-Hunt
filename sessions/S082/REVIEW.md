@@ -1,0 +1,14 @@
+# S082 hostile SAME_EXECUTOR mathematical review — 15 October 2026
+
+1. **Projected division:** y_j=(1/2)π5(z_j) uses invertible2 in C5. The only H division uses the even group sum of a genuinely even number of original groups. Never G≅Q⊕H.
+2. **Real labels:** nine repeats refer to nine *different original q-group indices*, not one formal repeated atom; V_i contain two real distinct singleton originals. Other three groups remain disjoint; no Fano group overlaps were silently combined.
+3. **Extension:** E5=π5(E) exactly, but E5 membership not sufficient. Outside E5 guarantees -h is the actual indexed pair sum of U*. A support with an omitted q-group is necessarily proper even if all 22 pairs are selected.
+4. **Single-fibre sieve:** with 2k≤10 repeated groups, 2k y projected is compulsory; if outside E5, literal full-pair indexed support. For y3=0 at k1,k2,k3 the required horizontal coordinates are 3,4,1, impossible in only two directions. No exhaustive computation used.
+5. **Cross lemma:** two of w1,w2,w3 lie on one affine coordinate line; w1=(1,a),w2=(1,b) forces a+b=1. For w3=(1,d), all pair sums force (a,b,d)=(3,3,3), triple (3,4) forbidden. For w3=(t,1) with t≠1, t=0 forces triple (2,2), t≠0 forces a=b=0. Seven possible nonempty subset sums addressed symbolically.
+6. **Parity representatives:** even r=0,2,4,6,8 and odd r=1,3,5,7,9 each cover all five mod5 residues. For each of seven J, r chosen with parity |J| enforces a REAL even number of q originals and third projected coordinate0.
+7. **Full-set exception:** could only occur at r=9,J=all three; then projected sum would be full c5 third4, contradiction with computed zero third. Therefore witness proper, not a spurious T=all 59 exception.
+8. **Literal smaller failure:** S081 V1=V2=(2,0,5) in G, their 4 ORIGINAL singleton endpoints plus 8 e1 full pairs and 5 e3 full pairs sum (20,0,20)=0; size=30. Do NOT claim it is the smallest among ALL proper zeros; S081 32-index example remains true.
+9. **Scope:** CLM-0288 is NOT a classification of all possible 12 q projections, not all rank2, not the true 2048 Fano outsiders, not q endpoint split E(U\I), not 26 hubs or non-q signed mask. E5-only necessary cut does not establish S060 full-gate inconsistency; arbitrary U22 open.
+10. **Evidence audit:** INTERNAL symbolic proof by same executor only, no mathematical numerical search, generated candidates, SAT/CAS/ILP, Lean/Palomar, independent reviewer/certificate, arXiv/publication/source promotion. 29 source records and 30 frontier rows are untouched; CI zero contexts is ABSENT_NOT_PASS, branch protection403 UNKNOWN.
+
+**Verdict:** CLM-0286..0289 INTERNAL PROGRAMME_PROVED in exactly scoped statements. Strong uniform nine-projection-fibre exclusion; Phase1 held IN_PROGRESS; no zero-free G58 or D(C20^3)=58 theorem.

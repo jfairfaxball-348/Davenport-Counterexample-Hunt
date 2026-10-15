@@ -2948,6 +2948,42 @@
       "origin": "research/S081_AXIAL_ORIGINAL_PROJECTION_AND_TORSION_FIBRE.md",
       "source_ids": [],
       "notes": "S081 INTERNAL SAME_EXECUTOR, self-contained exact scoped original-index proofs; broad-spectrum U* full S060 gate NOT proved; failed partial G59 model NOT a candidate; no independent certification or D20 theorem."
+    },
+    {
+      "id": "CLM-0286",
+      "statement": "For axial U*=e1^8e2^8e3^6 with E5={x1=1 or x2=1 or x3 in{1,2,3}}, any m repeated q-supervertex half-projections y requires 2k y in E5 for each 2k<=min(m,10); otherwise those real 2k q groups and indexed full original U pairs yield a proper G20 zero. The first failing k among1..5 yields bound m<=2k-1; if y3=0 then m<=5, and for S081 a=(1,3,1) m<=3, b=(1,0,0) m<=1.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S082_AXIAL_THREE_VECTOR_CROSS_AND_NINE_FIBRE_EXCLUSION.md",
+      "source_ids": [],
+      "notes": "S082 INTERNAL SAME_EXECUTOR, source-conditional axial original T59, exact E5 necessary gate, not a full S060 survivor, no independent certification."
+    },
+    {
+      "id": "CLM-0287",
+      "statement": "In F5^2, any three indexed vectors w1,w2,w3 have some NONEMPTY subset sum outside affine cross C={(x,y):x=1 or y=1}. Proof by two vectors on the same coordinate line and full symbolic case split for third vector; no numerical search.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S082_AXIAL_THREE_VECTOR_CROSS_AND_NINE_FIBRE_EXCLUSION.md",
+      "source_ids": [],
+      "notes": "S082 INTERNAL SAME_EXECUTOR, self-contained 3-vector affine cross lemma; used with same true original q groups."
+    },
+    {
+      "id": "CLM-0288",
+      "statement": "For ANY fully canonical total-zero original G=C20^3 T59 with axial U*=e1^8e2^8e3^6, all twelve disjoint genuine q-supervertex half-projections in C5^3 have multiplicity at most8 if there is no proper actual q-only original zero. Proof: if nine share y and y3=0, a 2/4/6 subset leaves E5; otherwise three arbitrary remaining projections b_i yield three F5^2 horizontal w_i, some nonempty subset has sum outside x1=1 or x2=1, and parity-matched r of the nine y cancel projected third. c5 third4 excludes r9+all3 full support. Indexed full U original pairs cancel the resulting genuine proper q group sum. Independent of rank2/3, other three values and mod20 torsion lifts; not universal 12-q or full S060 no-go.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S082_AXIAL_THREE_VECTOR_CROSS_AND_NINE_FIBRE_EXCLUSION.md",
+      "source_ids": [],
+      "notes": "S082 INTERNAL SAME_EXECUTOR, genuine original-index support/complement and full-set exception; no arbitrary U22 proof or independent certification."
+    },
+    {
+      "id": "CLM-0289",
+      "statement": "The specific fully labelled original total-zero 59-index partial S081 model has a 30-original-index proper zero, smaller than its formerly recorded 32-index witness: V1+V2=2B=(4,0,10) with original V1,V2 containing X1,Y1,X2,Y2; 8 complete original e1 pairs contribute (16,0,0), 5 e3 pairs contribute(0,0,10), totaling0 modulo20. Its projected 2b=(2,0,0) lies outside E5. No claim this is globally shortest or that the model ever passed q-only gates.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S082_AXIAL_THREE_VECTOR_CROSS_AND_NINE_FIBRE_EXCLUSION.md",
+      "source_ids": [],
+      "notes": "S082 INTERNAL SAME_EXECUTOR literal indexed correction; S081 32-index witness remains valid; rank2 projected shadow never a full-gated candidate."
     }
   ]
 }
