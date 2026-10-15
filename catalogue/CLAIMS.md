@@ -1414,3 +1414,13 @@ Claims240→243, source records29/first28 unchanged, frontier30 unchanged. No un
 - **CLM-0247 [PROGRAMME_PROVED; INTERNAL]** True equality of the four even-Fano C5 projections holds **iff** all three ORIGINAL singleton differences k_i=Y_i−X_i obey 2k_i=10q in C20³ (equivalently k_i≡5q mod10). They are synchronised order-four roots. Their exact differences give Delta_ij=q+eta_i+eta_j and Delta_12+Delta_13+Delta_23=q; the forced common C5 projection is 4lambda(C). These conditions are **not forced** by S060 and do not imply rank-three Delta or an actual non-q witness. [Proof](../research/S069_CROSS_STRATUM_FANO_SUPPORT_AND_CARRY.md).
 
 Claims243→247; source records29 unchanged, first28 objects and original30 frontier rows unchanged. No full8/12+/arbitrarily large cover exclusion, fully S060-passing hostile 59-tuple, G58 zero-free candidate or D(C20³)=58 theorem; Phase1 IN_PROGRESS, CI ABSENT_NOT_PASS.
+
+
+## S070 — 15 October 2026: original majority bridge and zero-colour/order-four obstruction
+
+- **CLM-0248 [PROGRAMME_PROVED; INTERNAL]** True 3-witness weighted intersection carry is exactly twice the ACTUAL majority original-index support sum. Its non-q pair split mask comprises precisely same-endpoint choices at pairs split by two witnesses. Full original-index proof: [S070](../research/S070_MAJORITY_ZERO_COLOUR_TRIANGLE.md).
+- **CLM-0249 [PROGRAMME_PROVED; INTERNAL, CONDITIONAL exact12]** Exact12 affine danger cosets guarantee a genuine zero-COLOUR three-mask witness selection. For proper XOR X, q-gate forces projected-nonzero X OR nonzero order-two X accompanied by an ODD true order-four majority K. Projected-zero X plus even K would be forbidden; **not forced**.
+- **CLM-0250 [PROGRAMME_PROVED; INTERNAL, CONDITIONAL]** Majority K∈G[2] and new non-q split mask creates genuine fourth D_E, excluding exact12. For three distinct even Fano patterns, X uses the missing fourth even line and K the complementary odd line, with original quotient parity fully retained. Not automatic.
+- **CLM-0251 [PROGRAMME_PROVED; INTERNAL]** Original non-q 10θ double-endpoint gauge preserves every fixed triangle carry and zero-colour sum; gauge tuning does NOT force equality.
+
+Claims247→251, source records29 and original30 frontier rows unchanged, no fully S060-gated total-zero hostile G59, no G58 zero-free example, no D(C20³)=58 theorem, Phase1 IN_PROGRESS and CI ABSENT_NOT_PASS. The missing proof is now forcing a proper ACTUAL zero-colour cross-mask triangle with projected-zero XOR and majority-even parity (or a real torsion majority fourth mask), not merely selecting formal danger colours.

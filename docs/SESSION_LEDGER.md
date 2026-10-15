@@ -258,3 +258,8 @@ Owner-invoked substantial symbolic original-index C20³; entry main 9c19776958e3
 [S069 proof](../research/S069_CROSS_STRATUM_FANO_SUPPORT_AND_CARRY.md) · [PRECOMMIT closeout](../sessions/S069/CLOSEOUT.md) · [hostile review](../sessions/S069/REVIEW.md) · S070 FUTURE/UNEXECUTED. Claims247, sources29 unchanged and original30 frontier immutable. CI ABSENT_NOT_PASS. Connector limits prevented one atomic authored branch commit; disclosure in closeout.
 
 S069 CLM-0247 additional verified symbolic condition: TRUE four Fano projections agree mod5 IFF all three actual original singleton differences k_i=Y_i−X_i obey 2k_i=10q in C20³. This implies Delta12+Delta13+Delta23=q and common projected colour 4lambda(C), but is NOT forced by all S060 q gates, nor a contradiction or G59/G58 claim. Four new internal claims CLM-0244–0247, total 247; original sources29/frontier30 unchanged.
+
+
+| S070 | 2026-10-15 | True original majority-support carry, guaranteed exact12 zero-colour witness selection, order-four escape, fourth-mask and Fano majority geometry, pair-gauge invariance | CLM-0248–0251 INTERNAL; no forced proper projected-zero/even-majority triangle or fully q-gated 59 labels; Phase1 IN_PROGRESS | session/S070-original-majority-carry |
+
+[S070 proof](../research/S070_MAJORITY_ZERO_COLOUR_TRIANGLE.md) · [PRECOMMIT closeout](../sessions/S070/CLOSEOUT.md) · [hostile review](../sessions/S070/REVIEW.md) · S071 FUTURE/UNEXECUTED. Claims251, source29/original frontier30 unaltered, CI ABSENT_NOT_PASS.

@@ -2602,6 +2602,42 @@
       "origin": "research/S069_CROSS_STRATUM_FANO_SUPPORT_AND_CARRY.md",
       "source_ids": [],
       "notes": "Internally proved full-original C20 singleton difference/order-four inverse. Conditional criterion not universal S060 q-gate implication."
+    },
+    {
+      "id": "CLM-0248",
+      "statement": "For any TRUE original G[2] torsion witness triangle with non-q masks A,B,A△B, the full-G triple weighted overlap W is EXACTLY twice the sum of original majority index support K (labels appearing ≥2), and 10(vA+vB+vC)=sum(X)+2sum(K) for original XOR X. The majority non-q split mask is exactly those i split in precisely two witnesses where those two choose the SAME original endpoint. No full-G equality is forced.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S070_MAJORITY_ZERO_COLOUR_TRIANGLE.md",
+      "source_ids": [],
+      "notes": "S070 INTERNAL same-executor original-index finite-group proof; scoped conditional canonical G59/S060 hypotheses, not a universal n20 theorem or numerical candidate."
+    },
+    {
+      "id": "CLM-0249",
+      "statement": "In a genuine exact12/no-full affine cover D_A=a+L,D_B=b+L,D_C=a+b+L, genuine original torsion witnesses can always be selected with vC=vA+vB, hence zero total torsion colour. Their original XOR X is q-only but may be empty/full or not Fano. When X is nonempty proper, the true q-only gate forces either lambda_G(sum X) nonzero or, if lambda_G(sum X)=0, X has nonzero 10Q subtotal and its original majority K lies G[4]\\G[2] with NONZERO parity. A proper X with zero mod5 and majority-even yields a forbidden original zero.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S070_MAJORITY_ZERO_COLOUR_TRIANGLE.md",
+      "source_ids": [],
+      "notes": "S070 INTERNAL same-executor original-index finite-group proof; scoped conditional canonical G59/S060 hypotheses, not a universal n20 theorem or numerical candidate."
+    },
+    {
+      "id": "CLM-0250",
+      "statement": "For a true original three-mask torsion triangle, if its original majority K has a 10w subtotal and non-q split mask E≠empty, then (E,w) is a TRUE D_E; exact12 excludes any new E outside A,B,C. For three distinct actual even Fano singleton patterns, the original XOR selects the missing fourth even Fano triple while K selects its odd complementary original singleton triple, with exact quotient parity formula including non-q same-endpoint split mask E, q-splits and g/S indices. Majority torsion is NOT forced.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S070_MAJORITY_ZERO_COLOUR_TRIANGLE.md",
+      "source_ids": [],
+      "notes": "S070 INTERNAL same-executor original-index finite-group proof; scoped conditional canonical G59/S060 hypotheses, not a universal n20 theorem or numerical candidate."
+    },
+    {
+      "id": "CLM-0251",
+      "statement": "For any three genuine original torsion witnesses with non-q masks A,B,A△B, simultaneous shifts a_i,b_i→a_i+10θ_i,b_i+10θ_i on non-q pairs preserve their torsion colour sum, original XOR full-G subtotal, original majority weighted carry W=2sum(K), all Fano/q-only constraints. One cannot tune a FIXED cross-mask triangle carry by the available pair gauge; new original supports are required.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S070_MAJORITY_ZERO_COLOUR_TRIANGLE.md",
+      "source_ids": [],
+      "notes": "S070 INTERNAL same-executor original-index finite-group proof; scoped conditional canonical G59/S060 hypotheses, not a universal n20 theorem or numerical candidate."
     }
   ]
 }
