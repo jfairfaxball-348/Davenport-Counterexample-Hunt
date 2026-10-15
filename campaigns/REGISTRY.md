@@ -325,3 +325,8 @@ INTERNAL symbolic canonical axial q-only original-index proofs CLM-0293–0295 e
 ## S085 — no new computational campaign, 2026-10-15
 
 Research only: CLM-0296–0299 symbolic sevenfold original 10-torsion and five-outsider cross, plus sixfold analytic necessary formula. Numerical search / generated orbit / CAS / SAT / ILP NOT PERFORMED. Existing CAM-0001 remains BLOCKED; no campaign state promotion, no new completeness certificate or CI PASS. Next S086 FUTURE after genuine merge.
+
+
+## S086 no campaign activation — 15 October 2026
+
+Only source-conditional original-index hand symbolic CLM-0300–0303. No mathematical numerical search, generated orbit, CAS/SAT/ILP, author code, external independent certificate, Lean, Palomar, source promotion, outreach or publication. CAM-0001 stays PROPOSED / NOT_RUNNING / BLOCKED; original source29/frontier30 preserved, Phase1 IN_PROGRESS, Phase2/3 NOT_STARTED, Phase4 OWNER_GATED, hosted CI ABSENT_NOT_PASS. S087 FUTURE only.

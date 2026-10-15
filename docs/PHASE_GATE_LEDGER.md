@@ -307,3 +307,8 @@ S069 CLM-0247 additional verified symbolic condition: TRUE four Fano projections
 ## S085 Phase-1 gate — HOLD (15 October 2026)
 
 CLM-0296–0299 prove narrow source-conditional axial original indexed constraints: sevenfold t1/2/4 excluded, t3 common actual third1/11 only, four same outsider residuals excluded, sixfold outsider escape test derived. DOES NOT close max<=7, true E all even supports, four SAME-six-original Fano lifts, 2048 transversals, E(U*\\I) split masks, mixed non-q gates, full8/exact12/13/14/>=15, arbitrary U22 or P26. **Phase1 IN_PROGRESS (NO PASS)**; Phases2/3 NOT_STARTED; Phase4 OWNER_GATED. CAM-0001 BLOCKED, source29/frontier30 frozen, CI ABSENT_NOT_PASS.
+
+
+## S086 Phase-1 gate — HOLD (15 October 2026)
+
+CLM-0300–0303 add simultaneous mod5 projected third0/4 original-index necessary tests; actual sevenfold t3 fibre horizontal0 impossible; sixfold horizontal0,t1/4 impossible, with t2/3 explicitly excepted. All horizontal nonzero sevenfold and many sixfold+ spectra, exact full H torsion, SAME-six actual Fano quartet/2048, U* q-splits E(U*\I), non-q signed, FULL8/exact12/13/14/>=15, 26 hubs, P26, arbitrary U22 OPEN. Original source29/frontier30 frozen. **Phase1 IN_PROGRESS, NO PASS**, Phase2/3 NOT_STARTED, Phase4 OWNER_GATED, CAM-0001 BLOCKED, CI ABSENT_NOT_PASS, INTERNAL SAME_EXECUTOR; S087 FUTURE ONLY.
