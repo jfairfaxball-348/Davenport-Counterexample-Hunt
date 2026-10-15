@@ -282,3 +282,8 @@ S069 CLM-0247 additional verified symbolic condition: TRUE four Fano projections
 | S074 | 2026-10-15 | True original signed full-pair Fano-status toggles; exact12 5Q slice 0/2 upper bound, saturation criterion, same-six-singleton signed C/Delta | CLM-0260–0262 INTERNAL; conditional U-only chi0 exclusions; no global G59/G58 or D20 theorem; Phase1 IN_PROGRESS | session/S074-original-fano-switch-fibres |
 
 [S074 symbolic full proof](../research/S074_SIGNED_ORIGINAL_FANO_SWITCH_FIBRES.md) · [PRECOMMIT closeout](../sessions/S074/CLOSEOUT.md) · [hostile review](../sessions/S074/REVIEW.md). 262 claims, 29 source objects and original30 rows unchanged, CI ABSENT_NOT_PASS. S075 FUTURE/UNEXECUTED.
+
+
+| S075 | 2026-10-15 | Literal q-original outsider E(U) additive four-pair cube, non-saturating H22 U excluded by S060, real signed exchange and ninefold stabilisers | CLM-0263–0266 INTERNAL; Phase1 IN_PROGRESS, no fully q-gated original G59/G58/D20 theorem | session/S075-outsider-cube-signed-fibres |
+
+[S075 proof](../research/S075_OUTSIDER_SCHUR_CUBE_AND_COLLECTIVE_SWITCH.md) · [closeout](../sessions/S075/CLOSEOUT.md) · [review](../sessions/S075/REVIEW.md). 266 claims, source29/frontier30 unchanged, CI ABSENT_NOT_PASS; S076 future only.

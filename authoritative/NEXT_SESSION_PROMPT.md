@@ -1,39 +1,29 @@
-# S075 — force a TRUE signed four-Fano 5Q fibre collision or construct fully labelled original G59 (FUTURE / UNEXECUTED)
+# S076 — global original outsider-cube / signed-Fano fibre collision (FUTURE / UNEXECUTED)
 
-**Execution authority:** This is the queued FUTURE session, NOT execution. The owner's next explicit “run next session”, supplied link, or pasted prompt authorises exactly S075 immediately without a second confirmation. Work ONLY in https://github.com/jfairfaxball-348/Davenport-Counterexample-Hunt. Do not execute S076 as part of S075.
+**Authority:** The owner's NEXT separate “run next session”, linked prompt or pasted instruction authorises exactly S076 immediately, no additional confirmation. Work only in https://github.com/jfairfaxball-348/Davenport-Counterexample-Hunt. Do NOT execute S077 during S076.
 
-## Entry / governance
+## Entry
+Independently pin LIVE GitHub main commit and TRUE git-root tree. Verify S075 authored one-parent commit, actual PR, ordinary two-parent merge and parents/tree, open PR/branch concurrency, checks/workflow jobs and protections/rulesets where accessible. CI absent is ABSENT_NOT_PASS. Read AGENTS, protocol, STATE, START_HERE, 266 claim objects/29 source objects and original30 frontier, S060 and S063–S075 complete original-index mathematics and review, ledgers/closeout. Use one isolated session branch, ONE atomic authored commit, real PR, ordinary merge and live final verification; stop for concurrent work.
 
-Pin independent LIVE main commit and genuine Git root tree; verify S074's authored one-parent commit, PR and ordinary two-parent merge (parents/tree), actual hosted checks/jobs, open PR/branch conflict and protections/rulesets where accessible. CI absent is ABSENT_NOT_PASS. Read AGENTS.md, protocol, STATE, START_HERE, all 262 catalogue claims and 29 sources, original30 frontier, S060/063/064/065/066/067/069/070/071/072/073/074 complete research and review, decision/session/phase/campaign/failure ledgers, S074 closeout. Stop on concurrent changes. Use one isolated session branch, ONE atomic authored Git-tree commit, real PR, ordinary merge and independently verify live main if possible. No extra session.
+## Governing mathematics
+The rank-three target D(C_n³)=3n−2 has NOT been proven/refuted. No D(C20³)=58 proof, no G58 zero-free example and no fully q-only S060-gated original T59. Work in genuine original 22 pairs +8 q outsiders +7 labelled singletons in G=C20³, H=C10³ and iota(h)=2h; G is NOT Q⊕H. Full original q matching, one/multi q pair splits E(U\I), 2048 outsiders, and SAME four signed Fano C/Delta are required. Do not promote historical D2(C5³)=20 or D3 values from SOURCE_STATED.
 
-## Frozen status and binding central objective
+S075 CLM-0263: U=e1^9e2^9e3^3(e1+5e3) is H-zero-free length22 and does NOT projectively saturate C5³: Sigma(U)=C10²×{0,1,2,3,5,6,7,8}, E(U)=C10²×{1,6}. CLM-0264: FOUR actual q-parity g outsiders force the SAME original b12,b34,b12+b34 inside E(U); all eight g force a literal four-pair subset-sum cube in E(U). Thus this U and EVERY U with sum-free E(U) or nonzero-affine-hyperplane projected E(U) are EXCLUDED from S060 q-only-gated original G59. This is NOT universal saturation or a full D20 theorem.
 
-Rank-three target D(C_n^3)=3n−2. No proof of D(C20^3)=58 and NO zero-sumfree G58. Canonical C20³ 59-original-label total-zero 22 pairs/8 g/7 singletons and all S060 q-only matching, one/multisplit E(U\\I), 2048 outsider, and four SAME TRUE Fano C/Delta constraints are SOURCE-CONDITIONAL; no full-gated original model. Historical D2(C5³)=20 and D3 values are SOURCE_STATED, not programme-proved. G is NOT Q⊕H.
+CLM-0265: at ANY ACTUAL occupied signed Fano K_eps(Z), equal projected signed increments selected i/unselected j yield a torsion exchange d∈L∩ker chi; if chi≠0 all such d lie in ONE line. CLM-0266: nine equal-order10 terms at UNSPLIT ORIGINAL pair indices give a five-pair collective same-status torsion return; two independent nine-blocks give 4-point 5Q signed fibre IF occupied, contradicting exact12 no-Fano ≤2. Four actual signed tau_eps share SAME signed six original singleton C/Delta; their occupancy is UNPROVED. FULL8, exact12, 13/14/≥15, m0/m1/m2/m≥3, 26 q hubs and P26 alternative profiles OPEN.
 
-S074 CLM-0260: Fix an ACTUAL mixed-mask G[2] witness Z of non-q mask P. For each of the FOUR even original Fano transversal index sets T_eps, let tau_eps(Z)=iota^-1(sum_(l∈T_eps)(1−2·1_Z(l))g_l)∈H and 22 signed original-pair H increments w_i(Z)=iota^-1((1−2·1_Z(a_i))a_i+(1−2·1_Z(b_i))b_i). Every literal original subset Z△(T_eps∪complete original pairs B) has sum 10v+2(tau_eps+sum_B w_i), same mask P, reversed singleton status. Under S072 exact12 no-Fano unique affine chi:L→F2:
+## Sustained direct targets — no one-object cap
+**A. Central:** prove an actual universally occupied signed Fano 5Q fibre, or a genuine forbidden three-point/two-independent-exchange fibre, by combining the new ORIGINAL eight-g E(U) subset-sum cube, full q one/multisplit E(U\I), SAME six-singleton Fano C/Delta and the SAME mixed-mask witness original Z. Never assume projection saturation from rank alone or assign four tau independently. Analyse all remaining non-saturating projected U structures WITH their original eight-g subset-sum cube, exclude a serious family or force a real zero.
 
-  K_eps(Z)=(tau_eps(Z)+Sigma_i w_i(Z))∩5Q ⊆ {5e:e∈L,chi(e)=1}.
+**B. Exchange:** find a proof that some necessary projected-zero B must permit d∉L∩ker chi, or two independent d, retaining the signed split w_i(Z) and original index exclusions. For chi0 force ANY actual valid 5Q Fano switch. For chi≠0 force >2 5Q values in one K. Disjoint nine-block proof is ONLY conditional.
 
-If chi0, K_eps MUST BE EMPTY for all 4 eps and every actual Z; if chi!=0 its cardinality ≤2. These are original **SAME global data** constraints. Signed pair increments at split positions need not be 5Q torsion, and must never be replaced by ±u there.
+**C. Alternative:** produce a TRUE proper original q-only Fano XOR with projected C5-zero and original majority even, or show literal original weighted intersection carry contradiction. Respect S070 order-four escape.
 
-S074 CLM-0261: mod5 subset sums of U outside P covering C5³ suffice to DISPROVE chi0; a genuine H-zero-free indexed U=e1^8 e2^7 e3^7 has that conditional property for every |P|≤2, but is NOT a full S060-gated G59 witness. For any |P|≤2, U outside P has projected span≥2 by an elementary four-block packing argument; span≥2 does NOT establish saturation.
+**D. Hostile original construction:** if no theorem, give FULLY labelled original total-zero T59, H-zero-free U22, every S060 q matching/all q single and multisplit E(U\I), all 2048 outsider tests, four ACTUAL coupled Fano x/C/Delta, and its first proper non-q zero with complement. An isolated U, sum-free E, abstract affine status colouring or S059 matching-only model does NOT pass.
 
-S074 CLM-0262: Four tau_eps(Z) obey **signed ORIGINAL same-six-singleton C/Delta**, with ~V_i=(1−2·1_Z(X_i))X_i+(1−2·1_Z(Y_i))Y_i. They cannot be selected independently. No full S060-gated model, forced exact12 zero, FULL8/13+/26 hubs/P26 conclusion.
+**E. Preserve** FULL8, 12, 13/14/15+, m0/m1/m2/m≥3, all 26 hubs/three-hub/P26 (0,4)/(0,6)/(1,7) as open absent actual original proofs.
 
-## Sustained direct mathematical attacks — no one-object cap
-
-A. **Priority: actually kill chi0 under S060.** For EVERY genuine exact12 mask P and actual 4 original torsion witnesses, prove from U22 zero-free and the SAME S060 4-Fano C/Delta/q E(U\\I) identities that AT LEAST ONE tau_eps(Z)+Sigma_B signed w_i(Z) meets 5Q. Must retain original Z-overlap signs and split-index exclusions. Prove whether saturation of projected U outside P is forced or find a rigorous permitted U obstruction; DO NOT infer full subset-sum coverage from rank≥2. If saturation fails, try signed split-pair w_i and q one/multisplits/g choices with literal ORIGINAL intersections rather than abstract extensions.
-
-B. **Nonconstant chi: two-point-fibre attack.** Prove at least THREE DISTINCT points of 5Q in a single genuine K_eps(Z), or show a true Fano switch with e∉L or chi(e)=0, using same actual four signed Fano C/Delta and twelve within-mask Fano pair constraints. Keep witness-status and torsion-colour indexing; distinct Bs yielding same 5e count ONCE.
-
-C. **Alternative exact12 kill:** Force a true proper zero-colour three-witness XOR with lambda_G(sum X)=0 AND parity(sum majority)=0, or an exact original intersection carry identity; do not confuse Fano support with zero. Retain S070 order-four escape and test exact full G majority, true q splits, and complement.
-
-D. **Hostile construction route:** If none of the above, try a FULLY labelled original T59 (22 actual pair original values; U22 H-zero-free; 8 actual g; 7 actual singletons; sum_G T=0) passing ALL S060 q matchings, every one/multi q pair split E(U\\I), 2048 outsider transversals, four actually coupled original Fano x/C/Delta, then exhibit FIRST proper non-q original zero and complement. A formal status colouring, standalone U, or S059 matching-only candidate is NOT enough.
-
-E. Preserve independent FULL8, augmented13/14/≥15, m0/m1/m2/m≥3, all 26 q hubs, three-hub alternate/P26 (0,4)/(0,6)/(1,7) as OPEN unless ACTUAL proofs cover them. No source promotions by assertion.
-
-**Restrictions:** NO numerical mathematical search, CAS/SAT/ILP, generated candidates/orbits, historical author code, Lean/Palomar, certificates, campaign, publication, arXiv, outreach or priority claims. Substantial symbolic original-index proofs and adversarial self-review, not repetition of the same abstract cover.
+**Restrictions:** NO numerical mathematical searches, CAS/SAT/ILP, generated candidates/orbits, historical code, Lean/Palomar, certificates, campaigns, publication/arXiv, outreach/priority. Sustained symbolic ORIGINAL-index proofs and adversarial self-review; no 'one mathematical object per session' cap.
 
 ## Closeout
-
-Put rigorous novel proofs, attempts and scope in research; mark any insufficient bridge honestly; complete INTERNAL hostile review and JSON validation; synchronize justified claim IDs and JSON/MD, source/frontier immutable objects, STATE/START_HERE/decision/phase/campaign/session/failure ledgers, CLOSEOUT and an EXACT full S076 future-only handover unless genuine owner blocker. Phase1 remains IN_PROGRESS without actual audited resolution. Record actual commit, PR/merge tree/parents and CI status from live GitHub after submission; never report an unobserved PASS. Owner invocation of S075 authorises S075 ONLY.
+Synchronise valid CLM IDs and catalogue JSON/MD, source/frontier immutable records, STATE/START_HERE, decisions/session/phase/campaign/failure ledgers, session closeout and exact complete S077 FUTURE only unless genuine blocker. Phase1 IN_PROGRESS unless genuinely globally resolved. Do ONE atomic Git-tree commit/real PR/ordinary two-parent merge with live SHA/tree/parents/hosted CI evidence (never unobserved PASS). S076 is FUTURE, NOT S075 continuation.
