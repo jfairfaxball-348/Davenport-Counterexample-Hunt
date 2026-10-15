@@ -24,13 +24,14 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S071",
-  "recommended_next_session": "S072",
+  "last_completed_session": "S072",
+  "recommended_next_session": "S073",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": null,
   "phase1_target_status": "WITHHELD_NO_REPLACEMENT_CAMPAIGN",
   "open_blockers": [
+    "S072 CLM-0255–0257: genuine exact12 sixteen zero-colour original witness triangles either have at least one actual proper Fano XOR (NOT necessarily zero), OR all 12 supported colours have UNIQUE singleton type governed by common affine chi on L with beta sum1; chi annihilates genuine original endpoint/full-pair stabiliser W_A+W_B+W_C, but chi=0 odd constant types are still a formal escape. In m=2, majority E can NEVER be new fourth non-q mask. Neither original mod5 majority carry nor parity-even, proper grouped-X, FULL8/13+/all 26 hubs/P26 or full S060-gated hostile 59 labels proved. NO D(C20³)=58/G58; Phase1 IN_PROGRESS, CI ABSENT_NOT_PASS.",
     "S071 CLM-0252–0254: ACTUAL singleton-coset split quotient signature Phi(M)=R(h) is mandatory for any G[2] non-q-mask witness. Fano support iff Phi(M)=0; for m<=2 a THREE-mask A,B,A△B all-Fano original triangle is IMPOSSIBLE, and in m2 distinct [t_i] all nonempty masks demand one/two mixed singleton patterns. Any true cross-mask XOR has singleton split signature 000 grouped or111 transversal (proper), but zero-colour selection does NOT force 111, C5-zero XOR or even majority. Fully original mixed-support carry remains OPEN; FULL8/12+/26 hubs/P26 not solved, no G58 or D20 theorem.",
     "S070 CLM-0248–0251: exact ORIGINAL cross-mask weighted W=2sum majority K; genuine exact12 D_A=a+L,D_B=b+L,D_C=a+b+L permits actual zero-colour vA+vB+vC=0 witness selection BUT neither proper Fano XOR nor projected C5-zero and even majority is forced. For any proper zero-colour q-only X, mod5-zero X demands a nonzero order-two X and odd order-four K; even K would give a forbidden zero. Torsion majority with new non-q mask E would contradict exact12 but is not forced. Fixed triangle W is invariant under non-q 10theta paired gauge. FULL8, exact12, 13/14/15+, all 26 hubs and P26 unresolved; no G59 hostile fully q-gated or D20 proof.",
     "S069 CLM-0244–0247: same-full-I even Fano-XOR q-hub regrouping; anchored projected-zero U block fibre requires disjointness/monochromatic pair selection; cross-non-q-mask even Fano triangle transports to exact original q-only E(U\\\\J_X) but its weighted carry W equality is NOT forced. New CLM-0247: coincident four-Fano mod5 projections IFF all three genuine singleton swaps k_i=Y_i−X_i satisfy 2k_i=10q in C20³, then Delta12+Delta13+Delta23=q and common mod5 colour=4lambda(C), but S060 does NOT force these order-four equations. No universal FULL8/12+/large-cover conflict or fully q-gated hostile G59; alternate P26 and 26 hubs remain open.",
@@ -1026,5 +1027,29 @@
     "hosted_ci": "ABSENT_NOT_PASS",
     "review": "INTERNAL_SAME_EXECUTOR",
     "next": "S072 FUTURE_UNEXECUTED"
+  },
+  "s072_result": {
+    "date": "2026-10-15",
+    "claims": [
+      "CLM-0255",
+      "CLM-0256",
+      "CLM-0257"
+    ],
+    "actual_zero_colour_triangles": 16,
+    "selection_rigidity": "FANO_X_OR_UNIQUE_AFFINE_MIXED_STATUS",
+    "original_stabilisers": "COMMON_CHI_ANNIHILATES_AVAILABLE_W_SUM",
+    "m2_fourth_majority_mask": "IMPOSSIBLE",
+    "full_original_mod5_carry_forced": false,
+    "full_q_gated_G59": false,
+    "D_C20_cube_equals58": false,
+    "G58_zero_sumfree_candidate": false,
+    "claims_total": 257,
+    "sources_unchanged": 29,
+    "frontier_original30_unchanged": true,
+    "phase1": "IN_PROGRESS",
+    "CI": "ABSENT_NOT_PASS",
+    "branch_protection": "UNKNOWN_NOT_RECHECKED",
+    "review": "INTERNAL_SAME_EXECUTOR",
+    "next": "S073 FUTURE_UNEXECUTED"
   }
 }

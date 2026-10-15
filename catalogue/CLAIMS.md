@@ -1433,3 +1433,11 @@ Claims247→251, source records29 and original30 frontier rows unchanged, no ful
 - **CLM-0254 [PROGRAMME_PROVED; INTERNAL]** Any three true torsion witnesses of masks A,B,A△B, including mixed original singleton selections, have q-only original XOR X with singleton signature 000 (grouped) or111 (true Fano, automatically proper). S060 protects any proper zero of either kind; exact12 zero-colour does NOT force Fano branch, lambda_G(sum X)=0 or even majority. Full original-index proof above.
 
 Claims251→254. All29 source objects and original30 frontier row objects unchanged; no SOURCE_STATED promotion. No full q-gated original hostile G59, G58 zero-free example, D(C20³)=58 proof, Phase1 PASS or hosted CI PASS. S072 FUTURE/UNEXECUTED.
+
+## S072 — 15 October 2026: actual mixed-signature affine rigidity and m2 majority closure
+
+- **CLM-0255 [PROGRAMME_PROVED; INTERNAL; CONDITIONAL EXACT12]** The sixteen *actual* zero-colour supported triangles either yield some proper original Fano XOR h_X=111, or the 12 witnessed mask-colour singleton statuses are UNIQUE and all three functions f_P:L→F2 have the SAME affine linear part chi and beta constants summing to1. Source: [S072 proof](../research/S072_AFFINE_SINGLETON_TRIANGLE_RIGIDITY.md). This does not yield a mod5 zero or a fully labelled model.
+- **CLM-0256 [PROGRAMME_PROVED; INTERNAL]** On the no-Fano branch chi annihilates the sum of S066 *genuinely available* original split endpoint / unsplit pair stabilisers. If it spans L, all types are constant but grouped all-triangle parity patterns remain formally possible. Independent m2 endpoint-switch-only zero-colour operations cannot alter same/opposite majority agreements.
+- **CLM-0257 [PROGRAMME_PROVED; INTERNAL]** For m2 exact12, every non-q majority split mask is empty or one of A,B,C, so a fourth non-q majority mask is impossible. The fourth-mask target should be dropped in m2, not claimed as a Davenport theorem.
+
+Claims254→257, sources29/original30 frontier unchanged, Phase1 IN_PROGRESS, FULL8/exact12/13+/26 hubs and original-G mod5 carry OPEN; CI ABSENT_NOT_PASS, S073 strictly future.
