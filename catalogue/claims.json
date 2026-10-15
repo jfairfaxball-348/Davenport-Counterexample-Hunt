@@ -2773,6 +2773,24 @@
       "origin": "research/S075_OUTSIDER_SCHUR_CUBE_AND_COLLECTIVE_SWITCH.md",
       "source_ids": [],
       "notes": "S075 INTERNAL original-index symbolic proof, conditional scope; no G58 or D20 proof."
+    },
+    {
+      "id": "CLM-0267",
+      "statement": "In any actually original q-only S060-gated canonical C20³ total-zero T59, partition eight ORIGINAL g outsiders into four disjoint q pairs and add ONE ACTUAL even Fano transversal of three different singleton originals. All 31 nonempty indexed subset sums of the resulting five even H block values lie in E(U), since four original singleton indices remain unselected even if all U full pairs are included. D(C5)=5 forces E(U) to meet lambda^-1(ker f) for EVERY nonzero F5-linear f:C5³→C5. If lambda(E(U)) omits0 it occupies >=6 projective directions (31 hyperplanes, 6 through each direction); no full projected vector-zero or original zero is forced.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S076_OUTSIDER_HYPERPLANE_AND_Q_SPLIT_QUOTIENT.md",
+      "source_ids": [],
+      "notes": "S076 INTERNAL conditional true-original q-only 5-block hyperplane incidence and projective count; no universal saturation/G58/D20 theorem."
+    },
+    {
+      "id": "CLM-0268",
+      "statement": "At any true q split set I of m original pairs, the 12+2m disjoint parity-q original pseudovertices (eight g, s_q, three DOUBLE singleton groups, two original endpoints per split q pair) match into 6+m genuine parity-even H atoms. Every NONEMPTY PROPER atom-subcollection sum belongs to E(U outside I), while the ALL-atom case must be excluded because it can complete to the full total-zero original T. Thus for every quotient ψ:H↠A with D(A)<6+m one has E(U outside I) intersect ker ψ nonempty. For C5² projected quotient this holds at m>=4, for C5³ at m>=8, giving a NONZERO q-only original 10v sum; it is not a forbidden original zero or a signed Fano occupancy proof.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S076_OUTSIDER_HYPERPLANE_AND_Q_SPLIT_QUOTIENT.md",
+      "source_ids": [],
+      "notes": "S076 INTERNAL proper-atom exception and original q multi-split quotient theorem; uses established classical D(C5²)=9 and programme prime D(C5³)=13, no source proof promotion."
     }
   ]
 }

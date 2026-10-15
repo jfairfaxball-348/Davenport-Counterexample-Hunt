@@ -287,3 +287,8 @@ S069 CLM-0247 additional verified symbolic condition: TRUE four Fano projections
 | S075 | 2026-10-15 | Literal q-original outsider E(U) additive four-pair cube, non-saturating H22 U excluded by S060, real signed exchange and ninefold stabilisers | CLM-0263–0266 INTERNAL; Phase1 IN_PROGRESS, no fully q-gated original G59/G58/D20 theorem | session/S075-outsider-cube-signed-fibres |
 
 [S075 proof](../research/S075_OUTSIDER_SCHUR_CUBE_AND_COLLECTIVE_SWITCH.md) · [closeout](../sessions/S075/CLOSEOUT.md) · [review](../sessions/S075/REVIEW.md). 266 claims, source29/frontier30 unchanged, CI ABSENT_NOT_PASS; S076 future only.
+
+
+| S076 | 2026-10-15 | TRUE original outsider five-block hyperplane kernel; genuine q multi-split H28 quotient thresholds and all-atom properness exception | CLM-0267–0268 INTERNAL; no full G59/G58/D20 result; Phase1 IN_PROGRESS | session/S076-original-hyperplane-escape-obstruction |
+
+[S076 proof](../research/S076_OUTSIDER_HYPERPLANE_AND_Q_SPLIT_QUOTIENT.md) · [closeout](../sessions/S076/CLOSEOUT.md) · [review](../sessions/S076/REVIEW.md). 268 claims, sources29/frontier original30 unchanged; CI ABSENT_NOT_PASS, S077 FUTURE/UNEXECUTED.
