@@ -302,3 +302,8 @@ S069 CLM-0247 additional verified symbolic condition: TRUE four Fano projections
 ## S084 Phase1 gate — 15 October 2026
 
 **HOLD IN_PROGRESS, NO PASS.** CLM-0293–0295 eliminate eightfold outsider residual partitions 2+1+1 and four-distinct using exactly the original S083 cross/odd escape calculus and physically real full-pair U* cancellation. Combined with S082/S083, canonical axial U*=e1^8e2^8e3^6 q-only-compatible twelve actual q groups must have projected half-value max multiplicity≤7. However max7-and-below projected twelve-group spectra with true c5 sum (2,2,4), full E(U*) torsion, SAME-six ORIGINAL Fano quartet/2048, q E(U\\I), non-q signed witnesses, all 26 hubs/P26 and arbitrary U22 remain OPEN. No 59-gate survivor, G58 candidate or D(C20^3)=58. Claims295, sources29, original frontier30 unchanged; Phase2/3 NOT_STARTED, Phase4 OWNER_GATED, CAM-0001 BLOCKED, hosted CI ABSENT_NOT_PASS, INTERNAL SAME_EXECUTOR, S085 FUTURE.
+
+
+## S085 Phase-1 gate — HOLD (15 October 2026)
+
+CLM-0296–0299 prove narrow source-conditional axial original indexed constraints: sevenfold t1/2/4 excluded, t3 common actual third1/11 only, four same outsider residuals excluded, sixfold outsider escape test derived. DOES NOT close max<=7, true E all even supports, four SAME-six-original Fano lifts, 2048 transversals, E(U*\\I) split masks, mixed non-q gates, full8/exact12/13/14/>=15, arbitrary U22 or P26. **Phase1 IN_PROGRESS (NO PASS)**; Phases2/3 NOT_STARTED; Phase4 OWNER_GATED. CAM-0001 BLOCKED, source29/frontier30 frozen, CI ABSENT_NOT_PASS.

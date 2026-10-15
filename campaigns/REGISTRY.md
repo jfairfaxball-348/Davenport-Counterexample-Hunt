@@ -320,3 +320,8 @@ Only symbolic necessary even/odd original q projection/finite-field residual-cos
 ## S084 no campaign activation — 15 October 2026
 
 INTERNAL symbolic canonical axial q-only original-index proofs CLM-0293–0295 exclude all eightfold projected q half-fibres, giving max multiplicity≤7. No numerical mathematical search, generated model/orbits, CAS/SAT/ILP, historical author code, Lean, Palomar, external certification, source promotion, correspondence or publication. CAM-0001 remains PROPOSED / NOT_RUNNING / BLOCKED by n6 historical published value. Phase1 IN_PROGRESS no PASS, Phase2/3 NOT_STARTED, Phase4 OWNER_GATED, original source29/frontier30 preserved, hosted CI ABSENT_NOT_PASS, S085 FUTURE.
+
+
+## S085 — no new computational campaign, 2026-10-15
+
+Research only: CLM-0296–0299 symbolic sevenfold original 10-torsion and five-outsider cross, plus sixfold analytic necessary formula. Numerical search / generated orbit / CAS / SAT / ILP NOT PERFORMED. Existing CAM-0001 remains BLOCKED; no campaign state promotion, no new completeness certificate or CI PASS. Next S086 FUTURE after genuine merge.

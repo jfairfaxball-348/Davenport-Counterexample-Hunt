@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "session": "S085",
+  "date": "2026-10-15",
+  "entry_main": "ea404fd2971a213ffb6398eb5fa8ad68abfaafce",
+  "entry_true_root_tree": "7d7415d81b4c2bc3a57aa06b7627f5b68399b47b",
+  "s084_merge_parents": [
+    "4bc7b957ff3cedc979388debcb8ac97c4549e224",
+    "a4b209e2478e9bccd7868400d13a324e04e9f279"
+  ],
+  "precommit": true,
+  "math_review": "INTERNAL_SAME_EXECUTOR_SYMBOLIC",
+  "math_numerical_search": "NOT_PERFORMED",
+  "source_count_preserved": 29,
+  "frontier_original_rows_preserved": 30,
+  "claims_before": 295,
+  "claims_after": 299,
+  "new_claim_ids": [
+    "CLM-0296",
+    "CLM-0297",
+    "CLM-0298",
+    "CLM-0299"
+  ],
+  "sevenfold_escape": "PROVED_NECESSARY_INDEXED",
+  "sevenfold_t_classes_excluded": [
+    1,
+    2,
+    4
+  ],
+  "sevenfold_remaining_t": 3,
+  "sevenfold_original_third_torsion": "ALL_SAME_1_OR_11_MOD20",
+  "sevenfold_outsider_residual_max_multiplicity": 3,
+  "sixfold_escape": "PROVED_NECESSARY_NOT_EXCLUDED",
+  "universal_twelve_q_no_go": false,
+  "full_s060_gate": false,
+  "G58_zero_sumfree": false,
+  "D_C20_3_eq_58": false,
+  "phase1": "IN_PROGRESS",
+  "campaign": "CAM-0001_BLOCKED",
+  "entry_open_prs": 0,
+  "hosted_actions_runs": 0,
+  "combined_status_contexts": 0,
+  "ci": "ABSENT_NOT_PASS",
+  "rulesets": 0,
+  "main_protection": "UNKNOWN_403",
+  "next": "S086_FUTURE_UNEXECUTED"
+}
