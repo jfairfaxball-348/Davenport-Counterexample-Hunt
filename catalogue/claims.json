@@ -3452,6 +3452,15 @@
       "origin": "research/S099_FIVE_FLAT_FREE_FANO_COLOUR_COLLISION.md",
       "source_ids": [],
       "notes": "S099 INTERNAL SAME_EXECUTOR source-conditional actual original indexed hand proof, not independent/formal certification. V_l cannot be adjoined disjointly to Fano lines; requires all five among free S/g originals and four distinct leaf colours. No full12 q, signed multisplits, G58 or D20 theorem."
+    },
+    {
+      "id": "CLM-0342",
+      "statement": "In the source-conditional actual G20 original 59-index axial U*=e1^8e2^8e3^6 model, assume five genuine horizontal-flat q groups all are physically disjoint original free S/g singleton outsider positions; their third values are exceptional z^4(z+2) (z=1 or11), and their four ordinary z-leaf horizontal F2² colours occur as A,A,B,C with A,B,C pairwise different. The real I=empty Fano cuts involving two ordinary free singletons exhaust horizontal F2² and force every one of the four SAME actual even Fano half-sum x thirds into {0,1,2}. The actual exceptional+one/three free-singleton cuts have H vertical shifts2/3 and horizontal sets of three colours translated by nonzero B+C, excluding x third2. Thus all four actual x third lie in {0,1}. By true original C identity, C3=overline(V1+V2+V3)_3 odd can only be1 or3 mod10. Any actual C3=5/7/9 gives a selectable failed genuine L+R Fano original E(U*) cut with R two or four disjoint S/g singleton positions and a proper original zero after taking complete indexed U* pairs. No claim for C3=1/3, overlapping V_l or general G59.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S100_REPEATED_LEAF_PHYSICAL_FANO_RESIDUE_COLLISION.md",
+      "source_ids": [],
+      "notes": "S100 INTERNAL SAME_EXECUTOR source-conditional full G20 original-index hand proof; not independently/formally certified. All five flat labels are real singleton free outsiders, NEVER overlapping V_l. Named actual C3=5/7/9 subclass only. No full 2046/2048, q/non-q splits, G58 or D20 theorem."
     }
   ]
 }
