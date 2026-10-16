@@ -24,13 +24,14 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S098",
-  "recommended_next_session": "S099",
+  "last_completed_session": "S099",
+  "recommended_next_session": "S100",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": null,
   "phase1_target_status": "WITHHELD_NO_REPLACEMENT_CAMPAIGN",
   "open_blockers": [
+    "S099 CLM-0341 INTERNAL original SAME Fano exclusion: exceptional five-flat z^4(z+2) with all five distinct flat groups FREE original S/g q singleton indices and four ordinary flat leaf horizontal F2² 0/10 colours all different is IMPOSSIBLE; Fano 2/4 outsider shifts force each of four actual Fano x third0, contradict true three-odd V sum C3. Concrete original proper Fano+free-q+complete indexed U* pair zero for some L/R. V flat overlap or repeated colours, uniform five, <=4 flat, full12 q/2048/splits/7 p/26 hubs/arbitrary U22/P26/G59/G58/D20 OPEN. Phase1 HOLD, CAM BLOCKED, CI ABSENT_NOT_PASS.",
     "S098 INTERNAL CLM-0339/0340 actual indexed 59-original axial U*=8/8/6: FIVE original horizontal-flat q labels must have exact G20 thirds z^5 or z^4(z+2), z=1/11; exceptional case every exterior real q group horizontal2/12 slab, otherwise actual proper original zero. Uniform case exterior unslab groups have exact third z, at least one exterior is slab, every three exterior unslab labels satisfy G20 E1+F1=2 OR E2+F2=2, otherwise eight q groups plus original complete U* pairs give proper zero. Neither class globally excluded, no SAME Fano/endpoint CLM-0333/0334/0335 universally forced, original twelve-q/U22/P26/G59/G58/D20 OPEN. Phase1 HOLD, CAM BLOCKED, CI ABSENT_NOT_PASS.",
     "S097 CLM-0337–0338 INTERNAL: source-conditional original S060 axial U*=e1^8e2^8e3^6 full q perfect matching gates force any six genuine horizontal G20 0/10 q groups to have common exact third coordinate z=1 or11. Using S092 original sixfold q projected bound<=5, ANY fully q-gated axial candidate has at most FIVE such flat groups. Independent 8-flat exact original proper zero and 7-flat external horizontal {2,12} slab; S096 nine-flat physically indexed model has additional explicit 20-index and 4-index proper zeros. No full12 axial universal no-go or forced S095 trigger for <=5, no 2048 outsider/multisplit/26-hub/FULL8/12/13+/U22/P26/G59 bridge, G58/D20 remains OPEN. Phase1 HOLD; CAM BLOCKED; CI ABSENT_NOT_PASS.",
     "S096 CLM-0336: explicit same-original axial physical 59-index total-zero partial assignment passes all four Fano C/Delta, all 1024 F0 and all 22528 genuine omitted-Fano non-q one-split even-q-shift deletion E_i tests, with no S095 CLM-0333/0334/0335 trigger anywhere in 512 singleton 10-torsion lifts. Yet genuine q-group p000 original {S,g8,g1,g2} proper zero violates complete all-q-matchings. Thus incomplete local-gate-to-trigger forcing is FALSE; full q-gated implication, 2048 outsiders, non-q multisplits, 26 hubs, U22/P26 and unrestricted G59 OPEN. Phase1 HOLD, CAM BLOCKED, CI ABSENT_NOT_PASS.",
@@ -368,7 +369,7 @@
     "owner_blocker": false,
     "historical_dependency_reconciled": "S004 CLM-0068 / S005 sufficient conditional base5p-2 bypass restored and strengthened one position"
   },
-  "current_research_priority": "S096: prove a genuinely original-index implication from SAME actual S060 four x_e C/Delta, q matching/2048 data and all true indexed non-q endpoints that FORCES one CLM-0333 full axial torsion channel, CLM-0334 three mixed-channel odd XOR, or CLM-0335 endpoint opposite bit; avoid replacing original supports with slab shadows or claiming a universal 59-index theorem.",
+  "current_research_priority": "S100: extend genuine original-index same-Fano F0 collision CLM-0341 to exceptional five-flat with repeated horizontal leaf colours or V_l-overlapping flat q groups, without illegally treating V_l as Fano-disjoint; alternatively uniform five-flat actual G20 bridge. Prove a full named additional excluded class or a stronger original 59-index partial q-gated baseline, not a projected shadow.",
   "s040_result": {
     "claims": [
       "CLM-0148",
@@ -1693,5 +1694,32 @@
     "hosted_ci": "ABSENT_NOT_PASS",
     "review": "INTERNAL_SAME_EXECUTOR",
     "next": "S099_FUTURE_UNEXECUTED"
+  },
+  "s099_result": {
+    "date": "2026-10-16",
+    "entry_main": "77004d1caf0394d13ba3e480932dc923ef820a69",
+    "entry_true_git_root_tree": "f001f54869f8903c776cc0be1b779766343bddbd",
+    "claims": [
+      "CLM-0341"
+    ],
+    "claims_total": 341,
+    "true_original_positions": 59,
+    "true_q_supervertices": 12,
+    "excluded_subclass": "exceptional-five-flat-all-five-free-gS-four-leaf-horizontal-colours-F2²",
+    "same_four_physical_Fano_C_contradiction": true,
+    "literal_original_proper_zero_from_Fano_and_U_pairs": true,
+    "all_twelve_q_no_go": false,
+    "full_2048_Fano": false,
+    "nonq_multisplits_verified": false,
+    "universal_S095_trigger": false,
+    "G58_zero_sumfree": false,
+    "D_C20_3_eq58": false,
+    "source_records_untouched": 29,
+    "frontier_original_rows_untouched": 30,
+    "phase1": "IN_PROGRESS_HOLD",
+    "campaign": "CAM-0001_PROPOSED_NOT_RUNNING_BLOCKED",
+    "hosted_ci": "ABSENT_NOT_PASS",
+    "review": "INTERNAL_SAME_EXECUTOR",
+    "next": "S100_FUTURE_UNEXECUTED"
   }
 }

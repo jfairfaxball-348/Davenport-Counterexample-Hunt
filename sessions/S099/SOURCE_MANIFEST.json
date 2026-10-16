@@ -1,0 +1,11 @@
+{
+  "session": "S099",
+  "source_count_before": 29,
+  "source_count_after": 29,
+  "source_promotions": [],
+  "frontier_original_rows_untouched": 30,
+  "original_source_json_blob_sha": "b5d79188aa9fd60d370d743df96b7101e49ff8ad",
+  "original_frontier_json_blob_sha": "aa65505594d1a4f334d0b6335e59c0da5c3c6af4",
+  "numerical_mathematical_search": false,
+  "external_certification": false
+}
