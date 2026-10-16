@@ -357,3 +357,8 @@ INTERNAL SAME_EXECUTOR CLM-0329–0332 establish physical 512-member original G2
 ## S095 — 16 October 2026
 
 Conditional INTERNAL same-executor CLM-0333–0335 give **explicit physically proper original-index zeros** for axial U*=8/8/6 baselines meeting (i) one mod5 outsider saturation condition, (ii) three distinct mixed p=011/101/110 single-literal corners with odd shared XOR, or (iii) a true pair endpoint opposite-bit condition. No proof these trigger in every baseline, no all-12-q or all-Fano/multi-split/hub original 59-index impossibility, arbitrary U22/P26, G58 or D20 theorem. Claims335; original source29/frontier30 unchanged; Phase1 IN_PROGRESS/NO PASS, Phase2/3 NOT_STARTED, Phase4 OWNER_GATED, CAM-0001 BLOCKED, hosted CI ABSENT_NOT_PASS, protection UNKNOWN. S096 FUTURE ONLY.
+
+
+## S096 Phase1 gate — HOLD, 16 October 2026
+
+INTERNAL CLM-0336 explicit physically coherent 59-original-index total-zero nonminimal AXIAL partial configuration establishes a separateness result: true four Fano C/Delta, all 1024 F0 shifts and 22528 actual omitted-Fano both endpoint non-q one-split even q shifts pass; invariant p000 original four-q-group proper zero kills all-q atom while all S095 trigger hypotheses are absent. This is a proven FAILED q gate, not a passing countermodel or universal impossibility. No source/frontier changed (29/30), Phase1 IN_PROGRESS NO PASS; Phases2/3 NOT_STARTED, Phase4 OWNER_GATED, CAM-0001 BLOCKED, hosted CI ABSENT_NOT_PASS, branch protection UNKNOWN, INTERNAL SAME_EXECUTOR. No G58 zero-free or D20 theorem. S097 FUTURE ONLY.

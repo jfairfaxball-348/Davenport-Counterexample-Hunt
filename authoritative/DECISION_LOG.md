@@ -381,3 +381,6 @@ Accept CLM-0326–0328 as INTERNAL SAME_EXECUTOR exact **conditional** original-
 
 
 | 2026-10-16 | S095 axial true-original outsider modulo5 saturation, three genuinely different mixed-channel shared-coordinate odd XOR, and one physical pair endpoint doublet CLM-0333–0335 | research/S095_AXIAL_THREE_COSET_ACTUAL_INDEX_OBSTRUCTIONS.md; INTERNAL SAME_EXECUTOR actual indexed proofs | Conditional axial subsets excluded with literal proper original supports; no universally forced trigger, G59/G58 or D20 result. Claims335; Phase1 HOLD; CAM BLOCKED; source29/frontier30 frozen, hosted CI ABSENT_NOT_PASS; S096 FUTURE |
+
+
+| 2026-10-16 | S096 CLM-0336 fully physical axial 59-index partial original G20 model: 1024 F0 and 22528 genuine mixed Fano one-split q shifts passing, all S095 trigger hypotheses absent, explicit invariant p000 four-outsider zero breaks genuine q matching | research/S096_AXIAL_PHYSICAL_LOCAL_GATE_SEPARATION.md; sessions/S096/REVIEW.md, INTERNAL SAME_EXECUTOR | ACCEPT narrow partial-separation theorem ONLY; DO NOT infer full S060 q/2048/multisplit pass, universal trigger force or G58/D20 theorem. Claims336; Phase1 HOLD; CAM BLOCKED; original source29/frontier30 untouched; CI ABSENT_NOT_PASS; S097 FUTURE |

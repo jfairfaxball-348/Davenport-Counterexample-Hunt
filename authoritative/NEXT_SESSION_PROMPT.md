@@ -1,21 +1,16 @@
-# S096 — force a real axial original-index obstruction from the q/Fano/endpoint inputs (FUTURE / UNEXECUTED)
+# S097 — make the invariant p=000 twelve-q matching atom a constructive forcing input (FUTURE / UNEXECUTED)
 
-**Install at S095 closeout only. DO NOT EXECUTE without a fresh separate owner "run next session".**
+**Install on S096 closeout only. DO NOT EXECUTE without a new separate owner "run next session".**
 
-## Entry
-Pin the post-S095 merged main SHA and authentic root tree via Git endpoint. Confirm S095 ordinary two-parent merge, verify AGENTS and authoritative STATE, research/S060, S065, S092–S095 and S095 review, physical source29/frontier30. One session branch, exactly one atomic authored tree commit, PR with ordinary two-parent merge, postmerge main read. Hosted statuses/Actions empty mean ABSENT_NOT_PASS; protection inaccessible UNKNOWN. No numerical mathematical search, no enumeration of lifts, solver/CAS/SAT/ILP, campaign, Lean, Palomar, certification or external outreach.
+## Entry and governance
+Verify current merged main and true root tree directly; require S096 one authored tree commit and ordinary two-parent PR merge. Read AGENTS, authoritative STATE, S060/S065/S092–S096, S096 REVIEW, physical source29/frontier30, and live hosted checks. Session branch, precisely one atomic authored tree commit, PR with ordinary merge, postmerge remote read. No numerical mathematical search, lift enumeration, SAT/ILP/CAS, campaign, Lean, Palomar, source promotion or outside outreach. CI absent=ABSENT_NOT_PASS; branch protection inaccessible=UNKNOWN.
 
-## Sole mathematical burden
-S095 proves three **conditional** true original-index axial obstructions:
-- CLM-0333: an actual even-parity outsider R with p(R)!=0 and half-sum modulo5 in ({0,2,3,4},{0,2,3,4},{0,4}) saturates its whole seven-channel forbidden p class using explicit complete indexed U* pairs.
-- CLM-0334: three genuine five-index mixed Fano+non-q-split corners, one from each real singleton coset, having a single common-coordinate E(U*\i) rescue bit b_l with b1+b2+b3=1, contradict the shared z1+z2+z3=0 across channels 011/101/110.
-- CLM-0335: two genuine endpoints of ONE original non-q pair produce competing, opposite one-coordinate E_i rescue bits and an explicit original zero.
+## Main mathematical burden — genuinely original p000 before seven-channel forcing
+S096's physically coherent 59-index axial assignment passes all four coupled real Fano C/Delta, every F0 line shift and 22*2*2*256 genuine omitted-Fano non-q one-split + even-q-shift tests, with NONE of CLM-0333–0335 triggered in its 512 physical singleton fibre; it fails on the proper original q-only R0={S,g8,g1,g2}. **Do not mislabel this example a passing q-gated original G59.**
 
-**Now prove a new genuinely ORIGINAL 59-index implication which FORCES at least one of these triggers from a named broad family obeying S060's exact four SAME x_e, their full H C and mod2 Delta, genuine P_q all-matchings and 2048 outsiders, true q split I/alpha with E(U\I), actual non-q endpoint t_i and modulo20 carries.** Seek a cross-channel contradiction under all plausible axial twelve-q multiplicity<=5 q-supervertex arrangements, not merely another notation for already known necessary conditions. Use actual index-set supports and proper/full distinctions for every zero.
+Prove a new positive theorem USING the complete twelve genuinely indexed q-supervertex all-perfect-matching H28 atomicity in the axial U*=e1^8 e2^8 e3^6 class: derive explicit necessary restrictions on the SAME actual twelve q group G20 values, together with their full modulo20 carries and U* subset box, strong enough to eliminate a broad family that had survived S096's F0/mixed checks or force a real proper original zero. Seek a full axial 12-q no-go, not just maximum multiplicity<=5, or show a constructed physically consistent counter-obstruction passing a substantially stronger verified q-matching *subfamily* than S096. Require literal original support witness; distinguish all 2046 grouped proper outsiders, 2048 Fano-transversal residuals, full12 exception, and q P_q I/alpha E(U\\I).
 
-If no force is possible, prove a substantial obstruction to the intended argument by giving a physically consistent original-index partial configuration: actual six X/Y with fixed V_l, four x satisfying S060, genuine a_i,b_i for all invoked pairs, true total parity and correct U* counts, and analytically verify the specific q/mixed gates claimed to pass. Identify a remaining truly original mask/split constraint that kills it, or state precisely why you cannot. Do NOT call locally passing parity/CNF data a globally passing 59-original model.
+Then attempt to force CLM-0333, 0334, 0335 (or a fourth, genuinely original contradiction) from the strengthened complete q gates + SAME four x/C/Delta + actual non-q endpoint data, rather than from a projected/independent-value shadow. If unsuccessful, state the exact unproved bridge and do not inflate the result.
 
-Keep 26 hubs, FULL8/exact12/13+, all signed non-q multi-splits, alternate P26, arbitrary U22 and unrestricted G59 OPEN unless directly proved; no G58 zero-sumfree counterexample or D(C20^3)=58 claim without separately mandated certification/owner gates. Source29/frontier30 frozen, Phase1 HOLD, CAM-0001 BLOCKED.
-
-## Close
-Record extensive proof or failed proof attempt and literal original-support witnesses; coverage matrix, INPUT, INPUT_MANIFEST, PLAN, REVIEW, VALIDATION, SOURCE_MANIFEST, PRECOMMIT CLOSEOUT, synchronized claims/state/ledgers. Install S097 FUTURE only on completed S096 closeout, not during S096 entry.
+## Scope and closeout
+All seven p channels, p000, true signed multisplits, FULL8/exact12/13+, 26 hubs, alternate P26, arbitrary U22 and unrestricted original G59 remain OPEN unless actually proved. No zero-sumfree G58 or D(C20^3)=58 assertion without separate certification/owner gates. Preserve original source29/frontier30, Phase1 HOLD and CAM-0001 BLOCKED. Deliver proof, hostile review, coverage matrix, INPUT, INPUT_MANIFEST, PLAN, VALIDATION, SOURCE_MANIFEST, PRECOMMIT CLOSEOUT, synchronized claims/state/governance ledgers; install S098 FUTURE only at COMPLETED S097 closeout.

@@ -495,3 +495,8 @@ Year: 2026. Access: **ABSTRACT_INSPECTED** (2026-10-14).
 [ArXiv abstract](https://arxiv.org/abs/2609.04950)
 
 The dated abstract states D_k(C5³)=5k+10 for k≥2, hence D2(C5³)=20, and reports machine-assisted D3=25/D4=30. S066 did NOT inspect/reproduce independent numerical certificates or promote this to a programme-proved source theorem. CLM-0236 is explicitly CONDITIONAL on this external SOURCE_STATED value. All first28 original source JSON records remain unchanged; SRC-0008/0015/0023 retain their historical evidence statuses.
+
+
+## S096 source status freeze — 16 October 2026
+
+No new primary/secondary literature, access reclassification, evidence upgrade or external novelty statement. Original 29 source JSON objects unchanged. CLM-0336 is a direct same-executor hand-checked partial physical G20 construction, not literature evidence, numerical certification or a claim about D(C20^3). SRC-0008/0015/0023 remain SOURCE_STATED as before. S097 FUTURE.
