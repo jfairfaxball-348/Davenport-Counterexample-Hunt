@@ -3308,6 +3308,33 @@
       "origin": "research/S092_COMPLETE_AXIAL_SIXFOLD_NO_GO.md",
       "source_ids": [],
       "notes": "S092 INTERNAL SAME_EXECUTOR conditional necessary q-only original-index obstruction, no uniform original third-bit assumption at (3,4)/(4,3), no FULL12. Does NOT exclude all twelve q groups at max multiplicity<=5 or close H/Fano/2048/splits/non-q/hubs/arbitrary U22/P26, zero-free G58, D20 conjecture."
+    },
+    {
+      "id": "CLM-0326",
+      "statement": "In a single genuinely indexed canonical 59-original S060 configuration, any non-q original pair of parity t and the two genuine even Fano triples omitting the original singleton s_t force four H10 values in E(U\\{i}) forming one parallelogram y,y+delta,y+lambda,y+delta+lambda, with both opposite diagonal sums equal c=u_i+bar(V_l)+(V_j+V_k)/2 and rho(delta)=rho(u_i)+t. Failure gives an explicit nonempty proper original zero on 5..47 indices.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S093_SHARED_ORIGINAL_FANO_NONQ_RECTANGLE_BRIDGE.md",
+      "source_ids": [],
+      "notes": "INTERNAL SAME_EXECUTOR exact original-index conditional forcing, not an unconditional Fano, twelve-q, or D(C20^3) incompatibility."
+    },
+    {
+      "id": "CLM-0327",
+      "statement": "For each non-q parity t, all genuinely distinct non-q original pairs of that parity constrain the SAME two actual omitted-s_t Fano line values x_e,x_f to one simultaneous Omega_t intersection; absence of original proper zeros requires Omega_t∩(K_t−Omega_t) nonempty. Empty intersection yields a proper actual five-index-plus-complete-pairs zero.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S093_SHARED_ORIGINAL_FANO_NONQ_RECTANGLE_BRIDGE.md",
+      "source_ids": [],
+      "notes": "INTERNAL SAME_EXECUTOR derived necessary indexed overlap gate, no proof of universal emptiness; same four physical Fano values and original six singleton indices used for every t."
+    },
+    {
+      "id": "CLM-0328",
+      "statement": "For canonical axial U*=e1^8 e2^8 e3^6 in H=C10^3, after deleting any one indexed U pair, E(U*\\{i}) contains the full h1=1 and h2=1 affine planes and therefore E(U*\\{i})+E(U*\\{i})=H; also E(U*\\{i})∩5Q is empty. Thus a c-not-in-E+E diagonal-only argument cannot prove the axial mixed Fano contradiction.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S093_SHARED_ORIGINAL_FANO_NONQ_RECTANGLE_BRIDGE.md",
+      "source_ids": [],
+      "notes": "INTERNAL SAME_EXECUTOR elementary axial set calculation, strictly conditional; negative result closes only the diagonal-sum-only strategy, not the four-corner obstruction."
     }
   ]
 }

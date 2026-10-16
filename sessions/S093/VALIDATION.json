@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "session": "S093",
+  "date": "2026-10-16",
+  "entry_main": "b808c846e564124520f634b5a9f86f431a899d31",
+  "entry_tree_reconstructed": "b3324ac24fa424fd4e9716f318a6cd28f0006581",
+  "direct_root_tree_verification": "NOT_AVAILABLE",
+  "precommit": true,
+  "math_review": "INTERNAL_SAME_EXECUTOR",
+  "numerical_mathematical_search": false,
+  "claims_before": 325,
+  "claims_after": 328,
+  "claim_ids": [
+    "CLM-0326",
+    "CLM-0327",
+    "CLM-0328"
+  ],
+  "literal_proper_zero_if_corner_fails": true,
+  "proper_witness_index_count_range": [
+    5,
+    47
+  ],
+  "all12_q_no_go": false,
+  "full_original_compatibility_no_go": false,
+  "G58_zero_sumfree": false,
+  "D_C20_3_eq58": false,
+  "phase1": "IN_PROGRESS",
+  "campaign": "CAM-0001_PROPOSED_NOT_RUNNING_BLOCKED",
+  "hosted_ci": "ABSENT_NOT_PASS",
+  "combined_statuses": 0,
+  "pr_workflow_runs": 0,
+  "open_prs_at_entry": 0,
+  "protection": "UNKNOWN",
+  "sources_untouched": 29,
+  "frontier_original_rows_untouched": 30,
+  "next": "S094_FUTURE_UNEXECUTED"
+}
