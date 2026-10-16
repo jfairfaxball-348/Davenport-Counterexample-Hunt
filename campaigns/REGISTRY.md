@@ -370,3 +370,8 @@ Only INTERNAL hand-original CLM-0326–0328 on physical Fano/non-q one-split mix
 ## S094 no campaign activation — 16 October 2026
 
 Only INTERNAL symbolic hand-mathematics CLM-0329–0332 on one physical original 512-lift family and its seven indexed support parity channels; 512 is an algebraically counted torsion fibre, **NOT enumerated**. No numerical mathematical search, orbit campaign, SAT/CAS/ILP, generated survivor, Lean/Palomar, source promotion, independent certification, outreach or publication. CAM-0001 remains PROPOSED NOT_RUNNING BLOCKED by published n6=16. Phase1 HOLD; Phases2/3 NOT_STARTED; Phase4 OWNER_GATED; source29/frontier30 unchanged; hosted CI ABSENT_NOT_PASS; S095 FUTURE.
+
+
+## S095 no campaign activation — 16 October 2026
+
+Only INTERNAL conditional original-index axial no-go proofs CLM-0333–0335 (full forbidden p channel from one real outsider, three-coset one-coordinate odd XOR from real mixed Fano/non-q split original supports, and two real pair endpoint clash). 512 is a symbolically described old lift fibre, NOT enumerated; no mathematical numerical search, SAT/CAS/ILP, generated model/candidate, Lean/Palomar, sources/promotions or external certification. CAM-0001 remains PROPOSED NOT_RUNNING BLOCKED by source-stated n=6 D=16; Phase1 IN_PROGRESS/HOLD, Phase2/3 NOT_STARTED, Phase4 OWNER_GATED; source29/frontier30 unchanged, hosted CI ABSENT_NOT_PASS; S096 FUTURE ONLY.
