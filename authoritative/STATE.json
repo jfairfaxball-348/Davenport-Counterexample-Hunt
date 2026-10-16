@@ -24,13 +24,14 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S087",
-  "recommended_next_session": "S088",
+  "last_completed_session": "S088",
+  "recommended_next_session": "S089",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": null,
   "phase1_target_status": "WITHHELD_NO_REPLACEMENT_CAMPAIGN",
   "open_blockers": [
+    "S089: resolve sixfold q projections (notably horizontal0 t2/t3 odd exceptional sums), ≤5 fibres, all true original H/Fano/2048/q-splits/non-q signed gates and arbitrary U22/P26; sevenfold axial now excluded.",
     "S087 CLM-0304–0306: size3/4 7fold t3 five-outsider two-layer necessary gates are exact complements of size2/1; all horizontal-axis v (including origin) excluded in actual original indexed axial U*=8/8/6 conditional T59, leaving SIXTEEN ab!=0 projected horizontal parameters (none certified feasible). Full sevenfold no-go, sixfold t2/3 origin, <=5 spectra, real H/Fano/2048/q splits/signed non-q/26 hubs/arbitrary U22/P26, G58 and D(C20³)=58 OPEN. Claims306 sources29/frontier30 preserved Phase1 IN_PROGRESS CAM BLOCKED CI ABSENT_NOT_PASS.",
     "S086 two-layer sevenfold canonical axial original q gate excludes ONLY horizontal v=(0,0) at t3; v!=(0,0) (24 projected values), all <=6 general fibre spectra, full genuine H/Fano/q-split/non-q signed original gates, arbitrary U22/P26, G58/D20 remain OPEN. Sixfold horizontal v=0 rules out t1/4, not t2/3.",
     "S085 sevenfold axial U* q projection: only t=3 with seven identical REAL group third coordinates1 or11 mod20 and five outsider residual horizontal multiplicity<=3 remains; no universal sevenfold nor six-or-fewer no-go; all actual S060 Fano/q-split/non-q gates remain OPEN.",
@@ -76,6 +77,7 @@
   "gate_ledger": "docs/PHASE_GATE_LEDGER.md",
   "source_snapshot": "2026-10-12",
   "warnings": [
+    "S088 CLM-0307–0310 exclude ALL sevenfold true q half-projected fibres ONLY for the fixed canonical axial U*=8/8/6 ORIGINAL-index profile; projected multiplicity ≤6 is not universal twelve-q elimination, arbitrary U22/P26, full Fano/2048/q-split/non-q signed original gate, G58 or D(C20³)=58. S087 complement excludes full twelve, proof never uses five-outside/full12 as proper. Independent verification still absent.",
     "S087 complement size3/4 clauses are DUPLICATES of size2/1 through five-outsider total; do not double count them as independent constraints. The all-five selection includes full12 and remains EXEMPT; the sixteen ab!=0 values are unresolved, not projected survivors. All literal proper G zeros must include genuine q originals and BOTH ends of indexed U* pairs; even satisfying E5 is not full E or S060. Internal same-executor only; no CI PASS or global conjecture.",
     "S081: pi5(E(U*)) omitting0 does NOT mean its image under ANY proper linear quotient omits0: EVERY nonzero-kernel quotient is saturated. Zero-free 9a+3b C2×C5² *projected* shadow has an actual total-zero 59-label lift but that literal lift FAILS q-only, and EVERY 9a lift fails by a 4-colour original torsion-fibre bound. Do not mistake projected zero avoidance for all 2048 outsider/Fano/split gates or a G58.",
     "S080 φ(E(U)) image zero-avoiding is an ESSENTIAL hypothesis: H E(U) itself always avoids0 but φ(E(U)) may include0. U*=e1^8e2^8e3^6 has full φ(E) for EVERY φ. Do not promote character sieve to arbitrary U or infer a fully gated original survivor. Six-block scalar 0-free property only for scalar projection; full six H atom is excluded from E. S079 scalar-total6 hypothesis is now superseded for the broadened class.",
@@ -360,7 +362,7 @@
     "owner_blocker": false,
     "historical_dependency_reconciled": "S004 CLM-0068 / S005 sufficient conditional base5p-2 bypass restored and strengthened one position"
   },
-  "current_research_priority": "S088: finish exactly sixteen canonical axial sevenfold t3 horizontal v=(a,b), ab!=0; by S087 all axis/origin ruled out and all five-outsider proper-size1..4 projection cross gates reduce to five singletons plus ten pairs. Use S087 two-point A/B rigidity and e_total1, W=(2,2)-3v; symbolic hand proof only; full SAME-six-original H/Fano/2048/q-splits/non-q/P26 remains open.",
+  "current_research_priority": "S089: canonical axial original q half-projection multiplicity at most SIX (S088 internal source-conditional CLM-0307–0310). Attack sixfold v0 t2/t3 odd escape, then nonzero horizontal and any t; no universal twelve-q, true S060/Fano/2048/splits/mixed, arbitrary U22 or P26 result yet.",
   "s040_result": {
     "claims": [
       "CLM-0148",
@@ -1402,5 +1404,35 @@
     "CI": "ABSENT_NOT_PASS",
     "review": "INTERNAL_SAME_EXECUTOR",
     "next": "S088_FUTURE_UNEXECUTED"
+  },
+  "s088_result": {
+    "date": "2026-10-16",
+    "entry_main": "0b4825905541b212ecb3e8f4e21000f1ed25f863",
+    "entry_true_git_root_tree": "8f4fb20ff7699da483b838f93c4db4984d41364d",
+    "claims": [
+      "CLM-0307",
+      "CLM-0308",
+      "CLM-0309",
+      "CLM-0310"
+    ],
+    "sevenfold_horiz_excluded_total": 25,
+    "sevenfold_ab_nonzero_excluded_new": 16,
+    "axial_q_projected_fibre_upper_bound": 6,
+    "conditional_on": "S060 true original 59-index axial U*=e1^8e2^8e3^6 and proper original zero avoidance",
+    "sevenfold_no_go": true,
+    "universal_twelve_q_no_go": false,
+    "sixfold_open": true,
+    "real_full_S060_Fano_2048_split_mixed_closed": false,
+    "arbitrary_U22_closed": false,
+    "G58_zero_sumfree": false,
+    "D_C20_3_eq58": false,
+    "claims_total": 310,
+    "original_sources29_untouched": true,
+    "frontier_original30_untouched": true,
+    "phase1": "IN_PROGRESS",
+    "campaign": "CAM-0001_BLOCKED",
+    "CI": "ABSENT_NOT_PASS",
+    "review": "INTERNAL_SAME_EXECUTOR",
+    "next": "S089_FUTURE_UNEXECUTED"
   }
 }
