@@ -452,3 +452,8 @@ Successful nonpromotion: five-outside necessary gates truly preclude any sevenfo
 ## S089 — sixfold origin exceptions are not real survivors (16 October 2026)
 
 S086 left v0,t2/t3 exceptions only because the outsider mod5 sieve was incomplete: **t2 fails genuine H torsion already on pairs of six repeated real q groups**, while t3's odd e=1 exception does not rescue all five outsiders simultaneously. The exact K6 pair cross geometry forces five residual (3,4)/(4,3) copies and one (2,2); all genuine triples of those five imply each e=2, contradicting the genuinely proper five-outsider odd exceptional sum. The sixfold total is e_all=beta-1 and W=(2,2)-beta*v, never the sevenfold formula. Do not impose J=all six fourth gate: it is FULL12, and t3 zero gate is physically missing. Two exceptional v=(3,4),(4,3) do NOT inherit uniform actual G third from pure-repeat torsion. No sixfold nonzero-v elimination, full original G59 closure, G58 or Davenport proof. S090 FUTURE only.
+
+
+## S090 — why a projected e-ratio no-go remains only partial
+
+All v!=0 have no 4+ outsider e1 and no all-six e0/e2; generic strong≤2. Still p≤3 spectra remain. Critically e1 singleton has NO C0/C4 gate, and all-six outsider fourth cancellation selects FULL12 and is EXEMPT; neither assumption may be smuggled into a proof. An admissible mod5 shadow is NOT a full H/S060 original-index survivor, true third torsion exceptions (3,4)/(4,3) remain. Phase1 HOLD; S091 FUTURE.

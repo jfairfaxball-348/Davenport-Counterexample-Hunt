@@ -351,3 +351,8 @@ Direct owner invocation after genuine S087 merge 0b4825905541b212ecb3e8f4e21000f
 ## S089 — 16 October 2026
 
 Fresh owner invocation following genuine S088 two-parent merge 50f289728d02c62c00fef70ba231b0ad245772ae, original root tree 8c3866a0262f212a39091e8c958a0d1c68202cfc; five new internal conditional claims CLM-0311–0315. Sixfold genuine projected q fibres can have only third3, with nonzero horizontal v; neither all sixfold nor full twelve-q eliminated. No mathematical numerical search, candidate, Lean/Palomar, source promotion or external review. Sources29/frontier30 unchanged; Phase1 HOLD, CAM-0001 BLOCKED, hosted CI ABSENT_NOT_PASS. [Research](../research/S089_SIXFOLD_TORSION_AND_ORIGIN_NO_GO.md), [precommit closeout](../sessions/S089/CLOSEOUT.md); S090 future only.
+
+
+## S090 — 16 October 2026
+
+Owner authorised after genuine two-parent S089 merge 8a927ce00b0b9e264f5429fb239baaa36bfc6b58, entry true tree 47da6b1dffdcbdaeaff6deb28b43c933f7bc0f77. [Hand proof](../research/S090_SIXFOLD_HIGH_ONE_AND_ALL_STRONG_EXCLUSIONS.md), [review](../sessions/S090/REVIEW.md), [PRECOMMIT closeout](../sessions/S090/CLOSEOUT.md). CLM-0316–0318 eliminate sixfold e1≥4, all-six-strong and >2 generic strong outsider patterns, not all sixfold. Source29/frontier30 unchanged, claims315→318; Phase1 HOLD, CAM BLOCKED, hosted CI ABSENT_NOT_PASS. Branch session/S090-sixfold-outsider-spectra; S091 FUTURE.

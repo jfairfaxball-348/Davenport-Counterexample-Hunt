@@ -1,0 +1,7 @@
+# S090 PRECOMMIT CLOSEOUT — 16 October 2026
+
+Single owner-authorised S090 after S089 ordinary two-parent merge 8a927ce00b0b9e264f5429fb239baaa36bfc6b58; entry true tree 47da6b1dffdcbdaeaff6deb28b43c933f7bc0f77. PRECOMMIT: no authored SHA, PR number or merged SHA guessed. Read [hand proof](../../research/S090_SIXFOLD_HIGH_ONE_AND_ALL_STRONG_EXCLUSIONS.md) and [SAME_EXECUTOR hostile review](REVIEW.md).
+
+CLM-0316: high outsider e1 multiplicity≥4 impossible on all nonzero sixfold t3 horizontal v (including axes, (3,1)/(1,3)/(4,4), and actual repeated-third torsion exceptions (3,4)/(4,3)). CLM-0317: all-six-strong outsider e0/e2 impossible. CLM-0318: ≤2 strong on nonzero axes and off-axis away from three special values. All violated gates construct proper 59-original G zero with real q originals and both endpoints of indexed complete U* pairs; NEVER all12.
+
+Claims315→318, original sources29/frontier30 untouched. Phase1 IN_PROGRESS/HOLD, CAM-0001 PROPOSED NOT_RUNNING BLOCKED, Phases2/3 NOT_STARTED, Phase4 OWNER_GATED. Hosted Actions/check/status0 ABSENT_NOT_PASS, rulesets0, branch protection403 UNKNOWN. No mathematical numerical search, CAS/SAT/ILP, candidates, Lean/Palomar, third-party reviewer or certification/publication. Remaining p≤3 e spectra, true H/Fano/2048/splits/non-q/26-hub/FULL8/12+/other U22/P26 open; no sixfold global no-go, zero-free G58, D(C20³)=58 or general Davenport result. S091 FUTURE/UNEXECUTED only after a separate later owner invocation.
