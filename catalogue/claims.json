@@ -3461,6 +3461,15 @@
       "origin": "research/S100_REPEATED_LEAF_PHYSICAL_FANO_RESIDUE_COLLISION.md",
       "source_ids": [],
       "notes": "S100 INTERNAL SAME_EXECUTOR source-conditional full G20 original-index hand proof; not independently/formally certified. All five flat labels are real singleton free outsiders, NEVER overlapping V_l. Named actual C3=5/7/9 subclass only. No full 2046/2048, q/non-q splits, G58 or D20 theorem."
+    },
+    {
+      "id": "CLM-0343",
+      "statement": "In the source-conditional same actual G20 59-index axial U*=e1^8e2^8e3^6 exceptional five-flat z^4(z+2) class with all five q flats genuinely disjoint original S/g singleton indices and four ordinary horizontal colours A,A,B,C (three distinct), every genuine even Fano half-sum with third0 passes all even cuts among these five free flats iff its horizontal x1=1 OR x2=1 (empty original Fano cut); each with third1 passes iff its horizontal values equal K=(6-5m1,6-5m2) mod10, m=D+A, D exceptional colour. By S100 all four actual Fano thirds in {0,1}. If true C3=3, three thirds1 force three horizontal K; fourth must be C_horizontal-3K and have coordinate1, giving (m1=1,C1=4) OR (m2=1,C2=4), and exact S060 Delta forces the three actual horizontal eta_i=(V_i_horizontal/2 mod2)+r_i_horizontal to be equal. Violation of either condition, in particular C3=3 and D=A, yields selectable genuine Fano+0/4 free singleton+complete indexed U* pairs nonempty proper G20 zero. If C3=1 and D=A, one Fano has horizontal parity00, the three third0 lines must have the three distinct nonzero horizontal parity vectors, forcing eta_i pairwise distinct; violation gives an original proper Fano zero. No sufficiency or general V overlap/G59/G58/D20 claim.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S101_PHYSICAL_FANO_HORIZONTAL_RESCUE_AND_C3_CONGRUENCES.md",
+      "source_ids": [],
+      "notes": "S101 INTERNAL SAME_EXECUTOR conditional hand proof, not externally independently or formally verified. ONLY five physically free original S/g singleton flat outsiders, not overlapping V. Local iff does NOT entail global model. Other C3=1/3 cases and full 2046/2048, signed non-q splits, G58/D20 OPEN."
     }
   ]
 }

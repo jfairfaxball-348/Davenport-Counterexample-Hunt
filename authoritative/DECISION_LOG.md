@@ -396,3 +396,6 @@ Accept CLM-0326–0328 as INTERNAL SAME_EXECUTOR exact **conditional** original-
 
 
 | 2026-10-16 | S100 CLM-0342 original five-free-flat exceptional A,A,B,C Fano residue collision, C3=5/7/9 impossible via true 2/4 disjoint singleton F0 cuts | research/S100_REPEATED_LEAF_PHYSICAL_FANO_RESIDUE_COLLISION.md; sessions/S100/REVIEW.md; INTERNAL SAME_EXECUTOR | ACCEPT narrowly true repeated 2+1+1 free-leaf subclass C3=5/7/9 only; C3=1/3, V overlaps and global G59/U22/D20 OPEN. Claims342; Phase1 HOLD, CAM BLOCKED, source29/frontier30 unchanged, hosted CI ABSENT_NOT_PASS; S101 FUTURE |
+
+
+| 2026-10-16 | S101 CLM-0343 actual free-flat Fano t0 EMPTY-horizontal rescue and t1 exact K; true C-horizontal/Delta excludes additional C3=3 cases incl D=A, and C3=1,D=A with repeated eta | research/S101_PHYSICAL_FANO_HORIZONTAL_RESCUE_AND_C3_CONGRUENCES.md; sessions/S101/REVIEW.md; INTERNAL SAME_EXECUTOR | ACCEPT narrow physically indexed source-conditional proof; reject all C3=1/3/V-overlap/full12 q/non-q signed/G59/G58/D20 claims. Claims343; Phase1 HOLD, CAM BLOCKED, 29 source/30 frontier preserved, CI ABSENT_NOT_PASS; S102 FUTURE |
