@@ -375,3 +375,8 @@ Only INTERNAL symbolic hand-mathematics CLM-0329–0332 on one physical original
 ## S095 no campaign activation — 16 October 2026
 
 Only INTERNAL conditional original-index axial no-go proofs CLM-0333–0335 (full forbidden p channel from one real outsider, three-coset one-coordinate odd XOR from real mixed Fano/non-q split original supports, and two real pair endpoint clash). 512 is a symbolically described old lift fibre, NOT enumerated; no mathematical numerical search, SAT/CAS/ILP, generated model/candidate, Lean/Palomar, sources/promotions or external certification. CAM-0001 remains PROPOSED NOT_RUNNING BLOCKED by source-stated n=6 D=16; Phase1 IN_PROGRESS/HOLD, Phase2/3 NOT_STARTED, Phase4 OWNER_GATED; source29/frontier30 unchanged, hosted CI ABSENT_NOT_PASS; S096 FUTURE ONLY.
+
+
+## S096 no campaign activation — 16 October 2026
+
+One hand-constructed explicit 59-index **fatal partial-test model** (CLM-0336), not a candidate and not a search-generated survivor. It passes selected Fano/mixed E gates analytically but fails a direct four-outsider q atom. No numerical mathematical search, 512 fibre enumeration, solver/CAS/SAT/ILP, formal proof, external certification, source promotion or new campaign. CAM-0001 remains PROPOSED NOT_RUNNING BLOCKED; Phase1 HOLD, Phases2/3 NOT_STARTED, Phase4 OWNER_GATED, source29/frontier30 unchanged, CI ABSENT_NOT_PASS. S097 FUTURE.

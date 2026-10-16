@@ -1,0 +1,3 @@
+# S096 INPUT — 16 October 2026
+
+Fresh owner invocation exactly: "Run next session". Entry live main `cb9b86cb3293adfbc1b0578b6a4149fec8e94d67`, true direct Git object tree `b1befeb1a44ed82e41e800396bc7ed2b6f5288b2`, S095 ordinary two-parent merge; S096 prompt blob `e0caa269ff4a90ab81a0cd2dddeff31dff9aab04`. AGENTS, S060/S065/S092–S095 and S095 review read. Actual 59 original index setting, 29 source records and 30 initial frontier rows frozen. User invocation text is known; no separate cryptographic invocation hash asserted. No numerical mathematical search, solver, orbit enumeration, Lean, Palomar, campaign, publication or external contact authorized.

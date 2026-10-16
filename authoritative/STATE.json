@@ -24,13 +24,14 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S095",
-  "recommended_next_session": "S096",
+  "last_completed_session": "S096",
+  "recommended_next_session": "S097",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": null,
   "phase1_target_status": "WITHHELD_NO_REPLACEMENT_CAMPAIGN",
   "open_blockers": [
+    "S096 CLM-0336: explicit same-original axial physical 59-index total-zero partial assignment passes all four Fano C/Delta, all 1024 F0 and all 22528 genuine omitted-Fano non-q one-split even-q-shift deletion E_i tests, with no S095 CLM-0333/0334/0335 trigger anywhere in 512 singleton 10-torsion lifts. Yet genuine q-group p000 original {S,g8,g1,g2} proper zero violates complete all-q-matchings. Thus incomplete local-gate-to-trigger forcing is FALSE; full q-gated implication, 2048 outsiders, non-q multisplits, 26 hubs, U22/P26 and unrestricted G59 OPEN. Phase1 HOLD, CAM BLOCKED, CI ABSENT_NOT_PASS.",
     "S095 INTERNAL CLM-0333–0335: for source-conditional ACTUAL axial U*=8/8/6 G59, a specified true outsider cut saturates V_p=Q with literal complete-pair zero witnesses, or three genuine mixed channels 011/101/110 with one shared slab coordinate have odd XOR conflicting with z1+z2+z3=0, or true pair endpoints force opposite one-coordinate bits. These are CONCRETE PROVED CONDITIONAL NO-GO CERTIFICATES, NOT FORCED for all S060 baselines. Universal seven-channel incompatibility, full12 q, all 2048/multi-splits/FULL8/12+/26 hubs, arbitrary U22/P26, unrestricted G59, G58 and D20 remain OPEN. Phase1 HOLD, CAM BLOCKED, CI ABSENT_NOT_PASS.",
     "S094 INTERNAL CLM-0329–0332: in each REAL fixed mod10 six-singleton S060 q-coset baseline there are exactly 512 physical 10-torsion lifts; full original proper-support zero-avoidance is exactly seven nonzero p-mask channels plus invariant p000, with one XOR-shared w,z1,z2,z3. Four real Fano x translate by 5w; both t original singleton parities in coset l share z_l. Axial E_i Boolean slabs derived. UNIVERSAL same-original incompatibility NOT PROVED; twelve q/2048/multi-splits/26 hubs/FULL8/12+/arbitrary U22/P26 and unrestricted G59/G58/D20 OPEN. Phase1 HOLD; source29/frontier30 frozen, CAM BLOCKED, CI ABSENT_NOT_PASS.",
     "S093 INTERNAL CLM-0326–0328: one real non-q pair and its same-index s_t create two genuine Fano lines/four endpoint rectangle in E(U\\i); all pairs of parity t share Omega_t∩(K_t−Omega_t), but emptiness is NOT forced. Axial E(U*\\i)+E(U*\\i)=H defeats total-only argument. Full12 q/Fano/2048/q multi-splits/signed non-q multi-splits/26 hubs/FULL8/exact12/13/14/15+/arbitrary U22/P26, G58/D20 OPEN. Phase1 HOLD; CAM BLOCKED; CI ABSENT_NOT_PASS.",
@@ -1617,5 +1618,41 @@
     "protection": "UNKNOWN",
     "review": "INTERNAL_SAME_EXECUTOR",
     "next": "S096_FUTURE_UNEXECUTED"
+  },
+  "s096_result": {
+    "date": "2026-10-16",
+    "entry_main": "cb9b86cb3293adfbc1b0578b6a4149fec8e94d67",
+    "entry_true_git_root_tree": "b1befeb1a44ed82e41e800396bc7ed2b6f5288b2",
+    "claims": [
+      "CLM-0336"
+    ],
+    "physical_original_positions": 59,
+    "true_full_G20_sum_zero": true,
+    "Fano_C_Delta_verified": true,
+    "F0_indexed_even_q_shift_tests": 1024,
+    "nonq_both_endpoint_omitted_Fano_even_q_shift_tests": 22528,
+    "S095_trigger_antecedents_absent_for_all_singleton_lifts": true,
+    "invariant_p000_actual_original_zero": [
+      "S",
+      "g8",
+      "g1",
+      "g2"
+    ],
+    "full_twelve_q_matching_atom": false,
+    "full_2048_outsider_gate_unproved": true,
+    "universal_forcing_of_S095_triggers": false,
+    "full_original_compatibility_no_go": false,
+    "arbitrary_U22_P26_closed": false,
+    "G58_zero_sumfree": false,
+    "D_C20_3_eq58": false,
+    "claims_total": 336,
+    "source_records_untouched": 29,
+    "frontier_original_rows_untouched": 30,
+    "phase1": "IN_PROGRESS_HOLD",
+    "campaign": "CAM-0001_BLOCKED",
+    "hosted_CI": "ABSENT_NOT_PASS",
+    "protection": "UNKNOWN_403",
+    "review": "INTERNAL_SAME_EXECUTOR",
+    "next": "S097_FUTURE_UNEXECUTED"
   }
 }

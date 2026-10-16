@@ -3398,6 +3398,15 @@
       "origin": "research/S095_AXIAL_THREE_COSET_ACTUAL_INDEX_OBSTRUCTIONS.md",
       "source_ids": [],
       "notes": "S095 INTERNAL SAME_EXECUTOR purely symbolic original-index conditional theorem; fixed real S060 axial U*=8/8/6 physical baselines only. No universal forced triggers, numerical mathematical search, 59-global no-go, G58 zero-free candidate, independent or formal certificate."
+    },
+    {
+      "id": "CLM-0336",
+      "statement": "There exists a genuinely 59-original-index total-zero G=(Z/20)^3 axial S060-profile physical assignment with all pair parities t=110, q=001, U*=e1^8 e2^8 e3^6 zero-sumfree, all four same-original Fano x/C/Delta conditions, all 4*256 F0 and all 22*2*2*256 omitted-Fano non-q one-split both-endpoint even-q-outsider E(U\\i) tests passing, yet no CLM-0333/0334/0335 trigger anywhere in its fixed 512 singleton 10-torsion fibre; the actual invariant original four-index support {S,g8,g1,g2} has sum0, so the all-q-group perfect-matching atom fails. This refutes ONLY the specified local gate-to-trigger inference, NOT the stronger fully q-gated S060 hypothesis.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S096_AXIAL_PHYSICAL_LOCAL_GATE_SEPARATION.md",
+      "source_ids": [],
+      "notes": "S096 INTERNAL SAME_EXECUTOR hand algebra, full physically original modulo20 59-label total-zero PARTIAL model that FAILS all-q matching; 1024 F0 and 22528 mixed tests checked symbolically, no whole-fibre mathematical enumeration, no globally S060-gated survivor, no 58-zero-free, D20 theorem or independent certification."
     }
   ]
 }

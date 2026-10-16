@@ -1,0 +1,15 @@
+# S096 HOSTILE SAME-EXECUTOR REVIEW — 16 October 2026
+
+**Disposition: CLM-0336 ACCEPT at the narrow scope stated; proposed universal trigger-force proof FAILED / NOT ESTABLISHED.** No independent mathematical verification.
+
+1. Entry authenticity: main `cb9b86cb3293adfbc1b0578b6a4149fec8e94d67`; direct commit-object root `b1befeb1a44ed82e41e800396bc7ed2b6f5288b2`; S095 was two-parent merge, prompt S096 previously FUTURE; no open PR, zero Actions, zero actual combined statuses = ABSENT_NOT_PASS, branch protection 403 = UNKNOWN.
+2. Total and indexing: 22 actual pair labels (8+8+6), eight actual g indices, seven original s labels. All t_i=110, q=001. G20 sum is (20,20,40)=0. Identical values are not identical labels.
+3. S060 four-transversal: same true X_l/Y_l; x0=(1,1,0), x12=x13=x23=(1,1,1); C=(4,4,3) and Delta12/13/23=(0,0,1) follow from actual V_i. No lifted x selected independently.
+4. U* zero-subsets: coordinates counts under 10. For all 256 even subsets of q outsiders, shifts have horizontal=0. All Fano x first/second=1 in E(U*), giving 1024 F0 labelled tests. P_q truly empty, so q original pair split tests here are vacuous; **q matching tests are not vacuous**.
+5. True non-q endpoints: s_110=X3; only Fano L13/L23 omit it. The two H half-corners for every e1/e2/e3 pair match the table in research. Correct `E(U*\\i)` negative boxes admit fixed horizontal slabs regardless of EVEN q outsider shifts; 22*2*2*256=22528 labelled gated tests, not an exhaustive mixed-support proof.
+6. Non-trigger audit: an even outsider subset p!=0 forces p111 and half-sum horizontal (1,1) modulo5; all t_i in third coset, not three; delta=(0,9,0),(9,0,0),(1,9,1), not five-separated anywhere. Thus the precise CLM-0333/0334/0335 antecedents fail throughout the 512 shared singleton fibre, without enumerating that fibre.
+7. Fatal invariant gate: S+g8+g1+g2=(0,0,20)=0, proper original four-index support. Matching real 12 q groups with (S,g8),(g1,g2) gives actual H blocks (0,0,9),(0,0,1) summing zero. This belongs to q **p000** proper matching family (2046 class), *not* the 2048 transversals. Full 59 original T also sums0 but is not used as witness.
+8. Strong objection upheld: the model FAILS S060 all-matchings and is therefore NOT a countermodel to *complete q-gated* antecedents. 2048 all-outsider masks, all q/non-q multisplits, 26 hubs, P26, general U22, full-mask/exact12/13+ are not proved passing or inconsistent. No universal axial no-go, no G58 zero-free sequence, no D20 equality.
+9. Source provenance stable: 29 original source entries and original 30 frontier rows untouched; zero external source promotion, zero solver/numerical search, zero Lean/Palomar/campaign; claims 335->336, internal same-executor only.
+
+**Review conclusion:** This fully physical, nonminimal original-index separation example falsifies only a *specific local-gate-to-trigger inference*. The larger bridge sought at S096 still requires genuinely using all real q matchings before claiming forced CLM-0333/0334/0335.

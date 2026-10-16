@@ -293,3 +293,8 @@ All 30 original n=1..30 ordered frontier rows and ordered JSON row objects UNCHA
 
 ## S064 frontier preservation — 2026-10-14
 All 30 original ordered n=1..30 numeric frontier Markdown rows and 30 source JSON frontier row objects unchanged. S064 CLM-0230 strengthens only conditional ORIGINAL C20³ non-q pair mask gauge obstruction to full8 or ≥12; CLM-0231 conditional real original 5d overlap law. NO numerical D(C20³) upper/lower improvement, D(C20³)=58 equality, length58 G zero-free candidate, actual full-S060-gate model, certified counterexample, source status or Phase change. Historical original28 SRC unchanged and SOURCE_STATED where applicable; CI ABSENT_NOT_PASS, CAM-0001 BLOCKED, S065 FUTURE.
+
+
+## S096 frontier preservation — 16 October 2026
+
+CLM-0336 is only an INTERNAL actual-original G20 axial local-gate separation and a **nonminimal total-zero 59-index example** with explicit four-original q zero; it is NOT a length58 zero-sumfree construction or a new Davenport upper/lower bound. Original thirty ordered frontier JSON rows and their previously recorded bounds/status remain unchanged; 29 source objects untouched. Phase1 HOLD, CAM-0001 BLOCKED, CI ABSENT_NOT_PASS; S097 FUTURE.
