@@ -352,3 +352,8 @@ INTERNAL CLM-0326–0328 derive exact common-original signed Fano/non-q rectangl
 ## S094 — 16 October 2026
 
 INTERNAL SAME_EXECUTOR CLM-0329–0332 establish physical 512-member original G20 order-two lift orbit, exact seven-channel forbidden proper-support equation, shared Fano w versus three mixed coset z_l with z1+z2+z3=0, and axial U*=8/8/6 coordinate-slab Boolean CNF. This is a mathematically exact fixed-baseline formulation, **not** proof any genuine canonical q/H/Fano system is globally impossible. Source29/frontier30 unchanged; no G58 zero-free construction, no D(C20³)=58, no unrestricted U22/P26 reduction. Phase1 IN_PROGRESS/HOLD, Phase2/3 NOT_STARTED, Phase4 OWNER_GATED; CAM-0001 PROPOSED NOT_RUNNING BLOCKED, hosted CI ABSENT_NOT_PASS, protection UNKNOWN. S095 FUTURE ONLY.
+
+
+## S095 — 16 October 2026
+
+Conditional INTERNAL same-executor CLM-0333–0335 give **explicit physically proper original-index zeros** for axial U*=8/8/6 baselines meeting (i) one mod5 outsider saturation condition, (ii) three distinct mixed p=011/101/110 single-literal corners with odd shared XOR, or (iii) a true pair endpoint opposite-bit condition. No proof these trigger in every baseline, no all-12-q or all-Fano/multi-split/hub original 59-index impossibility, arbitrary U22/P26, G58 or D20 theorem. Claims335; original source29/frontier30 unchanged; Phase1 IN_PROGRESS/NO PASS, Phase2/3 NOT_STARTED, Phase4 OWNER_GATED, CAM-0001 BLOCKED, hosted CI ABSENT_NOT_PASS, protection UNKNOWN. S096 FUTURE ONLY.

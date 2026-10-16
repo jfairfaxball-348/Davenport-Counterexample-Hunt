@@ -3371,6 +3371,33 @@
       "origin": "research/S094_FULL_ORIGINAL_TORSION_COUPLING.md",
       "source_ids": [],
       "notes": "S094 INTERNAL SAME_EXECUTOR hand algebra only. Source-conditional canonical 22+8+7 real 59-index objects, fixed 512-fibre; no numerical mathematical search, independent certification, all-12-q/global-S060/unrestricted-U22/P26 no-go, G58 candidate or D(C20^3)=58."
+    },
+    {
+      "id": "CLM-0333",
+      "statement": "For the source-conditional actual axial U*=e1^8 e2^8 e3^6 original 59-index setting, one real even-parity outsider index subset R with nonzero three-singleton-coset mask p and physical H half-sum h whose mod5 coordinates satisfy h1,h2!=1 and h3 in {0,4} produces for EVERY one of the 512 physical singleton lifts a literal proper G20 zero by adding explicitly chosen complete original indexed U pairs. Thus its full original forbidden torsion channel V_p equals Q. This is conditional, not a universal forced R theorem.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S095_AXIAL_THREE_COSET_ACTUAL_INDEX_OBSTRUCTIONS.md",
+      "source_ids": [],
+      "notes": "S095 INTERNAL SAME_EXECUTOR purely symbolic original-index conditional theorem; fixed real S060 axial U*=8/8/6 physical baselines only. No universal forced triggers, numerical mathematical search, 59-global no-go, G58 zero-free candidate, independent or formal certificate."
+    },
+    {
+      "id": "CLM-0334",
+      "statement": "For the same actual axial original-index setting, if one actual mixed Fano+single non-q pair-split five-index corner from EACH of the three physical singleton cosets has exactly one available E(U\\i) coordinate literal k (the SAME k for all three), and their unique allowed torsion bits b_l have odd XOR, the three distinct mixed p=011/101/110 channels contradict the mandatory original-lift z1+z2+z3=0. Every lift then has a literal proper 5..47-index zero. The hypothesis is not shown forced by the q/Fano baseline constraints.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S095_AXIAL_THREE_COSET_ACTUAL_INDEX_OBSTRUCTIONS.md",
+      "source_ids": [],
+      "notes": "S095 INTERNAL SAME_EXECUTOR purely symbolic original-index conditional theorem; fixed real S060 axial U*=8/8/6 physical baselines only. No universal forced triggers, numerical mathematical search, 59-global no-go, G58 zero-free candidate, independent or formal certificate."
+    },
+    {
+      "id": "CLM-0335",
+      "statement": "Given a true non-q original pair i and one genuine omitted-s_t Fano triple in the axial U*=8/8/6 baseline, if the two real endpoint mixed half-corners have one common available E(U\\i) coordinate k, differ there by5 in C10, and every other coordinate is slab-unavailable for both, the same true singleton coset gauge requires opposite k-bits for the two endpoint tests. Every physical lift has one proper original 5..47-index zero; the e1 pair a=(1,5,0), b=(1,15,0), conditional h_a=(0,1,0) yields explicit 13/23/33-index completions. No globally consistent 59-label model is asserted.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S095_AXIAL_THREE_COSET_ACTUAL_INDEX_OBSTRUCTIONS.md",
+      "source_ids": [],
+      "notes": "S095 INTERNAL SAME_EXECUTOR purely symbolic original-index conditional theorem; fixed real S060 axial U*=8/8/6 physical baselines only. No universal forced triggers, numerical mathematical search, 59-global no-go, G58 zero-free candidate, independent or formal certificate."
     }
   ]
 }

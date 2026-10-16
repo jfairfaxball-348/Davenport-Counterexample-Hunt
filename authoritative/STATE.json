@@ -24,13 +24,14 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S094",
-  "recommended_next_session": "S095",
+  "last_completed_session": "S095",
+  "recommended_next_session": "S096",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": null,
   "phase1_target_status": "WITHHELD_NO_REPLACEMENT_CAMPAIGN",
   "open_blockers": [
+    "S095 INTERNAL CLM-0333–0335: for source-conditional ACTUAL axial U*=8/8/6 G59, a specified true outsider cut saturates V_p=Q with literal complete-pair zero witnesses, or three genuine mixed channels 011/101/110 with one shared slab coordinate have odd XOR conflicting with z1+z2+z3=0, or true pair endpoints force opposite one-coordinate bits. These are CONCRETE PROVED CONDITIONAL NO-GO CERTIFICATES, NOT FORCED for all S060 baselines. Universal seven-channel incompatibility, full12 q, all 2048/multi-splits/FULL8/12+/26 hubs, arbitrary U22/P26, unrestricted G59, G58 and D20 remain OPEN. Phase1 HOLD, CAM BLOCKED, CI ABSENT_NOT_PASS.",
     "S094 INTERNAL CLM-0329–0332: in each REAL fixed mod10 six-singleton S060 q-coset baseline there are exactly 512 physical 10-torsion lifts; full original proper-support zero-avoidance is exactly seven nonzero p-mask channels plus invariant p000, with one XOR-shared w,z1,z2,z3. Four real Fano x translate by 5w; both t original singleton parities in coset l share z_l. Axial E_i Boolean slabs derived. UNIVERSAL same-original incompatibility NOT PROVED; twelve q/2048/multi-splits/26 hubs/FULL8/12+/arbitrary U22/P26 and unrestricted G59/G58/D20 OPEN. Phase1 HOLD; source29/frontier30 frozen, CAM BLOCKED, CI ABSENT_NOT_PASS.",
     "S093 INTERNAL CLM-0326–0328: one real non-q pair and its same-index s_t create two genuine Fano lines/four endpoint rectangle in E(U\\i); all pairs of parity t share Omega_t∩(K_t−Omega_t), but emptiness is NOT forced. Axial E(U*\\i)+E(U*\\i)=H defeats total-only argument. Full12 q/Fano/2048/q multi-splits/signed non-q multi-splits/26 hubs/FULL8/exact12/13/14/15+/arbitrary U22/P26, G58/D20 OPEN. Phase1 HOLD; CAM BLOCKED; CI ABSENT_NOT_PASS.",
     "S092: Canonical source-conditional actual axial U*=8/8/6 SIXFOLD q projected half-fibre now excluded; maximum fibre <=5. FULL 12-q q-spectrum, true H E(U*), same-original four Fano X/Y/C/Delta, 2048 masks, multi-q splits E(U*\\I), signed non-q original splits, 26 hubs, FULL8/exact12/13/14/>=15, arbitrary U22 and P26 remain OPEN. No G58 zero-free or D20 theorem; Phase1 HOLD.",
@@ -364,7 +365,7 @@
     "owner_blocker": false,
     "historical_dependency_reconciled": "S004 CLM-0068 / S005 sufficient conditional base5p-2 bypass restored and strengthened one position"
   },
-  "current_research_priority": "S092: close eight generic sixfold outsider e spectra and exceptional v strong≥3 via TRUE properly available original q C0/C4 gates; do not infer projected survivors or full S060/Fano/D20",
+  "current_research_priority": "S096: prove a genuinely original-index implication from SAME actual S060 four x_e C/Delta, q matching/2048 data and all true indexed non-q endpoints that FORCES one CLM-0333 full axial torsion channel, CLM-0334 three mixed-channel odd XOR, or CLM-0335 endpoint opposite bit; avoid replacing original supports with slab shadows or claiming a universal 59-index theorem.",
   "s040_result": {
     "claims": [
       "CLM-0148",
@@ -1587,5 +1588,34 @@
     "hosted_CI": "ABSENT_NOT_PASS",
     "review": "INTERNAL_SAME_EXECUTOR",
     "next": "S095_FUTURE_UNEXECUTED"
+  },
+  "s095_result": {
+    "date": "2026-10-16",
+    "entry_main": "81ee0e3e7c7403f4a1059879fbee85fbe46c3df9",
+    "entry_true_git_root_tree": "4293f752b0410f01a4236752f7a85413b7bb0811",
+    "claims": [
+      "CLM-0333",
+      "CLM-0334",
+      "CLM-0335"
+    ],
+    "conditional_axial_full_Vp_saturation": true,
+    "conditional_three_distinct_mixed_coset_odd_xor_no_go": true,
+    "conditional_one_pair_two_endpoint_no_go": true,
+    "actual_proper_original_support_witness": true,
+    "universal_forcing_of_trigger": false,
+    "full_original_compatibility_no_go": false,
+    "all_twelve_q_no_go": false,
+    "arbitrary_U22_P26_closed": false,
+    "G58_zero_sumfree": false,
+    "D_C20_3_eq58": false,
+    "claims_total": 335,
+    "source_records_untouched": 29,
+    "frontier_original_rows_untouched": 30,
+    "phase1": "IN_PROGRESS_HOLD",
+    "campaign": "CAM-0001_BLOCKED",
+    "hosted_CI": "ABSENT_NOT_PASS",
+    "protection": "UNKNOWN",
+    "review": "INTERNAL_SAME_EXECUTOR",
+    "next": "S096_FUTURE_UNEXECUTED"
   }
 }
