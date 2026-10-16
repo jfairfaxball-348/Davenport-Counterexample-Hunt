@@ -1590,3 +1590,24 @@ Claims299→303; original source29/frontier30 unchanged, Phase1 IN_PROGRESS, CAM
   S087 INTERNAL SAME_EXECUTOR point-set addition rigidity; no projected survivor verified.
 
 Claims303→306; original source29/frontier30 unchanged, Phase1 IN_PROGRESS, CAM-0001 BLOCKED, CI ABSENT_NOT_PASS. [S087 proof](../research/S087_COMPLEMENT_DUALITY_AND_AXIAL_SEVENFOLD_NO_GO.md), [review](../sessions/S087/REVIEW.md). S088 FUTURE/UNEXECUTED.
+
+
+## S088 — 16 October 2026 (INTERNAL SAME_EXECUTOR)
+
+- **CLM-0307 [PROGRAMME_PROVED; CONDITIONAL, INTERNAL]** For canonical sevenfold t3 with ab!=0, five outsider e=(1,1,1,4,4) cannot meet all physically proper projected singleton/pair two-layer C0/C4 gates with residual total W=A+B. Two e4 residuals sum A or B; after horizontal symmetry and an exact d=2 versus d!=2 split, every option violates an e1 singleton/pair, mixed pair or total.
+
+  S088 INTERNAL SAME_EXECUTOR hand-symbolic necessary original-index obstruction; no all12 support or global Davenport inference.
+
+- **CLM-0308 [PROGRAMME_PROVED; CONDITIONAL, INTERNAL]** For any ab!=0 sevenfold t3, each permitted one-strong multiset (0,4^4),(2,1^4),(3,1,4^3) and each compatible two-strong multiset (0,0,1,1,4),(0,2,1,4,4),(2,3,1,1,4) fails the five-outsider proper two-layer singleton/pair cross conditions plus W=A+B. Compatible strong pairs outside exceptional parameters have e sums0/2. The proof uses exact D=B-A differences and a complete three-e4 pair pattern AAA/BBB/AAB/BBA.
+
+  S088 INTERNAL SAME_EXECUTOR narrow hand finite-field proof; separate treatment for exceptional >=3 strong labels.
+
+- **CLM-0309 [PROGRAMME_PROVED; CONDITIONAL, INTERNAL]** In canonical axial sevenfold t3, every exceptional ab!=0 horizontal parameter (4,4),(3,1),(1,3) also violates at least one physically proper singleton/pair or its S087 complementary triple under e_all=1 and W=A+B, even allowing three or more strong labels. At (4,4) strong ±A and at (3,1) strong A/2A produce exact necessary contradictions; (1,3) follows coordinate symmetry.
+
+  S088 INTERNAL SAME_EXECUTOR symbolic exceptional closure; no fabricated full-twelve selection.
+
+- **CLM-0310 [PROGRAMME_PROVED; CONDITIONAL, INTERNAL]** For source-conditional actual S060 canonical 59-ORIGINAL-index axial T with 22 labelled complete U*=e1^8e2^8e3^6 pairs, actual eight g, s_q and SAME six original singleton positions grouped into three disjoint V, absence of any proper original G20 zero forces each F5³ projected q half-value among the twelve genuine q groups to have multiplicity at most SIX. S082–S084 rule out >=8; S085–S088 rule out 7 for every t and horizontal value using fifteen proper necessary two-layer gates. Every failed gate yields an actual proper indexed G20 zero by selecting real q originals and BOTH endpoints of suitable actual U* complete pairs.
+
+  Strictly internal, conditional axial original-index theorem; sixfold and other profiles unresolved; NOT full q/Fano/mixed no-go, zero-free G58 or D(C20³)=58.
+
+Claims306→310, sources29/frontier30 frozen; [proof](../research/S088_COMPLETE_AXIAL_SEVENFOLD_NO_GO.md) and [hostile internal review](../sessions/S088/REVIEW.md). No full q-only impossibility, no sixfold elimination, G58, D(C20³)=58 or global conjecture theorem. S089 FUTURE ONLY.
