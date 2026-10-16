@@ -1,0 +1,14 @@
+{
+  "session": "S094",
+  "date": "2026-10-16",
+  "owner_invocation": "Run next session",
+  "entry_main": "3f3b5e5fa1ac7a0919fa7c726a260adb34812e97",
+  "entry_root_tree_reconstructed": "af3dd367a9172dcefec60711b747079f98c84cfa",
+  "root_tree_direct_endpoint": "NOT_AVAILABLE",
+  "current_prompt_blob_sha": "c85824014ea4dcccc66bc400cb82953496d35eb3",
+  "source_count": 29,
+  "frontier_original_rows": 30,
+  "claims_before": 328,
+  "original_index_objects": 59,
+  "mathematical_numerical_search": false
+}

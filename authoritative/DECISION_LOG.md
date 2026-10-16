@@ -376,3 +376,5 @@ Accept CLM-0323–0325 narrowly as INTERNAL SAME_EXECUTOR source-conditional *ge
 ## S093 — 2026-10-16
 
 Accept CLM-0326–0328 as INTERNAL SAME_EXECUTOR exact **conditional** original-index bridge: correct physical five-index supports + both U pair endpoints, two omitted-s_t Fano lines, four simultaneously linked E(U\\i) restrictions, same six X/Y and parity class Omega_t, and axial E_i+E_i=H negative route. Reject any promotion to global original-index incompatibility, all twelve q, same-Fano/2048/multisplit/fullmask/26 hub/U22/P26 closure, zero-free G58, D(C20³)=58, formal/external certification or new campaign. Claims325→328, source29/frontier30 unmodified, Phase1 HOLD, CAM BLOCKED, CI ABSENT_NOT_PASS; S094 future only.
+
+| 2026-10-16 | S094 physical 512-lift original-index seven parity-channel equivalence and mixed three-coset XOR + axial three-bit slab CNF CLM-0329–0332 | research/S094_FULL_ORIGINAL_TORSION_COUPLING.md; INTERNAL SAME_EXECUTOR | Exact fixed-orbit algebra, universal shared incompatibility UNPROVED; Phase1 HOLD, source29/frontier30 fixed, CAM BLOCKED, CI ABSENT_NOT_PASS; S095 FUTURE |
