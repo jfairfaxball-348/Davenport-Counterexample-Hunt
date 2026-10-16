@@ -1611,3 +1611,18 @@ Claims303→306; original source29/frontier30 unchanged, Phase1 IN_PROGRESS, CAM
   Strictly internal, conditional axial original-index theorem; sixfold and other profiles unresolved; NOT full q/Fano/mixed no-go, zero-free G58 or D(C20³)=58.
 
 Claims306→310, sources29/frontier30 frozen; [proof](../research/S088_COMPLETE_AXIAL_SEVENFOLD_NO_GO.md) and [hostile internal review](../sessions/S088/REVIEW.md). No full q-only impossibility, no sixfold elimination, G58, D(C20³)=58 or global conjecture theorem. S089 FUTURE ONLY.
+
+
+## S089 — 16 October 2026 (INTERNAL SAME_EXECUTOR)
+
+- **CLM-0311 [PROGRAMME_PROVED; INTERNAL, CONDITIONAL NECESSARY ORIGINAL q]** For six repeated genuine original axial q group projected halves y=(v,t), t!=0, the six outsider normalisation is e_all=beta-1 and W=(2,2)-beta*v (beta=4/t); proper outsider sizes1..5 have exact even/odd third0/fourth4 necessary cross gates. Complement J→[6]\J interchanges the layers and missing e-values, reducing 62 clauses to the 31 support representatives (6 singletons,15 pairs,10 triples), while the all12 fourth gate is expressly exempt.
+
+- **CLM-0312 [PROGRAMME_PROVED; INTERNAL, CONDITIONAL NECESSARY ORIGINAL q]** Six genuine canonical axial q groups with a common half-projection cannot have projected third t=0,1,2,4 if proper original G zeros are absent. Pure even repeated supports r2/4/6 and true mod10 10-torsion: any six binary colours on at most two eligible horizontal axes have a four-label zero XOR (t1); pairwise distinct <=4 colours cannot fit six (t2); t4 forces horizontal (1,4)/(4,1) and impossible four-subset XOR1. Only t=3 remains.
+
+- **CLM-0313 [PROGRAMME_PROVED; INTERNAL, CONDITIONAL NECESSARY ORIGINAL q]** Any six vectors w_i in F5² of total (2,2) whose 15 pair sums all lie in C={x=1 or y=1} are, up to permutation and horizontal coordinate swap, five (3,4) and one (2,2). A K6 monochrome-triangle edge-colouring proof gives this classification without numerical mathematical search.
+
+- **CLM-0314 [PROGRAMME_PROVED; INTERNAL, CONDITIONAL NECESSARY ORIGINAL q]** In the source-conditional canonical 59-original axial T59, six identical projected genuine q half-values with horizontal v=(0,0) are impossible. By CLM-0312 only t3 needs attack; its pair gates force C membership, CLM-0313 gives five residuals u=(3,4)/(4,3); their outsider triples force e_i=2 and the proper five-label outsider gate has e=0 rather than exceptional1, yielding a literal proper original G zero by actual full U* indexed pair endpoints.
+
+- **CLM-0315 [PROGRAMME_PROVED; INTERNAL, CONDITIONAL NECESSARY ORIGINAL q]** For surviving candidate sixfold projected common value y=(v,3), if v notin {(3,4),(4,3)} then all six actual repeated q G third coordinates are identical 1 or11 mod20; when v is one of those two exceptional horizontal values pure-fibre constraints alone force only XOR of the six third torsion bits zero. This is necessary conditional original-index torsion structure, not a sixfold nonzero-horizontal survivor or full 12-q obstruction.
+
+Claims310→315, 29 original sources/30 original frontier rows unchanged; [S089 proof](../research/S089_SIXFOLD_TORSION_AND_ORIGIN_NO_GO.md) and [hostile SAME_EXECUTOR review](../sessions/S089/REVIEW.md). Phase1 IN_PROGRESS, CAM-0001 BLOCKED, CI ABSENT_NOT_PASS. Sixfold t3 nonzero horizontal, all twelve q, true Fano/2048/splits/mixed and arbitrary U22 remain OPEN. S090 FUTURE ONLY.

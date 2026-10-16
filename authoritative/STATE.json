@@ -24,8 +24,8 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S088",
-  "recommended_next_session": "S089",
+  "last_completed_session": "S089",
+  "recommended_next_session": "S090",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": null,
@@ -1434,5 +1434,40 @@
     "CI": "ABSENT_NOT_PASS",
     "review": "INTERNAL_SAME_EXECUTOR",
     "next": "S089_FUTURE_UNEXECUTED"
+  },
+  "s089_result": {
+    "date": "2026-10-16",
+    "entry_main": "50f289728d02c62c00fef70ba231b0ad245772ae",
+    "entry_true_git_root_tree": "8c3866a0262f212a39091e8c958a0d1c68202cfc",
+    "claims": [
+      "CLM-0311",
+      "CLM-0312",
+      "CLM-0313",
+      "CLM-0314",
+      "CLM-0315"
+    ],
+    "correct_sixfold_e_total": "beta-1",
+    "correct_sixfold_W": "(2,2)-beta*v",
+    "sixfold_proper_complement_representatives": 31,
+    "sixfold_t_only": 3,
+    "sixfold_horizontal_origin_excluded": true,
+    "sixfold_nonzero_horizontal_OPEN": true,
+    "third_torsion_uniform_except": [
+      "(3,4)",
+      "(4,3)"
+    ],
+    "all12_q_no_go": false,
+    "S060_original_Fano_2048_split_mixed_closed": false,
+    "arbitrary_U22_closed": false,
+    "G58_zero_sumfree": false,
+    "D_C20_3_eq58": false,
+    "claims_total": 315,
+    "sources_untouched": 29,
+    "frontier_original_rows_untouched": 30,
+    "phase1": "IN_PROGRESS",
+    "campaign": "CAM-0001_BLOCKED",
+    "CI": "ABSENT_NOT_PASS",
+    "review": "INTERNAL_SAME_EXECUTOR",
+    "next": "S090_FUTURE_UNEXECUTED"
   }
 }
