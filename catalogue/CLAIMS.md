@@ -1654,3 +1654,12 @@ Claims318→322, original source29/frontier30 unchanged. [S091 hand proof](../re
 - **CLM-0325 [PROGRAMME_PROVED; INTERNAL SAME_EXECUTOR; SOURCE-CONDITIONAL NECESSARY]** For ALL three exceptions (3,1),(1,3),(4,4), strong existence and actual pair gates force all residuals into one line; scalar pair sum/total contradiction excludes all remaining sixfold. Together with S082–S091 gives the fixed axial genuine q projected half-fibre max <=5, not a full 12-q no-go.
 
 Claims322→325; original sources29/frontier30 unchanged. [Proof](../research/S092_COMPLETE_AXIAL_SIXFOLD_NO_GO.md), [hostile review](../sessions/S092/REVIEW.md). Full S060 same-original Fano/2048/q-splits/non-q/hubs, arbitrary U22/P26, zero-free G58 and D(C20³)=58 OPEN. Phase1 HOLD, CAM BLOCKED, CI ABSENT_NOT_PASS; S093 FUTURE only.
+
+
+## S093 — common-original Fano/non-q rectangle (16 October 2026)
+
+- **CLM-0326 [PROGRAMME_PROVED; INTERNAL; canonical original-index conditional]** Two real Fano lines omitting s_t plus both true endpoint choices of any genuine non-q original pair yield one four-corner E(U\\i) rectangle with shared diagonal sum c; failure gives 5..47 actual original indexed G20 zero.
+- **CLM-0327 [PROGRAMME_PROVED; INTERNAL; necessary only]** All non-q pairs with the same t constrain ONE shared omitted-s_t Fano line pair via Omega_t∩(K_t−Omega_t); universal emptiness is UNPROVED.
+- **CLM-0328 [PROGRAMME_PROVED; INTERNAL; axial negative]** For fixed U*=8/8/6, deleting one U pair leaves E_i+E_i=H and E_i∩5Q=empty; the naive independent diagonal-sum contradiction cannot work.
+
+[Full hand proof](../research/S093_SHARED_ORIGINAL_FANO_NONQ_RECTANGLE_BRIDGE.md), [hostile review](../sessions/S093/REVIEW.md). Claims325→328; source29/frontier30 preserved. No universal 12-q or global S060/H/Fano/2048/split/non-q/26-hub/P26 theorem, zero-free G58 or D(C20³)=58. Phase1 HOLD; CAM BLOCKED; CI ABSENT_NOT_PASS; S094 FUTURE.

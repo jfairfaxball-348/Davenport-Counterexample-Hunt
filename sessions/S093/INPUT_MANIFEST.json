@@ -1,0 +1,15 @@
+{
+  "session": "S093",
+  "date": "2026-10-16",
+  "owner_invocation": "run nrext session",
+  "entry_main": "b808c846e564124520f634b5a9f86f431a899d31",
+  "entry_tree_reconstructed": "b3324ac24fa424fd4e9716f318a6cd28f0006581",
+  "entry_tree_direct_git_commit_api": "NOT_AVAILABLE",
+  "entry_prompt_sha": "6125bda709b608d33948cc5e142d07c7f7287f52",
+  "claims_before": 325,
+  "source_count": 29,
+  "frontier_original_rows": 30,
+  "original_index_objects": 59,
+  "numerical_mathematical_search": false,
+  "raw_prompt_hash": "NOT_CAPTURED"
+}

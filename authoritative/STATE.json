@@ -24,13 +24,14 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S092",
-  "recommended_next_session": "S093",
+  "last_completed_session": "S093",
+  "recommended_next_session": "S094",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": null,
   "phase1_target_status": "WITHHELD_NO_REPLACEMENT_CAMPAIGN",
   "open_blockers": [
+    "S093 INTERNAL CLM-0326–0328: one real non-q pair and its same-index s_t create two genuine Fano lines/four endpoint rectangle in E(U\\i); all pairs of parity t share Omega_t∩(K_t−Omega_t), but emptiness is NOT forced. Axial E(U*\\i)+E(U*\\i)=H defeats total-only argument. Full12 q/Fano/2048/q multi-splits/signed non-q multi-splits/26 hubs/FULL8/exact12/13/14/15+/arbitrary U22/P26, G58/D20 OPEN. Phase1 HOLD; CAM BLOCKED; CI ABSENT_NOT_PASS.",
     "S092: Canonical source-conditional actual axial U*=8/8/6 SIXFOLD q projected half-fibre now excluded; maximum fibre <=5. FULL 12-q q-spectrum, true H E(U*), same-original four Fano X/Y/C/Delta, 2048 masks, multi-q splits E(U*\\I), signed non-q original splits, 26 hubs, FULL8/exact12/13/14/>=15, arbitrary U22 and P26 remain OPEN. No G58 zero-free or D20 theorem; Phase1 HOLD.",
     "S087 CLM-0304–0306: size3/4 7fold t3 five-outsider two-layer necessary gates are exact complements of size2/1; all horizontal-axis v (including origin) excluded in actual original indexed axial U*=8/8/6 conditional T59, leaving SIXTEEN ab!=0 projected horizontal parameters (none certified feasible). Full sevenfold no-go, sixfold t2/3 origin, <=5 spectra, real H/Fano/2048/q splits/signed non-q/26 hubs/arbitrary U22/P26, G58 and D(C20³)=58 OPEN. Claims306 sources29/frontier30 preserved Phase1 IN_PROGRESS CAM BLOCKED CI ABSENT_NOT_PASS.",
     "S086 two-layer sevenfold canonical axial original q gate excludes ONLY horizontal v=(0,0) at t3; v!=(0,0) (24 projected values), all <=6 general fibre spectra, full genuine H/Fano/q-split/non-q signed original gates, arbitrary U22/P26, G58/D20 remain OPEN. Sixfold horizontal v=0 rules out t1/4, not t2/3.",

@@ -371,3 +371,8 @@ Accept CLM-0319–0322 narrowly as INTERNAL SAME_EXECUTOR source-conditional TRU
 ## S092 — 2026-10-16
 
 Accept CLM-0323–0325 narrowly as INTERNAL SAME_EXECUTOR source-conditional *genuine original indexed* axial q sixfold necessary-gate no-go. All eight generic e spectra excluded by P-fork/double-e0/last e2-1³-3-4 proper gates, and all three exceptional v by collinear strong propagation plus scalar pair-sum contradiction. The axial projected q fibre maximum improves to <=5. Reject promotion to full 12-q no-go, S060 H/Fano/2048/q/non-q split/26-hub/FULL8/12+ closure, arbitrary U22/P26, zero-free G58, D(C20³)=58, global rank-three equality, or external/formal certification. Claims322→325, original sources29/frontier30 fixed; Phase1 IN_PROGRESS/HOLD, CAM BLOCKED, CI ABSENT_NOT_PASS; S093 future only.
+
+
+## S093 — 2026-10-16
+
+Accept CLM-0326–0328 as INTERNAL SAME_EXECUTOR exact **conditional** original-index bridge: correct physical five-index supports + both U pair endpoints, two omitted-s_t Fano lines, four simultaneously linked E(U\\i) restrictions, same six X/Y and parity class Omega_t, and axial E_i+E_i=H negative route. Reject any promotion to global original-index incompatibility, all twelve q, same-Fano/2048/multisplit/fullmask/26 hub/U22/P26 closure, zero-free G58, D(C20³)=58, formal/external certification or new campaign. Claims325→328, source29/frontier30 unmodified, Phase1 HOLD, CAM BLOCKED, CI ABSENT_NOT_PASS; S094 future only.
