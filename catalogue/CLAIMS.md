@@ -1573,3 +1573,20 @@ Claims295→299, original source29 and frontier30 objects unchanged, Phase1 IN_P
 - **CLM-0303 [PROGRAMME_PROVED; INTERNAL; NECESSARY ORIGINAL q]** In sevenfold t3 two-layer axial q projected gate, put C0={w1=1 or w2=1}, C4={w1=1-3a or w2=1-3b}, v=(a,b). Any proper outsider support whose e_J triggers both layers has w_J in C0∩C4: precisely two points (1,1-3b),(1-3a,1) if ab!=0; first coordinate1 line if a=0,b!=0; second coordinate1 line if a!=0,b=0; C0 if v=0. Each individual outsider with e_i in {0,2,3} triggers both; when exactly one coordinate of v vanishes, two such outsiders must have e_i+e_j in {0,2}, otherwise their pair residual first/second coordinate2 contradicts both-layer requirement.
 
 Claims299→303; original source29/frontier30 unchanged, Phase1 IN_PROGRESS, CAM-0001 BLOCKED, CI ABSENT_NOT_PASS, SAME_EXECUTOR. [S086 proof](../research/S086_TWO_LAYER_Q_FIBRE_AND_ORIGIN_EXCLUSIONS.md), [review](../sessions/S086/REVIEW.md). **S087 future only.**
+
+
+## S087 — 16 October 2026 (INTERNAL SAME_EXECUTOR)
+
+- **CLM-0304 [PROGRAMME_PROVED; INTERNAL; NECESSARY ORIGINAL q]** In canonical sevenfold t3 with five true outsider e_i,w_i, sum e=1 and W=(2,2)-3v, each odd outsider subset J of size1 or3 has exactly the same pair of S086 third0/fourth4 cross clauses as its EVEN five-outsider complement (with the layers exchanged); conversely even pairs/quartets mirror odd triples/singletons. Reflection u→(2,2)-u preserves C. Therefore all nonempty proper outsider supports sizes1..4 satisfy the two-layer NECESSARY sieve iff its five singleton and ten pair supports do. The all-five/full12 selection is NOT a proper-cross constraint.
+
+  S087 INTERNAL SAME_EXECUTOR exact projected-necessary complement equivalence, not full H or original survivor.
+
+- **CLM-0305 [PROGRAMME_PROVED; INTERNAL; NECESSARY ORIGINAL q]** In SOURCE-CONDITIONAL actual canonical T59 with 22 true labelled U*=e1^8e2^8e3^6 original full pairs and 12 genuine disjoint original q supervertices, if seven projected q half-values coincide y=(a,b,3) and proper original G zeros are absent, then a!=0 and b!=0. S086 already excludes v=(0,0). For v=(0,b!=0), strong outsider e in {0,2,3} must have first residual coordinate1; at most two strong labels; complete e_all1 classification into seven possible weak/strong multisets and exact singleton/pair cross tests contradict W=(2,2)-3v in every case. Symmetry excludes v=(a!=0,0). Nine of 25 horizontal values excluded, 16 ab!=0 remain UNDECIDED. Every failed available q clause gives a proper genuine original indexed G zero via BOTH endpoints of actual U* full pairs.
+
+  S087 INTERNAL SAME_EXECUTOR complete hand symbolic AXIS exclusion; no universal sevenfold no-go, no G58 or D20 theorem.
+
+- **CLM-0306 [PROGRAMME_PROVED; INTERNAL; NECESSARY ORIGINAL q]** For a sevenfold t3 with BOTH horizontal parameters a,b nonzero, outsider residual e∈{0,2,3} is confined to A=(1,1-3b) or B=(1-3a,1). A+B cannot lie in {A,B}. 2A=B only at (a,b)=(3,1), 2B=A only at (1,3); therefore except these two pairs any two strong outsiders require e_sum in {0,2}. Except the additional parameter (4,4), a triple of strong outsiders cannot satisfy both proper subset cross layers. Hence outside {(3,1),(1,3),(4,4)}, no more than two strong outsiders occur. This is only a necessary projected-original q restriction on the sixteen undecided horizontal cases, not a contradiction or real H lift.
+
+  S087 INTERNAL SAME_EXECUTOR point-set addition rigidity; no projected survivor verified.
+
+Claims303→306; original source29/frontier30 unchanged, Phase1 IN_PROGRESS, CAM-0001 BLOCKED, CI ABSENT_NOT_PASS. [S087 proof](../research/S087_COMPLEMENT_DUALITY_AND_AXIAL_SEVENFOLD_NO_GO.md), [review](../sessions/S087/REVIEW.md). S088 FUTURE/UNEXECUTED.

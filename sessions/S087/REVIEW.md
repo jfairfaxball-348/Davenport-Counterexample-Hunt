@@ -1,0 +1,14 @@
+# S087 hostile SAME_EXECUTOR review — 16 October 2026
+
+**Evidence class: INTERNAL mathematical argument, not external verification.**
+
+1. **Entry:** main merge fdc5cef563fe05fdadbe20d7dda123cb8026909f, pre-existing S086 authored 1f4db35df1345d2b6d6cbd00bd4b7d7561f6c065, true root f5bf1ac016fa4897e7a3cc0a8f23ecab94391256. Repo source objects29/frontier rows30; S086 303 claims. This review DOES NOT claim successful hosted Actions or independent formal certification.
+2. **Actual indices:** 22 separately labelled true full U* pairs, eight original g, s_q and SAME six X/Y original positions grouped into three genuine V. Every violated projected proper parity-even q-selection has the k_l=(-h_l mod10) actual FULL-pair endpoint completion; omitting any actual q group ensures proper subset. Full twelve selection never used.
+3. **Complement identity:** W=(2,2)-3v and e_all=1; reflection u↦(2,2)-u preserves cross C. Odd-singleton triggers correspond exactly to even-quartet opposite layer; even-pair triggers to odd-triple opposite layer. All supports sizes1..4 only; full five omitted.
+4. **Axis:** a=0, b!=0 forces double-intersection x=1. Strong e={0,2,3} singles have x1. Compatible strong pair e types (0,0),(0,2),(2,3); any three strong force e-triple0/2 with xsum3, contradict both cross layers. The congruence table k0/1/2 is complete under e_all1; k1 and k2 contradictions individually checked.
+5. **Weak-only k0:** 3 e1 +2 e4; B pair xsum1, A trio xsum1, A single/pair C4 implies c=1-3b=0 and b2. The dichotomy B x=(u,1-u) with u∈{0,1} versus not gives full y2 while W_y1. All mixed e1+e4 tests are proper PAIR q cuts. No implicit triple or fictitious Fano value.
+6. **Count:** all v with one zero coordinate (8 values) now ruled out; together with S086 origin, nine of 25 excluded. Sixteen ab!=0 remain UNSOLVED, and not known to be genuine projected survivors.
+7. **Two-point:** A+B≠A/B; 2A=B only (3,1), 2B=A only (1,3). Triple A/B sum can re-enter {A,B} only (3,1),(1,3),(4,4), correctly separating necessary restrictions from no-go. Sixfold t2/3 v0 exceptional ODD e classes still unresolved.
+8. **Anti-upgrade:** no full twelve-q impossibility, H modulo10 full lift, SAME-six-original Fano/2048 masks, E(U*\\I) q-splits, signed non-q cuts, all hubs/P26, arbitrary U22, zero-sumfree G58 or D(C20³)=58 theorem. Original source29/frontier30 frozen, Phase1 IN_PROGRESS, CAM-0001 BLOCKED, CI ABSENT_NOT_PASS. No mathematical numerical search or externally independent audit.
+
+**Verdict:** CLM-0304–0306 justified as narrow internal source-conditional original-index necessary claims. S088 future only.

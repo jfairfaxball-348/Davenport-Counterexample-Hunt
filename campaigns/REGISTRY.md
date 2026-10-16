@@ -330,3 +330,8 @@ Research only: CLM-0296–0299 symbolic sevenfold original 10-torsion and five-o
 ## S086 no campaign activation — 15 October 2026
 
 Only source-conditional original-index hand symbolic CLM-0300–0303. No mathematical numerical search, generated orbit, CAS/SAT/ILP, author code, external independent certificate, Lean, Palomar, source promotion, outreach or publication. CAM-0001 stays PROPOSED / NOT_RUNNING / BLOCKED; original source29/frontier30 preserved, Phase1 IN_PROGRESS, Phase2/3 NOT_STARTED, Phase4 OWNER_GATED, hosted CI ABSENT_NOT_PASS. S087 FUTURE only.
+
+
+## S087 no campaign activation — 16 October 2026
+
+Only INTERNAL source-conditional hand analytic original-index CLM-0304–0306, cross complement equivalence and sevenfold horizontal-axis no-go. No numerical mathematical enumeration, generated candidate/orbits, SAT/CAS/ILP, historical author code, Lean, Palomar, independent formal certificate, source promotion, outreach or publication. CAM-0001 stays PROPOSED / NOT_RUNNING / BLOCKED by source-stated historical n6=16; original source29/frontier30 preserved, Phase1 IN_PROGRESS without PASS, Phase2/3 NOT_STARTED, Phase4 OWNER_GATED, hosted CI ABSENT_NOT_PASS. S088 FUTURE/UNEXECUTED.

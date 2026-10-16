@@ -341,3 +341,8 @@ Decision: accept CLM-0296–0299 `PROGRAMME_PROVED` only within source-condition
 ## S086 / 2026-10-15 — accept four narrow two-layer original-q necessary claims, HOLD phase
 
 Accept CLM-0300–0303 PROGRAMME_PROVED only for the source-conditional canonical axial actual-original indexed q-only avoidance: full proper third0 AND fourth4 projections; v=0 sevenfold excluded; v=0 sixfold t1/4 excluded; remaining cross intersection geometry explicit. Refuse promotion to all sevenfold/no12-q, actual H/Fano/2048/q splits/non-q mixed, G58/D(C20³)=58. Original source29/frontier30 unchanged, Phase1 IN_PROGRESS, CAM-0001 BLOCKED, hosted CI ABSENT_NOT_PASS, review INTERNAL SAME_EXECUTOR. S087 FUTURE only.
+
+
+## S087 / 2026-10-16 — accept complement duality and sevenfold axial horizontal no-go, HOLD Phase1
+
+Accept CLM-0304–0306 PROGRAMME_PROVED only as INTERNAL SAME_EXECUTOR **necessary** consequences of source-conditional canonical true 59-index axial q-only G-zero-avoidance: complement duality collapses proper outsider size3/4 tests to size2/1, respecting all12 exception; sevenfold t3 horizontal v cannot have zero coordinate (9/25 horizontal values now excluded); for ab!=0 two-point strong outsiders satisfy extra sum restriction with three exceptional parameters. REJECT promotion to universal sevenfold/no12-q or arbitrary U22 proof, full original S060/Fano/2048/signed split, G58 zero-sumfree, D(C20³)=58, or full rank-three conjecture. Claims303→306, sources29/original frontier30 fixed, Phase1 IN_PROGRESS, CAM-0001 BLOCKED, hosted CI ABSENT_NOT_PASS. S088 separately authorised future only.

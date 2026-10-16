@@ -1,0 +1,3 @@
+# S087 INPUT — 16 October 2026
+
+A fresh owner "Run next session" invocation authorises **S087 alone**, after S086 ordinary merge. Live main at entry `fdc5cef563fe05fdadbe20d7dda123cb8026909f`, true root tree `f5bf1ac016fa4897e7a3cc0a8f23ecab94391256` (unchanged README blob reinserted into exact base tree). S086 authored `1f4db35df1345d2b6d6cbd00bd4b7d7561f6c065`; its ordinary merge `fdc5cef...`. Read AGENTS, authoritative state, claims, sources29, original frontier30, S060 true-original theorem, S081–S086 results and S086 hostile review. Only Phase1 symbolic proofs; no numerical mathematical search, candidate/orbit enumeration, SAT/CAS/ILP, campaign activation, formalisation, source upgrade, outreach or publication. This run does **not** execute S088.
