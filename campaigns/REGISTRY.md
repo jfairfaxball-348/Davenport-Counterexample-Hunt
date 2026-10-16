@@ -350,3 +350,8 @@ Only internally reviewed hand algebraic sixfold original-index CLM-0311–0315. 
 ## S090 no campaign activation — 16 October 2026
 
 Only original-index HAND symbolic CLM-0316–0318. No numerical search, generated orbit/candidate, CAS/SAT/ILP, Lean/Palomar, author code, external certification, source upgrade, publication or outreach. CAM-0001 remains PROPOSED NOT_RUNNING BLOCKED, Phase1 IN_PROGRESS, source29/frontier30 fixed, hosted CI ABSENT_NOT_PASS; S091 future.
+
+
+## S091 no campaign activation — 16 October 2026
+
+Hand-symbolic INTERNAL original-index necessary e3/e4 caps, weak-only exclusion and eight generic ratio multisets only. No numerical mathematical search, generated orbit/candidate, SAT/CAS/ILP, Lean/Palomar, external source verification, independent certification, public correspondence or publication. CAM-0001 remains PROPOSED NOT_RUNNING BLOCKED by historical n6=16; Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, Phase4 OWNER_GATED; original sources29/frontier30 preserved; hosted CI ABSENT_NOT_PASS; S092 FUTURE.

@@ -356,3 +356,8 @@ Fresh owner invocation following genuine S088 two-parent merge 50f289728d02c62c0
 ## S090 — 16 October 2026
 
 Owner authorised after genuine two-parent S089 merge 8a927ce00b0b9e264f5429fb239baaa36bfc6b58, entry true tree 47da6b1dffdcbdaeaff6deb28b43c933f7bc0f77. [Hand proof](../research/S090_SIXFOLD_HIGH_ONE_AND_ALL_STRONG_EXCLUSIONS.md), [review](../sessions/S090/REVIEW.md), [PRECOMMIT closeout](../sessions/S090/CLOSEOUT.md). CLM-0316–0318 eliminate sixfold e1≥4, all-six-strong and >2 generic strong outsider patterns, not all sixfold. Source29/frontier30 unchanged, claims315→318; Phase1 HOLD, CAM BLOCKED, hosted CI ABSENT_NOT_PASS. Branch session/S090-sixfold-outsider-spectra; S091 FUTURE.
+
+
+## S091 — 16 October 2026
+
+Fresh owner authorisation following genuine two-parent S090 merge `062a33c976c7fc2e5c4b60d497419bf25dc4c0c2` / real root `a270f3b82bca0543288e04ecfec7c48c2297f395`. [Full hand proof](../research/S091_SIXFOLD_WEAK_RATIO_CAPS_AND_SPECTRUM.md), [hostile review](../sessions/S091/REVIEW.md), [PRECOMMIT closeout](../sessions/S091/CLOSEOUT.md). CLM-0319–0322: source-conditional genuine indexed sixfold outsiders cannot contain e4³, e3⁴, or any no-strong family; eight arithmetically necessary generic spectra remain (exceptions strong≥3 unresolved). NO full sixfold/no12-q, original S060/Fano/2048/splits/mixed/P26/U22, G58 or D20 result. Claims318→322, original source29/frontier30 unchanged, Phase1 HOLD, CAM BLOCKED, Actions/check0 ABSENT_NOT_PASS. Branch `session/S091-sixfold-weak-ratio-caps`; S092 FUTURE ONLY.
