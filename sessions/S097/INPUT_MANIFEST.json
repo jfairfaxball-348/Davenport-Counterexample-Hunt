@@ -1,0 +1,15 @@
+{
+  "session": "S097",
+  "date": "2026-10-16",
+  "owner_invocation": "Run next session",
+  "entry_main": "8a540ddaad503e9c7ddaef4ca6c93d43be93048f",
+  "entry_true_git_root_tree": "e9c9b4c127b82d44dc59534642ef176e26cbdb5d",
+  "direct_tree_endpoint": "VERIFIED",
+  "entry_next_prompt_blob_sha": "b1fadf2aed6c36c2d732c9894a054cf90dcd4e6e",
+  "s096_two_parent_merge": true,
+  "original_positions": 59,
+  "source_records": 29,
+  "frontier_original_rows": 30,
+  "claims_before": 336,
+  "mathematical_numerical_search": false
+}
