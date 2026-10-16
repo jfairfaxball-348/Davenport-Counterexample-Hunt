@@ -447,3 +447,8 @@ The five-outsider projected two-layer tests at sevenfold t3 are NOT 30 independe
 ## S088 — the sevenfold obstruction closes, but not the Davenport bridge
 
 Successful nonpromotion: five-outside necessary gates truly preclude any sevenfold t3 axial q projected fibre, but this is only the fixed U*=e1^8e2^8e3^6 canonical original profile. It does not show q-fibre spectra≤6 impossible, does not eliminate arbitrary U22, non-q signed split, genuine q-splits E(U*\I), four coupled Fano H values, 2048 original masks, 26 hubs, P26, or mixed FULL8/12/13+. No generated projected shadow, all-five/full12 counterfeit zero, false G58 certification or universal D20 equality. Further attempt: exact sixfold odd exceptions t2 e_J3/t3 e_J1 (including v0) then full labelled original bridge. INTERNAL same-executor only, hosted CI ABSENT_NOT_PASS.
+
+
+## S089 — sixfold origin exceptions are not real survivors (16 October 2026)
+
+S086 left v0,t2/t3 exceptions only because the outsider mod5 sieve was incomplete: **t2 fails genuine H torsion already on pairs of six repeated real q groups**, while t3's odd e=1 exception does not rescue all five outsiders simultaneously. The exact K6 pair cross geometry forces five residual (3,4)/(4,3) copies and one (2,2); all genuine triples of those five imply each e=2, contradicting the genuinely proper five-outsider odd exceptional sum. The sixfold total is e_all=beta-1 and W=(2,2)-beta*v, never the sevenfold formula. Do not impose J=all six fourth gate: it is FULL12, and t3 zero gate is physically missing. Two exceptional v=(3,4),(4,3) do NOT inherit uniform actual G third from pure-repeat torsion. No sixfold nonzero-v elimination, full original G59 closure, G58 or Davenport proof. S090 FUTURE only.
