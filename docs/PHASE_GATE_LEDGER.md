@@ -312,3 +312,8 @@ CLM-0296–0299 prove narrow source-conditional axial original indexed constrain
 ## S086 Phase-1 gate — HOLD (15 October 2026)
 
 CLM-0300–0303 add simultaneous mod5 projected third0/4 original-index necessary tests; actual sevenfold t3 fibre horizontal0 impossible; sixfold horizontal0,t1/4 impossible, with t2/3 explicitly excepted. All horizontal nonzero sevenfold and many sixfold+ spectra, exact full H torsion, SAME-six actual Fano quartet/2048, U* q-splits E(U*\I), non-q signed, FULL8/exact12/13/14/>=15, 26 hubs, P26, arbitrary U22 OPEN. Original source29/frontier30 frozen. **Phase1 IN_PROGRESS, NO PASS**, Phase2/3 NOT_STARTED, Phase4 OWNER_GATED, CAM-0001 BLOCKED, CI ABSENT_NOT_PASS, INTERNAL SAME_EXECUTOR; S087 FUTURE ONLY.
+
+
+## S087 Phase-1 gate — HOLD (16 October 2026)
+
+CLM-0304–0306 source-conditional INTERNAL hand proofs: sevenfold t3 five-outsider proper subset triple/quartet two-layer gates redundant via complement, v horizontal origin and ALL eight nonzero axis values excluded in actual indexed U*=8/8/6 T59 (remaining sixteen ab!=0 are UNRESOLVED). Two-point strong outsider non-axis rigidity conditional only. Full twelve-q/H modulo10/S060 Fano and 2048 real original indices/q-splits E(U*\\I)/mixed non-q/FULL8/12/13+/26 hubs/P26/arbitrary U22 and sixfold t2/3 NOT settled; no G58/D(C20³)=58 theorem. **Phase1 IN_PROGRESS, NO PASS**; Phase2/3 NOT_STARTED, Phase4 OWNER_GATED. CAM-0001 BLOCKED, original source29/frontier30 preserved, claims306, hosted CI ABSENT_NOT_PASS, review INTERNAL SAME_EXECUTOR; S088 FUTURE only.
