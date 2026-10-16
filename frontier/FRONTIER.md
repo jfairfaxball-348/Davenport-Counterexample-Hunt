@@ -318,3 +318,13 @@ INTERNAL CLM-0343 only adds conditional actual original-index axial G20 five-fla
 ## S102 frontier preservation — 16 October 2026
 
 INTERNAL CLM-0344 adds only conditional physical original-index axial five-flat exceptional q-group no-go when ordinary horizontal leaf colours are >=3 distinct, with actual original proper zeros. Ordered original 30 frontier JSON rows and all numerical bounds/statuses unchanged; 29 source JSON objects unchanged (verified original blobs b5d79188aa9fd60d370d743df96b7101e49ff8ad and aa65505594d1a4f334d0b6335e59c0da5c3c6af4 respectively). No new rank-three n result, full G59 theorem, G58 zero-sumfree or D(C20³)=58. Phase1 HOLD, CAM BLOCKED, CI ABSENT_NOT_PASS; S103 FUTURE.
+
+
+## S103 note — 16 October 2026
+
+No frontier row changed. All 30 ordered Markdown rows and frontier.json are untouched. n=15 (43..45) and n=20 (58..59) are now the declared SEARCH_FIRST targets, and a scoped Phase-1 PASS covers target definition and bound provenance only.
+- SRC-0030/0031 record the 2026 bound D(C_n³) ≤ 4n−P(n)−2. That gives ≤53 at n=15 and ≤73 at n=20, both weaker than the recorded rows.
+- SRC-0032 (Han–Zhang 2026) gives general asymptotic bounds and states no exact value for these rows.
+- CLM-0346 rechecks the standard lower-bound sequences with two exact checkers.
+
+No candidate, new bound or openness claim.

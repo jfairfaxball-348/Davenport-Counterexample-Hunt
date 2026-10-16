@@ -500,3 +500,24 @@ The dated abstract states D_k(C5³)=5k+10 for k≥2, hence D2(C5³)=20, and repo
 ## S096 source status freeze — 16 October 2026
 
 No new primary/secondary literature, access reclassification, evidence upgrade or external novelty statement. Original 29 source JSON objects unchanged. CLM-0336 is a direct same-executor hand-checked partial physical G20 construction, not literature evidence, numerical certification or a claim about D(C20^3). SRC-0008/0015/0023 remain SOURCE_STATED as before. S097 FUTURE.
+
+
+## SRC-0030 — Optimization-problems constants table, entry 53a: Davenport constant for C_n^3
+
+Year: 2026. Access: **SECONDARY_ONLY** (2026-10-16). [Page](https://teorth.github.io/optimizationproblems/constants/53a.html)
+
+The page records 3(n−1)+1 ≤ D(C_n³) ≤ 4n−P(n)−2, attributed to SRC-0031, along with earlier Zakarczemny/CMMPT bounds. At n=15 this gives ≤53 and at n=20 ≤73, both weaker than the recorded 45/59. It is an aggregator, not a proof source.
+
+## SRC-0031 — M. Grinsztajn, An upper bound for the Davenport constant of C_n^3
+
+Year: 2026. Access: **METADATA_ONLY** (2026-10-16). [Proof PDF link](https://github.com/maaxgrin/davenport-cn3-bound/blob/main/davenport_cn3_bound.pdf)
+
+Known only through the SRC-0030 citation; the PDF was not inspected. It is not used as a premise.
+
+## SRC-0032 — D. Han, H. Zhang, Davenport Constants of Finite Abelian Groups, arXiv:2610.15102
+
+Year: 2026. Access: **ABSTRACT_INSPECTED** (2026-10-16). [Abstract](https://arxiv.org/abs/2610.15102)
+
+The abstract states D(G) < 4.86·exp(G)·log|G|/log exp(G) and D(G)~D*(G) for almost all G. It gives no exact C15³/C20³ value. Context only.
+
+**S103 source note.** These three records were added for the search-target literature context check. The original 29 source records are unchanged, and no access was promoted. Not finding an exact n15/n20 value is not a claim that the problem is open.

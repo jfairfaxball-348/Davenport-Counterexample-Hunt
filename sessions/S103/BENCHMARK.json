@@ -1,0 +1,21 @@
+{
+ "python": "3.12.10",
+ "numpy": "1.26.4",
+ "platform": "Windows-11-10.0.26300-SP0",
+ "cpu_count": 16,
+ "processor": "Intel64 Family 6 Model 141 Stepping 1, GenuineIntel",
+ "n15": {
+  "push_pop_cycles": 19993,
+  "push_pop_per_sec": 56469,
+  "legal_mask_per_sec": 40057,
+  "checkerA_full_check_seconds_len42": 0.000407,
+  "checkerB_full_check_seconds_len42": 0.2051
+ },
+ "n20": {
+  "push_pop_cycles": 19996,
+  "push_pop_per_sec": 54264,
+  "legal_mask_per_sec": 36636,
+  "checkerA_full_check_seconds_len57": 0.000572,
+  "checkerB_full_check_seconds_len57": 0.6711
+ }
+}

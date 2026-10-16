@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "session": "S103",
+  "date": "2026-10-16",
+  "entry_main": "13ce00e0f04715418f99687a858892f02f3457b4",
+  "entry_true_git_root_tree": "e63f39d5d9bff009c11e9de9dcda5d98c78fbe11",
+  "precommit": true,
+  "math_review": "INTERNAL_SAME_EXECUTOR",
+  "claims_before": 344,
+  "claims_after": 346,
+  "claim_ids": [
+    "CLM-0345",
+    "CLM-0346"
+  ],
+  "sources_before": 29,
+  "sources_after": 32,
+  "commands_run": [
+    "python -I tools/zsf/test_zsf.py  -> overall PASS (~127 s)",
+    "python -I tools/zsf/bench.py",
+    "python -I tools/zsf/preflight_engine.py -> overall PASS",
+    "python -I validation/validate_s103.py 13ce00e0f04715418f99687a858892f02f3457b4 -> overall PASS"
+  ],
+  "environment": {
+    "python": "3.12.10",
+    "numpy": "1.26.4",
+    "os": "Windows 11 10.0.26300",
+    "cpu": "i7-11800H 16 logical",
+    "ram_bytes": 16866881536
+  },
+  "file_sha256_lf": {
+    "tools/zsf/checker_a.py": "72dd61225de7346b3f4f6624c91548a505edcab99ec78129981eacf25aff3269",
+    "tools/zsf/checker_b.py": "6f2a0588692b29ed4093f42c5244bc5c7c57ef0f78a4c1ce42ba98414f0c9e0c",
+    "tools/zsf/brute.py": "2696bc0e2203dd42826daba5354bc13def8cb7030311c5d0890de591ef45edd6",
+    "tools/zsf/test_zsf.py": "0f4ae669cc67c2496df18ccc7c7366b8cf0f7898f0bcc079098533d2e2440d2c",
+    "tools/zsf/bench.py": "4517192f51af333ff5a302dd9f3c9c4f160a41387dfb9950f42369e070cd2c3d",
+    "tools/zsf/ils_engine.py": "e0749fc31cee7165c283adddd5b9de5cc737226010f7e6a79fe5be17f3a5d912",
+    "tools/zsf/preflight_engine.py": "42430e91a6fd3172119d2ee0b50f045056500aafe2e94b261b32a1592b8a3419",
+    "sessions/S103/TEST_OUTPUT.json": "53631ad2da4fd6cf1b5c83b4c82222f4fe1a4fbe572b085f021d730acbb2cd94",
+    "sessions/S103/BENCHMARK.json": "3c9a17be0d3ca3bd5431b9efcee52a95114f8a438f881bfc642e1bc1eaebd5c2",
+    "sessions/S103/ENGINE_PREFLIGHT.json": "6e1093fe072d9033db4c599335e25a74a2a05d9ce9a6c28795e899e078c688da",
+    "campaigns/CAM-0002/PREREGISTRATION.json": "c92c1f8d32b4c46f9a3872a853f790ff204bf8e0ac46076eaa3a519889b56600",
+    "campaigns/CAM-0003/PREREGISTRATION.json": "aa29c0d08e80803ddf325f9ecd7d54d29ac7595166b3f5fe08252843e1b4e833",
+    "validation/validate_s103.py": "a7567c191d27dcae7fbc1ce64a7ac5b88f73d434e7ea35cbda3129976be80ccb"
+  },
+  "random_cross_validation_sequences": 2300,
+  "exhaustive_small_groups_reproduced": [
+    "C2^3:4",
+    "C3^2:5",
+    "C2xC4:5",
+    "C4^2:7",
+    "C2^2xC4:6",
+    "C3^3:7"
+  ],
+  "standard_saturation": {
+    "n15": {
+      "length": 42,
+      "sigma": 3375
+    },
+    "n20": {
+      "length": 57,
+      "sigma": 8000
+    }
+  },
+  "phase1": "SCOPED_PASS_SEARCH_TARGETS_N15_N20 (general IN_PROGRESS)",
+  "phase2": "SCOPED_PASS_CHECKERS_AND_R1_ENGINE",
+  "phase3": "CAM-0002/0003 PREREGISTERED_NOT_ACTIVATED",
+  "n15_n20_search_executed": false,
+  "candidate": null,
+  "exhaustive_or_negative_claim": false,
+  "lean_run": false,
+  "source_records_untouched": 29,
+  "frontier_original_rows_untouched": 30,
+  "hosted_ci": "ABSENT_NOT_PASS",
+  "hosted_workflow_runs_at_entry": 0,
+  "hosted_checkruns_at_entry": 0,
+  "search_counters": {
+    "setup_sessions": 1,
+    "active_search_sessions": 0,
+    "completed_rounds": 0
+  },
+  "next": "S104_FUTURE_UNEXECUTED"
+}

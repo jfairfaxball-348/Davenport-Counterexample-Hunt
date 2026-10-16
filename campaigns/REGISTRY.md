@@ -400,3 +400,26 @@ Only INTERNAL original-index S060 axial physically disjoint free-five-flat symbo
 ## S102 no campaign activation — 16 October 2026
 
 Only INTERNAL hand symbolic exact 59-original-index axial grouped-q proof CLM-0344, with genuine disjoint original q GROUP selections and original full U* pairs. No numerical mathematical search, lifted candidate, generated orbit, solver/CAS/SAT/ILP, Lean, Palomar, source promotion, independent certificate, outreach or publication. CAM-0001 stays PROPOSED NOT_RUNNING BLOCKED, Phase1 HOLD, Phases2/3 NOT_STARTED, Phase4 OWNER_GATED, sources29/frontier30 frozen, CI ABSENT_NOT_PASS, S103 FUTURE.
+
+## CAM-0002 — n=15 length-43 zero-sumfree hunt, round 1 — PREREGISTERED / NOT ACTIVATED (S103, 2026-10-16)
+
+The full machine-readable record is [PREREGISTRATION.json](CAM-0002/PREREGISTRATION.json).
+- **Target:** an indexed zero-sumfree sequence of length 43 in (Z/15)³. A hit would show D(C15³) ≥ 44. Extending to length 44 would need a separate pre-registration.
+- **Domain:** all indexed sequences, unrestricted. No symmetry normalisation is used.
+- **Method:** R1-ILS-1.0 (`tools/zsf/ils_engine.py`), with softmin exact-new-coverage growth plus ruin(2..6)-and-regrow.
+- **Completeness:** HEURISTIC.
+- **Budget:** 6 workers with seeds 103001–103006, 200,000 iterations each, and a 7200 s walltime cap per worker (≤12 CPU-hours).
+- **Checkpoints:** `campaigns/CAM-0002/checkpoints/seed-<SEED>.jsonl`, every 500 iterations.
+- **Stopping:** stop when the budget is exhausted, the cap is hit (logged as truncated) or the target is reached (quarantine).
+- **Activation:** S104 at the earliest, after the committed scoped Phase-1/2 PASS and re-verification of the code SHA-256s.
+- Exhausting the budget is **not** a negative result.
+
+## CAM-0003 — n=20 length-58 zero-sumfree hunt, round 1 — PREREGISTERED / NOT ACTIVATED (S103, 2026-10-16)
+
+The full machine-readable record is [PREREGISTRATION.json](CAM-0003/PREREGISTRATION.json).
+- **Target:** an indexed zero-sumfree sequence of length 58 in (Z/20)³. Under the recorded, source-conditional upper bound of 59, a hit would force D(C20³)=59.
+- **Method and domain:** the same as CAM-0002.
+- **Budget:** seeds 103101–103106, otherwise the same budget as CAM-0002.
+- **Activation and semantics:** the same rules as CAM-0002.
+
+CAM-0001 (obsolete n6) stays PROPOSED / NOT RUNNING / BLOCKED and is not reactivated.

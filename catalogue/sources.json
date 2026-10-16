@@ -268,6 +268,33 @@
       "access": "ABSTRACT_INSPECTED",
       "accessed": "2026-10-14",
       "notes": "ArXiv abstract dated 2026-09-04 states D_k(C5³)=5k+10 for every k>=2, including D2=20 and machine-assisted D3=25, D4=30. Abstract-only observation, no independent proof/computation/cold rerun. Used solely as SOURCE_STATED conditional premise for CLM-0236; does not promote historical SRC-0015 or old sources."
+    },
+    {
+      "id": "SRC-0030",
+      "title": "Optimization-problems constants table, entry 53a: Davenport constant for C_n^3 (teorth.github.io)",
+      "year": "2026",
+      "url": "https://teorth.github.io/optimizationproblems/constants/53a.html",
+      "access": "SECONDARY_ONLY",
+      "accessed": "2026-10-16",
+      "notes": "S103 web page observed directly: records 3(n-1)+1 <= D(C_n^3) <= 4n-P(n)-2 (P(n) largest primary component of n), attributed to SRC-0031, and earlier Zakarczemny/CMMPT bounds. Gives D(C15^3)<=53, D(C20^3)<=73, weaker than recorded 45/59. No exact n15/n20 value stated. Secondary aggregator; not a proof source."
+    },
+    {
+      "id": "SRC-0031",
+      "title": "M. Grinsztajn, An upper bound for the Davenport constant of C_n^3 (proof PDF, GitHub repository maaxgrin/davenport-cn3-bound)",
+      "year": "2026",
+      "url": "https://github.com/maaxgrin/davenport-cn3-bound/blob/main/davenport_cn3_bound.pdf",
+      "access": "METADATA_ONLY",
+      "accessed": "2026-10-16",
+      "notes": "Known only via SRC-0030 citation; PDF not inspected in S103. Claimed bound D(C_n^3)<=4n-P(n)-2 does not improve n15/n20 frontier rows. Not used as a premise."
+    },
+    {
+      "id": "SRC-0032",
+      "title": "D. Han, H. Zhang, Davenport Constants of Finite Abelian Groups, arXiv:2610.15102",
+      "year": "2026",
+      "url": "https://arxiv.org/abs/2610.15102",
+      "access": "ABSTRACT_INSPECTED",
+      "accessed": "2026-10-16",
+      "notes": "Abstract (submitted 2026-10-10) states D(G) < 4.86 exp(G) log|G|/log exp(G) for all finite abelian G and D(G)~D*(G) for almost all G. No exact C15^3 / C20^3 value in abstract. Context only; not used as a premise."
     }
   ],
   "s033_audit": {
@@ -622,6 +649,17 @@
       "SRC-0015",
       "SRC-0023"
     ],
+    "review": "INTERNAL"
+  },
+  "s103_audit": {
+    "original_source_records_preserved": 29,
+    "new_records": [
+      "SRC-0030",
+      "SRC-0031",
+      "SRC-0032"
+    ],
+    "access_promotions": 0,
+    "purpose": "S103 search-target literature context check for n15/n20; no exact value found; absence is not an openness claim",
     "review": "INTERNAL"
   }
 }

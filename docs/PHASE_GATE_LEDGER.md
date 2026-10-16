@@ -3,9 +3,9 @@
 | Gate | Status | Review | Evidence / limit |
 |---|---|---|---|
 | Phase 0 governance | PASS | S001 2026-10-10 | Required spine and provenance categories created; JSON structurally constructed |
-| Phase 1 frontier | IN_PROGRESS | S029 2026-10-12 | Universal prime Property C CLM-0111, historical eta(C7³)≤116 CLM-0112 proved; other source gates open, CAM-0001 blocked. |
-| Phase 2 tooling | NOT_STARTED | — | No independent algorithm or SAT checker |
-| Phase 3 campaigns | NOT_STARTED | S004 | CAM-0001 PROPOSED / NOT RUNNING; n6 premise obsolete, activation blocked; no replacement target |
+| Phase 1 frontier | IN_PROGRESS (SCOPED PASS n15/n20 search targets, S103) | S029 2026-10-12; S103 2026-10-16 | Universal prime Property C CLM-0111, historical eta(C7³)≤116 CLM-0112 proved; other source gates open, CAM-0001 blocked. |
+| Phase 2 tooling | SCOPED PASS | S103 2026-10-16 | Exact zero-sumfree checkers A/B (algorithmically distinct, same executor), brute reference, R1 heuristic engine; NOT exhaustive/SAT/Lean tooling |
+| Phase 3 campaigns | PREREGISTERED | S103 2026-10-16 | CAM-0002 (n15 L43) and CAM-0003 (n20 L58) round 1 HEURISTIC, activation from S104; CAM-0001 still BLOCKED |
 | Phase 4 result certification | OWNER_GATED | — | No candidate, Lean proof or cold check |
 
 **Phase-0 PASS scope:** governance construction only; it does not certify a mathematical case or numerical orbit count.
@@ -392,3 +392,23 @@ INTERNAL SAME_EXECUTOR source-conditional CLM-0343 exact original disjoint five-
 ## S102 Phase1 gate — HOLD, 16 October 2026
 
 INTERNAL SAME_EXECUTOR CLM-0344 source-conditional genuine grouped-q original G20 exclusion: exceptional exactly-five flat star z^4(z+2) with >=3 ordinary F2² colours impossible, including V flat overlap (no Fano double-count). Proper original zeros from q four-group h=(4,4,6), pairs k=(6,6,4) or q two-group h=(2,2,9), pairs k=(8,8,1). NOT arbitrary full 12-q feasibility classification; all remaining leaf 2+2/3+1/4 and uniform/<=4 flat and all S060 original other gates open. Claims344, sources29/frontier30 frozen; Phase1 IN_PROGRESS no PASS; Phase2/3 NOT_STARTED, Phase4 OWNER_GATED, CAM-0001 BLOCKED. Hosted CI at entry zero, ABSENT_NOT_PASS; protection403 UNKNOWN. Review internal, S103 FUTURE.
+
+
+## S103 gates — 16 October 2026
+
+**Phase 1: SCOPED PASS, search targets n=15 (length 43) and n=20 (length 58) only.**
+- Target definitions are exact and are given in research/S103_SEARCH_TOOLING_AND_PREREGISTRATION.md §1.
+- The lower bound D≥3n−2 is CLM-0038, PROGRAMME_PROVED, and the standard sequences are rechecked by two checkers (CLM-0346).
+- The upper-bound provenance is identified: 45 via CLM-0051 with source D(C5³)=13, and 59 via CLM-0049 with historical D(C10³)=28. Both are PROGRAMME_DERIVED and source-conditional.
+- 2026 literature context checked (SRC-0030..0032): no exact n15/n20 value found, and no openness or priority is claimed.
+- The validity of a target hit depends on no open Phase-1 obligation. The general frontier map stays IN_PROGRESS, and the historical BSP/Reiher/GHST/Sheikh/Yiu provenance obligations remain open but do not gate search.
+
+**Phase 2: SCOPED PASS, exact zero-sumfree checking tooling and the R1-ILS-1.0 heuristic engine.**
+- Checker A: numpy prefix-criterion DP. Checker B: pure-Python exact subset counts, a different algorithm and criterion. Brute reference C.
+- All tests in sessions/S103/TEST_OUTPUT.json PASS: edge cases, wraparound, standard saturation, 2300 seeded random A/B/brute agreements, oracle rollback, and exhaustive small-group D reproduction (C2³, C3², C2×C4, C4², C2²×C4, C3³).
+- Engine pre-flight on settled n=4,5,6 reached exactly 3n−3, and 800 FFT coverage values equal direct exact updates.
+- Excluded from this PASS: symmetry-reduced exhaustive enumeration, SAT/DRAT/LRAT, and Lean 4 certification. Each needs its own gate before any EXHAUSTIVE, negative or certified claim.
+
+**Phase 3: PREREGISTERED.** CAM-0002 and CAM-0003 are HEURISTIC, with explicit seeds, iteration and walltime budgets and SHA-256-pinned code. Activation is permitted from S104, once this scoped PASS is committed on main. Nothing was activated or run on the target groups in S103.
+
+Phase 4 remains OWNER_GATED. Hosted CI is absent (ABSENT_NOT_PASS). The review is INTERNAL_SAME_EXECUTOR.
