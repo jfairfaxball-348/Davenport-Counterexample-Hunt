@@ -462,3 +462,8 @@ All v!=0 have no 4+ outsider e1 and no all-six e0/e2; generic strong≤2. Still 
 ## S091 — ratio-spectrum compression is not sixfold contradiction
 
 All sixfold e4≥3, e3≥4 and all-weak 1³3³ can be rejected by hand via properly available actual ORIGINAL singleton/pair/triple q tests. The *remaining eight generic multisets* are only arithmetic possibilities satisfying counts and broad caps, not witnesses of residual C0/C4 feasibility, and the three two-point exceptional horizontal v may still have >=3 strong labels. In particular no valid all-six-outsider J gate exists: FULL12 is EXEMPT. S091 does not close all projected 62 necessary clauses, true H, four same-original Fano/C/Delta/2048 or split/mixed/26 hubs/arbitrary U22/P26; G58/D20 and global conjecture remain open. Phase1 HOLD, S092 FUTURE.
+
+
+## S092 — false residual arithmetic caught; true sixfold obstruction closed
+
+For the final generic 2 1³34 case with strong s=A, e4 residual D and all e1 residuals 0, the correct e3 residual from W=A+B is **u=A, not u=0**. Substituting this true value exposes the proper e2+e3 C0 pair, contradicting the forced d=0. The other seven generic cases, including 0²1³4, fail separate proper q gates. At exceptional v the naive generic strong-count≤2 theorem is unavailable; instead collinear propagation works for ALL strong counts, using the exact 6-label e-total, genuine P-edges and scalar pair sums. Every individual witness is a physical proper singleton/pair/triple q test; no FULL12 fake witness, no numerical scan, no uniform original third-torsion-bit assumption. The resulting axial fibre<=5 is CONDITIONAL and does not resolve all 12 actual q, same-original H/Fano/2048/splits/mixed/U22/P26, G58 or D20. Phase1 HOLD; S093 FUTURE.

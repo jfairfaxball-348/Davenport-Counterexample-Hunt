@@ -1645,3 +1645,12 @@ Claims315→318, sources29/frontier30 fixed, Phase1 IN_PROGRESS, CAM BLOCKED, CI
 - **CLM-0322 [PROGRAMME_PROVED; INTERNAL SAME_EXECUTOR; CONDITIONAL NECESSARY]** For generic nonzero horizontal v OUTSIDE {(3,1),(1,3),(4,4)}, the total/singleton/pair constraints and CLM-0316–0321 narrow the arithmetically possible sixfold outsider e-ratio multisets to exactly eight: 0 3³4², 0 1²3²4, 2 1 3²4², 2 1³34, 0²134², 0²1³4, 0 2 1 3³, 0 2 1²4². This is a hand count, NOT proof that ANY multiset passes ALL 62 original-index necessary paired clauses; at three special v strong≥3 remains OPEN.
 
 Claims318→322, original source29/frontier30 unchanged. [S091 hand proof](../research/S091_SIXFOLD_WEAK_RATIO_CAPS_AND_SPECTRUM.md), [hostile SAME_EXECUTOR review](../sessions/S091/REVIEW.md). Sixfold, all twelve q, true full H/Fano/2048/split/mixed/26 hubs/U22/P26, G58 and D(C20³)=58 remain OPEN; Phase1 HOLD, CAM BLOCKED, hosted CI ABSENT_NOT_PASS. S092 FUTURE only.
+
+
+## S092 — complete canonical axial sixfold no-go (INTERNAL CONDITIONAL)
+
+- **CLM-0323 [PROGRAMME_PROVED; INTERNAL SAME_EXECUTOR; SOURCE-CONDITIONAL NECESSARY]** Generic actual strong+two-outsider P-pair fork fails off three exceptional v (and on axes): six of eight S091 e spectra eliminated by proper original indexed pairs.
+- **CLM-0324 [PROGRAMME_PROVED; INTERNAL SAME_EXECUTOR; SOURCE-CONDITIONAL NECESSARY]** Double e0+e4 singleton/pair/triple gates exclude 0²1³4; explicit e2 1³34 residual branches exclude the last generic spectrum, including axis cases.
+- **CLM-0325 [PROGRAMME_PROVED; INTERNAL SAME_EXECUTOR; SOURCE-CONDITIONAL NECESSARY]** For ALL three exceptions (3,1),(1,3),(4,4), strong existence and actual pair gates force all residuals into one line; scalar pair sum/total contradiction excludes all remaining sixfold. Together with S082–S091 gives the fixed axial genuine q projected half-fibre max <=5, not a full 12-q no-go.
+
+Claims322→325; original sources29/frontier30 unchanged. [Proof](../research/S092_COMPLETE_AXIAL_SIXFOLD_NO_GO.md), [hostile review](../sessions/S092/REVIEW.md). Full S060 same-original Fano/2048/q-splits/non-q/hubs, arbitrary U22/P26, zero-free G58 and D(C20³)=58 OPEN. Phase1 HOLD, CAM BLOCKED, CI ABSENT_NOT_PASS; S093 FUTURE only.

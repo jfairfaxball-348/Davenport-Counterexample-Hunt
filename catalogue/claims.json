@@ -3281,6 +3281,33 @@
       "origin": "research/S091_SIXFOLD_WEAK_RATIO_CAPS_AND_SPECTRUM.md",
       "source_ids": [],
       "notes": "S091 INTERNAL SAME_EXECUTOR source-conditional genuine original-index NECESSARY q gates; no full sixfold/12q/S060 or G58/D20 theorem; no numerical search."
+    },
+    {
+      "id": "CLM-0323",
+      "statement": "For source-conditional actual 59-original axial U*=8/8/6 sixfold q fibres with nonexceptional horizontal v, a real strong outsider and two further actual outsiders whose three pair supports must lie P form an impossible P-fork. This eliminates SIX of S091's eight arithmetic generic e spectra by properly available original q pair gates, axes included.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S092_COMPLETE_AXIAL_SIXFOLD_NO_GO.md",
+      "source_ids": [],
+      "notes": "S092 INTERNAL SAME_EXECUTOR conditional actual indexed necessary q gates; P-fork off-axis +/-D,+/-2D only at the three special v. Literal proper original q plus U* full-pair witness, never FULL12; NOT full S060, G58 or D20."
+    },
+    {
+      "id": "CLM-0324",
+      "statement": "In the same axial original-index sixfold with nonexceptional v, the remaining generic e spectra 0^2 1^3 4 and 2 1^3 3 4 violate genuinely proper singleton/pair/triple C0/C4 gates; hence NONE of eight generic spectra survives.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S092_COMPLETE_AXIAL_SIXFOLD_NO_GO.md",
+      "source_ids": [],
+      "notes": "S092 INTERNAL SAME_EXECUTOR conditional actual q: two e0+e4 contradiction and explicit e2,e4/e1/e3 total argument including all-zero e1 giving e3 residual A (NOT 0). Axes and both orientations audited; not an all12 gate."
+    },
+    {
+      "id": "CLM-0325",
+      "statement": "At exceptional horizontal v=(3,1),(1,3),(4,4), any strong sixfold outsider forces all six actual residuals onto the line L containing two-point P; the pair sums and total W then contradict each other (or the existing strong). Together with S089–S091 and CLM-0323/0324, the source-conditional 59-original axial U*=8/8/6 actual q projected half-fibre maximum is at most FIVE.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S092_COMPLETE_AXIAL_SIXFOLD_NO_GO.md",
+      "source_ids": [],
+      "notes": "S092 INTERNAL SAME_EXECUTOR conditional necessary q-only original-index obstruction, no uniform original third-bit assumption at (3,4)/(4,3), no FULL12. Does NOT exclude all twelve q groups at max multiplicity<=5 or close H/Fano/2048/splits/non-q/hubs/arbitrary U22/P26, zero-free G58, D20 conjecture."
     }
   ]
 }

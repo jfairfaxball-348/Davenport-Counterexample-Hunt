@@ -24,14 +24,14 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S091",
-  "recommended_next_session": "S092",
+  "last_completed_session": "S092",
+  "recommended_next_session": "S093",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": null,
   "phase1_target_status": "WITHHELD_NO_REPLACEMENT_CAMPAIGN",
   "open_blockers": [
-    "S090: sixfold genuine canonical axial t3 v!=0 now has outsider e1 multiplicity≤3 and no all-six strong e0/e2; generic strong≤2. Remaining p≤3 original-index C0/C4 gates, actual H torsion (3,4)/(4,3), four coupled S060 SAME-six Fano/2048/q split/non-q mixed/FULL8/12+/26 hubs/arbitrary U22/P26 UNRESOLVED. No global sixfold no-go.",
+    "S092: Canonical source-conditional actual axial U*=8/8/6 SIXFOLD q projected half-fibre now excluded; maximum fibre <=5. FULL 12-q q-spectrum, true H E(U*), same-original four Fano X/Y/C/Delta, 2048 masks, multi-q splits E(U*\\I), signed non-q original splits, 26 hubs, FULL8/exact12/13/14/>=15, arbitrary U22 and P26 remain OPEN. No G58 zero-free or D20 theorem; Phase1 HOLD.",
     "S087 CLM-0304–0306: size3/4 7fold t3 five-outsider two-layer necessary gates are exact complements of size2/1; all horizontal-axis v (including origin) excluded in actual original indexed axial U*=8/8/6 conditional T59, leaving SIXTEEN ab!=0 projected horizontal parameters (none certified feasible). Full sevenfold no-go, sixfold t2/3 origin, <=5 spectra, real H/Fano/2048/q splits/signed non-q/26 hubs/arbitrary U22/P26, G58 and D(C20³)=58 OPEN. Claims306 sources29/frontier30 preserved Phase1 IN_PROGRESS CAM BLOCKED CI ABSENT_NOT_PASS.",
     "S086 two-layer sevenfold canonical axial original q gate excludes ONLY horizontal v=(0,0) at t3; v!=(0,0) (24 projected values), all <=6 general fibre spectra, full genuine H/Fano/q-split/non-q signed original gates, arbitrary U22/P26, G58/D20 remain OPEN. Sixfold horizontal v=0 rules out t1/4, not t2/3.",
     "S085 sevenfold axial U* q projection: only t=3 with seven identical REAL group third coordinates1 or11 mod20 and five outsider residual horizontal multiplicity<=3 remains; no universal sevenfold nor six-or-fewer no-go; all actual S060 Fano/q-split/non-q gates remain OPEN.",
@@ -1530,6 +1530,38 @@
     "campaign": "CAM-0001_BLOCKED",
     "hosted_CI": "ABSENT_NOT_PASS",
     "review": "INTERNAL_SAME_EXECUTOR",
-    "next": "S092_FUTURE_UNEXECUTED"
+    "next": "S092_COMPLETED_SUPERSEDED_BY_S092"
+  },
+  "s092_result": {
+    "date": "2026-10-16",
+    "entry_main": "b389976e3c49f49f1d3feb627506b4141d9e09ce",
+    "entry_git_root_tree_reconstructed": "6d4cebfd1eea45145357959702bc5dc637758a4b",
+    "claims": [
+      "CLM-0323",
+      "CLM-0324",
+      "CLM-0325"
+    ],
+    "generic_ratio_multisets_excluded": 8,
+    "exceptional_horizontal_parameters_excluded": [
+      "(3,1)",
+      "(1,3)",
+      "(4,4)"
+    ],
+    "sixfold_nonzero_horizontal_no_go": true,
+    "axial_q_projected_fibre_upper_bound": 5,
+    "conditional_on": "S060/S081 actual 59-original total-zero axial U*=e1^8e2^8e3^6 and proper indexed original zero avoidance",
+    "all_twelve_q_no_go": false,
+    "all_S060_original_gates_closed": false,
+    "arbitrary_U22_closed": false,
+    "G58_zero_sumfree": false,
+    "D_C20_3_eq58": false,
+    "claims_total": 325,
+    "source_records_untouched": 29,
+    "frontier_original_rows_untouched": 30,
+    "phase1": "IN_PROGRESS",
+    "campaign": "CAM-0001_BLOCKED",
+    "hosted_CI": "ABSENT_NOT_PASS",
+    "review": "INTERNAL_SAME_EXECUTOR",
+    "next": "S093_FUTURE_UNEXECUTED"
   }
 }
