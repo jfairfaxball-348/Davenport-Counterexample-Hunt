@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "session": "S100",
+  "date": "2026-10-16",
+  "entry_main": "197132ced55662ed5bc922a9d37a8b11569d3fcd",
+  "entry_true_git_root_tree": "UNKNOWN_NOT_EXPOSED_BY_CONNECTOR",
+  "s099_two_parent_merge": "NOT_DIRECTLY_VERIFIED",
+  "s099_ordinary_merge_pr": 102,
+  "precommit": true,
+  "math_review": "INTERNAL_SAME_EXECUTOR",
+  "original_positions": 59,
+  "claims_before": 341,
+  "claims_after": 342,
+  "claim_ids": [
+    "CLM-0342"
+  ],
+  "true_q_supervertices": 12,
+  "proper_even_grouped_q_subsets": 2046,
+  "separate_Fano_outsider_residuals": 2048,
+  "exceptional_z_mod20": [
+    1,
+    11
+  ],
+  "flat_free_singleton_labels": 5,
+  "ordinary_leaf_colour_partition": "2+1+1",
+  "excluded_actual_C3_mod10": [
+    5,
+    7,
+    9
+  ],
+  "unexcluded_actual_C3_mod10": [
+    1,
+    3
+  ],
+  "four_same_actual_Fano_x3_in_0_or_1": true,
+  "original_proper_zero_selectable": true,
+  "all_twelve_q_no_go": false,
+  "all_2046_q_gates_arbitrary_12_verified": false,
+  "all_2048_Fano_residuals_verified": false,
+  "nonq_multisplits_verified": false,
+  "G58_zero_sumfree": false,
+  "D_C20_3_eq58": false,
+  "numerical_mathematical_search": false,
+  "source_records_untouched": 29,
+  "frontier_original_rows_untouched": 30,
+  "phase1": "IN_PROGRESS_HOLD",
+  "campaign": "CAM-0001_PROPOSED_NOT_RUNNING_BLOCKED",
+  "hosted_ci": "ABSENT_NOT_PASS",
+  "combined_statuses_at_entry": 0,
+  "hosted_workflow_runs_at_entry": 0,
+  "branch_protection": "UNKNOWN",
+  "next": "S101_FUTURE_UNEXECUTED"
+}

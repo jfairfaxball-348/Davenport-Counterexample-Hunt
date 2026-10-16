@@ -393,3 +393,6 @@ Accept CLM-0326–0328 as INTERNAL SAME_EXECUTOR exact **conditional** original-
 
 
 | 2026-10-16 | S099 CLM-0341 original five-flat free-q four-colour Fano same-original C obstruction; 2/4 free outsider index F0 shifts force x third0, but true C3 from three V odd | research/S099_FIVE_FLAT_FREE_FANO_COLOUR_COLLISION.md; sessions/S099/REVIEW.md; INTERNAL SAME_EXECUTOR | ACCEPT narrowly the physically disjoint exceptional all-five-free and distinct four-leaf-colour class only; V/Fano overlaps prohibit extension. No full12/q/signed multisplit/U22/G58/D20 theorem. Claims341; Phase1 HOLD, CAM BLOCKED, source29/frontier30 unchanged, CI ABSENT_NOT_PASS; S100 FUTURE |
+
+
+| 2026-10-16 | S100 CLM-0342 original five-free-flat exceptional A,A,B,C Fano residue collision, C3=5/7/9 impossible via true 2/4 disjoint singleton F0 cuts | research/S100_REPEATED_LEAF_PHYSICAL_FANO_RESIDUE_COLLISION.md; sessions/S100/REVIEW.md; INTERNAL SAME_EXECUTOR | ACCEPT narrowly true repeated 2+1+1 free-leaf subclass C3=5/7/9 only; C3=1/3, V overlaps and global G59/U22/D20 OPEN. Claims342; Phase1 HOLD, CAM BLOCKED, source29/frontier30 unchanged, hosted CI ABSENT_NOT_PASS; S101 FUTURE |

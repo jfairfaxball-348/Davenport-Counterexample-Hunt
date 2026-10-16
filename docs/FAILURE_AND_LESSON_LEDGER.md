@@ -502,3 +502,8 @@ Five physically original horizontal-flat q groups have stronger full G20 vertica
 ## S099 — disjointness of Fano supports excludes V-lift shortcuts
 
 A tempting proof is to use ANY five flat q GROUPS as Fano shifts. It is INVALID when a flat q GROUP is V_l=X_l+Y_l: every physical even Fano triple already contains X_l OR Y_l. Adding V_l double-counts an original index. Restricting the exceptional star to five genuinely FREE g/S singleton positions and four pairwise distinct 0/10 horizontal leaf colours gives real 2/4-cut Fano horizontal four-square coverage. Four SAME original Fano third coordinates would all be0, contradicting original C3=sum of three odd V third coordinates. This is a genuine new **subclass** no-go; repeated colours/V-overlap and full twelve-group axial theorem remain OPEN. No campaign or computational inference. S100 must handle the surviving disjointness/residue class, not inflate this proof into universal no-go.
+
+
+## S100 — a genuine repeated-leaf residue exclusion, but C3=1/3 escape remains
+
+Attempted unconditional elimination of exceptional free-five-flat horizontal colour pattern (A,A,B,C) with A,B,C distinct. Actual two-leaf XORs fill F2² and exceptional+one/three translations disagree, giving each SAME physical even Fano third t in {0,1}; true C odd then restricts C3 to 1 or3. This PROVES a new literal original-index zero when C3=5/7/9, but does not contradict C3=1/3. Escape one or three actual Fano x third1 (others0) remains to be checked against horizontal C/Delta/exterior q slabs/signed original endpoints. V_l overlapping original Fano lines cannot be used as a disjoint free outsider. No universal physical G59 or D20/G58 theorem. Phase1 HOLD, next S101.

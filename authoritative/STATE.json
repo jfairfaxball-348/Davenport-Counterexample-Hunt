@@ -24,13 +24,14 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S099",
-  "recommended_next_session": "S100",
+  "last_completed_session": "S100",
+  "recommended_next_session": "S101",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": null,
   "phase1_target_status": "WITHHELD_NO_REPLACEMENT_CAMPAIGN",
   "open_blockers": [
+    "S100 CLM-0342 INTERNAL original SAME Fano repeated-colour exclusion: exceptional axial five flat all physically FREE S/g original q singleton indices with ordinary horizontal colours A,A,B,C (A,B,C distinct). Real two-ordinary and exceptional+one/three disjoint Fano original E(U*) cuts force every SAME four Fano x third in {0,1}; C3=overline(V1+V2+V3)_3 odd can only be1 or3. Thus actual C3=5/7/9 has selectable genuine proper Fano+2/4 free-outsider+indexed complete-U original G20 zero. C3=1/3 repeated, V-overlap and all global 2046/2048/signed masks/hubs/arbitrary U22/G59/G58/D20 OPEN. Phase1 HOLD, CAM BLOCKED, CI ABSENT_NOT_PASS; 342 claims source29/frontier30 unchanged.",
     "S099 CLM-0341 INTERNAL original SAME Fano exclusion: exceptional five-flat z^4(z+2) with all five distinct flat groups FREE original S/g q singleton indices and four ordinary flat leaf horizontal F2² 0/10 colours all different is IMPOSSIBLE; Fano 2/4 outsider shifts force each of four actual Fano x third0, contradict true three-odd V sum C3. Concrete original proper Fano+free-q+complete indexed U* pair zero for some L/R. V flat overlap or repeated colours, uniform five, <=4 flat, full12 q/2048/splits/7 p/26 hubs/arbitrary U22/P26/G59/G58/D20 OPEN. Phase1 HOLD, CAM BLOCKED, CI ABSENT_NOT_PASS.",
     "S098 INTERNAL CLM-0339/0340 actual indexed 59-original axial U*=8/8/6: FIVE original horizontal-flat q labels must have exact G20 thirds z^5 or z^4(z+2), z=1/11; exceptional case every exterior real q group horizontal2/12 slab, otherwise actual proper original zero. Uniform case exterior unslab groups have exact third z, at least one exterior is slab, every three exterior unslab labels satisfy G20 E1+F1=2 OR E2+F2=2, otherwise eight q groups plus original complete U* pairs give proper zero. Neither class globally excluded, no SAME Fano/endpoint CLM-0333/0334/0335 universally forced, original twelve-q/U22/P26/G59/G58/D20 OPEN. Phase1 HOLD, CAM BLOCKED, CI ABSENT_NOT_PASS.",
     "S097 CLM-0337–0338 INTERNAL: source-conditional original S060 axial U*=e1^8e2^8e3^6 full q perfect matching gates force any six genuine horizontal G20 0/10 q groups to have common exact third coordinate z=1 or11. Using S092 original sixfold q projected bound<=5, ANY fully q-gated axial candidate has at most FIVE such flat groups. Independent 8-flat exact original proper zero and 7-flat external horizontal {2,12} slab; S096 nine-flat physically indexed model has additional explicit 20-index and 4-index proper zeros. No full12 axial universal no-go or forced S095 trigger for <=5, no 2048 outsider/multisplit/26-hub/FULL8/12/13+/U22/P26/G59 bridge, G58/D20 remains OPEN. Phase1 HOLD; CAM BLOCKED; CI ABSENT_NOT_PASS.",
@@ -84,6 +85,7 @@
   "gate_ledger": "docs/PHASE_GATE_LEDGER.md",
   "source_snapshot": "2026-10-12",
   "warnings": [
+    "S100: neither repeated (2,1,1) C3=1/3 nor any V-overlap is eliminated. A three-element leaf horizontal set cannot be treated as all F2²; missing colours of e+one and e+three differ only because B+C is nonzero. No claim for any overlapping V_l Fano cut. Same executor not independent certification. Exact Git root tree/parent count not surfaced by connector.",
     "S088 CLM-0307–0310 exclude ALL sevenfold true q half-projected fibres ONLY for the fixed canonical axial U*=8/8/6 ORIGINAL-index profile; projected multiplicity ≤6 is not universal twelve-q elimination, arbitrary U22/P26, full Fano/2048/q-split/non-q signed original gate, G58 or D(C20³)=58. S087 complement excludes full twelve, proof never uses five-outside/full12 as proper. Independent verification still absent.",
     "S087 complement size3/4 clauses are DUPLICATES of size2/1 through five-outsider total; do not double count them as independent constraints. The all-five selection includes full12 and remains EXEMPT; the sixteen ab!=0 values are unresolved, not projected survivors. All literal proper G zeros must include genuine q originals and BOTH ends of indexed U* pairs; even satisfying E5 is not full E or S060. Internal same-executor only; no CI PASS or global conjecture.",
     "S081: pi5(E(U*)) omitting0 does NOT mean its image under ANY proper linear quotient omits0: EVERY nonzero-kernel quotient is saturated. Zero-free 9a+3b C2×C5² *projected* shadow has an actual total-zero 59-label lift but that literal lift FAILS q-only, and EVERY 9a lift fails by a 4-colour original torsion-fibre bound. Do not mistake projected zero avoidance for all 2048 outsider/Fano/split gates or a G58.",
