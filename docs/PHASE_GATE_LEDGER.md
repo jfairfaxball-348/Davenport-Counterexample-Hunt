@@ -372,3 +372,8 @@ INTERNAL SAME_EXECUTOR original source-conditional axial CLM-0337–0338: six ac
 ## S098 Phase1 gate — HOLD, 16 October 2026
 
 CLM-0339–0340 INTERNAL SAME_EXECUTOR actual indexed original G20 q proof classifies exact third for five horizontal-flat original q groups and eliminates new <=5-flat subfamilies via literal proper q-group+complete-U original zero. Neither uniform nor exceptional five-flat case globally eliminated; SAME x/C/Delta, Fano2048, seven p plus p000, q P_q/I/alpha E(U\I), signed non-q multisplits, FULL8/exact12/13+, 26 hubs, U22/P26/G59/G58/D20 OPEN. Claims340; source29/frontier30 original frozen; Phase1 IN_PROGRESS / NO PASS; Phase2/3 NOT_STARTED, Phase4 OWNER_GATED; CAM-0001 PROPOSED NOT_RUNNING BLOCKED; hosted CI ABSENT_NOT_PASS, protection403 UNKNOWN, mathematical review SAME_EXECUTOR. S099 FUTURE.
+
+
+## S099 Phase1 gate — HOLD, 16 October 2026
+
+INTERNAL SAME_EXECUTOR CLM-0341 proves a genuine SAME-original Fano collision excluding the exceptional five-flat class with five independent original g/S q singleton shifts and four different F2² horizontal leaf colours. This uses four coupled Fano x in the actual C identity and gives some proper original Fano + 0/2/4 free outsider + indexed full-U-pairs zero. It does not extend to V_l groups overlapping Fano L or to repeated leaf colours, uniform five, all2046+2048, true E(U\\I), signed split masks, seven p, FULL8/exact12/13+, 26 hubs, arbitrary U22/P26/G59. No G58 or D20; original source29/frontier30 unchanged. Claims341. Phase1 IN_PROGRESS NO PASS; Phases2/3 NOT_STARTED, Phase4 OWNER_GATED; CAM-0001 PROPOSED NOT_RUNNING BLOCKED; hosted CI ABSENT_NOT_PASS, protection403 UNKNOWN, review INTERNAL SAME_EXECUTOR; S100 FUTURE.
