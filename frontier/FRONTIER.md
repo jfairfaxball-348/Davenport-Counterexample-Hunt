@@ -308,3 +308,8 @@ INTERNAL CLM-0339/0340 sharpen only conditional real 59-original axial G20 five-
 ## S100 frontier preservation — 16 October 2026
 
 One new INTERNAL CLM-0342 original Fano five-flat free-outsider repeated-colour conditional no-go C3=5/7/9. NO amendments to ordered original thirty n=1..30 numerical frontier records, JSON bounds, statuses, source citations; original29 source records remain untouched. No new Davenport bound, G58 zero-sumfree candidate or D(C20³)=58 equality. Phase1 HOLD; CAM-0001 BLOCKED, CI ABSENT_NOT_PASS; S101 FUTURE ONLY.
+
+
+## S101 frontier preservation — 16 October 2026
+
+INTERNAL CLM-0343 only adds conditional actual original-index axial G20 five-flat Fano horizontal C/Delta necessary exclusions. All 30 ordered n=1..30 frontier source JSON records and all numerical bounds/statuses unchanged; original29 source records unchanged. No new numerical Davenport bound, length58 G20³ zero-sumfree candidate, D(C20³)=58 equality or unconditional case. Phase1 HOLD, CAM-0001 BLOCKED, CI ABSENT_NOT_PASS; S102 FUTURE ONLY.
