@@ -1,24 +1,31 @@
-# S094 — force or refute the shared mixed Fano-rectangle obstruction (FUTURE / UNEXECUTED)
+# S095 — prove a nontrivial genuine seven-channel incompatibility or exhibit the first missing original constraint (FUTURE / UNEXECUTED)
 
-**Installed only as handoff after S093.** A fresh, separate owner instruction "run next session" is required; this prompt does not authorize execution now.
+**Installed only following close of S094.** This prompt does not authorise its own execution. Wait for a fresh separate owner "run next session" instruction.
 
-## Entry, scope and honest checkpoint
+## Entry and governance
 
-Pin remote main SHA/true Git tree where accessible; verify S093 one authored root-tree commit, PR and ordinary two-parent merge, read AGENTS.md and authoritative state plus sessions/S093 and S060–S092 full proof/failure chain. Verify original source29/frontier30 unchanged. Check open PR, hosted workflows/checks and protection; empty contexts ABSENT_NOT_PASS, inaccessible protection UNKNOWN. One session branch, one authored atomic commit, ordinary PR merge and postmerge main read. One extensive **HAND MATHEMATICS** session; no one-lemma stopping rule, but do not promote any partial result to D20 proof.
+Pin post-S094 main commit and true Git root where available, verify S094 one-commit PR ordinary two-parent merge and original source29/frontier30, read AGENTS, authoritative STATE, research/S094_FULL_ORIGINAL_TORSION_COUPLING.md, review and S060/S065/S092/S093. Verify hosted CI, protection and open PR; empty checks are ABSENT_NOT_PASS, inaccessible protection UNKNOWN. One session branch, **one atomic authored tree commit**, ordinary PR merge and postmerge main read. No numerical mathematical search, enumeration of the 512 lifts, solver/SAT/CAS/ILP, new computational campaign, Lean/Palomar, certification, outreach or publication. Extensive actual-index hand mathematics, without a one-lemma stopping rule.
 
-S093 CLM-0326 derives from the *same actual six X/Y original indices* and *one genuine non-q pair* four elements of E(U\i) at a common rectangle y,y+delta,y+lambda,y+delta+lambda, with exact 2y=c−delta−lambda and genuine original five-index support for every failing corner. CLM-0327 couples all pairs of each non-q parity class in Omega_t∩(K_t−Omega_t), using the SAME four Fano x values. CLM-0328 proves for axial U*=8/8/6 each E(U*\i)+E(U*\i)=H; therefore **diagonal sums alone never contradict** the true axial case. No universal 12-q, Fano, 2048, multi-split or arbitrary-U22 contradiction, no jointly passing 59-model, and no G58 or D(C20³)=58.
+## One major obligation
 
-## Main obligation — test the SHARED FOUR-FANO and non-q split obstruction, not a new fibre cap
+The S094 full-original equation for seven physical torsion-mask channels is:
 
-1. Keep the four actual Fano x_0,x_12,x_13,x_23 with S060 common total C and parity differences Delta. For each genuine non-q parity t, pin the *actual* singleton s_t and exactly two omitted Fano lines. Do not assign the two x values anew for each t. Work explicitly with all non-q i of that parity through Omega_t and the original endpoint shifts sigma_i,a and sigma_i,b, rho(delta_i)=rho(u_i)+t.
-2. Try to PROVE for a named nontrivial scope that at least one shared Omega_t∩(K_t−Omega_t) is empty, or a simultaneous shared four-Fano lift is impossible once S060 F_* q-splits and actual E(U\I) q/non-q multi-splits are also imposed. Give the actual failed E corner and proper set of <=47 original indices using BOTH ends of every completing pair; never a projected-only witness.
-3. Deal with the eight-element 5Q fibre for each 2y constraint algebraically (not numerical enumeration). For axial U*, identify a genuine original-index reason at least one of four vertices must hit a negative U subset-sum; avoid the false claim c∉E_i+E_i since CLM-0328 forbids it.
-4. Keep the complete twelve genuine q groups with common total (2,2,4), max projected multiplicity<=5 conditional from S092, the shared six singleton original positions, real H10 parity/third torsion carries, all 2048 original masks, q I/alpha and E(U\I), signed non-q masks, all 26 hubs, FULL8, exact12, 13/14/15+, and arbitrary U22/P26. If a reduction from unrestricted original G59 to S060 or U* is not proved, keep it an explicit OPEN hypothesis. Find actual original-support overlap, not merely matching projected cosets.
-5. If a jointly coherent *labelled* model is attempted, check every claim individually: real 59 positions, global sum0, all E tests against full original support, proper/full exceptions, all four Fano x values on same X/Y, all q and non-q splits, masks/hubs. Do NOT call an abstract shadow a genuine G59 model. If a model cannot be built, specify the first true unproved simultaneous equation and explain why new lemmas do not imply it.
-6. Audit S092 sixfold claim where material, but do NOT spend this session tightening cap five to four without a direct original-index forcing mechanism. Extensive genuine proof attempts authorised, not numerical campaigns.
+```
+0 notin V_000;
+w in A_111;
+z1 in A_011, z2 in A_101, z3 in A_110;
+w+z1 in A_100, w+z2 in A_010, w+z3 in A_001;
+z1+z2+z3=0.
+```
 
-## Success criterion and restrictions
+Here `V_p` is defined by ACTUAL nonempty proper original 59-position G20 supports, and A_p=F2³\V_p. Every forbidden (p,v) has an actual physical witness; numerical/matching shadows are not permitted. S094 does **not** prove universal infeasibility. In its mixed subsystem, four real even Fano line values translate by 5w, and all t-pairs of both singleton parities in a fixed coset share the SAME z_l. The three z_l MUST satisfy XOR0. S060 F_* and E(U\I), signed non-q masks, 2048 outsiders, FULL8/exact12/13+, 26 hubs and S092 axial max five all remain live.
 
-Preferred A: a literally indexed proper original zero under precisely specified hypotheses, ideally every source-conditional axial system and then arbitrary U22/P26; prove all availability and carries. Acceptable B: a genuinely common-label obstruction model passing all claimed gates and one independently missing *true* original constraint. If neither occurs, report the **exact unproved universal incompatibility** and nonprogress transparently. Keep a detailed coverage table and hostile checks. Any true G58 counterexample requires separate owner-authorised algorithmic/certification gates.
+1. Seek a rigorous *original-index* theorem which forces, under a named broad set of S060 canonical inputs, at least one new missing V_p forbidden value or shows that the seven-channel equation has no solution. Prefer first deriving a nonempty simultaneous overlap of two p classes that produces contradiction in the third, with an explicit physical G zero support and all pair endpoints available. Do not merely rename V_p.
+2. If attacking axial U*=8/8/6, use S094's exact three-bit coordinate-slab CNF for every genuine mixed rectangle: do not choose a different torsion bit for each i/t/coset. Attempt an analytic, parameter-free UNSAT certificate (not an enumerated case campaign), or hand-prove a common Z1,Z2,Z3 XOR obstruction.
+3. For every intended q gate use the SAME four X/Y Fano values and their C/Delta constraints, true all-matchings and 2048 original-mask/split-I-alpha E(U\I) tests. Preserve the real t_i, sigma shifts, H10 torsion and correct modulo20 carries.
+4. If a local common-label model passes a proposed reduced gate, exhibit its ACTUAL 59 positions, total0, true supports, proper/full distinction and first genuinely missing support before calling it a countermodel; never upgrade a shadow. A partial obstruction applicable to some fixed baselines must explicitly say so.
+5. Retain full original U22/P26 and unrestricted G59 as OPEN unless reductions are proved. No 58-term zero-free sequence or D20 equality without separate certification/owner gates.
 
-**No numerical mathematical search, CAS/SAT/ILP, orbit enumeration, new campaign, Lean/Palomar, external certification, author outreach or publication.** All source/claim categories and Phase1 HOLD unchanged unless independently justified. Produce INPUT, INPUT_MANIFEST, PLAN, extensive proof, REVIEW, VALIDATION and PRECOMMIT CLOSEOUT, synchronized ledgers/claims/state, and a FUTURE S095 handoff, using a single audited session commit and PR/ordinary two-parent merge.
+## Mandatory closeout
+
+Provide detailed hand proof/failed attempts and an honest coverage matrix; INPUT, INPUT_MANIFEST, PLAN, REVIEW, VALIDATION, SOURCE_MANIFEST, PRECOMMIT CLOSEOUT; synchronized claims/state/ledgers; an S096 FUTURE prompt only at close. Retain Phase1 HOLD, CAM blocked unless directly justified otherwise. The goal is **a genuine shared original-index mathematical contradiction**, not proliferation of necessary-condition notation.

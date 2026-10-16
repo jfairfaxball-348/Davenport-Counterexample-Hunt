@@ -3335,6 +3335,42 @@
       "origin": "research/S093_SHARED_ORIGINAL_FANO_NONQ_RECTANGLE_BRIDGE.md",
       "source_ids": [],
       "notes": "INTERNAL SAME_EXECUTOR elementary axial set calculation, strictly conditional; negative result closes only the diagonal-sum-only strategy, not the four-corner obstruction."
+    },
+    {
+      "id": "CLM-0329",
+      "statement": "For a source-conditional actual 59-index S060 baseline, fixing each of the six q-coset singleton reductions mod10 and each physical paired total V_l gives exactly 512 original G20 assignments X_l,Y_l->X_l+10d_l,Y_l+10d_l with d_l in Q. All q grouped data and total0 remain fixed, while all four actual even Fano H values shift uniformly by 5w with w=sum d_l; S060 C/Delta persist but F_* membership must be rechecked.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S094_FULL_ORIGINAL_TORSION_COUPLING.md",
+      "source_ids": [],
+      "notes": "S094 INTERNAL SAME_EXECUTOR hand algebra only. Source-conditional canonical 22+8+7 real 59-index objects, fixed 512-fibre; no numerical mathematical search, independent certification, all-12-q/global-S060/unrestricted-U22/P26 no-go, G58 candidate or D(C20^3)=58."
+    },
+    {
+      "id": "CLM-0330",
+      "statement": "For every proper nonempty 59-original-index support Z define p(Z) as the three singleton-coset selection parities. The physically indexed 512-lift family contains a no-proper-zero member iff 0 notin V_000 and seven simultaneous linear torsion conditions L_p(d) in A_p hold, where V_p consists exactly of v with some actual baseline support of total10v and p, and A_p=Q minus V_p. In w,z variables these are seven shared constraints with z1+z2+z3=0. This is an exact equivalence for a fixed 512-fibre, NOT universal G59 infeasibility.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S094_FULL_ORIGINAL_TORSION_COUPLING.md",
+      "source_ids": [],
+      "notes": "S094 INTERNAL SAME_EXECUTOR hand algebra only. Source-conditional canonical 22+8+7 real 59-index objects, fixed 512-fibre; no numerical mathematical search, independent certification, all-12-q/global-S060/unrestricted-U22/P26 no-go, G58 candidate or D(C20^3)=58."
+    },
+    {
+      "id": "CLM-0331",
+      "statement": "With all original S060 q-matching premises fixed, joint satisfaction by a physical 512 singleton lift of the exact four Fano F_* q-split gate and every genuine omitted-singleton non-q one-split Fano rectangle is equivalent to existence of w in W and z_l in Z_l for three cosets with z1+z2+z3=0. All four Fano values move by one 5w and every actual rectangle in each coset moves by shared 5z_l (both non-q singleton parities). Failure of a rectangle gives the original 5..47-index zero. This equivalence does NOT include other non-q multi-splits.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S094_FULL_ORIGINAL_TORSION_COUPLING.md",
+      "source_ids": [],
+      "notes": "S094 INTERNAL SAME_EXECUTOR hand algebra only. Source-conditional canonical 22+8+7 real 59-index objects, fixed 512-fibre; no numerical mathematical search, independent certification, all-12-q/global-S060/unrestricted-U22/P26 no-go, G58 candidate or D(C20^3)=58."
+    },
+    {
+      "id": "CLM-0332",
+      "statement": "For source-conditional axial U*=e1^8 e2^8 e3^6 after any one true indexed deletion, E(U\\i) is exactly the union of coordinate slabs A_{ik}={1,..,9-n_k}. Mixed Fano corner membership h+5z in E_i is a three-bit disjunction of uniquely determined available coordinate literals; a four-corner rectangle with all four clauses having at least two literals and at least one clause three literals admits a common local z by a symbolic union bound. No universal original-index forcing follows.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S094_FULL_ORIGINAL_TORSION_COUPLING.md",
+      "source_ids": [],
+      "notes": "S094 INTERNAL SAME_EXECUTOR hand algebra only. Source-conditional canonical 22+8+7 real 59-index objects, fixed 512-fibre; no numerical mathematical search, independent certification, all-12-q/global-S060/unrestricted-U22/P26 no-go, G58 candidate or D(C20^3)=58."
     }
   ]
 }
