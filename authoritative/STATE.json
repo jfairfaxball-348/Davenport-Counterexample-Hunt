@@ -1,7 +1,7 @@
 {
   "project": "Davenport-Counterexample-Hunt",
   "as_of": "2026-10-16",
-  "current_phase": 1,
+  "current_phase": 3,
   "phases": {
     "0": {
       "name": "Governance bootstrap",
@@ -9,28 +9,35 @@
     },
     "1": {
       "name": "Frontier map",
-      "status": "IN_PROGRESS"
+      "status": "IN_PROGRESS",
+      "s103_scoped_gate": "SCOPED_PASS_SEARCH_TARGETS_N15_N20 (target definitions, lower-bound proof+computation, upper-bound provenance, 2026 literature context); general frontier map remains IN_PROGRESS"
     },
     "2": {
       "name": "Reduction theory and certified tooling",
-      "status": "NOT_STARTED"
+      "status": "SCOPED_PASS",
+      "s103_scoped_gate": "SCOPED_PASS_EXACT_ZSF_CHECKERS_AND_R1_HEURISTIC_ENGINE; NOT symmetry-reduced exhaustive enumeration, SAT/DRAT/LRAT or Lean tooling"
     },
     "3": {
       "name": "Campaigns",
-      "status": "NOT_STARTED"
+      "status": "PREREGISTERED",
+      "s103_note": "CAM-0002 (n15 L43) and CAM-0003 (n20 L58) PREREGISTERED round 1, HEURISTIC; activation permitted from S104 after committed S103 PASS; none activated in S103"
     },
     "4": {
       "name": "Certification and write-up",
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S102",
-  "recommended_next_session": "S103",
+  "last_completed_session": "S103",
+  "recommended_next_session": "S104",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
-  "phase1_target_n": null,
-  "phase1_target_status": "WITHHELD_NO_REPLACEMENT_CAMPAIGN",
+  "phase1_target_n": [
+    15,
+    20
+  ],
+  "phase1_target_status": "SEARCH_TARGETS_N15_L43_N20_L58_SCOPED_PASS; CAM-0002/CAM-0003 PREREGISTERED_NOT_ACTIVATED",
   "open_blockers": [
+    "S103 SETUP: no blocker to S104 activation of CAM-0002/CAM-0003 other than re-verifying committed code SHA-256s in campaigns/CAM-0002 and CAM-0003 PREREGISTRATION.json. Lean 4 certificate pipeline (Phase-4 prerequisite), symmetry-reduced exhaustive tooling and SAT/DRAT tooling NOT built; no EXHAUSTIVE or negative claim possible until separately gated.",
     "S102 CLM-0344 INTERNAL genuine original q-GROUP disjoint axial U* exclusion: exactly five exceptional z^4(z+2) flats with ordinary colours >=3 distinct (4 distinct OR 2+1+1), even when a V is flat, impossible. Four-distinct: four exterior h=(4,4,6), real U* k=(6,6,4); 2+1+1: two exterior h=(2,2,9), k=(8,8,1). Each produces literal proper original zero, no V/Fano overlap. Remaining 2+2/3+1/4 colours, uniform-five, <=4 flats, full12-other q cases, Fano2048, signed non-q splits, all U22/G59/G58/D20 OPEN; claims344, sources29/frontier30 frozen, Phase1 HOLD CAM BLOCKED CI ABSENT_NOT_PASS.",
     "HISTORICAL, PARTLY/WHOLLY SUPERSEDED FOR FIVE-FLAT >=3-COLOUR CLASSES BY S102 CLM-0344: S101 CLM-0343 INTERNAL exact physical Fano horizontal rescue for repeated A,A,B,C exceptional five-free-flat axial G20: for each same actual Fano t=0 needs empty-cut x1=1 or x2=1; t=1 forces horizontal K=(6-5(D+A)) by true e+three disjoint originals. For C3=3, three t1 lines share K; the one t0 requires (m1=1,C1=4) OR (m2=1,C2=4), and all three true V horizontal eta_i=(V_i/2 mod2)+r_i must coincide; violation gives literal original proper zero. In particular C3=3,D=A excluded. For C3=1,D=A, the three t0 horizontal Fano parity vectors must exhaust 01/10/11, forcing eta_i pairwise distinct; repeated eta excluded. All survivors, V-overlap, 2046/2048, signed multisplits, hubs, U22/G59/G58/D20 OPEN; source29/frontier30 frozen, Phase1 HOLD CAM BLOCKED CI ABSENT_NOT_PASS.",
     "HISTORICAL, PARTLY/WHOLLY SUPERSEDED FOR FIVE-FLAT >=3-COLOUR CLASSES BY S102 CLM-0344: S100 CLM-0342 INTERNAL original SAME Fano repeated-colour exclusion: exceptional axial five flat all physically FREE S/g original q singleton indices with ordinary horizontal colours A,A,B,C (A,B,C distinct). Real two-ordinary and exceptional+one/three disjoint Fano original E(U*) cuts force every SAME four Fano x third in {0,1}; C3=overline(V1+V2+V3)_3 odd can only be1 or3. Thus actual C3=5/7/9 has selectable genuine proper Fano+2/4 free-outsider+indexed complete-U original G20 zero. C3=1/3 repeated, V-overlap and all global 2046/2048/signed masks/hubs/arbitrary U22/G59/G58/D20 OPEN. Phase1 HOLD, CAM BLOCKED, CI ABSENT_NOT_PASS; 342 claims source29/frontier30 unchanged.",
@@ -87,6 +94,7 @@
   "gate_ledger": "docs/PHASE_GATE_LEDGER.md",
   "source_snapshot": "2026-10-12",
   "warnings": [
+    "S103: Phase1/Phase2 PASS are SCOPED (n15/n20 search targets; exact checkers + heuristic R1 engine) and INTERNAL_SAME_EXECUTOR. Checkers A/B are algorithmically distinct but same author. No n15/n20 search was run; no rate, maximum length or candidate exists for the targets. Exhausting a HEURISTIC budget is never a nonexistence result.",
     "S102 CLM-0344 is a conditional original 59-index axial q-GROUP no-go, NOT a general G59/U22 theorem. 2+2/3+1/4, uniform-five, <=4 flats and all other gates OPEN; original V must never be appended to overlapping Fano triples. Internal same-executor proof only; no hosted CI PASS.",
     "S100: neither repeated (2,1,1) C3=1/3 nor any V-overlap is eliminated. A three-element leaf horizontal set cannot be treated as all F2²; missing colours of e+one and e+three differ only because B+C is nonzero. No claim for any overlapping V_l Fano cut. Same executor not independent certification. Exact Git root tree/parent count not surfaced by connector.",
     "S088 CLM-0307–0310 exclude ALL sevenfold true q half-projected fibres ONLY for the fixed canonical axial U*=8/8/6 ORIGINAL-index profile; projected multiplicity ≤6 is not universal twelve-q elimination, arbitrary U22/P26, full Fano/2048/q-split/non-q signed original gate, G58 or D(C20³)=58. S087 complement excludes full twelve, proof never uses five-outside/full12 as proper. Independent verification still absent.",
@@ -374,7 +382,7 @@
     "owner_blocker": false,
     "historical_dependency_reconciled": "S004 CLM-0068 / S005 sufficient conditional base5p-2 bypass restored and strengthened one position"
   },
-  "current_research_priority": "OWNER 2026-10-16 STRATEGIC PIVOT (not executed): S103 and subsequent sessions PRIMARY direct proof-producing zero-sumfree counterexample hunt for n=15 (length43; then44) and n=20 (length58), after real preregistration and phase PASS; maintain full candidate/negative certification. If two materially different complete bounded rounds across both targets or no later than three active search sessions show no valid candidate, significant certified exclusion or substantive structural theorem, make subset-sum saturation/structural reduction PRIMARY (length57 saturation in C20^3; optionally n15 length42). Old S103 five-flat colour target is superseded; S060-S102 remain archived secondary results. No campaign is activated by this directive.",
+  "current_research_priority": "SEARCH_FIRST (owner directive 2026-10-16). S103 completed setup: exact tooling, scoped gates, CAM-0002 (n15 length43) and CAM-0003 (n20 length58) preregistered. S104: activate both round-1 campaigns, report actual results, preregister a materially different round 2. Fallback trigger per counterexample_hunt_strategy.",
   "s040_result": {
     "claims": [
       "CLM-0148",
@@ -1791,7 +1799,7 @@
   "counterexample_hunt_strategy": {
     "directive_date": "2026-10-16",
     "directive_kind": "OWNER_APPROVED_S103_AND_SUBSEQUENT_SESSION_PRIORITY",
-    "installation_only_not_session_execution": true,
+    "installation_only_not_session_execution": false,
     "priority": "SEARCH_FIRST",
     "primary_targets": [
       {
@@ -1817,10 +1825,74 @@
     "fallback_priority": "SATURATION_FALLBACK",
     "fallback_statement": "For every zero-sumfree 57-term indexed sequence in C20^3, subset sums including empty equal the full group, equivalently no zero-sumfree 58-term sequence exists.",
     "superseded_target": "S103 exceptional five-flat colour subclass continuation",
-    "next_session": "S103_FUTURE_UNEXECUTED",
-    "last_completed": "S102",
-    "proof_gate": "PHASE1_IN_PROGRESS; PHASE2_NOT_STARTED; PHASE3_NOT_STARTED",
-    "original_campaign": "CAM-0001_PROPOSED_NOT_RUNNING_BLOCKED",
-    "comment": "Not a completed session, executed campaign, claim, certified candidate, or phase PASS."
+    "next_session": "S104_FUTURE_UNEXECUTED",
+    "last_completed": "S103",
+    "proof_gate": "PHASE1_SCOPED_PASS; PHASE2_SCOPED_PASS; PHASE3_PREREGISTERED",
+    "original_campaign": "CAM-0001_PROPOSED_NOT_RUNNING_BLOCKED (obsolete n6, not reactivated)",
+    "comment": "S103 setup session: no search executed on target groups; counts as setup session 1 of at most 2 before blocker/pivot review.",
+    "campaigns_preregistered": [
+      "CAM-0002",
+      "CAM-0003"
+    ],
+    "campaigns_active": [],
+    "number_of_setup_sessions": 1,
+    "setup_sessions": [
+      "S103"
+    ],
+    "rounds": [
+      {
+        "round": 1,
+        "method": "R1-ILS-1.0 softmin-coverage greedy + ruin-and-regrow ILS",
+        "n15": "CAM-0002 PREREGISTERED",
+        "n20": "CAM-0003 PREREGISTERED",
+        "status": "NOT_RUN"
+      }
+    ],
+    "gate_states": {
+      "phase1": "SCOPED_PASS_SEARCH_TARGETS (S103)",
+      "phase2": "SCOPED_PASS_EXACT_CHECKERS_R1_ENGINE (S103)",
+      "phase3": "PREREGISTERED; activation from S104"
+    },
+    "tooling": {
+      "checker_a": "tools/zsf/checker_a.py",
+      "checker_b": "tools/zsf/checker_b.py",
+      "engine": "tools/zsf/ils_engine.py R1-ILS-1.0",
+      "tests": "sessions/S103/TEST_OUTPUT.json PASS"
+    },
+    "decisive_evidence": "none yet",
+    "switch_rationale": "not triggered: zero active search sessions"
+  },
+  "campaigns_preregistered": [
+    "CAM-0002",
+    "CAM-0003"
+  ],
+  "s103_result": {
+    "date": "2026-10-16",
+    "entry_main": "13ce00e0f04715418f99687a858892f02f3457b4",
+    "entry_true_git_root_tree": "e63f39d5d9bff009c11e9de9dcda5d98c78fbe11",
+    "entry_merge_parents": [
+      "25e55d6527c98d31d484b4df93ee20397ec0bc8e",
+      "2524b5e7e6f549c0fc5f991c13380227f1a279ed"
+    ],
+    "claims": [
+      "CLM-0345",
+      "CLM-0346"
+    ],
+    "claims_total": 346,
+    "sources_total": 32,
+    "sources_original_untouched": 29,
+    "frontier_original_rows_untouched": 30,
+    "tooling": "tools/zsf (checker A numpy prefix DP; checker B pure-Python exact subset counts; brute reference; R1 ILS engine)",
+    "tests": "PASS sessions/S103/TEST_OUTPUT.json",
+    "benchmark": "sessions/S103/BENCHMARK.json",
+    "engine_preflight": "PASS settled n4/5/6 only",
+    "phase1": "SCOPED_PASS_SEARCH_TARGETS",
+    "phase2": "SCOPED_PASS",
+    "phase3": "CAM-0002/0003 PREREGISTERED_NOT_ACTIVATED",
+    "n15_n20_search_executed": false,
+    "candidate": null,
+    "hosted_ci": "ABSENT_NOT_PASS",
+    "review": "INTERNAL_SAME_EXECUTOR",
+    "next": "S104_FUTURE_UNEXECUTED"
   }
 }

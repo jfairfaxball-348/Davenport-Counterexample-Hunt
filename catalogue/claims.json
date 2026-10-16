@@ -3479,6 +3479,24 @@
       "origin": "research/S102_FIVE_FLAT_Q_GROUP_COLOUR_NO_GO.md",
       "source_ids": [],
       "notes": "S102 INTERNAL SAME_EXECUTOR original G20 modulo20 hand proof only; not externally independently or formally verified. Four-distinct and 2+1+1 exceptional five-flat q GROUP no-go, including overlapping V flat groups without Fano use. Does not assert all 2046 q masks verified, all 2048 Fano masks, signed splits, G58/D20 or global conjecture."
+    },
+    {
+      "id": "CLM-0345",
+      "statement": "For any finite abelian group G and indexed sequence S=(g_1..g_L), with Sigma including the empty sum: (a) S is zero-sumfree iff -g_k is not in Sigma(g_1..g_{k-1}) for every k; (b) Sigma(S g)=Sigma(S) union (g+Sigma(S)); (c) a zero-sumfree sequence of length L+1 exists iff some zero-sumfree length-L sequence S has Sigma(S) != G. In particular, for G=C20^3, 'every zero-sumfree 57-term sequence has Sigma=G' is equivalent to 'no zero-sumfree 58-term sequence exists'. (d) Zero-sumfreeness is invariant under index permutation, subsequences and GL_3(Z/n) automorphisms.",
+      "category": "FOUNDATION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S103_SEARCH_TOOLING_AND_PREREGISTRATION.md",
+      "source_ids": [],
+      "notes": "S103 INTERNAL SAME_EXECUTOR elementary hand proof. Basis of checker A, the search oracle and the SATURATION_FALLBACK statement; does NOT prove the saturation statement itself, which remains OPEN."
+    },
+    {
+      "id": "CLM-0346",
+      "statement": "The standard sequences e1^(n-1) e2^(n-1) e3^(n-1) of length 42 in C15^3 and length 57 in C20^3 are zero-sumfree and have Sigma equal to the whole group (3375 resp. 8000 elements), verified by two algorithmically distinct exact checkers (tools/zsf/checker_a.py numpy prefix-criterion DP; tools/zsf/checker_b.py pure-Python exact subset-count DP).",
+      "category": "COMPUTATION",
+      "status": "COMPUTED_EXACT",
+      "origin": "sessions/S103/TEST_OUTPUT.json",
+      "source_ids": [],
+      "notes": "S103 same-executor computation; also follows by hand from CLM-0038. Tooling validation of the lower-bound constructions only; says nothing about longer sequences, D(C15^3) or D(C20^3)."
     }
   ]
 }

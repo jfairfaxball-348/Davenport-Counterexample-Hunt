@@ -1,0 +1,51 @@
+{
+ "campaign": "CAM-0002",
+ "status": "PREREGISTERED_NOT_ACTIVATED",
+ "registered_in": "S103",
+ "registered_date": "2026-10-16",
+ "earliest_activation": "S104, only after S103 scoped Phase-1/Phase-2 PASS is committed on main and code hashes below are re-verified",
+ "target": "zero-sumfree indexed sequence of length 43 in (Z/15)^3; if found, round-2 extension to length 44 is a separate preregistration",
+ "round": 1,
+ "method": "R1-ILS-1.0: softmin exact-new-coverage greedy growth + ruin(2..6 random deletions)-and-regrow iterated local search, accept if not shorter or with prob 0.02",
+ "search_domain": "all finite indexed sequences over (Z/15)^3, repetition allowed, no structural restriction; engine only ever holds zero-sumfree sequences (oracle-legal pushes)",
+ "symmetry_reductions_proved_and_used": "none used; CLM-0345(d) invariances recorded but no normalisation applied",
+ "heuristic_restrictions": "move selection biased to low new subset-sum coverage (temperature 0.6); ruin size 2..6; this explores a heuristic neighbourhood only",
+ "completeness_class": "HEURISTIC",
+ "budget": {
+  "workers": 6,
+  "seeds": [
+   103001,
+   103002,
+   103003,
+   103004,
+   103005,
+   103006
+  ],
+  "iterations_per_worker": 200000,
+  "walltime_cap_seconds_per_worker": 7200,
+  "max_cpu_hours_total": 12,
+  "concurrency_note": "CAM-0002 and CAM-0003 may run concurrently: 12 processes on 16 logical CPUs"
+ },
+ "parameter_sha256_per_worker": {
+  "103001": "4502b4989bd4f547396c5378804583d5d3663d47fa39415a3f2398436cb8bfe5",
+  "103002": "147b79f343e82c97ae5940166160dbb5a57d1bde3d33950b305f60f96552d461",
+  "103003": "61f81659fd82430d02d062d69fb8fce59818257d4eb0e5bf2c3fdf5ea2b6375c",
+  "103004": "8aa4e4f6e7789d2f4d9519ef612b39c0f5cf060a1f3464aeb8ddf4cb2a7170ee",
+  "103005": "347dfeaa3343bd81eab52df76b3abfb587450cfb11f2ecabe6aadf35b3cdb3eb",
+  "103006": "1d8de440f18a6c383d8379ec18920fcacec274b2e00d191e8a28bcc03f3cbc1b"
+ },
+ "code_sha256": {
+  "tools/zsf/ils_engine.py": "e0749fc31cee7165c283adddd5b9de5cc737226010f7e6a79fe5be17f3a5d912",
+  "tools/zsf/checker_a.py": "72dd61225de7346b3f4f6624c91548a505edcab99ec78129981eacf25aff3269",
+  "tools/zsf/checker_b.py": "6f2a0588692b29ed4093f42c5244bc5c7c57ef0f78a4c1ce42ba98414f0c9e0c"
+ },
+ "python": "3.12.10",
+ "numpy": "1.26.4",
+ "command": "python -I tools/zsf/ils_engine.py --n 15 --target 43 --seed <SEED> --iterations 200000 --walltime 7200 --checkpoint campaigns/CAM-0002/checkpoints/seed-<SEED>.jsonl",
+ "checkpoint_format": "JSONL: start record (params, param_hash), checkpoint every 500 iterations (best_len, cur_len, canonical best sequence + SHA-256, length histogram), CANDIDATE_QUARANTINE record if target reached, end record (status, iterations_done, best, both checker verdicts)",
+ "restart_procedure": "runs are deterministic in (seed, iterations); a crashed worker is re-run from iteration 0 with the same seed and the crash recorded; partial logs kept, never merged as if complete",
+ "stopping_rule": "per worker: iteration budget exhausted, walltime cap hit (logged WALLTIME_CAP_TRUNCATED, round counted incomplete for that worker), or target reached (stop, quarantine). Campaign round complete when all workers end.",
+ "on_hit": "write candidates/<id>/sequence.json canonical sorted triples + SHA-256, rerun checker A and B standalone, mark CANDIDATE only; Lean 4 kernel proof + later-session cold recheck before any certification; no external disclosure without owner authorisation",
+ "result_semantics": "budget exhaustion without hit is NOT evidence of nonexistence and NOT a negative result; reported quantities: attained maximum lengths, length histograms, iterations, elapsed time",
+ "code_sha256_note": "SHA-256 of LF-normalised file bytes (identical to the git blob content); .gitattributes pins tools/zsf/*.py to eol=lf"
+}

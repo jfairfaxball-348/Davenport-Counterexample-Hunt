@@ -1,3 +1,9 @@
-# S102 checkpoint — 16 October 2026
+# S103 checkpoint — 16 October 2026
 
-**INTERNAL CLM-0344, source-conditional 59-original axial G20.** Exactly five G20-horizontal-flat q **GROUPS** of exceptional third pattern z^4(z+2), z=1/11, are impossible if the four ordinary flat F2² horizontal colours occupy >=3 different colours. The four-distinct case gives a proper four-exterior q-group h=(4,4,6), completed by true U* full-pair counts (6,6,4); the repeated 2+1+1 case gives a proper two-exterior h=(2,2,9), completed by (8,8,1). Each support uses DISJOINT original q-group indices, even if a V_i is flat, so no illegal Fano/V overlap. All previous S101 repeated C3=1/3 local survivors in this named class are excluded. Remaining 2+2/3+1/4 colours, uniform five, <=4 flat, full U22/G59/G58/D20 OPEN. Claim344; 29 source/30 frontier frozen, Phase1 HOLD, CAM BLOCKED, CI ABSENT_NOT_PASS. [Physical proof](research/S102_FIVE_FLAT_Q_GROUP_COLOUR_NO_GO.md) · [review](sessions/S102/REVIEW.md) · [S103 FUTURE](authoritative/NEXT_SESSION_PROMPT.md).
+**SEARCH_FIRST setup session.** The project now hunts directly for a zero-sumfree sequence of length 43 in C15³ or length 58 in C20³. S103 delivered:
+- **Exact tooling** (`tools/zsf/`): checker A (numpy prefix DP, CLM-0345) and checker B (pure-Python exact subset counts), which are algorithmically distinct; a brute-force reference; and the R1 heuristic engine. All tests PASS.
+- **Claims:** CLM-0345 (prefix criterion and the 57↔58 saturation equivalence) and CLM-0346 (standard n15/n20 sequences zero-sumfree and saturating, two checkers).
+- **Gates:** a scoped Phase-1 PASS (search targets) and a scoped Phase-2 PASS (checkers and engine).
+- **Campaigns:** CAM-0002 (n15) and CAM-0003 (n20) PREREGISTERED; activation is in S104.
+
+**No target-group search has run yet**, and there is no candidate, bound or exclusion. Claims 346, sources 32 (original 29 untouched), 30 frontier rows untouched, CI ABSENT_NOT_PASS. [Tooling and pre-registration](research/S103_SEARCH_TOOLING_AND_PREREGISTRATION.md) · [review](sessions/S103/REVIEW.md) · [S104 FUTURE](authoritative/NEXT_SESSION_PROMPT.md). Previous S102 axial work (CLM-0344) is archived secondary context.

@@ -1,3 +1,9 @@
-# S102 checkpoint — 16 October 2026
+# S103 checkpoint — 16 October 2026
 
-**INTERNAL CLM-0344, source-conditional 59-original axial G20.** Exactly five G20-horizontal-flat q **GROUPS** of exceptional third pattern z^4(z+2), z=1/11, are impossible if the four ordinary flat F2² horizontal colours occupy >=3 different colours. The four-distinct case gives a proper four-exterior q-group h=(4,4,6), completed by true U* full-pair counts (6,6,4); the repeated 2+1+1 case gives a proper two-exterior h=(2,2,9), completed by (8,8,1). Each support uses DISJOINT original q-group indices, even if a V_i is flat, so no illegal Fano/V overlap. All previous S101 repeated C3=1/3 local survivors in this named class are excluded. Remaining 2+2/3+1/4 colours, uniform five, <=4 flat, full U22/G59/G58/D20 OPEN. Claim344; 29 source/30 frontier frozen, Phase1 HOLD, CAM BLOCKED, CI ABSENT_NOT_PASS. [Physical proof](../research/S102_FIVE_FLAT_Q_GROUP_COLOUR_NO_GO.md) · [review](../sessions/S102/REVIEW.md) · [S103 FUTURE](NEXT_SESSION_PROMPT.md).
+The priority is **SEARCH_FIRST** (owner directive, 16 October 2026). S103 set up the hunt:
+- exact tooling in `tools/zsf` (checkers A/B and the R1 engine), all tests PASS;
+- CLM-0345 and CLM-0346;
+- a scoped Phase-1 PASS (n15 L43 / n20 L58 targets) and a scoped Phase-2 PASS (tooling);
+- CAM-0002 and CAM-0003 PREREGISTERED and not activated.
+
+Counters: setup sessions 1, active search sessions 0, completed rounds 0. **S104 activates round 1** after re-verifying the committed code hashes. The saturation fallback triggers after two materially different rounds, or at the latest after the third active search session, if neither produces substantive results. [Research](../research/S103_SEARCH_TOOLING_AND_PREREGISTRATION.md) · [review](../sessions/S103/REVIEW.md) · [S104 FUTURE](NEXT_SESSION_PROMPT.md).

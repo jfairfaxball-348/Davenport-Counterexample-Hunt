@@ -517,3 +517,12 @@ At t=0 the S100 repeated-free-five NONEMPTY even original outsider shifts all ha
 ## S102 — Fano V-overlap obstacle bypassed by *valid* disjoint grouped-q obstructions
 
 The S101 route left C3=1/3 and overlapping V flats unresolved because one may not append a grouped V to a three-index Fano line. S102 uses only proper even selections of the twelve original **disjoint** q GROUPS and never forms such an illegal Fano union. Exact leaf-colour and vertical d restrictions plus original sum (4,4,8) yield a physical q zero in BOTH 4-distinct and 2+1+1 ordinary colour patterns, regardless of exceptional colour or flat V placement. The apparent S101 necessary H/Delta survivors are thus not genuine q-gated models. New limit: leaf 2+2,3+1,4, uniform 5 and <=4 flats are NOT covered. Do not infer generic original G59 or D(C20³)=58 theorem. Original sources/frontier frozen, Phase1 HOLD, S103 FUTURE.
+
+
+## S103 — Phase gates had stalled the counterexample hunt for about 100 sessions
+
+The general Phase-1 frontier PASS had been withheld since S004, pending reconstruction of literature proofs (BSP/Reiher/GHST/Sheikh/Yiu). None of those obligations affects whether a hand-checkable zero-sumfree sequence is valid. **Lesson:** gate a search on what the search's evidence actually depends on, using an explicitly scoped PASS, and keep the general obligations open rather than silently closing them.
+
+**Related lesson:** a "benchmark" on the target groups can turn into an unregistered search. S103 therefore benchmarked only exact primitives on fixed inputs, and pre-flighted the engine only on settled groups (n=4,5,6).
+
+**Tooling note:** with `core.autocrlf=true`, the SHA-256 of a checked-out file can differ from its blob. `.gitattributes` now pins `tools/zsf/*.py` to LF, and the pre-registrations hash the LF bytes.

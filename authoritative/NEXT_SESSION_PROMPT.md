@@ -1,62 +1,79 @@
-# S103 — SEARCH-FIRST DAVENPORT COUNTEREXAMPLE PROGRAMME (FUTURE / NOT EXECUTED)
+# S104 — SEARCH-FIRST ROUND 1 EXECUTION (FUTURE / NOT EXECUTED)
 
-**Owner-approved strategic override, installed 16 October 2026.** This prompt REPLACES the previously installed S103 five-flat-colour continuation. The user's explicit instruction is that **direct counterexample discovery is the PRIMARY GOAL for the coming sessions**, with **subset-sum saturation / universal-structure mathematics as FALLBACK** if disciplined searches yield no material result. This is a MULTI-SESSION research priority, not permission to execute multiple numbered sessions in one invocation. Execute S103 ONLY on a later, separate owner "Run next session"; do NOT treat the act of installing this prompt as session execution. Propagate the active priority, progress counters and fallback trigger into every subsequent future session prompt until changed by evidence or owner.
+**Active owner directive (16 October 2026, carried forward unchanged): SEARCH_FIRST.**
+- The primary goal is direct discovery of a zero-sumfree counterexample in C_n³: length 43 at n=15 (then 44), and length 58 at n=20.
+- Subset-sum saturation and universal structural mathematics are the FALLBACK.
+- Run S104 only on a separate later owner "Run next session", and run only ONE numbered session per invocation.
+- Carry this directive, the counters and the fallback trigger into every future prompt until evidence or the owner changes them.
 
-## 0. Scope, governance and honest evidence
+## 0. Entry and governance
 
-Repository `jfairfaxball-348/Davenport-Counterexample-Hunt`. At installation S102 finished by ordinary PR #105, merged main `25e55d6527c98d31d484b4df93ee20397ec0bc8e`, and CLM-0344 is a genuine *source-conditional axial subclass no-go*, **NOT** proof of unrestricted `D(C20^3)=58`. At actual S103 start, independently reread LIVE main SHA and actual Git root tree, `AGENTS.md`, `authoritative/STATE.json`, this owner override, `campaigns/REGISTRY.md`, source/frontier records, recent session closeouts, CI/protection. Do not assume installation SHA remains the head.
+Work in repository `jfairfaxball-348/Davenport-Counterexample-Hunt`.
+- At entry, independently reread the LIVE main SHA and the actual Git root tree. Do not assume the S103 merge is still the head.
+- Read `AGENTS.md`, `authoritative/STATE.json` (`counterexample_hunt_strategy`, `s103_result`), `campaigns/REGISTRY.md`, `campaigns/CAM-0002/PREREGISTRATION.json` and `campaigns/CAM-0003/PREREGISTRATION.json`, `docs/PHASE_GATE_LEDGER.md` (S103 gates), `research/S103_SEARCH_TOOLING_AND_PREREGISTRATION.md`, and `sessions/S103/*`.
+- Check hosted CI and branch protection. If CI is absent, record it as ABSENT_NOT_PASS.
+- Archive the invocation in `sessions/S104/INPUT.md` and `INPUT_MANIFEST.json`.
 
-Owner now EXPLICITLY authorizes planning and, **after required gates and preregistration are genuinely satisfied**, carrying out bounded numerical search/enumeration, heuristic construction, symmetry reduction and solver-based campaigns for the Davenport counterexample problem. This supersedes the older S103 "no numerical mathematical search / solver / campaign" prohibition. It DOES NOT waive `AGENTS.md` requirements on pre-registered campaigns, phase PASS evidence, completeness proofs, independent checkers, candidate certification, or the owner-gated external actions. No publication, third-party contact, Palomar registration or outside submission is authorized. Never describe "no search results" as a proof of nonexistence. No invented computation, runtimes, hashes, CI PASS or theorems.
+**State at S103 close:**
+- Phase 1 has a SCOPED PASS (search targets n15/n20); the general frontier map is still IN_PROGRESS.
+- Phase 2 has a SCOPED PASS covering exact checkers A/B and the R1-ILS-1.0 heuristic engine only.
+- Phase 3: CAM-0002 and CAM-0003 are PREREGISTERED and not activated.
+- Search counters: setup sessions 1 (S103), active search sessions 0, completed materially distinct rounds 0.
+- Claims total 346, sources total 32 (the original 29 untouched), and the 30 frontier rows are untouched.
 
-Only ONE numbered session (S103) per invocation; one numbered session branch, one atomic authored tree commit, ordinary PR merge and independent postmerge verification. Carry a full NEXT_SESSION_PROMPT into closeout. Preserve all original 29 source records and ordered 30 frontier rows unless separately supported audited evidence justifies a change; never silently promote status.
+## 1. Activate and run round 1 (both targets)
 
-## 1. PRIMARY RESEARCH GOAL — actual zero-sumfree counterexample discovery
+1. **Re-verify before activation.** Recompute SHA-256 of `tools/zsf/ils_engine.py`, `checker_a.py` and `checker_b.py` from the committed main checkout, and compare against `code_sha256` in both pre-registrations. Rerun `python -I tools/zsf/test_zsf.py` and require overall PASS.
+   - If either check fails, do NOT activate. Record the blocker, fix it in a gated way and re-preregister.
+   - Record the Python and numpy versions. If they differ from 3.12.10 and 1.26.4, record the deviation explicitly.
+2. **Activate** CAM-0002 and CAM-0003 exactly as pre-registered:
+   - 6 workers per target, seeds 103001–103006 (n15, target 43) and 103101–103106 (n20, target 58);
+   - `--iterations 200000 --walltime 7200`;
+   - checkpoints in `campaigns/CAM-000x/checkpoints/seed-<SEED>.jsonl`.
+   
+   Run them as background processes; 12 concurrent processes fit on the 16 logical CPUs. Do not change any parameter mid-run. If a worker crashes, rerun it from the same seed per the pre-registration and record the crash.
+3. **Report only actual results**, per worker and per target:
+   - status: BUDGET_EXHAUSTED, WALLTIME_CAP_TRUNCATED or TARGET_REACHED_UNCERTIFIED;
+   - iterations completed, elapsed time, best length attained, the length histogram, and the best sequence's SHA-256;
+   - both checkers' verdicts on the best sequence.
+   
+   Commit the checkpoint logs. If they are very large, commit the final summary records and the SHA-256 of the full logs.
+   
+   Do NOT invent rates or extrapolations. Budget exhaustion is NOT evidence of nonexistence and NOT a negative result.
+4. **On a hit:** create `candidates/<id>/sequence.json` with the canonical sorted triples, modulus, length and SHA-256, following `candidates/README.md`. Rerun checker A and checker B standalone, and verify the A/B agreement plus direct witness absence.
+   - Status is CANDIDATE only.
+   - Plan a Lean 4 kernel proof, for example a certificate of the prefix Σ sets checked against CLM-0345 by kernel computation, plus a cold re-check in a later session before any certified claim.
+   - Do not contact third parties, publish, or register with Palomar without explicit owner authorisation.
+5. **Update the counters.** If round 1 genuinely ran on both targets, S104 counts as active search session 1 and round 1 as complete or partial as actually observed. A walltime-truncated worker makes the round partial for that target; say so.
 
-Target `C_n^3=(Z/nZ)^3`, not only the S060 canonical axial profile.
+## 2. Pre-register a materially different round 2 (do not run it in S104)
 
-**Target A: n=15 (smaller discovery space).** The currently recorded frontier is `43 <= D(C15^3) <= 45`. Attempt to construct a genuine **zero-sumfree indexed sequence of length 43**, which would prove `D>=44` and refute the rank-three lower-formula equality at n=15. If successful, extend to length 44 to test `D=45`. Verify literature/frontier context before asserting novelty.
+Pre-register CAM-0004 (n15) and CAM-0005 (n20) round 2 using a method that is **materially different** from R1. Parameter tweaks of R1 do not count. Candidate methods:
+- **(a) Structured seeds.** Grow from structured near-extremal prefixes, such as unions of cyclic progressions, sequences supported on few cosets of a subgroup, or lifts of extremal C3³/C5³ (n=15) or C4³/C5³ (n=20) sequences via the CRT. Then apply exact local search.
+- **(b) SAT/CP candidate generation.** Fix the support multiset pattern and solve for coordinates. This requires gated SAT tooling first, and its output stays a candidate generator only.
+- **(c) Large-neighbourhood swaps.** Use an exact "remove k, add k+1" deficiency-repair move driven by the complement of Σ.
 
-**Target B: n=20 (one-unit frontier gap).** Currently `58 <= D(C20^3) <= 59`. Attempt to construct an actual **zero-sumfree indexed sequence of length 58**, which would force `D=59` under the independently checked upper bound. Never mistake a zero-sumfree 57-term sequence, a nonminimal total-zero 59-term model, or partial local gate satisfaction for a 58-term counterexample.
+State the domain, any proved reductions (CLM-0345(d) only, unless newly proved), the completeness class, budget, seeds, code SHA-256s, checkpoints and stopping rule. Implement and test the new engine and pre-flight it on settled groups only. Record a Phase-2 gate extension if new tooling is introduced.
 
-**S103 immediate high-value execution order:**
-1. Authenticate n15/n20 bound provenance and precise search/certification definitions; identify targeted Phase-1 blockers rather than redoing the whole pre-existing 100-session axial work.
-2. Build/verify a minimal exact **indexed subset-sum oracle**: state includes all subset sums in `C_n^3`, including empty subset; appending `g` is legal for zero-sumfree sequence S iff `-g` is NOT already in subset sums of S. Update `Sigma(S + [g])=Sigma(S) union (g+Sigma(S))` exactly. Check that 0 does not arise from any nonempty selected index subset; multiplicities and indices matter.
-3. Independently implement two **algorithmically distinct** checkers (e.g. bitset DP with exact modular translation versus independently coded explicit-set/hash DP or meet-in-the-middle check). Unit-test empty sequence, zero element, duplicates, standard length `3(n-1)` lower-bound construction, seeded short brute-force examples, modular wraparound and rollback correctness; record reproducible test inputs/results.
-4. Construct a **pre-registered replacement campaign** (do not reactivate obsolete n6 CAM-0001). Each proposed n15/n20 campaign has target length, precise sequence domain, proven symmetry equivalences versus heuristic restrictions, completeness class `EXHAUSTIVE/PARTIAL/HEURISTIC`, explicit bounded compute/walltime/node budget, versions/seeds/parameter hashes, checkpoints, failure/restart procedure and stop criteria. Prefer deterministic reproducibility. Choose practical resource budgets after measuring actually available compute, not guessed machine capacity. Benchmark both n15 and n20.
-5. Complete and log genuine Phase-1/Phase-2 evidence gates as needed; move to Phase 3 **only when actual gate PASS and preregistration requirements hold**. If a gate is blocked, report exactly what is missing and dedicate next session to unblocking it, rather than claiming a campaign ran. Do not call an unexecuted campaign "negative".
-6. Once authorized and operational, perform bounded campaigns seeking 43 terms at n15 and 58 at n20, exploring multiple substantially different methods as useful: constructive greedy or randomized starts, local modifications/evolutionary moves, backtracking with proven automorphism normalisation, meet-in-the-middle/symmetry pruning, and SAT/CP-SAT/ILP as *candidate generators* or fully audited certified-exclusion methods. Heuristic pruning is allowed only with `HEURISTIC`/partial labeling. Record actual test counts, attained maximum lengths, elapsed resources, surviving candidates and failure modes; do not manufacture rates, exhaustive coverage or candidates.
-7. When a genuine candidate is found, save exact full indexed coordinates in `candidates/`, canonical encoding and SHA-256. Require the two independently implemented exact zero-sumfree checkers, later-session cold recheck and Lean 4 kernel certificate before claiming `FORMALLY_CERTIFIED` under repository rules. A solver's "SAT", a hash of unverified coordinates, or one passing script is NOT certification. Negative theorems need proven complete reductions and checked DRAT/LRAT UNSAT evidence or two independent exhaustive implementations; mere exhausted heuristic budget is not a mathematical exclusion.
+## 3. Mandatory fallback trigger (unchanged)
 
-**Success is ranked:** (a) validated candidate eligible for rigorous certification; (b) a certified complete exclusion of a significant explicitly defined unrestricted/natively symmetric family; (c) a reproducible search discovery/structural lemma that substantially expands viable candidate space or proves a major genuine exclusion. Improved benchmark alone is engineering progress, NOT a mathematical breakthrough. Do not divert back to incremental five-flat colour classes merely because they are available.
+- After **two completed, materially different, bounded and documented rounds** covering n15 and n20, if no real candidate survived two exact checkers, no significant certified exclusion was obtained and no substantive structural theorem was proved: write a negative/partial experimental closeout and switch the priority to SATURATION_FALLBACK.
+- Switch in any case **no later than the close of the third active search session** without such evidence.
+- Blocked setup sessions do not count as rounds. If an unresolvable blocker persists across two setup sessions, report it and pivot. S103 was setup session 1.
+- Cosmetic parameter changes and benchmark improvements do not reset the trigger.
+- **Fallback statement:** every zero-sumfree 57-term indexed sequence in C20³ has Σ (with the empty sum) equal to the whole group. By CLM-0345(c) this is equivalent to there being no zero-sumfree 58-term sequence, and it is OPEN.
+- **Fallback directions:** Kneser/stabiliser growth of Σ, near-saturation extremal structure, projections and lifting over 4·5 and 3·5 with carries, and whether arbitrary extremal sequences admit the S060/S102 reductions. The n15 analogue is length-42 saturation.
 
-## 2. MULTI-SESSION SEARCH CONTINUATION AND MANDATORY FALLBACK
+Maintain `counterexample_hunt_strategy` in STATE.json with: priority, targets, setup and active sessions, completed rounds, campaign statuses, two-checker results, gate states, decisive evidence and switch rationale.
 
-**This primary work continues across successive sessions, not a single S103 attempt.** S103 should establish functioning exact tooling, launch pre-registered searches if gates permit, and install a specific S104 prompt carrying the **SEARCH-FIRST** mandate and actual open campaign checkpoints. Following sessions should run at least one meaningfully different bounded round at EACH of n15 and n20 when feasible, preserving independence and no-claim discipline.
+## 4. Deliverables and close
 
-**Concrete pivot criterion:** After **two completed, materially different, bounded and documented search rounds** covering the n15 and n20 target programmes, if neither produced a real candidate surviving two exact checkers, a certified significant exclusion, or an explicitly formulated substantive structural theorem, write a negative/partial experimental closeout and change the PRIMARY direction to the fallback in Section 3. Do not let repeated cosmetic parameter changes, inconclusive benchmark improvements or narrow axial subclass exclusions reset this test. Independently, **no later than the close of the third active numbered search session** without such material evidence, switch to fallback; do not keep extending a fruitless search indefinitely. Count **active campaign sessions** only once actual recorded search occurred; blocked setup sessions must clear blockers promptly and cannot masquerade as either results or negative rounds. If an unresolvable infrastructure/phase blocker persists across two setup sessions, report it and pivot rather than claim search success. If evidence arrives, explicitly reassess the primary with the owner; no silent perpetual search.
+- Create S104 INPUT, INPUT_MANIFEST, PLAN, VALIDATION, SOURCE_MANIFEST, a hostile REVIEW and a PRECOMMIT CLOSEOUT.
+- Add campaign result files and a registry update giving the actual status of CAM-0002/0003 (ACTIVE→COMPLETED, PARTIAL or TRUNCATED), plus the round-2 pre-registration.
+- Update: phase/session/failure/decision ledgers, STATE, README/START_HERE, and claims only where a real proof or exact computation exists.
+- Leave the frontier unchanged unless there is an independently checked improvement. Keep the original 29 sources and 30 frontier rows intact.
+- Install a FULL S105 prompt. It continues SEARCH_FIRST (round 2 execution) unless the fallback trigger is met; in that case install the saturation fallback prompt.
+- Close with one session branch, one atomic authored commit, an ordinary PR merge without force, and an independent reread of main afterwards.
+- No model names in files or commits. CI absence is ABSENT_NOT_PASS.
 
-Maintain in STATE a persistent `counterexample_hunt_strategy` ledger with priority `SEARCH_FIRST` or `SATURATION_FALLBACK`, attempted targets, actual active search sessions, completed distinct rounds, the two-checker result (if any), gate states, decisive evidence, and the switch rationale. Future session prompts must carry this owner directive until the trigger is met or the owner changes it.
-
-## 3. FALLBACK — universal subset-sum saturation and structural reductions
-
-When Section 2 criterion is met with no substantive search result, STOP prioritizing new heuristic runs and replace the NEXT session objective with the following mathematically different proof programme:
-
-**Primary fallback at n20:** Prove `D(C20^3)=58` via the equivalent **57-term subset-sum saturation statement**:
-
-> Every indexed zero-sumfree length-57 sequence in `C20^3` has `Sigma(S)=C20^3`, where `Sigma` includes the empty subset sum 0.
-
-**Explain the equivalence accurately:** If some `h` is missing from `Sigma(S)`, adjoining `-h` yields a zero-sumfree length-58 sequence. Conversely, any zero-sumfree length-58 sequence yields a length-57 zero-sumfree subsequence that misses the negative of the removed element. So proving saturation rules out length58; together with the existing 57-term standard lower construction this would yield `D=58`. This remains OPEN until actually proved.
-
-**Investigate:** subset-sum growth under appending terms; stabilisers/periodicity and Kneser-type bounds; near-saturation extremal structures; projections and lifting over n=4*5 and n=3*5, including carry compatibility; complete invariant/equality cases; and whether arbitrary extremal sequences necessarily admit the older S060/S102 q-group/axial reductions. Search for a genuinely universal lemma, not another highly conditional V/flat colour exclusion. The analogue at n15 would be saturation of length-42 zero-sumfree sequences if pursuing `D=43`.
-
-Write a precise theorem/failed implication and attack it with independently checked mathematics; preservation of source-stated results and internal-versus-formal statuses remains mandatory. Lean proof follows a valid paper proof where practical, not a substitute for missing reasoning.
-
-## 4. Mandatory S103 deliverables and closeout
-
-- A new S103 INPUT, INPUT_MANIFEST, PLAN, VALIDATION, SOURCE_MANIFEST, hostile REVIEW and PRECOMMIT CLOSEOUT, with authenticated starting branch/tree; honest tested/untested distinctions and reproducible provenance.
-- The exact search engine and independently distinct verifier(s) if implemented, tests/benchmarks actually run and results, plus a registry entry for each proposed or activated campaign and evidenced phase-gate decisions. Do not invent test output or default to "exhaustive" for a restricted heuristic.
-- A simple n15/n20 target/evidence matrix, per-campaign constraints and result classification. If searches are operational, state real observed maximum valid lengths and available artifacts; if blocked, state specific gating or tooling dependencies instead of pretending progress.
-- Update decisions/phase/session/failure ledgers, claim catalogues when a new proof legitimately exists, frontier only after source-backed and independently checked improvement, STATE and README/START_HERE. Preserve old work CLM-0344 and S060–S102 as audited secondary context, not the chief aim.
-- Install a **FULL future S104 NEXT_SESSION_PROMPT** which actually continues the search-first roadmap unless objective fallback criteria were met; in that case install the saturation/structural fallback prompt instead. End with one atomic session tree commit, ordinary PR merge, independent main reread. CI absence is `ABSENT_NOT_PASS`, not green. No arbitrary `D(C20^3)=58`/59 claim without the requisite full original-index proof or independently certified candidate.
-
-**Non-negotiable intent:** FIND or rigorously disprove a real counterexample, not indefinitely catalogue special obstructions. Primary = direct computational/constructive n15+n20 hunt; secondary = mathematically universal subset-sum saturation/reduction, triggered by clear, reproducible failure to obtain substantive results.
+**Non-negotiable intent:** find or rigorously exclude a real counterexample. Never present a heuristic budget as a proof, and never present a single solver or script as a certification.

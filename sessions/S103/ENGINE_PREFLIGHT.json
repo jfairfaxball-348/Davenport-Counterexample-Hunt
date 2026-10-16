@@ -1,0 +1,35 @@
+{
+ "fft_coverage_vs_direct_checks": 800,
+ "n4": {
+  "status": "BUDGET_EXHAUSTED",
+  "iterations_done": 150,
+  "best_len": 9,
+  "best_sha256": "c969e5866c05099c8a10f768baa57bea879dad9e5a4e7a4c5dec5d8ff4c68352",
+  "length_histogram": {
+   "9": 141,
+   "8": 9
+  }
+ },
+ "n5": {
+  "status": "BUDGET_EXHAUSTED",
+  "iterations_done": 150,
+  "best_len": 12,
+  "best_sha256": "5c865ba390d6f5785498d590649d866b0896013ffea2f591e30c9fd6d3f76cb5",
+  "length_histogram": {
+   "12": 146,
+   "11": 4
+  }
+ },
+ "n6": {
+  "status": "BUDGET_EXHAUSTED",
+  "iterations_done": 150,
+  "best_len": 15,
+  "best_sha256": "e98069edad8739b9144a3db328e7f229ecd70da68d1993767bc1d255dbddf8be",
+  "length_histogram": {
+   "15": 146,
+   "14": 3,
+   "13": 1
+  }
+ },
+ "overall": "PASS"
+}
