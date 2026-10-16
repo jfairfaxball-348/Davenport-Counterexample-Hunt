@@ -1697,3 +1697,11 @@ Claims335→336; original source29/frontier30 preserved, Phase1 HOLD, CAM BLOCKE
 - **CLM-0338 [PROGRAMME_PROVED; INTERNAL SAME_EXECUTOR; SOURCE-CONDITIONAL AXIAL]** Independently, eight flat groups give a literal proper ORIGINAL q+full-pairs zero (5epsilon1 e1,5epsilon2 e2, six e3 full original pair blocks), and seven flat force each other q group to have first or second horizontal G20 value2 or12. On the real S096 physical labels there is another proper 20-index {S,g1..g7}+six full e3-pair zero and four-index {g8,g1,a17,b17} zero, in addition to S096's original four-outside zero.
 
 [Full actual-index hand proof](../research/S097_AXIAL_Q_FLAT_MATCHING_RIGIDITY.md) · [hostile review](../sessions/S097/REVIEW.md). Claims336→338; source29/frontier30 frozen; Phase1 HOLD, CAM BLOCKED, CI ABSENT_NOT_PASS. Not a fully-gated twelve-q G59 no-go, G58 zero-free or D(C20³)=58 theorem. S098 FUTURE.
+
+
+## S098 — true original five-flat axial q constraints
+
+- **CLM-0339 [PROGRAMME_PROVED; INTERNAL SAME_EXECUTOR; SOURCE-CONDITIONAL AXIAL]** FIVE distinct true original horizontally G20-flat q groups necessarily have exact third G20 coordinates (z,z,z,z,z) or (z,z,z,z,z+2), z=1 or11, from genuine pair/four-flat even q matching gates; the five-label graph of pair H third2 edges is empty or complete four-star.
+- **CLM-0340 [PROGRAMME_PROVED; INTERNAL SAME_EXECUTOR; SOURCE-CONDITIONAL AXIAL]** Exceptional five-flat forces EVERY other true q group into first/second G20 horizontal2/12 slab else genuine proper original G zero via indexed complete U* pairs. Uniform five-flat makes each exterior unslab group third exactly z, requires at least one exterior slab group by full total third8, and every THREE exterior unslab groups must satisfy original full20 E1+F1=2 OR E2+F2=2; if not, eight true grouped q positions with all six e3 complete original pairs and indexed e1/e2 pairs give a proper original zero.
+
+[Hand proof with literal original indexed pair completion](../research/S098_FIVE_FLAT_PHYSICAL_Q_COLLISIONS.md) · [hostile same-executor review](../sessions/S098/REVIEW.md). These are disallowed <=5-flat SUBFAMILIES, not a full original twelve-q or SAME-Fano/endpoint global no-go. Claims338→340, source29/frontier30 original unchanged, Phase1 HOLD, CAM BLOCKED, CI ABSENT_NOT_PASS; S099 FUTURE ONLY.

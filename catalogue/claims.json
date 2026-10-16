@@ -3425,6 +3425,24 @@
       "origin": "research/S097_AXIAL_Q_FLAT_MATCHING_RIGIDITY.md",
       "source_ids": [],
       "notes": "INTERNAL SAME_EXECUTOR full original G20, no mathematical search/independent proof. The seven/eight conditional standalone gates do not assert feasible six/seven-flat data or full 12-q no-go."
+    },
+    {
+      "id": "CLM-0339",
+      "statement": "In the source-conditional actual original 59-index axial U*=e1^8 e2^8 e3^6 true q perfect-matching setting, any FIVE genuine horizontal G20 0/10-flat q group labels with all two- and four-group E(U*) original gates must have exact third G20 values (z,z,z,z,z) or (z,z,z,z,z+2), z=1 or11 mod20. Marked pair vertical H=2 edges among five distinct original q group labels form an empty or a full four-spoke star; this is exact full modulo20 rigidity, not an all12 no-go.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S098_FIVE_FLAT_PHYSICAL_Q_COLLISIONS.md",
+      "source_ids": [],
+      "notes": "S098 INTERNAL SAME_EXECUTOR mathematical original-index hand proof only; no independent/formal verification, numerical search, full original twelve-q or D20 assertion."
+    },
+    {
+      "id": "CLM-0340",
+      "statement": "In the same source-conditional original axial 59-index U*=8/8/6 setting, exceptional five-flat third pattern z^4(z+2) forces EVERY other actual q group to have at least one full G20 horizontal coordinate2 or12, else one of four proper even physical grouped q cuts plus complete indexed original U pair completion gives a literal proper original zero. Uniform five-flat z^5 forces each exterior without horizontal2/12 to have exact third z, at least one exterior horizontal slab group by full q total third8, and ANY THREE unslab exterior q groups to satisfy E1+F1=2 OR E2+F2=2 modulo20, else all five real flats, the three true outsiders and true indexed complete original U* pairs give a proper original zero. These are conditional excluded subfamilies, not a universal twelve-q no-go.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S098_FIVE_FLAT_PHYSICAL_Q_COLLISIONS.md",
+      "source_ids": [],
+      "notes": "S098 INTERNAL SAME_EXECUTOR exact original indices and carries; no universal original Fano/endpoint trigger CLM-0333–0335, G58 candidate or D20 theorem."
     }
   ]
 }
