@@ -327,3 +327,8 @@ Phase1 remains IN_PROGRESS / NOT PASS despite conditional axial q 7-fibre no-go 
 ## S089 Phase1 gate — HOLD, 16 October 2026
 
 Claims CLM-0311–0315, INTERNAL conditional original-index proof: sixfold only t=3, v!=(0,0), and exact 31-complement-representative proper two-layer gate. Does NOT prove no sixfold with v!=0, much less full twelve-q/Fano/2048/q splits/mixed/FULL8/12/13+/26 hubs/U22/P26, or D(C20³)=58. **Phase1 IN_PROGRESS / NOT PASS**, Phases2/3 NOT_STARTED, Phase4 OWNER_GATED; source29/frontier30 untouched, CAM-0001 BLOCKED, hosted CI ABSENT_NOT_PASS, protection UNKNOWN403, review INTERNAL SAME_EXECUTOR. S090 FUTURE ONLY.
+
+
+## S090 Phase1 gate — HOLD, 16 October 2026
+
+INTERNAL source-conditional genuine original-index CLM-0316–0318 rule out high e1 / all strong spectra and generic strong>2, not all nonzero-v sixfold or full H/Fano/splits/2048/mixed/hubs/U22. Phase1 IN_PROGRESS NOT PASS, Phases2/3 NOT_STARTED, Phase4 OWNER_GATED. CAM-0001 PROPOSED NOT_RUNNING BLOCKED, source29/frontier30 unchanged, claims318, Actions/check-runs/status0 ABSENT_NOT_PASS, protection403 UNKNOWN; S091 future only.

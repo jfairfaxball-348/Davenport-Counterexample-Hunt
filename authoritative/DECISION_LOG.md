@@ -356,3 +356,8 @@ Accept CLM-0307–0310 PROGRAMME_PROVED only under source-conditional TRUE ORIGI
 ## S089 / 2026-10-16 — accept sixfold t-rigidity and v0 exclusion, HOLD Phase1
 
 Accept CLM-0311–0315 as INTERNAL SAME_EXECUTOR PROGRAMME_PROVED conditional on actual S060/S081 canonical axial 59-original q profile, not global theorem. Correct sixfold e/W and complementary proper gates (31 representative outsider supports/62 clauses); true H torsion excludes sixfold t0/1/2/4, finite-field K6 cross lemma plus five-outsider actual indexed cut excludes t3 horizontal v0. Hence sixfold needs (v!=0,t3), not elimination of sixfold in general. Uniform actual third1/11 has exceptional v=(3,4)/(4,3). REJECT full 12-q/S060 Fano/2048/splits/mixed/26 hubs/U22/P26 closure, G58 zero-free, D(C20³)=58, global rank-three equality or formal/external certification. Claims310→315, original sources29/frontier30 frozen, Phase1 IN_PROGRESS, CAM-0001 NOT_RUNNING BLOCKED, hosted CI ABSENT_NOT_PASS. S090 FUTURE only.
+
+
+## S090 — 2026-10-16
+
+Accept CLM-0316–0318 as INTERNAL SAME_EXECUTOR source-conditional original-index necessary results: e1 outsider≤3, all-six strong excluded, generic strong≤2. Reject full sixfold/all12 original q no-go, S060 original Fano/2048/splits/mixed/full mask/other U22, G58 or D20 theorem. Claims315→318; source29/frontier30 intact; Phase1 HOLD, CAM BLOCKED, hosted CI ABSENT_NOT_PASS. S091 future only.

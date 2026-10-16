@@ -1626,3 +1626,13 @@ Claims306→310, sources29/frontier30 frozen; [proof](../research/S088_COMPLETE_
 - **CLM-0315 [PROGRAMME_PROVED; INTERNAL, CONDITIONAL NECESSARY ORIGINAL q]** For surviving candidate sixfold projected common value y=(v,3), if v notin {(3,4),(4,3)} then all six actual repeated q G third coordinates are identical 1 or11 mod20; when v is one of those two exceptional horizontal values pure-fibre constraints alone force only XOR of the six third torsion bits zero. This is necessary conditional original-index torsion structure, not a sixfold nonzero-horizontal survivor or full 12-q obstruction.
 
 Claims310→315, 29 original sources/30 original frontier rows unchanged; [S089 proof](../research/S089_SIXFOLD_TORSION_AND_ORIGIN_NO_GO.md) and [hostile SAME_EXECUTOR review](../sessions/S089/REVIEW.md). Phase1 IN_PROGRESS, CAM-0001 BLOCKED, CI ABSENT_NOT_PASS. Sixfold t3 nonzero horizontal, all twelve q, true Fano/2048/splits/mixed and arbitrary U22 remain OPEN. S090 FUTURE ONLY.
+
+## S090 — hand-excluded sixfold outsider spectra, INTERNAL CONDITIONAL original-index necessary
+
+- **CLM-0316 [PROGRAMME_PROVED; INTERNAL SAME_EXECUTOR; CONDITIONAL NECESSARY]** For actual source-conditional canonical axial 59-original G20 T with six equal genuine q half-projections (v,3), v!=0, at most THREE of the six outsider normalised third ratios e_i are1. The exhaustive hand cases 1^5 2, 1^4 0 3 and 1^4 4 4 fail genuine proper C0/C4 pair/triple/four-set gates on all nonzero v including axes and exceptional two-point cases.
+
+- **CLM-0317 [PROGRAMME_PROVED; INTERNAL SAME_EXECUTOR; CONDITIONAL NECESSARY]** For the same actual conditional sixfold original-index q projection, no six outsiders can all have ratios e_i∈{0,2}. The only total-compatible e spectra e2^6 and e0^5 e2 are excluded by proper outsider pair/triple C0/C4 intersection and fixed sum W for every nonzero v.
+
+- **CLM-0318 [PROGRAMME_PROVED; INTERNAL SAME_EXECUTOR; CONDITIONAL NECESSARY]** In the same necessary sixfold setting, at most TWO outsider ratios are strong (e_i=0 or2) whenever v lies on a nonzero horizontal coordinate axis or ab!=0 outside {(3,1),(1,3),(4,4)}. No ≤2 bound is claimed at those three special horizontal values; repeated true third torsion exceptions (3,4)/(4,3) are included in this generic bound.
+
+Claims315→318, sources29/frontier30 fixed, Phase1 IN_PROGRESS, CAM BLOCKED, CI ABSENT_NOT_PASS. [Proof](../research/S090_SIXFOLD_HIGH_ONE_AND_ALL_STRONG_EXCLUSIONS.md); [review](../sessions/S090/REVIEW.md). Sixfold all v and other original S060 gates remain OPEN. S091 FUTURE only.

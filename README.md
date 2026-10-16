@@ -1,3 +1,9 @@
+# S090 checkpoint — 16 October 2026
+
+S090 source-conditional genuine 59-index axial original q-sixfold T59: CLM-0316 proves at most THREE outsider e_i=1, CLM-0317 excludes all-six strong e0/e2, and CLM-0318 gives generic ≤2 strong outside three cross-geometry exceptions. All 24 nonzero horizontal parameters were respected, including axes and third-torsion special values (3,4)/(4,3); every failed gate constructs a proper original indexed zero via true complete U* pair endpoints. **Does NOT eliminate ALL sixfold**, nor S060 TRUE H/Fano/2048/q splits/signed non-q/full8/12+/26 hubs/U22/P26, G58 or D(C20³)=58. Claims318, original sources29/frontier30 fixed, Phase1 HOLD, CAM BLOCKED, CI ABSENT_NOT_PASS, INTERNAL SAME_EXECUTOR. S091 FUTURE only.
+
+[Proof](research/S090_SIXFOLD_HIGH_ONE_AND_ALL_STRONG_EXCLUSIONS.md), [review](sessions/S090/REVIEW.md), [future S091](authoritative/NEXT_SESSION_PROMPT.md).
+
 # S089 current checkpoint — 16 October 2026
 
 **INTERNAL SOURCE-CONDITIONAL ORIGINAL-INDEX SIXFOLD REFINEMENT:** CLM-0311–0315 derive sixfold proper cross/complement calculus, force every sixfold common projected q half-value to have third t=3 via TRUE H modulo10 torsion, and eliminate horizontal v=(0,0) by a hand-proof K6 six-point cross classification and a literal proper *five-outsider* original G20 zero. Sixfold t3 with v!=(0,0) remains OPEN; the exceptional v=(3,4)/(4,3) have only a total third-torsion XOR constraint from pure fibres. No full twelve-q obstruction, no arbitrary U22/P26 proof, no fully-gated 59-index T, zero-free G58 or D(C20³)=58. Claims315, source29/frontier30 frozen, Phase1 IN_PROGRESS, CAM-0001 BLOCKED, hosted CI ABSENT_NOT_PASS, review INTERNAL SAME_EXECUTOR. [Proof](research/S089_SIXFOLD_TORSION_AND_ORIGIN_NO_GO.md), [hostile review](sessions/S089/REVIEW.md), [future S090](authoritative/NEXT_SESSION_PROMPT.md) strictly UNEXECUTED.

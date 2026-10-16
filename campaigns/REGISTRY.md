@@ -345,3 +345,8 @@ S088 CLM-0307–0310 were source-conditional finite-field HAND proofs about true
 ## S089 no campaign activation — 16 October 2026
 
 Only internally reviewed hand algebraic sixfold original-index CLM-0311–0315. No mathematical numerical search, generated candidate/orbits, CAS/SAT/ILP, external author code, Lean/Palomar, proof certificate, source upgrade, third-party contact, publication or submission. CAM-0001 remains PROPOSED / NOT_RUNNING / BLOCKED; original sources29/frontier30 unchanged, Phase1 IN_PROGRESS, Phases2/3 NOT_STARTED, Phase4 OWNER_GATED, hosted CI ABSENT_NOT_PASS. S090 FUTURE only.
+
+
+## S090 no campaign activation — 16 October 2026
+
+Only original-index HAND symbolic CLM-0316–0318. No numerical search, generated orbit/candidate, CAS/SAT/ILP, Lean/Palomar, author code, external certification, source upgrade, publication or outreach. CAM-0001 remains PROPOSED NOT_RUNNING BLOCKED, Phase1 IN_PROGRESS, source29/frontier30 fixed, hosted CI ABSENT_NOT_PASS; S091 future.
