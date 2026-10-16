@@ -3407,6 +3407,24 @@
       "origin": "research/S096_AXIAL_PHYSICAL_LOCAL_GATE_SEPARATION.md",
       "source_ids": [],
       "notes": "S096 INTERNAL SAME_EXECUTOR hand algebra, full physically original modulo20 59-label total-zero PARTIAL model that FAILS all-q matching; 1024 F0 and 22528 mixed tests checked symbolically, no whole-fibre mathematical enumeration, no globally S060-gated survivor, no 58-zero-free, D20 theorem or independent certification."
+    },
+    {
+      "id": "CLM-0337",
+      "statement": "In the S060 source-conditional actual 59-original axial U*=e1^8 e2^8 e3^6 full q-perfect-matching framework, any six original q supervertex groups whose two horizontal G20 coordinates both lie in {0,10} must have all six EXACT third G20 coordinates equal to z=1 or11 mod20. Actual six-group proper H10 half gates enforce all pair vertical halves1; hence their six projected F5 q half-values coincide at0. Combining with prior S092 CLM-0325 maximum projected multiplicity5 eliminates SIX or more horizontal-flat actual groups, including baselines where their input third values were distinct.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S097_AXIAL_Q_FLAT_MATCHING_RIGIDITY.md",
+      "source_ids": [],
+      "notes": "INTERNAL SAME_EXECUTOR hand algebra, genuine 2046 proper grouped original q masks and full G20 carries. The bound <=5 imports existing S092 theorem. No universal twelve-q or D20 proof."
+    },
+    {
+      "id": "CLM-0338",
+      "statement": "Independently of the pre-existing S092 sixfold theorem, eight distinct horizontally G20-flat actual q supervertex groups in the same source-conditional axial original model force a literal proper G20 zero: after exact third z=1 or11, their eight-group half is (5epsilon1,5epsilon2,4), completed using 5epsilon1 indexed e1,5epsilon2 indexed e2 and all six e3 full original pair blocks. With seven flat, every external genuine q group must have first OR second horizontal G20 coordinate 2 or12, since true 1/3/5/7-flat combined q groups have four consecutive vertical half values and at least one literal original completion zero.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S097_AXIAL_Q_FLAT_MATCHING_RIGIDITY.md",
+      "source_ids": [],
+      "notes": "INTERNAL SAME_EXECUTOR full original G20, no mathematical search/independent proof. The seven/eight conditional standalone gates do not assert feasible six/seven-flat data or full 12-q no-go."
     }
   ]
 }

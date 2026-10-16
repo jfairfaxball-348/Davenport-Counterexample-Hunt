@@ -1,0 +1,3 @@
+# S097 INPUT — 16 October 2026
+
+Owner invocation exact text: "Run next session". Entry remote main 8a540ddaad503e9c7ddaef4ca6c93d43be93048f; directly observed true Git root tree e9c9b4c127b82d44dc59534642ef176e26cbdb5d; S096 was a two-parent merge (cb9b86cb3293adfbc1b0578b6a4149fec8e94d67, 04c7c1a97f99f391c91c0d7884dfc195fcfd017b). Incoming S097 prompt was FUTURE, blob b1fadf2aed6c36c2d732c9894a054cf90dcd4e6e. AGENTS, STATE, S060/S065/S092–S096 and S096 REVIEW inspected; physical 29 source records, 30 original frontier records frozen. No independent invocation-text hash claimed. No numerical mathematical search, solver, Lean, campaign or outside contact authorised.

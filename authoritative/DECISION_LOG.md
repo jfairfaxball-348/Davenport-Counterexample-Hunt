@@ -384,3 +384,6 @@ Accept CLM-0326–0328 as INTERNAL SAME_EXECUTOR exact **conditional** original-
 
 
 | 2026-10-16 | S096 CLM-0336 fully physical axial 59-index partial original G20 model: 1024 F0 and 22528 genuine mixed Fano one-split q shifts passing, all S095 trigger hypotheses absent, explicit invariant p000 four-outsider zero breaks genuine q matching | research/S096_AXIAL_PHYSICAL_LOCAL_GATE_SEPARATION.md; sessions/S096/REVIEW.md, INTERNAL SAME_EXECUTOR | ACCEPT narrow partial-separation theorem ONLY; DO NOT infer full S060 q/2048/multisplit pass, universal trigger force or G58/D20 theorem. Claims336; Phase1 HOLD; CAM BLOCKED; original source29/frontier30 untouched; CI ABSENT_NOT_PASS; S097 FUTURE |
+
+
+| 2026-10-16 | S097 CLM-0337–0338 actual indexed twelve-q horizontal-flat G20 six rigidity, dependent flat<=5, independent eight-flat original zero and seven-flat external slab | research/S097_AXIAL_Q_FLAT_MATCHING_RIGIDITY.md; sessions/S097/REVIEW.md; INTERNAL SAME_EXECUTOR | ACCEPT narrow original source-conditional proof; reject universal axial all12-q/G58/D20, S095 forced triggers or source promotion. Claims338, original source29/frontier30 preserved, Phase1 HOLD, CAM BLOCKED, CI ABSENT_NOT_PASS, S098 FUTURE |

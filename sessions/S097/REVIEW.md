@@ -1,0 +1,15 @@
+# S097 REVIEW — hostile same-executor audit, 16 October 2026
+
+**ACCEPT CLM-0337/0338 only as SOURCE-CONDITIONAL original axial hand proofs. Full axial twelve-q no-go NOT PROVED.**
+
+1. Entry Git main 8a540ddaad503e9c7ddaef4ca6c93d43be93048f, real direct Git root e9c9b4c127b82d44dc59534642ef176e26cbdb5d, prior S096 merge two parents, incoming prompt S097 FUTURE. At entry no open PR, no Actions, no combined statuses: ABSENT_NOT_PASS; branch protection API 403: UNKNOWN.
+2. q groups are 8 actual distinct original g labels, physical S, and exactly three disjoint TWO-original X_l/Y_l groups: twelve q GROUPS, fifteen true original outsider positions, full original total (4,4,8) mod20. Distinct labels are not collapsed by equal values.
+3. Every nonempty proper even J among twelve has a genuine extendible complete matching; if h(J) is in the negative axial U box, the exact original pair-index completion gives a proper G20 zero. The 2046 grouped proper J are NOT the separate 2048 Fano residuals. Full 12 is excepted as ambient all59.
+4. Flat refers to each horizontal ORIGINAL G20 coordinate in {0,10}, hence every even half-horizontal is0/5 and E(U*) requires vertical1/2/3. ANY six partitioned as three genuine q pairs has three third halves each1/2/3; their actual six-group third sum lies integer3..9 and must equal3. All three pair-thirds equal1; varying the matching proves original third z_i+z_j=2 mod20 for every distinct pair. Consequently common exact z=1 OR11. The 11 alternative is NOT discarded.
+5. All six flat q half-projections mod5 coincide at zero; the <=5 conclusion imports pre-existing S092 CLM-0325 and is not represented as an independent sixfold proof.
+6. Eight flat groups have real H half (5ε1,5ε2,4), outside E. Selecting 5ε1/5ε2/6 TRUE full original pair labels produces a proper original support; four q groups remain unselected. The seven-flat outsider (2/12) slab follows from four consecutive third residues at sizes1,3,5,7, and each failed E gate has an indexed pair completion.
+7. S096 physical verification: S+g1+...+g7 plus all six e3 complete pairs is 20 original positions summing20 vertically, and g8+g1+a17+b17 is four original positions summing20. Both leave unused originals. S096's older {S,g8,g1,g2} proper q-only support also stands.
+8. DO NOT infer from flat cardinality and total a forced bad outsider CLM-0333, three-coset odd XOR CLM-0334 or endpoint doublet CLM-0335. Those depend on SAME original X/Y and non-q actual endpoint lifts; full 2048 outsider, 26 hubs, exact12/13+ and all q/non-q splits are untested. No complete 12-q axial impossibility, G58/D20 theorem, or other source-independent statement.
+9. Physical source29/frontier30 original objects untouched; original claims336 extended exactly CLM-0337/0338; no search, CAS, SAT/ILP, code-based mathematical verification, Lean, Palomar or independent review.
+
+**Outstanding bridge:** actual <=5-flat twelve-q/mixed-Fano/endpoint shared-index contradiction or a stronger verified physical partial counter-obstruction.
