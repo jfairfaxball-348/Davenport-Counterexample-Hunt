@@ -3245,6 +3245,42 @@
       "origin": "research/S090_SIXFOLD_HIGH_ONE_AND_ALL_STRONG_EXCLUSIONS.md",
       "source_ids": [],
       "notes": "S090 hand-symbolic INTERNAL SAME_EXECUTOR / source-conditional ACTUAL original-index necessary q gates only; no all12, no complete S060/59-original proof, G58 or D20 theorem."
+    },
+    {
+      "id": "CLM-0319",
+      "statement": "In source-conditional actual canonical axial 59-original G20 q-sixfold, at most two outsider ratios e_i=4: any three violate a proper singleton/pair/triple original-index projected gate, for all nonzero horizontal v.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S091_SIXFOLD_WEAK_RATIO_CAPS_AND_SPECTRUM.md",
+      "source_ids": [],
+      "notes": "S091 INTERNAL SAME_EXECUTOR source-conditional genuine original-index NECESSARY q gates; no full sixfold/12q/S060 or G58/D20 theorem; no numerical search."
+    },
+    {
+      "id": "CLM-0320",
+      "statement": "In the same actual original indexed axial q-sixfold, at most three outsider ratios e_i=3: any four violate proper e3 pair/triple/singleton, total and remaining two-label q gates for every nonzero v.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S091_SIXFOLD_WEAK_RATIO_CAPS_AND_SPECTRUM.md",
+      "source_ids": [],
+      "notes": "S091 INTERNAL SAME_EXECUTOR source-conditional genuine original-index NECESSARY q gates; no full sixfold/12q/S060 or G58/D20 theorem; no numerical search."
+    },
+    {
+      "id": "CLM-0321",
+      "statement": "No all-weak sixfold outsider ratios (all e∈{1,3,4}) occur under source-conditional true axial 59-original q necessary gates: the sole arithmetically viable 1^3 3^3 has impossible genuine e1/e3 cross pair and triple constraints.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S091_SIXFOLD_WEAK_RATIO_CAPS_AND_SPECTRUM.md",
+      "source_ids": [],
+      "notes": "S091 INTERNAL SAME_EXECUTOR source-conditional genuine original-index NECESSARY q gates; no full sixfold/12q/S060 or G58/D20 theorem; no numerical search."
+    },
+    {
+      "id": "CLM-0322",
+      "statement": "For nonzero horizontal v outside {(3,1),(1,3),(4,4)}, exactly eight outsider e-ratio multisets remain arithmetically possible after all known multiplicity caps and original-index singleton/pair constraints; none is asserted to pass all proper 62 paired gates and strong>=3 exceptions remain OPEN.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S091_SIXFOLD_WEAK_RATIO_CAPS_AND_SPECTRUM.md",
+      "source_ids": [],
+      "notes": "S091 INTERNAL SAME_EXECUTOR source-conditional genuine original-index NECESSARY q gates; no full sixfold/12q/S060 or G58/D20 theorem; no numerical search."
     }
   ]
 }

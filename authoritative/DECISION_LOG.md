@@ -361,3 +361,8 @@ Accept CLM-0311–0315 as INTERNAL SAME_EXECUTOR PROGRAMME_PROVED conditional on
 ## S090 — 2026-10-16
 
 Accept CLM-0316–0318 as INTERNAL SAME_EXECUTOR source-conditional original-index necessary results: e1 outsider≤3, all-six strong excluded, generic strong≤2. Reject full sixfold/all12 original q no-go, S060 original Fano/2048/splits/mixed/full mask/other U22, G58 or D20 theorem. Claims315→318; source29/frontier30 intact; Phase1 HOLD, CAM BLOCKED, hosted CI ABSENT_NOT_PASS. S091 future only.
+
+
+## S091 — 2026-10-16
+
+Accept CLM-0319–0322 narrowly as INTERNAL SAME_EXECUTOR source-conditional TRUE ORIGINAL indexed axial q NECESSARY results. Three e4 and four e3 outsider multiplicities excluded, no e0/e2-absent ratio spectrum survives, and only eight arithmetically compatible e multisets remain for nonexceptional v. **NOT** an all-62-gate residual exhaustion, full sixfold no-go, full S060 original Fano/H/2048/splits/mixed or U22/P26 theorem, G58 zero-sumfree or D20 equality. Claims318→322, source29/frontier30 fixed; Phase1 HOLD, CAM BLOCKED, CI ABSENT_NOT_PASS. S092 future only.

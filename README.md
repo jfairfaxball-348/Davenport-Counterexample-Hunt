@@ -1,3 +1,9 @@
+# S091 checkpoint — 16 October 2026
+
+INTERNAL source-conditional **actual 59-original q-sixfold** CLM-0319–0322: e4 outsider≤2, e3 outsider≤3, NO all-weak ratio spectrum 1³3³; outside (3,1),(1,3),(4,4), exactly EIGHT arithmetic outsider e-multisets remain, **NOT** all proper-gate passing models. Genuine proper original zero witnesses from failed C0/C4 clauses use both endpoints of labelled U* pairs; NEVER FULL12. Sixfold itself, 62-clause exhaustive residual closure, true H/Fano/2048/q-splits/non-q/26 hubs/arbitrary U22/P26, G58 and D(C20³)=58 OPEN. Claims322, sources29/frontier30 frozen, Phase1 HOLD, CAM BLOCKED, CI ABSENT_NOT_PASS, INTERNAL SAME_EXECUTOR. S092 FUTURE only.
+
+[Hand proof](research/S091_SIXFOLD_WEAK_RATIO_CAPS_AND_SPECTRUM.md) · [hostile review](sessions/S091/REVIEW.md) · [future S092](authoritative/NEXT_SESSION_PROMPT.md).
+
 # S090 checkpoint — 16 October 2026
 
 S090 source-conditional genuine 59-index axial original q-sixfold T59: CLM-0316 proves at most THREE outsider e_i=1, CLM-0317 excludes all-six strong e0/e2, and CLM-0318 gives generic ≤2 strong outside three cross-geometry exceptions. All 24 nonzero horizontal parameters were respected, including axes and third-torsion special values (3,4)/(4,3); every failed gate constructs a proper original indexed zero via true complete U* pair endpoints. **Does NOT eliminate ALL sixfold**, nor S060 TRUE H/Fano/2048/q splits/signed non-q/full8/12+/26 hubs/U22/P26, G58 or D(C20³)=58. Claims318, original sources29/frontier30 fixed, Phase1 HOLD, CAM BLOCKED, CI ABSENT_NOT_PASS, INTERNAL SAME_EXECUTOR. S091 FUTURE only.

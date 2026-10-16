@@ -457,3 +457,8 @@ S086 left v0,t2/t3 exceptions only because the outsider mod5 sieve was incomplet
 ## S090 — why a projected e-ratio no-go remains only partial
 
 All v!=0 have no 4+ outsider e1 and no all-six e0/e2; generic strong≤2. Still p≤3 spectra remain. Critically e1 singleton has NO C0/C4 gate, and all-six outsider fourth cancellation selects FULL12 and is EXEMPT; neither assumption may be smuggled into a proof. An admissible mod5 shadow is NOT a full H/S060 original-index survivor, true third torsion exceptions (3,4)/(4,3) remain. Phase1 HOLD; S091 FUTURE.
+
+
+## S091 — ratio-spectrum compression is not sixfold contradiction
+
+All sixfold e4≥3, e3≥4 and all-weak 1³3³ can be rejected by hand via properly available actual ORIGINAL singleton/pair/triple q tests. The *remaining eight generic multisets* are only arithmetic possibilities satisfying counts and broad caps, not witnesses of residual C0/C4 feasibility, and the three two-point exceptional horizontal v may still have >=3 strong labels. In particular no valid all-six-outsider J gate exists: FULL12 is EXEMPT. S091 does not close all projected 62 necessary clauses, true H, four same-original Fano/C/Delta/2048 or split/mixed/26 hubs/arbitrary U22/P26; G58/D20 and global conjecture remain open. Phase1 HOLD, S092 FUTURE.

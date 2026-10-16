@@ -332,3 +332,8 @@ Claims CLM-0311–0315, INTERNAL conditional original-index proof: sixfold only 
 ## S090 Phase1 gate — HOLD, 16 October 2026
 
 INTERNAL source-conditional genuine original-index CLM-0316–0318 rule out high e1 / all strong spectra and generic strong>2, not all nonzero-v sixfold or full H/Fano/splits/2048/mixed/hubs/U22. Phase1 IN_PROGRESS NOT PASS, Phases2/3 NOT_STARTED, Phase4 OWNER_GATED. CAM-0001 PROPOSED NOT_RUNNING BLOCKED, source29/frontier30 unchanged, claims318, Actions/check-runs/status0 ABSENT_NOT_PASS, protection403 UNKNOWN; S091 future only.
+
+
+## S091 Phase1 gate — HOLD, 16 October 2026
+
+New INTERNAL conditional proper-original-index CLM-0319–0322 cap e4≤2, e3≤3, exclude no-strong spectrum and list eight generic arithmetically possible e spectra. No full sixfold elimination, no all12/Fano/2048/splits/mixed/U22/P26/D20 breakthrough. Phase1 IN_PROGRESS / NOT PASS, Phases2/3 NOT_STARTED, Phase4 OWNER_GATED. CAM-0001 PROPOSED NOT_RUNNING BLOCKED; source29/frontier30 untouched; Actions0/check-runs0/status0 ABSENT_NOT_PASS; protection403 UNKNOWN, review INTERNAL SAME_EXECUTOR, S092 FUTURE.

@@ -24,8 +24,8 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S090",
-  "recommended_next_session": "S091",
+  "last_completed_session": "S091",
+  "recommended_next_session": "S092",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": null,
@@ -362,7 +362,7 @@
     "owner_blocker": false,
     "historical_dependency_reconciled": "S004 CLM-0068 / S005 sufficient conditional base5p-2 bypass restored and strengthened one position"
   },
-  "current_research_priority": "S091 future hand proof: eliminate all remaining sixfold t3 v!=0 outsider p=#e1≤3 spectra under exact 31 proper paired C0/C4 projection tests, real H torsion and original 59-index zero completions.",
+  "current_research_priority": "S092: close eight generic sixfold outsider e spectra and exceptional v strong≥3 via TRUE properly available original q C0/C4 gates; do not infer projected survivors or full S060/Fano/D20",
   "s040_result": {
     "claims": [
       "CLM-0148",
@@ -1501,5 +1501,35 @@
     "hosted_CI": "ABSENT_NOT_PASS",
     "review": "INTERNAL_SAME_EXECUTOR",
     "next": "S091_FUTURE_UNEXECUTED"
+  },
+  "s091_result": {
+    "date": "2026-10-16",
+    "entry_main": "062a33c976c7fc2e5c4b60d497419bf25dc4c0c2",
+    "entry_true_git_root_tree": "a270f3b82bca0543288e04ecfec7c48c2297f395",
+    "claims": [
+      "CLM-0319",
+      "CLM-0320",
+      "CLM-0321",
+      "CLM-0322"
+    ],
+    "e4_outsider_max": 2,
+    "e3_outsider_max": 3,
+    "no_strong_sixfold": false,
+    "generic_ratio_multisets_remaining": 8,
+    "exceptional_strong_ge3_open": true,
+    "sixfold_nonzero_horizontal_OPEN": true,
+    "all_twelve_q_no_go": false,
+    "all_S060_original_gates_closed": false,
+    "arbitrary_U22_closed": false,
+    "G58_zero_sumfree": false,
+    "D_C20_3_eq58": false,
+    "claims_total": 322,
+    "source_records_untouched": 29,
+    "frontier_original_rows_untouched": 30,
+    "phase1": "IN_PROGRESS",
+    "campaign": "CAM-0001_BLOCKED",
+    "hosted_CI": "ABSENT_NOT_PASS",
+    "review": "INTERNAL_SAME_EXECUTOR",
+    "next": "S092_FUTURE_UNEXECUTED"
   }
 }
