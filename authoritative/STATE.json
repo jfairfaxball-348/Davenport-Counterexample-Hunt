@@ -374,7 +374,7 @@
     "owner_blocker": false,
     "historical_dependency_reconciled": "S004 CLM-0068 / S005 sufficient conditional base5p-2 bypass restored and strengthened one position"
   },
-  "current_research_priority": "S103: S102 CLM-0344 eliminated exactly-five-flat exceptional z^4(z+2) when ordinary horizontal leaf colours occupy >=3 F2² colours, including V flat overlaps, by disjoint true q-group masks. Force an actual original G20 zero for residual leaf patterns 2+2/3+1/4, uniform-five, or <=4 flats, or prove a stronger physical U22 bridge. Phase1 HOLD, G59/G58/D20 OPEN.",
+  "current_research_priority": "OWNER 2026-10-16 STRATEGIC PIVOT (not executed): S103 and subsequent sessions PRIMARY direct proof-producing zero-sumfree counterexample hunt for n=15 (length43; then44) and n=20 (length58), after real preregistration and phase PASS; maintain full candidate/negative certification. If two materially different complete bounded rounds across both targets or no later than three active search sessions show no valid candidate, significant certified exclusion or substantive structural theorem, make subset-sum saturation/structural reduction PRIMARY (length57 saturation in C20^3; optionally n15 length42). Old S103 five-flat colour target is superseded; S060-S102 remain archived secondary results. No campaign is activated by this directive.",
   "s040_result": {
     "claims": [
       "CLM-0148",
@@ -1787,5 +1787,40 @@
     "protection": "UNKNOWN_403",
     "review": "INTERNAL_SAME_EXECUTOR",
     "next": "S103_FUTURE_UNEXECUTED"
+  },
+  "counterexample_hunt_strategy": {
+    "directive_date": "2026-10-16",
+    "directive_kind": "OWNER_APPROVED_S103_AND_SUBSEQUENT_SESSION_PRIORITY",
+    "installation_only_not_session_execution": true,
+    "priority": "SEARCH_FIRST",
+    "primary_targets": [
+      {
+        "n": 15,
+        "zero_sumfree_length": 43,
+        "secondary_length": 44,
+        "recorded_frontier": "43..45"
+      },
+      {
+        "n": 20,
+        "zero_sumfree_length": 58,
+        "recorded_frontier": "58..59"
+      }
+    ],
+    "search_authorization": "BOUNDED_NUMERICAL_METHODS_ALLOWED_ONLY_AFTER_PREREGISTRATION_AND_ACTUAL_PHASE_GATE_PASS",
+    "campaigns_active_at_installation": [],
+    "number_of_active_search_sessions": 0,
+    "number_of_completed_materially_distinct_bounded_rounds": 0,
+    "two_checker_candidate_verified": false,
+    "significant_certified_exclusion": false,
+    "substantive_new_universal_theorem": false,
+    "fallback_trigger": "After two completed materially distinct bounded rounds covering n15/n20 with no substantive result; in any case no later than third active search session with no substantive result. Two setup sessions stalled by unresolvable prerequisite must trigger explicit blocker/pivot decision.",
+    "fallback_priority": "SATURATION_FALLBACK",
+    "fallback_statement": "For every zero-sumfree 57-term indexed sequence in C20^3, subset sums including empty equal the full group, equivalently no zero-sumfree 58-term sequence exists.",
+    "superseded_target": "S103 exceptional five-flat colour subclass continuation",
+    "next_session": "S103_FUTURE_UNEXECUTED",
+    "last_completed": "S102",
+    "proof_gate": "PHASE1_IN_PROGRESS; PHASE2_NOT_STARTED; PHASE3_NOT_STARTED",
+    "original_campaign": "CAM-0001_PROPOSED_NOT_RUNNING_BLOCKED",
+    "comment": "Not a completed session, executed campaign, claim, certified candidate, or phase PASS."
   }
 }
