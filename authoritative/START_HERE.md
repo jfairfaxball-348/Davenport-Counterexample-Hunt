@@ -1,3 +1,9 @@
+# S092 checkpoint — 16 October 2026
+
+INTERNAL SAME_EXECUTOR source-conditional actual 59-original canonical axial U*=8/8/6: CLM-0323–0325 exclude all sixfold q half-projected repeated values (generic eight ratio spectra and v exceptions). The new maximum projected q fibre is **<=5**; this does NOT exclude all twelve q, full S060 H/Fano/2048/split/mixed/26 hubs/arbitrary U22/P26, G58, D(C20^3)=58 or general conjecture. Proper original indexed q witness uses <=3 outsiders and genuine both-endpoint full U* pair completion; FULL12 exempt. Claims325, sources29/frontier30 unchanged, Phase1 IN_PROGRESS/HOLD, CAM BLOCKED, hosted CI ABSENT_NOT_PASS, INTERNAL review only; S093 FUTURE.
+
+[Hand proof](../research/S092_COMPLETE_AXIAL_SIXFOLD_NO_GO.md) · [review](../sessions/S092/REVIEW.md) · [future S093](NEXT_SESSION_PROMPT.md).
+
 # S091 checkpoint — 16 October 2026
 
 INTERNAL source-conditional **actual 59-original q-sixfold** CLM-0319–0322: e4 outsider≤2, e3 outsider≤3, NO all-weak ratio spectrum 1³3³; outside (3,1),(1,3),(4,4), exactly EIGHT arithmetic outsider e-multisets remain, **NOT** all proper-gate passing models. Genuine proper original zero witnesses from failed C0/C4 clauses use both endpoints of labelled U* pairs; NEVER FULL12. Sixfold itself, 62-clause exhaustive residual closure, true H/Fano/2048/q-splits/non-q/26 hubs/arbitrary U22/P26, G58 and D(C20³)=58 OPEN. Claims322, sources29/frontier30 frozen, Phase1 HOLD, CAM BLOCKED, CI ABSENT_NOT_PASS, INTERNAL SAME_EXECUTOR. S092 FUTURE only.

@@ -337,3 +337,8 @@ INTERNAL source-conditional genuine original-index CLM-0316–0318 rule out high
 ## S091 Phase1 gate — HOLD, 16 October 2026
 
 New INTERNAL conditional proper-original-index CLM-0319–0322 cap e4≤2, e3≤3, exclude no-strong spectrum and list eight generic arithmetically possible e spectra. No full sixfold elimination, no all12/Fano/2048/splits/mixed/U22/P26/D20 breakthrough. Phase1 IN_PROGRESS / NOT PASS, Phases2/3 NOT_STARTED, Phase4 OWNER_GATED. CAM-0001 PROPOSED NOT_RUNNING BLOCKED; source29/frontier30 untouched; Actions0/check-runs0/status0 ABSENT_NOT_PASS; protection403 UNKNOWN, review INTERNAL SAME_EXECUTOR, S092 FUTURE.
+
+
+## S092 Phase1 gate — HOLD, 16 October 2026
+
+INTERNAL conditional original-index CLM-0323–0325 exclude all source-conditional axial q-sixfold projected fibres (eight generic ratios and all three exceptional v), sharpening fixed U*=8/8/6 maximal half-projected multiplicity 6→5. Does NOT exclude all twelve q, solve true S060 H/Fano/2048/actual q-split and signed non-q/full cover/26 hubs, or arbitrary U22/P26; no G58 candidate, D(C20³)=58 or rank-three theorem. Phase1 IN_PROGRESS / NO PASS, Phases2/3 NOT_STARTED, Phase4 OWNER_GATED; CAM-0001 PROPOSED NOT_RUNNING BLOCKED; claims325, original source29/frontier30 untouched, hosted CI ABSENT_NOT_PASS, protection UNKNOWN, review SAME_EXECUTOR; S093 FUTURE.
