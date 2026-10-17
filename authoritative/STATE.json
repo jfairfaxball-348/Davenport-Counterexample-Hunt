@@ -20,17 +20,18 @@
     },
     "3": {
       "name": "Campaigns",
-      "status": "ACTIVE_ROUND1_COMPLETED",
+      "status": "ROUNDS_1_2_COMPLETED_SEARCH_CLOSED_BY_FALLBACK_TRIGGER",
       "s103_note": "CAM-0002 (n15 L43) and CAM-0003 (n20 L58) PREREGISTERED round 1, HEURISTIC; activation permitted from S104 after committed S103 PASS; none activated in S103",
-      "s104": "CAM-0002/0003 round 1 executed: COMPLETED, all 12 workers BUDGET_EXHAUSTED, best 42 (n15) / 57 (n20), no hit; CAM-0004/0005 round 2 PREREGISTERED, activation from S105"
+      "s104": "CAM-0002/0003 round 1 executed: COMPLETED, all 12 workers BUDGET_EXHAUSTED, best 42 (n15) / 57 (n20), no hit; CAM-0004/0005 round 2 PREREGISTERED, activation from S105",
+      "s105": "CAM-0004/0005 round 2 executed: COMPLETED, all 12 workers BUDGET_EXHAUSTED, best 42 (n15) / 57 (n20), no hit; fallback trigger met; no campaign active or preregistered"
     },
     "4": {
       "name": "Certification and write-up",
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S104",
-  "recommended_next_session": "S105",
+  "last_completed_session": "S105",
+  "recommended_next_session": "S106",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": [
@@ -39,7 +40,7 @@
   ],
   "phase1_target_status": "SEARCH_TARGETS_N15_L43_N20_L58_SCOPED_PASS; CAM-0002/CAM-0003 PREREGISTERED_NOT_ACTIVATED",
   "open_blockers": [
-    "S104: no blocker to S105 activation of CAM-0004/CAM-0005 other than re-verifying committed code SHA-256s in their PREREGISTRATION.json and rerunning tools/zsf/preflight_lns.py and test_zsf.py. Lean 4 certificate pipeline (Phase-4 prerequisite), symmetry-reduced exhaustive tooling and SAT/DRAT tooling NOT built; no EXHAUSTIVE or negative claim possible until separately gated.",
+    "S105: no blocker. SEARCH_FIRST closed by the two-round fallback trigger; SATURATION_FALLBACK is the priority. Lean 4 certificate pipeline, symmetry-reduced exhaustive tooling and SAT/DRAT tooling NOT built; no EXHAUSTIVE or negative claim possible until separately gated.",
     "S102 CLM-0344 INTERNAL genuine original q-GROUP disjoint axial U* exclusion: exactly five exceptional z^4(z+2) flats with ordinary colours >=3 distinct (4 distinct OR 2+1+1), even when a V is flat, impossible. Four-distinct: four exterior h=(4,4,6), real U* k=(6,6,4); 2+1+1: two exterior h=(2,2,9), k=(8,8,1). Each produces literal proper original zero, no V/Fano overlap. Remaining 2+2/3+1/4 colours, uniform-five, <=4 flats, full12-other q cases, Fano2048, signed non-q splits, all U22/G59/G58/D20 OPEN; claims344, sources29/frontier30 frozen, Phase1 HOLD CAM BLOCKED CI ABSENT_NOT_PASS.",
     "HISTORICAL, PARTLY/WHOLLY SUPERSEDED FOR FIVE-FLAT >=3-COLOUR CLASSES BY S102 CLM-0344: S101 CLM-0343 INTERNAL exact physical Fano horizontal rescue for repeated A,A,B,C exceptional five-free-flat axial G20: for each same actual Fano t=0 needs empty-cut x1=1 or x2=1; t=1 forces horizontal K=(6-5(D+A)) by true e+three disjoint originals. For C3=3, three t1 lines share K; the one t0 requires (m1=1,C1=4) OR (m2=1,C2=4), and all three true V horizontal eta_i=(V_i/2 mod2)+r_i must coincide; violation gives literal original proper zero. In particular C3=3,D=A excluded. For C3=1,D=A, the three t0 horizontal Fano parity vectors must exhaust 01/10/11, forcing eta_i pairwise distinct; repeated eta excluded. All survivors, V-overlap, 2046/2048, signed multisplits, hubs, U22/G59/G58/D20 OPEN; source29/frontier30 frozen, Phase1 HOLD CAM BLOCKED CI ABSENT_NOT_PASS.",
     "HISTORICAL, PARTLY/WHOLLY SUPERSEDED FOR FIVE-FLAT >=3-COLOUR CLASSES BY S102 CLM-0344: S100 CLM-0342 INTERNAL original SAME Fano repeated-colour exclusion: exceptional axial five flat all physically FREE S/g original q singleton indices with ordinary horizontal colours A,A,B,C (A,B,C distinct). Real two-ordinary and exceptional+one/three disjoint Fano original E(U*) cuts force every SAME four Fano x third in {0,1}; C3=overline(V1+V2+V3)_3 odd can only be1 or3. Thus actual C3=5/7/9 has selectable genuine proper Fano+2/4 free-outsider+indexed complete-U original G20 zero. C3=1/3 repeated, V-overlap and all global 2046/2048/signed masks/hubs/arbitrary U22/G59/G58/D20 OPEN. Phase1 HOLD, CAM BLOCKED, CI ABSENT_NOT_PASS; 342 claims source29/frontier30 unchanged.",
@@ -96,6 +97,7 @@
   "gate_ledger": "docs/PHASE_GATE_LEDGER.md",
   "source_snapshot": "2026-10-12",
   "warnings": [
+    "S105: rounds 1 and 2 (HEURISTIC) both exhausted their budgets with best 3n-3 at n15/n20; this is NOT evidence of nonexistence and NOT a negative result. S104 round-2 parameter hashes were computed with int walltime (documentation defect, disclosed; run parameters verified equal by value).",
     "S104: round-1 CAM-0002/0003 exhausted their HEURISTIC budgets with best lengths 42/57 = 3n-3; this is NOT evidence of nonexistence and NOT a negative result. All gates and checks INTERNAL_SAME_EXECUTOR; CI ABSENT_NOT_PASS.",
     "S103: Phase1/Phase2 PASS are SCOPED (n15/n20 search targets; exact checkers + heuristic R1 engine) and INTERNAL_SAME_EXECUTOR. Checkers A/B are algorithmically distinct but same author. No n15/n20 search was run; no rate, maximum length or candidate exists for the targets. Exhausting a HEURISTIC budget is never a nonexistence result.",
     "S102 CLM-0344 is a conditional original 59-index axial q-GROUP no-go, NOT a general G59/U22 theorem. 2+2/3+1/4, uniform-five, <=4 flats and all other gates OPEN; original V must never be appended to overlapping Fano triples. Internal same-executor proof only; no hosted CI PASS.",
@@ -385,7 +387,7 @@
     "owner_blocker": false,
     "historical_dependency_reconciled": "S004 CLM-0068 / S005 sufficient conditional base5p-2 bypass restored and strengthened one position"
   },
-  "current_research_priority": "SEARCH_FIRST (owner directive 2026-10-16). S104 ran round 1 (CAM-0002/0003, R1-ILS-1.0): no hit, best 3n-3 on both targets. Round 2 (CAM-0004/0005, R2-LNS-1.0) preregistered for S105. If round 2 yields nothing substantive, the two-round fallback trigger is met in S105 and priority switches to SATURATION_FALLBACK.",
+  "current_research_priority": "SATURATION_FALLBACK (switched in S105 by the owner directive's two-round trigger). Statement (OPEN): every zero-sumfree 57-term sequence in C20^3 has Sigma = G (equivalently no zero-sumfree 58-term sequence, i.e. D(C20^3)=58 by CLM-0038); n15 analogue length-42 saturation. S106 is fallback session 1.",
   "s040_result": {
     "claims": [
       "CLM-0148",
@@ -1803,7 +1805,7 @@
     "directive_date": "2026-10-16",
     "directive_kind": "OWNER_APPROVED_S103_AND_SUBSEQUENT_SESSION_PRIORITY",
     "installation_only_not_session_execution": false,
-    "priority": "SEARCH_FIRST",
+    "priority": "SATURATION_FALLBACK",
     "primary_targets": [
       {
         "n": 15,
@@ -1819,8 +1821,8 @@
     ],
     "search_authorization": "BOUNDED_NUMERICAL_METHODS_ALLOWED_ONLY_AFTER_PREREGISTRATION_AND_ACTUAL_PHASE_GATE_PASS",
     "campaigns_active_at_installation": [],
-    "number_of_active_search_sessions": 1,
-    "number_of_completed_materially_distinct_bounded_rounds": 1,
+    "number_of_active_search_sessions": 2,
+    "number_of_completed_materially_distinct_bounded_rounds": 2,
     "two_checker_candidate_verified": false,
     "significant_certified_exclusion": false,
     "substantive_new_universal_theorem": false,
@@ -1828,15 +1830,12 @@
     "fallback_priority": "SATURATION_FALLBACK",
     "fallback_statement": "For every zero-sumfree 57-term indexed sequence in C20^3, subset sums including empty equal the full group, equivalently no zero-sumfree 58-term sequence exists.",
     "superseded_target": "S103 exceptional five-flat colour subclass continuation",
-    "next_session": "S105_FUTURE_UNEXECUTED",
-    "last_completed": "S104",
-    "proof_gate": "PHASE1_SCOPED_PASS; PHASE2_SCOPED_PASS (extended S104 R2-LNS-1.0); PHASE3 round1 COMPLETED, round2 PREREGISTERED",
+    "next_session": "S106_FUTURE_UNEXECUTED",
+    "last_completed": "S105",
+    "proof_gate": "PHASE1_SCOPED_PASS; PHASE2_SCOPED_PASS (R1, R2 engines); PHASE3 rounds 1-2 COMPLETED, search closed",
     "original_campaign": "CAM-0001_PROPOSED_NOT_RUNNING_BLOCKED (obsolete n6, not reactivated)",
-    "comment": "S104 active search session 1: round 1 executed on both targets, complete (no truncation, no crash); round 2 preregistered.",
-    "campaigns_preregistered": [
-      "CAM-0004",
-      "CAM-0005"
-    ],
+    "comment": "S105 active search session 2: round 2 executed on both targets, complete; fallback trigger met; priority SATURATION_FALLBACK.",
+    "campaigns_preregistered": [],
     "campaigns_active": [],
     "number_of_setup_sessions": 1,
     "setup_sessions": [
@@ -1854,15 +1853,16 @@
       {
         "round": 2,
         "method": "R2-LNS-1.0 exact remove-k/add-(k+1) deficiency repair (CLM-0347), tabu plateau, structured standard seeds for half the workers",
-        "n15": "CAM-0004 PREREGISTERED",
-        "n20": "CAM-0005 PREREGISTERED",
-        "status": "NOT_RUN"
+        "n15": "CAM-0004 COMPLETED BUDGET_EXHAUSTED best 42",
+        "n20": "CAM-0005 COMPLETED BUDGET_EXHAUSTED best 57",
+        "status": "COMPLETE_NO_HIT",
+        "executed_in": "S105"
       }
     ],
     "gate_states": {
       "phase1": "SCOPED_PASS_SEARCH_TARGETS (S103)",
       "phase2": "SCOPED_PASS_EXACT_CHECKERS_R1_ENGINE (S103); EXTENDED R2-LNS-1.0 (S104)",
-      "phase3": "round1 COMPLETED (S104); round2 PREREGISTERED, activation from S105"
+      "phase3": "round1 COMPLETED (S104); round2 COMPLETED (S105); search closed by fallback trigger"
     },
     "tooling": {
       "checker_a": "tools/zsf/checker_a.py",
@@ -1872,24 +1872,29 @@
       "engine_r2": "tools/zsf/lns_engine.py R2-LNS-1.0",
       "preflight_r2": "sessions/S104/LNS_PREFLIGHT.json PASS"
     },
-    "decisive_evidence": "none: round 1 HEURISTIC budget exhaustion (best 3n-3 on both targets) is not a negative result",
-    "switch_rationale": "not triggered: 1 completed round of 2, 1 active search session of max 3; S105 decides after round 2",
+    "decisive_evidence": "none: two HEURISTIC rounds (R1, R2) exhausted budgets with best 3n-3 on both targets; not a negative result",
+    "switch_rationale": "TRIGGERED S105: two completed materially distinct bounded documented rounds covering n15/n20; no two-checker candidate, no certified exclusion, no substantive structural theorem (CLM-0347 is an elementary tooling lemma).",
     "active_search_sessions": [
-      "S104"
+      "S104",
+      "S105"
     ],
     "campaigns_completed": [
       "CAM-0002",
-      "CAM-0003"
+      "CAM-0003",
+      "CAM-0004",
+      "CAM-0005"
     ],
     "two_checker_results": {
       "CAM-0002": "6/6 best sequences (length 42) zero-sumfree by checkers A and B standalone; no length-43 sequence found",
-      "CAM-0003": "6/6 best sequences (length 57) zero-sumfree by checkers A and B standalone; no length-58 sequence found"
-    }
+      "CAM-0003": "6/6 best sequences (length 57) zero-sumfree by checkers A and B standalone; no length-58 sequence found",
+      "CAM-0004": "6/6 best sequences (length 42) zero-sumfree by checkers A and B standalone; no length-43 sequence found",
+      "CAM-0005": "6/6 best sequences (length 57) zero-sumfree by checkers A and B standalone; no length-58 sequence found"
+    },
+    "priority_switched_in": "S105",
+    "priority_switch_date": "2026-10-17",
+    "search_reopen_condition": "explicit owner directive, or a substantive structural reason recorded as a claim followed by a full preregistration; R1/R2 parameter tweaks do not qualify"
   },
-  "campaigns_preregistered": [
-    "CAM-0004",
-    "CAM-0005"
-  ],
+  "campaigns_preregistered": [],
   "s103_result": {
     "date": "2026-10-16",
     "entry_main": "13ce00e0f04715418f99687a858892f02f3457b4",
@@ -1921,7 +1926,9 @@
   },
   "campaigns_completed": [
     "CAM-0002",
-    "CAM-0003"
+    "CAM-0003",
+    "CAM-0004",
+    "CAM-0005"
   ],
   "s104_result": {
     "date": "2026-10-17",
@@ -1947,6 +1954,35 @@
       "candidates": 0
     },
     "round2": "CAM-0004/0005 PREREGISTERED (R2-LNS-1.0, lns_engine.py sha256 8cf7633d544520e339c8229d03a4eee4c9cf6c0e9ebfd97b3861e10c1cdf664f)",
+    "ci": "ABSENT_NOT_PASS",
+    "review": "INTERNAL_SAME_EXECUTOR",
+    "frontier_changed": false,
+    "counterexample_status": "NONE_CLAIMED"
+  },
+  "s105_result": {
+    "date": "2026-10-17",
+    "entry_main": "35ee471d8f48d6e183c10916ab8b2fd006148497",
+    "entry_true_git_root_tree": "b3f30c6b4325d351155707547811d910311a20c1",
+    "entry_merge_parents": [
+      "eec2f529c3c5fe5cb71a27eb83d52c7696c8569a",
+      "317d1008a90d354423cbe3c744097e22b7747f68"
+    ],
+    "claims": [],
+    "claims_total": 347,
+    "sources_total": 32,
+    "sources_original_untouched": 29,
+    "frontier_original_rows_untouched": 30,
+    "pre_activation": "code SHA-256s match CAM-0004/0005; test_zsf PASS; preflight_lns PASS (identical to S104); python 3.12.10 numpy 1.26.4",
+    "param_hash_defect": "S104 preregistered hashes used int walltime 7200; engine logs float 7200.0; logged params equal registered values exactly for all 12 workers; disclosed, not a run deviation",
+    "round2": {
+      "CAM-0004": "COMPLETED 6/6 BUDGET_EXHAUSTED 1200 it, best 42, no hit",
+      "CAM-0005": "COMPLETED 6/6 BUDGET_EXHAUSTED 1200 it, best 57, no hit",
+      "truncated_workers": 0,
+      "crashes": 0,
+      "candidates": 0
+    },
+    "fallback_trigger": "MET; priority SATURATION_FALLBACK",
+    "closeout": "research/S105_SEARCH_FIRST_EXPERIMENTAL_CLOSEOUT.md",
     "ci": "ABSENT_NOT_PASS",
     "review": "INTERNAL_SAME_EXECUTOR",
     "frontier_changed": false,

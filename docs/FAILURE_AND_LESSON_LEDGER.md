@@ -534,3 +534,11 @@ R1-ILS-1.0 ran 1.2 million moves per target and never left length 3n−3 upwards
 **Process note:** the pre-registered 7200 s walltime cap was far above actual need (≤1313 s), so the round finished complete. Round-2 budget sizing used only component timings on fixed inputs, so that no unregistered target-group run took place.
 
 **Hash note:** Python text-mode writes on Windows produce CRLF, and Git Bash `grep -c $''` reported 0 CRs on such files. Always hash the staged blob (`git cat-file -p :path | sha256sum`) as well as the working file before recording a log hash.
+
+## S105 — Pre-registration hash computed with the wrong types
+
+The S104 pre-registration hashed each worker's parameters with `walltime=7200` (int), but the engine hashes the argparse value `7200.0` (float). Every round-2 `param_hash` therefore differed from its registered value, although the parameters were identical. **Lesson:** compute registered parameter hashes by calling the engine's own parameter-construction code, or by running it with zero iterations on a settled group, never by re-typing the dictionary. Verification in S105 compared values and reproduced both hashes; the defect is disclosed, not hidden.
+
+## S105 — SEARCH_FIRST result
+
+Two methods that differ materially — random ruin/regrow, and exact neighbourhood repair with structured seeds — both plateaued at exactly 3n−3 on both targets. R2 proved every visited length-(3n−3) state k=1-closed. **Lesson:** local heuristics on unrestricted sequences do not leave the 3n−3 plateau at this scale. A further search would need a structural reason (for example a proved reduction to a small structured family amenable to exhaustive or SAT treatment), not more budget.

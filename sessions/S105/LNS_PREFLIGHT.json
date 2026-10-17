@@ -1,0 +1,74 @@
+{
+ "two_more_fft_vs_exhaustive_agreements": 120,
+ "n3_uniform": {
+  "status": "BUDGET_EXHAUSTED",
+  "iterations_done": 40,
+  "best_len": 6,
+  "best_sha256": "54ec1c2386c4a8af02e9c4699f6894634efc2a87cdf6ef547641214b035c932b",
+  "length_histogram": {
+   "6": 40
+  },
+  "move_stats": {
+   "k1_locally_maximal": 40,
+   "plateau": 40
+  }
+ },
+ "n4_uniform": {
+  "status": "BUDGET_EXHAUSTED",
+  "iterations_done": 40,
+  "best_len": 9,
+  "best_sha256": "c8d73ccf3b821e87f48d3ea1b9bf1e255519a74c10af11563129eb5e8be174af",
+  "length_histogram": {
+   "9": 40
+  },
+  "move_stats": {
+   "k1_locally_maximal": 40,
+   "plateau": 40
+  }
+ },
+ "n5_standard": {
+  "status": "BUDGET_EXHAUSTED",
+  "iterations_done": 40,
+  "best_len": 12,
+  "best_sha256": "a0fd93417f9d232323feeb5c1a5cb22d848c0051396f33b257117f6bf2f9c5d4",
+  "length_histogram": {
+   "12": 40
+  },
+  "move_stats": {
+   "k1_locally_maximal": 40,
+   "plateau": 40
+  }
+ },
+ "n6_uniform": {
+  "status": "BUDGET_EXHAUSTED",
+  "iterations_done": 40,
+  "best_len": 15,
+  "best_sha256": "81cf78a8908aa1340061f0b54020cea7e81f7f09cf4fc7a5dc1398691e589e2b",
+  "length_histogram": {
+   "12": 1,
+   "14": 1,
+   "15": 38
+  },
+  "move_stats": {
+   "k1_improve": 2,
+   "k1_locally_maximal": 38,
+   "k2_improve": 1,
+   "plateau": 37
+  }
+ },
+ "n6_standard": {
+  "status": "BUDGET_EXHAUSTED",
+  "iterations_done": 40,
+  "best_len": 15,
+  "best_sha256": "166e89b7f9cb5099346c0f12324495739b46a86f3195da0925437c830adfb0fe",
+  "length_histogram": {
+   "15": 40
+  },
+  "move_stats": {
+   "k1_locally_maximal": 40,
+   "plateau": 40
+  }
+ },
+ "determinism": "PASS",
+ "overall": "PASS"
+}

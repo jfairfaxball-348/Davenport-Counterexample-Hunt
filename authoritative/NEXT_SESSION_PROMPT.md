@@ -1,84 +1,66 @@
-# S105 — SEARCH-FIRST ROUND 2 EXECUTION AND FALLBACK DECISION (FUTURE / NOT EXECUTED)
+# S106 — SATURATION FALLBACK SESSION 1 (FUTURE / NOT EXECUTED)
 
-**Active owner directive (16 October 2026, carried forward unchanged): SEARCH_FIRST.**
-- The primary goal is direct discovery of a zero-sumfree counterexample in C_n³: length 43 at n=15 (then 44), and length 58 at n=20.
-- Subset-sum saturation and universal structural mathematics are the FALLBACK.
-- Run S105 only on a separate later owner "Run next session", and run only ONE numbered session per invocation.
-- Carry this directive, the counters and the fallback trigger into every future prompt until evidence or the owner changes them.
+**Active priority: SATURATION_FALLBACK.** It was switched in S105 by the owner directive's two-round trigger (directive of 16 October 2026).
+- SEARCH_FIRST ran two complete, materially different HEURISTIC rounds: CAM-0002/0003 (R1, S104) and CAM-0004/0005 (R2, S105). Both reached only 3n−3 (42 at n15, 57 at n20). There was no hit and no candidate, and this is NOT a negative result.
+- Run S106 only on a separate later owner "Run next session", and run only ONE numbered session per invocation.
+- Carry the priority, the frozen search counters and the search-reopen condition into every future prompt until evidence or the owner changes them.
 
 ## 0. Entry and governance
 
 Work in repository `jfairfaxball-348/Davenport-Counterexample-Hunt`.
-- At entry, independently reread the LIVE main SHA and the actual Git root tree. Do not assume the S104 merge is still the head.
-- Read `AGENTS.md`, `authoritative/STATE.json` (`counterexample_hunt_strategy`, `s104_result`), `campaigns/REGISTRY.md`, `campaigns/CAM-0004/PREREGISTRATION.json`, `campaigns/CAM-0005/PREREGISTRATION.json`, `campaigns/CAM-0002/RESULT.json`, `campaigns/CAM-0003/RESULT.json`, `docs/PHASE_GATE_LEDGER.md` (S103 and S104 gates), `research/S104_ROUND1_RESULTS_AND_ROUND2_PREREGISTRATION.md`, and `sessions/S104/*`.
+- At entry, independently reread the LIVE main SHA and the actual Git root tree. Do not assume the S105 merge is still the head.
+- Read `AGENTS.md`, `authoritative/STATE.json` (`counterexample_hunt_strategy`, `s105_result`), `research/S105_SEARCH_FIRST_EXPERIMENTAL_CLOSEOUT.md`, `research/S104_ROUND1_RESULTS_AND_ROUND2_PREREGISTRATION.md`, `research/S103_SEARCH_TOOLING_AND_PREREGISTRATION.md` (CLM-0345), `catalogue/CLAIMS.md` (CLM-0038, CLM-0049, CLM-0051, CLM-0345..0347, and the S060/S102 axial claims CLM-0221/0222/0344), `docs/PHASE_GATE_LEDGER.md`, `campaigns/REGISTRY.md`, and `sessions/S105/*`.
 - Check hosted CI and branch protection. If CI is absent, record it as ABSENT_NOT_PASS.
-- Archive the invocation in `sessions/S105/INPUT.md` and `INPUT_MANIFEST.json`.
+- Archive the invocation in `sessions/S106/INPUT.md` and `INPUT_MANIFEST.json`.
+- **Git credential note:** the gh CLI keyring account (`jball348-svg`) has no write access. S104 and S105 pushed through Git Credential Manager as `jfairfaxball-348`, with a one-command override (`git -c credential.https://github.com.helper= -c credential.https://github.com.helper=manager -c credential.https://github.com.username=jfairfaxball-348 push …`). They opened and merged the PR with `GH_TOKEN` taken from that credential for that command only. Do not change the stored git or gh configuration.
 
-**State at S104 close:**
+**State at S105 close:**
 - Phase 1 has a SCOPED PASS (search targets n15/n20); the general frontier map is still IN_PROGRESS.
-- Phase 2 has a SCOPED PASS covering exact checkers A/B, the R1-ILS-1.0 engine and (S104 extension) the R2-LNS-1.0 engine only.
-- Phase 3: round 1 (CAM-0002 n15, CAM-0003 n20; R1-ILS-1.0) COMPLETED in S104. All 12 workers were BUDGET_EXHAUSTED at 200,000 iterations, with best lengths 42 and 57 (= 3n−3), no hit and no candidate. Round 2 (CAM-0004 n15, CAM-0005 n20; R2-LNS-1.0) is PREREGISTERED and not activated.
-- Search counters: setup sessions 1 (S103), active search sessions 1 (S104), completed materially distinct rounds 1.
-- Claims total 347 (CLM-0347 two-term extension criterion), sources total 32 (the original 29 untouched), and the 30 frontier rows are untouched.
+- Phase 2 has a SCOPED PASS covering exact checkers A/B and the heuristic engines R1/R2 only. There is no exhaustive, SAT/DRAT/LRAT or Lean tooling.
+- Phase 3: rounds 1 and 2 are COMPLETED, and the search is closed. No campaign is active or pre-registered. CAM-0001 is still BLOCKED.
+- Final search counters: setup sessions 1, active search sessions 2, completed materially distinct rounds 2.
+- Fallback sessions completed: 0.
+- Claims total 347, sources total 32 (the original 29 untouched), and the 30 frontier rows are untouched.
 
-## 1. Activate and run round 2 (both targets)
+**Search-reopen condition:** an explicit owner directive, or a substantive structural reason recorded as a claim (for example a proved reduction of the 58-term question to a small structured family amenable to exhaustive or SAT treatment), followed by a full pre-registration and gate. A parameter change of R1/R2 does not qualify.
 
-1. **Re-verify before activation.** Recompute SHA-256 (LF bytes) of `tools/zsf/lns_engine.py`, `checker_a.py` and `checker_b.py` from the committed main checkout, and compare against `code_sha256` in both CAM-0004 and CAM-0005 pre-registrations. Rerun `python -I tools/zsf/test_zsf.py` and `python -I tools/zsf/preflight_lns.py` and require overall PASS from both.
-   - If any check fails, do NOT activate. Record the blocker, fix it in a gated way and re-preregister. A blocked session is a setup session, not a round.
-   - Record the Python and numpy versions. If they differ from 3.12.10 and 1.26.4, record the deviation explicitly.
-2. **Activate** CAM-0004 and CAM-0005 exactly as pre-registered:
-   - 6 workers per target: seeds 104001–104003 `--init uniform` and 104004–104006 `--init standard` (n15, target 43); seeds 104101–104103 `--init uniform` and 104104–104106 `--init standard` (n20, target 58);
-   - `--iterations 1200 --walltime 7200`;
-   - checkpoints in `campaigns/CAM-000x/checkpoints/seed-<SEED>.jsonl`.
+## 1. Fallback targets (both OPEN)
 
-   Run them as 12 concurrent background processes on the 16 logical CPUs. Do not change any parameter mid-run. Verify each worker's logged `param_hash` against `parameter_sha256_per_worker`. If a worker crashes, rerun it from the same seed per the pre-registration and record the crash.
-3. **Report only actual results**, per worker and per target:
-   - status: BUDGET_EXHAUSTED, WALLTIME_CAP_TRUNCATED or TARGET_REACHED_UNCERTIFIED;
-   - iterations completed, elapsed time, best length attained, the length histogram, move statistics (k1_improve, k1_locally_maximal, k2_improve, plateau, restart), and the best sequence's SHA-256;
-   - both checkers' verdicts on the best sequence, rerun standalone from the logged sequence (not the in-engine verdict).
+- **SAT20:** every zero-sumfree 57-term indexed sequence S in C20³ has Σ(S) = G, with Σ including the empty sum. By CLM-0345(c), SAT20 is equivalent to there being no zero-sumfree 58-term sequence, and with CLM-0038 to D(C20³) = 58.
+- **SAT15:** the same with 42 terms in C15³, equivalent to D(C15³) = 43.
 
-   Write `campaigns/CAM-000{4,5}/RESULT.json` in the same form as the S104 round-1 results (including full-log SHA-256s), and commit the checkpoint logs.
+Record SAT20 and SAT15 as stable claim IDs with an honest status if they are not already recorded. They are OPEN conjectures; never mark them PROGRAMME_PROVED without a complete proof.
 
-   Do NOT invent rates or extrapolations. Budget exhaustion is NOT evidence of nonexistence and NOT a negative result. `k1_locally_maximal` counts are exact statements about visited states only.
-4. **On a hit:** create `candidates/<id>/sequence.json` with the canonical sorted triples, modulus, length and SHA-256, following `candidates/README.md`. Rerun checker A and checker B standalone, and verify the A/B agreement plus direct witness absence.
-   - Status is CANDIDATE only.
-   - Plan a Lean 4 kernel proof, for example a certificate of the prefix Σ sets checked against CLM-0345 by kernel computation, plus a cold re-check in a later session before any certified claim.
-   - Do not contact third parties, publish, or register with Palomar without explicit owner authorisation.
-   - A surviving two-checker candidate means the fallback trigger is NOT met; then install a S106 prompt for candidate certification (Lean 4 plan and cold re-check) instead of the fallback prompt.
-5. **Update the counters.** If round 2 genuinely ran on both targets, S105 counts as active search session 2 and round 2 as complete or partial as actually observed. A walltime-truncated worker makes the round partial for that target; say so. A partial round does not count as a completed round.
+## 2. S106 work (bounded; choose and finish a coherent subset)
 
-## 2. Mandatory fallback decision (in S105)
+1. **Source frontier for subset-sum growth.**
+   - Identify the precise published tools on the growth and structure of Σ(S):
+     - Kneser's addition theorem and its subset-sum generalisations, such as the DeVos–Goddyn–Mohar generalisation of Kneser to subset sums of sequences;
+     - Olson-type lower bounds on |Σ(S)| for zero-sumfree S;
+     - inverse results on long zero-sumfree sequences and on D(C_n³) for composite n, for example structure of maximal-length zero-sumfree sequences in rank 2, which is known, and how it is used for rank 3.
+   - Give each new source a stable SRC-#### with its true access level: METADATA_ONLY unless the statement or proof was actually inspected.
+   - Record direct links only, with no PDF copies.
+   - Never cite from memory as SOURCE_STATED.
+2. **Programme lemmas (aim for at least one nontrivial PROGRAMME_PROVED claim).** Candidate directions, with hand proofs written in full in a research note:
+   - **(a) Prefix growth with stabilisers.** For zero-sumfree S = g_1..g_L, prove a Kneser-type lower bound on |Σ_k| − |Σ_{k−1}| in terms of the stabiliser H_k = Stab(Σ_k) and the order of g_k mod H_{k−1}. The elementary fact that g_k + Σ_{k−1} ⊄ Σ_{k−1} gives strict growth; strengthen it. Then derive what a 57-term zero-sumfree S with Σ(S) ≠ G must look like: the possible stabiliser chains, and the number of terms that can lie in a proper subgroup coset structure.
+   - **(b) Projection/lifting.** Use C20³ → C4³ and C20³ → C5³, which are settled p-group quotients with D = 3n−2. Bound the number of terms that can avoid producing zero-sum subsequences in the quotients, and analyse the carries. Compare with CLM-0049 (upper bound 59 via historical D(C10³) = 28) and determine exactly what a 58-term zero-sumfree sequence would have to satisfy in each projection.
+   - **(c) Extremal structure.** Decide whether every zero-sumfree 57-term S with Σ(S) ≠ G must admit the S060/S102 axial reductions (CLM-0221/0222/0344). If it does, record the exact implication. If not, record the obstruction.
+   - **(d) Heuristic leads (descriptive only).** The S104/S105 best sequences, including 3n−3 sequences with small support such as multiplicities 13, 13, 3, … at n15, may be inspected as examples. They are not evidence of SAT20.
+3. **Optional exact calibration (pre-register only; do not run in S106).** If useful, pre-register an EXHAUSTIVE calibration in a SETTLED group, for example structure of all zero-sumfree (3n−3)-term sequences in C4³ up to GL₃ symmetry. This first requires a Phase-2 gate extension for symmetry-reduced exhaustive tooling, with a proved reduction. No run on n15/n20.
 
-- **Trigger:** after **two completed, materially different, bounded and documented rounds** covering n15 and n20, if no real candidate survived two exact checkers, no significant certified exclusion was obtained and no substantive structural theorem was proved: write a negative/partial experimental closeout and switch the priority to SATURATION_FALLBACK.
-- Switch in any case **no later than the close of the third active search session** without such evidence.
-- Blocked setup sessions do not count as rounds. If an unresolvable blocker persists across two setup sessions, report it and pivot. S103 was setup session 1.
-- Cosmetic parameter changes and benchmark improvements do not reset the trigger. CLM-0347 is an elementary tooling lemma, not a substantive theorem.
-- **If round 2 completes on both targets with no surviving candidate**, the trigger IS met in S105:
-  - write `research/S105_SEARCH_FIRST_EXPERIMENTAL_CLOSEOUT.md`, a negative/partial experimental closeout covering both rounds, all budgets, attained maxima, histograms and the explicit statement that HEURISTIC exhaustion proves nothing;
-  - set `counterexample_hunt_strategy.priority` to SATURATION_FALLBACK with a dated switch rationale, and keep the search tooling and campaign records intact;
-  - install a FULL S106 saturation-fallback prompt (see below).
-- **If round 2 is partial** (any truncated worker) the trigger is not yet met by the two-round clause. Then install a S106 prompt that either completes round 2 or runs a materially different round 3 (pre-registered in S105). The third-active-session cap still forces the switch at the close of S106 at the latest.
-
-**Fallback statement:** every zero-sumfree 57-term indexed sequence in C20³ has Σ (with the empty sum) equal to the whole group. By CLM-0345(c) this is equivalent to there being no zero-sumfree 58-term sequence, and it is OPEN.
-
-**Fallback directions** for the S106 prompt:
-- Kneser/stabiliser growth of Σ;
-- near-saturation extremal structure (S104 observation: every round-1 best sequence had a value of multiplicity n−1 — heuristic only, a possible structural lead to state and test as a conjecture, not a claim);
-- projections and lifting over 4·5 and 3·5 with carries;
-- whether arbitrary extremal sequences admit the S060/S102 reductions.
-
-The n15 analogue is length-42 saturation.
-
-Maintain `counterexample_hunt_strategy` in STATE.json with: priority, targets, setup and active sessions, completed rounds, campaign statuses, two-checker results, gate states, decisive evidence and switch rationale.
+**Honesty rules.**
+- A failed attempt is recorded as a failure with its precise obstruction (failure ledger), not as progress.
+- Do not upgrade inherited or source claims to PROGRAMME_PROVED.
+- Do not claim SAT20/SAT15 or any D value.
 
 ## 3. Deliverables and close
 
-- Create S105 INPUT, INPUT_MANIFEST, PLAN, VALIDATION (a `validation/validate_s105.py` in the style of `validate_s104.py`), SOURCE_MANIFEST, a hostile REVIEW and a PRECOMMIT CLOSEOUT.
-- Add campaign result files and a registry update giving the actual status of CAM-0004/0005.
-- Update: phase/session/failure/decision ledgers, STATE, README/START_HERE, and claims only where a real proof or exact computation exists.
+- Create S106 INPUT, INPUT_MANIFEST, PLAN, VALIDATION (a `validation/validate_s106.py` in the style of `validate_s105.py`), SOURCE_MANIFEST, a hostile REVIEW and a PRECOMMIT CLOSEOUT.
+- Write a research note `research/S106_SATURATION_FALLBACK_<topic>.md`.
+- Update: claims/sources (JSON and Markdown), phase/session/failure/decision ledgers, STATE (`counterexample_hunt_strategy`: priority SATURATION_FALLBACK, fallback sessions completed 1, decisive evidence, any new reopen reason), README/START_HERE.
 - Leave the frontier unchanged unless there is an independently checked improvement. Keep the original 29 sources and 30 frontier rows intact.
-- Install a FULL S106 prompt as determined by §1.4 and §2: candidate certification, round-2 completion/round 3, or SATURATION_FALLBACK.
+- Install a FULL S107 prompt continuing SATURATION_FALLBACK. If S106 proves a structural reduction that genuinely meets the search-reopen condition, the S107 prompt may instead propose a gated, pre-registered exact campaign. It must state why the condition is met, and never activate the campaign in the same session as the pre-registration.
 - Close with one session branch, one atomic authored commit, an ordinary PR merge without force, and an independent reread of main afterwards.
 - No model names in files or commits. CI absence is ABSENT_NOT_PASS.
 
-**Non-negotiable intent:** find or rigorously exclude a real counterexample. Never present a heuristic budget as a proof, and never present a single solver or script as a certification.
+**Non-negotiable intent:** find or rigorously exclude a real counterexample. Never present a heuristic budget as a proof, a literature statement as a programme proof, or a single solver or script as a certification.

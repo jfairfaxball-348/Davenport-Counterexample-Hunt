@@ -432,7 +432,11 @@ The full machine-readable record is [PREREGISTRATION.json](CAM-0003/PREREGISTRAT
 
 CAM-0001 (obsolete n6) stays PROPOSED / NOT RUNNING / BLOCKED and is not reactivated.
 
-## CAM-0004 — n=15 length-43 zero-sumfree hunt, round 2 — PREREGISTERED / NOT ACTIVATED (S104, 2026-10-17)
+## CAM-0004 — n=15 length-43 zero-sumfree hunt, round 2 — COMPLETED, BUDGET_EXHAUSTED, NO HIT (registered S104 2026-10-17; executed S105 2026-10-17)
+
+**S105 result:** all 6 workers BUDGET_EXHAUSTED at 1200 iterations (202–277 s, no truncation, no crash). Best length 42 = 3n−3 for every worker, two-checker zero-sumfree. No length 43 attained, no candidate. [RESULT.json](CAM-0004/RESULT.json). Disclosed S104 pre-registration defect: parameter hashes were computed with int walltime; the logged parameter values equal the registered values exactly (see RESULT.json `param_hash_note`). HEURISTIC budget exhaustion; NOT a negative result.
+
+*Pre-registration record (unchanged):*
 
 The full machine-readable record is [PREREGISTRATION.json](CAM-0004/PREREGISTRATION.json).
 - **Target:** an indexed zero-sumfree sequence of length 43 in (Z/15)³.
@@ -444,6 +448,14 @@ The full machine-readable record is [PREREGISTRATION.json](CAM-0004/PREREGISTRAT
 - **Stopping:** budget exhausted, cap hit (logged truncated; round partial for that worker) or target reached (quarantine).
 - **Activation:** S105 at the earliest, after the S104 Phase-2 extension is committed and the code SHA-256s are re-verified.
 
-## CAM-0005 — n=20 length-58 zero-sumfree hunt, round 2 — PREREGISTERED / NOT ACTIVATED (S104, 2026-10-17)
+## CAM-0005 — n=20 length-58 zero-sumfree hunt, round 2 — COMPLETED, BUDGET_EXHAUSTED, NO HIT (registered S104 2026-10-17; executed S105 2026-10-17)
+
+**S105 result:** all 6 workers BUDGET_EXHAUSTED at 1200 iterations (276–446 s, no truncation, no crash). Best length 57 = 3n−3 for every worker, two-checker zero-sumfree. No length 58 attained, no candidate. [RESULT.json](CAM-0005/RESULT.json). Disclosed S104 pre-registration defect: parameter hashes were computed with int walltime; the logged parameter values equal the registered values exactly (see RESULT.json `param_hash_note`). HEURISTIC budget exhaustion; NOT a negative result.
+
+*Pre-registration record (unchanged):*
 
 The full machine-readable record is [PREREGISTRATION.json](CAM-0005/PREREGISTRATION.json). Same method, budget and rules as CAM-0004; seeds 104101–104103 uniform start, 104104–104106 standard-sequence start; target length 58 in (Z/20)³.
+
+## S105 — SEARCH_FIRST closed by the fallback trigger (17 October 2026)
+
+Two completed, materially different HEURISTIC rounds (CAM-0002/0003 R1, CAM-0004/0005 R2) produced no candidate at either target. The owner directive's two-round trigger is met and the priority is now SATURATION_FALLBACK. No campaign is active or pre-registered. A new search campaign requires an explicit owner directive or a substantive structural reason recorded as a claim, followed by a full pre-registration. [Experimental closeout](../research/S105_SEARCH_FIRST_EXPERIMENTAL_CLOSEOUT.md).
