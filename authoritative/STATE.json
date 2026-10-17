@@ -40,7 +40,7 @@
   ],
   "phase1_target_status": "SEARCH_TARGETS_N15_L43_N20_L58_SCOPED_PASS; CAM-0002/CAM-0003 PREREGISTERED_NOT_ACTIVATED",
   "open_blockers": [
-    "S108: no blocker. SATURATION_FALLBACK priority; search closed. OWNER DECISION available (not required): whether to authorise preregistration of an EXHAUSTIVE support-5 campaign at n15/n20 (S108 research note section 5). Lean 4, symmetry-reduced exhaustive and SAT/DRAT tooling NOT built.",
+    "Post-S108: no blocker. SATURATION_FALLBACK priority. Owner AUTHORISED (2026-10-17) a gated EXHAUSTIVE support-5 campaign track at n15/n20 (tooling gate and pre-registration first, activation only in a later session). General search otherwise closed. Lean 4 and SAT/DRAT tooling NOT built.",
     "S102 CLM-0344 INTERNAL genuine original q-GROUP disjoint axial U* exclusion: exactly five exceptional z^4(z+2) flats with ordinary colours >=3 distinct (4 distinct OR 2+1+1), even when a V is flat, impossible. Four-distinct: four exterior h=(4,4,6), real U* k=(6,6,4); 2+1+1: two exterior h=(2,2,9), k=(8,8,1). Each produces literal proper original zero, no V/Fano overlap. Remaining 2+2/3+1/4 colours, uniform-five, <=4 flats, full12-other q cases, Fano2048, signed non-q splits, all U22/G59/G58/D20 OPEN; claims344, sources29/frontier30 frozen, Phase1 HOLD CAM BLOCKED CI ABSENT_NOT_PASS.",
     "HISTORICAL, PARTLY/WHOLLY SUPERSEDED FOR FIVE-FLAT >=3-COLOUR CLASSES BY S102 CLM-0344: S101 CLM-0343 INTERNAL exact physical Fano horizontal rescue for repeated A,A,B,C exceptional five-free-flat axial G20: for each same actual Fano t=0 needs empty-cut x1=1 or x2=1; t=1 forces horizontal K=(6-5(D+A)) by true e+three disjoint originals. For C3=3, three t1 lines share K; the one t0 requires (m1=1,C1=4) OR (m2=1,C2=4), and all three true V horizontal eta_i=(V_i/2 mod2)+r_i must coincide; violation gives literal original proper zero. In particular C3=3,D=A excluded. For C3=1,D=A, the three t0 horizontal Fano parity vectors must exhaust 01/10/11, forcing eta_i pairwise distinct; repeated eta excluded. All survivors, V-overlap, 2046/2048, signed multisplits, hubs, U22/G59/G58/D20 OPEN; source29/frontier30 frozen, Phase1 HOLD CAM BLOCKED CI ABSENT_NOT_PASS.",
     "HISTORICAL, PARTLY/WHOLLY SUPERSEDED FOR FIVE-FLAT >=3-COLOUR CLASSES BY S102 CLM-0344: S100 CLM-0342 INTERNAL original SAME Fano repeated-colour exclusion: exceptional axial five flat all physically FREE S/g original q singleton indices with ordinary horizontal colours A,A,B,C (A,B,C distinct). Real two-ordinary and exceptional+one/three disjoint Fano original E(U*) cuts force every SAME four Fano x third in {0,1}; C3=overline(V1+V2+V3)_3 odd can only be1 or3. Thus actual C3=5/7/9 has selectable genuine proper Fano+2/4 free-outsider+indexed complete-U original G20 zero. C3=1/3 repeated, V-overlap and all global 2046/2048/signed masks/hubs/arbitrary U22/G59/G58/D20 OPEN. Phase1 HOLD, CAM BLOCKED, CI ABSENT_NOT_PASS; 342 claims source29/frontier30 unchanged.",
@@ -390,7 +390,7 @@
     "owner_blocker": false,
     "historical_dependency_reconciled": "S004 CLM-0068 / S005 sufficient conditional base5p-2 bypass restored and strengthened one position"
   },
-  "current_research_priority": "SATURATION_FALLBACK (since S105). S108 fallback session 3: CLM-0358..0360 small-support bound (unconditional): any zero-sumfree (3n-2)-term sequence over C_n^3 has >= 5 distinct values; support-5 case is an explicit finite rank-2 relation-module problem. SAT20/SAT15 OPEN.",
+  "current_research_priority": "SATURATION_FALLBACK (since S105), with an OWNER-AUTHORISED (2026-10-17) scope-limited EXHAUSTIVE support-5 campaign track. S108: any zero-sumfree (3n-2)-term sequence over C_n^3 has >= 5 distinct values (CLM-0359); support-5 case is a finite rank-2 relation-module problem. S109: build/gate support-5 exhaustive tooling and pre-register CAM-0006/0007 (not run), plus by-hand attack. SAT20/SAT15 OPEN.",
   "s040_result": {
     "claims": [
       "CLM-0148",
@@ -1903,8 +1903,18 @@
       "S108"
     ],
     "fallback_progress": "S106 CLM-0348..0352: order-n multiplicity cap n-2 (cond. rank-two D). S107 CLM-0353..0357: multiplicity-defect transfer; n20 order-20 cap 17, order-10 cap 8 (cond. CLM-0352/0356). S108 CLM-0358..0360: unconditional small-support bound, counterexample needs >= 5 distinct values; support-5 case reduced to a finite rank-2 relation-module problem.",
-    "search_reopen_condition_met": false,
-    "search_reopen_candidate": "EXHAUSTIVE support-5 classification at n15/n20 via CLM-0358 (owner decision; would need gated exhaustive tooling and certificate-grade completeness)"
+    "search_reopen_condition_met": "PARTIAL_OWNER_AUTHORISED_SUPPORT5_EXHAUSTIVE_ONLY",
+    "search_reopen_candidate": "OWNER AUTHORISED 2026-10-17: EXHAUSTIVE support-5 classification at n15/n20 via CLM-0358 (tooling gate + preregistration first; never run in the preregistering session)",
+    "owner_authorisations": [
+      {
+        "date": "2026-10-17",
+        "given_after": "S108 report (main 2538f5cc29db2e1d924c64c39d887a63c1f77712)",
+        "owner_text": "Yes allow it",
+        "question_answered": "Should a later session be allowed to build the gated tooling and pre-register an EXHAUSTIVE support-5 campaign at n=15/20, under the full pre-registration and certification rules and never running it in the same session that pre-registers it?",
+        "scope": "SUPPORT5_EXHAUSTIVE_ONLY: build symmetry-reduced exhaustive tooling for zero-sumfree (3n-2)-term sequences over C_n^3 with exactly 5 distinct values (n=15, n=20), gate it (Phase-2 extension, settled-group pre-flight, two independent exhaustive algorithms), and pre-register CAM-0006/CAM-0007; activation only in a later session than the pre-registration. Does NOT reopen general search, heuristic campaigns, or any other family.",
+        "installed_by": "governance commit, not a numbered session"
+      }
+    ]
   },
   "campaigns_preregistered": [],
   "s103_result": {
