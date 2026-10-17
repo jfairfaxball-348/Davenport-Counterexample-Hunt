@@ -401,7 +401,11 @@ Only INTERNAL original-index S060 axial physically disjoint free-five-flat symbo
 
 Only INTERNAL hand symbolic exact 59-original-index axial grouped-q proof CLM-0344, with genuine disjoint original q GROUP selections and original full U* pairs. No numerical mathematical search, lifted candidate, generated orbit, solver/CAS/SAT/ILP, Lean, Palomar, source promotion, independent certificate, outreach or publication. CAM-0001 stays PROPOSED NOT_RUNNING BLOCKED, Phase1 HOLD, Phases2/3 NOT_STARTED, Phase4 OWNER_GATED, sources29/frontier30 frozen, CI ABSENT_NOT_PASS, S103 FUTURE.
 
-## CAM-0002 — n=15 length-43 zero-sumfree hunt, round 1 — PREREGISTERED / NOT ACTIVATED (S103, 2026-10-16)
+## CAM-0002 — n=15 length-43 zero-sumfree hunt, round 1 — COMPLETED, BUDGET_EXHAUSTED, NO HIT (registered S103 2026-10-16; executed S104 2026-10-17)
+
+**S104 result:** all 6 workers BUDGET_EXHAUSTED at 200,000 iterations (918–963 s, no truncation, no crash). Best length 42 = 3n−3 for every worker, two-checker zero-sumfree. No length 43 attained, no candidate. [RESULT.json](CAM-0002/RESULT.json). HEURISTIC budget exhaustion; NOT a negative result.
+
+*Pre-registration record (unchanged):*
 
 The full machine-readable record is [PREREGISTRATION.json](CAM-0002/PREREGISTRATION.json).
 - **Target:** an indexed zero-sumfree sequence of length 43 in (Z/15)³. A hit would show D(C15³) ≥ 44. Extending to length 44 would need a separate pre-registration.
@@ -414,7 +418,11 @@ The full machine-readable record is [PREREGISTRATION.json](CAM-0002/PREREGISTRAT
 - **Activation:** S104 at the earliest, after the committed scoped Phase-1/2 PASS and re-verification of the code SHA-256s.
 - Exhausting the budget is **not** a negative result.
 
-## CAM-0003 — n=20 length-58 zero-sumfree hunt, round 1 — PREREGISTERED / NOT ACTIVATED (S103, 2026-10-16)
+## CAM-0003 — n=20 length-58 zero-sumfree hunt, round 1 — COMPLETED, BUDGET_EXHAUSTED, NO HIT (registered S103 2026-10-16; executed S104 2026-10-17)
+
+**S104 result:** all 6 workers BUDGET_EXHAUSTED at 200,000 iterations (1306–1313 s, no truncation, no crash). Best length 57 = 3n−3 for every worker, two-checker zero-sumfree. No length 58 attained, no candidate. [RESULT.json](CAM-0003/RESULT.json). HEURISTIC budget exhaustion; NOT a negative result.
+
+*Pre-registration record (unchanged):*
 
 The full machine-readable record is [PREREGISTRATION.json](CAM-0003/PREREGISTRATION.json).
 - **Target:** an indexed zero-sumfree sequence of length 58 in (Z/20)³. Under the recorded, source-conditional upper bound of 59, a hit would force D(C20³)=59.
@@ -423,3 +431,19 @@ The full machine-readable record is [PREREGISTRATION.json](CAM-0003/PREREGISTRAT
 - **Activation and semantics:** the same rules as CAM-0002.
 
 CAM-0001 (obsolete n6) stays PROPOSED / NOT RUNNING / BLOCKED and is not reactivated.
+
+## CAM-0004 — n=15 length-43 zero-sumfree hunt, round 2 — PREREGISTERED / NOT ACTIVATED (S104, 2026-10-17)
+
+The full machine-readable record is [PREREGISTRATION.json](CAM-0004/PREREGISTRATION.json).
+- **Target:** an indexed zero-sumfree sequence of length 43 in (Z/15)³.
+- **Method:** R2-LNS-1.0 (`tools/zsf/lns_engine.py`): exact remove-k/add-(k+1) deficiency repair (k=1 neighbourhood decided exhaustively per visited state via CLM-0347; k=2 sampled), tabu plateau swaps, restarts; seeds 104001–104003 uniform start, 104004–104006 standard-sequence start. Materially different from R1 (see the research note §4).
+- **Domain / reductions:** all indexed sequences; no symmetry normalisation.
+- **Completeness:** HEURISTIC.
+- **Budget:** 6 workers, 1200 iterations each, 7200 s walltime cap per worker (≤12 CPU-hours).
+- **Checkpoints:** `campaigns/CAM-0004/checkpoints/seed-<SEED>.jsonl`, every 50 iterations.
+- **Stopping:** budget exhausted, cap hit (logged truncated; round partial for that worker) or target reached (quarantine).
+- **Activation:** S105 at the earliest, after the S104 Phase-2 extension is committed and the code SHA-256s are re-verified.
+
+## CAM-0005 — n=20 length-58 zero-sumfree hunt, round 2 — PREREGISTERED / NOT ACTIVATED (S104, 2026-10-17)
+
+The full machine-readable record is [PREREGISTRATION.json](CAM-0005/PREREGISTRATION.json). Same method, budget and rules as CAM-0004; seeds 104101–104103 uniform start, 104104–104106 standard-sequence start; target length 58 in (Z/20)³.

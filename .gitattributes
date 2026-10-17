@@ -1,2 +1,3 @@
 tools/zsf/*.py text eol=lf
 campaigns/**/*.json text eol=lf
+campaigns/**/*.jsonl text eol=lf

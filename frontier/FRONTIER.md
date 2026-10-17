@@ -328,3 +328,7 @@ No frontier row changed. All 30 ordered Markdown rows and frontier.json are unto
 - CLM-0346 rechecks the standard lower-bound sequences with two exact checkers.
 
 No candidate, new bound or openness claim.
+
+## S104 note — 17 October 2026
+
+No frontier row changed. Round-1 HEURISTIC search (CAM-0002/0003) attained only length 42 at n=15 and 57 at n=20, equal to the recorded lower-bound constructions. This is not a bound, not an exclusion and not an openness claim. frontier.json and all 30 ordered rows are untouched.

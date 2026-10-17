@@ -526,3 +526,11 @@ The general Phase-1 frontier PASS had been withheld since S004, pending reconstr
 **Related lesson:** a "benchmark" on the target groups can turn into an unregistered search. S103 therefore benchmarked only exact primitives on fixed inputs, and pre-flighted the engine only on settled groups (n=4,5,6).
 
 **Tooling note:** with `core.autocrlf=true`, the SHA-256 of a checked-out file can differ from its blob. `.gitattributes` now pins `tools/zsf/*.py` to LF, and the pre-registrations hash the LF bytes.
+
+## S104 — Round 1 plateaued at exactly 3n−3
+
+R1-ILS-1.0 ran 1.2 million moves per target and never left length 3n−3 upwards. Over 97% of moves landed on length-(3n−3) maximal sequences with Σ = G, and every best sequence carried one value of multiplicity n−1. **Lesson:** random ruin-and-regrow re-saturates Σ too easily. Round 2 therefore decides exactly whether a removal opens room for two additions (CLM-0347), instead of hoping random regrowth finds it. This is a heuristic observation about one method, not evidence about the groups.
+
+**Process note:** the pre-registered 7200 s walltime cap was far above actual need (≤1313 s), so the round finished complete. Round-2 budget sizing used only component timings on fixed inputs, so that no unregistered target-group run took place.
+
+**Hash note:** Python text-mode writes on Windows produce CRLF, and Git Bash `grep -c $''` reported 0 CRs on such files. Always hash the staged blob (`git cat-file -p :path | sha256sum`) as well as the working file before recording a log hash.

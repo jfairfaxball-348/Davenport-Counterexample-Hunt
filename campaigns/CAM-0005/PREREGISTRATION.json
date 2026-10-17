@@ -1,0 +1,62 @@
+{
+ "campaign": "CAM-0005",
+ "status": "PREREGISTERED_NOT_ACTIVATED",
+ "registered_in": "S104",
+ "registered_date": "2026-10-17",
+ "earliest_activation": "S105, only after the S104 Phase-2 gate extension (R2-LNS-1.0) is committed on main and the code hashes below are re-verified",
+ "target": "zero-sumfree indexed sequence of length 58 in (Z/20)^3; under recorded upper bound 59 this would force D(C20^3)=59",
+ "round": 2,
+ "method": "R2-LNS-1.0: exact large-neighbourhood remove-k/add-(k+1) deficiency repair. k=1 neighbourhood swept exhaustively per visited state (all distinct removed values, 2-addition existence decided for all first additions at once via exact FFT new-coverage: T extends by two iff some legal a has |Sigma(T)|+newcov_T(a)<|G|); k=2 sampled (12 removal pairs, first addition over up to 64 lowest-coverage legal elements, last two levels by the FFT test); found additions pushed through the exact oracle; otherwise tabu plateau swap (remove x, add legal a!=x not tabu) and uniform regrow; restart after 200 non-improving iterations.",
+ "material_difference_from_R1": "R1 = random ruin(2..6) + softmin-coverage regrow with length-only acceptance. R2 = systematic exact neighbourhood decision (exhaustive k=1, enumerated k=2) driven by Sigma-complement / extension criterion, uniform (not coverage-biased) growth, tabu plateau walk, and a structured seed family (standard e1^(n-1)e2^(n-1)e3^(n-1)) for half the workers. Not a parameter tweak of R1.",
+ "search_domain": "all finite indexed sequences over (Z/20)^3, repetition allowed; engine only ever holds zero-sumfree sequences (oracle-legal pushes)",
+ "symmetry_reductions_proved_and_used": "none used; CLM-0345(d) invariances recorded but no normalisation applied",
+ "heuristic_restrictions": "k<=2 neighbourhoods only; k=2 sampled and first-addition capped at 64; plateau moves random; this explores a heuristic neighbourhood only",
+ "completeness_class": "HEURISTIC",
+ "budget": {
+  "workers": 6,
+  "seeds": [
+   104101,
+   104102,
+   104103,
+   104104,
+   104105,
+   104106
+  ],
+  "init_per_seed": {
+   "104101": "uniform",
+   "104102": "uniform",
+   "104103": "uniform",
+   "104104": "standard",
+   "104105": "standard",
+   "104106": "standard"
+  },
+  "iterations_per_worker": 1200,
+  "walltime_cap_seconds_per_worker": 7200,
+  "max_cpu_hours_total": 12,
+  "concurrency_note": "CAM-0004 and CAM-0005 may run concurrently: 12 processes on 16 logical CPUs"
+ },
+ "parameter_sha256_per_worker": {
+  "104101": "b0b4c2b9395dea4879f6e6bede11e1d1a7a596db5a1e41fb13f93e761150e398",
+  "104102": "325912ab830a2f7ca651afd21fda3f821361e127081288257bf0a293f0127ef9",
+  "104103": "dbd714b2d69861ed42355c8bac8831954bf8f603ace42ad5a97c4ac38de46410",
+  "104104": "04838f9be22b08e2bfd97da4ecca1efbe82adbc120f9fec70498a33de05b7096",
+  "104105": "43754a52ddb938c0772491b11a1e8a9c8afc175df18c49ef288f2e523124d1c4",
+  "104106": "f32b37149ecc3f9106fefb2a708527db29d3ff72535a6782e6aa5ccaa9dcca18"
+ },
+ "code_sha256": {
+  "tools/zsf/lns_engine.py": "8cf7633d544520e339c8229d03a4eee4c9cf6c0e9ebfd97b3861e10c1cdf664f",
+  "tools/zsf/checker_a.py": "72dd61225de7346b3f4f6624c91548a505edcab99ec78129981eacf25aff3269",
+  "tools/zsf/checker_b.py": "6f2a0588692b29ed4093f42c5244bc5c7c57ef0f78a4c1ce42ba98414f0c9e0c"
+ },
+ "python": "3.12.10",
+ "numpy": "1.26.4",
+ "command": "python -I tools/zsf/lns_engine.py --n 20 --target 58 --seed <SEED> --init <INIT> --iterations 1200 --walltime 7200 --checkpoint campaigns/CAM-0005/checkpoints/seed-<SEED>.jsonl",
+ "checkpoint_format": "JSONL: start record (params, param_hash, init_len), checkpoint every 50 iterations (best_len, cur_len, canonical best sequence + SHA-256, length histogram, move statistics), CANDIDATE_QUARANTINE record if target reached, end record (status, iterations_done, best, both checker verdicts, move statistics)",
+ "restart_procedure": "runs are deterministic in (seed, init, iterations); a crashed worker is re-run from iteration 0 with the same seed and the crash recorded; partial logs kept, never merged as if complete",
+ "stopping_rule": "per worker: iteration budget exhausted, walltime cap hit (logged WALLTIME_CAP_TRUNCATED, round counted partial for that worker), or target reached (stop, quarantine). Campaign round complete when all workers end.",
+ "budget_sizing_basis": "S104 component timing only (no target-group search): rebuild of a length-L prefix ~1.2-1.6 ms, one FFT new-coverage 0.4-0.9 ms at n15/n20; worst-case k=2 phase ~12*64 pushes+FFTs per iteration. Iteration count chosen so 1200 iterations are expected below the 7200 s cap; truncation, if it occurs, is reported as such.",
+ "preflight": "sessions/S104/LNS_PREFLIGHT.json: settled groups n=3,4,5,6 only; 120 FFT two-addition decisions agree with exhaustive oracle enumeration; best length exactly 3n-3 for both seed families; determinism PASS",
+ "on_hit": "write candidates/<id>/sequence.json canonical sorted triples + SHA-256, rerun checker A and B standalone, mark CANDIDATE only; Lean 4 kernel proof + later-session cold recheck before any certification; no external disclosure without owner authorisation",
+ "result_semantics": "budget exhaustion without hit is NOT evidence of nonexistence and NOT a negative result; k1_locally_maximal counts are exact statements about visited states only, not about the group",
+ "code_sha256_note": "SHA-256 of LF-normalised file bytes (identical to the git blob content); .gitattributes pins tools/zsf/*.py to eol=lf"
+}

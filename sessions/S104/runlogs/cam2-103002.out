@@ -1,0 +1,2 @@
+{"kind": "end", "iter": 200000, "param_hash": "147b79f343e82c97ae5940166160dbb5a57d1bde3d33950b305f60f96552d461", "elapsed": 962.9, "status": "BUDGET_EXHAUSTED", "iterations_done": 200000, "best_len": 42, "best_sha256": "d8955292a407eaa0d4837e74e3995d337abb30815e69a4e63f15c4c894a39e5f", "best_checkerA": true, "best_checkerB": true, "length_histogram": {"42": 199470, "41": 527, "40": 3}}
+exit=0

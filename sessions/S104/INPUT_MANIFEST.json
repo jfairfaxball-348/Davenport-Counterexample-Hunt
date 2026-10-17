@@ -1,0 +1,21 @@
+{
+  "session": "S104",
+  "date": "2026-10-17",
+  "owner_invocation": "run next session",
+  "owner_invocation_SHA256": "NOT_CLAIMED_NO_RAW_BYTE_STREAM",
+  "entry_main": "eec2f529c3c5fe5cb71a27eb83d52c7696c8569a",
+  "entry_true_git_root_tree": "c06780ea82b1474c4d4196b78a43d8929bd36f2c",
+  "entry_merge_parents": [
+    "13ce00e0f04715418f99687a858892f02f3457b4",
+    "24922b5a5d80af946968ae4894706616000c42bb"
+  ],
+  "entry_prompt_blob": "d11d48bd60c268a582a51a342a38fd215be82303",
+  "sources_original": 29,
+  "sources_total_at_entry": 32,
+  "frontier_original_rows": 30,
+  "claims_before": 346,
+  "hosted_workflow_runs_at_entry": 0,
+  "hosted_checkruns_at_entry": 0,
+  "branch_protection_api": "HTTP_404",
+  "open_prs_at_entry": 0
+}

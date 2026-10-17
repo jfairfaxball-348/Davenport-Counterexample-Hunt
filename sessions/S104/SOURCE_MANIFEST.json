@@ -1,0 +1,13 @@
+{
+  "session": "S104",
+  "source_count_before": 32,
+  "source_count_after": 32,
+  "new_sources": {},
+  "source_promotions": [],
+  "original_source_records_untouched": 29,
+  "frontier_original_rows_untouched": 30,
+  "numerical_search_on_target_groups": true,
+  "numerical_search_scope": "preregistered CAM-0002/0003 round 1 only (HEURISTIC); round 2 not run",
+  "external_certification": false,
+  "third_party_contact": false
+}

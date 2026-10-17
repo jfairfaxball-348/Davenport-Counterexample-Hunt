@@ -1,0 +1,20 @@
+{
+  "session": "S104",
+  "validator": "validation/validate_s104.py",
+  "entry_main": "eec2f529c3c5fe5cb71a27eb83d52c7696c8569a",
+  "kind": "administrative consistency + standalone two-checker recheck of round-1 best sequences; NOT certification",
+  "result": {
+    "claims": "347; first 346 identical to entry",
+    "sources": "32 unchanged",
+    "frontier_json_unchanged": true,
+    "CAM-0002": "6 workers BUDGET_EXHAUSTED, best 42, logs hash-matched, A/B rechecked",
+    "CAM-0003": "6 workers BUDGET_EXHAUSTED, best 57, logs hash-matched, A/B rechecked",
+    "round2_prereg_code_hashes_match_and_not_run": true,
+    "state": "consistent",
+    "tests": "PASS",
+    "candidates_dir": "README only",
+    "overall": "PASS"
+  },
+  "ci": "ABSENT_NOT_PASS",
+  "note": "Full-log hashes compared LF-normalised (committed blob bytes); as-written CRLF hashes also recorded in RESULT.json."
+}

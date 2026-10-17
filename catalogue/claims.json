@@ -3497,6 +3497,15 @@
       "origin": "sessions/S103/TEST_OUTPUT.json",
       "source_ids": [],
       "notes": "S103 same-executor computation; also follows by hand from CLM-0038. Tooling validation of the lower-bound constructions only; says nothing about longer sequences, D(C15^3) or D(C20^3)."
+    },
+    {
+      "id": "CLM-0347",
+      "statement": "Two-term extension criterion: for a zero-sumfree sequence T in a finite abelian group G, there exist a, b in G with T a b zero-sumfree iff some a with -a not in Sigma(T) satisfies |Sigma(T)| + |(a+Sigma(T)) minus Sigma(T)| < |G|. (Sigma includes the empty sum.)",
+      "category": "FOUNDATION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S104_ROUND1_RESULTS_AND_ROUND2_PREREGISTRATION.md",
+      "source_ids": [],
+      "notes": "S104 INTERNAL SAME_EXECUTOR elementary corollary of CLM-0345: T a b zsf iff a legal for T and b legal for T a; a legal b exists iff Sigma(T a) != G; |Sigma(T a)| = |Sigma(T)| + |(a+Sigma(T)) minus Sigma(T)|. Basis of the R2-LNS-1.0 exact k=1 neighbourhood decision; says nothing about D(C15^3) or D(C20^3)."
     }
   ]
 }

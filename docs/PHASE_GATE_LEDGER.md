@@ -4,8 +4,8 @@
 |---|---|---|---|
 | Phase 0 governance | PASS | S001 2026-10-10 | Required spine and provenance categories created; JSON structurally constructed |
 | Phase 1 frontier | IN_PROGRESS (SCOPED PASS n15/n20 search targets, S103) | S029 2026-10-12; S103 2026-10-16 | Universal prime Property C CLM-0111, historical eta(C7³)≤116 CLM-0112 proved; other source gates open, CAM-0001 blocked. |
-| Phase 2 tooling | SCOPED PASS | S103 2026-10-16 | Exact zero-sumfree checkers A/B (algorithmically distinct, same executor), brute reference, R1 heuristic engine; NOT exhaustive/SAT/Lean tooling |
-| Phase 3 campaigns | PREREGISTERED | S103 2026-10-16 | CAM-0002 (n15 L43) and CAM-0003 (n20 L58) round 1 HEURISTIC, activation from S104; CAM-0001 still BLOCKED |
+| Phase 2 tooling | SCOPED PASS (extended S104: R2-LNS-1.0) | S103 2026-10-16; S104 2026-10-17 | Exact zero-sumfree checkers A/B (algorithmically distinct, same executor), brute reference, R1 and R2 heuristic engines; NOT exhaustive/SAT/Lean tooling |
+| Phase 3 campaigns | ACTIVE (round 1 executed S104) | S103 2026-10-16; S104 2026-10-17 | CAM-0002/0003 round 1 HEURISTIC executed in S104 (see registry for actual status); CAM-0004/0005 round 2 PREREGISTERED for S105; CAM-0001 still BLOCKED |
 | Phase 4 result certification | OWNER_GATED | — | No candidate, Lean proof or cold check |
 
 **Phase-0 PASS scope:** governance construction only; it does not certify a mathematical case or numerical orbit count.
@@ -410,5 +410,16 @@ INTERNAL SAME_EXECUTOR CLM-0344 source-conditional genuine grouped-q original G2
 - Excluded from this PASS: symmetry-reduced exhaustive enumeration, SAT/DRAT/LRAT, and Lean 4 certification. Each needs its own gate before any EXHAUSTIVE, negative or certified claim.
 
 **Phase 3: PREREGISTERED.** CAM-0002 and CAM-0003 are HEURISTIC, with explicit seeds, iteration and walltime budgets and SHA-256-pinned code. Activation is permitted from S104, once this scoped PASS is committed on main. Nothing was activated or run on the target groups in S103.
+
+Phase 4 remains OWNER_GATED. Hosted CI is absent (ABSENT_NOT_PASS). The review is INTERNAL_SAME_EXECUTOR.
+
+## S104 gates — 17 October 2026
+
+**Phase 2: SCOPED PASS extended to R2-LNS-1.0** (`tools/zsf/lns_engine.py`, SHA-256 `8cf7633d544520e339c8229d03a4eee4c9cf6c0e9ebfd97b3861e10c1cdf664f`).
+- Pre-flight on settled groups n=3,4,5,6 only (`sessions/S104/LNS_PREFLIGHT.json`): 120 FFT two-addition decisions (CLM-0347) agree with exhaustive exact oracle enumeration; best length exactly 3n−3 for uniform and standard seed families; determinism PASS.
+- Every move the engine accepts is replayed through the exact oracle; any best or candidate sequence is rechecked by checkers A and B.
+- Still excluded: symmetry-reduced exhaustive enumeration, SAT/DRAT/LRAT, and Lean 4 certification.
+
+**Phase 3: round 1 COMPLETED.** CAM-0002/0003 executed after re-verification of pinned code hashes, tests and versions. 12/12 workers BUDGET_EXHAUSTED, no truncation, no crash, no hit. CAM-0004/0005 round 2 PREREGISTERED; activation from S105 once this commit is on main.
 
 Phase 4 remains OWNER_GATED. Hosted CI is absent (ABSENT_NOT_PASS). The review is INTERNAL_SAME_EXECUTOR.
