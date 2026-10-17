@@ -430,3 +430,13 @@ What was built and recorded:
 - CAM-0002 (n15 length 43) and CAM-0003 (n20 length 58) PREREGISTERED.
 
 **No search was run on the target groups.** Activation waits for S104 under the committed-PASS protocol. Search counters: 0 active search sessions, 0 completed rounds, 1 setup session. [Research](../research/S103_SEARCH_TOOLING_AND_PREREGISTRATION.md) · [review](../sessions/S103/REVIEW.md) · [closeout](../sessions/S103/CLOSEOUT.md).
+
+## S104 — 17 October 2026
+
+First active SEARCH_FIRST session. Entry was main `eec2f529c3c5fe5cb71a27eb83d52c7696c8569a`, tree `c06780ea82b1474c4d4196b78a43d8929bd36f2c` (S103 merge #107).
+- Pre-activation: pinned code SHA-256s match, `test_zsf.py` PASS, Python 3.12.10 / numpy 1.26.4 as registered.
+- Round 1 executed: CAM-0002 (n15 L43) and CAM-0003 (n20 L58), 12 workers × 200,000 iterations, all BUDGET_EXHAUSTED in 918–1313 s. Best length 42 (n15) and 57 (n20), two-checker zero-sumfree. No hit, no candidate.
+- Round 2 pre-registered: CAM-0004/0005 with R2-LNS-1.0 (`tools/zsf/lns_engine.py`), pre-flight PASS on settled n=3..6; Phase-2 scoped PASS extension.
+- CLM-0347 PROGRAMME_PROVED (two-term extension criterion). Claims 346→347.
+
+Counters: setup 1, active search sessions 1, completed rounds 1. Fallback trigger not met. [Results](../research/S104_ROUND1_RESULTS_AND_ROUND2_PREREGISTRATION.md) · [review](../sessions/S104/REVIEW.md) · [closeout](../sessions/S104/CLOSEOUT.md).

@@ -1739,3 +1739,9 @@ CLM-0344 **INTERNAL SAME_EXECUTOR true original q-GROUP proof**: five exceptiona
 - **CLM-0346 COMPUTED_EXACT.** The standard e1^(n−1)e2^(n−1)e3^(n−1) sequences at n=15 (42 terms) and n=20 (57 terms) are zero-sumfree and saturating (|Σ|=n³), confirmed by two algorithmically distinct same-executor checkers. This is tooling validation only.
 
 [S103 tooling and pre-registration](../research/S103_SEARCH_TOOLING_AND_PREREGISTRATION.md) · [review](../sessions/S103/REVIEW.md). Claims 344→346. No candidate, bound, exclusion or D(C15³)/D(C20³) statement.
+
+## S104 — 17 October 2026
+
+- **CLM-0347 PROGRAMME_PROVED (FOUNDATION).** Two-term extension criterion: a zero-sumfree T extends to a zero-sumfree Tab iff some a with −a ∉ Σ(T) has |Σ(T)| + |(a+Σ(T))∖Σ(T)| < |G|. Elementary corollary of CLM-0345; basis of the R2-LNS-1.0 exact k=1 neighbourhood decision. Says nothing about D(C15³) or D(C20³).
+
+[S104 results and round-2 pre-registration](../research/S104_ROUND1_RESULTS_AND_ROUND2_PREREGISTRATION.md). Claims 346→347. No candidate, bound, exclusion or D(C15³)/D(C20³) statement.

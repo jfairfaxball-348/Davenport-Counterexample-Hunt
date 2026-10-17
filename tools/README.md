@@ -15,3 +15,8 @@ S004 adds `validation/validate_s004.py` solely for repository consistency: JSON,
 - `preflight_engine.py`: runs the engine on settled n=4,5,6 only.
 
 Environment: Python 3.12.10, numpy 1.26.4, Windows 11, i7-11800H (16 logical CPUs). Not built: SAT/DRAT/LRAT tooling, symmetry-reduced exhaustive enumeration, and a Lean 4 certificate pipeline. elan/lean are installed locally, but no Lean run was performed.
+
+## S104 — R2-LNS-1.0 engine, Phase-2 SCOPED PASS extension
+
+- `lns_engine.py`: R2-LNS-1.0 HEURISTIC engine for CAM-0004/0005 (round 2, pre-registered, not run in S104). Exact remove-k/add-(k+1) deficiency repair: the k=1 neighbourhood of each visited state is decided exhaustively with one exact FFT new-coverage evaluation per removed value (T extends by two terms iff some legal a has |Σ(T)|+newcov_T(a)<|G|); k=2 is sampled; plateau swaps use a tabu list; half the workers start from the structured standard sequence. Its SHA-256 is pinned in CAM-0004/0005.
+- `preflight_lns.py`: settled groups n=3,4,5,6 only. 120 FFT two-addition decisions agree with exhaustive oracle enumeration; best length exactly 3n−3 for both seed families; determinism. Output: `sessions/S104/LNS_PREFLIGHT.json`.
