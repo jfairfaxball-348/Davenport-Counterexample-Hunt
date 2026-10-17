@@ -553,3 +553,10 @@ CLM-0351 forces every zero-sum subsequence of the 2n-term C_n² image to lift to
 The first draft of the n=20/n=15 conditional caps counted only j ≤ 3, where the transfer inequality allows every j ≤ d. That understated several caps: for example "16" instead of 15 under D*(C4 ⊕ C20 ⊕ C20). A mechanical recomputation from the inequality caught and fixed this before commit. **Lesson:** derive tabulated numerical consequences mechanically from the proved inequality, never by hand.
 
 **Status of the S106 lesson:** the equal-lift idea was not needed. Passing to G/⟨dh⟩ turns the "sum must be exactly h" condition into zero-sumfreeness in a smaller rank-three group, and that settles the n=20 case wherever the smaller group's Davenport constant is known.
+
+## S108 — Lever groups not in the literature; counting stops at support 5
+
+1. **Lever groups.** No exact Davenport constant for C_e⊕C_n⊕C_n with e > 2 at n = 15 or 20 was found, so the S107 conditional caps stay conditional.
+2. **Counting.** The CLM-0359 counting argument is sharp at r+1 distinct values. At 5 values over C_n³ (|K| = n²) it gives only |S| ≤ 4n−5. The single-coordinate escape count ignores how the escapes of different ρ ∈ K interact. **Lesson:** support 5 needs either a two-dimensional (planar) refinement of the counting, or an exhaustive treatment of rank-2 relation modules.
+
+**Process note:** S107's single-commit / no-force rule was kept when a product name had to be removed from an archived quote. The fix was a fresh branch and a new PR, with the old PR closed unmerged; this changed the branch name recorded in the S107 closeout.

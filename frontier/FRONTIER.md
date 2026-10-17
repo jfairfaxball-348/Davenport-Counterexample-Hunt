@@ -344,3 +344,7 @@ No frontier row changed. CLM-0350 (conditional on the SOURCE_STATED rank-two val
 ## S107 note — 17 October 2026
 
 No frontier row changed. CLM-0357 (conditional on SOURCE_STATED CLM-0352/0356) caps the multiplicities of any hypothetical zero-sumfree 58-term sequence in C20³: at most 17 at order-20 elements and at most 8 at order-10 elements. This is a structural restriction, not a bound change.
+
+## S108 note — 17 October 2026
+
+No frontier row changed. CLM-0359 (unconditional) shows that any hypothetical zero-sumfree 43-term sequence in C15³, or 58-term sequence in C20³, has at least 5 distinct values. This is a structural restriction, not a bound change.

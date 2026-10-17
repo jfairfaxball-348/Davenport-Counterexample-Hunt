@@ -1765,3 +1765,11 @@ CLM-0344 **INTERNAL SAME_EXECUTOR true original q-GROUP proof**: five exceptiona
 - **CLM-0357 PROGRAMME_PROVED, conditional on CLM-0352 and CLM-0356.** A zero-sumfree 58-term sequence over C20³ has order-20 multiplicities ≤ 17 and order-10 multiplicities ≤ 8, and at least 4 distinct values.
 
 [S107 note](../research/S107_SATURATION_FALLBACK_MULTIPLICITY_DEFECT_TRANSFER.md). Claims 352→357. The S106 multiplicity-(n−2) case is closed at n=20 only. The n15 analogue needs D*(C3⊕C15⊕C15) or D*(C5⊕C15⊕C15), both unknown. There is no SAT20/SAT15 or D-value statement.
+
+## S108 — 17 October 2026 (SATURATION_FALLBACK session 3)
+
+- **CLM-0358 PROGRAMME_PROVED (FOUNDATION).** Box/kernel criterion: with distinct values a_i and multiplicities α_i ≤ n−1, S is zero-sumfree iff no nonzero ρ in the relation module K ⊆ (Z/n)^k has ⟨ρ_i⟩ ≤ α_i for every i.
+- **CLM-0359 PROGRAMME_PROVED.** |S| ≤ k(n−1) − n + n/|K|. Hence at most r+1 distinct values over C_n^r gives |S| ≤ r(n−1). **Any zero-sumfree (3n−2)-term sequence over C_n³ has at least 5 distinct values.** This is unconditional and generalises CLM-0153.
+- **CLM-0360 PROGRAMME_PROVED.** For every ρ ∈ K of order n: Σ_{ρ_i≠0}(n−1−α_i) ≥ n−1.
+
+[S108 note](../research/S108_SATURATION_FALLBACK_SMALL_SUPPORT.md). Claims 357→360. The support-5 case is reduced to a finite rank-2 relation-module problem but is not decided. There is no SAT20/SAT15 or D-value statement.

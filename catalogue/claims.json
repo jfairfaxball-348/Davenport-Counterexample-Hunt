@@ -3609,6 +3609,33 @@
         "SRC-0034"
       ],
       "notes": "CONDITIONAL on SOURCE_STATED CLM-0352 (rank two) and CLM-0356 (D(C2+C20+C20)=40), via CLM-0350/0355. Closes the S106 open multiplicity-(n-2) case at n=20 only; n=15 analogue reduced to D*(C3+C15+C15) or D*(C5+C15+C15), unknown. Not evidence for SAT20."
+    },
+    {
+      "id": "CLM-0358",
+      "statement": "Box/kernel criterion: a sequence over C_n^r with distinct values a_1..a_k and multiplicities alpha_i <= n-1 is zero-sumfree iff no nonzero rho in K = {rho in (Z/n)^k : sum rho_i a_i = 0} has least residues <rho_i> <= alpha_i for all i.",
+      "category": "FOUNDATION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S108_SATURATION_FALLBACK_SMALL_SUPPORT.md",
+      "source_ids": [],
+      "notes": "S108 INTERNAL SAME_EXECUTOR hand proof; 5200 random agreements with checkers A/B on small groups (sessions/S108/SMALL_SUPPORT_TESTS.json)."
+    },
+    {
+      "id": "CLM-0359",
+      "statement": "Counting bound: a zero-sumfree sequence over C_n^r with k distinct values satisfies |S| <= k(n-1) - n + n/|K|, |K| >= n^(k-r). Hence at most r+1 distinct values implies |S| <= r(n-1); every zero-sumfree (3n-2)-term sequence over C_n^3 has at least 5 distinct values.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S108_SATURATION_FALLBACK_SMALL_SUPPORT.md",
+      "source_ids": [],
+      "notes": "S108 INTERNAL SAME_EXECUTOR hand proof, unconditional; generalises CLM-0153. Checked on 1040 random supports (C_n^2 n<=10, C_n^3 n<=6) by brute-force maximisation and exhaustively over all 4-value supports in C_2^3, C_3^3. No novelty claimed."
+    },
+    {
+      "id": "CLM-0360",
+      "statement": "Relation bound: if S is zero-sumfree over C_n^r and rho in its relation module K has order n, then sum over i with rho_i != 0 of (n-1-alpha_i) >= n-1.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S108_SATURATION_FALLBACK_SMALL_SUPPORT.md",
+      "source_ids": [],
+      "notes": "S108 INTERNAL SAME_EXECUTOR hand proof (counting on the cyclic subgroup <rho>); 7288 exact checks on small groups. Recovers the cyclic-subgroup bound alpha_a + alpha_b <= n-1 for b in <a>."
     }
   ]
 }
