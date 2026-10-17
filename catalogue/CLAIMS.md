@@ -1755,3 +1755,13 @@ CLM-0344 **INTERNAL SAME_EXECUTOR true original q-GROUP proof**: five exceptiona
 - **CLM-0352 SOURCE_STATED (SRC-0033, SRC-0034).** D(C_n ⊕ C_mn) = mn+n−1, so d(C_n²) = 2n−2.
 
 [S106 note](../research/S106_SATURATION_FALLBACK_MULTIPLICITY_QUOTIENT.md). Claims 347→352. These are elementary structural constraints; there is no SAT20/SAT15 or D-value statement, and the multiplicity-(n−2) case is NOT excluded.
+
+## S107 — 17 October 2026 (SATURATION_FALLBACK session 2)
+
+- **CLM-0353 PROGRAMME_PROVED (FOUNDATION).** For h of order m: h^{m−j}T is zero-sumfree iff every nonempty subsequence of T with sum in ⟨h⟩ sums into {h,…,(j−1)h}.
+- **CLM-0354 PROGRAMME_PROVED (FOUNDATION).** Every h of order m in C_n^r is (n/m)·u with u of order n, so G/⟨dh⟩ ≅ C_{nd/m} ⊕ C_n^{r−1}.
+- **CLM-0355 PROGRAMME_PROVED.** Multiplicity-defect transfer. If v_h(S) = m−j and d | m with d ≥ j, then S yields a zero-sumfree sequence of length |S|−m+d over C_{nd/m} ⊕ C_n ⊕ C_n. So for |S| = 3n−2 the case is excluded whenever that group has D = D* and n+1+d > m+nd/m.
+- **CLM-0356 SOURCE_STATED (SRC-0005).** D(C2 ⊕ C2m ⊕ C2mn) = 2m+2mn (Girard–Schmid Theorem 2.7, recalled). In particular D(C2 ⊕ C20 ⊕ C20) = 40.
+- **CLM-0357 PROGRAMME_PROVED, conditional on CLM-0352 and CLM-0356.** A zero-sumfree 58-term sequence over C20³ has order-20 multiplicities ≤ 17 and order-10 multiplicities ≤ 8, and at least 4 distinct values.
+
+[S107 note](../research/S107_SATURATION_FALLBACK_MULTIPLICITY_DEFECT_TRANSFER.md). Claims 352→357. The S106 multiplicity-(n−2) case is closed at n=20 only. The n15 analogue needs D*(C3⊕C15⊕C15) or D*(C5⊕C15⊕C15), both unknown. There is no SAT20/SAT15 or D-value statement.

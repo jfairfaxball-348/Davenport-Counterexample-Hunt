@@ -692,5 +692,15 @@
     ],
     "purpose": "S106 rank-two Davenport statement for the multiplicity-quotient lemmas",
     "review": "INTERNAL"
+  },
+  "s107_audit": {
+    "original_source_records_preserved": 29,
+    "new_records": [],
+    "access_promotions": 0,
+    "inspections": [
+      "SRC-0005 (STATEMENT_INSPECTED unchanged): arXiv:1806.07636v2 recalled Theorem 2.7 'D(C2 + C2m + C2mn) = 2m + 2mn' and introduction 'when n1 = 2, the Davenport constant is known' inspected 2026-10-17; supports CLM-0356; record itself left byte-unchanged"
+    ],
+    "purpose": "S107 multiplicity-defect transfer to C2+C20+C20",
+    "review": "INTERNAL"
   }
 }

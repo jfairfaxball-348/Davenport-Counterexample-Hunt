@@ -533,7 +533,8 @@ R1-ILS-1.0 ran 1.2 million moves per target and never left length 3n−3 upwards
 
 **Process note:** the pre-registered 7200 s walltime cap was far above actual need (≤1313 s), so the round finished complete. Round-2 budget sizing used only component timings on fixed inputs, so that no unregistered target-group run took place.
 
-**Hash note:** Python text-mode writes on Windows produce CRLF, and Git Bash `grep -c $''` reported 0 CRs on such files. Always hash the staged blob (`git cat-file -p :path | sha256sum`) as well as the working file before recording a log hash.
+**Hash note:** Python text-mode writes on Windows produce CRLF, and Git Bash `grep -c $'
+'` reported 0 CRs on such files. Always hash the staged blob (`git cat-file -p :path | sha256sum`) as well as the working file before recording a log hash.
 
 ## S105 — Pre-registration hash computed with the wrong types
 
@@ -546,3 +547,9 @@ Two methods that differ materially — random ruin/regrow, and exact neighbourho
 ## S106 — The multiplicity-(n−2) case is not closed by counting disjoint zero-sums
 
 CLM-0351 forces every zero-sum subsequence of the 2n-term C_n² image to lift to the same sum g and to pairwise intersect. A counting argument through the 2-wise rank-two constant (3n−1, cited, not inspected) cannot exclude a 2n-term image. **Lesson:** the next attempt must use the *equal-lift* condition (all zero-sum subsequences have the same G-sum g), not only disjointness. For example, compare two different minimal zero-sum subsequences U, V of π(T) with σ(U)=σ(V)=g, and use the rank-two structure of the (2n−2)-term zero-sumfree complements.
+
+## S107 — Off-by-one slips in the conditional caps, caught before commit
+
+The first draft of the n=20/n=15 conditional caps counted only j ≤ 3, where the transfer inequality allows every j ≤ d. That understated several caps: for example "16" instead of 15 under D*(C4 ⊕ C20 ⊕ C20). A mechanical recomputation from the inequality caught and fixed this before commit. **Lesson:** derive tabulated numerical consequences mechanically from the proved inequality, never by hand.
+
+**Status of the S106 lesson:** the equal-lift idea was not needed. Passing to G/⟨dh⟩ turns the "sum must be exactly h" condition into zero-sumfreeness in a smaller rank-three group, and that settles the n=20 case wherever the smaller group's Davenport constant is known.

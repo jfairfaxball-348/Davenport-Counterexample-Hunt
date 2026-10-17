@@ -340,3 +340,7 @@ No frontier row changed. Round-2 HEURISTIC search (CAM-0004/0005) again attained
 ## S106 note — 17 October 2026
 
 No frontier row changed. CLM-0350 (conditional on the SOURCE_STATED rank-two value) restricts any hypothetical zero-sumfree 43-term sequence in C15³, or 58-term sequence in C20³, to multiplicities ≤ 13 resp. ≤ 18. This is a structural restriction, not a bound change. SRC-0030 was rechecked: rank three is still recorded as open.
+
+## S107 note — 17 October 2026
+
+No frontier row changed. CLM-0357 (conditional on SOURCE_STATED CLM-0352/0356) caps the multiplicities of any hypothetical zero-sumfree 58-term sequence in C20³: at most 17 at order-20 elements and at most 8 at order-10 elements. This is a structural restriction, not a bound change.
