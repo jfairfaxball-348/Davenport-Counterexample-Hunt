@@ -440,3 +440,13 @@ First active SEARCH_FIRST session. Entry was main `eec2f529c3c5fe5cb71a27eb83d52
 - CLM-0347 PROGRAMME_PROVED (two-term extension criterion). Claims 346→347.
 
 Counters: setup 1, active search sessions 1, completed rounds 1. Fallback trigger not met. [Results](../research/S104_ROUND1_RESULTS_AND_ROUND2_PREREGISTRATION.md) · [review](../sessions/S104/REVIEW.md) · [closeout](../sessions/S104/CLOSEOUT.md).
+
+## S105 — 17 October 2026
+
+Second active SEARCH_FIRST session; it closed the search via the fallback trigger. Entry was main `35ee471d8f48d6e183c10916ab8b2fd006148497`, tree `b3f30c6b4325d351155707547811d910311a20c1` (S104 merge #108).
+- Pre-activation: pinned code SHA-256s match, `test_zsf.py` and `preflight_lns.py` PASS, and the Python/numpy versions are the registered ones.
+- Round 2 executed: CAM-0004 (n15 L43) and CAM-0005 (n20 L58), R2-LNS-1.0, 12 workers × 1200 iterations. All ended BUDGET_EXHAUSTED in 202–446 s. Best length 42 / 57, two-checker zero-sumfree. No hit, no candidate.
+- Disclosed defect: the S104 parameter hashes used an int walltime. The logged parameters equal the registered values exactly.
+- The fallback trigger is MET, and the priority is SATURATION_FALLBACK. The experimental closeout was written. No new claim (347).
+
+Counters: setup 1, active search sessions 2, completed rounds 2. [Closeout](../research/S105_SEARCH_FIRST_EXPERIMENTAL_CLOSEOUT.md) · [review](../sessions/S105/REVIEW.md) · [session closeout](../sessions/S105/CLOSEOUT.md).

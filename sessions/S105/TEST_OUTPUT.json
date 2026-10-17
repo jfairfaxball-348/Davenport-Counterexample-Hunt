@@ -1,0 +1,137 @@
+{
+ "duplicates_and_inverses": "PASS",
+ "empty_sequence": "PASS",
+ "exhaustive_small_groups": {
+  "2x2x2": {
+   "D": 4,
+   "dfs_nodes": 57,
+   "expected_Dstar": 4,
+   "max_zsf_len": 3,
+   "seconds": 0.0
+  },
+  "2x2x4": {
+   "D": 6,
+   "dfs_nodes": 2769,
+   "expected_Dstar": 6,
+   "max_zsf_len": 5,
+   "seconds": 0.05
+  },
+  "2x4": {
+   "D": 5,
+   "dfs_nodes": 95,
+   "expected_Dstar": 5,
+   "max_zsf_len": 4,
+   "seconds": 0.0
+  },
+  "3x3": {
+   "D": 5,
+   "dfs_nodes": 185,
+   "expected_Dstar": 5,
+   "max_zsf_len": 4,
+   "seconds": 0.0
+  },
+  "3x3x3": {
+   "D": 7,
+   "dfs_nodes": 138425,
+   "expected_Dstar": 7,
+   "max_zsf_len": 6,
+   "seconds": 3.17
+  },
+  "4x4": {
+   "D": 7,
+   "dfs_nodes": 4123,
+   "expected_Dstar": 7,
+   "max_zsf_len": 6,
+   "seconds": 0.06
+  }
+ },
+ "modular_wraparound": "PASS",
+ "oracle_rollback_n15": {
+  "final_len": 10,
+  "pushes": 1386,
+  "seed": 11,
+  "status": "PASS",
+  "steps": 4000
+ },
+ "oracle_rollback_n20": {
+  "final_len": 13,
+  "pushes": 1415,
+  "seed": 11,
+  "status": "PASS",
+  "steps": 4000
+ },
+ "overall": "PASS",
+ "random_vs_bruteforce": {
+  "15x15x15": {
+   "agree_A_B_brute": true,
+   "seed": 6,
+   "trials": 200,
+   "zero_sumfree": 187
+  },
+  "20x20x20": {
+   "agree_A_B_brute": true,
+   "seed": 7,
+   "trials": 200,
+   "zero_sumfree": 195
+  },
+  "2x2x2": {
+   "agree_A_B_brute": true,
+   "seed": 1,
+   "trials": 400,
+   "zero_sumfree": 148
+  },
+  "2x4x8": {
+   "agree_A_B_brute": true,
+   "seed": 8,
+   "trials": 300,
+   "zero_sumfree": 163
+  },
+  "3x3x3": {
+   "agree_A_B_brute": true,
+   "seed": 2,
+   "trials": 400,
+   "zero_sumfree": 191
+  },
+  "4x4x4": {
+   "agree_A_B_brute": true,
+   "seed": 3,
+   "trials": 300,
+   "zero_sumfree": 154
+  },
+  "5x5x5": {
+   "agree_A_B_brute": true,
+   "seed": 4,
+   "trials": 300,
+   "zero_sumfree": 159
+  },
+  "6x6x6": {
+   "agree_A_B_brute": true,
+   "seed": 5,
+   "trials": 200,
+   "zero_sumfree": 108
+  }
+ },
+ "standard_sequence": {
+  "15": {
+   "group_order": 3375,
+   "length": 42,
+   "seconds_A": 0.0004,
+   "seconds_B": 0.1857,
+   "sigma_size_A": 3375,
+   "sigma_size_B": 3375,
+   "zero_sumfree_A": true,
+   "zero_sumfree_B": true
+  },
+  "20": {
+   "group_order": 8000,
+   "length": 57,
+   "seconds_A": 0.0007,
+   "seconds_B": 0.6531,
+   "sigma_size_A": 8000,
+   "sigma_size_B": 8000,
+   "zero_sumfree_A": true,
+   "zero_sumfree_B": true
+  }
+ },
+ "zero_element": "PASS"
+}

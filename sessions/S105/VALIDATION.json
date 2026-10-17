@@ -1,0 +1,16 @@
+{
+  "session": "S105",
+  "validator": "validation/validate_s105.py",
+  "entry_main": "35ee471d8f48d6e183c10916ab8b2fd006148497",
+  "kind": "administrative consistency + standalone two-checker recheck of round-2 best sequences + parameter value/hash reconciliation; NOT certification",
+  "result": {
+    "unchanged_vs_entry": "claims(347), sources(32), frontier.json, CAM-0004/0005 preregistrations, round-1 results, R2 engine",
+    "CAM-0004": "6 workers BUDGET_EXHAUSTED, best 42, params equal registered values, logs hash-matched, A/B rechecked",
+    "CAM-0005": "6 workers BUDGET_EXHAUSTED, best 57, params equal registered values, logs hash-matched, A/B rechecked",
+    "state": "consistent; priority SATURATION_FALLBACK",
+    "tests": "PASS; preflight identical to S104",
+    "candidates_dir": "README only",
+    "overall": "PASS"
+  },
+  "ci": "ABSENT_NOT_PASS"
+}

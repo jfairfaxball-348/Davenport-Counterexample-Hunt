@@ -5,7 +5,7 @@
 | Phase 0 governance | PASS | S001 2026-10-10 | Required spine and provenance categories created; JSON structurally constructed |
 | Phase 1 frontier | IN_PROGRESS (SCOPED PASS n15/n20 search targets, S103) | S029 2026-10-12; S103 2026-10-16 | Universal prime Property C CLM-0111, historical eta(C7³)≤116 CLM-0112 proved; other source gates open, CAM-0001 blocked. |
 | Phase 2 tooling | SCOPED PASS (extended S104: R2-LNS-1.0) | S103 2026-10-16; S104 2026-10-17 | Exact zero-sumfree checkers A/B (algorithmically distinct, same executor), brute reference, R1 and R2 heuristic engines; NOT exhaustive/SAT/Lean tooling |
-| Phase 3 campaigns | ACTIVE (round 1 executed S104) | S103 2026-10-16; S104 2026-10-17 | CAM-0002/0003 round 1 HEURISTIC executed in S104 (see registry for actual status); CAM-0004/0005 round 2 PREREGISTERED for S105; CAM-0001 still BLOCKED |
+| Phase 3 campaigns | ROUNDS 1–2 COMPLETED; SEARCH CLOSED (fallback trigger) | S103 2026-10-16; S104 2026-10-17; S105 2026-10-17 | CAM-0002/0003 (R1, S104) and CAM-0004/0005 (R2, S105) HEURISTIC, all BUDGET_EXHAUSTED, no hit; none active or preregistered; CAM-0001 still BLOCKED |
 | Phase 4 result certification | OWNER_GATED | — | No candidate, Lean proof or cold check |
 
 **Phase-0 PASS scope:** governance construction only; it does not certify a mathematical case or numerical orbit count.
@@ -423,3 +423,9 @@ Phase 4 remains OWNER_GATED. Hosted CI is absent (ABSENT_NOT_PASS). The review i
 **Phase 3: round 1 COMPLETED.** CAM-0002/0003 executed after re-verification of pinned code hashes, tests and versions. 12/12 workers BUDGET_EXHAUSTED, no truncation, no crash, no hit. CAM-0004/0005 round 2 PREREGISTERED; activation from S105 once this commit is on main.
 
 Phase 4 remains OWNER_GATED. Hosted CI is absent (ABSENT_NOT_PASS). The review is INTERNAL_SAME_EXECUTOR.
+
+## S105 gates — 17 October 2026
+
+**Phase 3: rounds 1 and 2 COMPLETED; search closed by the fallback trigger.** CAM-0004/0005 were executed after re-verifying the pinned code hashes, tests, pre-flight and versions. 12/12 workers ended BUDGET_EXHAUSTED, with no truncation, no crash and no hit. No campaign is active or pre-registered. The S104 parameter-hash defect (int vs float walltime) is disclosed; the parameter values were verified equal.
+
+Phase 1 stays SCOPED PASS for the search targets, with the general frontier IN_PROGRESS. Phase 2 stays SCOPED PASS (checkers, R1, R2); no exhaustive, SAT or Lean tooling exists. Phase 4 is OWNER_GATED. CI is ABSENT_NOT_PASS. The review is INTERNAL_SAME_EXECUTOR.
