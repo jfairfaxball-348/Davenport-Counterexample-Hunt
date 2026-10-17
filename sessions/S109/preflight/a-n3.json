@@ -1,0 +1,21 @@
+{
+ "algorithm": "A",
+ "n": 3,
+ "shard": 0,
+ "nshards": 1,
+ "components": {
+  "3": 1210
+ },
+ "reps_first_component": 39,
+ "pairs_evaluated": 39,
+ "max_length": 6,
+ "histogram": {
+  "6": 39
+ },
+ "seconds": 3.3,
+ "orbits_at_or_above": {
+  "threshold": 0,
+  "count": 39,
+  "sha256": "e4c5b023f851a45530db5c14ee35fdd7ae80ed224b51ee10af30c75842c2989c"
+ }
+}

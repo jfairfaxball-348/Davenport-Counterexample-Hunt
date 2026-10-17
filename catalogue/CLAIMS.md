@@ -1773,3 +1773,13 @@ CLM-0344 **INTERNAL SAME_EXECUTOR true original q-GROUP proof**: five exceptiona
 - **CLM-0360 PROGRAMME_PROVED.** For every ρ ∈ K of order n: Σ_{ρ_i≠0}(n−1−α_i) ≥ n−1.
 
 [S108 note](../research/S108_SATURATION_FALLBACK_SMALL_SUPPORT.md). Claims 357→360. The support-5 case is reduced to a finite rank-2 relation-module problem but is not decided. There is no SAT20/SAT15 or D-value statement.
+
+## S109 — 17 October 2026 (support-5 exhaustive tooling)
+
+- **CLM-0361 PROGRAMME_PROVED.** Reduction to generating labelled 5-lists. Support-≤5 maxima are maxima of OPT(K) over free rank-2 summands K of (Z/n)^5.
+- **CLM-0362 PROGRAMME_PROVED.** CRT decomposition of K.
+- **CLM-0363 PROGRAMME_PROVED.** Local graph form, and the count p^{6(k−1)}·[5 choose 2]_p.
+- **CLM-0364 PROGRAMME_PROVED.** S₅ symmetry and representative enumeration.
+- **CLM-0365 COMPUTED_EXACT.** For n ∈ {2,3,4,5,6,7,10,12}, the maximum support-≤5 zero-sumfree length over C_n³ is exactly 3n−3, by two independent exhaustive algorithms.
+
+[S109 note](../research/S109_SUPPORT5_EXHAUSTIVE_TOOLING.md). Claims 360→365. CAM-0006/0007 are pre-registered and not run. There is no n15/n20 statement.

@@ -348,3 +348,7 @@ No frontier row changed. CLM-0357 (conditional on SOURCE_STATED CLM-0352/0356) c
 ## S108 note — 17 October 2026
 
 No frontier row changed. CLM-0359 (unconditional) shows that any hypothetical zero-sumfree 43-term sequence in C15³, or 58-term sequence in C20³, has at least 5 distinct values. This is a structural restriction, not a bound change.
+
+## S109 note — 17 October 2026
+
+No frontier row changed. CAM-0006/0007 (support-≤5 exhaustive, n15/n20) are pre-registered and not run. The settled-group computation CLM-0365 is consistent with the known values for n ≤ 7, 10 and 12.

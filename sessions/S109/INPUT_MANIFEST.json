@@ -1,0 +1,21 @@
+{
+ "session": "S109",
+ "date": "2026-10-17",
+ "owner_invocation": "Start s109",
+ "owner_invocation_SHA256": "NOT_CLAIMED_NO_RAW_BYTE_STREAM",
+ "entry_main": "b70c5b113579a653011e78393cc8942f98e73240",
+ "entry_true_git_root_tree": "ef42e40653da471b0d3031ee45ac2efd0cb98781",
+ "entry_merge_parents": [
+  "2538f5cc29db2e1d924c64c39d887a63c1f77712",
+  "977dac0dbcaa25197b7cc2a4e5fa65c81b399d6a"
+ ],
+ "entry_prompt_blob": "0e0775b03ae2a73ac4846d28675f76e6a78c148a",
+ "sources_original": 29,
+ "sources_total_at_entry": 34,
+ "frontier_original_rows": 30,
+ "claims_before": 360,
+ "hosted_workflow_runs_at_entry": 0,
+ "hosted_checkruns_at_entry": 0,
+ "branch_protection_api": "BRANCH_NOT_PROTECTED",
+ "open_prs_at_entry": 0
+}

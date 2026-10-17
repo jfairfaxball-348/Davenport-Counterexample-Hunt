@@ -39,3 +39,9 @@ Environment: Python 3.12.10, numpy 1.26.4, Windows 11, i7-11800H (16 logical CPU
   - For each tested support it computes the maximum zero-sumfree length by brute force over multiplicity vectors, using the kernel criterion, and cross-checks with checkers A/B.
   - It also checks every 4-value support in C2³ and C3³ exhaustively.
   - It takes about 15 s and writes `sessions/S108/SMALL_SUPPORT_TESTS.json`.
+
+## S109 — support-≤5 exhaustive tools (Phase-2 extension)
+
+- `support5_a.py` (algorithm A) and `support5_b.py` (algorithm B): two independent exhaustive tools. Each computes the exact maximum zero-sumfree length over C_n³ for sequences with at most 5 distinct values, over all free rank-2 relation modules up to S₅. See CLM-0361..0364.
+- **Options:** `--shard k --nshards N`, `--threshold`, `--report-keys-at`, and `--checkpoint` (JSONL).
+- **Pre-flight:** `sessions/S109/PREFLIGHT_SUMMARY.json`. The hashes are pinned in CAM-0006/0007.
