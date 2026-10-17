@@ -491,3 +491,15 @@ SATURATION_FALLBACK session 3. Entry was main `9073184067b0820ebef1e72a0e589b338
 - **Tests:** independent exact tests on n ≤ 10 PASS. Claims 357→360.
 
 Search counters frozen; fallback sessions 3. The search-reopen condition is not met. An exhaustive support-5 campaign is an owner decision. [Note](../research/S108_SATURATION_FALLBACK_SMALL_SUPPORT.md) · [review](../sessions/S108/REVIEW.md) · [closeout](../sessions/S108/CLOSEOUT.md).
+
+## S109 — 17 October 2026
+
+SATURATION_FALLBACK session 4, the owner-authorised support-5 track. Entry was main `b70c5b113579a653011e78393cc8942f98e73240`, tree `ef42e40653da471b0d3031ee45ac2efd0cb98781` (governance merge #114 after S108 #113).
+- **Proofs:** CLM-0361..0364, the reductions behind the enumeration.
+- **Tools:** two independent exhaustive tools, `tools/zsf/support5_a.py` (branch and bound) and `support5_b.py` (dense DP), with sharding and checkpoints.
+- **Settled pre-flight** (CLM-0365, COMPUTED_EXACT): both algorithms give maximum support-≤5 length 3n−3 for n ∈ {2..7, 10, 12}. Orbit sets agree for n ≤ 7, and nothing reaches 3n−2 at n = 10, 12.
+- **Gate:** Phase-2 gate extended.
+- **Campaigns:** CAM-0006 (n15) and CAM-0007 (n20) PREREGISTERED. Estimated ≈ 72 CPU-h worst case. Not run.
+- Claims 360→365.
+
+[Note](../research/S109_SUPPORT5_EXHAUSTIVE_TOOLING.md) · [review](../sessions/S109/REVIEW.md) · [closeout](../sessions/S109/CLOSEOUT.md).

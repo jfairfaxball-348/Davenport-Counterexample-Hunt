@@ -1,0 +1,218 @@
+{
+ "code_sha256": {
+  "tools/zsf/support5_a.py": "41d37aa63767d3eb7767d55eb300eb01d7df34b84c5f99318b3a1bb857bd4279",
+  "tools/zsf/support5_b.py": "f2d06fe1db89a1dba886327504f936cbc94dcfbce127c44a1923a930cd48dc3a"
+ },
+ "python": "3.12.10",
+ "numpy": "1.26.4",
+ "settled_basis": {
+  "2": "CLM-0142",
+  "3": "CLM-0142",
+  "5": "CLM-0142",
+  "7": "CLM-0142",
+  "4": "Olson p-group (CLM-0003/frontier SOURCE_STATED)",
+  "6": "CLM-0064",
+  "10": "CLM-0065",
+  "12": "CLM-0066"
+ },
+ "runs": {
+  "2": {
+   "mode": "full orbit set (report-keys-at 0)",
+   "components": {
+    "2": 155
+   },
+   "A_reps_first": 10,
+   "B_reps_last": 10,
+   "A_pairs": 10,
+   "B_pairs": 10,
+   "max_length_A": 3,
+   "max_length_B": 3,
+   "orbits": 10,
+   "orbit_set_sha256_A": "f7389a762a1559b7679f96bbdbbcda0540aabac8b11112d7922a3540cbb2ca0e",
+   "orbit_set_sha256_B": "f7389a762a1559b7679f96bbdbbcda0540aabac8b11112d7922a3540cbb2ca0e",
+   "seconds_A": 0.23,
+   "seconds_B": 0.36
+  },
+  "3": {
+   "mode": "full orbit set (report-keys-at 0)",
+   "components": {
+    "3": 1210
+   },
+   "A_reps_first": 39,
+   "B_reps_last": 39,
+   "A_pairs": 39,
+   "B_pairs": 39,
+   "max_length_A": 6,
+   "max_length_B": 6,
+   "orbits": 39,
+   "orbit_set_sha256_A": "e4c5b023f851a45530db5c14ee35fdd7ae80ed224b51ee10af30c75842c2989c",
+   "orbit_set_sha256_B": "e4c5b023f851a45530db5c14ee35fdd7ae80ed224b51ee10af30c75842c2989c",
+   "seconds_A": 3.3,
+   "seconds_B": 4.83
+  },
+  "4": {
+   "mode": "full orbit set (report-keys-at 0)",
+   "components": {
+    "4": 9920
+   },
+   "A_reps_first": 205,
+   "B_reps_last": 205,
+   "A_pairs": 205,
+   "B_pairs": 205,
+   "max_length_A": 9,
+   "max_length_B": 9,
+   "orbits": 205,
+   "orbit_set_sha256_A": "0116763614da50e6dcdab1d18a4fc8704a4b4040a9086f867b806bc312bdc932",
+   "orbit_set_sha256_B": "0116763614da50e6dcdab1d18a4fc8704a4b4040a9086f867b806bc312bdc932",
+   "seconds_A": 27.0,
+   "seconds_B": 43.66
+  },
+  "5": {
+   "mode": "full orbit set (report-keys-at 0)",
+   "components": {
+    "5": 20306
+   },
+   "A_reps_first": 289,
+   "B_reps_last": 289,
+   "A_pairs": 289,
+   "B_pairs": 289,
+   "max_length_A": 12,
+   "max_length_B": 12,
+   "orbits": 289,
+   "orbit_set_sha256_A": "e036cc1dacb405ebb7a53ea17fcce5886580da57f0612750fbe864556409713b",
+   "orbit_set_sha256_B": "e036cc1dacb405ebb7a53ea17fcce5886580da57f0612750fbe864556409713b",
+   "seconds_A": 50.21,
+   "seconds_B": 70.2
+  },
+  "6": {
+   "mode": "full orbit set (report-keys-at 0)",
+   "components": {
+    "2": 155,
+    "3": 1210
+   },
+   "A_reps_first": 10,
+   "B_reps_last": 39,
+   "A_pairs": 12100,
+   "B_pairs": 6045,
+   "max_length_A": 15,
+   "max_length_B": 15,
+   "orbits": 2368,
+   "orbit_set_sha256_A": "adacfc5720cb44c0f516e9e84e7304ddb31da63876a31e54e558f38c911ee03f",
+   "orbit_set_sha256_B": "adacfc5720cb44c0f516e9e84e7304ddb31da63876a31e54e558f38c911ee03f",
+   "seconds_A": 46.08,
+   "seconds_B": 19.28
+  },
+  "7": {
+   "mode": "full orbit set (report-keys-at 0)",
+   "components": {
+    "7": 140050
+   },
+   "A_reps_first": 1538,
+   "B_reps_last": 1538,
+   "A_pairs": 1538,
+   "B_pairs": 1538,
+   "max_length_A": 18,
+   "max_length_B": 18,
+   "orbits": 1538,
+   "orbit_set_sha256_A": "5f78024f42f458637cb7fcc433e3f236988f078a028e184bd2e00993ef2c00fc",
+   "orbit_set_sha256_B": "5f78024f42f458637cb7fcc433e3f236988f078a028e184bd2e00993ef2c00fc",
+   "seconds_A": 234.57,
+   "seconds_B": 434.12
+  },
+  "10": {
+   "mode": "campaign-style: threshold 28, 4 shards, checkpoints",
+   "A": {
+    "components": {
+     "2": 155,
+     "5": 20306
+    },
+    "pairs_total": 203060,
+    "max_length": 27,
+    "at_or_above_threshold": 0,
+    "histogram": {
+     "19": 33,
+     "23": 9324,
+     "27": 193703
+    },
+    "shard_seconds": [
+     631.85,
+     628.97,
+     617.45,
+     632.8
+    ]
+   },
+   "B": {
+    "components": {
+     "2": 155,
+     "5": 20306
+    },
+    "pairs_total": 44795,
+    "max_length": 27,
+    "at_or_above_threshold": 0,
+    "histogram": {
+     "19": 15,
+     "23": 2479,
+     "27": 42301
+    },
+    "shard_seconds": [
+     96.24,
+     95.86,
+     82.44,
+     95.74
+    ]
+   },
+   "optimum_value_sets_agree": true
+  },
+  "12": {
+   "mode": "campaign-style: threshold 34, 4 shards, checkpoints",
+   "A": {
+    "components": {
+     "4": 9920,
+     "3": 1210
+    },
+    "pairs_total": 248050,
+    "max_length": 33,
+    "at_or_above_threshold": 0,
+    "histogram": {
+     "21": 21,
+     "22": 117,
+     "23": 82,
+     "27": 6689,
+     "28": 18908,
+     "33": 222233
+    },
+    "shard_seconds": [
+     491.22,
+     468.52,
+     477.43,
+     470.91
+    ]
+   },
+   "B": {
+    "components": {
+     "4": 9920,
+     "3": 1210
+    },
+    "pairs_total": 386880,
+    "max_length": 33,
+    "at_or_above_threshold": 0,
+    "histogram": {
+     "21": 32,
+     "22": 348,
+     "23": 324,
+     "27": 11436,
+     "28": 36180,
+     "33": 338560
+    },
+    "shard_seconds": [
+     98.5,
+     116.66,
+     118.07,
+     97.91
+    ]
+   },
+   "optimum_value_sets_agree": true
+  }
+ },
+ "overall": "PASS: max support-<=5 zero-sumfree length = 3n-3 for n in {2,3,4,5,6,7,10,12} by both algorithms; full orbit sets agree for n<=7; no K with OPT >= 3n-2 at n=10,12"
+}

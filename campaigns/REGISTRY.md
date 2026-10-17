@@ -459,3 +459,14 @@ The full machine-readable record is [PREREGISTRATION.json](CAM-0005/PREREGISTRAT
 ## S105 — SEARCH_FIRST closed by the fallback trigger (17 October 2026)
 
 Two completed, materially different HEURISTIC rounds (CAM-0002/0003 R1, CAM-0004/0005 R2) produced no candidate at either target. The owner directive's two-round trigger is met and the priority is now SATURATION_FALLBACK. No campaign is active or pre-registered. A new search campaign requires an explicit owner directive or a substantive structural reason recorded as a claim, followed by a full pre-registration. [Experimental closeout](../research/S105_SEARCH_FIRST_EXPERIMENTAL_CLOSEOUT.md).
+
+## CAM-0006 / CAM-0007 — support-≤5 EXHAUSTIVE classification, n=15 (L43) / n=20 (L58) — PREREGISTERED / NOT ACTIVATED (S109, 2026-10-17)
+
+These are **owner-authorised** (2026-10-17, PR #114), with scope limited to the support-≤5 family. The full records are [CAM-0006](CAM-0006/PREREGISTRATION.json) and [CAM-0007](CAM-0007/PREREGISTRATION.json).
+- **Question:** is there a zero-sumfree sequence over C_n³ with at most 5 distinct values and length ≥ 3n−2?
+- **Reductions:** CLM-0361..0364. **Pre-flight:** CLM-0365.
+- **Algorithms:** two independent exhaustive implementations, `tools/zsf/support5_a.py` and `support5_b.py`. Expected pair counts: n15 A 791,934 / B 349,690; n20 A 4,162,730 / B 2,866,880.
+- **Budget:** 14 shards per algorithm, a 12 h walltime cap per shard, and an estimated ≈ 72 CPU-h in total.
+- **Completeness:** EXHAUSTIVE for this family only. The campaign is complete only when both algorithms reach full coverage; any truncation makes it PARTIAL, with no claim.
+- **Activation:** S110 at the earliest.
+- **A negative outcome** excludes only the support-≤5 family. It does not settle SAT20/SAT15.

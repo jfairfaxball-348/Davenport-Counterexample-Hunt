@@ -1,0 +1,15 @@
+{
+  "session": "S109",
+  "validator": "validation/validate_s109.py",
+  "entry_main": "b70c5b113579a653011e78393cc8942f98e73240",
+  "kind": "administrative consistency + preflight/prereg hash checks; NOT certification",
+  "result": {
+    "claims": "365; first 360 identical to entry",
+    "sources": "unchanged",
+    "prereg": "CAM-0006/0007 hashes match preflight code; not run",
+    "preflight": "PASS",
+    "state": "consistent",
+    "overall": "PASS"
+  },
+  "ci": "ABSENT_NOT_PASS"
+}

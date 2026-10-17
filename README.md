@@ -1,10 +1,17 @@
-# S108 checkpoint — 17 October 2026
+# S109 checkpoint — 17 October 2026
 
-**Priority: SATURATION_FALLBACK** (since S105). The search phase closed after two complete heuristic rounds reached only 3n−3; that is not a negative result. The open targets are D(C20³) = 58 (SAT20) and D(C15³) = 43 (SAT15).
+**Priority: SATURATION_FALLBACK**, plus an **owner-authorised support-5 exhaustive track**. The open targets are D(C20³) = 58 and D(C15³) = 43.
 
-**Fallback progress.** All results are elementary INTERNAL proofs, tested exactly on small groups, with no novelty claimed.
-- **S106:** order-n multiplicities ≤ n−2 in any counterexample (CLM-0350).
-- **S107:** the multiplicity-defect transfer (CLM-0355). At n=20, order-20 multiplicities ≤ 17 and order-10 multiplicities ≤ 8 (CLM-0357, conditional on two SOURCE_STATED values).
-- **S108:** an unconditional small-support bound (CLM-0359). A zero-sumfree sequence over C_n^r with at most r+1 distinct values has length ≤ r(n−1), so **any counterexample needs at least 5 distinct values**. The 5-value case is a finite rank-2 lattice problem. Whether to attack it by a pre-registered exhaustive computation is an owner decision.
+**Fallback results so far** (INTERNAL, elementary):
+- Order-n multiplicities ≤ n−2 (CLM-0350).
+- At n=20, order-20 multiplicities ≤ 17 and order-10 multiplicities ≤ 8 (CLM-0357, conditional).
+- **Any counterexample needs at least 5 distinct values** (CLM-0359, unconditional).
 
-Claims 360, sources 34 (original 29 untouched), 30 frontier rows untouched, CI ABSENT_NOT_PASS. [S108 note](research/S108_SATURATION_FALLBACK_SMALL_SUPPORT.md) · [S107 note](research/S107_SATURATION_FALLBACK_MULTIPLICITY_DEFECT_TRANSFER.md) · [S106 note](research/S106_SATURATION_FALLBACK_MULTIPLICITY_QUOTIENT.md) · [search closeout](research/S105_SEARCH_FIRST_EXPERIMENTAL_CLOSEOUT.md) · [review](sessions/S108/REVIEW.md) · [S109 FUTURE](authoritative/NEXT_SESSION_PROMPT.md).
+**S109** built the exhaustive track for the remaining 5-value case:
+- **Reductions:** proved (CLM-0361..0364).
+- **Tools:** two independent exhaustive algorithms.
+- **Pre-flight:** on settled groups, both give a maximum of exactly 3n−3 for n ∈ {2..7, 10, 12} (CLM-0365).
+- **Campaigns:** **CAM-0006 (n=15) and CAM-0007 (n=20) are pre-registered, not run.** S110 can activate them. The estimate is about 72 CPU-h worst case, or 5–6 h on 14 processes.
+- **Scope of the answer:** a negative answer would exclude only sequences with at most 5 distinct values.
+
+Claims 365, sources 34 (original 29 untouched), 30 frontier rows untouched, CI ABSENT_NOT_PASS. [S109 note](research/S109_SUPPORT5_EXHAUSTIVE_TOOLING.md) · [registry](campaigns/REGISTRY.md) · [review](sessions/S109/REVIEW.md) · [S110 FUTURE](authoritative/NEXT_SESSION_PROMPT.md).

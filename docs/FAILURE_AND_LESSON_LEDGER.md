@@ -560,3 +560,10 @@ The first draft of the n=20/n=15 conditional caps counted only j ≤ 3, where th
 2. **Counting.** The CLM-0359 counting argument is sharp at r+1 distinct values. At 5 values over C_n³ (|K| = n²) it gives only |S| ≤ 4n−5. The single-coordinate escape count ignores how the escapes of different ρ ∈ K interact. **Lesson:** support 5 needs either a two-dimensional (planar) refinement of the counting, or an exhaustive treatment of rank-2 relation modules.
 
 **Process note:** S107's single-commit / no-force rule was kept when a product name had to be removed from an archived quote. The fix was a fresh branch and a new PR, with the old PR closed unmerged; this changed the branch name recorded in the S107 closeout.
+
+## S109 — Escaped newlines, and a too-broad process kill avoided
+
+1. **Escaped newlines.** Python source inserted through a quoted heredoc turned `\n` escapes into real newlines and broke string literals in both tools. It was caught at compile time and repaired before any pre-flight result was recorded. **Lesson:** write multi-line code edits through files, not heredoc-embedded Python string escapes.
+2. **Process kill.** An attempted broad `taskkill` filter, used to stop an outdated pre-flight run, matched nothing. The four outdated processes were then identified by command line and stopped by PID. **Lesson:** never kill interpreter processes by image name on a shared machine; resolve PIDs by command line first.
+
+Superseded pre-flight outputs from the code before sharding were discarded. Every reported pre-flight value comes from the final, hash-pinned code.
