@@ -1,0 +1,16 @@
+{
+  "session": "S106",
+  "validator": "validation/validate_s106.py",
+  "entry_main": "7965795c7b948fbd670c7925bafb440e9b4cf124",
+  "kind": "administrative consistency + lemma test output check; NOT certification",
+  "result": {
+    "claims": "352; first 347 identical to entry; CLM-0348..0351 PROGRAMME_PROVED, CLM-0352 SOURCE_STATED",
+    "sources": "34; first 32 identical to entry",
+    "unchanged": "frontier.json, checkers, engines",
+    "lemma_tests": "PASS",
+    "state": "consistent",
+    "no_new_campaign_or_candidate": true,
+    "overall": "PASS"
+  },
+  "ci": "ABSENT_NOT_PASS"
+}

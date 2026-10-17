@@ -429,3 +429,7 @@ Phase 4 remains OWNER_GATED. Hosted CI is absent (ABSENT_NOT_PASS). The review i
 **Phase 3: rounds 1 and 2 COMPLETED; search closed by the fallback trigger.** CAM-0004/0005 were executed after re-verifying the pinned code hashes, tests, pre-flight and versions. 12/12 workers ended BUDGET_EXHAUSTED, with no truncation, no crash and no hit. No campaign is active or pre-registered. The S104 parameter-hash defect (int vs float walltime) is disclosed; the parameter values were verified equal.
 
 Phase 1 stays SCOPED PASS for the search targets, with the general frontier IN_PROGRESS. Phase 2 stays SCOPED PASS (checkers, R1, R2); no exhaustive, SAT or Lean tooling exists. Phase 4 is OWNER_GATED. CI is ABSENT_NOT_PASS. The review is INTERNAL_SAME_EXECUTOR.
+
+## S106 gates — 17 October 2026
+
+No gate change. Phase 3 search stays closed (SATURATION_FALLBACK). The exact lemma tests in `tools/zsf/test_quotient_lemmas.py` run on settled groups only (n ≤ 20 basis completions; random and exhaustive checks in (Z/n)³ for n ≤ 12). They are validation tests, not a search campaign, and no target-group search was run. Phase 4 is OWNER_GATED, CI is ABSENT_NOT_PASS, and the review is INTERNAL_SAME_EXECUTOR.

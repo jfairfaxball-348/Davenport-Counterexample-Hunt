@@ -336,3 +336,7 @@ No frontier row changed. Round-1 HEURISTIC search (CAM-0002/0003) attained only 
 ## S105 note — 17 October 2026
 
 No frontier row changed. Round-2 HEURISTIC search (CAM-0004/0005) again attained only 42 at n=15 and 57 at n=20. The SEARCH_FIRST phase is closed by the owner directive's fallback trigger. This is not a bound, an exclusion or an openness claim. frontier.json and all 30 ordered rows are untouched.
+
+## S106 note — 17 October 2026
+
+No frontier row changed. CLM-0350 (conditional on the SOURCE_STATED rank-two value) restricts any hypothetical zero-sumfree 43-term sequence in C15³, or 58-term sequence in C20³, to multiplicities ≤ 13 resp. ≤ 18. This is a structural restriction, not a bound change. SRC-0030 was rechecked: rank three is still recorded as open.

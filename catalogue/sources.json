@@ -295,6 +295,24 @@
       "access": "ABSTRACT_INSPECTED",
       "accessed": "2026-10-16",
       "notes": "Abstract (submitted 2026-10-10) states D(G) < 4.86 exp(G) log|G|/log exp(G) for all finite abelian G and D(G)~D*(G) for almost all G. No exact C15^3 / C20^3 value in abstract. Context only; not used as a premise."
+    },
+    {
+      "id": "SRC-0033",
+      "title": "D. J. Grynkiewicz, A Multiplicative Property for Zero-Sums II, Electron. J. Combin. 29(3) (2022) P3.12",
+      "year": "2022",
+      "url": "https://www.combinatorics.org/ojs/index.php/eljc/article/download/v29i3p12/pdf",
+      "access": "STATEMENT_INSPECTED",
+      "accessed": "2026-10-17",
+      "notes": "Inspected introduction text states D(C_n + C_mn) = mn+n-1 and eta(C_n + C_mn) = mn+2n-2 for rank at most two, citing Olson, van Emde Boas-Kruyswijk and Geroldinger-Halter-Koch Theorem 5.8.3. Used as SOURCE_STATED support for CLM-0352 only; the classical proofs were not re-inspected in S106."
+    },
+    {
+      "id": "SRC-0034",
+      "title": "A. Geroldinger, W. Yang, On a classical zero-sum invariant, arXiv:2608.19090",
+      "year": "2026",
+      "url": "https://arxiv.org/pdf/2608.19090",
+      "access": "STATEMENT_INSPECTED",
+      "accessed": "2026-10-17",
+      "notes": "Inspected text states d*(G) <= d(G), D*(G) <= D(G) = d(G)+1, 'Equality holds for p-groups and for groups with rank r <= 2.' Secondary support for CLM-0352; no rank-three statement used."
     }
   ],
   "s033_audit": {
@@ -660,6 +678,19 @@
     ],
     "access_promotions": 0,
     "purpose": "S103 search-target literature context check for n15/n20; no exact value found; absence is not an openness claim",
+    "review": "INTERNAL"
+  },
+  "s106_audit": {
+    "original_source_records_preserved": 29,
+    "new_records": [
+      "SRC-0033",
+      "SRC-0034"
+    ],
+    "access_promotions": 0,
+    "rechecked": [
+      "SRC-0030 (page dated 2026-09-26: rank three open, no exact n15/n20 value)"
+    ],
+    "purpose": "S106 rank-two Davenport statement for the multiplicity-quotient lemmas",
     "review": "INTERNAL"
   }
 }

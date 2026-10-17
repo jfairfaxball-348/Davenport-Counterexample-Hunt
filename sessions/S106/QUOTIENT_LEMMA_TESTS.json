@@ -1,0 +1,14 @@
+{
+ "clm0348_basis_completions_checked": 40567,
+ "clm0349_random_agreements": 1981,
+ "clm0351_random_agreements": 1892,
+ "clm0350_exhaustive_n3_max_T": {
+  "(1, 0, 0)": 4,
+  "(1, 1, 2)": 4
+ },
+ "clm0350_exhaustive_n4_max_T": {
+  "(1, 0, 0)": 6,
+  "(1, 1, 3)": 6
+ },
+ "overall": "PASS"
+}

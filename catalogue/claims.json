@@ -3506,6 +3506,58 @@
       "origin": "research/S104_ROUND1_RESULTS_AND_ROUND2_PREREGISTRATION.md",
       "source_ids": [],
       "notes": "S104 INTERNAL SAME_EXECUTOR elementary corollary of CLM-0345: T a b zsf iff a legal for T and b legal for T a; a legal b exists iff Sigma(T a) != G; |Sigma(T a)| = |Sigma(T)| + |(a+Sigma(T)) minus Sigma(T)|. Basis of the R2-LNS-1.0 exact k=1 neighbourhood decision; says nothing about D(C15^3) or D(C20^3)."
+    },
+    {
+      "id": "CLM-0348",
+      "statement": "Basis completion: in G=(Z/n)^r every g of order n is the first column of a matrix in GL_r(Z/n) (CRT gluing of local completions with determinant a unit); hence G = <g> + K with K iso (Z/n)^(r-1) and G/<g> iso (Z/n)^(r-1).",
+      "category": "FOUNDATION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S106_SATURATION_FALLBACK_MULTIPLICITY_QUOTIENT.md",
+      "source_ids": [],
+      "notes": "S106 INTERNAL SAME_EXECUTOR elementary hand proof; explicit construction checked for all 40567 order-n elements of (Z/n)^3, n=2..20 (sessions/S106/QUOTIENT_LEMMA_TESTS.json)."
+    },
+    {
+      "id": "CLM-0349",
+      "statement": "Quotient equivalence: for g of order m in a finite abelian group G and any sequence T over G, g^(m-1) T is zero-sumfree iff no nonempty subsequence of T has sum in <g>, i.e. iff the image of T in G/<g> is zero-sumfree.",
+      "category": "FOUNDATION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S106_SATURATION_FALLBACK_MULTIPLICITY_QUOTIENT.md",
+      "source_ids": [],
+      "notes": "S106 INTERNAL SAME_EXECUTOR elementary hand proof; 1981 random exact agreements in settled (Z/n)^3. Classical in spirit (cf. SRC-0004 METADATA_ONLY); no novelty claimed."
+    },
+    {
+      "id": "CLM-0350",
+      "statement": "Multiplicity cap: if S is zero-sumfree over C_n^3 and v_g(S)=n-1 for some g of order n, then |S| <= 3n-3. Hence every zero-sumfree (3n-2)-term sequence over C_n^3 has multiplicity at most n-2 at every element of order n; a hypothetical zero-sumfree 58-term sequence in C20^3 (43-term in C15^3) has all multiplicities <= 18 (<= 13).",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S106_SATURATION_FALLBACK_MULTIPLICITY_QUOTIENT.md",
+      "source_ids": [
+        "SRC-0033",
+        "SRC-0034"
+      ],
+      "notes": "CONDITIONAL on SOURCE_STATED CLM-0352 (rank-two D(C_n^2)=2n-1) via CLM-0348/0349. Exhaustive instance check n=3,4 (max |T| = 2n-2). Explains the R1 plateau states with a value of multiplicity n-1; not evidence for SAT20/SAT15."
+    },
+    {
+      "id": "CLM-0351",
+      "statement": "Multiplicity m-2 criterion: for g of order m>=3 and any sequence T, g^(m-2) T is zero-sumfree iff every nonempty subsequence of T with sum in <g> has sum exactly g. Corollary: then no two disjoint nonempty subsequences of T have sums in <g>.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S106_SATURATION_FALLBACK_MULTIPLICITY_QUOTIENT.md",
+      "source_ids": [],
+      "notes": "S106 INTERNAL SAME_EXECUTOR hand proof; 1892 random exact agreements. For a hypothetical (3n-2)-term zero-sumfree S over C_n^3 with v_g(S)=n-2 it forces all zero-sum subsequences of the 2n-term C_n^2 image to lift to sum g and pairwise intersect; this alone does NOT exclude the case (2-wise rank-two constant 3n-1 > 2n, cited not inspected)."
+    },
+    {
+      "id": "CLM-0352",
+      "statement": "Rank two: D(C_n + C_mn) = mn+n-1; in particular D(C_n^2)=2n-1 and every zero-sumfree sequence over C_n^2 has length at most 2n-2.",
+      "category": "LITERATURE",
+      "status": "SOURCE_STATED",
+      "origin": "catalogue/sources.json SRC-0033, SRC-0034",
+      "source_ids": [
+        "SRC-0033",
+        "SRC-0034",
+        "SRC-0027"
+      ],
+      "notes": "Statement inspected in SRC-0033 and SRC-0034 (citing Olson 1969 and van Emde Boas-Kruyswijk 1969); original proofs not re-inspected in S106. A literature statement, not a programme proof."
     }
   ]
 }

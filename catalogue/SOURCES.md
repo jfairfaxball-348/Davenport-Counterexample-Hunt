@@ -521,3 +521,17 @@ Year: 2026. Access: **ABSTRACT_INSPECTED** (2026-10-16). [Abstract](https://arxi
 The abstract states D(G) < 4.86·exp(G)·log|G|/log exp(G) and D(G)~D*(G) for almost all G. It gives no exact C15³/C20³ value. Context only.
 
 **S103 source note.** These three records were added for the search-target literature context check. The original 29 source records are unchanged, and no access was promoted. Not finding an exact n15/n20 value is not a claim that the problem is open.
+
+## SRC-0033 — D. J. Grynkiewicz, A Multiplicative Property for Zero-Sums II, Electron. J. Combin. 29(3) (2022) P3.12
+
+Year: 2022. Access: **STATEMENT_INSPECTED** (2026-10-17). [Article PDF](https://www.combinatorics.org/ojs/index.php/eljc/article/download/v29i3p12/pdf)
+
+The inspected introduction states D(C_n ⊕ C_mn) = mn+n−1 and η(C_n ⊕ C_mn) = mn+2n−2 for rank at most two, citing Olson, van Emde Boas–Kruyswijk and Geroldinger–Halter-Koch Theorem 5.8.3. It supports CLM-0352 only.
+
+## SRC-0034 — A. Geroldinger, W. Yang, On a classical zero-sum invariant, arXiv:2608.19090
+
+Year: 2026. Access: **STATEMENT_INSPECTED** (2026-10-17). [PDF](https://arxiv.org/pdf/2608.19090)
+
+The inspected text states d*(G) ≤ d(G), with equality for p-groups and for groups of rank at most two. It is secondary support for CLM-0352.
+
+**S106 source note.** Two records were added for the rank-two statement used by CLM-0350. SRC-0030 was rechecked (page dated 2026-09-26): rank three is still recorded as open, with no exact n15/n20 value. The original 29 records are unchanged, and no access was promoted.
