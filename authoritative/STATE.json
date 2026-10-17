@@ -30,8 +30,8 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S105",
-  "recommended_next_session": "S106",
+  "last_completed_session": "S106",
+  "recommended_next_session": "S107",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": [
@@ -40,7 +40,7 @@
   ],
   "phase1_target_status": "SEARCH_TARGETS_N15_L43_N20_L58_SCOPED_PASS; CAM-0002/CAM-0003 PREREGISTERED_NOT_ACTIVATED",
   "open_blockers": [
-    "S105: no blocker. SEARCH_FIRST closed by the two-round fallback trigger; SATURATION_FALLBACK is the priority. Lean 4 certificate pipeline, symmetry-reduced exhaustive tooling and SAT/DRAT tooling NOT built; no EXHAUSTIVE or negative claim possible until separately gated.",
+    "S106: no blocker. SATURATION_FALLBACK priority; search closed (reopen only on owner directive or claim-backed structural reduction). Lean 4, symmetry-reduced exhaustive and SAT/DRAT tooling NOT built.",
     "S102 CLM-0344 INTERNAL genuine original q-GROUP disjoint axial U* exclusion: exactly five exceptional z^4(z+2) flats with ordinary colours >=3 distinct (4 distinct OR 2+1+1), even when a V is flat, impossible. Four-distinct: four exterior h=(4,4,6), real U* k=(6,6,4); 2+1+1: two exterior h=(2,2,9), k=(8,8,1). Each produces literal proper original zero, no V/Fano overlap. Remaining 2+2/3+1/4 colours, uniform-five, <=4 flats, full12-other q cases, Fano2048, signed non-q splits, all U22/G59/G58/D20 OPEN; claims344, sources29/frontier30 frozen, Phase1 HOLD CAM BLOCKED CI ABSENT_NOT_PASS.",
     "HISTORICAL, PARTLY/WHOLLY SUPERSEDED FOR FIVE-FLAT >=3-COLOUR CLASSES BY S102 CLM-0344: S101 CLM-0343 INTERNAL exact physical Fano horizontal rescue for repeated A,A,B,C exceptional five-free-flat axial G20: for each same actual Fano t=0 needs empty-cut x1=1 or x2=1; t=1 forces horizontal K=(6-5(D+A)) by true e+three disjoint originals. For C3=3, three t1 lines share K; the one t0 requires (m1=1,C1=4) OR (m2=1,C2=4), and all three true V horizontal eta_i=(V_i/2 mod2)+r_i must coincide; violation gives literal original proper zero. In particular C3=3,D=A excluded. For C3=1,D=A, the three t0 horizontal Fano parity vectors must exhaust 01/10/11, forcing eta_i pairwise distinct; repeated eta excluded. All survivors, V-overlap, 2046/2048, signed multisplits, hubs, U22/G59/G58/D20 OPEN; source29/frontier30 frozen, Phase1 HOLD CAM BLOCKED CI ABSENT_NOT_PASS.",
     "HISTORICAL, PARTLY/WHOLLY SUPERSEDED FOR FIVE-FLAT >=3-COLOUR CLASSES BY S102 CLM-0344: S100 CLM-0342 INTERNAL original SAME Fano repeated-colour exclusion: exceptional axial five flat all physically FREE S/g original q singleton indices with ordinary horizontal colours A,A,B,C (A,B,C distinct). Real two-ordinary and exceptional+one/three disjoint Fano original E(U*) cuts force every SAME four Fano x third in {0,1}; C3=overline(V1+V2+V3)_3 odd can only be1 or3. Thus actual C3=5/7/9 has selectable genuine proper Fano+2/4 free-outsider+indexed complete-U original G20 zero. C3=1/3 repeated, V-overlap and all global 2046/2048/signed masks/hubs/arbitrary U22/G59/G58/D20 OPEN. Phase1 HOLD, CAM BLOCKED, CI ABSENT_NOT_PASS; 342 claims source29/frontier30 unchanged.",
@@ -97,6 +97,7 @@
   "gate_ledger": "docs/PHASE_GATE_LEDGER.md",
   "source_snapshot": "2026-10-12",
   "warnings": [
+    "S106: CLM-0350 is conditional on SOURCE_STATED CLM-0352 (rank-two D, statement inspected in SRC-0033/0034, classical proofs not re-inspected). Lemmas are elementary and INTERNAL SAME_EXECUTOR; no novelty claimed; multiplicity-(n-2) case open.",
     "S105: rounds 1 and 2 (HEURISTIC) both exhausted their budgets with best 3n-3 at n15/n20; this is NOT evidence of nonexistence and NOT a negative result. S104 round-2 parameter hashes were computed with int walltime (documentation defect, disclosed; run parameters verified equal by value).",
     "S104: round-1 CAM-0002/0003 exhausted their HEURISTIC budgets with best lengths 42/57 = 3n-3; this is NOT evidence of nonexistence and NOT a negative result. All gates and checks INTERNAL_SAME_EXECUTOR; CI ABSENT_NOT_PASS.",
     "S103: Phase1/Phase2 PASS are SCOPED (n15/n20 search targets; exact checkers + heuristic R1 engine) and INTERNAL_SAME_EXECUTOR. Checkers A/B are algorithmically distinct but same author. No n15/n20 search was run; no rate, maximum length or candidate exists for the targets. Exhausting a HEURISTIC budget is never a nonexistence result.",
@@ -387,7 +388,7 @@
     "owner_blocker": false,
     "historical_dependency_reconciled": "S004 CLM-0068 / S005 sufficient conditional base5p-2 bypass restored and strengthened one position"
   },
-  "current_research_priority": "SATURATION_FALLBACK (switched in S105 by the owner directive's two-round trigger). Statement (OPEN): every zero-sumfree 57-term sequence in C20^3 has Sigma = G (equivalently no zero-sumfree 58-term sequence, i.e. D(C20^3)=58 by CLM-0038); n15 analogue length-42 saturation. S106 is fallback session 1.",
+  "current_research_priority": "SATURATION_FALLBACK (since S105). S106 fallback session 1: CLM-0348..0352 multiplicity-quotient lemmas; any zero-sumfree (3n-2)-term sequence over C_n^3 has every order-n multiplicity <= n-2 (conditional on SOURCE_STATED rank-two D). SAT20/SAT15 OPEN. S107 continues: the multiplicity-(n-2) equal-lift case.",
   "s040_result": {
     "claims": [
       "CLM-0148",
@@ -1830,8 +1831,8 @@
     "fallback_priority": "SATURATION_FALLBACK",
     "fallback_statement": "For every zero-sumfree 57-term indexed sequence in C20^3, subset sums including empty equal the full group, equivalently no zero-sumfree 58-term sequence exists.",
     "superseded_target": "S103 exceptional five-flat colour subclass continuation",
-    "next_session": "S106_FUTURE_UNEXECUTED",
-    "last_completed": "S105",
+    "next_session": "S107_FUTURE_UNEXECUTED",
+    "last_completed": "S106",
     "proof_gate": "PHASE1_SCOPED_PASS; PHASE2_SCOPED_PASS (R1, R2 engines); PHASE3 rounds 1-2 COMPLETED, search closed",
     "original_campaign": "CAM-0001_PROPOSED_NOT_RUNNING_BLOCKED (obsolete n6, not reactivated)",
     "comment": "S105 active search session 2: round 2 executed on both targets, complete; fallback trigger met; priority SATURATION_FALLBACK.",
@@ -1892,7 +1893,13 @@
     },
     "priority_switched_in": "S105",
     "priority_switch_date": "2026-10-17",
-    "search_reopen_condition": "explicit owner directive, or a substantive structural reason recorded as a claim followed by a full preregistration; R1/R2 parameter tweaks do not qualify"
+    "search_reopen_condition": "explicit owner directive, or a substantive structural reason recorded as a claim followed by a full preregistration; R1/R2 parameter tweaks do not qualify",
+    "number_of_fallback_sessions": 1,
+    "fallback_sessions": [
+      "S106"
+    ],
+    "fallback_progress": "CLM-0348..0351 PROGRAMME_PROVED (CLM-0350 conditional on SOURCE_STATED CLM-0352): multiplicity cap n-2 for any zero-sumfree (3n-2)-term sequence over C_n^3; multiplicity-(n-2) case reduced to an equal-lift condition on a 2n-term C_n^2 image (open).",
+    "search_reopen_condition_met": false
   },
   "campaigns_preregistered": [],
   "s103_result": {
@@ -1983,6 +1990,35 @@
     },
     "fallback_trigger": "MET; priority SATURATION_FALLBACK",
     "closeout": "research/S105_SEARCH_FIRST_EXPERIMENTAL_CLOSEOUT.md",
+    "ci": "ABSENT_NOT_PASS",
+    "review": "INTERNAL_SAME_EXECUTOR",
+    "frontier_changed": false,
+    "counterexample_status": "NONE_CLAIMED"
+  },
+  "s106_result": {
+    "date": "2026-10-17",
+    "entry_main": "7965795c7b948fbd670c7925bafb440e9b4cf124",
+    "entry_true_git_root_tree": "6fb1e1dc29c297bcf1af1e1c034f65e80a8c2b9b",
+    "entry_merge_parents": [
+      "35ee471d8f48d6e183c10916ab8b2fd006148497",
+      "1d3d745a23da953e4e5ab58c9915dbd616f2d2e0"
+    ],
+    "claims": [
+      "CLM-0348",
+      "CLM-0349",
+      "CLM-0350",
+      "CLM-0351",
+      "CLM-0352"
+    ],
+    "claims_total": 352,
+    "sources": [
+      "SRC-0033",
+      "SRC-0034"
+    ],
+    "sources_total": 34,
+    "sources_original_untouched": 29,
+    "frontier_original_rows_untouched": 30,
+    "tests": "sessions/S106/QUOTIENT_LEMMA_TESTS.json PASS (settled groups only)",
     "ci": "ABSENT_NOT_PASS",
     "review": "INTERNAL_SAME_EXECUTOR",
     "frontier_changed": false,

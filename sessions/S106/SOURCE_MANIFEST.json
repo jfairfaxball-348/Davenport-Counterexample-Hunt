@@ -1,0 +1,19 @@
+{
+  "session": "S106",
+  "source_count_before": 32,
+  "source_count_after": 34,
+  "new_sources": {
+    "SRC-0033": "STATEMENT_INSPECTED",
+    "SRC-0034": "STATEMENT_INSPECTED"
+  },
+  "rechecked": {
+    "SRC-0030": "page dated 2026-09-26; rank three open; no exact n15/n20 value"
+  },
+  "source_promotions": [],
+  "original_source_records_untouched": 29,
+  "frontier_original_rows_untouched": 30,
+  "numerical_search_on_target_groups": false,
+  "exact_tests_on_settled_groups": true,
+  "external_certification": false,
+  "third_party_contact": false
+}

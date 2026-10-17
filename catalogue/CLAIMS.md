@@ -1745,3 +1745,13 @@ CLM-0344 **INTERNAL SAME_EXECUTOR true original q-GROUP proof**: five exceptiona
 - **CLM-0347 PROGRAMME_PROVED (FOUNDATION).** Two-term extension criterion: a zero-sumfree T extends to a zero-sumfree Tab iff some a with −a ∉ Σ(T) has |Σ(T)| + |(a+Σ(T))∖Σ(T)| < |G|. Elementary corollary of CLM-0345; basis of the R2-LNS-1.0 exact k=1 neighbourhood decision. Says nothing about D(C15³) or D(C20³).
 
 [S104 results and round-2 pre-registration](../research/S104_ROUND1_RESULTS_AND_ROUND2_PREREGISTRATION.md). Claims 346→347. No candidate, bound, exclusion or D(C15³)/D(C20³) statement.
+
+## S106 — 17 October 2026 (SATURATION_FALLBACK session 1)
+
+- **CLM-0348 PROGRAMME_PROVED (FOUNDATION).** Every element of order n in (Z/n)^r completes to a basis. So G = ⟨g⟩ ⊕ K and G/⟨g⟩ ≅ (Z/n)^{r−1}.
+- **CLM-0349 PROGRAMME_PROVED (FOUNDATION).** For g of order m: g^{m−1}T is zero-sumfree iff the image of T in G/⟨g⟩ is zero-sumfree.
+- **CLM-0350 PROGRAMME_PROVED, conditional on CLM-0352.** A zero-sumfree sequence over C_n³ with a value of order n repeated n−1 times has length ≤ 3n−3. So a counterexample of length 3n−2 has all multiplicities ≤ n−2: at most 18 in C20³ and at most 13 in C15³.
+- **CLM-0351 PROGRAMME_PROVED.** For g of order m ≥ 3: g^{m−2}T is zero-sumfree iff every nonempty subsequence of T with sum in ⟨g⟩ sums to exactly g. Consequently, no two such subsequences are disjoint.
+- **CLM-0352 SOURCE_STATED (SRC-0033, SRC-0034).** D(C_n ⊕ C_mn) = mn+n−1, so d(C_n²) = 2n−2.
+
+[S106 note](../research/S106_SATURATION_FALLBACK_MULTIPLICITY_QUOTIENT.md). Claims 347→352. These are elementary structural constraints; there is no SAT20/SAT15 or D-value statement, and the multiplicity-(n−2) case is NOT excluded.

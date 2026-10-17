@@ -450,3 +450,17 @@ Second active SEARCH_FIRST session; it closed the search via the fallback trigge
 - The fallback trigger is MET, and the priority is SATURATION_FALLBACK. The experimental closeout was written. No new claim (347).
 
 Counters: setup 1, active search sessions 2, completed rounds 2. [Closeout](../research/S105_SEARCH_FIRST_EXPERIMENTAL_CLOSEOUT.md) · [review](../sessions/S105/REVIEW.md) · [session closeout](../sessions/S105/CLOSEOUT.md).
+
+## S106 — 17 October 2026
+
+First SATURATION_FALLBACK session. Entry was main `7965795c7b948fbd670c7925bafb440e9b4cf124`, tree `6fb1e1dc29c297bcf1af1e1c034f65e80a8c2b9b` (S105 merge #109).
+- **Sources:** SRC-0030 rechecked (rank three open, no exact n15/n20 value). SRC-0033/0034 added (rank-two D statement, STATEMENT_INSPECTED).
+- **Proofs:**
+  - CLM-0348: basis completion.
+  - CLM-0349: g^{m−1}T zero-sumfree ⟺ the image of T in G/⟨g⟩ is zero-sumfree.
+  - CLM-0350: the multiplicity cap n−2 for any (3n−2)-term zero-sumfree sequence over C_n³ (conditional on SOURCE_STATED CLM-0352).
+  - CLM-0351: the multiplicity m−2 criterion.
+- **Tests:** independent exact tests on settled groups PASS (`tools/zsf/test_quotient_lemmas.py`).
+- The multiplicity-(n−2) case is recorded as open, with its obstruction. Claims 347→352, sources 32→34.
+
+Search counters frozen (setup 1, active 2, rounds 2). Fallback sessions 1. The search-reopen condition is not met. [Note](../research/S106_SATURATION_FALLBACK_MULTIPLICITY_QUOTIENT.md) · [review](../sessions/S106/REVIEW.md) · [closeout](../sessions/S106/CLOSEOUT.md).

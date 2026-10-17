@@ -20,3 +20,7 @@ Environment: Python 3.12.10, numpy 1.26.4, Windows 11, i7-11800H (16 logical CPU
 
 - `lns_engine.py`: R2-LNS-1.0 HEURISTIC engine for CAM-0004/0005 (round 2, pre-registered, not run in S104). Exact remove-k/add-(k+1) deficiency repair: the k=1 neighbourhood of each visited state is decided exhaustively with one exact FFT new-coverage evaluation per removed value (T extends by two terms iff some legal a has |Σ(T)|+newcov_T(a)<|G|); k=2 is sampled; plateau swaps use a tabu list; half the workers start from the structured standard sequence. Its SHA-256 is pinned in CAM-0004/0005.
 - `preflight_lns.py`: settled groups n=3,4,5,6 only. 120 FFT two-addition decisions agree with exhaustive oracle enumeration; best length exactly 3n−3 for both seed families; determinism. Output: `sessions/S104/LNS_PREFLIGHT.json`.
+
+## S106 — lemma tests
+
+- `test_quotient_lemmas.py`: exact tests of CLM-0348..0351 on settled groups only. It checks the basis-completion construction for all order-n elements of (Z/n)³ (n ≤ 20), random A/B agreements for the quotient and multiplicity-(m−2) criteria, and an exhaustive n=3,4 instance of the multiplicity cap. Output: `sessions/S106/QUOTIENT_LEMMA_TESTS.json` (about 9 minutes, dominated by the exhaustive n=4 DFS).

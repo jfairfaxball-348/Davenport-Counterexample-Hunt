@@ -542,3 +542,7 @@ The S104 pre-registration hashed each worker's parameters with `walltime=7200` (
 ## S105 — SEARCH_FIRST result
 
 Two methods that differ materially — random ruin/regrow, and exact neighbourhood repair with structured seeds — both plateaued at exactly 3n−3 on both targets. R2 proved every visited length-(3n−3) state k=1-closed. **Lesson:** local heuristics on unrestricted sequences do not leave the 3n−3 plateau at this scale. A further search would need a structural reason (for example a proved reduction to a small structured family amenable to exhaustive or SAT treatment), not more budget.
+
+## S106 — The multiplicity-(n−2) case is not closed by counting disjoint zero-sums
+
+CLM-0351 forces every zero-sum subsequence of the 2n-term C_n² image to lift to the same sum g and to pairwise intersect. A counting argument through the 2-wise rank-two constant (3n−1, cited, not inspected) cannot exclude a 2n-term image. **Lesson:** the next attempt must use the *equal-lift* condition (all zero-sum subsequences have the same G-sum g), not only disjointness. For example, compare two different minimal zero-sum subsequences U, V of π(T) with σ(U)=σ(V)=g, and use the rank-two structure of the (2n−2)-term zero-sumfree complements.
