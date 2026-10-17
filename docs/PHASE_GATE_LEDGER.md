@@ -441,3 +441,13 @@ No gate change. Phase 3 search stays closed (SATURATION_FALLBACK). `tools/zsf/te
 ## S108 gates — 17 October 2026
 
 No gate change. Phase 3 search stays closed (SATURATION_FALLBACK). `tools/zsf/test_small_support.py` runs exact tests on small groups only (C_n² for n ≤ 10, C_n³ for n ≤ 6). It is validation, not a search campaign. A possible future support-5 EXHAUSTIVE campaign would need an owner decision, a Phase-2 exhaustive-tooling gate and a full pre-registration first. Phase 4 is OWNER_GATED, CI is ABSENT_NOT_PASS, and the review is INTERNAL_SAME_EXECUTOR.
+
+## S109 gates — 17 October 2026
+
+**Phase 2: SCOPED PASS extended to support-≤5 EXHAUSTIVE tooling** (`tools/zsf/support5_a.py` 41d37aa63767…, `support5_b.py` f2d06fe1db89…).
+- **Proved reductions:** CLM-0361..0364.
+- **Independent implementations:** two (different enumeration, representative choice and optimiser).
+- **Settled-group pre-flight PASS:** CLM-0365, `sessions/S109/PREFLIGHT_SUMMARY.json`.
+- **Excluded:** Lean/DRAT certification.
+
+**Phase 3:** CAM-0006/0007 PREREGISTERED (owner-authorised, support-≤5 family only); activation S110 at the earliest. Phase 4 OWNER_GATED; CI ABSENT_NOT_PASS; review INTERNAL_SAME_EXECUTOR.

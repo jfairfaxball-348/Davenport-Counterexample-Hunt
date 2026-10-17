@@ -1,0 +1,4 @@
+{"kind": "progress", "index": 79999, "evaluated": 20000, "max": 33, "elapsed": 163.0}
+{"kind": "progress", "index": 159999, "evaluated": 40000, "max": 33, "elapsed": 303.2}
+{"kind": "progress", "index": 239999, "evaluated": 60000, "max": 33, "elapsed": 456.2}
+{"kind": "end", "algorithm": "A", "n": 12, "shard": 3, "nshards": 4, "components": {"4": 9920, "3": 1210}, "reps_first_component": 205, "pairs_evaluated": 62012, "max_length": 33, "histogram": {"21": 7, "22": 34, "23": 23, "27": 1678, "28": 4742, "33": 55528}, "seconds": 470.91, "orbits_at_or_above": {"threshold": 34, "count": 0, "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"}, "threshold": 34, "any_at_or_above_threshold": false}

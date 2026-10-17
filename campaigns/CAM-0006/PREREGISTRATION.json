@@ -1,0 +1,55 @@
+{
+ "campaign": "CAM-0006",
+ "status": "PREREGISTERED_NOT_ACTIVATED",
+ "registered_in": "S109",
+ "registered_date": "2026-10-17",
+ "owner_authorisation": "2026-10-17 'Yes allow it' (STATE counterexample_hunt_strategy.owner_authorisations; PR #114), scope support-5 exhaustive only",
+ "earliest_activation": "S110, only after S109 (this pre-registration and the Phase-2 gate extension) is committed on main and the code hashes below are re-verified",
+ "target": "decide whether some zero-sumfree sequence over (Z/15)^3 with at most five distinct values has length >= 43 = 3n-2",
+ "search_domain": "all free rank-2 direct summands K of (Z/n)^5 (relation modules of generating labelled 5-lists), up to S_5 coordinate permutation as specified per algorithm; for each K the exact maximum of sum(alpha) over alpha in [0,n-1]^5 with every nonzero rho in K escaping the box",
+ "symmetry_reductions_proved_and_used": [
+  "CLM-0361 reduction to generating labelled lists / free rank-2 summands",
+  "CLM-0362 CRT decomposition",
+  "CLM-0363 local graph form (A) / kernel form (B) and Gaussian count",
+  "CLM-0364 S_5 orbit representatives of one prime-power component"
+ ],
+ "completeness_class": "EXHAUSTIVE (support-<=5 family only)",
+ "algorithms": {
+  "A": {
+   "code": "tools/zsf/support5_a.py",
+   "expected_pairs_total": 791934,
+   "enumeration": "S_5 reps of the smallest prime-power component x all K of the others",
+   "optimum": "branch and bound"
+  },
+  "B": {
+   "code": "tools/zsf/support5_b.py",
+   "expected_pairs_total": 349690,
+   "enumeration": "all K of the smaller prime-power component x S_5 reps of the largest",
+   "optimum": "dense prefix-minimum DP"
+  }
+ },
+ "budget": {
+  "shards_per_algorithm": 14,
+  "walltime_cap_seconds_per_shard": 43200,
+  "estimated_cpu_hours": {
+   "A": 6,
+   "B": 0.3
+  },
+  "estimate_basis": "research/S109_SUPPORT5_EXHAUSTIVE_TOOLING.md section 4 (settled-group timings only)",
+  "concurrency": "at most 14 concurrent processes on 16 logical CPUs; order: CAM-0006 A+B, CAM-0007 B, CAM-0007 A"
+ },
+ "code_sha256": {
+  "tools/zsf/support5_a.py": "41d37aa63767d3eb7767d55eb300eb01d7df34b84c5f99318b3a1bb857bd4279",
+  "tools/zsf/support5_b.py": "f2d06fe1db89a1dba886327504f936cbc94dcfbce127c44a1923a930cd48dc3a"
+ },
+ "python": "3.12.10",
+ "numpy": "1.26.4",
+ "command": "timeout 43200 python -I tools/zsf/support5_<a|b>.py --n 15 --threshold 43 --report-keys-at 43 --shard <k> --nshards 14 --checkpoint campaigns/CAM-0006/checkpoints/<a|b>-s<k>.jsonl --out campaigns/CAM-0006/checkpoints/<a|b>-s<k>.json",
+ "checkpoint_format": "JSONL: AT_OR_ABOVE records (index, optimum, full K element list) for every K with optimum >= L; progress every 20000 evaluations (index, evaluated, max, elapsed); end record (pairs_evaluated, max_length, histogram of optima, orbits_at_or_above count+sha256, seconds)",
+ "coverage_check": "sum of pairs_evaluated over the 14 shards must equal 791934 (A) and 349690 (B); any missing end record = shard TRUNCATED",
+ "stopping_rule": "each shard runs to completion or is killed at the 43200 s cap by timeout (logged WALLTIME_CAP_TRUNCATED: no end record). Campaign COMPLETE only if all 14 shards of BOTH algorithms end with full coverage. Truncation makes the campaign PARTIAL and permits NO exclusion claim.",
+ "restart_procedure": "deterministic enumeration; a crashed or truncated shard is re-run from the start with the same (shard, nshards); partial logs kept",
+ "on_hit": "any K with optimum >= L: recover alpha and values, write candidates/<id>/sequence.json (canonical sorted triples + SHA-256), run checkers A and B standalone; CANDIDATE only; Lean 4 plan and later-session cold recheck before any certification; no external disclosure without owner authorisation",
+ "result_semantics": "NEGATIVE result only if both algorithms complete with full coverage and max optimum <= 42: 'no zero-sumfree sequence over C_15^3 with at most five distinct values has length 43' (support-<=5 family only; NOT SAT15, NOT a D value). Certificate = committed shard end records + log hashes + two-algorithm agreement; Lean/DRAT certification not included.",
+ "code_sha256_note": "SHA-256 of LF-normalised file bytes (git blob content); .gitattributes pins tools/zsf/*.py to eol=lf"
+}

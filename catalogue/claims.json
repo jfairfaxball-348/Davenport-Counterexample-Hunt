@@ -3636,6 +3636,51 @@
       "origin": "research/S108_SATURATION_FALLBACK_SMALL_SUPPORT.md",
       "source_ids": [],
       "notes": "S108 INTERNAL SAME_EXECUTOR hand proof (counting on the cyclic subgroup <rho>); 7288 exact checks on small groups. Recovers the cyclic-subgroup bound alpha_a + alpha_b <= n-1 for b in <a>."
+    },
+    {
+      "id": "CLM-0361",
+      "statement": "Reduction to generating labelled values: for every labelled 5-list over C_n^3 there is a generating labelled 5-list whose relation module is contained in the original one (Smith normal form over each Z/q, CRT); hence the maximum length of a zero-sumfree sequence over C_n^3 with at most five distinct values equals the maximum, over free rank-2 direct summands K of (Z/n)^5, of the box optimum OPT(K).",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S109_SUPPORT5_EXHAUSTIVE_TOOLING.md",
+      "source_ids": [],
+      "notes": "S109 INTERNAL SAME_EXECUTOR hand proof; basis of the support-5 exhaustive tooling (CAM-0006/0007)."
+    },
+    {
+      "id": "CLM-0362",
+      "statement": "CRT decomposition: K is a free rank-2 summand of (Z/n)^5 iff K is the product of free rank-2 summands K_q of (Z/q)^5 over the prime powers q || n.",
+      "category": "FOUNDATION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S109_SUPPORT5_EXHAUSTIVE_TOOLING.md",
+      "source_ids": [],
+      "notes": "S109 INTERNAL SAME_EXECUTOR; standard."
+    },
+    {
+      "id": "CLM-0363",
+      "statement": "Local graph form: over Z/q, q=p^k, a free rank-2 summand of (Z/q)^5 is exactly the graph of a unique 3x2 matrix over any coordinate pair whose 2x2 generator minor is a unit mod p; the number of such summands is p^(6(k-1)) times the Gaussian binomial [5 choose 2]_p.",
+      "category": "FOUNDATION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S109_SUPPORT5_EXHAUSTIVE_TOOLING.md",
+      "source_ids": [],
+      "notes": "S109 INTERNAL SAME_EXECUTOR hand proof; counts 155, 1210, 9920, 20306, 140050 for q=2,3,4,5,7 reproduced by both tools."
+    },
+    {
+      "id": "CLM-0364",
+      "statement": "S_5 symmetry: simultaneous coordinate permutation preserves the box criterion and sum(alpha); enumerating S_5-orbit representatives of one prime-power component times all summands of the other components visits every S_5-orbit of free rank-2 summands of (Z/n)^5.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S109_SUPPORT5_EXHAUSTIVE_TOOLING.md",
+      "source_ids": [],
+      "notes": "S109 INTERNAL SAME_EXECUTOR hand proof; algorithm A uses the smallest, algorithm B the largest prime-power component."
+    },
+    {
+      "id": "CLM-0365",
+      "statement": "For n in {2,3,4,5,6,7,10,12}, the maximum length of a zero-sumfree sequence over C_n^3 with at most five distinct values is exactly 3n-3, computed by two independent exhaustive algorithms (support5_a branch-and-bound, support5_b dense DP) whose full S_5-orbit sets agree for n<=7 and which find no relation module with optimum >= 3n-2 at n=10,12.",
+      "category": "COMPUTATION",
+      "status": "COMPUTED_EXACT",
+      "origin": "sessions/S109/PREFLIGHT_SUMMARY.json",
+      "source_ids": [],
+      "notes": "S109 settled-group pre-flight (D(C_n^3)=3n-2 known there: CLM-0142 primes, SOURCE_STATED for 4,6,10,12); same-executor, two algorithms; consistent with, not evidence for, n=15/20."
     }
   ]
 }
