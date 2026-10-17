@@ -2,7 +2,7 @@
 
 **Active priority: SATURATION_FALLBACK.** It was switched in S105 by the owner directive's two-round trigger (directive of 16 October 2026).
 - The SEARCH_FIRST rounds (S104 R1, S105 R2) reached only 3n−3 and are closed. That is not a negative result.
-- Run S109 only on a separate later owner instruction to run the next session, and run only ONE numbered session per invocation.
+- Run S109 only on a separate later owner instruction to run the next session (the support-5 authorisation is not itself a run instruction), and run only ONE numbered session per invocation.
 - Carry the priority, the frozen search counters and the search-reopen condition into every future prompt until evidence or the owner changes them.
 
 ## 0. Entry and governance
@@ -34,9 +34,16 @@ Work in repository `jfairfaxball-348/Davenport-Counterexample-Hunt`.
 - **CLM-0360:** for every ρ ∈ K of order n, Σ_{ρ_i≠0}(n−1−α_i) ≥ n−1.
 - **Lever groups:** no exact D was found in the literature for C_e⊕C_n⊕C_n (e > 2) at n = 15, 20, so the S107 conditional caps stay conditional.
 
-**Search-reopen condition:** an explicit owner directive, or a substantive structural reason recorded as a claim (for example a proved reduction to a small structured family amenable to exhaustive or SAT treatment), followed by a full pre-registration and gate. A parameter change of R1/R2 does not qualify.
+**Search-reopen condition (general):** an explicit owner directive, or a substantive structural reason recorded as a claim (for example a proved reduction to a small structured family amenable to exhaustive or SAT treatment), followed by a full pre-registration and gate. A parameter change of R1/R2 does not qualify.
 
-**Open owner decision (not required to proceed):** whether to authorise a pre-registered EXHAUSTIVE support-5 campaign at n15/n20 (S108 note §5). Unless the owner has authorised it in chat, S109 must not pre-register or run it.
+**OWNER AUTHORISATION (2026-10-17, after S108, installed by a non-session governance commit):** the owner answered "Yes allow it" to whether a later session may build gated tooling and pre-register an EXHAUSTIVE support-5 campaign at n=15/20.
+- **Scope:** exhaustive classification of zero-sumfree (3n−2)-term sequences over C_n³ with exactly 5 distinct values, for n = 15 and n = 20.
+- **Order of work:**
+  1. Tooling and Phase-2 gate.
+  2. Pre-registration (CAM-0006 n15, CAM-0007 n20).
+  3. Activation, only in a LATER session than the pre-registration.
+- **Not covered:** this does NOT reopen general search, heuristic campaigns or other families. The priority stays SATURATION_FALLBACK.
+- **Recorded in:** `authoritative/STATE.json` → `counterexample_hunt_strategy.owner_authorisations`.
 
 ## 1. S109 work (bounded; choose and finish a coherent subset)
 
@@ -49,8 +56,19 @@ Work in repository `jfairfaxball-348/Davenport-Counterexample-Hunt`.
      - (iii) Combine with CLM-0350/0357 (multiplicity caps) and CLM-0153.
    - Record exactly which (K, α) configurations survive any argument. Tabulate numerical consequences mechanically, not by hand (S107 lesson).
 2. **Generalisation:** state the best general bound for k = r+2 distinct values over C_n^r that the planar argument yields, and test it on small groups.
-3. **Optional, without running on n15/n20:** design symmetry-reduced exhaustive tooling for the support-5 family (rank-2 summands of (Z/n)^5 up to coordinate permutation and unit scaling, with optimal α by escape-cover) and pre-flight it on settled groups only (n ≤ 8, where D(C_n³) = 3n−2 is known: p-groups and CLM-0142 primes). Record a Phase-2 gate extension only if tests pass. Any n15/n20 run needs an owner decision and a separate pre-registration in a later session.
-
+3. **Support-5 EXHAUSTIVE track (owner-authorised; build, gate and pre-register, but DO NOT RUN in S109).**
+   - **(a) Proved reductions first.** Write hand proofs (as claims) of every symmetry and reduction the enumeration uses, and state its completeness class precisely. Examples:
+     - S is determined by its five values and multiplicities.
+     - Zero-sumfreeness depends only on the relation module K ⊂ (Z/n)^5 and α (CLM-0358).
+     - Invariance under coordinate permutation, under scaling a coordinate's value by a unit (with how this acts on K), and under GL₃(Z/n).
+     - Reduction to K that are relation modules of 5 distinct values: K is a rank-2 free summand when the values generate C_n³; handle proper-subgroup supports separately.
+     - Optimal α for a given K is a max-weight "escape cover" problem.
+     - Any further pruning, such as the multiplicity caps CLM-0350/0357 and the relation bound CLM-0360, used only where it is proved for the target n.
+   - **(b) Two independent exhaustive algorithms.** Implement two algorithmically distinct ones (AGENTS rule 6). Example: (A) enumerate canonical rank-2 summands K and solve the α-optimisation exactly; (B) enumerate canonical 5-value supports in C_n³ up to GL₃ and decide zero-sumfreeness via checkers on maximal multiplicity vectors. They must agree on every settled-group instance.
+   - **(c) Pre-flight on settled groups only.** Use n ≤ 8 (or other n with known D(C_n³) = 3n−2: p-groups by SOURCE_STATED Olson, primes by CLM-0142). There the maximum support-5 length must be ≤ 3n−3, and both algorithms must agree. Record version, parameters, run time, the orbit count and its scaling. Measure and extrapolate the n=15/20 cost from settled-group timings and orbit counts only, with no n15/n20 enumeration.
+   - **(d) Phase-2 gate extension.** Record it only if (a)–(c) pass.
+   - **(e) Pre-register CAM-0006 (n15) and CAM-0007 (n20).** Include the explicit domain, the proved reductions, completeness class EXHAUSTIVE (for the support-5 family only), a bounded budget, a checkpoint format, a stopping rule, code SHA-256s, and an output-certificate plan (per-orbit verdict logs with hashes; two-algorithm agreement). A negative result covers ONLY the support-5 family, and is never SAT20/SAT15. If the honest cost estimate exceeds a reasonable bounded budget, do NOT pre-register; record the obstruction and the cost instead.
+   - A hit would be CANDIDATE only (candidates/ quarantine, two checkers, Lean 4 plan, cold re-check). No external disclosure without owner authorisation.
 **Honesty rules.**
 - Failed attempts go in the failure ledger with their exact obstruction.
 - Do not upgrade inherited or source claims.
@@ -63,7 +81,8 @@ Work in repository `jfairfaxball-348/Davenport-Counterexample-Hunt`.
 - Write a research note `research/S109_SATURATION_FALLBACK_<topic>.md`, with independent exact tests for any new lemma.
 - Update: claims/sources (JSON and Markdown; never edit the original 29 source records; log inspections in an `s109_audit` block), phase/session/failure/decision ledgers, STATE (`counterexample_hunt_strategy`: number_of_fallback_sessions 4, fallback_progress, search_reopen_condition_met), README/START_HERE.
 - Leave the frontier unchanged unless there is an independently checked improvement.
-- Install a FULL S110 prompt: continue SATURATION_FALLBACK, or propose a gated pre-registration if the reopen condition is genuinely met or the owner has authorised the support-5 campaign (stating which).
+- If CAM-0006/0007 were pre-registered: create `campaigns/CAM-0006/` and `campaigns/CAM-0007/` PREREGISTRATION.json and update `campaigns/REGISTRY.md`.
+- Install a FULL S110 prompt. If S109 pre-registered CAM-0006/0007 and committed the gate, S110 activates them, re-verifying the hashes first. Otherwise S110 continues SATURATION_FALLBACK and the tooling work.
 - Close with one session branch, one atomic authored commit, an ordinary PR merge without force, and an independent reread of main afterwards.
 - No model names in files or commits. CI absence is ABSENT_NOT_PASS.
 
