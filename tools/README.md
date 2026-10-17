@@ -24,3 +24,11 @@ Environment: Python 3.12.10, numpy 1.26.4, Windows 11, i7-11800H (16 logical CPU
 ## S106 — lemma tests
 
 - `test_quotient_lemmas.py`: exact tests of CLM-0348..0351 on settled groups only. It checks the basis-completion construction for all order-n elements of (Z/n)³ (n ≤ 20), random A/B agreements for the quotient and multiplicity-(m−2) criteria, and an exhaustive n=3,4 instance of the multiplicity cap. Output: `sessions/S106/QUOTIENT_LEMMA_TESTS.json` (about 9 minutes, dominated by the exhaustive n=4 DFS).
+
+## S107 — transfer lemma tests
+
+- `test_transfer_lemmas.py`: exact tests of CLM-0353..0355 on small groups only.
+  - It runs the proof's pure-element construction for all nonzero elements of (Z/n)³, n ≤ 20.
+  - It checks random A/B agreements for the general multiplicity criterion.
+  - It checks random constructed transfers through explicit quotient coordinates.
+  - It is self-contained (the helpers are copied from `test_quotient_lemmas.py`), runs in about 20 s, and writes `sessions/S107/TRANSFER_LEMMA_TESTS.json`.

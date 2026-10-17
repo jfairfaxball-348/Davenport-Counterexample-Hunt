@@ -3558,6 +3558,57 @@
         "SRC-0027"
       ],
       "notes": "Statement inspected in SRC-0033 and SRC-0034 (citing Olson 1969 and van Emde Boas-Kruyswijk 1969); original proofs not re-inspected in S106. A literature statement, not a programme proof."
+    },
+    {
+      "id": "CLM-0353",
+      "statement": "General multiplicity criterion: for h of order m in a finite abelian group, 1<=j<=m and any sequence T, h^(m-j) T is zero-sumfree iff every nonempty subsequence of T with sum in <h> has sum in {h,2h,...,(j-1)h}.",
+      "category": "FOUNDATION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S107_SATURATION_FALLBACK_MULTIPLICITY_DEFECT_TRANSFER.md",
+      "source_ids": [],
+      "notes": "S107 INTERNAL SAME_EXECUTOR hand proof; generalises CLM-0349 (j=1) and CLM-0351 (j=2); 1587 random exact agreements (sessions/S107/TRANSFER_LEMMA_TESTS.json)."
+    },
+    {
+      "id": "CLM-0354",
+      "statement": "Pure elements: every h of order m in C_n^r equals (n/m)u for some u of order n; hence for d|m, G/<dh> is isomorphic to C_(nd/m) + C_n^(r-1) with the image of h of order d.",
+      "category": "FOUNDATION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S107_SATURATION_FALLBACK_MULTIPLICITY_DEFECT_TRANSFER.md",
+      "source_ids": [],
+      "notes": "S107 INTERNAL SAME_EXECUTOR hand proof via CLM-0348 and CRT; the proof's construction checked for all 44080 nonzero elements of (Z/n)^3, n=2..20."
+    },
+    {
+      "id": "CLM-0355",
+      "statement": "Multiplicity-defect transfer: if S = h^(m-j) T is zero-sumfree over C_n^3 with h of order m, 1<=j<=m, and d|m with d>=j, then hbar^(d-j) pi(T) is zero-sumfree over Q = G/<dh> (isomorphic to C_(nd/m)+C_n+C_n), so |S| <= m-d+d(Q). If |S|=3n-2 and D(Q)=D*(Q), the case is impossible whenever n+1+d > m+nd/m (always for m=n).",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S107_SATURATION_FALLBACK_MULTIPLICITY_DEFECT_TRANSFER.md",
+      "source_ids": [],
+      "notes": "S107 INTERNAL SAME_EXECUTOR hand proof from CLM-0353/0354; 897 random exact transfers checked with explicit quotient coordinates. Reduces multiplicity-defect cases of SAT20/SAT15 to D*-equality for smaller rank-three groups C_e+C_n+C_n, e|n. No novelty claimed."
+    },
+    {
+      "id": "CLM-0356",
+      "statement": "D(C2 + C2m + C2mn) = 2m + 2mn for all m,n>=1; in particular D(C2+C20+C20) = 40 = D*.",
+      "category": "LITERATURE",
+      "status": "SOURCE_STATED",
+      "origin": "catalogue/sources.json SRC-0005 (s107_audit)",
+      "source_ids": [
+        "SRC-0005"
+      ],
+      "notes": "Statement of Girard-Schmid arXiv:1806.07636v2 Theorem 2.7 (a recalled known result) inspected 2026-10-17; the original proof was not inspected. A literature statement, not a programme proof."
+    },
+    {
+      "id": "CLM-0357",
+      "statement": "Every zero-sumfree 58-term sequence over C20^3 has multiplicity at most 17 at every element of order 20 and at most 8 at every element of order 10 (trivially <=4,3,1 at orders 5,4,2); hence at least 4 distinct values.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S107_SATURATION_FALLBACK_MULTIPLICITY_DEFECT_TRANSFER.md",
+      "source_ids": [
+        "SRC-0005",
+        "SRC-0033",
+        "SRC-0034"
+      ],
+      "notes": "CONDITIONAL on SOURCE_STATED CLM-0352 (rank two) and CLM-0356 (D(C2+C20+C20)=40), via CLM-0350/0355. Closes the S106 open multiplicity-(n-2) case at n=20 only; n=15 analogue reduced to D*(C3+C15+C15) or D*(C5+C15+C15), unknown. Not evidence for SAT20."
     }
   ]
 }

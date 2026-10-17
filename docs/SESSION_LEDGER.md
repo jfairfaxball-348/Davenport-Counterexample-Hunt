@@ -464,3 +464,16 @@ First SATURATION_FALLBACK session. Entry was main `7965795c7b948fbd670c7925bafb4
 - The multiplicity-(n−2) case is recorded as open, with its obstruction. Claims 347→352, sources 32→34.
 
 Search counters frozen (setup 1, active 2, rounds 2). Fallback sessions 1. The search-reopen condition is not met. [Note](../research/S106_SATURATION_FALLBACK_MULTIPLICITY_QUOTIENT.md) · [review](../sessions/S106/REVIEW.md) · [closeout](../sessions/S106/CLOSEOUT.md).
+
+## S107 — 17 October 2026
+
+SATURATION_FALLBACK session 2. Entry was main `8788f57ff9ce9c3b4c9447df98550cb9e9bc26cd`, tree `8f20b23b368c5ea4666b29014323f4cf0b922161` (S106 merge #110).
+- **Proofs:**
+  - CLM-0353: the general multiplicity criterion.
+  - CLM-0354: pure elements, h = (n/m)u.
+  - CLM-0355: the multiplicity-defect transfer to C_{nd/m} ⊕ C_n ⊕ C_n.
+- **Source:** SRC-0005 Theorem 2.7 statement inspected, giving CLM-0356: D(C2 ⊕ C20 ⊕ C20) = 40.
+- **Consequence:** CLM-0357. At n=20, order-20 multiplicities are ≤ 17 and order-10 multiplicities are ≤ 8, which closes the S106 open case at n=20 (conditional on SOURCE_STATED values).
+- **Tests:** independent exact tests on small groups PASS. Claims 352→357.
+
+Search counters frozen; fallback sessions 2. The search-reopen condition is not met. [Note](../research/S107_SATURATION_FALLBACK_MULTIPLICITY_DEFECT_TRANSFER.md) · [review](../sessions/S107/REVIEW.md) · [closeout](../sessions/S107/CLOSEOUT.md).
