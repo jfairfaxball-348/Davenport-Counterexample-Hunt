@@ -1,0 +1,16 @@
+{
+  "session": "S107",
+  "source_count_before": 34,
+  "source_count_after": 34,
+  "new_sources": {},
+  "inspected_existing": {
+    "SRC-0005": "Theorem 2.7 statement D(C2+C2m+C2mn)=2m+2mn; record unchanged (STATEMENT_INSPECTED)"
+  },
+  "source_promotions": [],
+  "original_source_records_untouched": 29,
+  "frontier_original_rows_untouched": 30,
+  "numerical_search_on_target_groups": false,
+  "exact_tests_on_small_groups": true,
+  "external_certification": false,
+  "third_party_contact": false
+}

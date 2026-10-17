@@ -433,3 +433,7 @@ Phase 1 stays SCOPED PASS for the search targets, with the general frontier IN_P
 ## S106 gates — 17 October 2026
 
 No gate change. Phase 3 search stays closed (SATURATION_FALLBACK). The exact lemma tests in `tools/zsf/test_quotient_lemmas.py` run on settled groups only (n ≤ 20 basis completions; random and exhaustive checks in (Z/n)³ for n ≤ 12). They are validation tests, not a search campaign, and no target-group search was run. Phase 4 is OWNER_GATED, CI is ABSENT_NOT_PASS, and the review is INTERNAL_SAME_EXECUTOR.
+
+## S107 gates — 17 October 2026
+
+No gate change. Phase 3 search stays closed (SATURATION_FALLBACK). `tools/zsf/test_transfer_lemmas.py` runs exact tests on small groups only: element decompositions for n ≤ 20, and random sequences in (Z/n)³ for n ≤ 12. It is validation, not a search campaign. Phase 4 is OWNER_GATED, CI is ABSENT_NOT_PASS, and the review is INTERNAL_SAME_EXECUTOR.

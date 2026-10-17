@@ -535,3 +535,5 @@ Year: 2026. Access: **STATEMENT_INSPECTED** (2026-10-17). [PDF](https://arxiv.or
 The inspected text states d*(G) ≤ d(G), with equality for p-groups and for groups of rank at most two. It is secondary support for CLM-0352.
 
 **S106 source note.** Two records were added for the rank-two statement used by CLM-0350. SRC-0030 was rechecked (page dated 2026-09-26): rank three is still recorded as open, with no exact n15/n20 value. The original 29 records are unchanged, and no access was promoted.
+
+**S107 source note.** No new records. In SRC-0005 (Girard–Schmid, arXiv:1806.07636v2) the recalled Theorem 2.7, D(C2 ⊕ C2m ⊕ C2mn) = 2m+2mn, and the introduction's remark that the Davenport constant is known when n1 = 2 were inspected on 2026-10-17. Access stays STATEMENT_INSPECTED. The original record is unchanged, and the inspection is logged in `s107_audit`. It supports CLM-0356.
