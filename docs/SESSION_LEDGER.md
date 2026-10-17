@@ -477,3 +477,17 @@ SATURATION_FALLBACK session 2. Entry was main `8788f57ff9ce9c3b4c9447df98550cb9e
 - **Tests:** independent exact tests on small groups PASS. Claims 352→357.
 
 Search counters frozen; fallback sessions 2. The search-reopen condition is not met. [Note](../research/S107_SATURATION_FALLBACK_MULTIPLICITY_DEFECT_TRANSFER.md) · [review](../sessions/S107/REVIEW.md) · [closeout](../sessions/S107/CLOSEOUT.md).
+
+## S108 — 17 October 2026
+
+SATURATION_FALLBACK session 3. Entry was main `9073184067b0820ebef1e72a0e589b33883e429b`, tree `940a271a2e3a1874e8732a1420925cb666d7cb2f` (S107 merge #112).
+- **Branch-name note:** S107's closeout names the planned branch `session/S107-multiplicity-defect-reduction`, whose PR #111 was closed unmerged. The merged branch was `session/S107-multiplicity-defect-transfer` (#112).
+- **Sources:** a literature search found no exact D for the S107 lever groups C_e⊕C_n⊕C_n (e > 2).
+- **Proofs:**
+  - CLM-0358: box/kernel criterion.
+  - CLM-0359: counting bound. **A counterexample needs at least 5 distinct values** (unconditional).
+  - CLM-0360: relation bound.
+- The support-5 case is reduced to a finite rank-2 relation-module problem but is not decided.
+- **Tests:** independent exact tests on n ≤ 10 PASS. Claims 357→360.
+
+Search counters frozen; fallback sessions 3. The search-reopen condition is not met. An exhaustive support-5 campaign is an owner decision. [Note](../research/S108_SATURATION_FALLBACK_SMALL_SUPPORT.md) · [review](../sessions/S108/REVIEW.md) · [closeout](../sessions/S108/CLOSEOUT.md).

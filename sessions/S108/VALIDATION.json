@@ -1,0 +1,16 @@
+{
+  "session": "S108",
+  "validator": "validation/validate_s108.py",
+  "entry_main": "9073184067b0820ebef1e72a0e589b33883e429b",
+  "kind": "administrative consistency + lemma test output check; NOT certification",
+  "result": {
+    "claims": "360; first 357 identical to entry",
+    "sources": "34 records identical to entry; s108_audit added",
+    "unchanged": "frontier.json, checkers, engines, S106/S107 tests",
+    "lemma_tests": "PASS",
+    "state": "consistent",
+    "no_new_campaign_or_candidate": true,
+    "overall": "PASS"
+  },
+  "ci": "ABSENT_NOT_PASS"
+}

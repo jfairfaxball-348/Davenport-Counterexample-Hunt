@@ -437,3 +437,7 @@ No gate change. Phase 3 search stays closed (SATURATION_FALLBACK). The exact lem
 ## S107 gates — 17 October 2026
 
 No gate change. Phase 3 search stays closed (SATURATION_FALLBACK). `tools/zsf/test_transfer_lemmas.py` runs exact tests on small groups only: element decompositions for n ≤ 20, and random sequences in (Z/n)³ for n ≤ 12. It is validation, not a search campaign. Phase 4 is OWNER_GATED, CI is ABSENT_NOT_PASS, and the review is INTERNAL_SAME_EXECUTOR.
+
+## S108 gates — 17 October 2026
+
+No gate change. Phase 3 search stays closed (SATURATION_FALLBACK). `tools/zsf/test_small_support.py` runs exact tests on small groups only (C_n² for n ≤ 10, C_n³ for n ≤ 6). It is validation, not a search campaign. A possible future support-5 EXHAUSTIVE campaign would need an owner decision, a Phase-2 exhaustive-tooling gate and a full pre-registration first. Phase 4 is OWNER_GATED, CI is ABSENT_NOT_PASS, and the review is INTERNAL_SAME_EXECUTOR.

@@ -32,3 +32,10 @@ Environment: Python 3.12.10, numpy 1.26.4, Windows 11, i7-11800H (16 logical CPU
   - It checks random A/B agreements for the general multiplicity criterion.
   - It checks random constructed transfers through explicit quotient coordinates.
   - It is self-contained (the helpers are copied from `test_quotient_lemmas.py`), runs in about 20 s, and writes `sessions/S107/TRANSFER_LEMMA_TESTS.json`.
+
+## S108 — small-support tests
+
+- `test_small_support.py`: exact tests of CLM-0358..0360 on small groups only (C_n² for n ≤ 10, C_n³ for n ≤ 6).
+  - For each tested support it computes the maximum zero-sumfree length by brute force over multiplicity vectors, using the kernel criterion, and cross-checks with checkers A/B.
+  - It also checks every 4-value support in C2³ and C3³ exhaustively.
+  - It takes about 15 s and writes `sessions/S108/SMALL_SUPPORT_TESTS.json`.

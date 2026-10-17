@@ -1,0 +1,23 @@
+{
+ "supports_checked": {
+  "r2_n2": 80,
+  "r2_n3": 80,
+  "r2_n4": 80,
+  "r2_n5": 80,
+  "r2_n6": 80,
+  "r2_n7": 80,
+  "r2_n8": 80,
+  "r2_n9": 80,
+  "r2_n10": 80,
+  "r3_n2": 80,
+  "r3_n3": 80,
+  "r3_n4": 80,
+  "r3_n5": 40,
+  "r3_n6": 40
+ },
+ "clm0358_criterion_agreements": 5200,
+ "clm0360_relation_checks": 7288,
+ "exhaustive_4_supports_C2^3_max_len": 3,
+ "exhaustive_4_supports_C3^3_max_len": 6,
+ "overall": "PASS"
+}
