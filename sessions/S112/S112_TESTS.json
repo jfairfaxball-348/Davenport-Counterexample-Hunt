@@ -1,0 +1,74 @@
+{
+ "T1_D2_C2cubed": {
+  "multisets_of_7": 3432,
+  "all_have_two_disjoint": true,
+  "six_distinct_nonzero_counterexample": [
+   [
+    0,
+    0,
+    1
+   ],
+   [
+    0,
+    1,
+    0
+   ],
+   [
+    0,
+    1,
+    1
+   ],
+   [
+    1,
+    0,
+    0
+   ],
+   [
+    1,
+    0,
+    1
+   ],
+   [
+    1,
+    1,
+    0
+   ]
+  ],
+  "D_2": 7,
+  "pass": true
+ },
+ "T2_route_soundness_constructive": {
+  "cases": {
+   "6": {
+    "routes": [
+     2,
+     3
+    ],
+    "trials": 71,
+    "closing_route_runs": 124,
+    "verified": 124
+   },
+   "10": {
+    "routes": [
+     2,
+     5
+    ],
+    "trials": 113,
+    "closing_route_runs": 198,
+    "verified": 198
+   },
+   "12": {
+    "routes": [
+     2,
+     3,
+     4
+    ],
+    "trials": 117,
+    "closing_route_runs": 329,
+    "verified": 329
+   }
+  },
+  "pass": true
+ },
+ "overall": "PASS"
+}

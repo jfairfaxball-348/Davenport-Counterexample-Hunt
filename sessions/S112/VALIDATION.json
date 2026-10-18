@@ -1,0 +1,13 @@
+{
+ "claims": "378; first 373 identical to entry",
+ "unchanged": "sources, frontier, checkers, S111 tools",
+ "sieve": "A = B for all n; exclusions as claimed",
+ "CLM-0376_arithmetic": "no alpha with both route-3 and route-5 failure conditions",
+ "tests": "T1 D2(C2^3)=7; T2 651 closing-route runs all verified",
+ "tool_sha256_lf": {
+  "tools/zsf/route_sieve.py": "c76ac320b9d90faab32fe8a1a19c005a4eca7ba3a79a2e37b318966ea0f4c661",
+  "tools/zsf/test_s112.py": "c674bb9843b563ad6a3282fc55186f8100bec13ff0bd67500dffae1fe05251bf"
+ },
+ "state": "consistent; counters frozen; fallback sessions 7",
+ "overall": "PASS"
+}

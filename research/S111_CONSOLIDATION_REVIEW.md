@@ -1,6 +1,6 @@
-# S111 consolidation review: what we know (18 October 2026)
+# Consolidation review: what we know (S111, updated S112; 18 October 2026)
 
-This is the **single entry point** to the programme's results. It classifies every result from S103–S111 (CLM-0345..0373), plus the earlier results worth carrying forward, into three groups: **ALL-n**, **CONDITIONAL-on-family** and **n-SPECIFIC**. For each result it states what the result depends on and its scope. Statuses are those of `catalogue/claims.json`; this review upgrades nothing.
+This is the **single entry point** to the programme's results. It classifies every result from S103–S112 (CLM-0345..0378), plus the earlier results worth carrying forward, into three groups: **ALL-n**, **CONDITIONAL-on-family** and **n-SPECIFIC**. For each result it states what the result depends on and its scope. Statuses are those of `catalogue/claims.json`; this review upgrades nothing.
 
 **Targets (OPEN):** SAT20 (D(C20³) = 58) and SAT15 (D(C15³) = 43). The open rows of the frontier at n ≤ 30 are n = 15, 20, 21, 28, 30.
 
@@ -13,7 +13,9 @@ A zero-sumfree sequence of length 3n−2 over C_n³ (a counterexample) is constr
   - ≥ 6 distinct values, by proof;
   - indeed ≥ 6 distinct values of odd multiplicity outside 2G;
   - with exactly six such values, their mod-2 images form a Fano plane minus a point.
-- **n = 15:** ≥ 6 distinct values, by exhaustive computation only. The block method provably cannot give a proof (CLM-0373).
+- **n = 20 (S112):** ≥ **7** distinct values, by proof from the multi-route sieve (CLM-0377(i)).
+- **n = 15:** ≥ 6 distinct values, now **by an unconditional hand proof** (CLM-0376, two block routes 3 and 5), as well as by computation (CLM-0366). A single block route cannot give this (CLM-0373); two routes together do.
+- **n = 21:** ≥ 6 distinct values (CLM-0377(ii)).
 
 Nothing proves or refutes SAT15/SAT20.
 
@@ -38,6 +40,7 @@ These hold for every n, and where stated for any rank r or any finite abelian gr
 | CLM-0361..0364 | support-5 reduction to rank-2 free summands K ⊂ (Z/n)^5; CRT; local counts; S₅ symmetry | all n | hand proofs |
 | CLM-0369 | **block-packing lemma** (pack disjoint blocks with sums in aG, apply D(C_b^r)); deficit ≤ ⌊(R − (a−1)(r−1))/a⌋ | C_n^r, n = ab | hand proof |
 | CLM-0153 | basis plus one extra value excluded | all n | hand proof; subsumed by CLM-0359 |
+| CLM-0374 | **multi-route block criterion** (all prime-power routes a \| n at once; D₂(C₂³) = 7; D_j ≤ D₂ + (j−2)D₁) | C_n³, all n (each route needs its two D-values) | CLM-0354, CLM-0369, CLM-0143 |
 
 ## 2. CONDITIONAL-on-family results
 
@@ -64,7 +67,11 @@ These hold for every n in a family, given a smaller or different group's Davenpo
 | CLM-0365 | support-≤5 maximum 3n−3 (COMPUTED_EXACT) | 2–7, 10, 12 | two exhaustive codes + CLM-0358/0361..0364 |
 | CLM-0366 | support-≤5 maximum 42 (COMPUTED_EXACT) | 15 | CAM-0006 + same reductions |
 | CLM-0367 | support-≤5 maximum 57 (COMPUTED_EXACT) | 20 | CAM-0007 + same reductions; **also implied by CLM-0371**, an independent proof route via CLM-0065 |
-| CLM-0373 | TWO(a) false for a = 3, 4, 5; block packing falls short at n = 15 for a = 3 and a = 5 (COMPUTED_EXACT) | finite C_a³; 15 | two algorithms; exact packing DP |
+| CLM-0373 | TWO(a) false for a = 3, 4, 5; a *single* route falls short at n = 15 for a = 3 and a = 5 (COMPUTED_EXACT) | finite C_a³; 15 | two algorithms; exact packing DP |
+| CLM-0375 | route-sieve outcomes (COMPUTED_EXACT, arithmetic only) | 12, 15, 18, 20, 21, 28, 30, 33, 35 | two algorithms |
+| CLM-0376 | **support-≤5 bound at n = 15 (hand proof, unconditional)** | 15 | CLM-0142, CLM-0369/0374 |
+| CLM-0377 | **n = 20: ≥ 7 distinct values**; n = 21: support-≤5 bound | 20, 21 | CLM-0375 + CLM-0065/0039/0142/0143/0350/0368 |
+| CLM-0378 | residue: 5 six-valued patterns at n = 15 (all order 15); 139 seven-valued patterns at n = 20 (COMPUTED_EXACT) | 15, 20 | two algorithms |
 | S104/S105 rounds (CAM-0002..0005) | heuristic search, best 42 / 57; **no proof content** | 15, 20 | HEURISTIC budgets |
 | S060–S102 axial programme | conditional local structure of hypothetical extremal C20³ configurations (axial q-groups, Fano/colour collisions, five-flat sub-cases) | 20 (with C10³/C5³ quotients) | source-conditional hand proofs; **not re-audited in S111**; none excludes a counterexample; not carried forward as a lever |
 | S025–S043 indexed/extraction programme | odd-prime indexed block structure; n15/n20 quotient profiles | primes ≥ 7; 15, 20 | partly source-conditional; local necessary conditions only |
@@ -78,14 +85,15 @@ These hold for every n in a family, given a smaller or different group's Davenpo
 - **r = 3:**
   - Proved for n = 2b with D(C_b³) known (CLM-0371); this includes n = 20 and 28.
   - Implied by the known D for prime powers, 2p^k, 6 and 3·2^k.
-  - Computed at n = 15 (CLM-0366).
-  - **Open** for odd composite n other than 15 (21, 33, 35, …) and for n = 30. The block method provably cannot reach n = 15 (CLM-0373).
+  - Proved at n = 15 (CLM-0376, unconditional) and n = 21 (CLM-0377(ii)) by the multi-route sieve; also computed at n = 15 (CLM-0366).
+  - **Open** for n = 30, 33, 35 (1, 2 and 2 arithmetic survivors) and for other odd composite n not yet sieved.
 - **General r:** proved for n = 2p^k (CLM-0370 + CLM-0039).
 
 ## 5. Where the frontier of ideas is
 
-1. **Even n (20, 28):** CLM-0372 confines a counterexample to a parity-restricted shape. A 6-valued one has all multiplicities odd and mod-2 images F₂³∖{0,P}. This is a precise, n-general structural family. The next proof attempt should study it, e.g. through the second-level quotient G/4G at n = 20 or the block sums in C10³. Any computation on it needs an owner decision and pre-registration.
-2. **Odd n:** the counting form of the block method is exhausted (CLM-0373). A proof must use the *values* of the block sums, which form a ≤ 7-valued sequence in C_b³, or a polynomial argument.
-3. **Lean certification:** deferred by owner steering.
+1. **n = 20:** the 6-valued case is closed (CLM-0377). The 7-valued residue is 139 multiplicity patterns (CLM-0378). The next step is image-level analysis in C₂³ / C₄³ / C₅³, combined with the parity structure CLM-0372, and sharper small-group constants D₂, D₃.
+2. **n = 15:** the 6-valued residue is five patterns, all values of order 15 (CLM-0378). These can be attacked by exact image analysis in C₃³ and C₅³, which are small groups.
+3. Any computation on target groups needs an owner decision and pre-registration.
+4. **Lean certification:** deferred by owner steering.
 
-Detailed proofs: [S111 note](S111_R_PLUS_TWO_AND_EVEN_CAPS.md). Earlier notes: S106–S110 in this directory.
+Detailed proofs: [S112 note](S112_MULTI_ROUTE_SIEVE.md), [S111 note](S111_R_PLUS_TWO_AND_EVEN_CAPS.md). Earlier notes: S106–S110 in this directory.

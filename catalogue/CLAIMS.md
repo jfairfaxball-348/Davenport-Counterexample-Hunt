@@ -1801,3 +1801,19 @@ Both rest on two independent same-executor exhaustive algorithms with full cover
 - **CLM-0373 COMPUTED_EXACT.** TWO(a) is false for a = 3, 4, 5, by two algorithms in agreement. Optimal block packing falls short at n = 15 for a = 3 and a = 5. So the counting block method cannot prove the 5-value bound at n = 15.
 
 [S111 note](../research/S111_R_PLUS_TWO_AND_EVEN_CAPS.md) · [consolidation review](../research/S111_CONSOLIDATION_REVIEW.md). Claims 367→373. There is no SAT20/SAT15 or D-value statement, and the frontier is unchanged.
+
+## S112 — 18 October 2026 (SATURATION_FALLBACK session 7: multi-route sieve)
+
+- **CLM-0374 PROGRAMME_PROVED (FOUNDATION).** Multi-route block criterion. For each prime power a | n with D(C_a³) and D(C_{n/a}³) known: if t₀ + ν_lb(R) ≥ 3(n/a)−2, there is a zero-sum. It includes D₂(C₂³) = 7 and D_j ≤ D₂ + (j−2)D₁.
+- **CLM-0375 COMPUTED_EXACT.** Sieve outcomes (arithmetic only; two algorithms agree):
+  - n = 15: no surviving pattern for k ≤ 5.
+  - n = 20: none for k ≤ 6.
+  - n = 21 and 28: none for k ≤ 5.
+  - n = 30, 33, 35: none for k ≤ 4.
+- **CLM-0376 PROGRAMME_PROVED (unconditional, CLM-0142 only).** A zero-sumfree sequence over C15³ with ≤ 5 distinct values has length ≤ 42. This proves the content of CLM-0366 by hand; CLM-0366 is not relabelled.
+- **CLM-0377 PROGRAMME_PROVED, conditional on CLM-0375 and cited D-values.**
+  - (i) Every zero-sumfree 58-term sequence over C20³ has **≥ 7 distinct values**.
+  - (ii) The 5-value bound holds at n = 21.
+- **CLM-0378 COMPUTED_EXACT.** Residue: 5 surviving 6-valued patterns at n = 15 (all values of order 15), and 139 surviving 7-valued patterns at n = 20.
+
+[S112 note](../research/S112_MULTI_ROUTE_SIEVE.md) · [consolidation review](../research/S111_CONSOLIDATION_REVIEW.md). Claims 373→378. There is no SAT20/SAT15 or D-value statement, and the frontier is unchanged.

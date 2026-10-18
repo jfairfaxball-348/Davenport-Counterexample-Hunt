@@ -1,0 +1,20 @@
+{
+  "session": "S112",
+  "source_count_before": 34,
+  "source_count_after": 34,
+  "new_sources": {},
+  "source_promotions": [],
+  "sources_used_as_premises": {
+    "SRC-0023": "via CLM-0065 (D(C10^3)=28) for CLM-0377(i)",
+    "SRC-0001/SRC-0003": "via CLM-0039 (D(C4^3)=10) for CLM-0377(i)",
+    "SRC-0005": "via CLM-0356/0368 caps for CLM-0377(i)",
+    "SRC-0033/SRC-0034": "via CLM-0352/0350 caps for CLM-0377"
+  },
+  "CLM-0376_premises": "programme-proved only (CLM-0142, CLM-0369, CLM-0374)",
+  "original_source_records_untouched": 29,
+  "frontier_original_rows_untouched": 30,
+  "numerical_search_on_target_groups": false,
+  "computations": "arithmetic over multiplicity patterns (no group elements); exact tests on C_n^3 for n in {6,10,12} and C_2^3",
+  "external_certification": false,
+  "third_party_contact": false
+}

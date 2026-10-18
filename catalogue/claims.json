@@ -3763,6 +3763,58 @@
       "origin": "sessions/S111/two_a*_{A,B}.json; sessions/S111/S111_TESTS.json T4",
       "source_ids": [],
       "notes": "Two independent algorithms (relation-box enumeration; pair DP) with identical decision-stream SHA-256 per a; packing maxima by minimal-block DP cross-checked by all-block recursion. Obstruction to a proof method only; says nothing new about C15^3 sequences (CLM-0366 stands)."
+    },
+    {
+      "id": "CLM-0374",
+      "statement": "Multi-route block criterion: for S over C_n^3 with |S|=3n-2 and a prime power a|n with D(C_a^3) and D(C_{n/a}^3) equal to D*, with o_i=a/gcd(a,n/d_i), t0=sum floor(alpha_i/o_i) (alpha_i when o_i=1) and R=sum(alpha_i mod o_i): if t0+nu_lb(R)>=3(n/a)-2 then S has a nonempty zero-sum, where nu_lb uses D_1=3a-2, D_2(C_2^3)=7, D_2(C_p^3)<=5p-3 (odd p, CLM-0143), D_2<=2D_1, D_j<=D_2+(j-2)D_1.",
+      "category": "FOUNDATION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S112_MULTI_ROUTE_SIEVE.md section 2",
+      "source_ids": [],
+      "notes": "Hand proof from CLM-0354 and CLM-0369; D_2(C_2^3)=7 hand lemma checked exhaustively (T1). Constructive soundness tests on n=6,10,12: 651 closing-route runs, all zero-sums verified by checkers A and B (T2)."
+    },
+    {
+      "id": "CLM-0375",
+      "statement": "Route-sieve outcomes (surviving multiplicity patterns by number k of distinct values): n=15: k<=5 none, k=6 five, k=7 85; n=20: k<=6 none, k=7 139; n=21: k<=5 none, k=6 31; n=28: k<=5 none, k=6 28; n=30,33,35: k<=4 none, k=5 1/2/2; n=12,18: k<=6 none.",
+      "category": "COMPUTATION",
+      "status": "COMPUTED_EXACT",
+      "origin": "sessions/S112/ROUTE_SIEVE.json",
+      "source_ids": [],
+      "notes": "Arithmetic over multiplicity patterns only (no group-element computation); two independent algorithms (counting knapsack DP; recursive multiset enumeration with separately written closure test) agree on every count. Validity of exclusions rests on CLM-0374 and the premises listed in CLM-0377."
+    },
+    {
+      "id": "CLM-0376",
+      "statement": "Every zero-sumfree sequence over C15^3 with at most five distinct values has length <=42. Proof: routes 3 and 5 of CLM-0374 with D_1 only; both failing forces alpha_i = 2 mod 3 for all i and sum_i(4-(alpha_i mod 5))=2, which is arithmetically impossible with sum alpha_i=43.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S112_MULTI_ROUTE_SIEVE.md section 3",
+      "source_ids": [],
+      "notes": "Unconditional within the programme: uses only CLM-0142 (D(C3^3)=7, D(C5^3)=13) and CLM-0369/0374. Proves the content of CLM-0366; CLM-0366 keeps its COMPUTED_EXACT label (not relabelled). Not SAT15."
+    },
+    {
+      "id": "CLM-0377",
+      "statement": "(i) Every zero-sumfree 58-term sequence over C20^3 has at least seven distinct values. (ii) Every zero-sumfree sequence over C21^3 with at most five distinct values has length <=60.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S112_MULTI_ROUTE_SIEVE.md section 3",
+      "source_ids": [
+        "SRC-0023",
+        "SRC-0001",
+        "SRC-0003",
+        "SRC-0005",
+        "SRC-0033",
+        "SRC-0034"
+      ],
+      "notes": "Conditional on CLM-0374 and the arithmetic certificate CLM-0375, and for (i) on CLM-0065 (SOURCE_STATED D(C10^3)=28), CLM-0039 (SOURCE_STATED D(C4^3)=10), CLM-0142, CLM-0143, CLM-0350/0352 and CLM-0368/0356; for (ii) on CLM-0142, CLM-0143, CLM-0350/0352. Strengthens CLM-0367/0371/0372 at n=20. Not SAT20."
+    },
+    {
+      "id": "CLM-0378",
+      "statement": "Exact residue of the route sieve: at n=15 with six distinct values exactly five multiplicity patterns survive, all with every value of order 15: (2,4,8,8,8,13), (2,8,8,8,8,9), (3,8,8,8,8,8), (4,4,8,8,8,11), (4,7,8,8,8,8); at n=20 with seven distinct values 139 patterns survive.",
+      "category": "COMPUTATION",
+      "status": "COMPUTED_EXACT",
+      "origin": "sessions/S112/ROUTE_SIEVE.json",
+      "source_ids": [],
+      "notes": "Arithmetic survivors, not candidates; image-level analysis may close them. Two algorithms agree."
     }
   ]
 }
