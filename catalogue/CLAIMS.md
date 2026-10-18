@@ -1817,3 +1817,21 @@ Both rest on two independent same-executor exhaustive algorithms with full cover
 - **CLM-0378 COMPUTED_EXACT.** Residue: 5 surviving 6-valued patterns at n = 15 (all values of order 15), and 139 surviving 7-valued patterns at n = 20.
 
 [S112 note](../research/S112_MULTI_ROUTE_SIEVE.md) · [consolidation review](../research/S111_CONSOLIDATION_REVIEW.md). Claims 373→378. There is no SAT20/SAT15 or D-value statement, and the frontier is unchanged.
+
+## S113 — 18 October 2026 (SATURATION_FALLBACK session 8: proof-only closed-form route theorems)
+
+- **CLM-0379 PROGRAMME_PROVED (FOUNDATION).** Route-failure lemma. If a route a fails (even with D₁ only), then R ≥ 4a−2 + U(a−1). At least 4 + ⌈2/(a−1)⌉ values have image order > 1: six for a = 2, five for a ≥ 3. With all image orders a, R ≡ −2 (mod a).
+- **CLM-0380 PROGRAMME_PROVED.** Arithmetic theorem for coprime odd 3 ≤ A < B, n = AB. The system Σw = 2n−3, Σ(w mod A) = A−3, Σ(w mod B) = B−3 over five integers w_i:
+  - has no solution with w ≥ 0 at (3,5);
+  - has none with w ≥ 1 at (3,7);
+  - has an explicit solution with w_i ∈ [1, n−1] for every other pair.
+- **CLM-0381 PROGRAMME_PROVED.**
+  - (a) For n = pq (odd primes), routes p and q exclude every 5-valued (3n−2)-sequence **iff n ∈ {15, 21}**. This holds unconditionally at 15, and with the CLM-0350 cap at 21. It is a hand proof of the content of CLM-0377(ii); CLM-0377 is not relabelled.
+  - (b) For odd n = p^a q^b, the routes give only ≥ 5 values elsewhere.
+  - (c) Exact obstruction: every survivor has R_a = 4a−2. A bound D₂(C_a³) ≤ 4a−2 would close all 5-valued patterns, and CLM-0143 never acts at support 5.
+- **CLM-0382 PROGRAMME_PROVED, conditional on CLM-0065, CLM-0039 and CLM-0350/0352.** For n = 4p, a ≤ 6-valued pattern on which routes 2, 4 and p all fail has six values, all of order n, odd multiplicities, #{α ≡ 3 mod 4} ∈ {4, 6}, and Σ((−(α+1)) mod p) ∈ {p−4, 2p−4}.
+  - At p = 5 this is contradictory, so **n = 20 needs ≥ 7 distinct values by hand proof**. It needs neither CLM-0375 nor CLM-0143 nor CLM-0368. CLM-0377(i) is not relabelled.
+  - For p ≥ 7, α = (2p−3)⁴(2p+5)² survives.
+- **CLM-0383 PROGRAMME_PROVED.** Formula for the forced number of values: k*(n) = 5 + [n even] + [n ∈ {15, 20, 21}] for odd n = p^a q^b and for n = 4p. In general, k*(n) ≥ max over routes of 4 + ⌈2/(a−1)⌉.
+
+[S113 note](../research/S113_CLOSED_FORM_ROUTE_THEOREMS.md) · [consolidation review](../research/S111_CONSOLIDATION_REVIEW.md). Claims 378→383. There is no SAT20/SAT15 or D-value statement, and the frontier is unchanged.

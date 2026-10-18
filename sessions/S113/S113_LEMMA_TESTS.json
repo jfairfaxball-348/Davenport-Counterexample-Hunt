@@ -1,0 +1,104 @@
+{
+ "L1_theorem_A_constructions": {
+  "pairs_checked": 16180,
+  "BMAX": 401,
+  "failures": 0,
+  "pass": true
+ },
+ "L2_theorem_A_exceptions": {
+  "(3,5)_w>=0": 0,
+  "(3,7)_w>=1": 0,
+  "(3,7)_w>=0": [
+   [
+    0,
+    0,
+    9,
+    15,
+    15
+   ]
+  ],
+  "pass": true
+ },
+ "L3_theorem_A_reduction": {
+  "cases": {
+   "15": {
+    "five_valued_survivors": 0,
+    "equal_to_system_W": true,
+    "route_sieve_B_count": 0
+   },
+   "21": {
+    "five_valued_survivors": 0,
+    "equal_to_system_W": true,
+    "route_sieve_B_count": 0
+   },
+   "33": {
+    "five_valued_survivors": 2,
+    "equal_to_system_W": true,
+    "route_sieve_B_count": 2
+   },
+   "39": {
+    "five_valued_survivors": 3,
+    "equal_to_system_W": true,
+    "route_sieve_B_count": 3
+   },
+   "35": {
+    "five_valued_survivors": 2,
+    "equal_to_system_W": true,
+    "route_sieve_B_count": 2
+   },
+   "55": {
+    "five_valued_survivors": 11,
+    "equal_to_system_W": true,
+    "route_sieve_B_count": 11
+   },
+   "65": {
+    "five_valued_survivors": 42,
+    "equal_to_system_W": true,
+    "route_sieve_B_count": 42
+   }
+  },
+  "pass": true
+ },
+ "L4_theorem_B": {
+  "p5_conditions_solutions": 0,
+  "explicit_pattern_primes_checked": 43,
+  "PMAX": 199,
+  "six_valued_survivors_cap_n_minus_2_only": {
+   "20": 0,
+   "28": 28,
+   "44": 330,
+   "52": 794
+  },
+  "all_satisfy_B1_B4": true,
+  "pass": true
+ },
+ "L5_theorem_C_witnesses": {
+  "15": [
+   3,
+   8,
+   8,
+   8,
+   8,
+   8
+  ],
+  "21": [
+   2,
+   5,
+   5,
+   11,
+   19,
+   19
+  ],
+  "20": [
+   1,
+   3,
+   3,
+   3,
+   14,
+   17,
+   17
+  ],
+  "pass": true
+ },
+ "overall": "PASS"
+}

@@ -588,3 +588,12 @@ Algorithm A at n=20 ran at ≈ 0.1 s per pair under 14-way contention, against a
    - **Result:** 1,104 of 8,192 normalised (image, residue) cases keep too few blocks, and borrowing x⁴ blocks never rescued any of them.
    - **Lesson:** a single route is not enough. Combining routes 2, 4 and 5 closes the 6-valued case at n = 20 by arithmetic alone (CLM-0377). This exploration is uncommitted scratch work and supports no claim.
 2. **Process.** A first brute-force borrowing script was too slow. A stop attempt through a PID pipeline errored because of a wrong column, and the background job ended without printing results; nothing from it was used. It was replaced by a relation-module canonicalisation. **Lesson:** resolve the PID column explicitly before any kill.
+
+## S113 — The route method is sharp: multi-route gains are finite
+
+1. **Attempt.** Find a closed-form family of n = pq on which routes p and q exclude support 5, and a family of n = 4p needing ≥ 7 values.
+   - **Obstruction (stated symbolically).** For odd coprime A < B, the integer system Σw = 2AB−3, Σ(w mod A) = A−3, Σ(w mod B) = B−3 is solvable with w_i ≥ 1 for every pair except (3,5) and (3,7) (CLM-0380). So the two-route method proves support 5 only at n = 15 and 21.
+   - For n = 4p, the pattern α = (2p−3)⁴(2p+5)² survives every route for all p ≥ 7. The p = 5 proof rests on Σy ≤ 2Σu + #odd = 30 < 32, which fails for p ≥ 7.
+   - **Lesson:** counting over routes is exhausted on these families. Further progress needs D₂(C_a³) ≤ 4a−2 at the leftover level, which is false in its unrestricted form for a = 3, 5 (CLM-0373), or else image-level arguments.
+2. **D₂ lever.** It never acts at support 5, since every survivor has R_a = 4a−2 < 5a−3.
+3. **Process.** A background exploration was stopped with a command-line pattern kill (`pkill -f`). That matched and ended the calling shell itself; no other process was affected and no output from it is used. This broke the standing rule to resolve PIDs explicitly before a kill. **Lesson:** stop background jobs through the harness or by explicit PID, never by pattern.

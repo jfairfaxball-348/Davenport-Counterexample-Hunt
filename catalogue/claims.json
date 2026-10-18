@@ -3815,6 +3815,60 @@
       "origin": "sessions/S112/ROUTE_SIEVE.json",
       "source_ids": [],
       "notes": "Arithmetic survivors, not candidates; image-level analysis may close them. Two algorithms agree."
+    },
+    {
+      "id": "CLM-0379",
+      "statement": "Route-failure lemma: if a route a of CLM-0374 fails for a (3n-2)-term sequence over C_n^3 (even with nu_lb from D_1 only), then R >= 4a-2+U(a-1) with U the total multiplicity of values of image order 1; at least 4+ceil(2/(a-1)) values have image order >1 (6 for a=2, 5 for a>=3); if all image orders equal a then R = -2 mod a.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S113_CLOSED_FORM_ROUTE_THEOREMS.md section 1",
+      "source_ids": [],
+      "notes": "FOUNDATION; elementary consequence of CLM-0369/0374; all n."
+    },
+    {
+      "id": "CLM-0380",
+      "statement": "Arithmetic theorem: for coprime odd 3<=A<B and n=AB, the system sum w_i=2n-3, sum(w_i mod A)=A-3, sum(w_i mod B)=B-3 over five integers w_i has no solution with w_i>=0 when (A,B)=(3,5), none with w_i>=1 when (A,B)=(3,7) (solutions with some w_i=0 exist), and an explicit solution with all w_i in [1,n-1] for every other pair (constructions for A>=7, A=5 with B>=11, A=3 with B>=11; witnesses for (5,7),(5,9)).",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S113_CLOSED_FORM_ROUTE_THEOREMS.md section 2",
+      "source_ids": [],
+      "notes": "Pure integer arithmetic, hand proof; lemma tests L1/L2 are evidence only."
+    },
+    {
+      "id": "CLM-0381",
+      "statement": "(a) For n=pq with odd primes p<q, routes p and q of CLM-0374 exclude every five-valued (3n-2)-term sequence over C_n^3 iff n in {15,21}: unconditionally at n=15, with the CLM-0350 cap at n=21; for every other pq explicit all-order-n patterns survive. (b) For odd n=p^a q^b the two component routes give no more than the CLM-0359 bound except at n=15,21. (c) Every surviving five-valued pattern has leftover R_a=4a-2 at each route; a bound D_2(C_a^3)<=4a-2 for one route a would by itself exclude all five-valued patterns; CLM-0143 never acts at support 5.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S113_CLOSED_FORM_ROUTE_THEOREMS.md section 2",
+      "source_ids": [
+        "SRC-0033",
+        "SRC-0034"
+      ],
+      "notes": "Premises CLM-0142, CLM-0369/0374, CLM-0380; n=21 also CLM-0350 (cond. CLM-0352 SOURCE_STATED); (b) uses CLM-0039 (SOURCE_STATED) for prime-power D. Hand proof of the content of CLM-0377(ii) without CLM-0143 or CLM-0375; CLM-0377 not relabelled. Not SAT15."
+    },
+    {
+      "id": "CLM-0382",
+      "statement": "For n=4p (p>=5 prime), a (12p-2)-term sequence over C_n^3 with at most six distinct values on which routes 2, 4, p all fail has exactly six values, all of order n, all multiplicities odd, #{alpha_i = 3 mod 4} in {4,6}, and sum((-(alpha_i+1)) mod p) in {p-4,2p-4}. At p=5 these conditions contradict alpha<=n-2, so every zero-sumfree 58-term sequence over C20^3 has at least seven distinct values (hand proof). For every prime p>=7 (and n=4P, odd prime power P>=7) the pattern alpha=(2p-3)^4(2p+5)^2 of order-n values survives all routes.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S113_CLOSED_FORM_ROUTE_THEOREMS.md section 3",
+      "source_ids": [
+        "SRC-0023",
+        "SRC-0001",
+        "SRC-0003",
+        "SRC-0033",
+        "SRC-0034"
+      ],
+      "notes": "Conditional on CLM-0065 (D(C_2p^3), SOURCE_STATED), CLM-0039 (D(C4^3)=10, SOURCE_STATED), CLM-0142, CLM-0350/0352. Uses D_1 values only: no CLM-0143, no CLM-0368/0356, no computed CLM-0375. CLM-0377(i) not relabelled. Not SAT20."
+    },
+    {
+      "id": "CLM-0383",
+      "statement": "Forced-values formula: let k*(n) be the least number of distinct values of a (3n-2)-pattern surviving every route of CLM-0374. Then k*(n) >= max over routes a of 4+ceil(2/(a-1)) for every n; k*(n)=5+[n in {15,21}] for odd n=p^a q^b; k*(4p)=6+[p=5] for primes p>=5; i.e. k*(n)=5+[n even]+[n in {15,20,21}] on these families.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S113_CLOSED_FORM_ROUTE_THEOREMS.md section 4",
+      "source_ids": [],
+      "notes": "From CLM-0379..0382 with explicit hand-checkable survivors at n=15, 20, 21; premises as in CLM-0381/0382. A statement about the route method, not about D(C_n^3)."
     }
   ]
 }
