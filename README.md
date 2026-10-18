@@ -1,15 +1,15 @@
-# S110 checkpoint — 18 October 2026
+# S111 checkpoint — 18 October 2026
 
 **Priority: SATURATION_FALLBACK.** The open targets are D(C20³) = 58 and D(C15³) = 43.
 
-**New in S110:** the owner-authorised exhaustive campaigns CAM-0006/0007 ran to completion, with 56/56 shards and two independent algorithms in agreement.
-- **No zero-sumfree sequence with at most 5 distinct values reaches length 43 in C15³, or 58 in C20³.** The maxima are 42 and 57 (CLM-0366/0367).
-- With S108's CLM-0359, **any counterexample needs at least 6 distinct values.**
-- This excludes one family only. It is not SAT15/SAT20, and it is conditional on the hand-proved reductions. There is no Lean certificate.
+**Start here: the [consolidation review](research/S111_CONSOLIDATION_REVIEW.md).** It classifies every result as ALL-n, CONDITIONAL-on-family or n-SPECIFIC, with its dependencies.
 
-**Earlier fallback results:**
-- multiplicity caps (CLM-0350, CLM-0357);
-- the multiplicity-defect transfer (CLM-0355);
-- the small-support bound (CLM-0359).
+**New in S111 (generalisation, owner steering):**
+- Even-n multiplicity caps for **all even n**: order n ≤ n−3, order n/2 ≤ n/2−2 (CLM-0368).
+- **r+2-values bound at even n = 2b** whenever D(C_b^r) = D*, in any rank (CLM-0370). In rank 3 this proves the 5-value bound for n = 4p^k, including **n = 20** and 28 (CLM-0371). This is a proof route for the CLM-0367 bound independent of the S110 computation.
+- **Parity structure at even n:** any counterexample has ≥ 6 values of odd multiplicity outside 2G. With exactly six, their mod-2 images form a Fano plane minus a point (CLM-0372).
+- The counting block method provably cannot reach odd n such as 15 (CLM-0373).
 
-Claims 367, sources 34 (original 29 untouched), 30 frontier rows untouched, CI ABSENT_NOT_PASS. [S110 results](research/S110_SUPPORT5_EXHAUSTIVE_RESULTS.md) · [S109 tooling](research/S109_SUPPORT5_EXHAUSTIVE_TOOLING.md) · [registry](campaigns/REGISTRY.md) · [review](sessions/S110/REVIEW.md) · [S111 FUTURE](authoritative/NEXT_SESSION_PROMPT.md).
+**Earlier:** support-≤5 excluded at n15/n20 by exhaustive computation (CLM-0366/0367); multiplicity caps and transfer (CLM-0350/0355/0357); small-support bound (CLM-0359).
+
+Claims 373, sources 34 (original 29 untouched), 30 frontier rows untouched, CI ABSENT_NOT_PASS. [S111 note](research/S111_R_PLUS_TWO_AND_EVEN_CAPS.md) · [review](sessions/S111/REVIEW.md) · [S112 FUTURE](authoritative/NEXT_SESSION_PROMPT.md).

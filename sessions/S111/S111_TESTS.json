@@ -1,0 +1,359 @@
+{
+ "T1_even_caps_mechanical": {
+  "n_checked": "even 4..400 (199 values)",
+  "result": "order-n cap n-3, order-n/2 cap n/2-2, no other order changed; only (m,d) = (n,2), (n/2,1) give nd/m = 2",
+  "pass": true
+ },
+ "T2_even_caps_transfer_random": {
+  "cases": {
+   "4": {
+    "ord_n_mult_n-2": {
+     "trials": 60,
+     "max_length_found": 9,
+     "bound": 9
+    },
+    "ord_n/2_mult_n/2-1": {
+     "trials": 60,
+     "max_length_found": 8,
+     "bound": 8
+    }
+   },
+   "6": {
+    "ord_n_mult_n-2": {
+     "trials": 60,
+     "max_length_found": 13,
+     "bound": 15
+    },
+    "ord_n/2_mult_n/2-1": {
+     "trials": 60,
+     "max_length_found": 12,
+     "bound": 13
+    }
+   },
+   "8": {
+    "ord_n_mult_n-2": {
+     "trials": 60,
+     "max_length_found": 17,
+     "bound": 21
+    },
+    "ord_n/2_mult_n/2-1": {
+     "trials": 60,
+     "max_length_found": 15,
+     "bound": 18
+    }
+   },
+   "10": {
+    "ord_n_mult_n-2": {
+     "trials": 25,
+     "max_length_found": 19,
+     "bound": 27
+    },
+    "ord_n/2_mult_n/2-1": {
+     "trials": 25,
+     "max_length_found": 16,
+     "bound": 23
+    }
+   },
+   "12": {
+    "ord_n_mult_n-2": {
+     "trials": 25,
+     "max_length_found": 22,
+     "bound": 33
+    },
+    "ord_n/2_mult_n/2-1": {
+     "trials": 25,
+     "max_length_found": 18,
+     "bound": 28
+    }
+   },
+   "14": {
+    "ord_n_mult_n-2": {
+     "trials": 25,
+     "max_length_found": 25,
+     "bound": 39
+    },
+    "ord_n/2_mult_n/2-1": {
+     "trials": 25,
+     "max_length_found": 20,
+     "bound": 33
+    }
+   }
+  },
+  "pass": true
+ },
+ "T3_a2_reduction_constructive": {
+  "cases": {
+   "r2_n4": {
+    "trials": 300,
+    "length": 7,
+    "extra_block_used": 54,
+    "no_extra": 246
+   },
+   "r2_n6": {
+    "trials": 300,
+    "length": 11,
+    "extra_block_used": 55,
+    "no_extra": 245
+   },
+   "r2_n8": {
+    "trials": 300,
+    "length": 15,
+    "extra_block_used": 55,
+    "no_extra": 245
+   },
+   "r2_n10": {
+    "trials": 300,
+    "length": 19,
+    "extra_block_used": 43,
+    "no_extra": 257
+   },
+   "r3_n4": {
+    "trials": 200,
+    "length": 10,
+    "extra_block_used": 46,
+    "no_extra": 154
+   },
+   "r3_n6": {
+    "trials": 200,
+    "length": 16,
+    "extra_block_used": 34,
+    "no_extra": 166
+   },
+   "r3_n8": {
+    "trials": 200,
+    "length": 22,
+    "extra_block_used": 39,
+    "no_extra": 161
+   },
+   "r3_n10": {
+    "trials": 200,
+    "length": 28,
+    "extra_block_used": 34,
+    "no_extra": 166
+   },
+   "r3_n12": {
+    "trials": 200,
+    "length": 34,
+    "extra_block_used": 35,
+    "no_extra": 165
+   },
+   "r3_n14": {
+    "trials": 200,
+    "length": 40,
+    "extra_block_used": 26,
+    "no_extra": 174
+   },
+   "r4_n4": {
+    "trials": 100,
+    "length": 13,
+    "extra_block_used": 24,
+    "no_extra": 76
+   },
+   "r4_n6": {
+    "trials": 100,
+    "length": 21,
+    "extra_block_used": 14,
+    "no_extra": 86
+   }
+  },
+  "pass": true
+ },
+ "T4_odd_packing_obstructions": {
+  "cases": {
+   "a3_b5": {
+    "n": 15,
+    "values_mod_a": [
+     [
+      0,
+      0,
+      1
+     ],
+     [
+      0,
+      1,
+      0
+     ],
+     [
+      0,
+      1,
+      1
+     ],
+     [
+      1,
+      0,
+      0
+     ],
+     [
+      1,
+      1,
+      2
+     ]
+    ],
+    "alpha": [
+     2,
+     2,
+     11,
+     14,
+     14
+    ],
+    "minimal_zero_sum_vectors": 13,
+    "max_packing": 12,
+    "needed_D(C_b^3)": 13,
+    "cross_check": {
+     "alpha": [
+      2,
+      2,
+      5,
+      5,
+      5
+     ],
+     "dp": 4,
+     "brute": 4
+    }
+   },
+   "a5_b3": {
+    "n": 15,
+    "values_mod_a": [
+     [
+      1,
+      0,
+      0
+     ],
+     [
+      0,
+      1,
+      0
+     ],
+     [
+      0,
+      0,
+      1
+     ],
+     [
+      0,
+      1,
+      1
+     ],
+     [
+      1,
+      1,
+      2
+     ]
+    ],
+    "alpha": [
+     4,
+     3,
+     9,
+     14,
+     13
+    ],
+    "minimal_zero_sum_vectors": 26,
+    "max_packing": 6,
+    "needed_D(C_b^3)": 7,
+    "cross_check": {
+     "alpha": [
+      4,
+      3,
+      4,
+      9,
+      8
+     ],
+     "dp": 3,
+     "brute": 3
+    }
+   }
+  },
+  "pass": true
+ },
+ "T5_even_parity_structure": {
+  "cases": {
+   "4": {
+    "trials": 150,
+    "zero_sum_found": 140,
+    "residual_unhandled": 10,
+    "O_hist": {
+     "6": 22,
+     "3": 26,
+     "4": 49,
+     "2": 36,
+     "1": 5,
+     "5": 11,
+     "0": 1
+    }
+   },
+   "6": {
+    "trials": 150,
+    "zero_sum_found": 144,
+    "residual_unhandled": 6,
+    "O_hist": {
+     "4": 57,
+     "5": 6,
+     "2": 37,
+     "1": 11,
+     "6": 16,
+     "3": 22,
+     "0": 1
+    }
+   },
+   "8": {
+    "trials": 150,
+    "zero_sum_found": 143,
+    "residual_unhandled": 7,
+    "O_hist": {
+     "6": 10,
+     "2": 46,
+     "1": 12,
+     "4": 46,
+     "3": 26,
+     "0": 2,
+     "5": 8
+    }
+   },
+   "10": {
+    "trials": 150,
+    "zero_sum_found": 146,
+    "residual_unhandled": 4,
+    "O_hist": {
+     "4": 53,
+     "2": 44,
+     "6": 13,
+     "0": 4,
+     "3": 20,
+     "1": 11,
+     "5": 5
+    }
+   },
+   "12": {
+    "trials": 150,
+    "zero_sum_found": 146,
+    "residual_unhandled": 4,
+    "O_hist": {
+     "4": 41,
+     "2": 56,
+     "3": 19,
+     "5": 5,
+     "6": 16,
+     "1": 11,
+     "0": 2
+    }
+   },
+   "14": {
+    "trials": 150,
+    "zero_sum_found": 147,
+    "residual_unhandled": 3,
+    "O_hist": {
+     "3": 25,
+     "1": 12,
+     "4": 46,
+     "2": 51,
+     "6": 10,
+     "0": 3,
+     "5": 3
+    }
+   }
+  },
+  "fano_fact": "6 distinct nonzero: no two disjoint zero-sums; 7: yes",
+  "pass": true
+ },
+ "overall": "PASS"
+}

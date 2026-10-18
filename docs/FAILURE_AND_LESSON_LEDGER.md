@@ -573,3 +573,11 @@ Superseded pre-flight outputs from the code before sharding were discarded. Ever
 Algorithm A at n=20 ran at ≈ 0.1 s per pair under 14-way contention, against an estimate of 0.05 s scaled from settled n=10. The campaign still finished inside the pre-registered 12 h per-shard cap: the longest shard took 8.4 h. **Lesson:** extrapolate branch-and-bound cost from the largest settled instance, measured under the same concurrency as the campaign, and keep the walltime cap generous. The cap was what made this safe.
 
 **Process:** the app's keep-awake hold lapses when the session goes idle, so a runtime-only SetThreadExecutionState helper held the machine awake for the run. Overnight runs need both.
+
+## S111 — The block method fails for odd n (exact obstruction)
+
+1. **Attempt.** Prove the 5-value bound over C_{ab}³ by packing disjoint blocks with sums in aG and applying D(C_b³). With five values the leftover is small, so the deficit is at most 2. Closing it needs the finite lemma TWO(a): every 5-valued sequence over C_a³ of length ≥ 4a−2 has two disjoint zero-sums.
+2. **Obstruction.** TWO(a) is **false** for a = 3, 4, 5 (CLM-0373; two algorithms agree). Optimal re-partition of all blocks also falls short at n = 15: 12 < 13 for a = 3 and 6 < 7 for a = 5. The same value pattern e₁, e₂, e₃, e₂+e₃, e₁+e₂+2e₃ obstructs both.
+   - **Lesson:** counting blocks cannot settle odd n. A proof must use the values of the block sums, or a polynomial argument.
+   - The method succeeds for a = 2 (CLM-0370), where the leftover is at most r+2 vectors of F₂^r.
+3. **Process.** The two-disjoint check was first run before a docstring edit. All six runs were repeated with the final, hash-recorded code; the decision-stream hashes were identical.

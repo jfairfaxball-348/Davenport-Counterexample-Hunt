@@ -3699,6 +3699,70 @@
       "origin": "campaigns/CAM-0007/RESULT.json",
       "source_ids": [],
       "notes": "S110 CAM-0007 EXHAUSTIVE (support-<=5 family only), two independent same-executor algorithms (A 4162730 pairs, B 2866880 pairs), full coverage, all 28 shards exit 0, agreement on max and optimum-value set {33,36,39,45,48,57}. Conditional on PROGRAMME_PROVED CLM-0358, CLM-0361..0364. Not SAT20; not FORMALLY_CERTIFIED."
+    },
+    {
+      "id": "CLM-0368",
+      "statement": "Even-n multiplicity caps: for every even n>=4, a zero-sumfree sequence over C_n^3 containing an order-n element with multiplicity n-2 has length <=3n-3, and one containing an order-(n/2) element with multiplicity n/2-1 has length <=5n/2-2. Hence a zero-sumfree (3n-2)-term sequence has order-n multiplicities <=n-3 and order-(n/2) multiplicities <=n/2-2. Generalises CLM-0357.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S111_R_PLUS_TWO_AND_EVEN_CAPS.md section 1",
+      "source_ids": [
+        "SRC-0005",
+        "SRC-0033",
+        "SRC-0034"
+      ],
+      "notes": "Conditional on SOURCE_STATED CLM-0356 (D(C2+Cn+Cn)=2n from SRC-0005 Thm 2.7) and CLM-0352; CLM-0355 levers (m,d,j)=(n,2,2),(n/2,1,1). Mechanical cap derivation for even n<=400 and random exact transfer tests n=4..14 (sessions/S111/S111_TESTS.json T1/T2). No SAT20/SAT15 statement."
+    },
+    {
+      "id": "CLM-0369",
+      "statement": "Block-packing lemma: for n=ab and S over C_n^r, if S contains D(C_b^r) pairwise disjoint nonempty subsequences with sums in aG then S has a nonempty zero-sum. With blocks g_i^{o_i} (o_i the order of g_i+aG) one gets t0>=(|S|-R)/a blocks, R=sum of residues alpha_i mod o_i, and for |S|=r(n-1)+1 and D(C_b^r)=D* the deficit is at most floor((R-(a-1)(r-1))/a).",
+      "category": "FOUNDATION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S111_R_PLUS_TWO_AND_EVEN_CAPS.md section 2",
+      "source_ids": [],
+      "notes": "Elementary hand proof; classical subgroup-inequality in spirit (cf. CLM-0150); no novelty claimed."
+    },
+    {
+      "id": "CLM-0370",
+      "statement": "r+2 values at even n: if D(C_b^r)=r(b-1)+1 then every zero-sumfree sequence over C_{2b}^r with at most r+2 distinct values has length <=r(2b-1).",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S111_R_PLUS_TWO_AND_EVEN_CAPS.md section 3",
+      "source_ids": [],
+      "notes": "Conditional on the premise D(C_b^r)=D*. Proof: CLM-0369 with a=2, leftover R<=r+2, deficit<=1 closed by linear dependence in F_2^r. Constructive tests: 2,600 random instances r=2,3,4, zero-sum verified by checkers A and B (T3)."
+    },
+    {
+      "id": "CLM-0371",
+      "statement": "Rank three: every zero-sumfree sequence over C_n^3 with at most 5 distinct values has length <=3n-3 whenever n=2b with D(C_b^3)=3b-2; in particular for n=4p^k (p odd prime), including n=20 and n=28. At n=20 this re-proves the CLM-0367 bound by a route sharing no premise with CAM-0007.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S111_R_PLUS_TWO_AND_EVEN_CAPS.md section 3",
+      "source_ids": [
+        "SRC-0023",
+        "SRC-0001",
+        "SRC-0003"
+      ],
+      "notes": "Conditional on CLM-0370 and the cited D-value: CLM-0065 (SOURCE_STATED, D(C_{2p^a}^3)=6p^a-2) for n=4p^k; also CLM-0142/0039/0064/0066 for already-settled n. CLM-0367 keeps its COMPUTED_EXACT label (not relabelled). Not SAT20."
+    },
+    {
+      "id": "CLM-0372",
+      "statement": "Even-n parity structure: if n=2b with D(C_b^3)=3b-2 and S is a zero-sumfree (3n-2)-term sequence over C_n^3 (any support), let O be the distinct values outside 2G with odd multiplicity. Then |O|>=6, |O|!=7, and if |O|=6 the images of O in G/2G=F_2^3 are the six nonzero vectors other than some P; generally the images of O contain fewer than floor((|O|-2)/2) disjoint zero-sums. At n=20 a 6-valued counterexample has all multiplicities odd, all values outside 2G, and mod-2 images forming a Fano plane minus a point.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S111_R_PLUS_TWO_AND_EVEN_CAPS.md section 4",
+      "source_ids": [
+        "SRC-0023"
+      ],
+      "notes": "Conditional on the D(C_b^3) premise (CLM-0065 at n=20, 28). Tests T5: 900 random 6/7-valued sequences n=4..14 and exhaustive Fano-complement fact. Necessary conditions only; does not exclude the residual family; no SAT20 statement."
+    },
+    {
+      "id": "CLM-0373",
+      "statement": "The finite lemma TWO(a) (every sequence over C_a^3 with <=5 distinct values and length >=4a-2 has two disjoint nonempty zero-sums) is false for a=3,4,5 (5,616 / 432 / 7,188 failing reduced instances), and optimal mod-a block packing falls short at n=15 for both factorizations (a=3: 12<13; a=5: 6<7), so the counting block method cannot prove the 5-value bound at n=15.",
+      "category": "COMPUTATION",
+      "status": "COMPUTED_EXACT",
+      "origin": "sessions/S111/two_a*_{A,B}.json; sessions/S111/S111_TESTS.json T4",
+      "source_ids": [],
+      "notes": "Two independent algorithms (relation-box enumeration; pair DP) with identical decision-stream SHA-256 per a; packing maxima by minimal-block DP cross-checked by all-block recursion. Obstruction to a proof method only; says nothing new about C15^3 sequences (CLM-0366 stands)."
     }
   ]
 }

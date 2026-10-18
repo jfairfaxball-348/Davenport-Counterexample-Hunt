@@ -518,3 +518,18 @@ Execution of the support-≤5 exhaustive campaigns. Entry was main `e3ecb17b015a
 - **Cost:** ≈ 146 CPU-h actual, against 72 estimated.
 
 [Note](../research/S110_SUPPORT5_EXHAUSTIVE_RESULTS.md) · [review](../sessions/S110/REVIEW.md) · [closeout](../sessions/S110/CLOSEOUT.md).
+
+## S111 — 18 October 2026
+
+Consolidation and generalisation review (SATURATION_FALLBACK session 6) under the 18 October owner steering. Entry was main `f8c9df20c687e0cc8ecabfe395d52526a365283d` (governance merge #118).
+- **(a)** [Consolidation review](../research/S111_CONSOLIDATION_REVIEW.md): every result classified as ALL-n, CONDITIONAL-on-family or n-SPECIFIC, with its dependencies. It is now the entry point.
+- **(b)** CLM-0368: even-n caps n−3 (order n) and n/2−2 (order n/2) for all even n, conditional on the source-stated CLM-0352/0356.
+- **(c)** CLM-0369..0372:
+  - The block-packing lemma.
+  - The r+2-values bound for n = 2b whenever D(C_b^r) = D*, in any rank. In rank 3 this covers n = 4p^k, including n = 20 and 28.
+  - An even-n parity structure for every support: ≥ 6 odd-multiplicity values outside 2G, and with exactly six, mod-2 images F₂³∖{0,P}.
+- **Failure isolated:** CLM-0373 (COMPUTED_EXACT). The two-disjoint-zero-sums lemma fails for a = 3, 4, 5, and block packing falls short at n = 15, so the method cannot reach odd n.
+- **(d)** Lean deferred.
+- Claims 367→373. No C15³/C20³ computation. Frontier unchanged.
+
+[Note](../research/S111_R_PLUS_TWO_AND_EVEN_CAPS.md) · [review](../sessions/S111/REVIEW.md) · [closeout](../sessions/S111/CLOSEOUT.md).
