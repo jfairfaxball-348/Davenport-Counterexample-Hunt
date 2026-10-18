@@ -33,8 +33,8 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S112",
-  "recommended_next_session": "S113",
+  "last_completed_session": "S113",
+  "recommended_next_session": "S114",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": [
@@ -1838,8 +1838,8 @@
     "fallback_priority": "SATURATION_FALLBACK",
     "fallback_statement": "For every zero-sumfree 57-term indexed sequence in C20^3, subset sums including empty equal the full group, equivalently no zero-sumfree 58-term sequence exists.",
     "superseded_target": "S103 exceptional five-flat colour subclass continuation",
-    "next_session": "S113_FUTURE_UNEXECUTED (proof-only generalisation; see NEXT_SESSION_PROMPT)",
-    "last_completed": "S112",
+    "next_session": "S114_FUTURE_UNEXECUTED (proof-only continuation; see NEXT_SESSION_PROMPT)",
+    "last_completed": "S113",
     "proof_gate": "PHASE1_SCOPED_PASS; PHASE2_SCOPED_PASS (R1, R2 engines); PHASE3 rounds 1-2 COMPLETED, search closed",
     "original_campaign": "CAM-0001_PROPOSED_NOT_RUNNING_BLOCKED (obsolete n6, not reactivated)",
     "comment": "S105 active search session 2: round 2 executed on both targets, complete; fallback trigger met; priority SATURATION_FALLBACK.",
@@ -1880,7 +1880,7 @@
       "engine_r2": "tools/zsf/lns_engine.py R2-LNS-1.0",
       "preflight_r2": "sessions/S104/LNS_PREFLIGHT.json PASS"
     },
-    "decisive_evidence": "support-<=5 family excluded at n15/n20 by two exhaustive algorithms (CLM-0366/0367); combined with CLM-0359 any counterexample needs >= 6 distinct values; SAT20/SAT15 OPEN; S111: at n=20 the support-<=5 bound is also proved (CLM-0371, cond. CLM-0065) and any counterexample has >=6 distinct odd-multiplicity values outside 2G (CLM-0372); S112: n=15 support-<=5 by hand proof (CLM-0376); n=20 needs >=7 distinct values (CLM-0377)",
+    "decisive_evidence": "support-<=5 family excluded at n15/n20 by two exhaustive algorithms (CLM-0366/0367); combined with CLM-0359 any counterexample needs >= 6 distinct values; SAT20/SAT15 OPEN; S111: at n=20 the support-<=5 bound is also proved (CLM-0371, cond. CLM-0065) and any counterexample has >=6 distinct odd-multiplicity values outside 2G (CLM-0372); S112: n=15 support-<=5 by hand proof (CLM-0376); n=20 needs >=7 distinct values (CLM-0377); S113: hand proofs of n=21 support-<=5 (CLM-0381) and n=20 >=7 values (CLM-0382) without computed certificates; route method provably cannot go further on odd n=p^a q^b (n>21) or n=4p (p>=7) (CLM-0383)",
     "switch_rationale": "TRIGGERED S105: two completed materially distinct bounded documented rounds covering n15/n20; no two-checker candidate, no certified exclusion, no substantive structural theorem (CLM-0347 is an elementary tooling lemma).",
     "active_search_sessions": [
       "S104",
@@ -1905,7 +1905,7 @@
     "priority_switched_in": "S105",
     "priority_switch_date": "2026-10-17",
     "search_reopen_condition": "explicit owner directive, or a substantive structural reason recorded as a claim followed by a full preregistration; R1/R2 parameter tweaks do not qualify",
-    "number_of_fallback_sessions": 7,
+    "number_of_fallback_sessions": 8,
     "fallback_sessions": [
       "S106",
       "S107",
@@ -1913,9 +1913,10 @@
       "S109",
       "S110",
       "S111",
-      "S112"
+      "S112",
+      "S113"
     ],
-    "fallback_progress": "S106 CLM-0348..0352: order-n multiplicity cap n-2 (cond. rank-two D). S107 CLM-0353..0357: multiplicity-defect transfer; n20 order-20 cap 17, order-10 cap 8 (cond. CLM-0352/0356). S108 CLM-0358..0360: unconditional small-support bound, counterexample needs >= 5 distinct values; support-5 case reduced to a finite rank-2 relation-module problem. S111 CLM-0368..0373: even-n caps n-3 / n/2-2 for all even n (cond. CLM-0352/0356); block-packing lemma; r+2-values bound at n=2b given D(C_b^r)=D* (any r), rank-3 corollary n=4p^k incl. n=20,28 (cond. CLM-0065); even-n parity structure (>=6 odd-multiplicity values outside 2G, exactly six => mod-2 images F2^3 minus {0,P}); exact obstruction: the counting block method cannot reach odd n (TWO(a) false a=3,4,5; packing short at n=15). S112 CLM-0374..0378: multi-route block sieve; n=15 support-<=5 bound by unconditional hand proof (CLM-0376); n=20 counterexample needs >=7 distinct values (CLM-0377(i), cond. CLM-0065/0039 etc.); n=21 support-<=5 bound; residue 5 six-valued patterns at n=15, 139 seven-valued at n=20.",
+    "fallback_progress": "S106 CLM-0348..0352: order-n multiplicity cap n-2 (cond. rank-two D). S107 CLM-0353..0357: multiplicity-defect transfer; n20 order-20 cap 17, order-10 cap 8 (cond. CLM-0352/0356). S108 CLM-0358..0360: unconditional small-support bound, counterexample needs >= 5 distinct values; support-5 case reduced to a finite rank-2 relation-module problem. S111 CLM-0368..0373: even-n caps n-3 / n/2-2 for all even n (cond. CLM-0352/0356); block-packing lemma; r+2-values bound at n=2b given D(C_b^r)=D* (any r), rank-3 corollary n=4p^k incl. n=20,28 (cond. CLM-0065); even-n parity structure (>=6 odd-multiplicity values outside 2G, exactly six => mod-2 images F2^3 minus {0,P}); exact obstruction: the counting block method cannot reach odd n (TWO(a) false a=3,4,5; packing short at n=15). S112 CLM-0374..0378: multi-route block sieve; n=15 support-<=5 bound by unconditional hand proof (CLM-0376); n=20 counterexample needs >=7 distinct values (CLM-0377(i), cond. CLM-0065/0039 etc.); n=21 support-<=5 bound; residue 5 six-valued patterns at n=15, 139 seven-valued at n=20. S113 CLM-0379..0383 (proof only): route-failure lemma; two-coprime-route theorem: for odd n=AB routes exclude support 5 iff n in {15,21} (hand proofs both directions, explicit survivors otherwise); exact obstruction D_2(C_a^3)<=4a-2; n=4p family theorem: n=20 >=7 values by hand proof (D_1 values only), explicit survivors for p>=7; forced-values formula k*(n)=5+[n even]+[n in {15,20,21}] on these families.",
     "search_reopen_condition_met": "PARTIAL_OWNER_AUTHORISED_SUPPORT5_EXHAUSTIVE_ONLY",
     "search_reopen_candidate": "OWNER AUTHORISED 2026-10-17: EXHAUSTIVE support-5 classification at n15/n20 via CLM-0358 (tooling gate + preregistration first; never run in the preregistering session)",
     "owner_authorisations": [
@@ -2236,6 +2237,37 @@
     "n20": "counterexample needs >=7 distinct values (CLM-0377(i), conditional); residue 139 seven-valued patterns",
     "n21": "support <=5 bound (CLM-0377(ii), conditional)",
     "target_group_computation": false,
+    "sources_total": 34,
+    "sources_original_untouched": 29,
+    "frontier_original_rows_untouched": 30,
+    "frontier_changed": false,
+    "ci": "ABSENT_NOT_PASS",
+    "review": "INTERNAL_SAME_EXECUTOR",
+    "counterexample_status": "NONE_CLAIMED"
+  },
+  "s113_result": {
+    "date": "2026-10-18",
+    "entry_main": "da61638f22f51cf9fcd7c589c5ca8aa4312353a5",
+    "entry_true_git_root_tree": "5de8d042e39d90028cd4ffff0bd53ed4ebcd15af",
+    "entry_merge_parents": [
+      "4e02b923358842bcbcef76b56837edf2d4db9877",
+      "fca339a6cc77d1539b4989add678ccbdb65588e5"
+    ],
+    "kind": "SATURATION_FALLBACK session 8: proof-only closed-form route theorems (owner steering 2026-10-18, proof-only)",
+    "note": "research/S113_CLOSED_FORM_ROUTE_THEOREMS.md",
+    "claims": [
+      "CLM-0379",
+      "CLM-0380",
+      "CLM-0381",
+      "CLM-0382",
+      "CLM-0383"
+    ],
+    "claims_total": 383,
+    "theorem_A": "odd n=AB coprime routes: support-5 excluded by routes iff n in {15,21}",
+    "theorem_B": "n=4p: n=20 needs >=7 values (hand proof); p>=7 explicit survivors",
+    "theorem_C": "k*(n)=5+[n even]+[n in {15,20,21}] on odd p^a q^b and 4p",
+    "target_group_computation": false,
+    "lemma_tests": "sessions/S113/S113_LEMMA_TESTS.json (evidence only)",
     "sources_total": 34,
     "sources_original_untouched": 29,
     "frontier_original_rows_untouched": 30,

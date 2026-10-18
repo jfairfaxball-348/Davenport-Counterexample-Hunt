@@ -1,0 +1,11 @@
+{
+ "claims": "383; first 378 identical to entry",
+ "unchanged": "sources, frontier, checkers, S112 tools",
+ "hand_proof_arithmetic": "(3,5) w>=0, (3,7) w>=1 and the n=20 (B1)-(B4) system have no solution",
+ "lemma_tests": "L1-L5 PASS (evidence only)",
+ "tool_sha256_lf": {
+  "tools/zsf/test_s113.py": "f028f6dfa312d60ab5e623ee55cf3fd84b2044a544b191108132cc146640ba1f"
+ },
+ "state": "consistent; counters frozen; fallback sessions 8",
+ "overall": "PASS"
+}

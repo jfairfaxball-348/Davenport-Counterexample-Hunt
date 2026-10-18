@@ -1,6 +1,6 @@
-# Consolidation review: what we know (S111, updated S112; 18 October 2026)
+# Consolidation review: what we know (S111, updated S112 and S113; 18 October 2026)
 
-This is the **single entry point** to the programme's results. It classifies every result from S103–S112 (CLM-0345..0378), plus the earlier results worth carrying forward, into three groups: **ALL-n**, **CONDITIONAL-on-family** and **n-SPECIFIC**. For each result it states what the result depends on and its scope. Statuses are those of `catalogue/claims.json`; this review upgrades nothing.
+This is the **single entry point** to the programme's results. It classifies every result from S103–S113 (CLM-0345..0383), plus the earlier results worth carrying forward, into three groups: **ALL-n**, **CONDITIONAL-on-family** and **n-SPECIFIC**. For each result it states what the result depends on and its scope. Statuses are those of `catalogue/claims.json`; this review upgrades nothing.
 
 **Targets (OPEN):** SAT20 (D(C20³) = 58) and SAT15 (D(C15³) = 43). The open rows of the frontier at n ≤ 30 are n = 15, 20, 21, 28, 30.
 
@@ -15,7 +15,12 @@ A zero-sumfree sequence of length 3n−2 over C_n³ (a counterexample) is constr
   - with exactly six such values, their mod-2 images form a Fano plane minus a point.
 - **n = 20 (S112):** ≥ **7** distinct values, by proof from the multi-route sieve (CLM-0377(i)).
 - **n = 15:** ≥ 6 distinct values, now **by an unconditional hand proof** (CLM-0376, two block routes 3 and 5), as well as by computation (CLM-0366). A single block route cannot give this (CLM-0373); two routes together do.
-- **n = 21:** ≥ 6 distinct values (CLM-0377(ii)).
+- **n = 21:** ≥ 6 distinct values (CLM-0377(ii)); since S113 also by hand proof (CLM-0381).
+- **S113, sharpness of the route method:**
+  - For odd n = AB with coprime routes A < B, the routes exclude support 5 **iff n ∈ {15, 21}** (CLM-0380/0381).
+  - For n = 4p they force ≥ 7 values **iff p = 5**; the n = 20 case is now a hand proof using D₁ values only (CLM-0382).
+  - Formula: k*(n) = 5 + [n even] + [n ∈ {15, 20, 21}] on these families (CLM-0383).
+  - The exact obstruction to going further is D₂(C_a³) ≤ 4a−2 at the leftover level.
 
 Nothing proves or refutes SAT15/SAT20.
 
@@ -40,6 +45,8 @@ These hold for every n, and where stated for any rank r or any finite abelian gr
 | CLM-0361..0364 | support-5 reduction to rank-2 free summands K ⊂ (Z/n)^5; CRT; local counts; S₅ symmetry | all n | hand proofs |
 | CLM-0369 | **block-packing lemma** (pack disjoint blocks with sums in aG, apply D(C_b^r)); deficit ≤ ⌊(R − (a−1)(r−1))/a⌋ | C_n^r, n = ab | hand proof |
 | CLM-0153 | basis plus one extra value excluded | all n | hand proof; subsumed by CLM-0359 |
+| CLM-0379 | **route-failure lemma:** a failing route has R ≥ 4a−2 + U(a−1); ≥ 6 (a = 2) or ≥ 5 (a ≥ 3) values of image order > 1 | C_n³, all n | CLM-0369/0374 |
+| CLM-0380 | arithmetic theorem: the two-route system (W) is solvable for all coprime odd A < B except (3,5), and (3,7) with w ≥ 1 | integers | hand proof |
 | CLM-0374 | **multi-route block criterion** (all prime-power routes a \| n at once; D₂(C₂³) = 7; D_j ≤ D₂ + (j−2)D₁) | C_n³, all n (each route needs its two D-values) | CLM-0354, CLM-0369, CLM-0143 |
 
 ## 2. CONDITIONAL-on-family results
@@ -53,6 +60,9 @@ These hold for every n in a family, given a smaller or different group's Davenpo
 | CLM-0370 | **r+2 values at even n:** zero-sumfree with ≤ r+2 values over C_{2b}^r has length ≤ r(2b−1) | n = 2b, any r, with D(C_b^r) = D* | CLM-0369 + that D-value |
 | CLM-0371 | r = 3 case of CLM-0370: 5-valued bound 3n−3 | n = 2b with D(C_b³) known: **n = 4p^k (20, 28, 44, …)**, plus already-settled n | CLM-0370 + CLM-0142 / 0039 / 0064 / 0065 / 0066 |
 | CLM-0372 | **even-n parity structure:** ≥ 6 values of odd multiplicity outside 2G; exactly six ⇒ images F₂³∖{0,P}; never seven | n = 2b with D(C_b³) known (20, 28, …) | CLM-0369 + that D-value |
+| CLM-0381 | **two coprime routes:** support 5 excluded by the routes iff n ∈ {15, 21}; explicit survivors otherwise; obstruction D₂(C_a³) ≤ 4a−2 | odd n = pq (and p^a q^b) | CLM-0380, CLM-0142; n = 21: CLM-0350/0352; p^a q^b: CLM-0039 |
+| CLM-0382 | **n = 4p:** surviving ≤ 6-valued patterns are all-order-n, odd, #{α ≡ 3 mod 4} ∈ {4,6}, Σ((−α−1) mod p) ∈ {p−4, 2p−4}; contradictory at p = 5 (n = 20 needs ≥ 7 values); explicit survivor for p ≥ 7 | n = 4p | CLM-0065, CLM-0039, CLM-0142, CLM-0350/0352 (D₁ values only) |
+| CLM-0383 | **forced-values formula** k*(n) = 5 + [n even] + [n ∈ {15,20,21}] | odd p^a q^b; 4p | CLM-0379..0382 |
 | CLM-0142 | D(C_p³) = 3p−2 | primes p (unconditional) | Chevalley–Warning, hand proof |
 | CLM-0143, 0148, 0149 | D₂(C_p³) ≤ 5p−3; η and D_k bounds for p ≥ 7 | primes | hand proofs, some with source inputs (see claims) |
 | CLM-0150 | the bare subgroup inequality overshoots 3pm−2 by 1–2 at n = 15, 20, 21, 28, 30 | composite n | source-stated D_k values |
@@ -70,7 +80,7 @@ These hold for every n in a family, given a smaller or different group's Davenpo
 | CLM-0373 | TWO(a) false for a = 3, 4, 5; a *single* route falls short at n = 15 for a = 3 and a = 5 (COMPUTED_EXACT) | finite C_a³; 15 | two algorithms; exact packing DP |
 | CLM-0375 | route-sieve outcomes (COMPUTED_EXACT, arithmetic only) | 12, 15, 18, 20, 21, 28, 30, 33, 35 | two algorithms |
 | CLM-0376 | **support-≤5 bound at n = 15 (hand proof, unconditional)** | 15 | CLM-0142, CLM-0369/0374 |
-| CLM-0377 | **n = 20: ≥ 7 distinct values**; n = 21: support-≤5 bound | 20, 21 | CLM-0375 + CLM-0065/0039/0142/0143/0350/0368 |
+| CLM-0377 | **n = 20: ≥ 7 distinct values**; n = 21: support-≤5 bound | 20, 21 | CLM-0375 + CLM-0065/0039/0142/0143/0350/0368; **S113 hand proofs with fewer premises: CLM-0382 (n = 20), CLM-0381 (n = 21)** |
 | CLM-0378 | residue: 5 six-valued patterns at n = 15 (all order 15); 139 seven-valued patterns at n = 20 (COMPUTED_EXACT) | 15, 20 | two algorithms |
 | S104/S105 rounds (CAM-0002..0005) | heuristic search, best 42 / 57; **no proof content** | 15, 20 | HEURISTIC budgets |
 | S060–S102 axial programme | conditional local structure of hypothetical extremal C20³ configurations (axial q-groups, Fano/colour collisions, five-flat sub-cases) | 20 (with C10³/C5³ quotients) | source-conditional hand proofs; **not re-audited in S111**; none excludes a counterexample; not carried forward as a lever |
@@ -85,15 +95,18 @@ These hold for every n in a family, given a smaller or different group's Davenpo
 - **r = 3:**
   - Proved for n = 2b with D(C_b³) known (CLM-0371); this includes n = 20 and 28.
   - Implied by the known D for prime powers, 2p^k, 6 and 3·2^k.
-  - Proved at n = 15 (CLM-0376, unconditional) and n = 21 (CLM-0377(ii)) by the multi-route sieve; also computed at n = 15 (CLM-0366).
-  - **Open** for n = 30, 33, 35 (1, 2 and 2 arithmetic survivors) and for other odd composite n not yet sieved.
+  - Proved at n = 15 (CLM-0376, unconditional) and n = 21 (CLM-0377(ii); hand proof CLM-0381) by the multi-route method; also computed at n = 15 (CLM-0366).
+  - **Open** for n = 30 and for every other odd composite n. For odd n = p^a q^b ≠ 15, 21 the route method **provably cannot** prove it (CLM-0381): this needs new ideas, not a finer sieve.
 - **General r:** proved for n = 2p^k (CLM-0370 + CLM-0039).
 
 ## 5. Where the frontier of ideas is
+
+**S113 conclusion:** route counting is exhausted on odd n = p^a q^b and on n = 4p (CLM-0383). Any further reduction must use either D₂-type information on leftovers of length 4a−2 with prescribed multiplicities, or the actual images of the values.
+
 
 1. **n = 20:** the 6-valued case is closed (CLM-0377). The 7-valued residue is 139 multiplicity patterns (CLM-0378). The next step is image-level analysis in C₂³ / C₄³ / C₅³, combined with the parity structure CLM-0372, and sharper small-group constants D₂, D₃.
 2. **n = 15:** the 6-valued residue is five patterns, all values of order 15 (CLM-0378). These can be attacked by exact image analysis in C₃³ and C₅³, which are small groups.
 3. Any computation on target groups needs an owner decision and pre-registration.
 4. **Lean certification:** deferred by owner steering.
 
-Detailed proofs: [S112 note](S112_MULTI_ROUTE_SIEVE.md), [S111 note](S111_R_PLUS_TWO_AND_EVEN_CAPS.md). Earlier notes: S106–S110 in this directory.
+Detailed proofs: [S113 note](S113_CLOSED_FORM_ROUTE_THEOREMS.md), [S112 note](S112_MULTI_ROUTE_SIEVE.md), [S111 note](S111_R_PLUS_TWO_AND_EVEN_CAPS.md). Earlier notes: S106–S110 in this directory.

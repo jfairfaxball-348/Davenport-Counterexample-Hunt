@@ -45,3 +45,7 @@ Environment: Python 3.12.10, numpy 1.26.4, Windows 11, i7-11800H (16 logical CPU
 - `support5_a.py` (algorithm A) and `support5_b.py` (algorithm B): two independent exhaustive tools. Each computes the exact maximum zero-sumfree length over C_n³ for sequences with at most 5 distinct values, over all free rank-2 relation modules up to S₅. See CLM-0361..0364.
 - **Options:** `--shard k --nshards N`, `--threshold`, `--report-keys-at`, and `--checkpoint` (JSONL).
 - **Pre-flight:** `sessions/S109/PREFLIGHT_SUMMARY.json`. The hashes are pinned in CAM-0006/0007.
+
+## S113 — lemma tests (evidence only)
+
+- `test_s113.py`: arithmetic tests of the S113 hand-proved lemmas (CLM-0380..0383) over integers and multiplicity patterns only. It checks the Theorem A constructions for all coprime odd pairs up to 401, brute-forces the (3,5)/(3,7) exceptions and the n = 20 system, compares five-valued survivors with `route_sieve.py` for pq ≤ 65, and checks the Theorem B/C witnesses. It takes about 35 s and writes `sessions/S113/S113_LEMMA_TESTS.json`.

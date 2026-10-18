@@ -545,3 +545,14 @@ Generalisation continued (SATURATION_FALLBACK session 7). Entry was main `890217
 - Claims 373→378. No C15³/C20³ computation. Frontier unchanged.
 
 [Note](../research/S112_MULTI_ROUTE_SIEVE.md) · [review](../sessions/S112/REVIEW.md) · [closeout](../sessions/S112/CLOSEOUT.md).
+
+## S113 — 18 October 2026
+
+Proof-only generalisation (SATURATION_FALLBACK session 8, owner steering of 18 October). Entry was main `da61638f22f51cf9fcd7c589c5ca8aa4312353a5` (governance merge #121).
+- **Route-failure lemma (CLM-0379):** a failing route a has leftover R ≥ 4a−2 + U(a−1).
+- **Two coprime routes (CLM-0380/0381):** for odd n = AB, the routes exclude every 5-valued pattern **iff n ∈ {15, 21}**. Both directions are by hand, with explicit survivors otherwise. This gives a hand proof of n = 21 support ≤ 5. The exact obstruction is D₂(C_a³) ≤ 4a−2.
+- **n = 4p (CLM-0382):** n = 20 needs **≥ 7 distinct values by hand proof**, using D₁ values only. For p ≥ 7 an explicit survivor exists.
+- **Formula (CLM-0383):** k*(n) = 5 + [n even] + [n ∈ {15, 20, 21}] on odd p^a q^b and 4p.
+- Claims 378→383. No target-group computation; lemma tests on integers only. Frontier unchanged.
+
+[Note](../research/S113_CLOSED_FORM_ROUTE_THEOREMS.md) · [review](../sessions/S113/REVIEW.md) · [closeout](../sessions/S113/CLOSEOUT.md).

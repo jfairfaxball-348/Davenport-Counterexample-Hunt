@@ -1,0 +1,19 @@
+{
+  "session": "S113",
+  "source_count_before": 34,
+  "source_count_after": 34,
+  "new_sources": {},
+  "source_promotions": [],
+  "sources_used_as_premises": {
+    "SRC-0023": "via CLM-0065 (D(C_2p^3)) for CLM-0382",
+    "SRC-0001/SRC-0003": "via CLM-0039 (D(C4^3)=10; prime-power D) for CLM-0381(b), CLM-0382",
+    "SRC-0033/SRC-0034": "via CLM-0352/0350 cap for CLM-0381(a) n=21 and CLM-0382(p=5)"
+  },
+  "CLM-0380_premises": "none (pure arithmetic)",
+  "original_source_records_untouched": 29,
+  "frontier_original_rows_untouched": 30,
+  "numerical_search_on_target_groups": false,
+  "computations": "lemma tests over integers and multiplicity patterns only (tools/zsf/test_s113.py); no group elements",
+  "external_certification": false,
+  "third_party_contact": false
+}
