@@ -1838,7 +1838,7 @@
     "fallback_priority": "SATURATION_FALLBACK",
     "fallback_statement": "For every zero-sumfree 57-term indexed sequence in C20^3, subset sums including empty equal the full group, equivalently no zero-sumfree 58-term sequence exists.",
     "superseded_target": "S103 exceptional five-flat colour subclass continuation",
-    "next_session": "S113_FUTURE_UNEXECUTED (image-level closure of the route-sieve residue; see NEXT_SESSION_PROMPT)",
+    "next_session": "S113_FUTURE_UNEXECUTED (proof-only generalisation; see NEXT_SESSION_PROMPT)",
     "last_completed": "S112",
     "proof_gate": "PHASE1_SCOPED_PASS; PHASE2_SCOPED_PASS (R1, R2 engines); PHASE3 rounds 1-2 COMPLETED, search closed",
     "original_campaign": "CAM-0001_PROPOSED_NOT_RUNNING_BLOCKED (obsolete n6, not reactivated)",
@@ -1935,6 +1935,13 @@
         "given_after": "S110 report (main 1e11e679ef6c4a65ec651de7a060dd7cabc08c64)",
         "owner_text": "I was thinking after the latest work - the more useful route would be to review what we have done, and see if there is anything we can generalise for n value sequences or any n region? ... yes",
         "approved_outline": "S111 = consolidation and generalisation review: (a) classify all results ALL-n / CONDITIONAL / n-SPECIFIC; (b) even-n multiplicity caps via D(C2+C_n+C_n); (c) attempt the r+2-values theorem (support <= r+2 over C_n^r implies length <= r(n-1)) guided by computed data; (d) Lean certification deferred",
+        "installed_by": "governance commit, not a numbered session"
+      },
+      {
+        "date": "2026-10-18",
+        "given_after": "S112 report (main 4e02b923358842bcbcef76b56837edf2d4db9877)",
+        "owner_text": "I thought we were going to try to find a non brute force generalised rule or proof - not more ennumeration ... Yes, rewrite the S113 prompt as proof-only with the general targets you listed, as a non-session governance commit.",
+        "approved_outline": "S113 = proof-only: (A) closed-form two-prime theorem for n=pq (when routes p and q cannot both fail), extended to p^a q^b; (B) hand-proved family theorem generalising 'n=20 needs >=7 values' (e.g. n=4p); (C) explicit formula for the number of distinct values forced by the multi-route argument; (D) Lean deferred. Computation only to test lemmas on small settled groups or to seek counterexamples to conjectured lemmas; no sieve tables, censuses or residue enumeration as deliverables.",
         "installed_by": "governance commit, not a numbered session"
       }
     ],
