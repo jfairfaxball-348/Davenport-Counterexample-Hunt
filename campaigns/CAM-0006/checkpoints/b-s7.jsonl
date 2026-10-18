@@ -1,0 +1,2 @@
+{"kind": "progress", "index": 279993, "evaluated": 20000, "max": 42, "elapsed": 113.5}
+{"kind": "end", "algorithm": "B", "n": 15, "shard": 7, "nshards": 14, "components": {"3": 1210, "5": 20306}, "reps_last_component": 289, "pairs_evaluated": 24978, "max_length": 42, "histogram": {"26": 2, "34": 500, "42": 24476}, "seconds": 123.75, "orbits_at_or_above": {"threshold": 43, "count": 0, "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"}, "threshold": 43, "any_at_or_above_threshold": false}

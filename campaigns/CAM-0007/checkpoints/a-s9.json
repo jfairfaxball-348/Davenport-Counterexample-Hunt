@@ -1,0 +1,29 @@
+{
+ "algorithm": "A",
+ "n": 20,
+ "shard": 9,
+ "nshards": 14,
+ "components": {
+  "4": 9920,
+  "5": 20306
+ },
+ "reps_first_component": 205,
+ "pairs_evaluated": 297338,
+ "max_length": 57,
+ "histogram": {
+  "33": 4,
+  "36": 16,
+  "39": 15,
+  "45": 2485,
+  "48": 9891,
+  "57": 284927
+ },
+ "seconds": 30318.47,
+ "orbits_at_or_above": {
+  "threshold": 58,
+  "count": 0,
+  "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+ },
+ "threshold": 58,
+ "any_at_or_above_threshold": false
+}

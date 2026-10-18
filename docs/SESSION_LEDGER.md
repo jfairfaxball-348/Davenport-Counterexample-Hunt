@@ -503,3 +503,18 @@ SATURATION_FALLBACK session 4, the owner-authorised support-5 track. Entry was m
 - Claims 360→365.
 
 [Note](../research/S109_SUPPORT5_EXHAUSTIVE_TOOLING.md) · [review](../sessions/S109/REVIEW.md) · [closeout](../sessions/S109/CLOSEOUT.md).
+
+## S110 — 17–18 October 2026
+
+Execution of the support-≤5 exhaustive campaigns. Entry was main `e3ecb17b015a2a0dba84f777f2f26083b2591390` (S109 merge #116).
+- **Branch-name note:** the S109 closeout's planned branch `…-tooling` (PR #115) was closed unmerged; the merged branch is `…-gate` (#116).
+- **Re-verification:** hashes, versions and the n=6 orbit hash all match.
+- **Execution:** 56 shards, 14 concurrent, from 14:23Z to 00:50Z. All exited 0.
+- **Results:**
+  - CAM-0006 (n15): max 42.
+  - CAM-0007 (n20): max 57.
+  - Both algorithms reached full coverage and agree.
+- **Claims:** CLM-0366/0367 COMPUTED_EXACT. A counterexample at n15/n20 needs at least 6 distinct values. Claims 365→367.
+- **Cost:** ≈ 146 CPU-h actual, against 72 estimated.
+
+[Note](../research/S110_SUPPORT5_EXHAUSTIVE_RESULTS.md) · [review](../sessions/S110/REVIEW.md) · [closeout](../sessions/S110/CLOSEOUT.md).

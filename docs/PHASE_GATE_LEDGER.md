@@ -451,3 +451,7 @@ No gate change. Phase 3 search stays closed (SATURATION_FALLBACK). `tools/zsf/te
 - **Excluded:** Lean/DRAT certification.
 
 **Phase 3:** CAM-0006/0007 PREREGISTERED (owner-authorised, support-≤5 family only); activation S110 at the earliest. Phase 4 OWNER_GATED; CI ABSENT_NOT_PASS; review INTERNAL_SAME_EXECUTOR.
+
+## S110 gates — 18 October 2026
+
+**Phase 3:** CAM-0006/0007 COMPLETED (EXHAUSTIVE for the support-≤5 family), with no hit. There is no gate change. Phase 4 is OWNER_GATED, and no candidate exists. CI is ABSENT_NOT_PASS, and the review is INTERNAL_SAME_EXECUTOR.

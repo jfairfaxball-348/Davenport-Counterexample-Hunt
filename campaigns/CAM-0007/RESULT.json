@@ -1,0 +1,481 @@
+{
+ "campaign": "CAM-0007",
+ "executed_in": "S110",
+ "date": "2026-10-17",
+ "n": 20,
+ "target_length": 58,
+ "completeness_class": "EXHAUSTIVE (support-<=5 family only)",
+ "code_sha256": {
+  "tools/zsf/support5_a.py": "41d37aa63767d3eb7767d55eb300eb01d7df34b84c5f99318b3a1bb857bd4279",
+  "tools/zsf/support5_b.py": "f2d06fe1db89a1dba886327504f936cbc94dcfbce127c44a1923a930cd48dc3a"
+ },
+ "python": "3.12.10",
+ "numpy": "1.26.4",
+ "algorithms": {
+  "A": {
+   "code": "tools/zsf/support5_a.py",
+   "expected_pairs_total": 4162730,
+   "pairs_evaluated_total": 4162730,
+   "coverage_full": true,
+   "max_optimum": 57,
+   "at_or_above_threshold": 0,
+   "histogram_of_optima": {
+    "33": 39,
+    "36": 229,
+    "39": 186,
+    "45": 34727,
+    "48": 138476,
+    "57": 3989073
+   },
+   "cpu_seconds_sum": 423630.3,
+   "shards": [
+    {
+     "shard": 0,
+     "status": "COMPLETE",
+     "exit": 0,
+     "start": "2026-10-17T16:23:37Z",
+     "end": "2026-10-18T00:47:29Z",
+     "pairs_evaluated": 297338,
+     "max_length": 57,
+     "seconds": 30230.46,
+     "at_or_above_records": 0
+    },
+    {
+     "shard": 1,
+     "status": "COMPLETE",
+     "exit": 0,
+     "start": "2026-10-17T16:23:43Z",
+     "end": "2026-10-18T00:48:52Z",
+     "pairs_evaluated": 297338,
+     "max_length": 57,
+     "seconds": 30306.97,
+     "at_or_above_records": 0
+    },
+    {
+     "shard": 2,
+     "status": "COMPLETE",
+     "exit": 0,
+     "start": "2026-10-17T16:23:59Z",
+     "end": "2026-10-18T00:45:42Z",
+     "pairs_evaluated": 297338,
+     "max_length": 57,
+     "seconds": 30100.7,
+     "at_or_above_records": 0
+    },
+    {
+     "shard": 3,
+     "status": "COMPLETE",
+     "exit": 0,
+     "start": "2026-10-17T16:24:13Z",
+     "end": "2026-10-18T00:48:48Z",
+     "pairs_evaluated": 297338,
+     "max_length": 57,
+     "seconds": 30273.38,
+     "at_or_above_records": 0
+    },
+    {
+     "shard": 4,
+     "status": "COMPLETE",
+     "exit": 0,
+     "start": "2026-10-17T16:24:14Z",
+     "end": "2026-10-18T00:48:45Z",
+     "pairs_evaluated": 297338,
+     "max_length": 57,
+     "seconds": 30269.98,
+     "at_or_above_records": 0
+    },
+    {
+     "shard": 5,
+     "status": "COMPLETE",
+     "exit": 0,
+     "start": "2026-10-17T16:24:15Z",
+     "end": "2026-10-18T00:49:43Z",
+     "pairs_evaluated": 297338,
+     "max_length": 57,
+     "seconds": 30327.15,
+     "at_or_above_records": 0
+    },
+    {
+     "shard": 6,
+     "status": "COMPLETE",
+     "exit": 0,
+     "start": "2026-10-17T16:24:15Z",
+     "end": "2026-10-18T00:48:04Z",
+     "pairs_evaluated": 297338,
+     "max_length": 57,
+     "seconds": 30227.35,
+     "at_or_above_records": 0
+    },
+    {
+     "shard": 7,
+     "status": "COMPLETE",
+     "exit": 0,
+     "start": "2026-10-17T16:24:18Z",
+     "end": "2026-10-18T00:48:27Z",
+     "pairs_evaluated": 297338,
+     "max_length": 57,
+     "seconds": 30247.88,
+     "at_or_above_records": 0
+    },
+    {
+     "shard": 8,
+     "status": "COMPLETE",
+     "exit": 0,
+     "start": "2026-10-17T16:24:18Z",
+     "end": "2026-10-18T00:48:29Z",
+     "pairs_evaluated": 297338,
+     "max_length": 57,
+     "seconds": 30249.68,
+     "at_or_above_records": 0
+    },
+    {
+     "shard": 9,
+     "status": "COMPLETE",
+     "exit": 0,
+     "start": "2026-10-17T16:24:19Z",
+     "end": "2026-10-18T00:49:38Z",
+     "pairs_evaluated": 297338,
+     "max_length": 57,
+     "seconds": 30318.47,
+     "at_or_above_records": 0
+    },
+    {
+     "shard": 10,
+     "status": "COMPLETE",
+     "exit": 0,
+     "start": "2026-10-17T16:24:20Z",
+     "end": "2026-10-18T00:49:02Z",
+     "pairs_evaluated": 297338,
+     "max_length": 57,
+     "seconds": 30281.16,
+     "at_or_above_records": 0
+    },
+    {
+     "shard": 11,
+     "status": "COMPLETE",
+     "exit": 0,
+     "start": "2026-10-17T16:24:23Z",
+     "end": "2026-10-18T00:48:52Z",
+     "pairs_evaluated": 297338,
+     "max_length": 57,
+     "seconds": 30268.2,
+     "at_or_above_records": 0
+    },
+    {
+     "shard": 12,
+     "status": "COMPLETE",
+     "exit": 0,
+     "start": "2026-10-17T16:24:25Z",
+     "end": "2026-10-18T00:48:49Z",
+     "pairs_evaluated": 297337,
+     "max_length": 57,
+     "seconds": 30262.95,
+     "at_or_above_records": 0
+    },
+    {
+     "shard": 13,
+     "status": "COMPLETE",
+     "exit": 0,
+     "start": "2026-10-17T16:24:28Z",
+     "end": "2026-10-18T00:48:54Z",
+     "pairs_evaluated": 297337,
+     "max_length": 57,
+     "seconds": 30265.98,
+     "at_or_above_records": 0
+    }
+   ],
+   "log_sha256": {
+    "a-s0.jsonl": {
+     "sha256_lf": "0bc45e2ba82fad66ab1beea9620824d028e3c2f98d0945250e51cd8e19a8ff42",
+     "bytes_lf": 1732
+    },
+    "a-s1.jsonl": {
+     "sha256_lf": "234336d1874a90cd65591cfda68192f70a6a67e73c83724a9dabf241234bec3c",
+     "bytes_lf": 1732
+    },
+    "a-s2.jsonl": {
+     "sha256_lf": "946ca4be13461a65d2d6ac39e79a1063826ceb1c67d043025e0cb80b7e38b264",
+     "bytes_lf": 1731
+    },
+    "a-s3.jsonl": {
+     "sha256_lf": "efaffc7e42abc31a7e28da6a01045d8297f3699fb7b60f1c43dc45423f44e6e8",
+     "bytes_lf": 1732
+    },
+    "a-s4.jsonl": {
+     "sha256_lf": "114b11b9d05e8646a1b09c53fd82202de0ad69936e89bc327ad273d75a8ab0f5",
+     "bytes_lf": 1732
+    },
+    "a-s5.jsonl": {
+     "sha256_lf": "43dafc0643e39f5909b9e37811408eecb0ed5bd9893f4569d8fcf3b81cd324d6",
+     "bytes_lf": 1732
+    },
+    "a-s6.jsonl": {
+     "sha256_lf": "90f3e7869390622e87463bf7898481a4768375de2791b96a3c366869f7f8f7e4",
+     "bytes_lf": 1732
+    },
+    "a-s7.jsonl": {
+     "sha256_lf": "d1650c0b0171cafd78205b965e645fd45ad22dda529d0c0822c682a2e3efde28",
+     "bytes_lf": 1732
+    },
+    "a-s8.jsonl": {
+     "sha256_lf": "95f97ba554c49ba1fd9a9896e965731956dce9be2ae4bde0ab81a56beb9f1a13",
+     "bytes_lf": 1732
+    },
+    "a-s9.jsonl": {
+     "sha256_lf": "fb0733157832c611a60bb4c799ace6b8a9fcd4d6d28c89b87b1bacb50396c2e8",
+     "bytes_lf": 1732
+    },
+    "a-s10.jsonl": {
+     "sha256_lf": "0bad06c5c95b668eefee8badcffa207f6af492f78f1526a3df428c94950fc267",
+     "bytes_lf": 1733
+    },
+    "a-s11.jsonl": {
+     "sha256_lf": "2fd1fa5369f15c7871695a21bc2195caf86510842479ed896e8687802a97507d",
+     "bytes_lf": 1732
+    },
+    "a-s12.jsonl": {
+     "sha256_lf": "7cd312aa6901eb285093070ce09a93219c37981ea2059777f7a5afaab396b48d",
+     "bytes_lf": 1733
+    },
+    "a-s13.jsonl": {
+     "sha256_lf": "62a3edd058e37249aab08029a36deb3459e2cceaa7228ba22e0ef00315babb03",
+     "bytes_lf": 1733
+    }
+   }
+  },
+  "B": {
+   "code": "tools/zsf/support5_b.py",
+   "expected_pairs_total": 2866880,
+   "pairs_evaluated_total": 2866880,
+   "coverage_full": true,
+   "max_optimum": 57,
+   "at_or_above_threshold": 0,
+   "histogram_of_optima": {
+    "33": 36,
+    "36": 438,
+    "39": 486,
+    "45": 27565,
+    "48": 131091,
+    "57": 2707264
+   },
+   "cpu_seconds_sum": 69195.3,
+   "shards": [
+    {
+     "shard": 0,
+     "status": "COMPLETE",
+     "exit": 0,
+     "start": "2026-10-17T15:01:39Z",
+     "end": "2026-10-17T16:24:15Z",
+     "pairs_evaluated": 204778,
+     "max_length": 57,
+     "seconds": 4954.52,
+     "at_or_above_records": 0
+    },
+    {
+     "shard": 1,
+     "status": "COMPLETE",
+     "exit": 0,
+     "start": "2026-10-17T15:01:41Z",
+     "end": "2026-10-17T16:23:43Z",
+     "pairs_evaluated": 204778,
+     "max_length": 57,
+     "seconds": 4920.62,
+     "at_or_above_records": 0
+    },
+    {
+     "shard": 2,
+     "status": "COMPLETE",
+     "exit": 0,
+     "start": "2026-10-17T15:01:42Z",
+     "end": "2026-10-17T16:24:18Z",
+     "pairs_evaluated": 204777,
+     "max_length": 57,
+     "seconds": 4954.77,
+     "at_or_above_records": 0
+    },
+    {
+     "shard": 3,
+     "status": "COMPLETE",
+     "exit": 0,
+     "start": "2026-10-17T15:01:43Z",
+     "end": "2026-10-17T16:24:13Z",
+     "pairs_evaluated": 204777,
+     "max_length": 57,
+     "seconds": 4948.75,
+     "at_or_above_records": 0
+    },
+    {
+     "shard": 4,
+     "status": "COMPLETE",
+     "exit": 0,
+     "start": "2026-10-17T15:01:46Z",
+     "end": "2026-10-17T16:23:37Z",
+     "pairs_evaluated": 204777,
+     "max_length": 57,
+     "seconds": 4910.09,
+     "at_or_above_records": 0
+    },
+    {
+     "shard": 5,
+     "status": "COMPLETE",
+     "exit": 0,
+     "start": "2026-10-17T15:01:48Z",
+     "end": "2026-10-17T16:24:20Z",
+     "pairs_evaluated": 204777,
+     "max_length": 57,
+     "seconds": 4951.32,
+     "at_or_above_records": 0
+    },
+    {
+     "shard": 6,
+     "status": "COMPLETE",
+     "exit": 0,
+     "start": "2026-10-17T15:01:48Z",
+     "end": "2026-10-17T16:24:14Z",
+     "pairs_evaluated": 204777,
+     "max_length": 57,
+     "seconds": 4944.89,
+     "at_or_above_records": 0
+    },
+    {
+     "shard": 7,
+     "status": "COMPLETE",
+     "exit": 0,
+     "start": "2026-10-17T15:01:49Z",
+     "end": "2026-10-17T16:24:15Z",
+     "pairs_evaluated": 204777,
+     "max_length": 57,
+     "seconds": 4945.24,
+     "at_or_above_records": 0
+    },
+    {
+     "shard": 8,
+     "status": "COMPLETE",
+     "exit": 0,
+     "start": "2026-10-17T15:01:51Z",
+     "end": "2026-10-17T16:24:18Z",
+     "pairs_evaluated": 204777,
+     "max_length": 57,
+     "seconds": 4946.13,
+     "at_or_above_records": 0
+    },
+    {
+     "shard": 9,
+     "status": "COMPLETE",
+     "exit": 0,
+     "start": "2026-10-17T15:01:52Z",
+     "end": "2026-10-17T16:23:59Z",
+     "pairs_evaluated": 204777,
+     "max_length": 57,
+     "seconds": 4925.9,
+     "at_or_above_records": 0
+    },
+    {
+     "shard": 10,
+     "status": "COMPLETE",
+     "exit": 0,
+     "start": "2026-10-17T15:01:53Z",
+     "end": "2026-10-17T16:24:23Z",
+     "pairs_evaluated": 204777,
+     "max_length": 57,
+     "seconds": 4949.03,
+     "at_or_above_records": 0
+    },
+    {
+     "shard": 11,
+     "status": "COMPLETE",
+     "exit": 0,
+     "start": "2026-10-17T15:01:54Z",
+     "end": "2026-10-17T16:24:25Z",
+     "pairs_evaluated": 204777,
+     "max_length": 57,
+     "seconds": 4949.93,
+     "at_or_above_records": 0
+    },
+    {
+     "shard": 12,
+     "status": "COMPLETE",
+     "exit": 0,
+     "start": "2026-10-17T15:01:55Z",
+     "end": "2026-10-17T16:24:28Z",
+     "pairs_evaluated": 204777,
+     "max_length": 57,
+     "seconds": 4951.97,
+     "at_or_above_records": 0
+    },
+    {
+     "shard": 13,
+     "status": "COMPLETE",
+     "exit": 0,
+     "start": "2026-10-17T15:01:56Z",
+     "end": "2026-10-17T16:24:19Z",
+     "pairs_evaluated": 204777,
+     "max_length": 57,
+     "seconds": 4942.12,
+     "at_or_above_records": 0
+    }
+   ],
+   "log_sha256": {
+    "b-s0.jsonl": {
+     "sha256_lf": "72baec7a3e9c34c418973790f4238220dac40adcaa88aaa8392cccc596df3379",
+     "bytes_lf": 1360
+    },
+    "b-s1.jsonl": {
+     "sha256_lf": "399e6de10c4c7bf33ee4bc9b20c15077869a09a5ebff0d2a159da2812b0fd797",
+     "bytes_lf": 1360
+    },
+    "b-s2.jsonl": {
+     "sha256_lf": "8e022c004218dfc7e66e16295ee1c89debc355a3252047f6e96342065b34ae4b",
+     "bytes_lf": 1360
+    },
+    "b-s3.jsonl": {
+     "sha256_lf": "51357cec9e106934939c1aac0fc303ba3adbf985f217e47d75f0f8541b47f033",
+     "bytes_lf": 1360
+    },
+    "b-s4.jsonl": {
+     "sha256_lf": "7eb16773773aafcae7dabea12c5070078659891d0fa88144c9b01e37c9be4e78",
+     "bytes_lf": 1360
+    },
+    "b-s5.jsonl": {
+     "sha256_lf": "19250b806431401b45a1c821a0df6bfa4e74a113fe881d7555b31815ea82a895",
+     "bytes_lf": 1360
+    },
+    "b-s6.jsonl": {
+     "sha256_lf": "898aea578536debbeb3a7463f4e5ff2c0ee5e0b96ad8f7f8c2d9ad776618227d",
+     "bytes_lf": 1360
+    },
+    "b-s7.jsonl": {
+     "sha256_lf": "be46b919088059c967f15e140a5ad6701d44cdad6a485b51571fabeced187d72",
+     "bytes_lf": 1360
+    },
+    "b-s8.jsonl": {
+     "sha256_lf": "7503213b5abc1e170aaaa944b8d01a4a8eba61229844ecca8623bfb965361a0b",
+     "bytes_lf": 1360
+    },
+    "b-s9.jsonl": {
+     "sha256_lf": "238f7f773dec5fa3f320d64fcc7fbdb2a86cef74bd89b5e3acceb93ddd72e6cb",
+     "bytes_lf": 1350
+    },
+    "b-s10.jsonl": {
+     "sha256_lf": "b585b7d0d6c251efbb90d1bef0df9a832dd667747e69179d64f8da506e9dcd17",
+     "bytes_lf": 1361
+    },
+    "b-s11.jsonl": {
+     "sha256_lf": "d8811238288341d33e4c9c4fc3805deeab0e424445c1433d89d57b6440d7146b",
+     "bytes_lf": 1352
+    },
+    "b-s12.jsonl": {
+     "sha256_lf": "b58be5e8f447586674f2f886428f304e43fb5fc2a1c3927384c299ecfb71761b",
+     "bytes_lf": 1361
+    },
+    "b-s13.jsonl": {
+     "sha256_lf": "0250f876e66782b52f4bc9c2d9624d605d298f5a22702a68104fb4f7752d857c",
+     "bytes_lf": 1352
+    }
+   }
+  }
+ },
+ "two_algorithm_agreement": true,
+ "campaign_status": "COMPLETED_EXHAUSTIVE_NO_HIT",
+ "result": "No zero-sumfree sequence over C_20^3 with at most five distinct values has length 58 (= 3n-2); the maximum is 57 = 3n-3. Scope: support-<=5 family only; NOT SAT20, not a D value. Certificate: two independent exhaustive algorithms with full coverage + committed shard logs (no Lean/DRAT)."
+}

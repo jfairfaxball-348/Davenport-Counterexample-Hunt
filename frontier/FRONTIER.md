@@ -352,3 +352,7 @@ No frontier row changed. CLM-0359 (unconditional) shows that any hypothetical ze
 ## S109 note — 17 October 2026
 
 No frontier row changed. CAM-0006/0007 (support-≤5 exhaustive, n15/n20) are pre-registered and not run. The settled-group computation CLM-0365 is consistent with the known values for n ≤ 7, 10 and 12.
+
+## S110 note — 18 October 2026
+
+No frontier row changed. CLM-0366/0367 exclude zero-sumfree sequences with at most 5 distinct values of length 43 in C15³ and 58 in C20³. Any counterexample at these n therefore needs at least 6 distinct values. This is a family exclusion, not a bound.

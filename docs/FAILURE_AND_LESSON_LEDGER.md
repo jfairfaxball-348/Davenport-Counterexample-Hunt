@@ -567,3 +567,9 @@ The first draft of the n=20/n=15 conditional caps counted only j ≤ 3, where th
 2. **Process kill.** An attempted broad `taskkill` filter, used to stop an outdated pre-flight run, matched nothing. The four outdated processes were then identified by command line and stopped by PID. **Lesson:** never kill interpreter processes by image name on a shared machine; resolve PIDs by command line first.
 
 Superseded pre-flight outputs from the code before sharding were discarded. Every reported pre-flight value comes from the final, hash-pinned code.
+
+## S110 — Cost underestimated by about 2×
+
+Algorithm A at n=20 ran at ≈ 0.1 s per pair under 14-way contention, against an estimate of 0.05 s scaled from settled n=10. The campaign still finished inside the pre-registered 12 h per-shard cap: the longest shard took 8.4 h. **Lesson:** extrapolate branch-and-bound cost from the largest settled instance, measured under the same concurrency as the campaign, and keep the walltime cap generous. The cap was what made this safe.
+
+**Process:** the app's keep-awake hold lapses when the session goes idle, so a runtime-only SetThreadExecutionState helper held the machine awake for the run. Overnight runs need both.

@@ -460,7 +460,11 @@ The full machine-readable record is [PREREGISTRATION.json](CAM-0005/PREREGISTRAT
 
 Two completed, materially different HEURISTIC rounds (CAM-0002/0003 R1, CAM-0004/0005 R2) produced no candidate at either target. The owner directive's two-round trigger is met and the priority is now SATURATION_FALLBACK. No campaign is active or pre-registered. A new search campaign requires an explicit owner directive or a substantive structural reason recorded as a claim, followed by a full pre-registration. [Experimental closeout](../research/S105_SEARCH_FIRST_EXPERIMENTAL_CLOSEOUT.md).
 
-## CAM-0006 / CAM-0007 — support-≤5 EXHAUSTIVE classification, n=15 (L43) / n=20 (L58) — PREREGISTERED / NOT ACTIVATED (S109, 2026-10-17)
+## CAM-0006 / CAM-0007 — support-≤5 EXHAUSTIVE classification, n=15 (L43) / n=20 (L58) — COMPLETED, EXHAUSTIVE, NO HIT (registered S109; executed S110, 2026-10-17/18)
+
+**S110 result:** both algorithms reached full coverage on both campaigns, and all 56 shards exited 0. **The maximum is 42 at n=15 and 57 at n=20 (= 3n−3); no relation module reaches 3n−2.** The two algorithms agree. See [CAM-0006 RESULT](CAM-0006/RESULT.json) and [CAM-0007 RESULT](CAM-0007/RESULT.json), and CLM-0366/0367. The scope is the support-≤5 family only; this is not SAT15/SAT20.
+
+*Pre-registration record (unchanged):*
 
 These are **owner-authorised** (2026-10-17, PR #114), with scope limited to the support-≤5 family. The full records are [CAM-0006](CAM-0006/PREREGISTRATION.json) and [CAM-0007](CAM-0007/PREREGISTRATION.json).
 - **Question:** is there a zero-sumfree sequence over C_n³ with at most 5 distinct values and length ≥ 3n−2?

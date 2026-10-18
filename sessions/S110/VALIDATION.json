@@ -1,0 +1,15 @@
+{
+  "session": "S110",
+  "validator": "validation/validate_s110.py",
+  "entry_main": "e3ecb17b015a2a0dba84f777f2f26083b2591390",
+  "kind": "administrative: coverage, log hashes, two-algorithm agreement; NOT certification",
+  "result": {
+    "claims": "367; first 365 identical to entry",
+    "unchanged": "sources, frontier, tools, preregistrations",
+    "CAM-0006": "complete, full coverage both algorithms, max 3n-3, no hit, logs hash-matched",
+    "CAM-0007": "complete, full coverage both algorithms, max 3n-3, no hit, logs hash-matched",
+    "state": "consistent",
+    "overall": "PASS"
+  },
+  "ci": "ABSENT_NOT_PASS"
+}

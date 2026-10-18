@@ -1,0 +1,11 @@
+{"kind": "progress", "index": 279994, "evaluated": 20000, "max": 57, "elapsed": 548.0}
+{"kind": "progress", "index": 559994, "evaluated": 40000, "max": 57, "elapsed": 1026.8}
+{"kind": "progress", "index": 839994, "evaluated": 60000, "max": 57, "elapsed": 1505.9}
+{"kind": "progress", "index": 1119994, "evaluated": 80000, "max": 57, "elapsed": 1983.7}
+{"kind": "progress", "index": 1399994, "evaluated": 100000, "max": 57, "elapsed": 2461.3}
+{"kind": "progress", "index": 1679994, "evaluated": 120000, "max": 57, "elapsed": 2938.2}
+{"kind": "progress", "index": 1959994, "evaluated": 140000, "max": 57, "elapsed": 3416.8}
+{"kind": "progress", "index": 2239994, "evaluated": 160000, "max": 57, "elapsed": 3894.2}
+{"kind": "progress", "index": 2519994, "evaluated": 180000, "max": 57, "elapsed": 4370.3}
+{"kind": "progress", "index": 2799994, "evaluated": 200000, "max": 57, "elapsed": 4843.2}
+{"kind": "end", "algorithm": "B", "n": 20, "shard": 8, "nshards": 14, "components": {"4": 9920, "5": 20306}, "reps_last_component": 289, "pairs_evaluated": 204777, "max_length": 57, "histogram": {"33": 5, "36": 29, "39": 34, "45": 2016, "48": 9545, "57": 193148}, "seconds": 4946.13, "orbits_at_or_above": {"threshold": 58, "count": 0, "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"}, "threshold": 58, "any_at_or_above_threshold": false}

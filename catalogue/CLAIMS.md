@@ -1783,3 +1783,10 @@ CLM-0344 **INTERNAL SAME_EXECUTOR true original q-GROUP proof**: five exceptiona
 - **CLM-0365 COMPUTED_EXACT.** For n ∈ {2,3,4,5,6,7,10,12}, the maximum support-≤5 zero-sumfree length over C_n³ is exactly 3n−3, by two independent exhaustive algorithms.
 
 [S109 note](../research/S109_SUPPORT5_EXHAUSTIVE_TOOLING.md). Claims 360→365. CAM-0006/0007 are pre-registered and not run. There is no n15/n20 statement.
+
+## S110 — 18 October 2026 (support-≤5 exhaustive campaigns)
+
+- **CLM-0366 COMPUTED_EXACT.** No zero-sumfree sequence over C15³ with at most 5 distinct values has length 43; the maximum is 42 (CAM-0006).
+- **CLM-0367 COMPUTED_EXACT.** No zero-sumfree sequence over C20³ with at most 5 distinct values has length 58; the maximum is 57 (CAM-0007). **So a counterexample at n=15 or n=20 needs at least 6 distinct values.**
+
+Both rest on two independent same-executor exhaustive algorithms with full coverage, and are conditional on the hand proofs CLM-0358 and CLM-0361..0364. They are not SAT15/SAT20, and not FORMALLY_CERTIFIED. [S110 note](../research/S110_SUPPORT5_EXHAUSTIVE_RESULTS.md). Claims 365→367.

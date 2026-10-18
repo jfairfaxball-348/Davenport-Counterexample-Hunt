@@ -3681,6 +3681,24 @@
       "origin": "sessions/S109/PREFLIGHT_SUMMARY.json",
       "source_ids": [],
       "notes": "S109 settled-group pre-flight (D(C_n^3)=3n-2 known there: CLM-0142 primes, SOURCE_STATED for 4,6,10,12); same-executor, two algorithms; consistent with, not evidence for, n=15/20."
+    },
+    {
+      "id": "CLM-0366",
+      "statement": "No zero-sumfree sequence over C15^3 with at most five distinct values has length 43; the maximum such length is 42.",
+      "category": "COMPUTATION",
+      "status": "COMPUTED_EXACT",
+      "origin": "campaigns/CAM-0006/RESULT.json",
+      "source_ids": [],
+      "notes": "S110 CAM-0006 EXHAUSTIVE (support-<=5 family only), two independent same-executor algorithms (support5_a branch-and-bound 791934 pairs, support5_b dense DP 349690 pairs), full coverage, all 28 shards exit 0, agreement on max and optimum-value set {26,34,42}. Conditional on PROGRAMME_PROVED CLM-0358, CLM-0361..0364. Not SAT15; not FORMALLY_CERTIFIED."
+    },
+    {
+      "id": "CLM-0367",
+      "statement": "No zero-sumfree sequence over C20^3 with at most five distinct values has length 58; the maximum such length is 57. With CLM-0359, any zero-sumfree 58-term sequence over C20^3 (and any 43-term one over C15^3, by CLM-0366) has at least six distinct values.",
+      "category": "COMPUTATION",
+      "status": "COMPUTED_EXACT",
+      "origin": "campaigns/CAM-0007/RESULT.json",
+      "source_ids": [],
+      "notes": "S110 CAM-0007 EXHAUSTIVE (support-<=5 family only), two independent same-executor algorithms (A 4162730 pairs, B 2866880 pairs), full coverage, all 28 shards exit 0, agreement on max and optimum-value set {33,36,39,45,48,57}. Conditional on PROGRAMME_PROVED CLM-0358, CLM-0361..0364. Not SAT20; not FORMALLY_CERTIFIED."
     }
   ]
 }
