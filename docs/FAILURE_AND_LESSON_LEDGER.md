@@ -581,3 +581,10 @@ Algorithm A at n=20 ran at ≈ 0.1 s per pair under 14-way contention, against a
    - **Lesson:** counting blocks cannot settle odd n. A proof must use the values of the block sums, or a polynomial argument.
    - The method succeeds for a = 2 (CLM-0370), where the leftover is at most r+2 vectors of F₂^r.
 3. **Process.** The two-disjoint check was first run before a docstring edit. All six runs were repeated with the final, hash-recorded code; the decision-stream hashes were identical.
+
+## S112 — The mod-4 level alone does not close the parity residue
+
+1. **Attempt.** Close the CLM-0372 residual configuration at n = 4c using only the a = 4 route and exact leftover packing in C₄³, with borrowing.
+   - **Result:** 1,104 of 8,192 normalised (image, residue) cases keep too few blocks, and borrowing x⁴ blocks never rescued any of them.
+   - **Lesson:** a single route is not enough. Combining routes 2, 4 and 5 closes the 6-valued case at n = 20 by arithmetic alone (CLM-0377). This exploration is uncommitted scratch work and supports no claim.
+2. **Process.** A first brute-force borrowing script was too slow. A stop attempt through a PID pipeline errored because of a wrong column, and the background job ended without printing results; nothing from it was used. It was replaced by a relation-module canonicalisation. **Lesson:** resolve the PID column explicitly before any kill.

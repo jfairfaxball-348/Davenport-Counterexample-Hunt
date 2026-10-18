@@ -533,3 +533,15 @@ Consolidation and generalisation review (SATURATION_FALLBACK session 6) under th
 - Claims 367→373. No C15³/C20³ computation. Frontier unchanged.
 
 [Note](../research/S111_R_PLUS_TWO_AND_EVEN_CAPS.md) · [review](../sessions/S111/REVIEW.md) · [closeout](../sessions/S111/CLOSEOUT.md).
+
+## S112 — 18 October 2026
+
+Generalisation continued (SATURATION_FALLBACK session 7). Entry was main `890217c338f7936f035e3d299d7226d153db0307` (S111 merge #119).
+- **Idea:** use several block routes a | n at once (CLM-0374). Each route fails only on a narrow arithmetic set of multiplicity patterns, and these sets rarely intersect.
+- **n = 15:** the support-≤5 bound is now a **hand proof** (CLM-0376), using routes 3 and 5 and only CLM-0142.
+- **n = 20:** a counterexample needs **≥ 7 distinct values** (CLM-0377(i), conditional on cited D-values and the arithmetic certificate CLM-0375).
+- **n = 21:** the support-≤5 bound holds (CLM-0377(ii)).
+- **Residue (CLM-0378):** 5 six-valued patterns at n = 15, and 139 seven-valued patterns at n = 20.
+- Claims 373→378. No C15³/C20³ computation. Frontier unchanged.
+
+[Note](../research/S112_MULTI_ROUTE_SIEVE.md) · [review](../sessions/S112/REVIEW.md) · [closeout](../sessions/S112/CLOSEOUT.md).
