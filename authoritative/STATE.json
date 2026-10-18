@@ -395,7 +395,7 @@
     "owner_blocker": false,
     "historical_dependency_reconciled": "S004 CLM-0068 / S005 sufficient conditional base5p-2 bypass restored and strengthened one position"
   },
-  "current_research_priority": "SATURATION_FALLBACK (since S105). Support-<=5 track complete (S110): any counterexample at n15/n20 needs >= 6 distinct values (CLM-0359 + CLM-0366/0367). SAT20/SAT15 OPEN. S111 continues fallback (support >= 6 / structure).",
+  "current_research_priority": "SATURATION_FALLBACK (since S105). Owner steering 2026-10-18: generalise to all n / families of n. S111 = consolidation review + even-n caps + attempt at the r+2-values theorem. SAT20/SAT15 OPEN.",
   "s040_result": {
     "claims": [
       "CLM-0148",
@@ -1838,7 +1838,7 @@
     "fallback_priority": "SATURATION_FALLBACK",
     "fallback_statement": "For every zero-sumfree 57-term indexed sequence in C20^3, subset sums including empty equal the full group, equivalently no zero-sumfree 58-term sequence exists.",
     "superseded_target": "S103 exceptional five-flat colour subclass continuation",
-    "next_session": "S111_FUTURE_UNEXECUTED",
+    "next_session": "S111_FUTURE_UNEXECUTED (consolidation and generalisation review)",
     "last_completed": "S110",
     "proof_gate": "PHASE1_SCOPED_PASS; PHASE2_SCOPED_PASS (R1, R2 engines); PHASE3 rounds 1-2 COMPLETED, search closed",
     "original_campaign": "CAM-0001_PROPOSED_NOT_RUNNING_BLOCKED (obsolete n6, not reactivated)",
@@ -1926,7 +1926,16 @@
         "installed_by": "governance commit, not a numbered session"
       }
     ],
-    "support5_track": "COMPLETED S110: no zero-sumfree support-<=5 sequence of length 3n-2 at n15/n20 (CLM-0366/0367)"
+    "support5_track": "COMPLETED S110: no zero-sumfree support-<=5 sequence of length 3n-2 at n15/n20 (CLM-0366/0367)",
+    "owner_steering": [
+      {
+        "date": "2026-10-18",
+        "given_after": "S110 report (main 1e11e679ef6c4a65ec651de7a060dd7cabc08c64)",
+        "owner_text": "I was thinking after the latest work - the more useful route would be to review what we have done, and see if there is anything we can generalise for n value sequences or any n region? ... yes",
+        "approved_outline": "S111 = consolidation and generalisation review: (a) classify all results ALL-n / CONDITIONAL / n-SPECIFIC; (b) even-n multiplicity caps via D(C2+C_n+C_n); (c) attempt the r+2-values theorem (support <= r+2 over C_n^r implies length <= r(n-1)) guided by computed data; (d) Lean certification deferred",
+        "installed_by": "governance commit, not a numbered session"
+      }
+    ]
   },
   "campaigns_preregistered": [],
   "s103_result": {
