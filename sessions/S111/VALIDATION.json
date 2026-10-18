@@ -1,0 +1,28 @@
+{
+ "claims": "373; first 367 identical to entry; CLM-0368..0372 PROGRAMME_PROVED, CLM-0373 COMPUTED_EXACT",
+ "unchanged": "sources, frontier, checkers, support-5 tools",
+ "TWO_a": {
+  "3": {
+   "instances": 65780,
+   "failures": 5616,
+   "stream": "c57c12dafeda4e54"
+  },
+  "4": {
+   "instances": 271560,
+   "failures": 432,
+   "stream": "c3e55ce4203d7acc"
+  },
+  "5": {
+   "instances": 337260,
+   "failures": 7188,
+   "stream": "5414253bdf13a92f"
+  }
+ },
+ "tests": "T1..T5 PASS; packing 12<13 (a=3), 6<7 (a=5)",
+ "tool_sha256_lf": {
+  "tools/zsf/two_disjoint.py": "f99dc03fe9162b14bbc4603a4f41380d70159b101eee750010f1b4f6182dea2e",
+  "tools/zsf/test_s111.py": "a66a9c174b88fd283c3357897f21c96a4b60f921373ebf57c514ed57b750fa57"
+ },
+ "state": "consistent; search counters frozen (1, 2, 2); fallback sessions 6",
+ "overall": "PASS"
+}

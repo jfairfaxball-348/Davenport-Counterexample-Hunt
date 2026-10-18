@@ -1,0 +1,19 @@
+{
+  "session": "S111",
+  "source_count_before": 34,
+  "source_count_after": 34,
+  "new_sources": {},
+  "source_promotions": [],
+  "sources_used_as_premises": {
+    "SRC-0005": "via CLM-0356 (SOURCE_STATED, recalled Thm 2.7) for CLM-0368",
+    "SRC-0023": "via CLM-0065 (SOURCE_STATED, D(C_{2p^a}^3)=6p^a-2) for CLM-0371/0372 at n=4p^k",
+    "SRC-0001/SRC-0003": "via CLM-0039 (SOURCE_STATED, Olson) for prime-power b",
+    "SRC-0033/SRC-0034": "via CLM-0352 (SOURCE_STATED, rank two)"
+  },
+  "original_source_records_untouched": 29,
+  "frontier_original_rows_untouched": 30,
+  "numerical_search_on_target_groups": false,
+  "computations": "finite C_a^3 lemma checks (a=3,4,5) and small settled groups n<=14 only",
+  "external_certification": false,
+  "third_party_contact": false
+}

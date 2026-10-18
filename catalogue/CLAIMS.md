@@ -1790,3 +1790,14 @@ CLM-0344 **INTERNAL SAME_EXECUTOR true original q-GROUP proof**: five exceptiona
 - **CLM-0367 COMPUTED_EXACT.** No zero-sumfree sequence over C20³ with at most 5 distinct values has length 58; the maximum is 57 (CAM-0007). **So a counterexample at n=15 or n=20 needs at least 6 distinct values.**
 
 Both rest on two independent same-executor exhaustive algorithms with full coverage, and are conditional on the hand proofs CLM-0358 and CLM-0361..0364. They are not SAT15/SAT20, and not FORMALLY_CERTIFIED. [S110 note](../research/S110_SUPPORT5_EXHAUSTIVE_RESULTS.md). Claims 365→367.
+
+## S111 — 18 October 2026 (SATURATION_FALLBACK session 6: consolidation and generalisation)
+
+- **CLM-0368 PROGRAMME_PROVED, conditional on CLM-0352 and CLM-0356.** Even-n caps for every even n ≥ 4: an order-n value of multiplicity n−2 forces |S| ≤ 3n−3, and an order-(n/2) value of multiplicity n/2−1 forces |S| ≤ 5n/2−2. So a (3n−2)-term counterexample has order-n multiplicities ≤ n−3 and order-(n/2) multiplicities ≤ n/2−2. This generalises CLM-0357.
+- **CLM-0369 PROGRAMME_PROVED (FOUNDATION).** Block-packing lemma: with D(C_b^r) disjoint blocks whose sums lie in aG (n = ab), there is a zero-sum. Deficit ≤ ⌊(R − (a−1)(r−1))/a⌋.
+- **CLM-0370 PROGRAMME_PROVED, conditional on D(C_b^r) = D*.** r+2 values at even n = 2b: length ≤ r(n−1), in any rank r.
+- **CLM-0371 PROGRAMME_PROVED, conditional on cited D-values.** In rank 3, the 5-valued bound 3n−3 holds for n = 2b with D(C_b³) known, in particular n = 4p^k (20, 28, …). At n = 20 this is an independent proof route for the CLM-0367 bound (via CLM-0065). CLM-0367 is not relabelled.
+- **CLM-0372 PROGRAMME_PROVED, conditional on D(C_b³) = 3b−2 (n = 2b).** Parity structure. A (3n−2)-term counterexample has ≥ 6 distinct values outside 2G with odd multiplicity, never exactly 7. With exactly 6, their mod-2 images are F₂³∖{0,P}. At n = 20, a 6-valued counterexample has all multiplicities odd and mod-2 images forming a Fano plane minus a point.
+- **CLM-0373 COMPUTED_EXACT.** TWO(a) is false for a = 3, 4, 5, by two algorithms in agreement. Optimal block packing falls short at n = 15 for a = 3 and a = 5. So the counting block method cannot prove the 5-value bound at n = 15.
+
+[S111 note](../research/S111_R_PLUS_TWO_AND_EVEN_CAPS.md) · [consolidation review](../research/S111_CONSOLIDATION_REVIEW.md). Claims 367→373. There is no SAT20/SAT15 or D-value statement, and the frontier is unchanged.
