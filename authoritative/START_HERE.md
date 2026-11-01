@@ -1,3 +1,5 @@
+> **1 November 2026 restart steering; not an executed session.** See [restart audit](../research/RESTART_AUDIT_2026_11_01.md) and [future S114 prompt](NEXT_SESSION_PROMPT.md). New direction: feasibility and independently verified actual-image enumeration for n=15 support six (five multiplicity-only profiles), then n=20 support seven (139 multiplicity-only profiles), with a parallel theorem/saturation track. S113 remains the last completed session and no new campaign is active.
+
 # S113 checkpoint — 18 October 2026
 
 The priority is **SATURATION_FALLBACK**. **Entry point: [consolidation review](../research/S111_CONSOLIDATION_REVIEW.md).**

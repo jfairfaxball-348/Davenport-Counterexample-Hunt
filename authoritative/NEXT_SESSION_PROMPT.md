@@ -1,77 +1,33 @@
-# S114 — PROOF-ONLY: BEYOND ROUTE COUNTING (FUTURE / NOT EXECUTED)
+# S114 — RESTART ENTRY: PRIOR-ART GATE + SUPPORT-SIX SEARCH FEASIBILITY (FUTURE / NOT EXECUTED)
 
-**Owner steering in force:**
-- 18 October 2026, after S110: generalise to all n or to families of n; Lean deferred.
-- 18 October 2026, after S112: a **non-brute-force, generalised rule or proof, not more enumeration**.
+**Owner directive 1 November 2026:** return to the overarching objective: **find a rigorously checked counterexample OR prove a structural theorem advancing D(C_n^3)=3n-2**. Long, checkpointed laptop enumerations are encouraged **when they explore genuinely new complete spaces**, but no brute-force budget should be sold as a proof. This directive supersedes the *future-work ban on enumeration* in the unexecuted former S114 prompt. It does not change any S001–S113 claim, previously completed campaign or previously recorded proof dependency.
 
-Deliverables are **theorems with closed-form hypotheses on n, proved by hand**. Computation is allowed **only** to test a stated lemma on small settled groups, or to search for a counterexample to a conjectured lemma. It is never the result itself. No sieve tables, residue censuses or per-n case lists are deliverables. The CLM-0378 residue is **not** to be enumerated further.
+Priority: **PROOF_OR_COUNTEREXAMPLE_RESTART**. No active or pre-registered campaign. **Run ONE numbered S114 session only on a subsequent explicit "run next session" request.** This governance installation alone does not execute S114.
 
-**Active priority: SATURATION_FALLBACK** (since S105). General search stays closed, and any campaign needs a new owner decision.
-- Run S114 only on a separate later owner instruction to run the next session, and run only ONE numbered session per invocation.
-- Carry the priority, the frozen search counters, the search-reopen condition and both steerings into future prompts.
+## Entry, scope, and evidence
+- Independently reread LIVE main SHA/tree, AGENTS.md, authoritative/STATE.json, research/RESTART_AUDIT_2026_11_01.md, research/S111_CONSOLIDATION_REVIEW.md, S109/S110/S112/S113 notes, catalogue/CLAIMS.md and SOURCES.md, failure ledger, frontier and research scripts.
+- Phase gates, source provenance, exact numerical claims and claim statuses stay enforced. Check hosted CI; record absence as ABSENT_NOT_PASS. No external contact, paper submission, new project or announcement without owner permission.
+- At entry archive INPUT and manifest, have PLAN / exact validation / hostile REVIEW and PRECOMMIT CLOSEOUT. One atomic authored commit via session branch and ordinary PR, no force; independently reread main after merge. Follow AGENTS, including no model names in files or commit messages and no pattern-based process kills.
 
-## 0. Entry and governance
+## Goal 1 (first): current prior art, provenance
+- Independently inspect primary theorem statements and dates, not abstracts only: classical rank-three literature, current Yiu, Han–Zhang, Wang higher-rank work, Geroldinger/Wang/Yang saturation results, Grinsztajn upper bound and any work published through 1 Nov 2026. Search for a settled n=15 or n=20 value, not just mentions. Log exact theorem, applicability, source ID/access level/version, distinguish rank-three homocyclic and other group families. Update the catalogue only on observed evidence; no claim of universal novelty from search non-discovery.
+- Recheck the frontier's 12 Oct snapshot and historical premise D(C10^3)=28, source statuses, and n15/n20 recorded intervals. Preserve original source entries and source history.
 
-Work in repository `jfairfaxball-348/Davenport-Counterexample-Hunt`.
-- At entry, independently reread the LIVE main SHA and the actual Git root tree. Do not assume the S113 merge is still the head.
-- Read:
-  - `AGENTS.md`;
-  - `authoritative/STATE.json` (`counterexample_hunt_strategy` including `owner_steering`, `s112_result`, `s113_result`);
-  - **`research/S111_CONSOLIDATION_REVIEW.md` (the entry point)**, `research/S113_CLOSED_FORM_ROUTE_THEOREMS.md`, `research/S112_MULTI_ROUTE_SIEVE.md`, `research/S108_SATURATION_FALLBACK_SMALL_SUPPORT.md` and `research/S109_SUPPORT5_EXHAUSTIVE_TOOLING.md`;
-  - `catalogue/CLAIMS.md` (CLM-0345..0383);
-  - `docs/FAILURE_AND_LESSON_LEDGER.md` (S106–S113).
-- Check hosted CI and branch protection. If CI is absent, record it as ABSENT_NOT_PASS.
-- Archive the invocation in `sessions/S114/INPUT.md` and `INPUT_MANIFEST.json`. Paraphrase product or model names in owner text (AGENTS rule 10), and grep the staged diff for them before committing. The commit message must carry no model names.
-- **Git:**
-  - On the owner's local machine, push through Git Credential Manager as `jfairfaxball-348` with the one-command override recorded in the S113 prompt (blob `c8837d56032f02313054da55faad17d450f1aa26`). Do not change the stored configuration.
-  - In a hosted container, use the assigned session branch and the hosted git proxy.
-  - Either way: one atomic commit, an ordinary PR merge without force, and an independent reread of main.
-- **Before committing,** verify that every intended file change is on disk. Re-run any test whose code changed after the run. **Never kill processes by image name or command-line pattern** (S113 lesson); stop background jobs through the harness or by an explicit PID.
+## Goal 2: establish a rigorously bounded NEW enumeration search space
+- Priority target n=15, L=43, support EXACTLY six. Independently regenerate the five CLM-0378 multiplicity profiles:
+  (2,4,8,8,8,13); (2,8,8,8,8,9); (3,8,8,8,8,8); (4,4,8,8,8,11); (4,7,8,8,8,8).
+- These patterns survive multiplicity arithmetic only. Their vectors must have order 15 and distinct actual C15^3 values. Design an image-level enumerator using CRT C3^3 x C5^3; certify all GL/symmetry reductions or leave uncovered strata explicit. **Do not assume fixed-profile supports generate** unless a valid completeness proof justifies that exact family.
+- Include complete tests on smaller settled moduli; run a short timing benchmark with code and environment hashes; report exact case counts if proved, otherwise explicit lower/upper cost scenarios. Implement at least one exact search/checker and preferably a genuinely independent duplicate; existing checker A/B remain available as independent candidate validators.
+- Build a laptop-friendly deterministic sharded/resumable harness plan with 6–12 hour per-run budget; ensure every scenario has precise distinction between EXHAUSTIVE and HEURISTIC and a written correctness argument. Only **preregister**, if the readiness gate actually passes, a named future campaign with shard coverage, budget, checkpoints, code hashes and possible outcomes. Do not start target-length overnight computation in S114.
 
-**State at entry:**
-- Claims 383. Sources 34 (original 29 untouched). Frontier 30 rows untouched.
-- No campaign is active or pre-registered.
-- Search counters frozen (setup 1, active 2, rounds 2). Fallback sessions 8.
-- **Targets (OPEN):** SAT20, i.e. D(C20³) = 58, and SAT15, i.e. D(C15³) = 43.
+## Goal 3: n20 and theory parallel planning
+- Check the 139 n=20 support-seven multiplicity survivors by independently written counting, not by blindly copying the previous output; identify CRT C4/C5 and Fano/parity reductions from CLM-0372. Make a feasibility forecast and a sensible alternative if n15 six-support is too large.
+- Write down at least one precise testable image-level or saturation lemma (e.g. restricted TWO* or relation-box/CRT), and seek smallest counterexamples on settled groups. Make hand-proof obligations explicit; negative bounded test ≠ universal theorem.
+- Explain how the general SAT15/SAT20 case could follow after a support-six/seven exclusion; **do not claim support-six/seven classification resolves all support sizes**.
 
-**What S113 established:**
-- Route counting is **sharp and exhausted** on odd n = p^a q^b and on n = 4p (CLM-0383).
-- Every surviving 5-valued pattern at odd n = AB has all values of order n, and at each route a the leftover is exactly 4a−2 terms, with multiplicities r_i = a−1−s_i and Σs_i = a−3 (CLM-0381).
-- A bound D₂(C_a³) ≤ 4a−2 would close everything at support 5, but the unrestricted version fails for a = 3, 5 (CLM-0373).
+## Deliverables and gate
+- Produce updated modern literature matrix, actual source inspection manifest, exact scope/cost report, sample runner output + independent checker validation on settled groups, new research note, frozen historical statuses, test artifacts and hostile review; if no viable new exact search, state NO-GO and propose a better mathematical reduction, not a campaign.
+- If a campaign is justified, install next-session S115 instructions to **run only the pre-registered bounded campaign**, preserving every completion/certification requirement. If not justified, install S115 prompt to close the missing reduction or tooling blocker.
+- Maintain search counters and claim counts until a new campaign actually executes or a new claim is proved. Do not label partial coverage as UNSAT, a source-stated result as a programme proof, or a solver hit as a certified counterexample.
 
-## 1. S114 work (proof-only)
-
-**(A) Restricted two-disjoint lemma at the leftover level.**
-- Formulate TWO*(a): every sequence over C_a³ with five distinct values whose multiplicities are a−1−s_i, with Σs_i = a−3, has two disjoint nonempty zero-sums, **or** the block decomposition can be re-chosen to gain one block.
-- The re-choice may mix values whose combined sum lies in aG; this is where the actual images enter.
-- Prove it by hand for a family of primes, or find the exact obstruction. Small-group tests on C₃³, C₅³ and C₇³ are allowed as evidence only.
-- A proof for prime a would give the support-5 bound for every n = pq (with a cap where needed).
-
-**(B) The relation-module route for support 5 at n = pq.**
-- Combine CLM-0358 (box/kernel criterion) and CLM-0362 (CRT: K = K_p ⊕ K_q) with the S113 structure: all values of order n, and α_i ≡ −1−s_i (mod p) with Σs_i = p−3, likewise mod q.
-- Goal: a hand proof that no rank-2 free summand K ⊂ (Z/n)⁵ avoids every box ∏[0, α_i] for such α, for a closed-form family of (p, q).
-- Identify exactly which K-shapes are not excluded.
-
-**(C) Even n beyond 4p.**
-- For n = 8p and n = 2^e·m, determine the forced number of values from the routes that remain (route 2 is absent when D(C_{n/2}³) is unknown).
-- State it as a formula with exact survivors, as in CLM-0382/0383.
-
-**(D) Lean certification:** deferred by owner steering; do not start it.
-
-**Honesty rules.**
-- Failed attempts go in the failure ledger with their exact obstruction, stated symbolically.
-- Do not upgrade inherited or source claims, and do not relabel CLM-0366/0367/0375/0377.
-- Never state SAT20/SAT15 or a D value.
-- No target-group computation, and no new enumeration as a result.
-
-## 2. Deliverables and close
-
-- Create S114 INPUT, INPUT_MANIFEST, PLAN, VALIDATION (`validation/validate_s114.py`), SOURCE_MANIFEST, a hostile REVIEW and a PRECOMMIT CLOSEOUT.
-- Write a research note containing the theorems and full hand proofs. Lemma tests are optional and are evidence only.
-- Update: claims, ledgers, STATE (`counterexample_hunt_strategy`: number_of_fallback_sessions 9), the consolidation review (in place, remaining the single entry point), README and START_HERE.
-- Leave the frontier unchanged.
-- Install a FULL S115 prompt.
-- Close with one session branch, one atomic authored commit, an ordinary PR merge without force, and an independent reread of main afterwards.
-- No model names in files or commits. CI absence is ABSENT_NOT_PASS.
-
-**Non-negotiable intent:** find or rigorously exclude a real counterexample. Never present a heuristic budget as a proof, a literature statement as a programme proof, a single solver as a certification, or a family-restricted exclusion as SAT20/SAT15.
+**Decisive purpose:** force the next session to produce one of (i) a feasible, auditable and preregistered new image-level search; (ii) an explicit new falsified or proved mathematical lemma; (iii) a precise documented no-go that changes the plan. No repeat of S110 support five.

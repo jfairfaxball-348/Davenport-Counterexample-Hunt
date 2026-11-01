@@ -1,6 +1,6 @@
 {
   "project": "Davenport-Counterexample-Hunt",
-  "as_of": "2026-10-18",
+  "as_of": "2026-11-01",
   "current_phase": 3,
   "phases": {
     "0": {
@@ -395,7 +395,7 @@
     "owner_blocker": false,
     "historical_dependency_reconciled": "S004 CLM-0068 / S005 sufficient conditional base5p-2 bypass restored and strengthened one position"
   },
-  "current_research_priority": "SATURATION_FALLBACK (since S105). Owner steering 2026-10-18: generalise to all n / families of n. S111 = consolidation review + even-n caps + attempt at the r+2-values theorem. SAT20/SAT15 OPEN.",
+  "current_research_priority": "PROOF_OR_COUNTEREXAMPLE_RESTART (owner directive 2026-11-01): prioritize image-level n15 six-value and n20 seven-value counterexample/exclusion searches; combine with proof-guided lemma testing and saturation. No campaign yet pre-registered or run. S114 is FUTURE setup/feasibility/prior-art session; all S113 results frozen.",
   "s040_result": {
     "claims": [
       "CLM-0148",
@@ -1813,7 +1813,7 @@
     "directive_date": "2026-10-16",
     "directive_kind": "OWNER_APPROVED_S103_AND_SUBSEQUENT_SESSION_PRIORITY",
     "installation_only_not_session_execution": false,
-    "priority": "SATURATION_FALLBACK",
+    "priority": "PROOF_OR_COUNTEREXAMPLE_RESTART",
     "primary_targets": [
       {
         "n": 15,
@@ -1827,7 +1827,7 @@
         "recorded_frontier": "58..59"
       }
     ],
-    "search_authorization": "BOUNDED_NUMERICAL_METHODS_ALLOWED_ONLY_AFTER_PREREGISTRATION_AND_ACTUAL_PHASE_GATE_PASS",
+    "search_authorization": "OWNER_REOPENS_EXPLORATION_2026-11-01; CAMPAIGNS_REQUIRE_FRESH_EXPLICIT_PREREGISTRATION_AND_PHASE_GATES",
     "campaigns_active_at_installation": [],
     "number_of_active_search_sessions": 2,
     "number_of_completed_materially_distinct_bounded_rounds": 2,
@@ -1838,7 +1838,7 @@
     "fallback_priority": "SATURATION_FALLBACK",
     "fallback_statement": "For every zero-sumfree 57-term indexed sequence in C20^3, subset sums including empty equal the full group, equivalently no zero-sumfree 58-term sequence exists.",
     "superseded_target": "S103 exceptional five-flat colour subclass continuation",
-    "next_session": "S114_FUTURE_UNEXECUTED (proof-only continuation; see NEXT_SESSION_PROMPT)",
+    "next_session": "S114_FUTURE_UNEXECUTED_PRIOR_ART_AND_SUPPORT6_FEASIBILITY",
     "last_completed": "S113",
     "proof_gate": "PHASE1_SCOPED_PASS; PHASE2_SCOPED_PASS (R1, R2 engines); PHASE3 rounds 1-2 COMPLETED, search closed",
     "original_campaign": "CAM-0001_PROPOSED_NOT_RUNNING_BLOCKED (obsolete n6, not reactivated)",
@@ -1917,7 +1917,7 @@
       "S113"
     ],
     "fallback_progress": "S106 CLM-0348..0352: order-n multiplicity cap n-2 (cond. rank-two D). S107 CLM-0353..0357: multiplicity-defect transfer; n20 order-20 cap 17, order-10 cap 8 (cond. CLM-0352/0356). S108 CLM-0358..0360: unconditional small-support bound, counterexample needs >= 5 distinct values; support-5 case reduced to a finite rank-2 relation-module problem. S111 CLM-0368..0373: even-n caps n-3 / n/2-2 for all even n (cond. CLM-0352/0356); block-packing lemma; r+2-values bound at n=2b given D(C_b^r)=D* (any r), rank-3 corollary n=4p^k incl. n=20,28 (cond. CLM-0065); even-n parity structure (>=6 odd-multiplicity values outside 2G, exactly six => mod-2 images F2^3 minus {0,P}); exact obstruction: the counting block method cannot reach odd n (TWO(a) false a=3,4,5; packing short at n=15). S112 CLM-0374..0378: multi-route block sieve; n=15 support-<=5 bound by unconditional hand proof (CLM-0376); n=20 counterexample needs >=7 distinct values (CLM-0377(i), cond. CLM-0065/0039 etc.); n=21 support-<=5 bound; residue 5 six-valued patterns at n=15, 139 seven-valued at n=20. S113 CLM-0379..0383 (proof only): route-failure lemma; two-coprime-route theorem: for odd n=AB routes exclude support 5 iff n in {15,21} (hand proofs both directions, explicit survivors otherwise); exact obstruction D_2(C_a^3)<=4a-2; n=4p family theorem: n=20 >=7 values by hand proof (D_1 values only), explicit survivors for p>=7; forced-values formula k*(n)=5+[n even]+[n in {15,20,21}] on these families.",
-    "search_reopen_condition_met": "PARTIAL_OWNER_AUTHORISED_SUPPORT5_EXHAUSTIVE_ONLY",
+    "search_reopen_condition_met": "OWNER_DIRECTIVE_2026-11-01_TO_REASSESS_AND_RESTART; NO_CAMPAIGN_PREREGISTERED_OR_ACTIVATED",
     "search_reopen_candidate": "OWNER AUTHORISED 2026-10-17: EXHAUSTIVE support-5 classification at n15/n20 via CLM-0358 (tooling gate + preregistration first; never run in the preregistering session)",
     "owner_authorisations": [
       {
@@ -1944,6 +1944,13 @@
         "owner_text": "I thought we were going to try to find a non brute force generalised rule or proof - not more ennumeration ... Yes, rewrite the S113 prompt as proof-only with the general targets you listed, as a non-session governance commit.",
         "approved_outline": "S113 = proof-only: (A) closed-form two-prime theorem for n=pq (when routes p and q cannot both fail), extended to p^a q^b; (B) hand-proved family theorem generalising 'n=20 needs >=7 values' (e.g. n=4p); (C) explicit formula for the number of distinct values forced by the multi-route argument; (D) Lean deferred. Computation only to test lemmas on small settled groups or to seek counterexamples to conjectured lemmas; no sieve tables, censuses or residue enumeration as deliverables.",
         "installed_by": "governance commit, not a numbered session"
+      },
+      {
+        "date": "2026-11-01",
+        "given_after": "S113 completion and project audit",
+        "owner_text": "Full repo/project audit; restart proof-or-counterexample hunt with interest in long laptop enumeration sessions and a current prior-art/landscape review.",
+        "approved_outline": "Replace old unexecuted proof-only S114 with a prior-art and feasibility entry session; prioritize actual six-valued n15 and seven-valued n20 image-level spaces and proof-guided lemma testing. Do not repeat support-five enumeration; use preregistered bounded overnight campaigns only after validated reductions, independently checked exact tools and phase gates.",
+        "installed_by": "Non-session governance commit; no research session or search executed"
       }
     ],
     "entry_point": "research/S111_CONSOLIDATION_REVIEW.md"
