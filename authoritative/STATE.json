@@ -19,32 +19,35 @@
       "s104_scoped_gate_extension": "SCOPED_PASS_EXTENSION_R2_LNS_1_0_HEURISTIC_ENGINE (settled-group pre-flight n=3..6, 120 FFT two-addition decisions = exhaustive oracle, determinism); still NOT exhaustive/SAT/Lean tooling",
       "s109_scoped_gate_extension": "SCOPED_PASS_EXTENSION_SUPPORT5_EXHAUSTIVE_TOOLING (support5_a/support5_b, CLM-0361..0365); still NOT Lean/SAT tooling",
       "s114_readiness": "NO_GO_TARGET_CAMPAIGN: prototype tests pass; independent image enumeration, effective pruning, resume checks missing",
-      "s115_scoped_gate_extension": "SCOPED_PASS_LOCAL_COMPONENT_ENUMERATION_FILTERS_AND_PROFILE_STABILIZER_ORBITS; tested local checkpoints. NOT complete CRT pair search, target throughput, Lean or SAT tooling."
+      "s115_scoped_gate_extension": "SCOPED_PASS_LOCAL_COMPONENT_ENUMERATION_FILTERS_AND_PROFILE_STABILIZER_ORBITS; tested local checkpoints. NOT complete CRT pair search, target throughput, Lean or SAT tooling.",
+      "s116_scoped_gate_extension": "SCOPED_PASS_COMPLETE_PAIR_PREDICATES_COVERAGE_RECOVERY_AND_FINAL_AUDIT_FOR_CAM0008; synthetic cost planning with mandatory initial throughput gate; not Lean/SAT tooling"
     },
     "3": {
       "name": "Campaigns",
-      "status": "ROUNDS_1_2_COMPLETED_SEARCH_CLOSED_BY_FALLBACK_TRIGGER",
+      "status": "CAM0008_PREREGISTERED_NOT_ACTIVE; prior campaign histories retained",
       "s103_note": "CAM-0002 (n15 L43) and CAM-0003 (n20 L58) PREREGISTERED round 1, HEURISTIC; activation permitted from S104 after committed S103 PASS; none activated in S103",
       "s104": "CAM-0002/0003 round 1 executed: COMPLETED, all 12 workers BUDGET_EXHAUSTED, best 42 (n15) / 57 (n20), no hit; CAM-0004/0005 round 2 PREREGISTERED, activation from S105",
       "s105": "CAM-0004/0005 round 2 executed: COMPLETED, all 12 workers BUDGET_EXHAUSTED, best 42 (n15) / 57 (n20), no hit; fallback trigger met; no campaign active or preregistered",
       "s109": "CAM-0006 (n15) and CAM-0007 (n20) support-<=5 EXHAUSTIVE PREREGISTERED (owner-authorised track); activation S110 earliest",
-      "s110": "CAM-0006/0007 support-<=5 EXHAUSTIVE COMPLETED, no hit (max 42 / 57); CLM-0366/0367"
+      "s110": "CAM-0006/0007 support-<=5 EXHAUSTIVE COMPLETED, no hit (max 42 / 57); CLM-0366/0367",
+      "s116": "CAM-0008 single n15 profile PREREGISTERED; activation S117 earliest after committed gate; zero target pairs evaluated"
     },
     "4": {
       "name": "Certification and write-up",
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S115",
-  "recommended_next_session": "S116",
+  "last_completed_session": "S116",
+  "recommended_next_session": "S117",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": [
     15,
     20
   ],
-  "phase1_target_status": "SCOPED_PASS_TARGET_DEFINITIONS; S114_PRIMARY_SNAPSHOT; S115_LOCAL_TOOLING_PASS; NO_TARGET_CAMPAIGN",
+  "phase1_target_status": "SCOPED_PASS_TARGET_DEFINITIONS; S114_PRIMARY_SNAPSHOT; S116_PAIR_TOOLING_PASS; CAM0008_PREREGISTERED_NOT_EXECUTED",
   "open_blockers": [
+    "S116 CURRENT: pair tooling and settled integration PASS; CAM-0008 preregistered, not active. First later activation must pass matched shards 0/72 throughput gate within cumulative budget. No owner/external blocker; all earlier blockers retain historical scope.",
     "S115 CURRENT: independent local enumeration/orbits and local restart checks now PASS, closing that part of S114. Missing two complete target pair engines, actual mixed-check throughput and tested pair coverage/restart; no target campaign registered. S116 builds/gates these for smallest 5,815,950-pair profile.",
     "S114 CURRENT: direct unfiltered n15 image product is not campaign-ready; independently verify local pruning/coverage and implement tested checkpoints. Internal research task, not owner/external blocker. Historical entries below retain their original session scope.",
     "S110: no blocker. Support-<=5 exhaustive track complete. Any extension of exhaustive work to six values needs a new owner decision and feasibility study. Lean 4 and SAT/DRAT tooling NOT built.",
@@ -1842,12 +1845,14 @@
     "fallback_priority": "SATURATION_FALLBACK",
     "fallback_statement": "For every zero-sumfree 57-term indexed sequence in C20^3, subset sums including empty equal the full group, equivalently no zero-sumfree 58-term sequence exists.",
     "superseded_target": "S103 exceptional five-flat colour subclass continuation",
-    "next_session": "S116_FUTURE_PAIR_ENGINE_GATE_SMALLEST_N15_PROFILE",
-    "last_completed": "S115",
-    "proof_gate": "PHASE1_SCOPED_PASS; PHASE2_SCOPED_PASS (R1, R2 engines); PHASE3 rounds 1-2 COMPLETED, search closed",
+    "next_session": "S117",
+    "last_completed": "S116",
+    "proof_gate": "PHASE1_SCOPED_PASS; PHASE2_SCOPED_PASS_CAM0008_PAIR_TOOLING; PHASE3_CAM0008_PREREGISTERED_NOT_ACTIVE; initial throughput gate required",
     "original_campaign": "CAM-0001_PROPOSED_NOT_RUNNING_BLOCKED (obsolete n6, not reactivated)",
-    "comment": "S105 active search session 2: round 2 executed on both targets, complete; fallback trigger met; priority SATURATION_FALLBACK.",
-    "campaigns_preregistered": [],
+    "comment": "S116 completed pair tooling and registered CAM-0008 for later single-profile activation. Historical S105 fallback and earlier campaign records retain their original scope; no target search in S116.",
+    "campaigns_preregistered": [
+      "CAM-0008"
+    ],
     "campaigns_active": [],
     "number_of_setup_sessions": 1,
     "setup_sessions": [
@@ -1957,11 +1962,33 @@
         "installed_by": "Non-session governance commit; no research session or search executed"
       }
     ],
-    "entry_point": "research/S115_LOCAL_KERNEL_PRUNING.md",
+    "entry_point": "research/S116_PAIR_ENGINE_TOOLING.md",
     "s114_feasibility": "NO_GO_DIRECT_ENUMERATION; search counters unchanged; no target campaign",
-    "s115_feasibility": "Local covering product718716282; smallest profile5815950; no target pair check. Pair engines/throughput missing, no target campaign."
+    "s115_feasibility": "Local covering product718716282; smallest profile5815950; no target pair check. Pair engines/throughput missing, no target campaign.",
+    "s116_feasibility": {
+      "date": "2026-11-01",
+      "entry_main": "e541e5982fa972857f359838e25110db16e217b9",
+      "entry_tree": "6cd646efb1e7897e521b113a529c55c2d0ad1b39",
+      "note": "research/S116_PAIR_ENGINE_TOOLING.md",
+      "claims": [
+        "CLM-0395",
+        "CLM-0396"
+      ],
+      "claims_total": 396,
+      "sources_total": 37,
+      "outcome": "SCOPED_PASS_PAIR_TOOLING; CAM0008_PREREGISTERED_FUTURE",
+      "settled_profile_cases": 2400,
+      "legacy_valid_cases": 1560,
+      "target_pairs_checked": 0,
+      "campaign_registered": "CAM-0008",
+      "ci": "ABSENT_NOT_PASS",
+      "review": "INTERNAL_SAME_EXECUTOR",
+      "owner_external_blocker": false
+    }
   },
-  "campaigns_preregistered": [],
+  "campaigns_preregistered": [
+    "CAM-0008"
+  ],
   "s103_result": {
     "date": "2026-10-16",
     "entry_main": "13ce00e0f04715418f99687a858892f02f3457b4",
@@ -2349,6 +2376,26 @@
     "n20_mod4_lifts": 860160,
     "target_pairs_checked": 0,
     "campaign_registered": false,
+    "ci": "ABSENT_NOT_PASS",
+    "review": "INTERNAL_SAME_EXECUTOR",
+    "owner_external_blocker": false
+  },
+  "s116_result": {
+    "date": "2026-11-01",
+    "entry_main": "e541e5982fa972857f359838e25110db16e217b9",
+    "entry_tree": "6cd646efb1e7897e521b113a529c55c2d0ad1b39",
+    "note": "research/S116_PAIR_ENGINE_TOOLING.md",
+    "claims": [
+      "CLM-0395",
+      "CLM-0396"
+    ],
+    "claims_total": 396,
+    "sources_total": 37,
+    "outcome": "SCOPED_PASS_PAIR_TOOLING; CAM0008_PREREGISTERED_FUTURE",
+    "settled_profile_cases": 2400,
+    "legacy_valid_cases": 1560,
+    "target_pairs_checked": 0,
+    "campaign_registered": "CAM-0008",
     "ci": "ABSENT_NOT_PASS",
     "review": "INTERNAL_SAME_EXECUTOR",
     "owner_external_blocker": false

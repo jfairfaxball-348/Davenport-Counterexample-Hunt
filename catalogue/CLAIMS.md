@@ -1865,3 +1865,11 @@ Claims **383 -> 390**: three internal proved reductions/counterexample lemmas an
 **CLM-0394 (PROGRAMME_PROVED)** — For seven full-order20 labelled values with six specified odd-multiplicity mod2 columns forming F2^3 minus {0,P}, there are exactly 210 parity image classes under GL3(F2) (30 missing-seventh and180 repeated-seventh), each with4096 free rank3 mod4 image lifts; total860160 mod4 image classes per fixed profile before further pruning. Application to hypothetical target counterexamples inherits CLM-0372.
 
 [Proofs and scope](../research/S115_LOCAL_KERNEL_PRUNING.md). Claims390->394; all390 old claim objects/statuses unchanged. No target exclusion or D-value.
+
+## S116 — full pair predicates and settled validation
+
+**CLM-0395 (PROGRAMME_PROVED)** — For distinct primes p,q and coefficient bounds below pq, actual-image meet-in-the-middle (excluding only empty-empty) and exhaustive CRT intersection of both full relation kernels each decide the complete bounded zero predicate. Actual distinctness/full-order filters are exact. For the pinned n15 profile, 145 disjoint row shards and either divmod or nested traversal cover all 5815950 representative pairs.
+
+**CLM-0396 (COMPUTED_EXACT)** — Complete settled C6^3 rank3 k4 products (600 pairs per box) at profiles (1,1,1,1),(2,2,2,2),(4,4,4,4),(1,2,3,4) have 210 invalid cases each and ZERO/ZSF counts (11,379),(143,247),(390,0),(151,239). Two independent full predicates and direct coefficient enumeration agree; legacy indexed checkers agree on all 1560 valid cases. Recovery and end-to-end two-engine audit tests pass.
+
+[Proofs, tests and limits](../research/S116_PAIR_ENGINE_TOOLING.md). Claims 394 -> 396; all previous claim objects/statuses unchanged. CAM-0008 registered for a later session; zero target pairs checked here.

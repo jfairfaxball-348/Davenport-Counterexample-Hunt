@@ -425,3 +425,7 @@ Accept CLM-0326–0328 as INTERNAL SAME_EXECUTOR exact **conditional** original-
 | 2026-11-01 | S114: fixed-profile full-order generating refinement and image count proofs, current primary version audit, settled exact prototype | research/S114_IMAGE_FEASIBILITY.md; sessions/S114/RESULTS.json; REVIEW.md | NO-GO for direct unfiltered enumeration: n15 433,419,386,400 pairs across profiles. No campaign; S115 must quantify sound local-kernel pruning, independent coverage and resumability before registration. No target exclusion or D-value. |
 
 | 2026-11-01 | S115 independently completes pure local pruning and exact profile-stabilizer orbits; CLM-0391..0394 | research/S115_LOCAL_KERNEL_PRUNING.md; sessions/S115/RESULTS.json; ORBIT_RESULTS.json | SCOPED_PASS_LOCAL_ONLY. Target gate NO-GO until two pair engines and measured rates. Prefer profile(3,8,8,8,8,8), exactly5,815,950 covering pairs, before all profiles/n20. No target campaign or exclusion. |
+
+## S116 decision — 1 November 2026
+
+Pass the scoped full pair-tooling gate and register CAM-0008 for the smallest n15 profile only. Do not execute it in S116. S117 may activate after committed gate verification, using matched shards 0 and 72 to measure complete runtime before further budget. Preserve all historical results and source premises; no target exclusion or formal claim. Candidate export correction and rerun are disclosed.

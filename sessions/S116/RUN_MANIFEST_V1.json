@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "registered_utc": "2026-11-01T18:55:52.032748+00:00",
+  "scope": "S116 P1/P2/P3; no target pairs",
+  "code_sha256": {
+    "tools/zsf/pair_a.py": "b9e3e336fbb2963299c3b43e0c254f5d32c20ef96c14fceb42eca4d9e688dd26",
+    "tools/zsf/pair_b.py": "34b8f7f2e0b80e1dcc9a89ec4ea828a3ecec1781d733b8daa95a25f6e01f0181",
+    "tools/zsf/pair_jobs.py": "62cf7824fba188b29ff8ba0748648ac9274beb6cce286ed78dfeeb982041750c",
+    "sessions/S116/preflight.py": "e3cc0fc0404c00d1ca1424e9b1350af441fa3c70a219a715a1eba917c6dc7a47",
+    "sessions/S116/benchmark.py": "13ec65f1645aead2f7d89ddf6b332baf490cb5dd05d576197b04c7bb5701d1a3",
+    "sessions/S116/PLAN.md": "e213b67f258c1e19bfb535a36d9465b1830faf8f3e78309e3b81ecd860ab3165",
+    "tools/zsf/local_images_a.py": "0055d146cfb1972f94593dfe110a304f8359fa82eae63d21ecc32359e42e26da",
+    "tools/zsf/local_kernels_b.py": "a8c8b5734bba6ec5bb4916ab37ac7f07edc3ab484026eaf9ee9e2278875150f7",
+    "tools/zsf/checker_a.py": "72dd61225de7346b3f4f6624c91548a505edcab99ec78129981eacf25aff3269",
+    "tools/zsf/checker_b.py": "6f2a0588692b29ed4093f42c5244bc5c7c57ef0f78a4c1ce42ba98414f0c9e0c"
+  },
+  "environment": {
+    "python": "3.12.10",
+    "platform": "Windows-11-10.0.26300-SP0",
+    "numpy": "1.26.4"
+  }
+}

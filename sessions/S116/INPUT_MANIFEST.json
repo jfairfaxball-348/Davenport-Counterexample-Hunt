@@ -1,0 +1,9 @@
+{
+  "entry_main": "e541e5982fa972857f359838e25110db16e217b9",
+  "entry_tree": "6cd646efb1e7897e521b113a529c55c2d0ad1b39",
+  "capture": "Exact operative user text plus newline; not serialized chat bytes",
+  "files": {
+    "INPUT.md": "8dd8256054c0f72609944fc8ca5ca1fe402f9ce1f69e227ec5245ae0f02edb48",
+    "ENTRY_PROMPT.md": "cd8ec138253bf42f0d70a6764e96ab1f24f3a462611f070e521045a72f3c1872"
+  }
+}

@@ -1212,5 +1212,12 @@
     "local_covering_pairs": 718716282,
     "target_pairs_checked": 0,
     "new_D_value": false
+  },
+  "s116_audit": {
+    "date": "2026-11-01",
+    "rows_unchanged": true,
+    "target_pairs_checked": 0,
+    "new_D_value": false,
+    "campaign": "CAM-0008 PREREGISTERED, not executed"
   }
 }

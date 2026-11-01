@@ -482,3 +482,7 @@ No new CAM campaign preregistered or activated. S114-V1/V2 are bounded settled-g
 ## S115 — local tooling complete, target search not registered
 
 S115-L1 andL2 are bounded local enumeration/orbit experiments registered in sessions/S115/PLAN.md and ORBIT_PLAN.md with frozen manifests. Complete independent agreement. No new CAM ID, no target CRT pair checked. Target search counters unchanged. Prospective first scope is profile(3,8,8,8,8,8),5,815,950 covering pairs, pending S116 pair-tooling gate; not yet a campaign.
+
+## CAM-0008 — single n15 profile, registered S116, FUTURE / NOT EXECUTED
+
+[Full preregistration](CAM-0008/PREREGISTRATION.json). Scope: length 43, six distinct order-15 values, profile (3,8,8,8,8,8); 145 x 40,110 = 5,815,950 covering pairs. Complete distinct A/B algorithms and proved reductions; 145 row shards each, resumable 256-record chunks. Activation S117 earliest after S116 gate is committed. First matched A/B shards 0 and 72 gate further spending. Six-hour session budget, twelve-hour absolute run cap, 36 CPU-hour cumulative engine cap, six-hour final-audit cap. Any partial/failure/candidate prevents exclusion. No execution in S116. This does not register the other four profiles or n20.

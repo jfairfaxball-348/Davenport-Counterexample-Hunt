@@ -9,3 +9,5 @@ sessions/S115/** text eol=lf
 sessions/S115/**/*.npy -text
 sessions/S115/**/*.npz -text
 sessions/S115/**/*.zip -text
+sessions/S116/** text eol=lf
+campaigns/CAM-0008/** text eol=lf
