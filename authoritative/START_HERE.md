@@ -1,9 +1,9 @@
-# S114 checkpoint — 1 November 2026
+# S115 checkpoint — 1 November 2026
 
-**Priority: PROOF_OR_COUNTEREXAMPLE_RESTART.** Start with [S114 findings](../research/S114_IMAGE_FEASIBILITY.md). The [S111–S113 consolidation](../research/S111_CONSOLIDATION_REVIEW.md) retains the earlier proven/open boundary.
+Priority PROOF_OR_COUNTEREXAMPLE_RESTART. Start with [S115 proofs and exact local counts](../research/S115_LOCAL_KERNEL_PRUNING.md), then the [S116 future prompt](NEXT_SESSION_PROMPT.md).
 
-S114 proves fixed-profile full-order generating refinement and canonical image-count reductions; three exact checkers agree on 450 settled test cases. The five n15 and 139 n20 arithmetic profiles are independently reproduced. No target sequence was searched and no target support exclusion or D-value established.
+Complete independent local enumeration and profile-stabilizer orbits reduce the five-profile n15 covering system to718,716,282 pairs. The smallest profile(3,8,8,8,8,8) has145 p3 representatives and40,110 p5 survivors:5,815,950 pairs. These are possible joins, not actual zero-sumfree sequences; none was checked as a full CRT pair.
 
-**Campaign readiness: NO-GO for direct unfiltered enumeration.** Five n15 profiles require 433,419,386,400 raw canonical pairs. Strong measured local pruning, independent enumeration coverage and tested checkpoints are missing. S115 is [future local-kernel pruning/tooling work](NEXT_SESSION_PROMPT.md), not a target campaign.
+Local component/orbit/checkpoint tooling SCOPED_PASS. Target pair campaign NO-GO until two complete pair engines, meaningful cost evidence and tested pair checkpoint coverage exist. No target campaign active or registered. No owner/external blocker.
 
-Claims 390, sources 37. Hosted CI ABSENT_NOT_PASS. All earlier claim statuses and thirty frontier rows preserved. Targets D(C15^3)=43 and D(C20^3)=58 remain unresolved by the programme. See [source/version audit](../sessions/S114/LITERATURE.md), [review](../sessions/S114/REVIEW.md) and [closeout](../sessions/S114/CLOSEOUT.md).
+Claims394, sources37, previous claim/source objects and thirty frontier rows preserved. Neither target settled; no candidate or formal certificate. [S115 review](../sessions/S115/REVIEW.md), [closeout](../sessions/S115/CLOSEOUT.md), [prior theorem consolidation](../research/S111_CONSOLIDATION_REVIEW.md). Hosted CI ABSENT_NOT_PASS.

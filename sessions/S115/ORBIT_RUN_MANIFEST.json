@@ -1,0 +1,21 @@
+{
+  "experiment": "S115-L2",
+  "registered_utc": "2026-11-01T18:38:25.443368+00:00",
+  "wall_cap_seconds": 600,
+  "sha256": {
+    "sessions/S115/orbit_local.py": "bfb60868a704065edbabfcfe9e3bf9a8f6019e3618dcb63cc0a7e1eb7d2d3c0a",
+    "sessions/S115/data/a3/profile0.npy": "73da3abc88f824a85d1fb012fd7770b0ff5cef9fc01af9a35aaf79d2cf40fe27",
+    "sessions/S115/data/a3/profile1.npy": "906e5a8d3e57ee69e5fa03fd24068eca1f1009be1b9458612601f85a25ccdb74",
+    "sessions/S115/data/a3/profile2.npy": "906e5a8d3e57ee69e5fa03fd24068eca1f1009be1b9458612601f85a25ccdb74",
+    "sessions/S115/data/a3/profile3.npy": "73da3abc88f824a85d1fb012fd7770b0ff5cef9fc01af9a35aaf79d2cf40fe27",
+    "sessions/S115/data/a3/profile4.npy": "906e5a8d3e57ee69e5fa03fd24068eca1f1009be1b9458612601f85a25ccdb74",
+    "sessions/S115/data/a5/profile0.npy": "e0b176eb67643bc47f000b0ee12800e2a00831939c6ebbd7559da1f5dff49570",
+    "sessions/S115/data/a5/profile1.npy": "dff4ecb531c05366b5fe374efe11b8d75d3cbc74393610e68f15ff10113d8fa1",
+    "sessions/S115/data/a5/profile2.npy": "fccf3ba4115fc67a75a73e1351cb9aa140d7105e5eea62e2be1569410c4ba7c2",
+    "sessions/S115/data/a5/profile3.npy": "07495838fff61e8f885ee746b5550252ef86c8a1bd97384f10c348b786ba3ace",
+    "sessions/S115/data/a5/profile4.npy": "fccf3ba4115fc67a75a73e1351cb9aa140d7105e5eea62e2be1569410c4ba7c2",
+    "sessions/S115/ORBIT_PLAN.md": "475046a73b08b50f9be4470b1a63ab85f12bcd35a98587b5f5c533fb8c704a07"
+  },
+  "final_registered_utc": "2026-11-01T18:38:59.574233+00:00",
+  "plan_relocation_note": "L2 expanded plan moved to ORBIT_PLAN.md without content change; original L1 PLAN.md restored byte-for-byte to pinned hash. L2 rerun under this final manifest."
+}

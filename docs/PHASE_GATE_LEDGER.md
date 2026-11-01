@@ -471,3 +471,9 @@ There is no gate change. This was a proof-only fallback theory session: no campa
 ## S114 gates — 1 November 2026
 
 Existing committed scoped gates remain. Settled prototype validation PASS (450 actual cases plus controls); this is **not** a Phase-2 campaign-readiness extension. New image campaign readiness **NO-GO**: only one enumerator, no tested resumable coverage, no effective measured pruning. No Phase-3 transition, no target campaign. Phase4 remains OWNER_GATED. CI ABSENT_NOT_PASS; INTERNAL_SAME_EXECUTOR.
+
+## S115 gates — 1 November 2026
+
+**Phase2 SCOPED PASS extension:** complete local component enumeration/filtering by two distinct engines; full sets and survivor sets agree; profile-stabilizer representatives independently agree; settled preflight and local chunk restart/fault tests pass. CLM-0391..0394, S115 RESULTS/ORBIT_RESULTS/PREFLIGHT/THEORY_TESTS.
+
+**Target pair campaign: NO-GO.** Full pair engines, measured mixed-check throughput, and tested pair shard/restart coverage remain missing. No Phase3 transition or target campaign registration. Phase4 OWNER_GATED; CI ABSENT_NOT_PASS; INTERNAL_SAME_EXECUTOR. Pass becomes authority only on this session merge.

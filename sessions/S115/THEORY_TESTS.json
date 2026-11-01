@@ -1,0 +1,47 @@
+{
+  "status": "PASS",
+  "pair_decisions": 184900,
+  "pair_seconds": 3.423710699949879,
+  "pair_scope": "all ordered nonzero pairs of C6^3, bounds (a,b) in {1,2}^2; repeats allowed",
+  "pair_insufficiency_example": {
+    "values": [
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        0
+      ],
+      [
+        5,
+        5,
+        0
+      ]
+    ],
+    "multiplicities": [
+      1,
+      1,
+      1
+    ],
+    "zero_coefficients": [
+      1,
+      1,
+      1
+    ]
+  },
+  "n20_parity": {
+    "raw_labelled": 35280,
+    "GL3_F2_order": 168,
+    "orbits": 210,
+    "missing_seventh_orbits": 30,
+    "repeated_seventh_orbits": 180,
+    "mod4_lifts_per_orbit": 4096,
+    "mod4_total": 860160,
+    "seconds": 0.19169980002334341,
+    "orbit_sha256": "c955ded72060d8fbb7f01a66a90119fa91ac3a8b836d6041154ac9534d5ebb0f"
+  },
+  "code_sha256": "c29431fdb19dddbbc3c35c495e50990c6b3bc979e199b6bfb7e56c5cc594439a"
+}

@@ -478,3 +478,7 @@ These are **owner-authorised** (2026-10-17, PR #114), with scope limited to the 
 ## S114 — feasibility only, 1 November 2026
 
 No new CAM campaign preregistered or activated. S114-V1/V2 are bounded settled-group tooling/lemma tests registered in [PLAN](../sessions/S114/PLAN.md), now complete. Target-readiness NO-GO for unfiltered product enumeration; missing pruning, independent enumeration and tested checkpoints. Historical campaign records and search counters unchanged.
+
+## S115 — local tooling complete, target search not registered
+
+S115-L1 andL2 are bounded local enumeration/orbit experiments registered in sessions/S115/PLAN.md and ORBIT_PLAN.md with frozen manifests. Complete independent agreement. No new CAM ID, no target CRT pair checked. Target search counters unchanged. Prospective first scope is profile(3,8,8,8,8,8),5,815,950 covering pairs, pending S116 pair-tooling gate; not yet a campaign.

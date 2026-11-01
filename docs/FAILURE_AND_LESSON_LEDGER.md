@@ -605,3 +605,11 @@ Algorithm A at n=20 ran at ≈ 0.1 s per pair under 14-way contention, against a
 3. A single complete enumerator plus several candidate checkers does not independently validate coverage. Do not pass a target campaign gate on this basis.
 4. First-version literature can be stale: Wang v4 strengthens the threshold to rank5; GWY v2 is dated27 October. Preserve versions and prior source objects.
 5. Read-only source output initially hit Windows cp1252 encoding; subsequent inspection explicitly used UTF-8. No mathematical output was lost. Web PDF failures were resolved by pinned in-memory extraction, without retained PDF copies.
+
+## S115 — limits and process corrections
+
+1. Pure-component filtering leaves5.34 billion raw joins; complete profile-stabilizer orbits lower this to718.7 million. Orbit sizes vary, so dividing by the group order would give wrong counts.
+2. Two-label CRT bitsets are exact for two-label zeros but miss e1+e2-(e1+e2); they cannot replace the full box checker.
+3. Local filter timings and restart tests do not certify target pair throughput or restart behavior. No target campaign registered.
+4. L2 plan addendum initially changed a document pinned in the L1 manifest. Restored original PLAN.md byte-for-byte and moved expanded text to ORBIT_PLAN.md; reran L2 under final manifest. Initial T1 diagnostic preceded code-hash freeze; froze THEORY_RUN_MANIFEST and reran identical code. No retrospective preregistration claim; mathematical results unchanged.
+5. The S114 process allowed later shell commands to continue after read-only hash/whitespace checks failed; those checks were resolved before merge. S115 uses explicit exit-code checks around commit/push steps. Archived CRLF text from S114 is preserved, not silently normalized.

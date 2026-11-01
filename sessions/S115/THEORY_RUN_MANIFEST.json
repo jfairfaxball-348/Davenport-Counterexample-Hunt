@@ -1,0 +1,9 @@
+{
+  "experiment": "S115-T1",
+  "registered_utc": "2026-11-01T18:38:59.574233+00:00",
+  "code_sha256": {
+    "sessions/S115/theory_tests.py": "c29431fdb19dddbbc3c35c495e50990c6b3bc979e199b6bfb7e56c5cc594439a"
+  },
+  "plan": "PLAN.md S115-T1",
+  "note": "Initial diagnostic execution preceded code-hash freeze; final identical-code evidence rerun after this freeze. No retrospective preregistration claim."
+}

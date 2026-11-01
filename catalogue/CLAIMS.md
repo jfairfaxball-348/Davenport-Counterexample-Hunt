@@ -1,6 +1,6 @@
 # Claims
 
-Historical S004 introduction (current totals: 390 claims; 316 PROGRAMME_PROVED, 30 SOURCE_STATED, 7 COMPUTED_EXACT, 37 INHERITED_UNVERIFIED; none FORMALLY_CERTIFIED). CLM-0001 through CLM-0037 retain inherited provenance and stay quarantined. SOURCE_STATED does not mean PROGRAMME_PROVED; conditional deductions explicitly retain their external assumptions. At S004 no claim was COMPUTED_EXACT or FORMALLY_CERTIFIED; later scoped computations are recorded below.
+Historical S004 introduction (current totals: 394 claims; 319 PROGRAMME_PROVED, 30 SOURCE_STATED, 8 COMPUTED_EXACT, 37 INHERITED_UNVERIFIED; none FORMALLY_CERTIFIED). CLM-0001 through CLM-0037 retain inherited provenance and stay quarantined. SOURCE_STATED does not mean PROGRAMME_PROVED; conditional deductions explicitly retain their external assumptions. At S004 no claim was COMPUTED_EXACT or FORMALLY_CERTIFIED; later scoped computations are recorded below.
 
 ## CLM-0001 — INHERITED_UNVERIFIED
 
@@ -1853,3 +1853,15 @@ Both rest on two independent same-executor exhaustive algorithms with full cover
 **CLM-0390 (SOURCE_STATED)** — Han-Zhang v1 Theorem1.1 states D(G)<4.86 exp(G) log|G|/log exp(G) for nontrivial finite abelian G, and Theorem1.3 gives D(G)~D*(G) for almost all groups under its order-counting model. See [source matrix](../sessions/S114/LITERATURE.md).
 
 Claims **383 -> 390**: three internal proved reductions/counterexample lemmas and four source-stated records. All prior claim objects/statuses remain unchanged; CLM-0378 is independently rechecked, not relabelled.
+
+## S115 — exact local pruning and orbit reduction
+
+**CLM-0391 (PROGRAMME_PROVED)** — For fixed full-order n15 profiles, direct rank3 image RREF enumeration with bounded free-variable zero solving and independent rank3 relation-subspace enumeration with full-vector box intersection exhaust the same pure-component predicate. Simultaneous permutations preserving the exact multiplicity profile allow restricting the p3 component to profile-stabilizer orbit representatives while retaining every p5 survivor; this is a complete covering system, not a joint-orbit count.
+
+**CLM-0392 (COMPUTED_EXACT)** — For the five CLM-0378 n15 profiles in listed order, p3 local survivors are (12168,8970,8970,12168,8970), p5 survivors (223200,147684,40110,47529,40110), and p3 profile-stabilizer orbit counts (2462,542,145,1296,542). Complete independent enumerations and orbit traversals agree. The covering product is 718716282 pairs total; profile (3,8,8,8,8,8) has 5815950. No target pair was checked or excluded.
+
+**CLM-0393 (PROGRAMME_PROVED)** — For two labels over C_pq^r with coprime p,q and fixed bounds a,b, a nonempty zero supported in those labels exists iff the two local sets of identical bounded INTEGER coefficient pairs intersect. A bitset intersection is exact for this predicate. Pair checks are not sufficient for global zero-sumfreeness: e1,e2,-e1-e2 with multiplicities1 in C6^3 has no two-label zero but has a three-label zero.
+
+**CLM-0394 (PROGRAMME_PROVED)** — For seven full-order20 labelled values with six specified odd-multiplicity mod2 columns forming F2^3 minus {0,P}, there are exactly 210 parity image classes under GL3(F2) (30 missing-seventh and180 repeated-seventh), each with4096 free rank3 mod4 image lifts; total860160 mod4 image classes per fixed profile before further pruning. Application to hypothetical target counterexamples inherits CLM-0372.
+
+[Proofs and scope](../research/S115_LOCAL_KERNEL_PRUNING.md). Claims390->394; all390 old claim objects/statuses unchanged. No target exclusion or D-value.

@@ -360,3 +360,7 @@ No frontier row changed. CLM-0366/0367 exclude zero-sumfree sequences with at mo
 ## S114 — 1 November 2026
 
 All 30 numerical/status/evidence rows remain unchanged. The [current primary-statement audit](../sessions/S114/LITERATURE.md) authenticates no improved exact n15/n20 value in this bounded pass; non-discovery is not an openness claim. C10=28 is re-observed in original SRC-0023 Cor4.3; no source proof certification. No target image search ran.
+
+## S115 — local reduction only
+
+All thirty numerical/status/evidence rows unchanged. CLM-0392 counts a necessary local covering system, not zero-sumfree target sequences. No CRT target pair checked, support-six exclusion or improved Davenport bound. [Scope](../research/S115_LOCAL_KERNEL_PRUNING.md).

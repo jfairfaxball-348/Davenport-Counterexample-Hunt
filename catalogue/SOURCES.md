@@ -543,3 +543,7 @@ The inspected text states d*(G) ≤ d(G), with equality for p-groups and for gro
 ## S114 — current statement/version audit
 
 Current total **37 sources**. SRC-0029, SRC-0031 and SRC-0032 are now **STATEMENT_INSPECTED** (2026-11-01); original entries above remain historical and their JSON history is archived. New SRC-0035 Wang v4, SRC-0036 Geroldinger–Wang–Yang v2, SRC-0037 Liu v1 are STATEMENT_INSPECTED. See [full matrix](../sessions/S114/LITERATURE.md) and [observations](../sessions/S114/SOURCE_INSPECTIONS.json). No source proof or claim status is upgraded. Existing duplicate source IDs 0015/0029 and 0016/0031 refer to the same works; source-record count is not a count of distinct works.
+
+## S115 — source preservation
+
+All37 source records and access histories are unchanged. No new external source, source proof inspection or claim of current worldwide openness/novelty. The n20 parity application retains CLM-0372 dependencies. S114 remains the latest primary statement/version audit.
