@@ -1,0 +1,33 @@
+{
+  "experiment": "S115-L1",
+  "status": "PREREGISTERED_LOCAL_ONLY",
+  "entry_main": "3039bcaa52238bb21c2127ddb1c66c54f153c89b",
+  "registered_utc": "2026-11-01T18:34:42.494356+00:00",
+  "jobs": [
+    "a3",
+    "b3",
+    "a5",
+    "b5"
+  ],
+  "per_job_wall_cap_seconds": 7200,
+  "total_wall_cap_seconds": 21600,
+  "chunk": 2048,
+  "expected_component_counts": {
+    "3": 33880,
+    "5": 2558556
+  },
+  "code_sha256": {
+    "tools/zsf/local_images_a.py": "0055d146cfb1972f94593dfe110a304f8359fa82eae63d21ecc32359e42e26da",
+    "tools/zsf/local_kernels_b.py": "a8c8b5734bba6ec5bb4916ab37ac7f07edc3ab484026eaf9ee9e2278875150f7",
+    "sessions/S115/run_local.py": "a51c61b6251abcc11a93d44603e6bc645987f9eeed85f2235326f6dde74d57e1",
+    "sessions/S115/preflight.py": "1361ce851815a34d09a98cf9c2f10b4d32e72ecf08bc98a8bde4ff32a3e7e934",
+    "sessions/S115/PLAN.md": "dcf586c9e0802ebfd69dd56c49afd674b7279a820da43d4d57742a24da6f1d26"
+  },
+  "environment": {
+    "python": "3.12.10",
+    "platform": "Windows-11-10.0.26300-SP0",
+    "numpy": "1.26.4"
+  },
+  "preflight": "PREFLIGHT.json PASS",
+  "no_target_CRT_join": true
+}

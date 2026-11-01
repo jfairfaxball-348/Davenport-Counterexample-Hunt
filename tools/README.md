@@ -53,3 +53,7 @@ Environment: Python 3.12.10, numpy 1.26.4, Windows 11, i7-11800H (16 logical CPU
 ## S114 — image/profile prototype (NOT campaign-ready)
 
 `tools/zsf/image_profile.py` enumerates prime-field RREF image maps, combines squarefree CRT columns, and checks coefficient boxes by meet in the middle. `python -X utf8 -I sessions/S114/validate.py` reproduces independent profiles, settled tests and a bounded timing sample. It has no target-search CLI, no mod4 enumerator and no tested resume harness. See S114 note for scope and missing gate obligations.
+
+## S115 — independently checked local components
+
+`local_images_a.py`: image RREF plus bounded free-variable solving. `local_kernels_b.py`: kernel RREF plus full-vector box intersection and independent image normalization. Neither shares mathematical helper code. S115 runners preserve chunk/coverage hashes; `LOCAL_EVIDENCE.zip` contains lossless outputs. Scoped gate covers local enumeration/filtering/orbits and local restart tests, NOT complete target pair searching. See S115 research note and manifests for replay.

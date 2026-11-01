@@ -114,3 +114,7 @@ Detailed proofs: [S113 note](S113_CLOSED_FORM_ROUTE_THEOREMS.md), [S112 note](S1
 ## S114 update — 1 November 2026
 
 The prior no-enumeration steering above is historical, superseded by the November restart. See [S114](S114_IMAGE_FEASIBILITY.md): CLM-0384 fixed-profile full-order generating refinement (all n,k>=r); CLM-0385 exact canonical image counts; CLM-0386 pure-component necessity and explicit insufficiency. Direct product campaign NO-GO, not a support exclusion. SAT15/SAT20 remain unresolved by this programme; all earlier claim statuses preserved.
+
+## S115 update — 1 November 2026
+
+[Local pruning and symmetry](S115_LOCAL_KERNEL_PRUNING.md) reduce the five n15 profile covering system to718,716,282 pairs; the smallest profile has5,815,950. Two local enumerators and two orbit traversals agree. CLM-0391..0394 add local correctness/symmetry, exact counts, coupled pair-filter equivalence/limitation, and n20 parity/lift counting. No target pair checked; no support/D-value change.

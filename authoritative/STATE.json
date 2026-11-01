@@ -18,7 +18,8 @@
       "s103_scoped_gate": "SCOPED_PASS_EXACT_ZSF_CHECKERS_AND_R1_HEURISTIC_ENGINE; NOT symmetry-reduced exhaustive enumeration, SAT/DRAT/LRAT or Lean tooling",
       "s104_scoped_gate_extension": "SCOPED_PASS_EXTENSION_R2_LNS_1_0_HEURISTIC_ENGINE (settled-group pre-flight n=3..6, 120 FFT two-addition decisions = exhaustive oracle, determinism); still NOT exhaustive/SAT/Lean tooling",
       "s109_scoped_gate_extension": "SCOPED_PASS_EXTENSION_SUPPORT5_EXHAUSTIVE_TOOLING (support5_a/support5_b, CLM-0361..0365); still NOT Lean/SAT tooling",
-      "s114_readiness": "NO_GO_TARGET_CAMPAIGN: prototype tests pass; independent image enumeration, effective pruning, resume checks missing"
+      "s114_readiness": "NO_GO_TARGET_CAMPAIGN: prototype tests pass; independent image enumeration, effective pruning, resume checks missing",
+      "s115_scoped_gate_extension": "SCOPED_PASS_LOCAL_COMPONENT_ENUMERATION_FILTERS_AND_PROFILE_STABILIZER_ORBITS; tested local checkpoints. NOT complete CRT pair search, target throughput, Lean or SAT tooling."
     },
     "3": {
       "name": "Campaigns",
@@ -34,16 +35,17 @@
       "status": "OWNER_GATED"
     }
   },
-  "last_completed_session": "S114",
-  "recommended_next_session": "S115",
+  "last_completed_session": "S115",
+  "recommended_next_session": "S116",
   "campaign_active": null,
   "counterexample_status": "NONE_CLAIMED",
   "phase1_target_n": [
     15,
     20
   ],
-  "phase1_target_status": "SCOPED_PASS_TARGET_DEFINITIONS; S114_BOUNDED_PRIMARY_STATEMENT_REFRESH; NO_ACTIVE_OR_PREREGISTERED_CAMPAIGN",
+  "phase1_target_status": "SCOPED_PASS_TARGET_DEFINITIONS; S114_PRIMARY_SNAPSHOT; S115_LOCAL_TOOLING_PASS; NO_TARGET_CAMPAIGN",
   "open_blockers": [
+    "S115 CURRENT: independent local enumeration/orbits and local restart checks now PASS, closing that part of S114. Missing two complete target pair engines, actual mixed-check throughput and tested pair coverage/restart; no target campaign registered. S116 builds/gates these for smallest 5,815,950-pair profile.",
     "S114 CURRENT: direct unfiltered n15 image product is not campaign-ready; independently verify local pruning/coverage and implement tested checkpoints. Internal research task, not owner/external blocker. Historical entries below retain their original session scope.",
     "S110: no blocker. Support-<=5 exhaustive track complete. Any extension of exhaustive work to six values needs a new owner decision and feasibility study. Lean 4 and SAT/DRAT tooling NOT built.",
     "S102 CLM-0344 INTERNAL genuine original q-GROUP disjoint axial U* exclusion: exactly five exceptional z^4(z+2) flats with ordinary colours >=3 distinct (4 distinct OR 2+1+1), even when a V is flat, impossible. Four-distinct: four exterior h=(4,4,6), real U* k=(6,6,4); 2+1+1: two exterior h=(2,2,9), k=(8,8,1). Each produces literal proper original zero, no V/Fano overlap. Remaining 2+2/3+1/4 colours, uniform-five, <=4 flats, full12-other q cases, Fano2048, signed non-q splits, all U22/G59/G58/D20 OPEN; claims344, sources29/frontier30 frozen, Phase1 HOLD CAM BLOCKED CI ABSENT_NOT_PASS.",
@@ -1840,8 +1842,8 @@
     "fallback_priority": "SATURATION_FALLBACK",
     "fallback_statement": "For every zero-sumfree 57-term indexed sequence in C20^3, subset sums including empty equal the full group, equivalently no zero-sumfree 58-term sequence exists.",
     "superseded_target": "S103 exceptional five-flat colour subclass continuation",
-    "next_session": "S115_FUTURE_LOCAL_KERNEL_PRUNING_AND_INDEPENDENT_ENUMERATION",
-    "last_completed": "S114",
+    "next_session": "S116_FUTURE_PAIR_ENGINE_GATE_SMALLEST_N15_PROFILE",
+    "last_completed": "S115",
     "proof_gate": "PHASE1_SCOPED_PASS; PHASE2_SCOPED_PASS (R1, R2 engines); PHASE3 rounds 1-2 COMPLETED, search closed",
     "original_campaign": "CAM-0001_PROPOSED_NOT_RUNNING_BLOCKED (obsolete n6, not reactivated)",
     "comment": "S105 active search session 2: round 2 executed on both targets, complete; fallback trigger met; priority SATURATION_FALLBACK.",
@@ -1955,8 +1957,9 @@
         "installed_by": "Non-session governance commit; no research session or search executed"
       }
     ],
-    "entry_point": "research/S114_IMAGE_FEASIBILITY.md",
-    "s114_feasibility": "NO_GO_DIRECT_ENUMERATION; search counters unchanged; no target campaign"
+    "entry_point": "research/S115_LOCAL_KERNEL_PRUNING.md",
+    "s114_feasibility": "NO_GO_DIRECT_ENUMERATION; search counters unchanged; no target campaign",
+    "s115_feasibility": "Local covering product718716282; smallest profile5815950; no target pair check. Pair engines/throughput missing, no target campaign."
   },
   "campaigns_preregistered": [],
   "s103_result": {
@@ -2314,5 +2317,40 @@
     "review": "INTERNAL_SAME_EXECUTOR",
     "blocker_kind": "INTERNAL_TOOLING_AND_PRUNING; NO_OWNER_OR_EXTERNAL_BLOCKER",
     "next": "S115 local-kernel pruning and independent enumeration readiness only"
+  },
+  "s115_result": {
+    "date": "2026-11-01",
+    "entry_main": "3039bcaa52238bb21c2127ddb1c66c54f153c89b",
+    "entry_tree": "b05cee15128d0ca95472f74acab62e99dfaea34e",
+    "note": "research/S115_LOCAL_KERNEL_PRUNING.md",
+    "claims": [
+      "CLM-0391",
+      "CLM-0392",
+      "CLM-0393",
+      "CLM-0394"
+    ],
+    "claims_total": 394,
+    "sources_total": 37,
+    "outcome": "SCOPED_PASS_LOCAL_TOOLING; NO_GO_TARGET_CAMPAIGN_PENDING_PAIR_ENGINES",
+    "local_pure_product": 5338529352,
+    "local_symmetry_covering_product": 718716282,
+    "smallest_profile": [
+      3,
+      8,
+      8,
+      8,
+      8,
+      8
+    ],
+    "smallest_profile_pairs": 5815950,
+    "local_independent_full_sets_agree": true,
+    "local_nonempty_strata_benchmarked": 84,
+    "n20_parity_classes": 210,
+    "n20_mod4_lifts": 860160,
+    "target_pairs_checked": 0,
+    "campaign_registered": false,
+    "ci": "ABSENT_NOT_PASS",
+    "review": "INTERNAL_SAME_EXECUTOR",
+    "owner_external_blocker": false
   }
 }

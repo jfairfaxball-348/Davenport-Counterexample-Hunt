@@ -1,0 +1,30 @@
+{
+  "cases": [
+    {
+      "p": 2,
+      "matrices": 15,
+      "boxes": 15,
+      "direct_and_two_engines_agree": true
+    },
+    {
+      "p": 3,
+      "matrices": 40,
+      "boxes": 76,
+      "direct_and_two_engines_agree": true
+    }
+  ],
+  "restart": {
+    "partial_chunks": 2,
+    "resume_equals_uninterrupted": true,
+    "orphan_overwritten": true,
+    "tampered_code_rejected": true
+  },
+  "status": "PASS",
+  "seconds": 0.8181068999692798,
+  "code_sha256": {
+    "sessions/S115/preflight.py": "1361ce851815a34d09a98cf9c2f10b4d32e72ecf08bc98a8bde4ff32a3e7e934",
+    "tools/zsf/local_images_a.py": "0055d146cfb1972f94593dfe110a304f8359fa82eae63d21ecc32359e42e26da",
+    "tools/zsf/local_kernels_b.py": "a8c8b5734bba6ec5bb4916ab37ac7f07edc3ab484026eaf9ee9e2278875150f7",
+    "sessions/S115/run_local.py": "a51c61b6251abcc11a93d44603e6bc645987f9eeed85f2235326f6dde74d57e1"
+  }
+}

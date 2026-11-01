@@ -1,0 +1,120 @@
+{
+  "status": "PASS",
+  "cases": [
+    {
+      "profile": [
+        2,
+        4,
+        8,
+        8,
+        8,
+        13
+      ],
+      "p3_survivors": 12168,
+      "stabilizer_order": 6,
+      "p3_orbits": 2462,
+      "orbit_size_histogram": {
+        "3": 868,
+        "6": 1594
+      },
+      "independent_representatives_equal": true,
+      "p5_survivors": 223200,
+      "representative_product": 549518400,
+      "representative_sha256_le_uint64": "07324d9ed0a73d4c49460329e298c76ae7fafc919d317792b819edcf0ab07cbf"
+    },
+    {
+      "profile": [
+        2,
+        8,
+        8,
+        8,
+        8,
+        9
+      ],
+      "p3_survivors": 8970,
+      "stabilizer_order": 24,
+      "p3_orbits": 542,
+      "orbit_size_histogram": {
+        "3": 8,
+        "6": 33,
+        "12": 273,
+        "24": 228
+      },
+      "independent_representatives_equal": true,
+      "p5_survivors": 147684,
+      "representative_product": 80044728,
+      "representative_sha256_le_uint64": "366ed8592954be78be3fc884f1054a304066c8790e18cfbcb849c54095f2c8b2"
+    },
+    {
+      "profile": [
+        3,
+        8,
+        8,
+        8,
+        8,
+        8
+      ],
+      "p3_survivors": 8970,
+      "stabilizer_order": 120,
+      "p3_orbits": 145,
+      "orbit_size_histogram": {
+        "15": 8,
+        "30": 33,
+        "60": 77,
+        "120": 27
+      },
+      "independent_representatives_equal": true,
+      "p5_survivors": 40110,
+      "representative_product": 5815950,
+      "representative_sha256_le_uint64": "3fdbc8263427a3e6a39ebbbf1732c8df5421471659a7087bcaf23b9f3be1f55c"
+    },
+    {
+      "profile": [
+        4,
+        4,
+        8,
+        8,
+        8,
+        11
+      ],
+      "p3_survivors": 12168,
+      "stabilizer_order": 12,
+      "p3_orbits": 1296,
+      "orbit_size_histogram": {
+        "3": 50,
+        "6": 489,
+        "12": 757
+      },
+      "independent_representatives_equal": true,
+      "p5_survivors": 47529,
+      "representative_product": 61597584,
+      "representative_sha256_le_uint64": "d930d7e40fdab787741fc1f389d63bad2066be45d110d25e90330ef3233dac27"
+    },
+    {
+      "profile": [
+        4,
+        7,
+        8,
+        8,
+        8,
+        8
+      ],
+      "p3_survivors": 8970,
+      "stabilizer_order": 24,
+      "p3_orbits": 542,
+      "orbit_size_histogram": {
+        "3": 8,
+        "6": 33,
+        "12": 273,
+        "24": 228
+      },
+      "independent_representatives_equal": true,
+      "p5_survivors": 40110,
+      "representative_product": 21739620,
+      "representative_sha256_le_uint64": "902c75ec108a336e67f7d2d88c54d721df1c941b290e100955fd47409e653092"
+    }
+  ],
+  "seconds": 4.252118400007021,
+  "total_representative_product": 718716282,
+  "scope": "p3 profile-stabilizer quotient times all p5 survivors; covering representative system, not exact joint orbit count"
+}

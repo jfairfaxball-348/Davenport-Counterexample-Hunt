@@ -3940,6 +3940,42 @@
         "SRC-0032"
       ],
       "notes": "Direct primary statement/version inspection; not a programme proof; no target equality follows."
+    },
+    {
+      "id": "CLM-0391",
+      "status": "PROGRAMME_PROVED",
+      "category": "REDUCTION",
+      "statement": "For fixed full-order n15 profiles, direct rank3 image RREF enumeration with bounded free-variable zero solving and independent rank3 relation-subspace enumeration with full-vector box intersection exhaust the same pure-component predicate. Simultaneous permutations preserving the exact multiplicity profile allow restricting the p3 component to profile-stabilizer orbit representatives while retaining every p5 survivor; this is a complete covering system, not a joint-orbit count.",
+      "origin": "research/S115_LOCAL_KERNEL_PRUNING.md section 2",
+      "source_ids": [],
+      "notes": "Internal same-executor proof. No novelty or formal certification; n20 application conditional on CLM-0372 and its source premises."
+    },
+    {
+      "id": "CLM-0392",
+      "status": "COMPUTED_EXACT",
+      "category": "COMPUTATION",
+      "statement": "For the five CLM-0378 n15 profiles in listed order, p3 local survivors are (12168,8970,8970,12168,8970), p5 survivors (223200,147684,40110,47529,40110), and p3 profile-stabilizer orbit counts (2462,542,145,1296,542). Complete independent enumerations and orbit traversals agree. The covering product is 718716282 pairs total; profile (3,8,8,8,8,8) has 5815950. No target pair was checked or excluded.",
+      "origin": "research/S115_LOCAL_KERNEL_PRUNING.md section 3",
+      "source_ids": [],
+      "notes": "Two independently implemented local enumerators and two orbit traversals, shared proved reductions CLM-0384/0385/0386/0391. Scope local only, not target exclusion or FORMALLY_CERTIFIED."
+    },
+    {
+      "id": "CLM-0393",
+      "status": "PROGRAMME_PROVED",
+      "category": "REDUCTION",
+      "statement": "For two labels over C_pq^r with coprime p,q and fixed bounds a,b, a nonempty zero supported in those labels exists iff the two local sets of identical bounded INTEGER coefficient pairs intersect. A bitset intersection is exact for this predicate. Pair checks are not sufficient for global zero-sumfreeness: e1,e2,-e1-e2 with multiplicities1 in C6^3 has no two-label zero but has a three-label zero.",
+      "origin": "research/S115_LOCAL_KERNEL_PRUNING.md section 4",
+      "source_ids": [],
+      "notes": "Internal same-executor proof. No novelty or formal certification; n20 application conditional on CLM-0372 and its source premises."
+    },
+    {
+      "id": "CLM-0394",
+      "status": "PROGRAMME_PROVED",
+      "category": "REDUCTION",
+      "statement": "For seven full-order20 labelled values with six specified odd-multiplicity mod2 columns forming F2^3 minus {0,P}, there are exactly 210 parity image classes under GL3(F2) (30 missing-seventh and180 repeated-seventh), each with4096 free rank3 mod4 image lifts; total860160 mod4 image classes per fixed profile before further pruning. Application to hypothetical target counterexamples inherits CLM-0372.",
+      "origin": "research/S115_LOCAL_KERNEL_PRUNING.md section 5",
+      "source_ids": [],
+      "notes": "Internal same-executor proof. No novelty or formal certification; n20 application conditional on CLM-0372 and its source premises."
     }
   ]
 }

@@ -1,0 +1,23 @@
+{
+  "status": "PASS",
+  "historical_claims_unchanged": 390,
+  "source_objects_unchanged": 37,
+  "frontier_rows_unchanged": 30,
+  "claims_total": 394,
+  "claim_statuses": {
+    "INHERITED_UNVERIFIED": 37,
+    "PROGRAMME_PROVED": 319,
+    "SOURCE_STATED": 30,
+    "COMPUTED_EXACT": 8
+  },
+  "archived_files_byte_verified": 2692,
+  "full_local_sets_equal": true,
+  "orbit_evidence_verified": true,
+  "frozen_inputs_code_manifests_verified": true,
+  "search_counters_and_campaign_artifacts_unchanged": true,
+  "new_local_links_checked": 11,
+  "manifest_files": 50,
+  "diff_check": "PASS",
+  "ci": "ABSENT_NOT_PASS",
+  "review": "INTERNAL_SAME_EXECUTOR"
+}

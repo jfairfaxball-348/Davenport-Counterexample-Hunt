@@ -5,3 +5,7 @@ sessions/S114/** text eol=lf
 sessions/S114/ENTRY_PROMPT.md -text
 sessions/S114/INPUT.md -text
 sessions/S114/PLAN.md -text
+sessions/S115/** text eol=lf
+sessions/S115/**/*.npy -text
+sessions/S115/**/*.npz -text
+sessions/S115/**/*.zip -text
