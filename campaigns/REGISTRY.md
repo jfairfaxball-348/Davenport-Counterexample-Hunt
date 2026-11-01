@@ -474,3 +474,7 @@ These are **owner-authorised** (2026-10-17, PR #114), with scope limited to the 
 - **Completeness:** EXHAUSTIVE for this family only. The campaign is complete only when both algorithms reach full coverage; any truncation makes it PARTIAL, with no claim.
 - **Activation:** S110 at the earliest.
 - **A negative outcome** excludes only the support-≤5 family. It does not settle SAT20/SAT15.
+
+## S114 — feasibility only, 1 November 2026
+
+No new CAM campaign preregistered or activated. S114-V1/V2 are bounded settled-group tooling/lemma tests registered in [PLAN](../sessions/S114/PLAN.md), now complete. Target-readiness NO-GO for unfiltered product enumeration; missing pruning, independent enumeration and tested checkpoints. Historical campaign records and search counters unchanged.

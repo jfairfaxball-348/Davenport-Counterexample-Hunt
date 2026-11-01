@@ -1,6 +1,6 @@
 # Sources
 
-Current source access after S004. PROOF_INSPECTED is scoped to the pages and dependencies described; it is not a certificate. Stable duplicate IDs are retained for historical references.
+Historical source access after S004, with dated updates below. Current S114 total: 37 records (14 PROOF_INSPECTED, 13 STATEMENT_INSPECTED, 5 METADATA_ONLY, 3 ABSTRACT_INSPECTED, 2 SECONDARY_ONLY). PROOF_INSPECTED is scoped to the pages and dependencies described; it is not a certificate. Stable duplicate IDs are retained for historical references.
 
 ## SRC-0001 — Olson, A combinatorial problem on finite Abelian groups I
 
@@ -539,3 +539,7 @@ The inspected text states d*(G) ≤ d(G), with equality for p-groups and for gro
 **S107 source note.** No new records. In SRC-0005 (Girard–Schmid, arXiv:1806.07636v2) the recalled Theorem 2.7, D(C2 ⊕ C2m ⊕ C2mn) = 2m+2mn, and the introduction's remark that the Davenport constant is known when n1 = 2 were inspected on 2026-10-17. Access stays STATEMENT_INSPECTED. The original record is unchanged, and the inspection is logged in `s107_audit`. It supports CLM-0356.
 
 **S108 source note.** A literature search on 2026-10-17 looked for exact Davenport constants of C4⊕C20⊕C20, C5⊕C20⊕C20, C10⊕C20⊕C20, C3⊕C15⊕C15 and C5⊕C15⊕C15, and of C_m⊕C_n⊕C_n with m > 2. It found none. No records were added, and nothing was used as a premise. Not finding a value is not an openness claim.
+
+## S114 — current statement/version audit
+
+Current total **37 sources**. SRC-0029, SRC-0031 and SRC-0032 are now **STATEMENT_INSPECTED** (2026-11-01); original entries above remain historical and their JSON history is archived. New SRC-0035 Wang v4, SRC-0036 Geroldinger–Wang–Yang v2, SRC-0037 Liu v1 are STATEMENT_INSPECTED. See [full matrix](../sessions/S114/LITERATURE.md) and [observations](../sessions/S114/SOURCE_INSPECTIONS.json). No source proof or claim status is upgraded. Existing duplicate source IDs 0015/0029 and 0016/0031 refer to the same works; source-record count is not a count of distinct works.

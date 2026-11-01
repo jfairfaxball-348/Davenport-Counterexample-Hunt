@@ -1,33 +1,37 @@
-# S114 — RESTART ENTRY: PRIOR-ART GATE + SUPPORT-SIX SEARCH FEASIBILITY (FUTURE / NOT EXECUTED)
+# S115 — local-kernel pruning and independent coverage (FUTURE / NOT EXECUTED)
 
-**Owner directive 1 November 2026:** return to the overarching objective: **find a rigorously checked counterexample OR prove a structural theorem advancing D(C_n^3)=3n-2**. Long, checkpointed laptop enumerations are encouraged **when they explore genuinely new complete spaces**, but no brute-force budget should be sold as a proof. This directive supersedes the *future-work ban on enumeration* in the unexecuted former S114 prompt. It does not change any S001–S113 claim, previously completed campaign or previously recorded proof dependency.
+Run ONE numbered S115 session only after an explicit owner invocation. S114 is complete; no target campaign is active or preregistered. Owner restart of 1 November permits newly justified computation, subject to all repository gates. Purpose: replace the infeasible unfiltered image product with a measured, complete restricted product or a precise mathematical obstruction. Do not repeat support-five work or launch a target overnight run.
 
-Priority: **PROOF_OR_COUNTEREXAMPLE_RESTART**. No active or pre-registered campaign. **Run ONE numbered S114 session only on a subsequent explicit "run next session" request.** This governance installation alone does not execute S114.
+## Entry and authority
 
-## Entry, scope, and evidence
-- Independently reread LIVE main SHA/tree, AGENTS.md, authoritative/STATE.json, research/RESTART_AUDIT_2026_11_01.md, research/S111_CONSOLIDATION_REVIEW.md, S109/S110/S112/S113 notes, catalogue/CLAIMS.md and SOURCES.md, failure ledger, frontier and research scripts.
-- Phase gates, source provenance, exact numerical claims and claim statuses stay enforced. Check hosted CI; record absence as ABSENT_NOT_PASS. No external contact, paper submission, new project or announcement without owner permission.
-- At entry archive INPUT and manifest, have PLAN / exact validation / hostile REVIEW and PRECOMMIT CLOSEOUT. One atomic authored commit via session branch and ordinary PR, no force; independently reread main after merge. Follow AGENTS, including no model names in files or commit messages and no pattern-based process kills.
+Independently verify remote main SHA/tree, clean checkout, recent/open PRs and hosted Actions. Read AGENTS.md, STATE.json, SESSION_PROTOCOL.md, PHASE_GATE_LEDGER.md, S114 INPUT/PLAN/REVIEW/CLOSEOUT, research/S114_IMAGE_FEASIBILITY.md, S114 RESULTS.json and SOURCE_INSPECTIONS.json, source/claim/frontier/campaign/failure ledgers and the S111 consolidation review. Archive exact invocation and manifest; pre-register bounded work before experiments. CI absent means ABSENT_NOT_PASS. One atomic authored session-branch commit, ordinary PR/merge without force, independent remote-main verification. No model names in files/commits, pattern-based process kills, external contact, submission, announcement or new project.
 
-## Goal 1 (first): current prior art, provenance
-- Independently inspect primary theorem statements and dates, not abstracts only: classical rank-three literature, current Yiu, Han–Zhang, Wang higher-rank work, Geroldinger/Wang/Yang saturation results, Grinsztajn upper bound and any work published through 1 Nov 2026. Search for a settled n=15 or n=20 value, not just mentions. Log exact theorem, applicability, source ID/access level/version, distinguish rank-three homocyclic and other group families. Update the catalogue only on observed evidence; no claim of universal novelty from search non-discovery.
-- Recheck the frontier's 12 Oct snapshot and historical premise D(C10^3)=28, source statuses, and n15/n20 recorded intervals. Preserve original source entries and source history.
+## Starting point and limits
 
-## Goal 2: establish a rigorously bounded NEW enumeration search space
-- Priority target n=15, L=43, support EXACTLY six. Independently regenerate the five CLM-0378 multiplicity profiles:
-  (2,4,8,8,8,13); (2,8,8,8,8,9); (3,8,8,8,8,8); (4,4,8,8,8,11); (4,7,8,8,8,8).
-- These patterns survive multiplicity arithmetic only. Their vectors must have order 15 and distinct actual C15^3 values. Design an image-level enumerator using CRT C3^3 x C5^3; certify all GL/symmetry reductions or leave uncovered strata explicit. **Do not assume fixed-profile supports generate** unless a valid completeness proof justifies that exact family.
-- Include complete tests on smaller settled moduli; run a short timing benchmark with code and environment hashes; report exact case counts if proved, otherwise explicit lower/upper cost scenarios. Implement at least one exact search/checker and preferably a genuinely independent duplicate; existing checker A/B remain available as independent candidate validators.
-- Build a laptop-friendly deterministic sharded/resumable harness plan with 6–12 hour per-run budget; ensure every scenario has precise distinction between EXHAUSTIVE and HEURISTIC and a written correctness argument. Only **preregister**, if the readiness gate actually passes, a named future campaign with shard coverage, budget, checkpoints, code hashes and possible outcomes. Do not start target-length overnight computation in S114.
+- Targets: zero-sumfree length43 over C15^3 or length58 over C20^3. Neither resolved by this programme.
+- CLM-0378: five n15 support-six profiles and 139 n20 support-seven profiles, independently regenerated in S114 with full lists in RESULTS.json. All values have full order; n20 profiles have exactly six odd multiplicities. Arithmetic profiles are not candidates.
+- CLM-0384 proves fixed-positive-profile full-order generating refinement and distinctness. It does not make original non-generating supports GL-equivalent to generating ones or preserve arbitrary lower exact orders.
+- CLM-0385: n15 raw canonical product 86,683,877,280 per profile; five profiles total 433,419,386,400. No target enumeration performed.
+- CLM-0386: pure-component coefficient-box tests are necessary, NOT sufficient. Mixed CRT zeros require the SAME support labels in both components.
+- image_profile.py is a prototype: one RREF enumerator, squarefree CRT, exact meet-in-the-middle checker. Settled 450 valid cases agree with A/B. Not two independent enumerations or a tested restart harness. No target gate PASS.
+- Claims 390, sources 37, original frontier rows unchanged. Current Wang v4 (rank>=5), GWY v2 (27 October), Liu (28 October), Yiu/Han-Zhang statements are SOURCE_STATED. No novelty or current openness inference from non-discovery.
 
-## Goal 3: n20 and theory parallel planning
-- Check the 139 n=20 support-seven multiplicity survivors by independently written counting, not by blindly copying the previous output; identify CRT C4/C5 and Fano/parity reductions from CLM-0372. Make a feasibility forecast and a sensible alternative if n15 six-support is too large.
-- Write down at least one precise testable image-level or saturation lemma (e.g. restricted TWO* or relation-box/CRT), and seek smallest counterexamples on settled groups. Make hand-proof obligations explicit; negative bounded test ≠ universal theorem.
-- Explain how the general SAT15/SAT20 case could follow after a support-six/seven exclusion; **do not claim support-six/seven classification resolves all support sizes**.
+## Goal A — bounded exact local pruning
 
-## Deliverables and gate
-- Produce updated modern literature matrix, actual source inspection manifest, exact scope/cost report, sample runner output + independent checker validation on settled groups, new research note, frozen historical statuses, test artifacts and hostile review; if no viable new exact search, state NO-GO and propose a better mathematical reduction, not a campaign.
-- If a campaign is justified, install next-session S115 instructions to **run only the pre-registered bounded campaign**, preserving every completion/certification requirement. If not justified, install S115 prompt to close the missing reduction or tooling blocker.
-- Maintain search counters and claim counts until a new campaign actually executes or a new claim is proved. Do not label partial coverage as UNSAT, a source-stated result as a programme proof, or a solver hit as a certified counterexample.
+Before running, register an S115 tooling experiment with exact spaces, code/input hashes, count bounds, resource caps, deterministic order, checkpoints and stopping rules. This is local tooling, not a full target sequence campaign. Suggested total laptop wall cap six hours with progress/checkpoints; do not spill unbounded work into another session.
 
-**Decisive purpose:** force the next session to produce one of (i) a feasible, auditable and preregistered new image-level search; (ii) an explicit new falsified or proved mathematical lemma; (iii) a precise documented no-go that changes the plan. No repeat of S110 support five.
+For each n15 profile alpha, enumerate rank3 RREF images over F3 and F5 independently. Filter by mod3 values 5g with multiplicities floor(alpha/5), and mod5 values 3g with floor(alpha/3). Reject zero local columns where full order requires; do NOT require distinct local columns (only full CRT columns must be distinct). Preserve canonical IDs, pivot-stratum counts, survivor sets and hashes. Prove coverage and each rejection; finish or label partial. Independently implement a distinct enumerator (e.g. kernel subspaces via canonical pivot graphs), and compare complete survivor sets under a proved correspondence. A/B candidate checkers alone do not certify enumeration coverage.
+
+Compute exact remaining products by profile, then design coupled relation-box rejection before joins. Stabilizer permutations must preserve multiplicities and act on both components together; dividing by group size is not an orbit count. Do not assume the same three columns are a basis in both components. Benchmark surviving cases from EVERY nonempty profile/pivot stratum, including tails. No full target-length image search in S115 without a previously committed specific gate/preregistration (none exists at handoff).
+
+## Goal B — mathematics and n20 alternative
+
+Use retained structures to formulate a precise lemma: every compatible local-kernel pair for one specified profile box contains a nonzero CRT vector in that box, or a rigorously restricted subclass. Seek smallest counterexamples on settled groups under separately bounded preregistration; write hand-proof obligations. A negative finite test is not a universal theorem. Do not merely relist necessary conditions.
+
+For n20, CLM-0372 forces the six odd-multiplicity mod2 images to be F2^3 minus {0,P}. Quantify complete parity-first enumeration/lift counts before implementing mod4. Preserve full order and actual-column distinctness. Prefer n15 pruning or a stronger lemma over the raw n20 product. Explain why excluding support6/7 leaves all higher supports and the global saturation theorem open.
+
+## Gate and deliverables
+
+Deliver exact scope, reduction proofs, independent local coverage, code/environment/output hashes, cost report, checkpoint design and hostile review. Only if independent complete tooling, all relevant stratum timings, tested shard restart semantics and realistic costs pass may a named FUTURE target campaign be preregistered, with exact coverage, 6–12 hour per-run budgets and stopping/cold verification rules. Never start it in its registration session. Otherwise record NO-GO and the precise missing task.
+
+Preserve historical statuses/search counters unless new proofs or actual campaigns justify updates. No budget-exhaustion UNSAT or source-to-proof upgrade. A hit stays in candidates/ pending canonical hash, two distinct checks, Lean kernel verification and later-session cold recheck. Sync all ledgers, write precommit closeout and full next prompt only if no owner/external blocker; otherwise state exact action and withhold next prompt. Finish S115 only, merge, verify remote main and stop.

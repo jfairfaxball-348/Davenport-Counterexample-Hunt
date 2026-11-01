@@ -3869,6 +3869,77 @@
       "origin": "research/S113_CLOSED_FORM_ROUTE_THEOREMS.md section 4",
       "source_ids": [],
       "notes": "From CLM-0379..0382 with explicit hand-checkable survivors at n=15, 20, 21; premises as in CLM-0381/0382. A statement about the route method, not about D(C_n^3)."
+    },
+    {
+      "id": "CLM-0384",
+      "statement": "For n>=2 and k>=r, every distinct labelled k-list in C_n^r admits a generating refinement with contained relation kernel, preserving zero-sumfreeness for each fixed positive profile, distinctness, and divisibility of original orders into refined orders. Thus existence for each fixed full-order profile is equivalent to generating existence.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S114_IMAGE_FEASIBILITY.md section 3",
+      "source_ids": [],
+      "notes": "Internal same-executor proof; no novelty/formal certification or target exclusion."
+    },
+    {
+      "id": "CLM-0385",
+      "statement": "For squarefree n, component rank-r RREF matrices give unique left-GL representatives of generating k-labelled images, counted by the product of Gaussian binomials. At n15,k6,r3 there are 86,683,877,280 unfiltered pairs per profile. At q=p^e the free row summand count is p^((e-1)r(k-r))*[k choose r]_p; n20,k7 has 15,496,778,518,695,936 unfiltered pairs per profile.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S114_IMAGE_FEASIBILITY.md section 4",
+      "source_ids": [],
+      "notes": "Internal same-executor proof; no novelty/formal certification or target exclusion."
+    },
+    {
+      "id": "CLM-0386",
+      "statement": "For squarefree n=pq, any zero in the mod-p image q*g_i with multiplicities floor(alpha_i/q) lifts to a global box zero, and likewise for mod q. Both pure-component necessary tests together are insufficient: in C6^3, (0,0,1),(0,0,5) with multiplicities (1,1) pass both and sum to zero. Minimum possible length for nonzero terms.",
+      "category": "REDUCTION",
+      "status": "PROGRAMME_PROVED",
+      "origin": "research/S114_IMAGE_FEASIBILITY.md section 5",
+      "source_ids": [],
+      "notes": "Internal same-executor proof; no novelty/formal certification or target exclusion."
+    },
+    {
+      "id": "CLM-0387",
+      "statement": "Wang v4 Theorem3.6 states D(F)-D*(F)>=m for F=C_m^(r-4)+C_3m^3+C_6m, r>=5,m>=2. Theorem6.4 states D(G)<=16 rank(G) exp(G)/5 for nontrivial finite abelian G.",
+      "category": "LITERATURE",
+      "status": "SOURCE_STATED",
+      "origin": "sessions/S114/LITERATURE.md",
+      "source_ids": [
+        "SRC-0035"
+      ],
+      "notes": "Direct primary statement/version inspection; not a programme proof; no target equality follows."
+    },
+    {
+      "id": "CLM-0388",
+      "statement": "Geroldinger-Wang-Yang v2 Theorem1.1 states nu(C2^3+C2n)=d=d* for odd n>=3, and nu=d-1 otherwise; Theorem1.2 gives further r=5,6 cases. These concern the missing-sums invariant, not SAT15/SAT20.",
+      "category": "LITERATURE",
+      "status": "SOURCE_STATED",
+      "origin": "sessions/S114/LITERATURE.md",
+      "source_ids": [
+        "SRC-0036"
+      ],
+      "notes": "Direct primary statement/version inspection; not a programme proof; no target equality follows."
+    },
+    {
+      "id": "CLM-0389",
+      "statement": "Liu v1 Theorem1.1 states D(H+C2^r)=D*(H+C2^r)+(D(H)-1)log2(r)+O_H(1) for fixed nontrivial odd p-group H, and Theorem1.2 gives exact intervals for C3+C2^r.",
+      "category": "LITERATURE",
+      "status": "SOURCE_STATED",
+      "origin": "sessions/S114/LITERATURE.md",
+      "source_ids": [
+        "SRC-0037"
+      ],
+      "notes": "Direct primary statement/version inspection; not a programme proof; no target equality follows."
+    },
+    {
+      "id": "CLM-0390",
+      "statement": "Han-Zhang v1 Theorem1.1 states D(G)<4.86 exp(G) log|G|/log exp(G) for nontrivial finite abelian G, and Theorem1.3 gives D(G)~D*(G) for almost all groups under its order-counting model.",
+      "category": "LITERATURE",
+      "status": "SOURCE_STATED",
+      "origin": "sessions/S114/LITERATURE.md",
+      "source_ids": [
+        "SRC-0032"
+      ],
+      "notes": "Direct primary statement/version inspection; not a programme proof; no target equality follows."
     }
   ]
 }

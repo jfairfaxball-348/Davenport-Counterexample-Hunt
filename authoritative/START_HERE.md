@@ -1,16 +1,9 @@
-> **1 November 2026 restart steering; not an executed session.** See [restart audit](../research/RESTART_AUDIT_2026_11_01.md) and [future S114 prompt](NEXT_SESSION_PROMPT.md). New direction: feasibility and independently verified actual-image enumeration for n=15 support six (five multiplicity-only profiles), then n=20 support seven (139 multiplicity-only profiles), with a parallel theorem/saturation track. S113 remains the last completed session and no new campaign is active.
+# S114 checkpoint — 1 November 2026
 
-# S113 checkpoint — 18 October 2026
+**Priority: PROOF_OR_COUNTEREXAMPLE_RESTART.** Start with [S114 findings](../research/S114_IMAGE_FEASIBILITY.md). The [S111–S113 consolidation](../research/S111_CONSOLIDATION_REVIEW.md) retains the earlier proven/open boundary.
 
-The priority is **SATURATION_FALLBACK**. **Entry point: [consolidation review](../research/S111_CONSOLIDATION_REVIEW.md).**
+S114 proves fixed-profile full-order generating refinement and canonical image-count reductions; three exact checkers agree on 450 settled test cases. The five n15 and 139 n20 arithmetic profiles are independently reproduced. No target sequence was searched and no target support exclusion or D-value established.
 
-**Targets (OPEN):** SAT20, i.e. D(C20³) = 58, and SAT15, i.e. D(C15³) = 43.
+**Campaign readiness: NO-GO for direct unfiltered enumeration.** Five n15 profiles require 433,419,386,400 raw canonical pairs. Strong measured local pruning, independent enumeration coverage and tested checkpoints are missing. S115 is [future local-kernel pruning/tooling work](NEXT_SESSION_PROMPT.md), not a target campaign.
 
-**Established:**
-- **n = 20:** any counterexample needs **at least 7 distinct values**, now by a hand proof using D₁ values only (CLM-0382; also CLM-0377(i)).
-- **n = 15:** at least 6 distinct values, by an unconditional hand proof (CLM-0376), as well as by computation (CLM-0366).
-- **n = 21:** at least 6 distinct values, by hand proof (CLM-0381).
-- At n = 20 (and every n = 2b with D(C_b³) known), ≥ 6 values of odd multiplicity outside 2G; with exactly six, their mod-2 images are F₂³∖{0,P} (CLM-0372).
-- **S113, sharpness:** the block-route method forces exactly k*(n) = 5 + [n even] + [n ∈ {15, 20, 21}] distinct values on odd n = p^a q^b and on n = 4p (CLM-0379..0383). Going further needs D₂(C_a³) ≤ 4a−2 at the leftover level, or arguments that use the actual images.
-
-**S114** continues proof-only work (see the prompt). Any new computation on target groups needs a new owner decision. [S113 note](../research/S113_CLOSED_FORM_ROUTE_THEOREMS.md) · [S114 FUTURE](NEXT_SESSION_PROMPT.md).
+Claims 390, sources 37. Hosted CI ABSENT_NOT_PASS. All earlier claim statuses and thirty frontier rows preserved. Targets D(C15^3)=43 and D(C20^3)=58 remain unresolved by the programme. See [source/version audit](../sessions/S114/LITERATURE.md), [review](../sessions/S114/REVIEW.md) and [closeout](../sessions/S114/CLOSEOUT.md).

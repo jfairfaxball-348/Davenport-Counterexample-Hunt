@@ -556,3 +556,7 @@ Proof-only generalisation (SATURATION_FALLBACK session 8, owner steering of 18 O
 - Claims 378→383. No target-group computation; lemma tests on integers only. Frontier unchanged.
 
 [Note](../research/S113_CLOSED_FORM_ROUTE_THEOREMS.md) · [review](../sessions/S113/REVIEW.md) · [closeout](../sessions/S113/CLOSEOUT.md).
+
+## S114 — 1 November 2026
+
+Entry main e2689ba76c775b7559a3073f979d62f1b8a148f2. Prior-art version/statement refresh; fixed-profile generating reduction and exact image-space count proofs (CLM-0384..0386), four SOURCE_STATED records (CLM-0387..0390); five/139 profiles independently regenerated. 450 settled valid image cases agree in three checkers. NO-GO for raw product enumeration; no target search or campaign. Claims390, sources37, frontier rows unchanged. [Precommit closeout](../sessions/S114/CLOSEOUT.md); S115 future tooling/reduction only.

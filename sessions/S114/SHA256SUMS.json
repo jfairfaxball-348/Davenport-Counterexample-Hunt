@@ -1,0 +1,41 @@
+{
+  "algorithm": "SHA-256 LF-normalized text; ENTRY_PROMPT/INPUT/PLAN use raw archived bytes (Git -text)",
+  "files": {
+    ".gitattributes": "8f23e5b42cb0660d04350a6d4233e05f4cfc63d091eac46f09ed69e6a78e1b3b",
+    "README.md": "494c43bb3d53ad817031a5c518f9fe3a86b85eefa056a4497ad73065b10ae485",
+    "authoritative/DECISION_LOG.md": "b29eb4d568f8f6f15ca2138f8784fd01d13466273aec2fd1acb5daefac1ac7cd",
+    "authoritative/NEXT_SESSION_PROMPT.md": "f747efc70a24747fb5e13357f677124a4dccb4f4b53e05ca08a12a9258cacf9d",
+    "authoritative/START_HERE.md": "0eb3eb1e3b672fed4b0a8fdc88d35390497fb0d817dbaa6a7f763a84d654f36b",
+    "authoritative/STATE.json": "c5f22cb458d2b43acc3616b2e65a716b30624244ac5a4d59d1d9223ef1784721",
+    "campaigns/REGISTRY.md": "7fe886561f88a99252705b8d9d7cf9aac8ea7581574778c44018227427788510",
+    "catalogue/CLAIMS.md": "2230a7167798bec6748935be2879211985550b4e3430106fd477704ab6531b0b",
+    "catalogue/SOURCES.md": "01dd680a446cf87edb2377a210d2f4fa411b5184009cd76f4a5dc210beec27f3",
+    "catalogue/claims.json": "2a447a08304b5b4ed667b6fc54110896dadc57b53174e62bfbd39fd1a80fb838",
+    "catalogue/sources.json": "7734db885bf58de9342affaf107765b703946f6d8660c04c08fbc68b9855fbf6",
+    "docs/FAILURE_AND_LESSON_LEDGER.md": "08b795118f22c9912fa94f4cf6b23cc8908921fa7f6e83301e14c2e8ac20c261",
+    "docs/PHASE_GATE_LEDGER.md": "19008c1d3d333e9e7b46915a548ab614cb1c1507ca948bd0d527a61c9c22b37b",
+    "docs/SESSION_LEDGER.md": "ddc415df50dfd23cb25cb943ab8f9cd3d57c479ce34c1335082306d53718ad31",
+    "frontier/FRONTIER.md": "a47bb36635fe362505b7c6ae923085fc70cb6f610129967578de1b5a1900ad7c",
+    "frontier/frontier.json": "02c8a5eeba147069b0a9cdbcd2077b99b4820b0c880ba0978443f084fe9d3d91",
+    "research/S111_CONSOLIDATION_REVIEW.md": "637fa56e0df45846294279e2c3ed687ba7637e3c971ac66903403da76b1ad773",
+    "research/S114_IMAGE_FEASIBILITY.md": "14341efd3a7f295684f0372d3a08ade169f5e0025fdc1a0777bbb421d4793b36",
+    "sessions/S114/CLOSEOUT.md": "7b4de6ac6875b571c895675b2eca0d6a0f150a0c8adf555aaa40baf598b358f2",
+    "sessions/S114/ENTRY_PROMPT.md": "0cea08f24e24cf325807fd756ef70910ea389929da758bc4e03548c53aef111c",
+    "sessions/S114/INPUT.md": "11c8f8ff5a48903605314ee9083c59fc78d94a3892cdd7f4dd8c2530bd546ba8",
+    "sessions/S114/INPUT_MANIFEST.json": "f96b23d37418e26102155df82dacaabf217d46fc54e14c1f8d5ec2f6a79ff43a",
+    "sessions/S114/LITERATURE.md": "7d7a5f88d075c06cfaccda27d8dd6f54586465d3fcf8325685a33956a78218d2",
+    "sessions/S114/PLAN.md": "5d3acca6034d7e81a1208d91c50f82d8caa729a6756fc5c9a0ab9f2085b63225",
+    "sessions/S114/RESULTS.json": "1210e0dd2acc158461868379cdf465aa7207dbeb72536e9e4e40b7f70dc606f5",
+    "sessions/S114/REVIEW.md": "64f911b036e4ab2c01dcffb589e6ad4ae4bd4466809bd10d1110c9046d157b8c",
+    "sessions/S114/SOURCE_INSPECTIONS.json": "397d44970ca54788e4a49e549754c81ce9f228b78256b50f18c2a9f497b0ad22",
+    "sessions/S114/SOURCE_RECORDS_AT_ENTRY.json": "375164c3defe2371b84386220111c0e6ed43d25ff4b7409c4f6ec12f8c4f43f3",
+    "sessions/S114/validate.py": "70ad5f00eecabd3a9c8547354efab4a1a79e685d3556b580bda773ed8ee30f33",
+    "sessions/S114/validate_repo.py": "0dbdfdc444b1adf907336babe10c1fd4ae072d7d8a2e1a6c67ed057e7baa7448",
+    "tools/README.md": "06d866ba55415f632c9a318bb6006ab2dc733b1c9f5dabc3c4b72663e88dcdbb",
+    "tools/zsf/image_profile.py": "be0841bcc59bfbc2c9f35a292b60e73c7f226bebd416546486f3df9dc47b9ac8"
+  },
+  "excludes": [
+    "sessions/S114/SHA256SUMS.json",
+    "sessions/S114/VALIDATION.json"
+  ]
+}

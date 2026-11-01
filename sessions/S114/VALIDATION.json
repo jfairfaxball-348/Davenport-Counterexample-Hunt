@@ -1,0 +1,30 @@
+{
+  "status": "PASS",
+  "entry_main": "e2689ba76c775b7559a3073f979d62f1b8a148f2",
+  "historical_claims_unchanged": 383,
+  "frontier_rows_unchanged": 30,
+  "claims": 390,
+  "sources": 37,
+  "claim_statuses": {
+    "INHERITED_UNVERIFIED": 37,
+    "PROGRAMME_PROVED": 316,
+    "SOURCE_STATED": 30,
+    "COMPUTED_EXACT": 7
+  },
+  "source_access": {
+    "ABSTRACT_INSPECTED": 3,
+    "PROOF_INSPECTED": 14,
+    "STATEMENT_INSPECTED": 13,
+    "METADATA_ONLY": 5,
+    "SECONDARY_ONLY": 2
+  },
+  "old_campaign_artifacts_unchanged": true,
+  "search_counters_unchanged": true,
+  "source_histories_verified": true,
+  "new_local_links_checked": 15,
+  "manifest_files_verified": 32,
+  "input_and_research_code_hashes_verified": true,
+  "git_diff_check": "PASS",
+  "ci": "ABSENT_NOT_PASS",
+  "review": "INTERNAL_SAME_EXECUTOR"
+}

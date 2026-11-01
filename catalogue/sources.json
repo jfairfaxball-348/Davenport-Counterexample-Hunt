@@ -265,9 +265,16 @@
       "title": "Sze Chun Yiu, The fourth generalized Davenport constant of C_5^3",
       "year": "2026",
       "url": "https://arxiv.org/abs/2609.04950",
-      "access": "ABSTRACT_INSPECTED",
-      "accessed": "2026-10-14",
-      "notes": "ArXiv abstract dated 2026-09-04 states D_k(C5³)=5k+10 for every k>=2, including D2=20 and machine-assisted D3=25, D4=30. Abstract-only observation, no independent proof/computation/cold rerun. Used solely as SOURCE_STATED conditional premise for CLM-0236; does not promote historical SRC-0015 or old sources."
+      "access": "STATEMENT_INSPECTED",
+      "accessed": "2026-11-01",
+      "notes": "ArXiv abstract dated 2026-09-04 states D_k(C5³)=5k+10 for every k>=2, including D2=20 and machine-assisted D3=25, D4=30. Abstract-only observation, no independent proof/computation/cold rerun. Used solely as SOURCE_STATED conditional premise for CLM-0236; does not promote historical SRC-0015 or old sources. S114: direct theorem statement inspected; see sessions/S114/SOURCE_INSPECTIONS.json. No proof/certificate promotion.",
+      "access_history": [
+        {
+          "access": "ABSTRACT_INSPECTED",
+          "accessed": "2026-10-14",
+          "notes": "ArXiv abstract dated 2026-09-04 states D_k(C5³)=5k+10 for every k>=2, including D2=20 and machine-assisted D3=25, D4=30. Abstract-only observation, no independent proof/computation/cold rerun. Used solely as SOURCE_STATED conditional premise for CLM-0236; does not promote historical SRC-0015 or old sources."
+        }
+      ]
     },
     {
       "id": "SRC-0030",
@@ -283,18 +290,32 @@
       "title": "M. Grinsztajn, An upper bound for the Davenport constant of C_n^3 (proof PDF, GitHub repository maaxgrin/davenport-cn3-bound)",
       "year": "2026",
       "url": "https://github.com/maaxgrin/davenport-cn3-bound/blob/main/davenport_cn3_bound.pdf",
-      "access": "METADATA_ONLY",
-      "accessed": "2026-10-16",
-      "notes": "Known only via SRC-0030 citation; PDF not inspected in S103. Claimed bound D(C_n^3)<=4n-P(n)-2 does not improve n15/n20 frontier rows. Not used as a premise."
+      "access": "STATEMENT_INSPECTED",
+      "accessed": "2026-11-01",
+      "notes": "Known only via SRC-0030 citation; PDF not inspected in S103. Claimed bound D(C_n^3)<=4n-P(n)-2 does not improve n15/n20 frontier rows. Not used as a premise. S114: direct theorem statement inspected; see sessions/S114/SOURCE_INSPECTIONS.json. No proof/certificate promotion.",
+      "access_history": [
+        {
+          "access": "METADATA_ONLY",
+          "accessed": "2026-10-16",
+          "notes": "Known only via SRC-0030 citation; PDF not inspected in S103. Claimed bound D(C_n^3)<=4n-P(n)-2 does not improve n15/n20 frontier rows. Not used as a premise."
+        }
+      ]
     },
     {
       "id": "SRC-0032",
       "title": "D. Han, H. Zhang, Davenport Constants of Finite Abelian Groups, arXiv:2610.15102",
       "year": "2026",
       "url": "https://arxiv.org/abs/2610.15102",
-      "access": "ABSTRACT_INSPECTED",
-      "accessed": "2026-10-16",
-      "notes": "Abstract (submitted 2026-10-10) states D(G) < 4.86 exp(G) log|G|/log exp(G) for all finite abelian G and D(G)~D*(G) for almost all G. No exact C15^3 / C20^3 value in abstract. Context only; not used as a premise."
+      "access": "STATEMENT_INSPECTED",
+      "accessed": "2026-11-01",
+      "notes": "Abstract (submitted 2026-10-10) states D(G) < 4.86 exp(G) log|G|/log exp(G) for all finite abelian G and D(G)~D*(G) for almost all G. No exact C15^3 / C20^3 value in abstract. Context only; not used as a premise. S114: direct theorem statement inspected; see sessions/S114/SOURCE_INSPECTIONS.json. No proof/certificate promotion.",
+      "access_history": [
+        {
+          "access": "ABSTRACT_INSPECTED",
+          "accessed": "2026-10-16",
+          "notes": "Abstract (submitted 2026-10-10) states D(G) < 4.86 exp(G) log|G|/log exp(G) for all finite abelian G and D(G)~D*(G) for almost all G. No exact C15^3 / C20^3 value in abstract. Context only; not used as a premise."
+        }
+      ]
     },
     {
       "id": "SRC-0033",
@@ -313,6 +334,33 @@
       "access": "STATEMENT_INSPECTED",
       "accessed": "2026-10-17",
       "notes": "Inspected text states d*(G) <= d(G), D*(G) <= D(G) = d(G)+1, 'Equality holds for p-groups and for groups with rank r <= 2.' Secondary support for CLM-0352; no rank-three statement used."
+    },
+    {
+      "id": "SRC-0035",
+      "title": "Guoqing Wang, Disproof of a Conjectured Upper Bound for the Davenport Constant",
+      "year": "2026",
+      "url": "https://arxiv.org/html/2609.29878v4",
+      "access": "STATEMENT_INSPECTED",
+      "accessed": "2026-11-01",
+      "notes": "2609.29878v4, 2026-10-15; also inspected superseded v1 dated 2026-09-24. For r>=5,m>=2, F=C_m^(r-4)+C_3m^3+C_6m has D-D*>=m. General upper bound D(G)<=16 rank(G) exp(G)/5. v1 only gave rank>=8. Neither construction is homocyclic rank three. Statement only; no independent proof certification."
+    },
+    {
+      "id": "SRC-0036",
+      "title": "Alfred Geroldinger, Guoqing Wang, Wenkai Yang, On a classical zero-sum invariant II",
+      "year": "2026",
+      "url": "https://arxiv.org/html/2609.17127v2",
+      "access": "STATEMENT_INSPECTED",
+      "accessed": "2026-11-01",
+      "notes": "2609.17127v2, 2026-10-27; also inspected superseded v1 dated 2026-09-15. For C2^3+C2n, nu=d=d* at odd n>=3 and nu=d-1 otherwise. Further values for C2^r+C2n, r=5,6. Refutes a missing-sums invariant conjecture, not homocyclic rank-three equality. Statement only; no independent proof certification."
+    },
+    {
+      "id": "SRC-0037",
+      "title": "Chao Liu, Davenport constants with growing binary rank",
+      "year": "2026",
+      "url": "https://arxiv.org/html/2610.38447v1",
+      "access": "STATEMENT_INSPECTED",
+      "accessed": "2026-11-01",
+      "notes": "2610.38447v1, 2026-10-28; only version in submission history. For fixed nontrivial odd p-group H, D(H+C2^r)=D*(H+C2^r)+(D(H)-1)log2(r)+O_H(1); exact intervals for C3+C2^r. Growing rank, not an exact n15/n20 theorem. Statement only; no independent proof certification."
     }
   ],
   "s033_audit": {
@@ -709,5 +757,21 @@
     "access_promotions": 0,
     "search": "2026-10-17 literature search for exact D of C4+C20+C20, C5+C20+C20, C10+C20+C20, C3+C15+C15, C5+C15+C15 and C_m+C_n+C_n (m>2): none found; absence is not an openness claim",
     "review": "INTERNAL"
+  },
+  "s114_audit": {
+    "date": "2026-11-01",
+    "manifest": "sessions/S114/SOURCE_INSPECTIONS.json",
+    "new_records": [
+      "SRC-0035",
+      "SRC-0036",
+      "SRC-0037"
+    ],
+    "access_promotions": [
+      "SRC-0029",
+      "SRC-0031",
+      "SRC-0032"
+    ],
+    "entry_records": "sessions/S114/SOURCE_RECORDS_AT_ENTRY.json",
+    "sources_total": 37
   }
 }
