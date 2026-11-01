@@ -1,0 +1,27 @@
+{
+  "status": "PASS",
+  "claims_total": 396,
+  "claim_statuses": {
+    "INHERITED_UNVERIFIED": 37,
+    "PROGRAMME_PROVED": 320,
+    "SOURCE_STATED": 30,
+    "COMPUTED_EXACT": 9
+  },
+  "old_claims_preserved": 394,
+  "sources_preserved": 37,
+  "frontier_rows_preserved": 30,
+  "historical_search_counters_preserved": true,
+  "frozen_code_and_input_hashes": true,
+  "old_integration_versions_preserved": true,
+  "campaign_pins_checked_without_joining": true,
+  "campaign": "CAM-0008 PREREGISTERED ONLY",
+  "settled_cases": 2400,
+  "legacy_cases": 1560,
+  "full_runtime_audit_cases": 600,
+  "target_pairs_evaluated": 0,
+  "links_checked": 11,
+  "manifest_files": 46,
+  "diff_check": "PASS",
+  "ci": "ABSENT_NOT_PASS",
+  "review": "INTERNAL_SAME_EXECUTOR"
+}

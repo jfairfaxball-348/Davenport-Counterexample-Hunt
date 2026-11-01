@@ -1,0 +1,28 @@
+{
+  "full_audit": {
+    "status": "COMPLETE_TWO_ENGINE_AGREEMENT",
+    "pairs": 600,
+    "counts": {
+      "ZERO": 390,
+      "INVALID": 210
+    },
+    "every_zero_witness_checked": true,
+    "spec_sha256": "a12c71e8b027e0e9adde136832f8494e78b55682094f38805e5b9cc55bb02e79"
+  },
+  "spec_corruption_rejected": [
+    "environment",
+    "code",
+    "input",
+    "shard overlap",
+    "total"
+  ],
+  "audit_rejects": [
+    "semantic disagreement with valid hashes",
+    "agreed zero witness corruption with valid hashes",
+    "partial coverage"
+  ],
+  "candidate_export": "two settled basis positives, canonical hash verified; not target candidates",
+  "status": "PASS",
+  "seconds": 1.0310000000172295,
+  "target_pairs_evaluated": 0
+}

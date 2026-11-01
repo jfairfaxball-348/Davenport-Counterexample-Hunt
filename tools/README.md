@@ -57,3 +57,7 @@ Environment: Python 3.12.10, numpy 1.26.4, Windows 11, i7-11800H (16 logical CPU
 ## S115 — independently checked local components
 
 `local_images_a.py`: image RREF plus bounded free-variable solving. `local_kernels_b.py`: kernel RREF plus full-vector box intersection and independent image normalization. Neither shares mathematical helper code. S115 runners preserve chunk/coverage hashes; `LOCAL_EVIDENCE.zip` contains lossless outputs. Scoped gate covers local enumeration/filtering/orbits and local restart tests, NOT complete target pair searching. See S115 research note and manifests for replay.
+
+## S116 full pair tooling
+
+`zsf/pair_a.py`: actual CRT image, complete bounded MITM. `zsf/pair_b.py`: independent relation kernels and CRT box intersection. `zsf/pair_jobs.py`: hash-bound chunk recovery. `zsf/pair_campaign.py`: pinned runtime, candidate quarantine and independent final record/witness audit. Settled validation in sessions/S116. Target use only under committed CAM-0008 registration and later activation; see its README. No Lean or SAT certification.

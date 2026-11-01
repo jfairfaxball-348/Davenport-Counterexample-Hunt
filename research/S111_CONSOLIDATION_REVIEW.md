@@ -118,3 +118,7 @@ The prior no-enumeration steering above is historical, superseded by the Novembe
 ## S115 update — 1 November 2026
 
 [Local pruning and symmetry](S115_LOCAL_KERNEL_PRUNING.md) reduce the five n15 profile covering system to718,716,282 pairs; the smallest profile has5,815,950. Two local enumerators and two orbit traversals agree. CLM-0391..0394 add local correctness/symmetry, exact counts, coupled pair-filter equivalence/limitation, and n20 parity/lift counting. No target pair checked; no support/D-value change.
+
+## S116 continuation
+
+CLM-0395/0396 establish complete pair predicates and settled implementation evidence. CAM-0008 is registered for future single-profile exhaustive work, not executed here. Universal saturation and both target Davenport equalities remain unproved. See [tooling report](S116_PAIR_ENGINE_TOOLING.md).

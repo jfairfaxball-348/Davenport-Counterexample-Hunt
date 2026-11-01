@@ -3976,6 +3976,24 @@
       "origin": "research/S115_LOCAL_KERNEL_PRUNING.md section 5",
       "source_ids": [],
       "notes": "Internal same-executor proof. No novelty or formal certification; n20 application conditional on CLM-0372 and its source premises."
+    },
+    {
+      "id": "CLM-0395",
+      "status": "PROGRAMME_PROVED",
+      "category": "REDUCTION",
+      "statement": "For distinct primes p,q and coefficient bounds below pq, actual-image meet-in-the-middle (excluding only empty-empty) and exhaustive CRT intersection of both full relation kernels each decide the complete bounded zero predicate. Actual distinctness/full-order filters are exact. For the pinned n15 profile, 145 disjoint row shards and either divmod or nested traversal cover all 5815950 representative pairs.",
+      "origin": "research/S116_PAIR_ENGINE_TOOLING.md, Complete predicates and coverage",
+      "source_ids": [],
+      "notes": "Internal same-executor proof. Shared prior covering reductions and source-dependent profile premises retained. Not Lean/formal certification or target exclusion."
+    },
+    {
+      "id": "CLM-0396",
+      "status": "COMPUTED_EXACT",
+      "category": "COMPUTATION",
+      "statement": "Complete settled C6^3 rank3 k4 products (600 pairs per box) at profiles (1,1,1,1),(2,2,2,2),(4,4,4,4),(1,2,3,4) have 210 invalid cases each and ZERO/ZSF counts (11,379),(143,247),(390,0),(151,239). Two independent full predicates and direct coefficient enumeration agree; legacy indexed checkers agree on all 1560 valid cases. Recovery and end-to-end two-engine audit tests pass.",
+      "origin": "sessions/S116/PREFLIGHT.json; sessions/S116/INTEGRATION.json",
+      "source_ids": [],
+      "notes": "Settled tooling evidence only. No target CRT pair evaluated; no target exclusion or formal certification."
     }
   ]
 }

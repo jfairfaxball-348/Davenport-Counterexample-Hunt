@@ -613,3 +613,10 @@ Algorithm A at n=20 ran at ≈ 0.1 s per pair under 14-way contention, against a
 3. Local filter timings and restart tests do not certify target pair throughput or restart behavior. No target campaign registered.
 4. L2 plan addendum initially changed a document pinned in the L1 manifest. Restored original PLAN.md byte-for-byte and moved expanded text to ORBIT_PLAN.md; reran L2 under final manifest. Initial T1 diagnostic preceded code-hash freeze; froze THEORY_RUN_MANIFEST and reran identical code. No retrospective preregistration claim; mathematical results unchanged.
 5. The S114 process allowed later shell commands to continue after read-only hash/whitespace checks failed; those checks were resolved before merge. S115 uses explicit exit-code checks around commit/push steps. Archived CRLF text from S114 is preserved, not silently normalized.
+
+## S116 — predicate completeness, recovery and export scope
+
+1. Pair-only tests miss triple zeros; no such pruning is used to assert zero-sumfreeness. Full kernels and half-zero-safe MITM agree on settled complete spaces.
+2. Rehashed corrupt witnesses can pass file integrity checks: final audit checks the mathematics as well as A/B outcomes and coverage.
+3. Initial integration routed preliminary candidates into shard output. Hostile review corrected production routing to candidates/CAM-0008; original V1 artifacts retained, final V2 frozen and integration rerun. No target candidate existed.
+4. Synthetic full-work costs do not establish target throughput. Registered initial matched shards gate further spending; budget exhaustion is PARTIAL, never UNSAT. No shared-shard concurrent writers or power-loss durability claim.

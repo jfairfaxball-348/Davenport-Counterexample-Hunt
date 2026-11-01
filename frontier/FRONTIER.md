@@ -364,3 +364,7 @@ All 30 numerical/status/evidence rows remain unchanged. The [current primary-sta
 ## S115 — local reduction only
 
 All thirty numerical/status/evidence rows unchanged. CLM-0392 counts a necessary local covering system, not zero-sumfree target sequences. No CRT target pair checked, support-six exclusion or improved Davenport bound. [Scope](../research/S115_LOCAL_KERNEL_PRUNING.md).
+
+## S116 audit
+
+All thirty historical frontier rows unchanged. No target pair evaluated or Davenport bound changed. CAM-0008 is preregistered for the single n15 profile (3,8,8,8,8,8), activation in a later session only.
