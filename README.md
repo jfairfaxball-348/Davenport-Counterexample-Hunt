@@ -1,3 +1,5 @@
+> **1 November 2026 restart steering (not an executed research session):** The owner reopened investigation of proof-or-counterexample-directed computation. S114 is now a future **prior-art, exact image-level search tooling and feasibility** session; no campaign has started. See [restart audit](research/RESTART_AUDIT_2026_11_01.md), [updated S114 instructions](authoritative/NEXT_SESSION_PROMPT.md), and historical [S111–S113 consolidation](research/S111_CONSOLIDATION_REVIEW.md). All S113 mathematical claims and previous campaign logs are unchanged.
+
 # S113 checkpoint — 18 October 2026
 
 **Priority: SATURATION_FALLBACK.** The open targets are D(C20³) = 58 and D(C15³) = 43.
