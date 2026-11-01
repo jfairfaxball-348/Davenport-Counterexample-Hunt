@@ -110,3 +110,7 @@ These hold for every n in a family, given a smaller or different group's Davenpo
 4. **Lean certification:** deferred by owner steering.
 
 Detailed proofs: [S113 note](S113_CLOSED_FORM_ROUTE_THEOREMS.md), [S112 note](S112_MULTI_ROUTE_SIEVE.md), [S111 note](S111_R_PLUS_TWO_AND_EVEN_CAPS.md). Earlier notes: S106–S110 in this directory.
+
+## S114 update — 1 November 2026
+
+The prior no-enumeration steering above is historical, superseded by the November restart. See [S114](S114_IMAGE_FEASIBILITY.md): CLM-0384 fixed-profile full-order generating refinement (all n,k>=r); CLM-0385 exact canonical image counts; CLM-0386 pure-component necessity and explicit insufficiency. Direct product campaign NO-GO, not a support exclusion. SAT15/SAT20 remain unresolved by this programme; all earlier claim statuses preserved.

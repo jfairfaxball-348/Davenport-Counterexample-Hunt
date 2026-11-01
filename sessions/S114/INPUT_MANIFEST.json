@@ -1,0 +1,9 @@
+{
+  "entry_main": "e2689ba76c775b7559a3073f979d62f1b8a148f2",
+  "capture": "Exact operative invocation represented in INPUT.md; not whole-chat verbatim",
+  "files": {
+    "ENTRY_PROMPT.md": "0cea08f24e24cf325807fd756ef70910ea389929da758bc4e03548c53aef111c",
+    "INPUT.md": "11c8f8ff5a48903605314ee9083c59fc78d94a3892cdd7f4dd8c2530bd546ba8",
+    "PLAN.md": "5d3acca6034d7e81a1208d91c50f82d8caa729a6756fc5c9a0ab9f2085b63225"
+  }
+}

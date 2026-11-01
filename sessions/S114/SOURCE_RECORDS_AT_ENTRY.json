@@ -1,0 +1,310 @@
+{
+  "sources": [
+    {
+      "id": "SRC-0001",
+      "title": "Olson, A combinatorial problem on finite Abelian groups I",
+      "year": "1969",
+      "url": "https://doi.org/10.1016/0022-314X(69)90021-3",
+      "access": "ABSTRACT_INSPECTED",
+      "accessed": "2026-10-10",
+      "notes": "Olson original JNT abstract inspected in S001; exact p-group equality now independently source-stated in the primary Gao-Geroldinger 2006 survey Theorem 3.1 (SRC-0003), not an Olson full-proof inspection."
+    },
+    {
+      "id": "SRC-0002",
+      "title": "van Emde Boas–Kruyswijk, A combinatorial problem on finite abelian groups III (ZW008)",
+      "year": "1969",
+      "url": "https://ir.cwi.nl/pub/7217/7217D.pdf",
+      "access": "PROOF_INSPECTED",
+      "accessed": "2026-10-11",
+      "notes": "Original CWI 1969 report, replacing unverified pub/12899 pointer. Lemma1.3, Theorem1.4 and Corollary1.5 family VIII read: exact D for rank-three 3 times powers of 2. Printed pp.4–5,12–14 / PDF pp.6–7,14–16; earlier computational lemma and structural sketches not independently certified. S012 originalIII Cor1.5VIII rank-three3*2^a statement rechecked for n6,12,24, historical long proof not rebuilt. S013 original III exact3·2^a source family retained; no whole historical proof certification."
+    },
+    {
+      "id": "SRC-0003",
+      "title": "Gao–Geroldinger, Zero-sum problems in finite abelian groups: a survey",
+      "year": "2006",
+      "url": "https://cfc.nankai.edu.cn/_upload/article/files/c6/e1/a2c52bf04b1896f59003b5993582/5c9e49ea-af5b-44ac-b153-5dbb6d8ae9a3.pdf",
+      "access": "STATEMENT_INSPECTED",
+      "accessed": "2026-10-10",
+      "notes": "Original Gao-Geroldinger survey PDF pp.5-6 directly inspected: Thm 3.1 d=d* for p-groups/rank<=2, Conj 3.5 rank 3, definitions d=D-1; screenshots viewed. Proof of Olson theorem not rechecked."
+    },
+    {
+      "id": "SRC-0004",
+      "title": "Gao, On Davenport's constant of finite abelian groups with rank three",
+      "year": "2000",
+      "url": "https://doi.org/10.1016/S0012-365X(00)00010-8",
+      "access": "METADATA_ONLY",
+      "accessed": "2026-10-10",
+      "notes": "Bibliography confirmed on AIMS publisher's reference list."
+    },
+    {
+      "id": "SRC-0005",
+      "title": "Girard–Schmid, Direct zero-sum problems for certain groups of rank three",
+      "year": "2018/2019",
+      "url": "https://arxiv.org/html/1806.07636v2",
+      "access": "STATEMENT_INSPECTED",
+      "accessed": "2026-10-10",
+      "notes": "Girard-Schmid original v2 HTML abstract, introduction and Theorem 2.7 inspected: direct multiwise/eta results apply to C2 ⊕ C_n2 ⊕ C_n3 with 2|n2|n3; first invariant 2, not C6^3."
+    },
+    {
+      "id": "SRC-0006",
+      "title": "Zakarczemny, Note on the Davenport's constant for finite abelian groups with rank three",
+      "year": "2019",
+      "url": "https://arxiv.org/html/1910.10984v1",
+      "access": "STATEMENT_INSPECTED",
+      "accessed": "2026-10-10",
+      "notes": "Primary HTML theorem/lemma/abstract inspected; note apparent typo in its Lemma 3.4 rank-two formula, do not import."
+    },
+    {
+      "id": "SRC-0007",
+      "title": "Wang, A generalization of Kruyswijk-Olson theorem on Davenport constant in commutative semigroups",
+      "year": "2020",
+      "url": "https://www.aimspress.com/article/doi/10.3934/math.2020193?viewType=HTML",
+      "access": "ABSTRACT_INSPECTED",
+      "accessed": "2026-10-10",
+      "notes": "Publisher references [11] are Gao–Geroldinger 2006; see REF-11 identification."
+    },
+    {
+      "id": "SRC-0008",
+      "title": "Bhowmik–Schlage-Puchta, Davenport's constant for groups of the form Z3 ⊕ Z3 ⊕ Z3d",
+      "year": "2007",
+      "url": "https://www.mathematik.uni-rostock.de/storages/uni-rostock/Alle_MNF/Mathematik/Struktur/Lehrstuehle/Algebra/papers/Davenport333d.pdf",
+      "access": "PROOF_INSPECTED",
+      "accessed": "2026-10-11",
+      "notes": "S004 read Prop.1 p.3 and Prop.8 pp.10–11 and associated definitions. D3=15,D4=18 are multiwise; superscript D³=17 is at most three. Earlier diagrammatic cases incompletely checked. Sheikh Remark4.3.11 addresses a later exactly-three claim, not the earlier at-most-three hypothesis; see S004 audit. S012 original Prop1/8 and diagram proof audit retained. Multiplicity2+3kappa allows only kappa monochromatic triples, total k-3; restricted arithmetic reconciliation not complete classification/upper induction. S013 original Prop1/8 and diagram pages inspected; full classification/upper induction not independently proved; k−3 restricted arithmetic only."
+    },
+    {
+      "id": "SRC-0009",
+      "title": "Bhowmik–Schlage-Puchta, Davenport’s constant for groups with large exponent (annotated author draft)",
+      "year": "2012",
+      "url": "https://www.mathematik.uni-rostock.de/storages/uni-rostock/Alle_MNF/Mathematik/Struktur/Lehrstuehle/Algebra/papers/large_exponent.pdf",
+      "access": "PROOF_INSPECTED",
+      "accessed": "2026-10-11",
+      "notes": "Nine-page annotated draft contains Forgot the second claim note and p>7 wording. S004 matched to definitive published offprint SRC-0021: publication renumbers lemma, removes note and includes p≥7. Do not use this draft as the definitive version."
+    },
+    {
+      "id": "SRC-0010",
+      "title": "Freeze–Schmid, Remarks on a generalization of the Davenport constant",
+      "year": "2010",
+      "url": "https://www.math.univ-paris13.fr/~schmid/personal/schmid_28t.pdf",
+      "access": "PROOF_INSPECTED",
+      "accessed": "2026-10-11",
+      "notes": "Original author PDF selected proofs: Prop.3.1/3.2 and Remark3.3 pp.6–8; Lemma3.4 p.8; Prop.3.5/Thm3.6 p.9; Remark5.3 pp.11–12. Exact k=1 induction and binary multiwise independently proved in S002. General Thm3.6 proof cites prior work. Correct DOI 10.1016/j.disc.2010.07.028. No claim of full-paper reconstruction."
+    },
+    {
+      "id": "SRC-0011",
+      "title": "Delorme–Ordaz–Quiroz, Some remarks on Davenport constant",
+      "year": "2001",
+      "url": "https://scholar.google.com/scholar?q=Delorme+Ordaz+Quiroz+2001+Davenport",
+      "access": "METADATA_ONLY",
+      "accessed": "2026-10-10",
+      "notes": "Title, venue and theorem not inspected; provisional discovery link."
+    },
+    {
+      "id": "SRC-0012",
+      "title": "HAL hal-01592317 (rank-three assertion pointer)",
+      "year": "unknown",
+      "url": "https://hal.science/hal-01592317",
+      "access": "METADATA_ONLY",
+      "accessed": "2026-10-10",
+      "notes": "User-supplied pointer; theorem text not inspected."
+    },
+    {
+      "id": "SRC-0013",
+      "title": "Aleen Sheikh, The Davenport Constant of Finite Abelian Groups (doctoral thesis)",
+      "year": "2017",
+      "url": "https://pure.royalholloway.ac.uk/en/publications/the-davenport-constant-of-finite-abelian-groups/",
+      "access": "STATEMENT_INSPECTED",
+      "accessed": "2026-10-12",
+      "notes": "Original university-indexed Chapter4 opening and Remark4.3.11 p.41 inspected; full thesis PDF/file variants HTTP403, full Chapter4 NOT read. Remark concerns exactly-three-free length16 assertion on BSP p.19; its example has a zero-sum pair and does not refute the distinct at-most-three-free Proposition8 step. SRC-0013 and SRC-0020 identify the same thesis. S005 full Chapter4 access still HTTP403; 2016 seminar slide PDF is not the doctoral thesis. S011 fresh official full thesis HTTP403, full Chapter4 unread, separate from S010403 and S009 internal error. S012 fresh official full137-page PDF HTTP403, distinct from S011403/S010403/S009 internal fetch error. Chapter4/Remark4.3.11 unread; exactly-three-free does not imply at-most-three-free. S013 fresh official full thesis HTTP403 (6274-byte HTML); Chapter4 unread, separately from S012/S011/S010403 and S009 internal error. S015 official 137p original PDF HTTP403, Chapter4 inaccessible; distinct new attempt. S017 official137p original thesis PDF web retrieval HTTP403 Forbidden, separately from S016/S015/S014/S013; full Chapter4/Remark4.3.11 not acquired. S018 fresh Royal Holloway original PDF link from official thesis page (https://pure.royalholloway.ac.uk/files/28262990/The_Davenport_Constant_of_Finite_Abelian_Groups.pdf) web click HTTP403 Forbidden; Chapter4/Remark4.3.11 unread; this is an independent S018 attempt, not S017/S016/S015/S014/S013 status. S019 new official 137p full-thesis PDF request HTTP403 Forbidden, full Chapter4 not newly inspected. S020 official original Sheikh full thesis HTTP403; Chapter4/Remark4.3.11 unavailable. S022 fresh official full thesis PDF HTTP403, full Chapter4 unavailable. S023 fresh official Sheikh full thesis PDF HTTP403; Chapter4 and Remark4.3.11 not authenticated. Do not conflate exactly-three and at-most-three conditions. S024 official PDF click and direct link inaccessible/internal error; full Chapter4 not inspected; no absence inference and no exactly-three conflation. S027: read-only original provenance reattempt; no access enum upgrade. Official thesis metadata readable but 137-page original linked PDF HTTP403, Chapter4/Remark4.3.11 inaccessible. S028 2026-10-12 read-only check: Royal Holloway full original thesis Chapter4/Remark4.3.11 not authenticated; current fetch error/earlier HTTP403. S029 fresh full original Royal Holloway PDF request returned tool internal error, not a freshly observed HTTP403; Chapter4/Remark4.3.11 unread. Earlier403 remains historical."
+    },
+    {
+      "id": "SRC-0014",
+      "title": "Combinatorica article on k-th Davenport constants of rank-two groups",
+      "year": "2025",
+      "url": "https://link.springer.com/journal/493",
+      "access": "METADATA_ONLY",
+      "accessed": "2026-10-10",
+      "notes": "Exact DOI/authors unverified; inherited pointer only."
+    },
+    {
+      "id": "SRC-0015",
+      "title": "Yiu, The fourth generalized Davenport constant of C5^3",
+      "year": "2026",
+      "url": "https://arxiv.org/abs/2609.04950",
+      "access": "PROOF_INSPECTED",
+      "accessed": "2026-10-12",
+      "notes": "S004 read 13-page v1 written proof (4 Sep2026): author claims D4(C5³)=30, Dk=5k+10 k≥2. Computational premises remain unverified here: M1 final predicate single implementation, M2 repeated according to author. Both downloaded source archives contain five TeX/bibliography files and no code/log/ancillary folder; manifest records exact hash/list. No code run or programme exact computation/certificate. S005 targeted public code/log/certificate searches did not locate a verified artifact; absence from retrieved bundles is not global absence. S006 distinguishes M1 final predicate from author-replicated generators and M2/M3 short-threshold predicates; exact ancillary bytes not verified. S011 M1 singly implemented final three-disjoint predicate still not independently reproduced; M2/M3 predicates distinct and full source/logs unauthenticated. S012 originalv1 source archive downloaded read-only HTTP200, 16680 bytes SHA25699dc658b3381038fe0c7b2f89145c52a9687e185883cf2a6fdcc0cb8860b1e21. Five members are README/TeX/bibliography, no implementation/log/certificate. M1 repeats generators/extensions, not final three-disjoint test. M2s<=6=24/M3s<=7=19 different predicates. No author code execution, no global nonexistence inference. S013 originalv1 abstract/source archive read-only matches S012 16680-byte SHA25699dc658b3381038fe0c7b2f89145c52a9687e185883cf2a6fdcc0cb8860b1e21 and five members; no implementation/log/certificate among retrieved members. M1 repeated generators not final predicate; M2/M3 differ. No code execution or global absence claim. S015 original v1 HTML/abstract read-only; no verified independent final M1 predicate implementation/log/certificate; no global absence inference. S017 originalv1 abstract/HTML machine-input provenance and ancillary pointer read-only, no authenticated independent final M1 predicate/log/certificate obtained. S01316680-byte archive hash historical, NOT freshly rehashed. Generation repeats do not replay final predicate; M2/M3 differ. S018 read original arXiv2609.04950v1 HTML Sections2.3/5.2 headings/abstract; original v1 source gzip endpoint unsupported by web text tool. No independent FINAL M1 three-disjoint predicate implementation/log/certificate authenticated or executed; historical S013 source hash not freshly recomputed. S019 original v1 HTML read-only accessible, independent terminal M1 three-disjoint predicate code/log/certificate NOT authenticated; S013 archive hash historical. S020 original Yiu v1 HTML read-only, final independent M1 predicate/logs/certificates unauthenticated (S013 digest historical). S022 original arXiv v1 HTML inspected; independent FINAL M1 code/logs/certificates not authenticated, historical S013 TeX archive not M1. S023 original arXiv v1 HTML primary inspected read-only; final M1 independently replayable third-party predicate/log/certificates unavailable, original author says independent generator but single terminal test. Intermediate 98622/230983 are NOT terminal M1 certification; M2/M3 distinct. S024 original v1 HTML explicitly reports M1 duplicate generator 98622/230983 without rerun final three-disjoint predicate; M2/M3 distinct, independent terminal M1 log/cert not accessed. Source-stated exact Dk(C2³)=2k+3 k≥2, not new programme proof. S025: original Yiu2026v1 M2 external independently recomputed s_{<=6}(C5³)=24 (not programme symbolic); M1 generator counts do NOT certify independently repeated final M1 three-disjoint decision; M3 distinct. S027: read-only original provenance reattempt; no access enum upgrade. Original v1 HTML readable; independent final M1 predicate/log/certificate unauthenticated; M2/M3 different, D2 p5 SOURCE_STATED. S028 2026-10-12 read-only check: original arXiv v1 HTML readable; terminal independent M1 disjoint-triple code/log/certificates still unauthenticated; M2/M3 distinct. S029 original v1 Section2.3 read-only rechecked: 98622/230983 repeated generators do not authenticate independent terminal M1 three-disjoint test, M2/M3 are distinct. No code run/log/certificate authenticated."
+    },
+    {
+      "id": "SRC-0016",
+      "title": "Grinsztajn, An upper bound for the Davenport constant of C_n^3",
+      "year": "2026",
+      "url": "https://github.com/maaxgrin/davenport-cn3-bound",
+      "access": "PROOF_INSPECTED",
+      "accessed": "2026-10-11",
+      "notes": "S004 read all four pages of actual davenport_cn3_bound.pdf. Author main commit 848b081e40ecd769017a6199ebcb4e31fe125483, PDF blob 5a698f1edee8cf0b1fabcb8b865f0fd04617ab0d; SHA256 in S004 source manifest. Ten external axioms inventoried read-only. Algebra/rounding checked; exact published BSP large-prime k-wise proof gap and eta dependencies remain. Conditional Lean was not executed. SOURCE_STATED universal theorem, with separate conditional programme deductions."
+    },
+    {
+      "id": "SRC-0017",
+      "title": "Wang, Disproof of a Conjectured Upper Bound for the Davenport Constant",
+      "year": "2026",
+      "url": "https://arxiv.org/abs/2609.29878",
+      "access": "ABSTRACT_INSPECTED",
+      "accessed": "2026-10-10",
+      "notes": "Primary abstract: unbounded gap D-D* fixed rank >=8; no rank-three implication."
+    },
+    {
+      "id": "SRC-0018",
+      "title": "Tao optimization problems page: Davenport constant for C_n^3",
+      "year": "2026",
+      "url": "https://teorth.github.io/optimizationproblems/constants/53a.html",
+      "access": "SECONDARY_ONLY",
+      "accessed": "2026-10-10",
+      "notes": "Tao/optimization problem secondary summary consulted to find Grinsztajn; primary author README/Lean source separately inspected as SRC-0016. Secondary description alone not a mathematical certificate."
+    },
+    {
+      "id": "SRC-0019",
+      "title": "Bhowmik–Schlage-Puchta, Davenport's constant for groups of the form Z3⊕Z3⊕Z3d (original PDF mirror)",
+      "year": "2007",
+      "url": "https://www.mathematik.uni-rostock.de/storages/uni-rostock/Alle_MNF/Mathematik/Struktur/Lehrstuehle/Algebra/papers/Davenport333d.pdf",
+      "access": "PROOF_INSPECTED",
+      "accessed": "2026-10-11",
+      "notes": "Duplicate identifier for the identical primary PDF SRC-0008; stable ID retained. Selected Prop.1/8 written proofs inspected. Full auxiliary diagrammatic cases not independently closed. Superscript D³ means at most three. S012 D3=15,D4=18 subscript multiwise stays distinct from superscript at-most-three threshold17; no full diagrammatic proof upgrade. S013 subscript15/18 distinguished from superscript at-most-three17; diagrams not fully reconstructed."
+    },
+    {
+      "id": "SRC-0020",
+      "title": "Aleen Sheikh, The Davenport Constant of Finite Abelian Groups (doctoral thesis)",
+      "year": "2017",
+      "url": "https://pure.royalholloway.ac.uk/en/publications/the-davenport-constant-of-finite-abelian-groups/",
+      "access": "STATEMENT_INSPECTED",
+      "accessed": "2026-10-12",
+      "notes": "Original university-indexed Chapter4 opening and Remark4.3.11 p.41 inspected; full thesis PDF/file variants HTTP403, full Chapter4 NOT read. Remark concerns exactly-three-free length16 assertion on BSP p.19; its example has a zero-sum pair and does not refute the distinct at-most-three-free Proposition8 step. SRC-0013 and SRC-0020 identify the same thesis. S011 fresh official PDF HTTP403, no Chapter4 access, exactly-three-free distinct from at-most-three-free. S012 fresh official full thesis HTTP403; later exactly-three warning cannot be substituted for at-most-three premise. S013 fresh HTTP403; no full Chapter4 access; exactly-three-free is distinct. S015 official 137p original PDF HTTP403, Chapter4 inaccessible; distinct new attempt. S017 fresh official original full thesis web retrieval HTTP403, separate session record; no source access upgrade. S019 new official 137p full-thesis PDF request HTTP403 Forbidden, full Chapter4 not newly inspected. S020 official original Sheikh full thesis HTTP403; Chapter4/Remark4.3.11 unavailable. S022 fresh official 137-page thesis PDF HTTP403, not full proof access. S023 fresh full thesis original HTTP403; no new Chapter4 access or absent-proof inference. S024 official PDF click and direct link inaccessible/internal error; full Chapter4 not inspected; no absence inference and no exactly-three conflation. S027: read-only original provenance reattempt; no access enum upgrade. Official thesis metadata readable but 137-page original linked PDF HTTP403, Chapter4/Remark4.3.11 inaccessible. S028 2026-10-12 read-only check: Royal Holloway full original thesis Chapter4/Remark4.3.11 not authenticated; current fetch error/earlier HTTP403. S029 fresh full original Royal Holloway PDF request returned tool internal error; no new full-proof inspection or access-enum upgrade."
+    },
+    {
+      "id": "SRC-0021",
+      "title": "Bhowmik–Schlage-Puchta, Davenport’s constant for groups with large exponent (publisher offprint)",
+      "year": "2012",
+      "url": "https://pro.univ-lille.fr/fileadmin/user_upload/pages_pros/gautami_bhowmik/Publications/large_exponent.pdf",
+      "access": "PROOF_INSPECTED",
+      "accessed": "2026-10-12",
+      "notes": "Published Contemporary Mathematics 579 pp.21–31, DOI10.1090/conm/579/11515. Selected rank-three proofs pp.22–24,28–30 inspected. Thm1.2(3) includes p≥7. Lem2.1 statement (3p−1)/2 versus proof 3(p−1)/2, Lem2.3 omitted rank3 proof; p7 Lem5.2 cases not closed. Definitive version replaces draft as proof target. S005 independently finds on printed p.29 that 2(6,1)+(1,6)+(1,0)=(0,1) mod7, not a zero sum; p7 case unresolved. S006 confirms that one invalid printed p7 contradiction has a valid restricted replacement CLM-0075; all other cases and stronger coefficient unclosed. S011 CLM-0083 now independently proves ONLY the downstream six-line doubly repeated x+y in <z> geometric existence inference; next forbidden doubled triple (1,0),(0,1),(2,2) and t1/2/4 remain unproved. S012 definitive pp22–23/29–30 re-read. Complete new Lem5.2 hand proof CLM-0084–0087. Printed false sum still false; exact stronger coefficient remains unproved; rank-three averaging audited only conditional on original rank-two eta/Property C. S013 complete S012 Lem5.2 preserved. Rank-two eta independently proved; rank-three plane argument now conditional on Property B via complete B=>C implication. Stronger 3(p−1)/2 coefficient still unproved. S022 closes historical eta7≤116 by CLM-0087/0091/0111; stronger BSP Lem2.1 split coefficient and general rank-three omitted Lem2.3 remain unproved and unnecessary here. S023 definitive original publisher offprint printed pp22–24 page images and text directly re-inspected. CLM-0113 proves split-only odd-prime (3p−1)/2 (p7=10), not 3(p−1)/2 (p7=9). CLM-0114 symbolic p3 15-term counterexample invalidates the stronger all-prime SHORT-extraction auxiliary. This does not disprove the original multiwise Lem2.3 bound or p≥7 strengthening. Rank-three proof omitted in publisher source; first essential original prerequisite still unclosed. No source access promotion. S024 definitive pp22–24 rechecked: printed all-prime Lem2.3 rank3 FALSE at p2,k19 (RHS37.5 vs elementary D19≥38); d4 FALSE at p2,k25 (RHS49.5 vs D25≥50). Different weaker multiwise recurrence valid with source-stated short extraction, odd-p strong coefficient not proved. No erratum/priority determination. S025: definitive original 2012 pp22–24 four-polynomial Chevalley–Warning odd-prime rank3 p-or-3p argument and weaker L=(3p−1)/2 independently reconstructed WITH source-stated Olson D1 input; stronger odd p>=7 omitted rank3 multiwise coefficient not proved. S026 read definitive publisher source pp22–24 again: CLM-0122 is a new programme incidence consequence of S025’s scoped CW extraction and Olson rank3 D1 SOURCE_STATED; the source does not assert this new >=4 block lemma. Strong p>=7 coefficient and omitted rank3 proof still not closed. S027: read-only original provenance reattempt; no access enum upgrade. Publisher pp22-24 directly checked, new CLM-0123 not source claim. S028 2026-10-12 read-only check: definitive original publisher pp22-24 read; strong coefficient remains unsupported by inspected short-extraction split; rank3 Lem2.3 proof omitted. S029: original definitive offprint printed pp22–24 rechecked, including p23 image. Internal three-group-polynomial all-support deletion proof CLM-0125/0126 is not attributed to source; stronger printed split and omitted rank3 Lem2.3 remain unproved. S030 2026-10-12 direct original publisher PDF pp22–24, page-image p23 re-read: weak printed bound, stronger unsupported proof line, omitted rank3 Lem2.3 remain distinct. New CLM-0127/0128 use CW method but are INTERNAL, not claims of original paper. No access category change."
+    },
+    {
+      "id": "SRC-0022",
+      "title": "Schmid, The inverse problem associated to the Davenport constant for C2 ⊕ C2 ⊕ C2n, and applications to the arithmetical characterization of class groups",
+      "year": "2011",
+      "url": "https://www.combinatorics.org/ojs/index.php/eljc/article/download/v18i1p33/pdf/",
+      "access": "PROOF_INSPECTED",
+      "accessed": "2026-10-11",
+      "notes": "Published E-JC18 P33. Thm4.1 p.27 gives D(C6²⊕C6t)=D* for every t≥1, hence D(C6³)=16. Proof pp.27–29 inspected, depends on structural Thm3.13 and omitted subsum cases. Intro corroborates older exact 2p^a and 3·2^a families. SOURCE_STATED exact result, not full programme proof. S012 original Thm4.1(2) n6=16 statement rechecked; source-exact not whole historic proof certified. S013 original Thm4.1(2) n6=16 statement rechecked; whole historic proof not certified."
+    },
+    {
+      "id": "SRC-0023",
+      "title": "van Emde Boas, A combinatorial problem on finite abelian groups II (ZW007)",
+      "year": "1969",
+      "url": "https://ir.cwi.nl/pub/7240/7240D.pdf",
+      "access": "PROOF_INSPECTED",
+      "accessed": "2026-10-11",
+      "notes": "Original report: Theorem4.2 printed pp.33–35 / PDF35–37, Cor4.3 printed35/PDF37 gives D=D* for rank3 doubled p-groups. Selected proof and cited Thm2.8 ν input inspected; entire original proof chain not independently reconstructed. S012 originalII Cor4.3 rank-three2p^a exact-family statement rechecked for n6,10,14,18,22,26, historical long proof not rebuilt. S013 original II exact2p^a source family retained; no whole historical proof certification."
+    },
+    {
+      "id": "SRC-0024",
+      "title": "Gao–Hou–Schmid–Thangadurai, On Short Zero-Sum Subsequences II",
+      "year": "2007",
+      "url": "https://doi.org/10.5281/zenodo.8281159",
+      "access": "PROOF_INSPECTED",
+      "accessed": "2026-10-12",
+      "notes": "Integers7 A21, journal-linked archival PDF. Thm1.7 p.4 gives eta(Cn³)=8n−7 for n=3^a5^b. Selected proof pp.16–17 via Prop5.5/5.6 inspected: computational base s(C5³)=37 and PropertyD. No program execution/certification; eta5=33 remains source theorem. S005 identifies published pp.16–17 original full code/output pointer http://www.combinatorics.net.cn/homepage/hou/C53.html, which could not be inspected. S006 C53.html original full code and output remain uninspected. S011 original C53.html code and output remain unauthenticated and unexecuted. S012 original Prop5.6 and printed historical C53.html code/output pointer read; current resolved source inaccessible, authentic original code AND output uninspected. No execution. S013 fresh original Prop5.6 pp16–17 read; original HTTPS C53 code/output request timed out; neither authenticated nor executed. S015 original C53.html URL inaccessible; code and output uninspected/unexecuted. S017 original C53.html HTTP locator resolves HTTPS and is inaccessible via web tool; neither complete CODE nor OUTPUT authenticated/executed. S018 original printed historical C53.html URL https://www.combinatorics.net.cn/homepage/hou/C53.html could not be opened in web tool; complete historical code AND output still uninspected, not executed. S019 original full C53.html CODE AND OUTPUT requested read-only, web route inaccessible, not executed. S020 GHST original C53.html complete code/output inaccessible, unexecuted. S022 original C53.html full code AND output inaccessible and unexecuted. S023 original GHST Theorem1.7 independently inspected read-only as historical eta(C3³)=17; original C53.html purported complete author code and output remain inaccessible and UNEXECUTED. No mathematical computational certification. S024 original C53.html read-only access again failed, complete author code and output not inspected and NOT EXECUTED. S027: read-only original provenance reattempt; no access enum upgrade. Original C53 code AND output inaccessible; NOT RUN. S028 2026-10-12 read-only check: author original C53 code/output endpoint not accessible; not run. S029 original author C53 code/output endpoint request returned tool internal error; full code and output uninspected, NEVER RUN."
+    },
+    {
+      "id": "SRC-0025",
+      "title": "Christian Reiher, A proof of the theorem according to which every prime number possesses property B",
+      "year": "2010",
+      "url": "https://www.math.uni-rostock.de/math/pub/preprints/preprint/2010/pre10_01.pdf",
+      "access": "PROOF_INSPECTED",
+      "accessed": "2026-10-12",
+      "notes": "Original 29-page Reiher thesis/paper; title/abstract and printed p.27 consulted. Establishes prime Property B and expressly invokes Gao–Geroldinger Theorem10.7 for B⇒C, giving every prime Property C. Full proof chain and that separate original theorem not independently reconstructed in S005. S006 reads theorem10.2 and printed p27 B⇒C citation, not full dependency proof. S012 original29-page Rostock PDF downloaded/read Thm10.2 and required Lem7.2/9.2/9.6, Cor2.5, Props5.1/6.2/8.1/10.1 statements and selected proofs. Strategic-equation/geometric prerequisites remain without complete independent proof. S013 required original dependency nodes read; FIRST remaining unconditional input Property B through Lem7.2 / unrebuilt Prop4.1 strategic equations, Cor2.5/Obs7.1. No full programme proof. S014: independently proved required Obs2.2/Lem2.3/Cor2.5/Obs2.6/Prop4.1/Obs7.1/Lem7.2 package in CLM-0094–0097; full Thm10.2 four-support proof unrebuilt, next Prop5.1. Original PDF page images directly read; S013 PDF hash not recomputed. S015 independently reconstructed exact Lem3.1/Prop3.3/Prop5.1 printed pp7–9,13–14 including p5; no fresh PDF hash and no full Property B upgrade. S016 read printed original pp14–15 directly; independently hand-proved only Lem6.1/Prop6.2 CLM-0101/0102 incl p5. Prop8.1/Section9/Prop10.1 unproved; original PDF not freshly rehashed. S017 fresh original29-page PDF downloaded289379 bytes SHA2567d94931bcbf8fb4ce77c0ed94206659df74e8cb5543e1615e7dde23e86b994d8; printed pp17–18 directly inspected (p17 visual display). Only Proposition8.1 independently reconstructed CLM-0103 incl p5. Section9/Prop10.1 and full Property B remain unproved. S018 independently reconstructed original printed Section9 Observation9.1 (p18–19) and Lemma9.2 (p19–20) via original 29-page PDF web-rendered source incl page screenshots. Corrected omitted dependent-X,Y basis case and printed mistaken 'Observation10.1' -> earlier Observation9.1, exact pair relabellings; CLM-0104/0105. No new binary download/hash; S017 digest historical. Further 9.4/9.5/9.6 and Prop10.1 remain unproved. S019 primary 29-page PDF pages printed20–23 rendered visually; original n>=5 vs faulty n>5 extractor, internal 9.6 references 10.4/10.2(g) corrected; CLM-0106–0108 independently hand-proved. S019 PDF binary download DNS failure; no fresh digest, S017 hash historical. Prop10.1/universal B still unproved. S020 original printed24–26 page images independently reconstruct ONLY Proposition10.1 CLM-0109 with quartic W, factorial and both auxiliary deleted-index checks incl p5. Theorem10.2 not reconstructed; no fresh PDF hash, S017 historical only. S021 independently checked original Theorem10.2 printed page26, Lemma9.2 pp19-20, p2/p3 pp6-7, suspicious/cloudy p3. All exact dependencies reconstructed CLM-0110, rank TWO. No new PDF hash or rank-three conclusion; Property C Section11 not yet independently discharged. S022 original printed pp26–27 visual proof/corollary inspected; CLM-0111 source-supported, no new PDF binary/hash."
+    },
+    {
+      "id": "SRC-0026",
+      "title": "Gao–Geroldinger, On Long Minimal Zero-Sum Sequences in Finite Abelian Groups",
+      "year": "1999",
+      "url": "https://doi.org/10.1023/A:1004854508165",
+      "access": "PROOF_INSPECTED",
+      "accessed": "2026-10-11",
+      "notes": "S010 lawful author-uploaded original full 33-page article readable at ResearchGate Weidong Gao profile, Theorem10.7 proof printed pp206–208 and Lemma10.6 printed pp204–206 visually inspected. Original DOI 10.1023/A:1004854508165. Access PROOF_INSPECTED, not independently PROGRAMME_PROVED; underlying Lem4.3.2/4.3.3/10.6, Cor10.5 and Property B chain not completely re-proved. See research/S010_SOURCE_PROOF_VERIFICATION.md §3. S011 directly revisited original 1999 proof and hand-checked conditional final t-subset three-distinct-x exclusion only; earlier Lem4.3, Cor10.5, Lem10.6 inputs remain unproved, no B=>C independent verification. S012 ResearchGate original locator returned body/access limitations (direct HTTP403); coauthor official publications page independently identifies author-hosted original https://geroldinger-0836a9.gitlab.io/38.long-minimal-zero-sequences.pdf . Full33-page scan HTTP200, 1147605 bytes, SHA256 a60f6192235fa25ac9161dbb689032de1c67d0d8684e3c703cb469f8681ee42f. Actual printed pp185,203–208 visually read/OCR crosschecked. Lem4.3(2)/(3) still imports original external inputs. Actual terminal condition is sum1 OR constantly1 OR constantlym-1; new CLM-0088 completes only that conditional implication, not all GG/Reiher prerequisites. S013 complete independently proved rank-two Lem4.3 prerequisites, specific Cor10.5(2), Lem10.6 and B=>C implication under explicit Property B in CLM-0089–0093. Unconditional Reiher Property B not reconstructed; CLM-0082 SOURCE_STATED preserved. Fresh original author scan hash matches S012. S022 composed independently proved S013 original Theorem10.7 conditional B=>C with S021 B; no fresh original scan/hash."
+    },
+    {
+      "id": "SRC-0027",
+      "title": "Olson, A combinatorial problem on finite Abelian groups II",
+      "year": "1969",
+      "url": "https://doi.org/10.1016/0022-314X(69)90037-7",
+      "access": "METADATA_ONLY",
+      "accessed": "2026-10-11",
+      "notes": "GG1999 original Ol2 bibliography pp185,210 and primary publisher metadata authenticate identity. Full-PDF endpoint HTTP200 returned195-byte Site Unavailable HTML, not original paper. Required rank-two extraction independently proved CLM-0089; no original Olson full-proof inspection."
+    },
+    {
+      "id": "SRC-0028",
+      "title": "Gao, On a combinatorial problem connected with factorizations",
+      "year": "1997",
+      "url": "https://matwbn.icm.edu.pl/ksiazki/cm/cm72/cm7225.pdf",
+      "access": "PROOF_INSPECTED",
+      "accessed": "2026-10-11",
+      "notes": "Original GG1999 Ga4 bibliography and journal volume listing/DOI10.4064/cm-72-2-251-268 authenticate original18-page PDF. Lemmas5–7 pp253–255 inspected; Lem7 supplies large proper zero block conditional on D(H⊕Cn²), at H=Cp,n=p imports rank-three p-group identity. General proof not independently certified; exact rank-two required consequence independently proved CLM-0091."
+    },
+    {
+      "id": "SRC-0029",
+      "title": "Sze Chun Yiu, The fourth generalized Davenport constant of C_5^3",
+      "year": "2026",
+      "url": "https://arxiv.org/abs/2609.04950",
+      "access": "ABSTRACT_INSPECTED",
+      "accessed": "2026-10-14",
+      "notes": "ArXiv abstract dated 2026-09-04 states D_k(C5³)=5k+10 for every k>=2, including D2=20 and machine-assisted D3=25, D4=30. Abstract-only observation, no independent proof/computation/cold rerun. Used solely as SOURCE_STATED conditional premise for CLM-0236; does not promote historical SRC-0015 or old sources."
+    },
+    {
+      "id": "SRC-0030",
+      "title": "Optimization-problems constants table, entry 53a: Davenport constant for C_n^3 (teorth.github.io)",
+      "year": "2026",
+      "url": "https://teorth.github.io/optimizationproblems/constants/53a.html",
+      "access": "SECONDARY_ONLY",
+      "accessed": "2026-10-16",
+      "notes": "S103 web page observed directly: records 3(n-1)+1 <= D(C_n^3) <= 4n-P(n)-2 (P(n) largest primary component of n), attributed to SRC-0031, and earlier Zakarczemny/CMMPT bounds. Gives D(C15^3)<=53, D(C20^3)<=73, weaker than recorded 45/59. No exact n15/n20 value stated. Secondary aggregator; not a proof source."
+    },
+    {
+      "id": "SRC-0031",
+      "title": "M. Grinsztajn, An upper bound for the Davenport constant of C_n^3 (proof PDF, GitHub repository maaxgrin/davenport-cn3-bound)",
+      "year": "2026",
+      "url": "https://github.com/maaxgrin/davenport-cn3-bound/blob/main/davenport_cn3_bound.pdf",
+      "access": "METADATA_ONLY",
+      "accessed": "2026-10-16",
+      "notes": "Known only via SRC-0030 citation; PDF not inspected in S103. Claimed bound D(C_n^3)<=4n-P(n)-2 does not improve n15/n20 frontier rows. Not used as a premise."
+    },
+    {
+      "id": "SRC-0032",
+      "title": "D. Han, H. Zhang, Davenport Constants of Finite Abelian Groups, arXiv:2610.15102",
+      "year": "2026",
+      "url": "https://arxiv.org/abs/2610.15102",
+      "access": "ABSTRACT_INSPECTED",
+      "accessed": "2026-10-16",
+      "notes": "Abstract (submitted 2026-10-10) states D(G) < 4.86 exp(G) log|G|/log exp(G) for all finite abelian G and D(G)~D*(G) for almost all G. No exact C15^3 / C20^3 value in abstract. Context only; not used as a premise."
+    },
+    {
+      "id": "SRC-0033",
+      "title": "D. J. Grynkiewicz, A Multiplicative Property for Zero-Sums II, Electron. J. Combin. 29(3) (2022) P3.12",
+      "year": "2022",
+      "url": "https://www.combinatorics.org/ojs/index.php/eljc/article/download/v29i3p12/pdf",
+      "access": "STATEMENT_INSPECTED",
+      "accessed": "2026-10-17",
+      "notes": "Inspected introduction text states D(C_n + C_mn) = mn+n-1 and eta(C_n + C_mn) = mn+2n-2 for rank at most two, citing Olson, van Emde Boas-Kruyswijk and Geroldinger-Halter-Koch Theorem 5.8.3. Used as SOURCE_STATED support for CLM-0352 only; the classical proofs were not re-inspected in S106."
+    },
+    {
+      "id": "SRC-0034",
+      "title": "A. Geroldinger, W. Yang, On a classical zero-sum invariant, arXiv:2608.19090",
+      "year": "2026",
+      "url": "https://arxiv.org/pdf/2608.19090",
+      "access": "STATEMENT_INSPECTED",
+      "accessed": "2026-10-17",
+      "notes": "Inspected text states d*(G) <= d(G), D*(G) <= D(G) = d(G)+1, 'Equality holds for p-groups and for groups with rank r <= 2.' Secondary support for CLM-0352; no rank-three statement used."
+    }
+  ]
+}

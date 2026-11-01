@@ -49,3 +49,7 @@ Environment: Python 3.12.10, numpy 1.26.4, Windows 11, i7-11800H (16 logical CPU
 ## S113 — lemma tests (evidence only)
 
 - `test_s113.py`: arithmetic tests of the S113 hand-proved lemmas (CLM-0380..0383) over integers and multiplicity patterns only. It checks the Theorem A constructions for all coprime odd pairs up to 401, brute-forces the (3,5)/(3,7) exceptions and the n = 20 system, compares five-valued survivors with `route_sieve.py` for pq ≤ 65, and checks the Theorem B/C witnesses. It takes about 35 s and writes `sessions/S113/S113_LEMMA_TESTS.json`.
+
+## S114 — image/profile prototype (NOT campaign-ready)
+
+`tools/zsf/image_profile.py` enumerates prime-field RREF image maps, combines squarefree CRT columns, and checks coefficient boxes by meet in the middle. `python -X utf8 -I sessions/S114/validate.py` reproduces independent profiles, settled tests and a bounded timing sample. It has no target-search CLI, no mod4 enumerator and no tested resume harness. See S114 note for scope and missing gate obligations.

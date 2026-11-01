@@ -597,3 +597,11 @@ Algorithm A at n=20 ran at ≈ 0.1 s per pair under 14-way contention, against a
    - **Lesson:** counting over routes is exhausted on these families. Further progress needs D₂(C_a³) ≤ 4a−2 at the leftover level, which is false in its unrestricted form for a = 3, 5 (CLM-0373), or else image-level arguments.
 2. **D₂ lever.** It never acts at support 5, since every survivor has R_a = 4a−2 < 5a−3.
 3. **Process.** A background exploration was stopped with a command-line pattern kill (`pkill -f`). That matched and ended the calling shell itself; no other process was affected and no output from it is used. This broke the standing rule to resolve PIDs explicitly before a kill. **Lesson:** stop background jobs through the harness or by explicit PID, never by pattern.
+
+## S114 — direct image product is too large; local tests are not sufficient
+
+1. The exact raw product is 86,683,877,280 pairs per n15 profile. Cost scenarios are not measured target rates; permutation group sizes are not exact orbit divisors. Require quantified pruning before a laptop campaign.
+2. Pure CRT-component box checks are necessary only; g,-g at n6 with multiplicity1 refutes sufficiency. Use coupled coefficient labels.
+3. A single complete enumerator plus several candidate checkers does not independently validate coverage. Do not pass a target campaign gate on this basis.
+4. First-version literature can be stale: Wang v4 strengthens the threshold to rank5; GWY v2 is dated27 October. Preserve versions and prior source objects.
+5. Read-only source output initially hit Windows cp1252 encoding; subsequent inspection explicitly used UTF-8. No mathematical output was lost. Web PDF failures were resolved by pinned in-memory extraction, without retained PDF copies.

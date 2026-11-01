@@ -1,6 +1,6 @@
 # Claims
 
-S004 synchronized catalogue. CLM-0001 through CLM-0037 retain inherited provenance and stay quarantined. SOURCE_STATED does not mean PROGRAMME_PROVED; conditional deductions explicitly retain their external assumptions. No claim is COMPUTED_EXACT or FORMALLY_CERTIFIED.
+Historical S004 introduction (current totals: 390 claims; 316 PROGRAMME_PROVED, 30 SOURCE_STATED, 7 COMPUTED_EXACT, 37 INHERITED_UNVERIFIED; none FORMALLY_CERTIFIED). CLM-0001 through CLM-0037 retain inherited provenance and stay quarantined. SOURCE_STATED does not mean PROGRAMME_PROVED; conditional deductions explicitly retain their external assumptions. At S004 no claim was COMPUTED_EXACT or FORMALLY_CERTIFIED; later scoped computations are recorded below.
 
 ## CLM-0001 — INHERITED_UNVERIFIED
 
@@ -1835,3 +1835,21 @@ Both rest on two independent same-executor exhaustive algorithms with full cover
 - **CLM-0383 PROGRAMME_PROVED.** Formula for the forced number of values: k*(n) = 5 + [n even] + [n ∈ {15, 20, 21}] for odd n = p^a q^b and for n = 4p. In general, k*(n) ≥ max over routes of 4 + ⌈2/(a−1)⌉.
 
 [S113 note](../research/S113_CLOSED_FORM_ROUTE_THEOREMS.md) · [consolidation review](../research/S111_CONSOLIDATION_REVIEW.md). Claims 378→383. There is no SAT20/SAT15 or D-value statement, and the frontier is unchanged.
+
+## S114 — fixed-profile image reduction and source refresh
+
+**CLM-0384 (PROGRAMME_PROVED)** — For n>=2 and k>=r, every distinct labelled k-list in C_n^r admits a generating refinement with contained relation kernel, preserving zero-sumfreeness for each fixed positive profile, distinctness, and divisibility of original orders into refined orders. Thus existence for each fixed full-order profile is equivalent to generating existence. See [S114 proof](../research/S114_IMAGE_FEASIBILITY.md).
+
+**CLM-0385 (PROGRAMME_PROVED)** — For squarefree n, component rank-r RREF matrices give unique left-GL representatives of generating k-labelled images, counted by the product of Gaussian binomials. At n15,k6,r3 there are 86,683,877,280 unfiltered pairs per profile. At q=p^e the free row summand count is p^((e-1)r(k-r))*[k choose r]_p; n20,k7 has 15,496,778,518,695,936 unfiltered pairs per profile. See [S114 proof](../research/S114_IMAGE_FEASIBILITY.md).
+
+**CLM-0386 (PROGRAMME_PROVED)** — For squarefree n=pq, any zero in the mod-p image q*g_i with multiplicities floor(alpha_i/q) lifts to a global box zero, and likewise for mod q. Both pure-component necessary tests together are insufficient: in C6^3, (0,0,1),(0,0,5) with multiplicities (1,1) pass both and sum to zero. Minimum possible length for nonzero terms. See [S114 proof](../research/S114_IMAGE_FEASIBILITY.md).
+
+**CLM-0387 (SOURCE_STATED)** — Wang v4 Theorem3.6 states D(F)-D*(F)>=m for F=C_m^(r-4)+C_3m^3+C_6m, r>=5,m>=2. Theorem6.4 states D(G)<=16 rank(G) exp(G)/5 for nontrivial finite abelian G. See [source matrix](../sessions/S114/LITERATURE.md).
+
+**CLM-0388 (SOURCE_STATED)** — Geroldinger-Wang-Yang v2 Theorem1.1 states nu(C2^3+C2n)=d=d* for odd n>=3, and nu=d-1 otherwise; Theorem1.2 gives further r=5,6 cases. These concern the missing-sums invariant, not SAT15/SAT20. See [source matrix](../sessions/S114/LITERATURE.md).
+
+**CLM-0389 (SOURCE_STATED)** — Liu v1 Theorem1.1 states D(H+C2^r)=D*(H+C2^r)+(D(H)-1)log2(r)+O_H(1) for fixed nontrivial odd p-group H, and Theorem1.2 gives exact intervals for C3+C2^r. See [source matrix](../sessions/S114/LITERATURE.md).
+
+**CLM-0390 (SOURCE_STATED)** — Han-Zhang v1 Theorem1.1 states D(G)<4.86 exp(G) log|G|/log exp(G) for nontrivial finite abelian G, and Theorem1.3 gives D(G)~D*(G) for almost all groups under its order-counting model. See [source matrix](../sessions/S114/LITERATURE.md).
+
+Claims **383 -> 390**: three internal proved reductions/counterexample lemmas and four source-stated records. All prior claim objects/statuses remain unchanged; CLM-0378 is independently rechecked, not relabelled.
